@@ -4,7 +4,6 @@ Global AI Governance and Policy Research Center, EPINOVA LLC
 AI governance · systemic risk · infrastructure · policy intelligence
 
 ## Overview
-AI governance · systemic risk · infrastructure · policy intelligence
 
 This repository tracks EPINOVA publications synchronized from ORCID and structured for GitHub-based research management.
 
