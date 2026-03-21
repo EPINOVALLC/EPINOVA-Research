@@ -1,5 +1,7 @@
 # EPINOVA Research
-Global AI Governance and Policy Research Center
+Global AI Governance and Policy Research Center, EPINOVA LLC
+
+AI governance · systemic risk · infrastructure · policy intelligence
 
 ## Overview
 AI governance · systemic risk · infrastructure · policy intelligence
