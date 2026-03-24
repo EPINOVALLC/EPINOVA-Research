@@ -19,6 +19,9 @@ This repository tracks EPINOVA publications synchronized from ORCID and structur
 
 ### Reports / Policy Briefs
 
+- **Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict** (2026-03-24) — report
+  https://doi.org/10.5281/zenodo.19210001
+
 - **Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold** (2026-03-20) — report
   https://doi.org/10.5281/zenodo.19138941
 
@@ -39,9 +42,6 @@ This repository tracks EPINOVA publications synchronized from ORCID and structur
 
 - **Escalation Dynamics in IRGC's Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework** (2026-03-04) — report
   https://doi.org/10.5281/zenodo.18869403
-
-- **Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)** (2026-03-03) — report
-  https://doi.org/10.5281/zenodo.18843799
 
 ### Working Papers
 
