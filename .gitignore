@@ -1,14 +1,17 @@
-~$*.docx
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Office temporary files
+# =========================
+~$*
+
+# =========================
+# Temporary / backup files
+# =========================
 *.tmp
 *.bak
-Thumbs.db
-.DS_Store
-# Office temp files
-~$*.docx
-~$*.pptx
-~$*.xlsx
-
-# Temporary files
-*.tmp
-.git/
-.gitignore
+*.log
