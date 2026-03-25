@@ -72,7 +72,7 @@ This repository tracks EPINOVA publications synchronized from ORCID and structur
 ---
 ## Data Source
 - ORCID: 0009-0008-0660-8232
-- Generated from `all_publications.json`
+- Zenodo: https://zenodo.org/communities/epinova-ai-governance
 
 ## Platforms
 - Website: https://epinova.org
