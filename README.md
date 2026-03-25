@@ -2,7 +2,7 @@
 
 **Global AI Governance and Policy Research Center, EPINOVA LLC**
 
-AI governance · systemic risk · infrastructure · policy intelligence
+AI governance · Systemic Risk · Infrastructure · Policy Intelligence
 
 ---
 
@@ -86,8 +86,7 @@ EPINOVA research focuses on:
 
 ## Contact
 
-contactus@epinova.org
-epinovallc@gmail.com
+**Email:** contactus@epinova.org | epinovallc@gmail.com
 
 ## Note on Data and Reproducibility
 
