@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict](https://doi.org/10.5281/zenodo.19223652)** (2026-03-25)
+
 - **[Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict](https://doi.org/10.5281/zenodo.19210001)** (2026-03-24)
 
 - **[Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold](https://doi.org/10.5281/zenodo.19138941)** (2026-03-20)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks](https://doi.org/10.5281/zenodo.18896559)** (2026-03-06)
 
 - **[The U.S.–Iran War and East Asia's Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific](https://doi.org/10.5281/zenodo.18894857)** (2026-03-06)
-
-- **[Escalation Dynamics in IRGC's Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework](https://doi.org/10.5281/zenodo.18869403)** (2026-03-04)
 
 ### Working Papers
 
