@@ -2,7 +2,7 @@
 
 **Global AI Governance and Policy Research Center, EPINOVA LLC**
 
-AI governance · systemic risk · infrastructure · policy intelligence
+AI governance · Systemic Risk · Infrastructure · Policy Intelligence
 
 ---
 
@@ -11,19 +11,19 @@ AI governance · systemic risk · infrastructure · policy intelligence
 This repository serves as the **research evidence layer** for EPINOVA publications.
 
 It provides structured access to selected outputs, including:
-- policy reports and working papers
-- conceptual frameworks and white books
-- supporting materials for external dissemination
+- policy reports and working papers;
+- conceptual frameworks and white books;
+- supporting materials for external dissemination.
 
 Full datasets, model parameters, and internal analytical pipelines are **not publicly released**.
 
 ## Research Focus
 
 EPINOVA research focuses on:
-- AI governance and regulatory frameworks
-- systemic risk and escalation dynamics
-- infrastructure-centered strategic analysis
-- policy intelligence and cross-domain integration
+- AI governance and regulatory frameworks;
+- systemic risk and escalation dynamics;
+- infrastructure-centered strategic analysis;
+- policy intelligence and cross-domain integration.
 
 ## Latest Publications
 
