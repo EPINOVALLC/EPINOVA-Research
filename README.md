@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System](https://doi.org/10.5281/ZENODO.19238746)** (2026-03-26)
+
 - **[Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict](https://doi.org/10.5281/zenodo.19223652)** (2026-03-25)
 
 - **[Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict](https://doi.org/10.5281/zenodo.19210001)** (2026-03-24)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Narrative Underperformance in the First Week of the U.S.–Israel–Iran War](https://doi.org/10.5281/zenodo.18904461)** (2026-03-07)
 
 - **[The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks](https://doi.org/10.5281/zenodo.18896559)** (2026-03-06)
-
-- **[The U.S.–Iran War and East Asia's Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific](https://doi.org/10.5281/zenodo.18894857)** (2026-03-06)
 
 ### Working Papers
 
