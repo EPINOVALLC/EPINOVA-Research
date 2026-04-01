@@ -37,6 +37,10 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict](https://doi.org/10.5281/zenodo.19375571)** (2026-04-01)
+
+- **[Israel's Strategic Options and U.S. Rebalancing under Dual-Theater Constraints](https://doi.org/10.5281/zenodo.19298296)** (2026-03-28)
+
 - **[From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/zenodo.19261831)** (2026-03-27)
 
 - **[Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System](https://doi.org/10.5281/zenodo.19238745)** (2026-03-26)
@@ -48,10 +52,6 @@ EPINOVA research focuses on:
 - **[Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold](https://doi.org/10.5281/zenodo.19138941)** (2026-03-20)
 
 - **[Post-Nodal Warfare: Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?](https://doi.org/10.5281/zenodo.19104089)** (2026-03-18)
-
-- **[Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/zenodo.19027187)** (2026-03-14)
-
-- **[Narrative Underperformance in the First Week of the U.S.–Israel–Iran War](https://doi.org/10.5281/zenodo.18904461)** (2026-03-07)
 
 ### Working Papers
 
