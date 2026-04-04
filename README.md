@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning](https://doi.org/10.5281/zenodo.19420590)** (2026-04-04)
+
 - **[From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System](https://doi.org/10.5281/zenodo.19411097)** (2026-04-03)
 
 - **[If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict](https://doi.org/10.5281/zenodo.19375571)** (2026-04-01)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict](https://doi.org/10.5281/zenodo.19223652)** (2026-03-25)
 
 - **[Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict](https://doi.org/10.5281/zenodo.19210001)** (2026-03-24)
-
-- **[Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold](https://doi.org/10.5281/zenodo.19138941)** (2026-03-20)
 
 ### Working Papers
 
