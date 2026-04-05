@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield](https://doi.org/10.5281/zenodo.19432714)** (2026-04-06)
+
 - **[From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning](https://doi.org/10.5281/zenodo.19420590)** (2026-04-04)
 
 - **[From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System](https://doi.org/10.5281/zenodo.19411097)** (2026-04-03)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System](https://doi.org/10.5281/zenodo.19238745)** (2026-03-26)
 
 - **[Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict](https://doi.org/10.5281/zenodo.19223652)** (2026-03-25)
-
-- **[Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict](https://doi.org/10.5281/zenodo.19210001)** (2026-03-24)
 
 ### Working Papers
 
