@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints](https://doi.org/10.5281/zenodo.19444570)** (2026-04-06)
+
 - **[What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield](https://doi.org/10.5281/zenodo.19432714)** (2026-04-06)
 
 - **[From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning](https://doi.org/10.5281/zenodo.19420590)** (2026-04-04)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/zenodo.19261831)** (2026-03-27)
 
 - **[Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System](https://doi.org/10.5281/zenodo.19238745)** (2026-03-26)
-
-- **[Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict](https://doi.org/10.5281/zenodo.19223652)** (2026-03-25)
 
 ### Working Papers
 
