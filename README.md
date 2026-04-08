@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
+
 - **[Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment](https://doi.org/10.5281/zenodo.19464641)** (2026-04-08)
 
 - **[Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints](https://doi.org/10.5281/zenodo.19444570)** (2026-04-06)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict](https://doi.org/10.5281/zenodo.19375571)** (2026-04-01)
 
 - **[Israel's Strategic Options and U.S. Rebalancing under Dual-Theater Constraints](https://doi.org/10.5281/zenodo.19298296)** (2026-03-28)
-
-- **[From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/zenodo.19261831)** (2026-03-27)
 
 ### Working Papers
 
