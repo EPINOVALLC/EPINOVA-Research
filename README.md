@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare](https://doi.org/10.5281/ZENODO.19520723)** (2026-04-11)
+
 - **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
 
 - **[Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment](https://doi.org/10.5281/zenodo.19464641)** (2026-04-08)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System](https://doi.org/10.5281/zenodo.19411097)** (2026-04-03)
 
 - **[If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict](https://doi.org/10.5281/zenodo.19375571)** (2026-04-01)
-
-- **[Israel's Strategic Options and U.S. Rebalancing under Dual-Theater Constraints](https://doi.org/10.5281/zenodo.19298296)** (2026-03-28)
 
 ### Working Papers
 
