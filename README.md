@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework](https://doi.org/10.5281/ZENODO.19550886)** (2026-04-13)
+
 - **[U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare](https://doi.org/10.5281/ZENODO.19520723)** (2026-04-11)
 
 - **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning](https://doi.org/10.5281/zenodo.19420590)** (2026-04-04)
 
 - **[From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System](https://doi.org/10.5281/zenodo.19411097)** (2026-04-03)
-
-- **[If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict](https://doi.org/10.5281/zenodo.19375571)** (2026-04-01)
 
 ### Working Papers
 
