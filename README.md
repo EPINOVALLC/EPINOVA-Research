@@ -39,6 +39,8 @@ EPINOVA research focuses on:
 
 - **[Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint](https://doi.org/10.5281/ZENODO.19562154)** (2026-04-14)
 
+- **[From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz](https://doi.org/10.5281/ZENODO.19568379)** (2026-04-14)
+
 - **[From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework](https://doi.org/10.5281/ZENODO.19550886)** (2026-04-13)
 
 - **[Governing Fragmentation: Jurisdictional Competition and China's Counter-Extraterritoriality Framework](https://doi.org/10.5281/ZENODO.19560359)** (2026-04-13)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment](https://doi.org/10.5281/zenodo.19464641)** (2026-04-08)
 
 - **[Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints](https://doi.org/10.5281/zenodo.19444570)** (2026-04-06)
-
-- **[What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield](https://doi.org/10.5281/zenodo.19432714)** (2026-04-06)
 
 ### Working Papers
 
