@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis](https://doi.org/10.5281/ZENODO.19632808)** (2026-04-17)
+
 - **[Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint](https://doi.org/10.5281/ZENODO.19562154)** (2026-04-14)
 
 - **[From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz](https://doi.org/10.5281/ZENODO.19568379)** (2026-04-14)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
 
 - **[Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment](https://doi.org/10.5281/zenodo.19464641)** (2026-04-08)
-
-- **[Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints](https://doi.org/10.5281/zenodo.19444570)** (2026-04-06)
 
 ### Working Papers
 
