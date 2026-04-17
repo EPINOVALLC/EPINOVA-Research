@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk](https://doi.org/10.5281/ZENODO.19633889)** (2026-04-17)
+
 - **[From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis](https://doi.org/10.5281/ZENODO.19632808)** (2026-04-17)
 
 - **[Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint](https://doi.org/10.5281/ZENODO.19562154)** (2026-04-14)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare](https://doi.org/10.5281/ZENODO.19520723)** (2026-04-11)
 
 - **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
-
-- **[Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment](https://doi.org/10.5281/zenodo.19464641)** (2026-04-08)
 
 ### Working Papers
 
