@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50](https://doi.org/10.5281/ZENODO.19645873)** (2026-04-18)
+
 - **[China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk](https://doi.org/10.5281/ZENODO.19633889)** (2026-04-17)
 
 - **[From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis](https://doi.org/10.5281/ZENODO.19632808)** (2026-04-17)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[Governing Fragmentation: Jurisdictional Competition and China's Counter-Extraterritoriality Framework](https://doi.org/10.5281/ZENODO.19560359)** (2026-04-13)
 
 - **[U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare](https://doi.org/10.5281/ZENODO.19520723)** (2026-04-11)
-
-- **[Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint](https://doi.org/10.5281/zenodo.19476665)** (2026-04-09)
 
 ### Working Papers
 
