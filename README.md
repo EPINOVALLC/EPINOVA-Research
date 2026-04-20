@@ -31,11 +31,13 @@ EPINOVA research focuses on:
 
 ### White Books
 
-- **[AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book](https://doi.org/10.5281/zenodo.18452802)** (2026-01-30)
+- **[AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book](https://doi.org/10.5281/zenodo.18452803)** (2026-01-30)
 
 - **[Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book](https://doi.org/10.5281/zenodo.18050662)** (2025-12-24)
 
 ### Reports / Policy Briefs
+
+- **[Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/ZENODO.19665929)** (2026-04-20)
 
 - **[Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50](https://doi.org/10.5281/ZENODO.19645873)** (2026-04-18)
 
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework](https://doi.org/10.5281/ZENODO.19550886)** (2026-04-13)
 
 - **[Governing Fragmentation: Jurisdictional Competition and China's Counter-Extraterritoriality Framework](https://doi.org/10.5281/ZENODO.19560359)** (2026-04-13)
-
-- **[U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare](https://doi.org/10.5281/ZENODO.19520723)** (2026-04-11)
 
 ### Working Papers
 
@@ -69,7 +69,23 @@ EPINOVA research focuses on:
 
 - **[The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater](https://doi.org/10.5281/zenodo.18893891)** (2026-03-06)
 
-- **[Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems](https://doi.org/10.5281/zenodo.18654118)** (2026-02-16)
+- **[Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability](https://doi.org/10.5281/zenodo.18081107)** (2025-12-29)
+
+### Other
+
+- **[Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems](https://doi.org/10.5281/zenodo.18654119)** (2026-02-16)
+
+- **[Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States](https://doi.org/10.5281/zenodo.18572133)** (2026-02-09)
+
+- **[When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal](https://doi.org/10.5281/zenodo.18463740)** (2026-02-02)
+
+- **[Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power](https://doi.org/10.5281/zenodo.18261165)** (2026-01-15)
+
+- **[When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic](https://doi.org/10.5281/zenodo.18252768)** (2026-01-15)
+
+- **[Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal](https://doi.org/10.5281/zenodo.18095272)** (2025-10-13)
+
+- **[The principle and state-of-art applications of Gravitational lensing](https://doi.org/10.54254/2753-8818/28/20230406)** (2023-12-26)
 
 ---
 
