@@ -37,6 +37,8 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network](https://doi.org/10.5281/ZENODO.19681411)** (2026-04-21)
+
 - **[Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict](https://doi.org/10.5281/ZENODO.19665929)** (2026-04-20)
 
 - **[Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50](https://doi.org/10.5281/ZENODO.19645873)** (2026-04-18)
@@ -50,8 +52,6 @@ EPINOVA research focuses on:
 - **[From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz](https://doi.org/10.5281/ZENODO.19568379)** (2026-04-14)
 
 - **[From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework](https://doi.org/10.5281/ZENODO.19550886)** (2026-04-13)
-
-- **[Governing Fragmentation: Jurisdictional Competition and China's Counter-Extraterritoriality Framework](https://doi.org/10.5281/ZENODO.19560359)** (2026-04-13)
 
 ### Working Papers
 
