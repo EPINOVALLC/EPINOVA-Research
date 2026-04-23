@@ -37,6 +37,10 @@ EPINOVA research focuses on:
 
 ### Reports / Policy Briefs
 
+- **[Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance](https://doi.org/10.5281/ZENODO.19712135)** (2026-04-23)
+
+- **[Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime](https://doi.org/10.5281/ZENODO.19692504)** (2026-04-22)
+
 - **[Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution](https://doi.org/10.5281/ZENODO.19692046)** (2026-04-22)
 
 - **[Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network](https://doi.org/10.5281/ZENODO.19681411)** (2026-04-21)
@@ -48,10 +52,6 @@ EPINOVA research focuses on:
 - **[China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk](https://doi.org/10.5281/ZENODO.19633889)** (2026-04-17)
 
 - **[From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis](https://doi.org/10.5281/ZENODO.19632808)** (2026-04-17)
-
-- **[Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint](https://doi.org/10.5281/ZENODO.19562154)** (2026-04-14)
-
-- **[From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz](https://doi.org/10.5281/ZENODO.19568379)** (2026-04-14)
 
 ### Working Papers
 
