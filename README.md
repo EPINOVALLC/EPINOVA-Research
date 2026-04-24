@@ -73,6 +73,8 @@ EPINOVA research focuses on:
 
 ### Other
 
+- **[Beyond Theater Effects: Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict](https://doi.org/10.5281/ZENODO.19734514)** (2026-04-24)
+
 - **[Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems](https://doi.org/10.5281/zenodo.18654119)** (2026-02-16)
 
 - **[Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States](https://doi.org/10.5281/zenodo.18572133)** (2026-02-09)
