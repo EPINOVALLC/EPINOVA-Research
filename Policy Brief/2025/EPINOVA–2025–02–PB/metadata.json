@@ -1,11 +1,29 @@
 {
-"title": "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy",
-"title_normalized": "artificial intelligence as national power: implications of the 2025 u.s. national security strategy",
-"date": "2025-12-26",
-"doi": "10.5281/zenodo.18063602",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "201017536",
-"source": "ORCID Public API"
+  "title": "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy",
+  "title_normalized": "artificial intelligence as national power: implications of the 2025 u.s. national security strategy",
+  "date": "2025-12-26",
+  "doi": "10.5281/zenodo.18063602",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "201017536",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9302%E2%80%93PB/Artificial%20Intelligence%20as%20National%20Power%20Implications%20of%20the%202025%20U.S.%20National%20Security%20Strategy.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9302%E2%80%93PB",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

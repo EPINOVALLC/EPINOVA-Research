@@ -1,11 +1,29 @@
 {
-"title": "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic",
-"title_normalized": "when decapitation no longer matters: ai-delegated execution and the potential failure of preemptive strike logic",
-"date": "2026-01-15",
-"doi": "10.5281/zenodo.18252767",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "202494938",
-"source": "ORCID Public API"
+  "title": "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic",
+  "title_normalized": "when decapitation no longer matters: ai-delegated execution and the potential failure of preemptive strike logic",
+  "date": "2026-01-15",
+  "doi": "10.5281/zenodo.18252767",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "202494938",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301/When%20Decapitation%20No%20Longer%20Matters%20AI-Delegated%20Execution%20and%20the%20Potential%20Failure%20of%20Preemptive%20Strike%20Logic%EF%BC%88EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301%EF%BC%89.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

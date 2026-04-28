@@ -1,11 +1,29 @@
 {
-"title": "Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare",
-"title_normalized": "cloud under fire: hyperscale data centers and the rise of cyber-physical warfare",
-"date": "2026-03-09",
-"doi": "10.5281/zenodo.18923620",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "207847927",
-"source": "ORCID Public API"
+  "title": "Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare",
+  "title_normalized": "cloud under fire: hyperscale data centers and the rise of cyber-physical warfare",
+  "date": "2026-03-09",
+  "doi": "10.5281/zenodo.18923620",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "207847927",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Cloud Under Fire.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

@@ -1,11 +1,29 @@
-  {
-    "title": "U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare",
-    "title_normalized": "u.s. defense procurement (jan-apr 2026): ai as the foundation of modern warfare",
-    "date": "2026-04-11",
-    "doi": "10.5281/ZENODO.19520723",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "211424633",
-    "source": "ORCID Public API"
+{
+  "title": "U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare",
+  "title_normalized": "u.s. defense procurement (jan-apr 2026): ai as the foundation of modern warfare",
+  "date": "2026-04-11",
+  "doi": "10.5281/ZENODO.19520723",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "211424633",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "U.S. Defense Procurement (Jan–Apr 2026) AI and the Emerging Foundations of Modern Warfare.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-28/U.S.%20Defense%20Procurement%20%28Jan%E2%80%93Apr%202026%29%20AI%20and%20the%20Emerging%20Foundations%20of%20Modern%20Warfare.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-28",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

@@ -1,11 +1,29 @@
 {
-"title": "Assessing AI Capabilities Across Six Major Countries and Economic Blocs: An Eight-Dimensional Comparative Framework",
-"title_normalized": "assessing ai capabilities across six major countries and economic blocs: an eight-dimensional comparative framework",
-"date": "2026-02-27",
-"doi": "10.5281/zenodo.18802794",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "206925648",
-"source": "ORCID Public API"
+  "title": "Assessing AI Capabilities Across Six Major Countries and Economic Blocs: An Eight-Dimensional Comparative Framework",
+  "title_normalized": "assessing ai capabilities across six major countries and economic blocs: an eight-dimensional comparative framework",
+  "date": "2026-02-27",
+  "doi": "10.5281/zenodo.18802794",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "206925648",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Assessing AI Capabilities Across Six Major Cou.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-07/Assessing%20AI%20Capabilities%20Across%20Six%20Major%20Cou.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-07",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

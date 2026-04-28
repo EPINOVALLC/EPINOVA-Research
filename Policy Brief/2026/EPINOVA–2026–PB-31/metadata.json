@@ -1,11 +1,29 @@
-  {
-    "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
-    "title_normalized": "beyond the gulf: the emergence of a three-channel, threshold-delaying logistics system in iran under sustained geopolitical constraint",
-    "date": "2026-04-14",
-    "doi": "10.5281/ZENODO.19562154",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "211608809",
-    "source": "ORCID Public API"
+{
+  "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
+  "title_normalized": "beyond the gulf: the emergence of a three-channel, threshold-delaying logistics system in iran under sustained geopolitical constraint",
+  "date": "2026-04-14",
+  "doi": "10.5281/ZENODO.19562154",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "211608809",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Beyond the Gulf  The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-31/Beyond%20the%20Gulf%20%20The%20Emergence%20of%20a%20Three-Channel%2C%20Threshold-Delaying%20Logistics%20System%20in%20Iran%20under%20Sustained%20Geopolitical%20Constraint.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-31",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

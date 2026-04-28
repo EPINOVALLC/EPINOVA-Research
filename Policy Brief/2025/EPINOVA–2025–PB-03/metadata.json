@@ -1,11 +1,29 @@
 {
-"title": "From Predictive Control to Robustness: Why Indeterminacy Outperforms Precision in Contested ISR Environments",
-"title_normalized": "from predictive control to robustness: why indeterminacy outperforms precision in contested isr environments",
-"date": "2025-12-31",
-"doi": "10.5281/zenodo.18110855",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "201135159",
-"source": "ORCID Public API"
+  "title": "From Predictive Control to Robustness: Why Indeterminacy Outperforms Precision in Contested ISR Environments",
+  "title_normalized": "from predictive control to robustness: why indeterminacy outperforms precision in contested isr environments",
+  "date": "2025-12-31",
+  "doi": "10.5281/zenodo.18110855",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "201135159",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%93PB-03/From%20predictive%20control%20to%20robustness%20Why%20indeterminacy%20outperforms%20precision%20in%20contested%20ISR%20environments.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%93PB-03",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

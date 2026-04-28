@@ -1,11 +1,29 @@
 {
-"title": "Survivor Governance: Authority Concentration under AI-Driven State Contraction",
-"title_normalized": "survivor governance: authority concentration under ai-driven state contraction",
-"date": "2025-12-20",
-"doi": "10.5281/zenodo.18090197",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "201017623",
-"source": "ORCID Public API"
+  "title": "Survivor Governance: Authority Concentration under AI-Driven State Contraction",
+  "title_normalized": "survivor governance: authority concentration under ai-driven state contraction",
+  "date": "2025-12-20",
+  "doi": "10.5281/zenodo.18090197",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "201017623",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Survivor Governance.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-20/Survivor%20Governance.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-20",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

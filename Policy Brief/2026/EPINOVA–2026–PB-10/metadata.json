@@ -1,11 +1,29 @@
 {
-"title": "The U.S.–Iran War and East Asia's Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific",
-"title_normalized": "the u.s.-iran war and east asia's next strategic test: why the middle east conflict may reshape risk in the western pacific",
-"date": "2026-03-06",
-"doi": "10.5281/zenodo.18894857",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "207645361",
-"source": "ORCID Public API"
+  "title": "The U.S.–Iran War and East Asia's Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific",
+  "title_normalized": "the u.s.-iran war and east asia's next strategic test: why the middle east conflict may reshape risk in the western pacific",
+  "date": "2026-03-06",
+  "doi": "10.5281/zenodo.18894857",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "207645361",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The U.S.–Iran War and East Asia’s Next Strategic Test Why the Middle East Conflict May Reshape Risk in the Western Pacific.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-10/The%20U.S.%E2%80%93Iran%20War%20and%20East%20Asia%E2%80%99s%20Next%20Strategic%20Test%20Why%20the%20Middle%20East%20Conflict%20May%20Reshape%20Risk%20in%20the%20Western%20Pacific.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-10",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

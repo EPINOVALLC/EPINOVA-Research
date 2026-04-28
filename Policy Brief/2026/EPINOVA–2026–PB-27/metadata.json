@@ -1,11 +1,29 @@
-  {
-    "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
-    "title_normalized": "russia-iran northern supply capacity: a three-channel assessment of sustained throughput under constraint",
-    "date": "2026-04-09",
-    "doi": "10.5281/zenodo.19476665",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "211120814",
-    "source": "ORCID Public API"
+{
+  "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
+  "title_normalized": "russia-iran northern supply capacity: a three-channel assessment of sustained throughput under constraint",
+  "date": "2026-04-09",
+  "doi": "10.5281/zenodo.19476665",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "211120814",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Russia–Iran Northern Supply Capacity A Three-Channel Assessment of Sustained Throughput Under Constraint.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-27/Russia%E2%80%93Iran%20Northern%20Supply%20Capacity%20A%20Three-Channel%20Assessment%20of%20Sustained%20Throughput%20Under%20Constraint.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-27",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

@@ -1,11 +1,29 @@
-  {
-    "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
-    "title_normalized": "escalation without collapse: high-pressure systemic equilibrium in the u.s.-israel-iran conflict, days 1-50",
-    "date": "2026-04-18",
-    "doi": "10.5281/ZENODO.19645873",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "212135635",
-    "source": "ORCID Public API"
+{
+  "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+  "title_normalized": "escalation without collapse: high-pressure systemic equilibrium in the u.s.-israel-iran conflict, days 1-50",
+  "date": "2026-04-18",
+  "doi": "10.5281/ZENODO.19645873",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "212135635",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Escalation Without Collapse High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-35/Escalation%20Without%20Collapse%20High-Pressure%20Systemic%20Equilibrium%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%2C%20Days%201%E2%80%9350.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-35",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

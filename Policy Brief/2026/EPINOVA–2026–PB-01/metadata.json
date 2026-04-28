@@ -1,11 +1,29 @@
 {
-"title": "From AI Capabilities to Structural Governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance",
-"title_normalized": "from ai capabilities to structural governance: operationalizing the ai-strategic node index (ai-sni) for practical ai governance",
-"date": "2026-02-02",
-"doi": "10.5281/zenodo.18453093",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "204371356",
-"source": "ORCID Public API"
+  "title": "From AI Capabilities to Structural Governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance",
+  "title_normalized": "from ai capabilities to structural governance: operationalizing the ai-strategic node index (ai-sni) for practical ai governance",
+  "date": "2026-02-02",
+  "doi": "10.5281/zenodo.18453093",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "204371356",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From AI Capabilities to Structural Governance.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-01/From%20AI%20Capabilities%20to%20Structural%20Governance.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-01",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

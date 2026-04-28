@@ -1,11 +1,29 @@
 {
-"title": "Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments",
-"title_normalized": "nonlinear uncertainty in drone warfare: why indeterminacy outperforms precision in contested isr environments",
-"date": "2025-12-31",
-"doi": "10.5281/zenodo.18111065",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "201137811",
-"source": "ORCID Public API"
+  "title": "Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments",
+  "title_normalized": "nonlinear uncertainty in drone warfare: why indeterminacy outperforms precision in contested isr environments",
+  "date": "2025-12-31",
+  "doi": "10.5281/zenodo.18111065",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "201137811",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301/Nonlinear%20Uncertainty%20in%20Drone%20Warfare%20Why%20Indeterminacy%20Outperforms%20Precision%20in%20Contested%20ISR%20Environments.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

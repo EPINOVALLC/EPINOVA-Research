@@ -1,11 +1,29 @@
 {
-"title": "Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict",
-"title_normalized": "terminal platform nodes and narrative competition in the u.s.-israel-iran conflict",
-"date": "2026-03-14",
-"doi": "10.5281/zenodo.19027187",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "208508720",
-"source": "ORCID Public API"
+  "title": "Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict",
+  "title_normalized": "terminal platform nodes and narrative competition in the u.s.-israel-iran conflict",
+  "date": "2026-03-14",
+  "doi": "10.5281/zenodo.19027187",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "208508720",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Terminal Platform Nodes and Narrative Competition in the US-Isreal-Iran Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-13/Terminal%20Platform%20Nodes%20and%20Narrative%20Competition%20in%20the%20US-Isreal-Iran%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-13",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

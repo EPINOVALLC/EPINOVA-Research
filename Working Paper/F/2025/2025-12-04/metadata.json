@@ -1,11 +1,29 @@
 {
-"title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
-"title_normalized": "unmanned algorithmic warfare and human role reconfiguration: an international law perspective",
-"date": "2025-12-29",
-"doi": "10.5281/zenodo.18088850",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "201017305",
-"source": "ORCID Public API"
+  "title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
+  "title_normalized": "unmanned algorithmic warfare and human role reconfiguration: an international law perspective",
+  "date": "2025-12-29",
+  "doi": "10.5281/zenodo.18088850",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "201017305",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-04/Unmanned%20Algorithmic%20Warfare%20and%20Human%20Role%20Reconfiguration.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-04",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

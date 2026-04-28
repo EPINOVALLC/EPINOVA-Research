@@ -1,11 +1,29 @@
 {
-"title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal",
-"title_normalized": "when ai infrastructure is optional but governance lock-in is not: an ai-sni local governance diagnostic of the temple (ga) data center proposal",
-"date": "2026-02-02",
-"doi": "10.5281/zenodo.18463739",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "204490745",
-"source": "ORCID Public API"
+  "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal",
+  "title_normalized": "when ai infrastructure is optional but governance lock-in is not: an ai-sni local governance diagnostic of the temple (ga) data center proposal",
+  "date": "2026-02-02",
+  "doi": "10.5281/zenodo.18463739",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "204490745",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301/When%20AI%20Infrastructure%20Is%20Optional%20but%20Governance%20Lock-In%20Is%20Not.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

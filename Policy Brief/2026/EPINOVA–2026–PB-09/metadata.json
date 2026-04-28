@@ -1,11 +1,29 @@
 {
-"title": "Escalation Dynamics in IRGC's Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
-"title_normalized": "escalation dynamics in irgc's operation true promise: interpreting the conflict through an escalation ladder framework",
-"date": "2026-03-04",
-"doi": "10.5281/zenodo.18869403",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "207416476",
-"source": "ORCID Public API"
+  "title": "Escalation Dynamics in IRGC's Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+  "title_normalized": "escalation dynamics in irgc's operation true promise: interpreting the conflict through an escalation ladder framework",
+  "date": "2026-03-04",
+  "doi": "10.5281/zenodo.18869403",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "207416476",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Escalation Dynamics in IRGC’s Operation True Promise Interpreting the Conflict through an Escalation Ladder Framework.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-09/Escalation%20Dynamics%20in%20IRGC%E2%80%99s%20Operation%20True%20Promise%20Interpreting%20the%20Conflict%20through%20an%20Escalation%20Ladder%20Framework.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-09",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

@@ -1,11 +1,29 @@
 {
-"title": "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power",
-"title_normalized": "greenland as a structural ai strategic node: perception integrity, temporal dominance, and the arctic reconfiguration of algorithmic power",
-"date": "2026-01-15",
-"doi": "10.5281/zenodo.18261164",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "202586718",
-"source": "ORCID Public API"
+  "title": "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power",
+  "title_normalized": "greenland as a structural ai strategic node: perception integrity, temporal dominance, and the arctic reconfiguration of algorithmic power",
+  "date": "2026-01-15",
+  "doi": "10.5281/zenodo.18261164",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "202586718",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9301/Greenland%20as%20a%20Structural%20AI%20Strategic%20Node%EF%BC%88EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9301%EF%BC%89.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9301",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

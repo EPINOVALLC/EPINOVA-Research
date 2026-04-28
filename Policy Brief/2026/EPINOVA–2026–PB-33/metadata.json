@@ -1,11 +1,29 @@
-  {
-    "title": "From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis",
-    "title_normalized": "from beneficiary to burden carrier: china's structural exposure in the strait of hormuz crisis",
-    "date": "2026-04-17",
-    "doi": "10.5281/ZENODO.19632808",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "212033596",
-    "source": "ORCID Public API"
+{
+  "title": "From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis",
+  "title_normalized": "from beneficiary to burden carrier: china's structural exposure in the strait of hormuz crisis",
+  "date": "2026-04-17",
+  "doi": "10.5281/ZENODO.19632808",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "212033596",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Beneficiary to Burden Carrier China’s Structural Exposure in the Strait of Hormuz Crisis.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-33/From%20Beneficiary%20to%20Burden%20Carrier%20China%E2%80%99s%20Structural%20Exposure%20in%20the%20Strait%20of%20Hormuz%20Crisis.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-33",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

@@ -1,11 +1,29 @@
-  {
-    "title": "From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict",
-    "title_normalized": "from compensation to strategic amplification: iran's reparations claims in the u.s.-israel-iran conflict",
-    "date": "2026-03-27",
-    "doi": "10.5281/zenodo.19261831",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "209942602",
-    "source": "ORCID Public API"
+{
+  "title": "From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict",
+  "title_normalized": "from compensation to strategic amplification: iran's reparations claims in the u.s.-israel-iran conflict",
+  "date": "2026-03-27",
+  "doi": "10.5281/zenodo.19261831",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "209942602",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-19/From%20Compensation%20to%20Strategic%20Amplification%20Iran%E2%80%99s%20Reparations%20Claims%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-19",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

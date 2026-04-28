@@ -1,11 +1,29 @@
 {
-    "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
-    "title_normalized": "permanent presence under uncertainty: a partially observable game-theoretic framework for unmanned systems, cost-frequency dynamics, and strategic stability",
-    "date": "2025-12-29",
-    "doi": "10.5281/zenodo.18081107",
-    "author": "Wu, Shaoyuan",
-    "type": "working-paper",
-    "category": "working-papers",
-    "put_code": "201017438",
-    "source": "ORCID Public API"
+  "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+  "title_normalized": "permanent presence under uncertainty: a partially observable game-theoretic framework for unmanned systems, cost-frequency dynamics, and strategic stability",
+  "date": "2025-12-29",
+  "doi": "10.5281/zenodo.18081107",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "201017438",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Permanent Presence under Uncertainty.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-29/Permanent%20Presence%20under%20Uncertainty.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-29",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

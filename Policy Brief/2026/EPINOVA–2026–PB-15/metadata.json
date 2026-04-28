@@ -1,11 +1,29 @@
 {
-"title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
-"title_normalized": "seizing kharg island: u.s. operational superiority and the risk of crossing the loss-of-control threshold",
-"date": "2026-03-20",
-"doi": "10.5281/zenodo.19138941",
-"author": "Wu, Shaoyuan",
-"type": "report",
-"category": "reports",
-"put_code": "209147270",
-"source": "ORCID Public API"
+  "title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
+  "title_normalized": "seizing kharg island: u.s. operational superiority and the risk of crossing the loss-of-control threshold",
+  "date": "2026-03-20",
+  "doi": "10.5281/zenodo.19138941",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "209147270",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Seizing Tarik Island U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-15/Seizing%20Tarik%20Island%20U.S.%20Operational%20Superiority%20and%20the%20Risk%20of%20Crossing%20the%20Loss-of-Control%20Threshold.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-15",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

@@ -1,11 +1,29 @@
-  {
-    "title": "From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning",
-    "title_normalized": "from regional power to network node: iran's post-war trajectory and strategic positioning",
-    "date": "2026-04-04",
-    "doi": "10.5281/zenodo.19420590",
-    "author": "Wu, Shaoyuan",
-    "type": "report",
-    "category": "reports",
-    "put_code": "210720887",
-    "source": "ORCID Public API"
+{
+  "title": "From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning",
+  "title_normalized": "from regional power to network node: iran's post-war trajectory and strategic positioning",
+  "date": "2026-04-04",
+  "doi": "10.5281/zenodo.19420590",
+  "author": "Wu, Shaoyuan",
+  "type": "report",
+  "category": "reports",
+  "put_code": "210720887",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-23/From%20Regional%20Power%20to%20Network%20Node%20Iran%E2%80%99s%20Post-War%20Trajectory%20and%20Strategic%20Positioning.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-23",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
   }
+}

@@ -1,11 +1,29 @@
 {
-"title": "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework",
-"title_normalized": "single-/few-human-ai firms and single-/few-human-ai-robot firms: new archetypes under the mmc framework",
-"date": "2025-11-15",
-"doi": "10.5281/zenodo.18088667",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "201017750",
-"source": "ORCID Public API"
+  "title": "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework",
+  "title_normalized": "single-/few-human-ai firms and single-/few-human-ai-robot firms: new archetypes under the mmc framework",
+  "date": "2025-11-15",
+  "doi": "10.5281/zenodo.18088667",
+  "author": "Wu, Shaoyuan",
+  "type": "working-paper",
+  "category": "working-papers",
+  "put_code": "201017750",
+  "source": "ORCID Public API",
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "SFHAF and SFHARF New Archetypes under the MMC Framework.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-11-15/SFHAF%20and%20SFHARF%20New%20Archetypes%20under%20the%20MMC%20Framework.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-11-15",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "references": [],
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  }
 }

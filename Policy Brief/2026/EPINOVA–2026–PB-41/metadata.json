@@ -1,0 +1,192 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-041",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict",
+  "title_normalized": "energy endurance under systemic shock: divergent survival pathways in east asia during the u.s.–israel–iran conflict",
+  "publication_date": "2026-04-25",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "10.5281/zenodo.19770272",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-041/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "10.5281/zenodo.19770272",
+      "scheme": "DOI",
+      "description": "Previous Zenodo DOI reserved or assigned before Crossref migration"
+    }
+  ],
+  "description": "This policy brief examines energy endurance under systemic shock and compares divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. It focuses on the structural exposure, energy import dependence, reserve-release behavior, and resilience differences among Japan, South Korea, and Taiwan under conditions of geopolitical disruption and regional energy pressure.",
+  "abstract": "This policy brief examines how systemic shock in the U.S.–Israel–Iran conflict affects energy endurance in East Asia. Using Japan, South Korea, and Taiwan as comparative cases, the brief analyzes oil and natural gas dependence, reserve-release behavior, supply vulnerability, and differentiated resilience pathways. It argues that energy endurance is not determined solely by import volume, but by the interaction among strategic reserves, diversification capacity, institutional response speed, and exposure to systemic maritime and geopolitical risk.",
+  "keywords": [
+    "energy security",
+    "energy endurance",
+    "systemic shock",
+    "East Asia",
+    "Japan",
+    "South Korea",
+    "Taiwan",
+    "oil reserves",
+    "natural gas",
+    "U.S.–Israel–Iran conflict",
+    "strategic resilience",
+    "public policy",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Energy security",
+    "International relations",
+    "Public policy",
+    "Systemic risk",
+    "Strategic resilience"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-25",
+      "type": "Issued",
+      "description": "First public release on EPINOVA."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41/Energy%20Endurance%20Under%20Systemic%20Shock%20Divergent%20Survival%20Pathways%20in%20East%20Asia%20During%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19645873",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on high-pressure systemic equilibrium"
+    }
+  ],
+  "references": [
+    "Worldometer. (2026). Japan Natural Gas. https://www.worldometers.info/zh/天然气/日本-天然气/",
+    "Worldometer. (2026). Japan Oil. https://www.worldometers.info/zh/石油/日本-石油/",
+    "Worldometer. (2026). South Korea Natural Gas. https://www.worldometers.info/zh/天然气/韩国-天然气/",
+    "Worldometer. (2026). South Korea Oil. https://www.worldometers.info/zh/石油/韩国-石油/",
+    "Worldometer. (2026). Taiwan Natural Gas. https://www.worldometers.info/zh/天然气/台湾-天然气/",
+    "Worldometer. (2026). Taiwan Oil. https://www.worldometers.info/zh/石油/台湾-石油/",
+    "Xinhua News Agency. (2026, March 17). South Korea to release strategic petroleum reserves amid energy pressure. https://www.news.cn/world/20260317/136fbeb1979448e5b4d72bd1bface8c8/c.html",
+    "Xinhua News Agency. (2026, April 24). Japan announces additional petroleum reserve release. https://www.news.cn/world/20260424/4a3cbae35b7e4e6d96f94b4f94afba17/c.html",
+    "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50. Policy Brief No. EPINOVA–2026–PB–35. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+    "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-041. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Energy endurance under systemic shock: Divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-041. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": ""
+  },
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-041/",
+    "crossref_doi_suffix": "epinova.pb.2026.041",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  }
+}
