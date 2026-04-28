@@ -1,0 +1,247 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-042",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure",
+  "subtitle": "Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply",
+  "title_normalized": "beyond hormuz: iran’s ten-corridor logistics adaptation under blockade pressure",
+  "publication_date": "2026-04-28",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-042/",
+  "official_page": "https://epinova.org/policy-brief-2",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    }
+  ],
+  "description": "This policy brief examines Iran’s reported ten-corridor logistics adaptation under blockade pressure. It analyzes how alternative land-sea corridors, Caspian shipping, Central Asian rail connectivity, air replenishment routes, and residual Hormuz/Persian Gulf movement combine into a multi-domain, threshold-delaying supply system.",
+  "abstract": "This policy brief assesses Iran’s reported plan to develop ten distinct alternative trade corridors under blockade pressure. It argues that the plan should not be understood as a replacement for the Persian Gulf and Strait of Hormuz logistics system, but as a distributed resilience strategy designed to preserve minimum viable flows. Because Iran has not released a full corridor-by-corridor list, the brief reconstructs a plausible ten-corridor framework based on public reporting, geography, trade patterns, and observed logistics behavior. It further shows that Iran’s adaptation extends beyond land and sea routes: air connectivity adds a high-value replenishment layer, while residual movement through a degraded but not fully sealed Hormuz/Persian Gulf window preserves limited maritime flow. The brief concludes that Iran’s ten-corridor adaptation does not end the blockade problem; it turns it into a long-duration contest of logistics friction.",
+  "keywords": [
+    "Iran",
+    "Strait of Hormuz",
+    "Persian Gulf",
+    "Caspian Sea",
+    "Central Asian rail",
+    "China–Central Asia rail",
+    "China Railway Express",
+    "logistics adaptation",
+    "trade corridors",
+    "blockade pressure",
+    "maritime security",
+    "supply resilience",
+    "threshold-delaying supply",
+    "friction management",
+    "systemic risk",
+    "strategic resilience",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Maritime security",
+    "Logistics resilience",
+    "Public policy",
+    "Systemic risk",
+    "Strategic competition",
+    "Middle East security"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-28",
+      "type": "Issued",
+      "description": "First public release on EPINOVA."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19476666",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on Russia–Iran northern supply capacity and threshold-delaying sustainment"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19562154",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on Iran’s three-channel, threshold-delaying logistics system"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19681411",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on Caspian logistics disruption and system-level effects"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://www.crexpress.cn/zoblmenu/single-news",
+      "scheme": "URL",
+      "resource_type": "Data source",
+      "description": "China Railway Express data source used for China–Central Asia rail activity indicators"
+    }
+  ],
+  "references": [
+    "China Railway Express. (2026). China–Europe Railway Express Portal: Single news data page. https://www.crexpress.cn/zoblmenu/single-news",
+    "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+    "Wu, Shaoyuan. (2026). Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint. Policy Brief No. EPINOVA–2026–PB–31. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19562154",
+    "Wu, Shaoyuan. (2026). From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz. Policy Brief No. EPINOVA–2026–PB–32. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
+    "Wu, Shaoyuan. (2026). From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis. Policy Brief No. EPINOVA–2026–PB–33. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808",
+    "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50. Policy Brief No. EPINOVA–2026–PB–35. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+    "Wu, Shaoyuan. (2026). Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network. Policy Brief No. EPINOVA–2026–PB–37. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19681411",
+    "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict. EPINOVA Working Paper No. EPINOVA–WP–F–2026–09. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-042. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Beyond Hormuz: Iran’s ten-corridor logistics adaptation under blockade pressure: Caspian shipping, Central Asian rail, and the multi-domain logic of threshold-delaying supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-042. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "10 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Regional System Health Index by Time",
+      "description": "Compares the time-varying SHI of the Caspian System and Persian Gulf System from April 10 to April 28, 2026, using Iran time.",
+      "source": "Author’s monitoring dataset"
+    },
+    {
+      "number": "Figure 2",
+      "title": "China–Central Asia Rail Activity, January–March 2025/2026 (TEU)",
+      "description": "Compares monthly outbound TEU totals for January–March 2025 and 2026.",
+      "source": "Author’s compilation based on China Railway Express data"
+    },
+    {
+      "number": "Figure 3",
+      "title": "Persian Gulf System Monitor, April 9–26, 2026",
+      "description": "Compares estimated daily baseline output in the Persian Gulf system against a historical baseline.",
+      "source": "Author’s Persian Gulf System Monitor dataset"
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Plausible Ten-Corridor Framework under Blockade Pressure",
+      "description": "Analytical reconstruction of ten possible alternative corridors, including route type, primary function, capacity, strategic effect, and confidence level.",
+      "source": "Author’s reconstruction based on public reporting, regional trade geography, author’s Caspian/Persian Gulf monitoring dataset, and China Railway Express data through March 2026"
+    },
+    {
+      "number": "Table 2",
+      "title": "Iran’s Multi-Domain Logistics Adaptation System",
+      "description": "Three-layer 10+2 analytical framework grouping Iran’s adaptation into ten land-sea alternative corridors, air replenishment routes, and residual Hormuz/Persian Gulf flow.",
+      "source": "Author’s analysis based on the reconstructed corridor framework in Table 1 and observed logistics indicators"
+    }
+  ],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-28",
+    "last_updated": "2026-04-28"
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-042/",
+    "crossref_doi_suffix": "epinova.pb.2026.042",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  }
+}
