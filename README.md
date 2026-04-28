@@ -109,6 +109,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-043** (2026-04-28)  
+  **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-43/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43)  
+  File: [`Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf)
+
 - **EPINOVA-PB-2026-042** (2026-04-28)  
   **Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-42/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42)  
@@ -128,11 +133,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-39/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39)  
   File: [`Flow Persistence Under Blockade Systemic Friction and the Emergence of a Porous Maritime Regime.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39/Flow%20Persistence%20Under%20Blockade%20Systemic%20Friction%20and%20the%20Emergence%20of%20a%20Porous%20Maritime%20Regime.pdf)
-
-- **EPINOVA–2026–PB-38** (2026-04-22)  
-  **Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-38/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-38)  
-  File: [`Recovery during Ceasefire A Structured Assessment of U.S., Israel, and Iran Force Reconstitution.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-38/Recovery%20during%20Ceasefire%20A%20Structured%20Assessment%20of%20U.S.%2C%20Israel%2C%20and%20Iran%20Force%20Reconstitution.pdf)
 
 ---
 

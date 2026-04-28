@@ -1,7 +1,7 @@
-Policy Brief/2026/EPINOVA–2026–PB-42/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
-Policy Brief/2026/EPINOVA–2026–PB-42/metadata.json
-repository_files.txt
-tools/update_readme_latest_publications.py
+Policy Brief/2026/EPINOVA–2026–PB-43/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
+Policy Brief/2026/EPINOVA–2026–PB-43/metadata.json
+docs/epinova-pb-2026-042/index.html
+docs/files/epinova-pb-2026-042/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
 .gitignore
 Index White Book/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 Index White Book/2025/IWP–25–01/metadata.json
@@ -95,6 +95,8 @@ Policy Brief/2026/EPINOVA–2026–PB-40/Dynamic Threshold Positioning in U.S.�
 Policy Brief/2026/EPINOVA–2026–PB-40/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-41/Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-41/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-42/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
+Policy Brief/2026/EPINOVA–2026–PB-42/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -284,5 +286,7 @@ docs/who-is-ready-under-renewed-conflict-a-capability-sustainability-assessment-
 docs/who-loses-control-first-threshold-competition-in-the-2026-u-s-israel-iran-conflict/index.html
 docs/why-the-south-institutional-friction-and-the-spatial-reorganization-of-data-center-infrast/index.html
 docs/working-papers/index.html
+repository_files.txt
 tools/generate_landing_pages.py
 tools/update_metadata_links.py
+tools/update_readme_latest_publications.py

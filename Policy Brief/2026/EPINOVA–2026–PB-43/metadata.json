@@ -1,0 +1,278 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-043",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure",
+  "subtitle": "Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply",
+  "title_normalized": "transit of goods through territory of pakistan order 2026: six land routes, third-country goods, and the southeastern bypass of hormuz pressure",
+  "publication_date": "2026-04-28",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-043/",
+  "official_page": "https://epinova.org/policy-brief-2",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    }
+  ],
+  "description": "This policy brief examines Pakistan’s Transit of Goods through Territory of Pakistan Order 2026 as a southeastern logistics adaptation linked to Iran-bound third-country transit under Hormuz pressure. It analyzes six designated land routes, the 6+1+1+2 logistics architecture, potential China–Pakistan rail support, the Iran–Pakistan energy layer, and air–land and sea–land extensions, including a schematic map of the six designated Pakistan–Iran transit corridors.",
+  "abstract": "This policy brief analyzes Pakistan’s Transit of Goods through Territory of Pakistan Order 2026, which designates six Iran-bound transit routes linking Karachi, Port Qasim, and Gwadar with Gabd and Taftan. The brief argues that the order does not replace Iran’s Persian Gulf maritime system, but institutionalizes a southeastern bypass capable of sustaining selective flows under pressure. It interprets the corridor as a 6+1+1+2 architecture: six designated land routes, one potential China–Pakistan rail enabling layer, one Iran–Pakistan energy-infrastructure layer, and two intermodal extensions through air–land and sea–land movement. The analysis treats Pakistan as a third-country transit platform and southeastern logistics switchboard within Iran’s wider threshold-delaying supply system. The brief concludes that the corridor cannot reproduce Hormuz-scale maritime capacity, but can preserve minimum viable flow, support food and basic-goods continuity, maintain selected industrial inputs, and complicate blockade enforcement.",
+  "keywords": [
+    "Pakistan",
+    "Iran",
+    "Transit of Goods through Territory of Pakistan Order 2026",
+    "third-country transit",
+    "Gwadar",
+    "Karachi",
+    "Port Qasim",
+    "Gabd",
+    "Taftan",
+    "Balochistan",
+    "Strait of Hormuz",
+    "Hormuz pressure",
+    "Iran-bound transit routes",
+    "sea–land logistics",
+    "air–land logistics",
+    "China–Pakistan rail",
+    "CPEC",
+    "Iran–Pakistan gas pipeline",
+    "energy connectivity",
+    "supply resilience",
+    "threshold-delaying supply",
+    "logistics adaptation",
+    "friction management",
+    "maritime security",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Maritime security",
+    "Logistics resilience",
+    "Public policy",
+    "Middle East security",
+    "South Asian security",
+    "Strategic competition",
+    "Systemic risk",
+    "Energy security"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-28",
+      "type": "Issued",
+      "description": "First public release on EPINOVA."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the publication"
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://publications.epinova.org/epinova-pb-2026-042/",
+      "scheme": "URL",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief developing the three-layer logistics adaptation model under Hormuz pressure"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19476666",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on Russia–Iran northern supply capacity and constrained throughput methodology"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://www.dawn.com/news/1995253",
+      "scheme": "URL",
+      "resource_type": "News report",
+      "description": "Dawn report on Pakistan notifying six routes for transportation of goods to Iran"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://propakistani.pk/2026/04/27/pakistan-announces-6-land-trade-routes-for-goods-heading-to-iran/",
+      "scheme": "URL",
+      "resource_type": "News report",
+      "description": "ProPakistani report listing six designated Pakistan–Iran transit routes"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://tribune.com.pk/story/2605011/islamabad-allows-transit-trade-to-iran",
+      "scheme": "URL",
+      "resource_type": "News report",
+      "description": "The Express Tribune report on third-country goods transiting Pakistan to Iran"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://www.reuters.com/business/energy/iran-pakistan-gas-pipeline-remains-stalled-under-cloud-sanctions-2024-04-24/",
+      "scheme": "URL",
+      "resource_type": "News report",
+      "description": "Reuters report on the Iran–Pakistan gas pipeline and sanctions constraints"
+    }
+  ],
+  "references": [
+    "Dawn. (2026). Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports. https://www.dawn.com/news/1995253",
+    "ProPakistani. (2026). Pakistan Allows Iran to Import Third-Country Goods via Six Routes. https://propakistani.pk/2026/04/27/pakistan-announces-6-land-trade-routes-for-goods-heading-to-iran/",
+    "The Express Tribune. (2026). Islamabad allows transit trade to Iran. https://tribune.com.pk/story/2605011/islamabad-allows-transit-trade-to-iran",
+    "The Express Tribune. (2026). Govt notifies transit trade framework for goods to Iran. https://tribune.com.pk/story/2604934/pakistan-allows-transit-of-foreign-goods-to-iran-through-its-territory",
+    "Reuters. (2024). Iran-Pakistan gas pipeline remains stalled under cloud of sanctions. https://www.reuters.com/business/energy/iran-pakistan-gas-pipeline-remains-stalled-under-cloud-sanctions-2024-04-24/",
+    "Global Energy Monitor. (2025). Iran-Pakistan Pipeline. https://www.gem.wiki/Iran-Pakistan_Pipeline",
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+    "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-043. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six land routes, third-country goods, and the southeastern bypass of Hormuz pressure: Gwadar, Taftan, Gabd, and the multimodal logic of threshold-delaying supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-043. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "10 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Pakistan–Iran Transit Corridors, 2026",
+      "description": "Schematic map of the six designated Pakistan–Iran transit routes linking Karachi, Port Qasim, and Gwadar with Gabd and Taftan under the Transit of Goods through Territory of Pakistan Order 2026.",
+      "source": "Author’s reconstruction based on Pakistan’s Transit of Goods through Territory of Pakistan Order 2026 and public reporting",
+      "note": "Approximate schematic map for analytical use; not for navigation."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Pakistan’s Six Designated Iran-Bound Transit Routes",
+      "description": "Lists the six designated routes linking Pakistani maritime intake points with Gabd and Taftan, including main nodes, border exits, and primary functions.",
+      "source": "Pakistani reporting on the 2026 transit order, including Dawn and ProPakistani"
+    },
+    {
+      "number": "Table 2",
+      "title": "Pakistan–Iran Southeastern Logistics Architecture",
+      "description": "Analytical 6+1+1+2 architecture including six designated land routes, China–Pakistan rail potential, Iran–Pakistan energy connectivity, and air–land and sea–land extensions.",
+      "source": "Author’s analytical framework based on Pakistani reporting, PB-42’s three-layer model, and public information on China–Pakistan/CPEC rail potential and the Iran–Pakistan gas pipeline"
+    },
+    {
+      "number": "Table 3",
+      "title": "Indicative Route Capacity and Cargo Fit",
+      "description": "Scenario-based estimates of sustained route capacity, annualized range, best cargo fit, and strategic role for the six designated routes.",
+      "source": "Author’s scenario estimates based on the six designated routes, route geography, truck-based throughput assumptions, port–road–border constraints, and EPINOVA PB-27 constrained-capacity methodology"
+    },
+    {
+      "number": "Table 4",
+      "title": "Cargo Types and Corridor Suitability",
+      "description": "Assesses likely cargo categories, modal suitability, and strategic value for Pakistan-based Iran transit.",
+      "source": "Author’s assessment based on route geography, modal suitability, Pakistan’s six designated transit routes, PB-42’s land–sea and air-replenishment distinction, and PB-27’s constrained-capacity logic"
+    },
+    {
+      "number": "Table 5",
+      "title": "Potential Source Countries and Regions for Pakistan-Based Iran Transit",
+      "description": "Identifies plausible source countries and regions for Pakistan-based Iran transit, likely Pakistan entry points, Iran exits, cargo fit, and main constraints.",
+      "source": "Author’s assessment based on the third-country transit logic of the 2026 order, Pakistan’s port and border geography, trade-source compatibility, and sanctions/documentation constraints"
+    }
+  ],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-28",
+    "last_updated": "2026-04-28"
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-043/",
+    "crossref_doi_suffix": "epinova.pb.2026.043",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  }
+}
