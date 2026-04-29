@@ -1,7 +1,7 @@
-Policy Brief/2026/EPINOVA–2026–PB-43/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
-Policy Brief/2026/EPINOVA–2026–PB-43/metadata.json
-docs/epinova-pb-2026-042/index.html
-docs/files/epinova-pb-2026-042/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
+Policy Brief/2026/EPINOVA–2026–PB-44/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
+Policy Brief/2026/EPINOVA–2026–PB-44/metadata.json
+docs/epinova-pb-2026-044/index.html
+docs/files/epinova-pb-2026-044/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
 .gitignore
 Index White Book/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 Index White Book/2025/IWP–25–01/metadata.json
@@ -97,6 +97,8 @@ Policy Brief/2026/EPINOVA–2026–PB-41/Energy Endurance Under Systemic Shock D
 Policy Brief/2026/EPINOVA–2026–PB-41/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-42/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
 Policy Brief/2026/EPINOVA–2026–PB-42/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-43/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
+Policy Brief/2026/EPINOVA–2026–PB-43/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -163,6 +165,8 @@ docs/deterrence-under-cost-pressure-from-overmatch-to-cost-imposition-in-the-u-s
 docs/divergent-war-aims-the-u-s-israel-and-the-strategic-logic-of-divergence-in-the-iran-confli/index.html
 docs/dynamic-threshold-positioning-in-u-s-china-competition-a-phase-resolved-assessment-of-stru/index.html
 docs/epinova-pb-2026-041/index.html
+docs/epinova-pb-2026-042/index.html
+docs/epinova-pb-2026-043/index.html
 docs/escalation-dynamics-in-irgcs-operation-true-promise-interpreting-the-conflict-through-an-e/index.html
 docs/escalation-risk-in-protracted-missile-exchanges-assessing-low-probability-high-impact-dyna/index.html
 docs/escalation-without-collapse-high-pressure-systemic-equilibrium-in-the-u-s-israel-iran-conf/index.html
@@ -183,6 +187,8 @@ docs/files/deterrence-under-cost-pressure-from-overmatch-to-cost-imposition-in-t
 docs/files/divergent-war-aims-the-u-s-israel-and-the-strategic-logic-of-divergence-in-the-iran-confli/Divergent War Aims.pdf
 docs/files/dynamic-threshold-positioning-in-u-s-china-competition-a-phase-resolved-assessment-of-stru/Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf
 docs/files/epinova-pb-2026-041/Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf
+docs/files/epinova-pb-2026-042/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
+docs/files/epinova-pb-2026-043/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
 docs/files/escalation-dynamics-in-irgcs-operation-true-promise-interpreting-the-conflict-through-an-e/Escalation Dynamics in IRGC’s Operation True Promise Interpreting the Conflict through an Escalation Ladder Framework.pdf
 docs/files/escalation-risk-in-protracted-missile-exchanges-assessing-low-probability-high-impact-dyna/Escalation Risk in Protracted Missile Exchanges.pdf
 docs/files/escalation-without-collapse-high-pressure-systemic-equilibrium-in-the-u-s-israel-iran-conf/Escalation Without Collapse High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50.pdf

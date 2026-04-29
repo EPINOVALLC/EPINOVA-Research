@@ -109,6 +109,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-044** (2026-04-29)  
+  **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-44/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44)  
+  File: [`Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44/Caspian%20Logistics%20Shock%20Monitoring%20Russia%E2%80%93Iran%20Supply%20Stress%20after%20the%20Anzali%20Strike.pdf)
+
 - **EPINOVA-PB-2026-043** (2026-04-28)  
   **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-43/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43)  
@@ -128,11 +133,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-40/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40)  
   File: [`Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40/Dynamic%20Threshold%20Positioning%20in%20U.S.%E2%80%93China%20Competition%20A%20Phase-Resolved%20Assessment%20of%20Structural%20Resilience%20and%20LoCT%20Distance.pdf)
-
-- **EPINOVA–2026–PB-39** (2026-04-22)  
-  **Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-39/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39)  
-  File: [`Flow Persistence Under Blockade Systemic Friction and the Emergence of a Porous Maritime Regime.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39/Flow%20Persistence%20Under%20Blockade%20Systemic%20Friction%20and%20the%20Emergence%20of%20a%20Porous%20Maritime%20Regime.pdf)
 
 ---
 
