@@ -201,7 +201,17 @@ def load_article_archive_records() -> list[dict]:
         title = item.get("title") or item.get("expected_title") or "Untitled Article"
         publication_date = item.get("date") or item.get("publication_date") or ""
         folder_value = item.get("folder") or ""
-        folder_name = Path(folder_value).name if folder_value else f"{publication_date}_{normalize_slug(title)[:80]}"
+
+        # Cloudflare builds on Linux, while articles_archive_index.json may
+        # contain Windows absolute paths such as:
+        # D:\...\EPINOVA-Research\Articles\2026-04-21_xxx
+        # pathlib.Path(...).name does NOT treat backslashes as separators on Linux.
+        # Therefore normalize backslashes before extracting the final folder name.
+        if folder_value:
+            folder_name = Path(str(folder_value).replace("\\", "/")).name
+        else:
+            folder_name = f"{publication_date}_{normalize_slug(title)[:80]}"
+
         if not folder_name:
             folder_name = normalize_slug(title)[:80] or "untitled-article"
         if folder_name in seen_folders:
@@ -263,6 +273,8 @@ def copy_article_archive_files(article_records: list[dict]) -> None:
     if failed_index.exists():
         shutil.copy2(failed_index, target_root / ARTICLE_ARCHIVE_FAILED_INDEX_NAME)
 
+    copied_count = 0
+
     for meta in article_records:
         folder_value = meta.get("_article_source_folder", "") or ""
         folder_name = meta.get("_article_folder_name", "") or ""
@@ -294,6 +306,9 @@ def copy_article_archive_files(article_records: list[dict]) -> None:
             target_dir,
             ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__"),
         )
+        copied_count += 1
+
+    print(f"Copied archived article folders: {copied_count}/{len(article_records)}")
 
 
 def first_creator(meta: dict) -> str:
