@@ -263,22 +263,25 @@ def copy_article_archive_files(article_records: list[dict]) -> None:
     if failed_index.exists():
         shutil.copy2(failed_index, target_root / ARTICLE_ARCHIVE_FAILED_INDEX_NAME)
 
-    for meta in article_records:
-        folder_name = meta.get("_article_folder_name", "")
-        folder_value = meta.get("_article_source_folder", "")
-        source_dir = Path(folder_value) if folder_value else source_root / folder_name
-        if not source_dir.is_absolute():
-            source_dir = ROOT / source_dir
-        if not source_dir.exists():
-            source_dir = source_root / folder_name
-        target_dir = target_root / folder_name
-        if not source_dir.exists() or not source_dir.is_dir():
-            print(f"Warning: archived article folder not found: {source_dir}")
-            continue
-        if target_dir.exists():
-            shutil.rmtree(target_dir)
-        shutil.copytree(source_dir, target_dir, ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__"))
+        for meta in article_records:
+            folder_value = meta.get("_article_source_folder", "")
+            folder_name = Path(folder_value).name if folder_value else meta.get("_article_folder_name", "")
 
+            source_dir = source_root / folder_name
+            target_dir = target_root / folder_name
+
+            if not source_dir.exists() or not source_dir.is_dir():
+                print(f"Warning: archived article folder not found: {source_dir}")
+                continue
+
+            if target_dir.exists():
+                shutil.rmtree(target_dir)
+
+            shutil.copytree(
+                source_dir,
+                target_dir,
+                ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__")
+            )
 
 def first_creator(meta: dict) -> str:
     creators = meta.get("creators", [])
