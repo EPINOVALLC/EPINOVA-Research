@@ -1,0 +1,340 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-021",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-021",
+  "title": "If the United States Suddenly Withdraws",
+  "subtitle": "Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict",
+  "title_normalized": "if the united states suddenly withdraws: systemic shock, proxy amplification, and strategic realignment in the middle east conflict",
+  "publication_date": "2026-04-01",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19375572",
+  "previous_doi": "10.5281/zenodo.19375571",
+  "landing_page": "https://doi.org/10.5281/zenodo.19375572",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19375572",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19375571",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "210471471",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–21",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "If the United States Suddenly Withdraws",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes a counterfactual scenario in which the United States suddenly withdraws from the ongoing Middle East conflict. It argues that withdrawal would not terminate hostilities, but would function as a systemic trigger that removes the primary escalation-regulating actor, activates proxy amplification dynamics, and accelerates strategic realignment across regional and global security systems.",
+  "abstract": "A sudden U.S. withdrawal from the ongoing Middle East conflict would not terminate hostilities but instead initiate a structural transformation of the conflict system. Rather than producing de-escalation, withdrawal would trigger a systemic shock by removing the primary mechanism of escalation regulation, thereby redistributing pressure across actors and domains. This shock would activate proxy amplification, transforming the conflict into a distributed and persistent network. Over time, these dynamics would consolidate into strategic realignment characterized by pluralized influence structures, alliance fragmentation, and increased uncertainty in global security commitments. The brief concludes that withdrawal functions not as an endpoint, but as a systemic inflection point with enduring implications for regional order and global power perception.",
+  "keywords": [
+    "U.S. withdrawal",
+    "Middle East conflict",
+    "Systemic shock",
+    "Proxy amplification",
+    "Strategic realignment",
+    "Shock-Amplification-Realignment framework",
+    "SAR framework",
+    "Middle East Conflict Cost Monitor",
+    "MCCM",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Networked conflict",
+    "Escalation regulation",
+    "Cost diffusion",
+    "Global shock cost",
+    "Alliance spillover",
+    "Cross-theater effects",
+    "Strategic credibility",
+    "Information dynamics",
+    "Policy brief",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Security studies",
+    "Middle East conflict",
+    "Strategic studies",
+    "Conflict escalation",
+    "Proxy warfare",
+    "Alliance politics",
+    "NATO cohesion",
+    "Indo-Pacific security",
+    "Conflict economics",
+    "Information conflict",
+    "Systemic warfare",
+    "Policy analysis",
+    "AI-enabled warfare and governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-01",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-01",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-01",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early ORCID-derived metadata record created"
+    },
+    {
+      "date": "2026-05-02",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA-2026-PB-21/If%20the%20United%20States%20Suddenly%20Withdraws%20Systemic%20Shock%2C%20Proxy%20Amplification%2C%20and%20Strategic%20Realignment%20in%20the%20Middle%20East%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA-2026-PB-21",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-021",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, systemic conflict dynamics, and information conflict into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Shock-Amplification-Realignment (SAR) Framework with MCCM-Based Cost-Shock Integration",
+    "source_basis": "Counterfactual policy analysis integrating the Shock-Amplification-Realignment framework with the Middle East Conflict Cost Monitor (MCCM) and Loss-of-Control Threshold (LoCT) boundary condition.",
+    "case_context": "A sudden U.S. withdrawal from the ongoing Middle East conflict and its effects on escalation regulation, proxy dynamics, Israel’s strategic constraint environment, alliance spillover, and global power perception.",
+    "core_problem": "Conventional interpretations of withdrawal as de-escalation overlook its systemic effects when the withdrawn actor functions as the primary escalation-regulating node.",
+    "central_claims": [
+      "Withdrawal should be treated as a structural trigger rather than a terminal act of conflict policy.",
+      "Removal of U.S. escalation regulation would generate systemic shock by fragmenting signaling, expectations, and control mechanisms.",
+      "Systemic shock would activate proxy amplification across geographically embedded and semi-autonomous actors.",
+      "The conflict would shift from centralized regulation to distributed network dynamics, increasing volatility and reducing controllability.",
+      "Strategic realignment would produce fragmented and pluralized influence structures rather than a clear hegemonic replacement.",
+      "Domestic political reckoning in the United States would feed back into future intervention thresholds and strategic flexibility."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Systemic Shock",
+        "description": "Examines how the removal of the primary escalation-regulating actor disrupts deterrence signaling, alliance coordination, and escalation-management capacity."
+      },
+      {
+        "name": "Proxy Amplification",
+        "description": "Analyzes how semi-autonomous actors such as Hezbollah, the Houthis, and militias in Iraq and Syria may expand operational activity when central constraints weaken."
+      },
+      {
+        "name": "Strategic Realignment",
+        "description": "Evaluates how regional and external actors may reorganize influence through modular, non-hegemonic, and multi-vector strategies."
+      },
+      {
+        "name": "MCCM Cost-Shock Integration",
+        "description": "Uses DWC, GSC, and CE concepts to frame withdrawal as a redistribution of system cost from concentration to network-diffused burden."
+      },
+      {
+        "name": "Loss-of-Control Threshold",
+        "description": "Uses LoCT as a boundary condition at which cost diffusion, signaling fragmentation, and semi-autonomous actor proliferation exceed regulatory capacity."
+      },
+      {
+        "name": "Cross-Theater Spillover",
+        "description": "Assesses the effect of withdrawal on NATO cohesion, Ukraine dynamics, Indo-Pacific perceptions, and broader U.S. strategic credibility."
+      },
+      {
+        "name": "Domestic Political Feedback",
+        "description": "Analyzes how accountability debates within the United States may raise thresholds for future intervention while constraining crisis-response flexibility."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Systemic Shock",
+      "code": "SS",
+      "description": "Immediate disruption of escalation regulation after the removal of the primary regulatory node."
+    },
+    {
+      "name": "Proxy Amplification",
+      "code": "PA",
+      "description": "Expansion of conflict activity by semi-autonomous armed actors under reduced central constraint."
+    },
+    {
+      "name": "Strategic Realignment",
+      "code": "SR",
+      "description": "Fragmentation and reconfiguration of regional and external influence without a single replacement hegemon."
+    },
+    {
+      "name": "Direct War Cost",
+      "code": "DWC",
+      "description": "Immediate military expenditure and operational losses in the MCCM framework."
+    },
+    {
+      "name": "Global Shock Cost",
+      "code": "GSC",
+      "description": "Systemic spillover costs such as energy disruption, trade instability, and financial volatility."
+    },
+    {
+      "name": "Combined Exposure",
+      "code": "CE",
+      "description": "Heuristic aggregation representing total systemic burden under MCCM."
+    },
+    {
+      "name": "Loss-of-Control Threshold",
+      "code": "LoCT",
+      "description": "Critical transition point at which cost diffusion, signaling fragmentation, and semi-autonomous actor proliferation exceed regulatory capacity."
+    }
+  ],
+  "key_findings": [
+    "A sudden U.S. withdrawal would generate an immediate systemic shock by removing the primary escalation-regulating actor.",
+    "The shock would activate proxy amplification dynamics across geographically embedded and semi-autonomous actors.",
+    "Escalation pressure would diffuse from centralized control into distributed network dynamics, increasing volatility and reducing controllability.",
+    "Israel’s strategic environment would shift from capability dominance toward constraint accumulation, multi-front pressure, and domestic political vulnerability.",
+    "Non-Western actors would likely expand influence through modular and non-hegemonic strategies, accelerating fragmentation without producing a clear replacement order.",
+    "Cross-theater spillover would affect NATO cohesion, Ukraine dynamics, and Indo-Pacific perceptions of U.S. credibility.",
+    "The United States would face domestic political reckoning that raises future intervention thresholds and constrains strategic flexibility.",
+    "Withdrawal should be interpreted as a systemic inflection point rather than an endpoint of conflict."
+  ],
+  "policy_recommendations": [
+    "Analyze withdrawal scenarios as systemic transformations rather than as simple de-escalation events.",
+    "Monitor proxy-activation indicators, decentralized engagement frequency, and signaling fragmentation as early-warning markers of approaching LoCT.",
+    "Assess Israeli strategic compression not only through capability metrics but through cumulative multi-front, political, informational, and legitimacy pressures.",
+    "Track alliance-perception chains across NATO, Ukraine, and Indo-Pacific partners when evaluating the strategic credibility effects of U.S. withdrawal.",
+    "Integrate domestic political feedback into intervention and withdrawal planning, because post-withdrawal accountability dynamics may constrain future strategic options.",
+    "Use MCCM-style cost-distribution analysis to distinguish between apparent cost reduction and systemic cost diffusion."
+  ],
+  "related_works": [
+    {
+      "title": "Middle East Conflict Cost Monitor (MCCM) framework publications in the EPINOVA Policy Brief Series",
+      "identifier": "",
+      "relation": "Provides the cost-distribution and systemic burden context referenced by this brief.",
+      "type": "Related publication series"
+    },
+    {
+      "title": "MCCM Daily Direct War Cost by Actor: Feb 28–Apr 1, 2026",
+      "identifier": "",
+      "relation": "Provides the daily direct war cost visualization used in Figure 1.",
+      "type": "Related analytical output"
+    }
+  ],
+  "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict, Policy Brief No. EPINOVA–2026–PB–21, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19375572. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). If the United States suddenly withdraws: Systemic shock, proxy amplification, and strategic realignment in the Middle East conflict (Policy Brief No. EPINOVA–2026–PB–21). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19375572. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), If the United States Suddenly Withdraws, EPINOVA–2026–PB–21.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-01",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "2026 Middle East Conflict Cost Monitor (MCCM): Daily Direct War Cost by Actor — Low / Mid / High (Feb 28–Apr 1, 2026)",
+      "page": 3,
+      "description": "Shows low, mid, and high daily direct war cost estimates for the United States, Israel, Iran, and Others from Feb 28 to Apr 1, 2026.",
+      "note": "United States, Israel, and Others are disaggregated from the U.S. & Allies bloc using phase-based allocation shares. Global shock components are excluded."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Centralized-to-Networked Transition and the Loss-of-Control Threshold (LoCT)",
+      "page": 4,
+      "description": "Conceptual flow diagram mapping the transition from centralized control to control removal, networked conflict, LoCT, and cost diffusion.",
+      "note": "Figure 2 visualizes withdrawal as a transition from centralized cost concentration and regulation toward networked pressure accumulation and cost diffusion."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
+  "metadata_source": {
+    "source_file": "If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, embedded figure review, and early metadata reconciliation",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-05-02",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, SAR framework, MCCM cost-shock integration, LoCT boundary condition, Figure 1, Figure 2, final analytical statement, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19375571, ORCID put-code 210471471, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19375572 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19375572",
+    "crossref_doi_suffix": "epinova.pb.2026.021",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19375572",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "210471471",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-25"
+  }
+}
