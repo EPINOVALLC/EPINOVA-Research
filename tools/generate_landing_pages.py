@@ -263,26 +263,38 @@ def copy_article_archive_files(article_records: list[dict]) -> None:
     if failed_index.exists():
         shutil.copy2(failed_index, target_root / ARTICLE_ARCHIVE_FAILED_INDEX_NAME)
 
-        for meta in article_records:
-            folder_value = meta.get("_article_source_folder", "")
-            folder_name = Path(folder_value).name if folder_value else meta.get("_article_folder_name", "")
+    for meta in article_records:
+        folder_value = meta.get("_article_source_folder", "") or ""
+        folder_name = meta.get("_article_folder_name", "") or ""
 
-            # 永远只从仓库 Articles/<folder_name> 读取
-            source_dir = source_root / folder_name
-            target_dir = target_root / folder_name
+        # Cloudflare builds on Linux, so Windows absolute paths stored in
+        # articles_archive_index.json cannot be used directly. Always reduce
+        # the saved path to its final archive-folder name and then read from
+        # repository-local Articles/<folder_name>.
+        if folder_value:
+            normalized_folder_value = folder_value.replace("\\", "/")
+            folder_name = Path(normalized_folder_value).name
 
-            if not source_dir.exists() or not source_dir.is_dir():
-                print(f"Warning: archived article folder not found: {source_dir}")
-                continue
+        if not folder_name:
+            print(f"Warning: missing archived article folder name for: {meta.get('title', '')}")
+            continue
 
-            if target_dir.exists():
-                shutil.rmtree(target_dir)
+        source_dir = source_root / folder_name
+        target_dir = target_root / folder_name
 
-            shutil.copytree(
-                source_dir,
-                target_dir,
-                ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__")
-            )
+        if not source_dir.exists() or not source_dir.is_dir():
+            print(f"Warning: archived article folder not found: {source_dir}")
+            continue
+
+        if target_dir.exists():
+            shutil.rmtree(target_dir)
+
+        shutil.copytree(
+            source_dir,
+            target_dir,
+            ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__"),
+        )
+
 
 def first_creator(meta: dict) -> str:
     creators = meta.get("creators", [])
