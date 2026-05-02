@@ -738,6 +738,7 @@ def site_header() -> str:
     <a href="/working-papers/">Working Papers</a>
     <a href="/white-books/">White Books</a>
     <a href="/research-reports/">Research Reports</a>
+    <a href="/policy-reports/">Policy Reports</a>
     <a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA</a>
   </nav>
 </div>
