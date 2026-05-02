@@ -1,29 +1,466 @@
 {
-  "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
-  "title_normalized": "china in the u.s.-iran conflict: an mccm v2.1 assessment of structural exposure, transmission pressure, and threshold-coupling risk",
-  "date": "2026-04-17",
-  "doi": "10.5281/ZENODO.19633889",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212046921",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-034",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-034",
+  "title": "China in the U.S.–Iran Conflict",
+  "subtitle": "An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+  "title_normalized": "china in the u.s.–iran conflict: an mccm v2.1 assessment of structural exposure, transmission pressure, and threshold-coupling risk",
+  "publication_date": "2026-04-17",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19633889",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19633889",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19633889",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212046921",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–34",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "China in the U.S.–Iran Conflict An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "China in the U.S.–Iran Conflict",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief applies the MCCM v2.1 framework to assess China’s structural exposure in the U.S.–Iran conflict. It argues that China is not a principal belligerent but has become a high-exposure systemic actor due to its centrality in energy, shipping, and global economic networks, with the principal risk arising from threshold-coupling dynamics rather than direct military entanglement.",
+  "abstract": "China’s increasing visibility in the U.S.–Iran conflict is not the result of strategic expansion, but of structural positioning within a highly coupled global system. Under MCCM v2.1, escalation is not event-driven but system-generated, emerging from the interaction of stress accumulation, cross-domain transmission, and threshold dynamics. For China, the central issue is not battlefield exposure but systemic exposure. Disruption in the Strait of Hormuz simultaneously affects energy flows, maritime logistics, financial expectations, and geopolitical signaling. As traditional stabilizing actors absorb rising costs, expectations diffuse toward system-critical external actors. China is therefore being pushed toward involvement through systemic coupling rather than alliance obligation. China remains below direct military activation, and its response is characterized by diplomacy, energy adjustment, and de-risking measures. The core risk is not escalation into conflict, but gradual movement from exposure to constrained participation and from participation to structural entrapment.",
+  "keywords": [
+    "U.S.–Iran conflict",
+    "China",
+    "MCCM v2.1",
+    "Middle East Conflict Cost Monitor",
+    "Structural exposure",
+    "Systemic exposure",
+    "Transmission pressure",
+    "Threshold-coupling risk",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Strait of Hormuz",
+    "Energy security",
+    "Maritime logistics",
+    "Shipping networks",
+    "Global economic networks",
+    "Systemic escalation",
+    "Cross-domain transmission",
+    "De-risking and restraint",
+    "Strategic competition",
+    "Networked conflict",
+    "Policy brief",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Middle East security",
+    "China foreign policy",
+    "U.S.–Iran relations",
+    "Energy security",
+    "Maritime security",
+    "Conflict escalation",
+    "Networked conflict systems",
+    "Systemic risk",
+    "Geopolitics",
+    "Policy analysis",
+    "Global governance",
+    "Risk governance",
+    "Critical infrastructure and logistics"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-17",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "China in the U.S.–Iran Conflict An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-34/China%20in%20the%20U.S.%E2%80%93Iran%20Conflict%20An%20MCCM%20v2.1%20Assessment%20of%20Structural%20Exposure%2C%20Transmission%20Pressure%2C%20and%20Threshold-Coupling%20Risk.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-34",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-34",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-034",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Middle East Conflict Cost Monitor (MCCM) v2.1",
+    "source_basis": "China-focused application of MCCM v2.1, a 27-variable, seven-layer model of systemic escalation designed to assess stress accumulation, cross-domain transmission, institutional contestation, uncertainty, and proximity to the Loss-of-Control Threshold (LoCT).",
+    "case_context": "China’s systemic exposure in the U.S.–Iran conflict, with emphasis on the Strait of Hormuz, energy flows, maritime logistics, financial expectations, geopolitical signaling, and threshold-coupling dynamics.",
+    "core_problem": "China is structurally exposed to systemic disruption without exercising proportional control over escalation dynamics, creating a condition of exposure without control and a risk of gradual structural absorption.",
+    "central_claims": [
+      "China is not a principal belligerent in the U.S.–Iran conflict, but it has become a high-exposure systemic actor due to energy, shipping, and global economic network centrality.",
+      "The primary risk for China is threshold-coupling dynamics rather than direct military entanglement.",
+      "China currently operates in a high-exposure, medium-high transmission, and low-direct-activation regime.",
+      "Key variables shaping China’s systemic position include SEG, ACI, SCI, DPCP/EET, and HTI.",
+      "China’s optimal strategy is to maximize de-risking and restraint while avoiding structural absorption into the escalation system.",
+      "China is transitioning from a system beneficiary toward a system-constrained stabilizer under conditions of high coupling and limited control."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "MCCM v2.1 Systemic Escalation Architecture",
+        "description": "Uses a 27-variable, seven-layer framework to assess how stress accumulates, propagates, and approaches critical threshold conditions rather than predicting discrete events."
+      },
+      {
+        "name": "Systemic Exposure Rather than Battlefield Exposure",
+        "description": "Assesses China’s vulnerability through energy, shipping, financial, and geopolitical-network dependence rather than direct combat involvement."
+      },
+      {
+        "name": "Transmission Pressure",
+        "description": "Evaluates how maritime disruption, information ambiguity, and aggregate connectivity transmit stress into China’s strategic environment."
+      },
+      {
+        "name": "Threshold Coupling and LoCT Proximity",
+        "description": "Analyzes how limited engagement may increase coupling intensity and move China toward pre-threshold dynamics without direct activation."
+      },
+      {
+        "name": "De-Risking and Restraint",
+        "description": "Positions de-risking, calibrated signaling, energy diversification, and limited functional participation as China’s strongest levers under uncertainty."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Aggregate Strategic Stress Index",
+      "code": "ASSI",
+      "layer": "I. Situation & Perception",
+      "description": "Assesses external systemic stress affecting China through energy, shipping, and geopolitical spillover."
+    },
+    {
+      "name": "Military Situation Deterioration Index",
+      "code": "MSDI",
+      "layer": "I. Situation & Perception",
+      "description": "Captures deterioration in the surrounding security environment without implying direct combat exposure."
+    },
+    {
+      "name": "Alliance Commitment Factor",
+      "code": "ACF",
+      "layer": "I. Situation & Perception",
+      "description": "Reflects increasing burden-sharing pressure as existing stabilizers weaken."
+    },
+    {
+      "name": "Strategic Escalation Gradient",
+      "code": "SEG",
+      "layer": "I. Situation & Perception",
+      "description": "Captures the widening expectation gap between China’s systemic role and expected responsibility."
+    },
+    {
+      "name": "Narrative Pressure Ratio",
+      "code": "NPR",
+      "layer": "I. Situation & Perception",
+      "description": "Assesses dual narrative pressure between perceived under-engagement and opportunism."
+    },
+    {
+      "name": "Proxy Warfare Pressure Index",
+      "code": "PWPI",
+      "layer": "II. Process & Transmission",
+      "description": "Captures proxy dynamics that prolong instability."
+    },
+    {
+      "name": "Cyber Escalation Index",
+      "code": "CEI",
+      "layer": "II. Process & Transmission",
+      "description": "Assesses limited but non-negligible cyber effects in the escalation environment."
+    },
+    {
+      "name": "Direct Physical Connectivity Pressure",
+      "code": "DPCP",
+      "layer": "II. Process & Transmission",
+      "description": "Captures the effect of maritime disruption on China through physical connectivity and chokepoint exposure."
+    },
+    {
+      "name": "Information Shock Amplification Index",
+      "code": "ISAI",
+      "layer": "II. Process & Transmission",
+      "description": "Assesses how information ambiguity amplifies volatility."
+    },
+    {
+      "name": "Aggregate Connectivity Index",
+      "code": "ACI",
+      "layer": "II. Process & Transmission",
+      "description": "Captures China’s deep integration across multiple affected systems."
+    },
+    {
+      "name": "National Escalation Capacity",
+      "code": "NEC",
+      "layer": "III. Capability & Mobilization",
+      "description": "Assesses China’s diplomatic and economic leverage for stabilization."
+    },
+    {
+      "name": "Troop Deployment Index",
+      "code": "TDI",
+      "layer": "III. Capability & Mobilization",
+      "description": "Captures limited direct military activation in the conflict system."
+    },
+    {
+      "name": "Economic Mobilization and Adaptation Index",
+      "code": "EMAI",
+      "layer": "III. Capability & Mobilization",
+      "description": "Assesses China’s capacity for economic adaptation under systemic pressure."
+    },
+    {
+      "name": "Logistics Continuity",
+      "code": "LC",
+      "layer": "IV. Structure & System Resilience",
+      "description": "Assesses logistics adaptability alongside chokepoint sensitivity."
+    },
+    {
+      "name": "National Stability Index",
+      "code": "NSI",
+      "layer": "IV. Structure & System Resilience",
+      "description": "Captures China’s internal stability under external systemic stress."
+    },
+    {
+      "name": "Energy Exposure and Throughput",
+      "code": "EET",
+      "layer": "IV. Structure & System Resilience",
+      "description": "Assesses energy throughput pressure and chokepoint-related exposure."
+    },
+    {
+      "name": "System Coordination Intensity",
+      "code": "SCI",
+      "layer": "IV. Structure & System Resilience",
+      "description": "Captures the coordination burden across domains under high coupling."
+    },
+    {
+      "name": "Decision Friction Index",
+      "code": "DFI",
+      "layer": "V. Loss-of-Control & Threshold",
+      "description": "Assesses friction generated by competing strategic objectives."
+    },
+    {
+      "name": "Horizontal Threshold Index",
+      "code": "HTI",
+      "layer": "V. Loss-of-Control & Threshold",
+      "description": "Captures approaching pre-threshold coupling conditions without threshold crossing."
+    },
+    {
+      "name": "Rule Contestation Index",
+      "code": "RCI",
+      "layer": "VI. Rule & Institutional Order",
+      "description": "Assesses increasing rule contestation in the crisis environment."
+    },
+    {
+      "name": "Rule Fragmentation Index",
+      "code": "RFI",
+      "layer": "VI. Rule & Institutional Order",
+      "description": "Captures fragmentation of rule systems."
+    },
+    {
+      "name": "Rule Politicization Index",
+      "code": "RPI",
+      "layer": "VI. Rule & Institutional Order",
+      "description": "Assesses politicization of access, trade, and stabilization expectations."
+    },
+    {
+      "name": "Rule Effectiveness Index",
+      "code": "REI",
+      "layer": "VI. Rule & Institutional Order",
+      "description": "Captures erosion of rule effectiveness."
+    },
+    {
+      "name": "War-Justification Coherence",
+      "code": "WJC",
+      "layer": "VII. Narrative, Uncertainty & Risk-Transmission Extension",
+      "description": "Assesses the stability and coherence of China’s narrative position."
+    },
+    {
+      "name": "Latent Uncertainty Burden",
+      "code": "LUB",
+      "layer": "VII. Narrative, Uncertainty & Risk-Transmission Extension",
+      "description": "Captures high uncertainty in the escalation environment."
+    },
+    {
+      "name": "Signaling Restraint Score",
+      "code": "SRS",
+      "layer": "VII. Narrative, Uncertainty & Risk-Transmission Extension",
+      "description": "Assesses controlled signaling and restraint."
+    },
+    {
+      "name": "De-Risking Index",
+      "code": "DRI",
+      "layer": "VII. Narrative, Uncertainty & Risk-Transmission Extension",
+      "description": "Captures China’s de-risking posture under uncertainty."
+    }
+  ],
+  "key_findings": [
+    "China is a high-exposure systemic actor rather than a principal belligerent in the U.S.–Iran conflict.",
+    "China’s central vulnerability is systemic exposure through energy flows, maritime logistics, financial expectations, and geopolitical signaling.",
+    "The primary risk is threshold coupling rather than direct military entanglement.",
+    "China’s current regime is characterized by high exposure, medium-high transmission, and low direct activation.",
+    "Dominant China-related exposure variables include SEG, DPCP, ACI, SCI, and HTI, while TDI remains limited.",
+    "China’s position is best understood as exposure without control: high affectedness with limited proportional control over escalation dynamics.",
+    "De-risking and restraint constitute China’s strongest strategic levers under uncertainty.",
+    "The central long-term risk is gradual movement from functional participation to structural responsibility and role lock-in."
+  ],
+  "policy_recommendations": [
+    "For China, manage exposure without structural absorption by shaping the form and intensity of engagement.",
+    "Prioritize diplomatic mediation, multilateral coordination, navigation safety, information sharing, and other bounded public-goods contributions over visible enforcement roles.",
+    "Reinforce de-risking and restraint through energy diversification, strategic reserves, chokepoint-dependence reduction, and calibrated signaling.",
+    "For the United States and external actors, avoid pressuring China into a larger role in ways that could accelerate coupling effects.",
+    "Emphasize transparency, communication, and deconfliction mechanisms that reduce uncertainty without requiring formal alignment.",
+    "For system-level governance, treat the Strait of Hormuz crisis as a global systemic risk event rather than a localized regional conflict.",
+    "Dampen transmission dynamics by reducing amplification effects associated with physical disruption and information volatility.",
+    "Manage expectations to prevent further escalation in strategic gradient and reduce the risk of approaching or crossing the Loss-of-Control Threshold."
+  ],
+  "related_works": [
+    {
+      "title": "From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis",
+      "identifier": "10.5281/zenodo.19632808",
+      "relation": "Closely related preceding EPINOVA policy brief on China’s structural exposure in the Strait of Hormuz crisis",
+      "type": "DOI"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief developing the MCCM framework for systemic escalation assessment",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper on systemic escalation and LoCT theory",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk, Policy Brief No. EPINOVA–2026–PB–34, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19633889. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). China in the U.S.–Iran conflict: An MCCM v2.1 assessment of structural exposure, transmission pressure, and threshold-coupling risk (Policy Brief No. EPINOVA–2026–PB–34). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19633889. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), China in the U.S.–Iran Conflict, EPINOVA–2026–PB–34.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-17",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "MCCM v2.1 Modeling Framework",
+      "page": 2,
+      "description": "Diagram of the MCCM v2.1 seven-layer, 27-variable framework and inter-layer coupling feedback structure for escalation trajectory and LoCT risk assessment."
+    },
+    {
+      "number": "Figure 2",
+      "title": "MCCM v2.1 China Assessment — Systemic Exposure Radar (April 17, 2026)",
+      "page": 3,
+      "description": "Radar chart showing dominant exposure variables, including SEG, DPCP, ACI, high systemic coupling through SCI, rising threshold proximity through HTI, and limited direct activation through TDI."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "China in the U.S.–Iran Conflict An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual figure review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, key judgments, why-this-matters statement, executive summary, MCCM v2.1 framework overview, China-focused variable assessment, policy implications, limitations, conclusion, figures, recommended citation, DOI, series information, and disclaimer. Early metadata supplied ORCID put-code 212046921, GitHub PDF URL, repository folder, repository URL, and ORCID-derived source fields. DOI normalization changed 10.5281/ZENODO.19633889 to 10.5281/zenodo.19633889."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19633889",
+    "crossref_doi_suffix": "epinova.pb.2026.034",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19633889",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212046921",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-17"
   }
 }

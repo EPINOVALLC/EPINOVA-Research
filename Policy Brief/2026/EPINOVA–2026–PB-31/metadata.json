@@ -1,29 +1,390 @@
 {
+  "epinova_id": "EPINOVA-PB-2026-031",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-031",
   "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
+  "subtitle": "",
   "title_normalized": "beyond the gulf: the emergence of a three-channel, threshold-delaying logistics system in iran under sustained geopolitical constraint",
-  "date": "2026-04-14",
-  "doi": "10.5281/ZENODO.19562154",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211608809",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-14",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19562154",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19562154",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19562154",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/ZENODO.19562154",
+      "scheme": "DOI",
+      "description": "Uppercase DOI form from early ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211608809",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–31",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Beyond the Gulf  The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Beyond the Gulf",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes Iran’s external logistics network as a constrained, three-channel system integrating Caspian maritime shipping, rail connections, and road corridors under sustained geopolitical pressure. It argues that the system’s strategic value lies in preserving minimum viable flow, absorbing disruption, and delaying systemic degradation rather than replacing Persian Gulf-scale maritime capacity.",
+  "abstract": "Iran’s external logistics network is undergoing a structural transformation under sustained geopolitical constraint. While Persian Gulf maritime transport remains dominant in scale, the system increasingly operates as a multi-channel architecture integrating Caspian shipping, rail, and road corridors. This policy brief finds that the system does not maximize throughput, but preserves continuity through a threshold-delaying logistics architecture. The Caspian corridor functions as the backbone of the alternative network, combining volatility with recovery capacity. Rail and road channels provide adaptive redundancy, while the Pakistan–Iran corridor expands connectivity and routing flexibility without materially increasing aggregate throughput. Logistics capacity governs the tempo of disruption: sustained moderate throughput can stabilize the system and delay systemic breakdown despite bottlenecks and coordination frictions. The analysis concludes that resilience in this system defers vulnerability rather than eliminating it.",
+  "keywords": [
+    "Iran logistics",
+    "Persian Gulf",
+    "Caspian corridor",
+    "Caspian maritime shipping",
+    "threshold-delaying logistics system",
+    "three-channel logistics",
+    "logistics resilience",
+    "systemic degradation",
+    "supply-chain resilience",
+    "geopolitical constraint",
+    "Regional System Health Index",
+    "SHI",
+    "throughput estimation",
+    "maritime logistics",
+    "rail transport",
+    "road transport",
+    "Pakistan–Iran corridor",
+    "bottlenecks",
+    "coordination frictions",
+    "strategic resilience",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Geopolitics",
+    "Logistics systems",
+    "Maritime security",
+    "Supply chain resilience",
+    "Iran",
+    "Caspian Sea",
+    "Persian Gulf",
+    "Transportation networks",
+    "Infrastructure resilience",
+    "Conflict monitoring",
+    "Sanctions analysis",
+    "Systems analysis",
+    "Threshold dynamics",
+    "Policy analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-14",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-14",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-14",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-14",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Beyond the Gulf  The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-31/Beyond%20the%20Gulf%20%20The%20Emergence%20of%20a%20Three-Channel%2C%20Threshold-Delaying%20Logistics%20System%20in%20Iran%20under%20Sustained%20Geopolitical%20Constraint.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-31",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-31",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-031",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, systemic risk, logistics resilience, and information conflict into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Three-Channel Threshold-Delaying Logistics System Framework",
+    "source_basis": "Policy-facing synthesis based on high-frequency vessel movement data across Iranian ports, throughput estimates from departure counts and calibrated cargo capacity ranges, and Regional System Health Index calculations.",
+    "case_context": "Iran’s external logistics system under sustained geopolitical constraint, including Caspian maritime shipping, rail transport, road transport, and the Pakistan–Iran corridor.",
+    "core_problem": "Under severe disruption or pressure on Persian Gulf maritime flows, Iran’s alternative logistics channels may preserve continuity but cannot replace primary maritime capacity. The key analytical issue is how constrained multi-channel throughput delays systemic degradation.",
+    "central_claims": [
+      "Iran’s external logistics system has evolved into a constrained three-channel architecture integrating maritime, rail, and road transport.",
+      "The system’s strategic value lies in sustaining minimum viable flow rather than replacing Persian Gulf-scale maritime throughput.",
+      "The Caspian corridor functions as a shock absorber characterized by high volatility and consistent recovery capacity.",
+      "Rail and road corridors provide adaptive redundancy, but they do not materially alter aggregate throughput limits.",
+      "The Pakistan–Iran corridor increases routing flexibility and distribution, but its volumetric contribution remains limited.",
+      "Effective system performance is governed by bottlenecks, coordination frictions, and inter-channel dependence rather than nominal capacity alone."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Regional System Health Index Dynamics",
+        "description": "Uses SHI to compare Caspian and Persian Gulf logistics performance through flow absorption, queue efficiency, and flow balance."
+      },
+      {
+        "name": "Caspian Throughput Variability",
+        "description": "Interprets contraction, recovery, and normalization in Caspian port output as evidence of constrained resilience and cyclical adjustment."
+      },
+      {
+        "name": "Persian Gulf Scale Dominance",
+        "description": "Highlights that Persian Gulf throughput remains structurally larger than northern alternatives, making substitution impossible under severe disruption."
+      },
+      {
+        "name": "Three-Channel Throughput Model",
+        "description": "Models nominal logistics capacity as the sum of sea, rail, and road channels while treating effective throughput as constrained by bottlenecks and coordination frictions."
+      },
+      {
+        "name": "Threshold-Delaying Logistics",
+        "description": "Frames logistics resilience as the temporal redistribution of disruption that delays nonlinear system degradation rather than expands capacity."
+      }
+    ],
+    "data_note": "The PDF states that the analysis draws on high-frequency vessel movement data at sub-daily intervals, typically 3–6 hours, and uses calibrated cargo capacity ranges of 2,000–15,000 tons per vessel. Estimates are order-of-magnitude approximations rather than precise measurements."
+  },
+  "dimensions": [
+    {
+      "name": "Caspian Maritime Shipping",
+      "code": "C_sea",
+      "description": "Principal alternative maritime channel and backbone of the alternative logistics network, capable of sustaining moderate-scale flows but vulnerable to volatility and port constraints."
+    },
+    {
+      "name": "Rail Transport",
+      "code": "C_rail",
+      "description": "Structured but capacity-limited transport layer providing stability and redundancy while remaining constrained by infrastructural discontinuities and operational delays."
+    },
+    {
+      "name": "Road Transport",
+      "code": "C_road",
+      "description": "Adaptive redundancy mechanism, including Pakistan–Iran routing flexibility, enabling localized continuity under disruption but at higher cost and lower efficiency."
+    },
+    {
+      "name": "Regional System Health Index",
+      "code": "SHI",
+      "description": "Composite measure of logistics performance under constraint, constructed from flow absorption, queue efficiency, and flow balance."
+    },
+    {
+      "name": "Effective Throughput",
+      "code": "TC_effective",
+      "description": "Realized system throughput after bottlenecks, coordination frictions, and interdependencies reduce nominal channel capacity."
+    },
+    {
+      "name": "Threshold-Delaying Capacity",
+      "code": "TDC",
+      "description": "System ability to sustain minimum viable flow and delay nonlinear degradation under sustained disruption."
+    }
+  ],
+  "variables": [
+    {
+      "name": "Nominal Total Capacity",
+      "code": "TC_nominal",
+      "formula": "TC_nominal = C_sea + C_rail + C_road",
+      "description": "Theoretical aggregate capacity of maritime, rail, and road channels."
+    },
+    {
+      "name": "Effective Total Capacity",
+      "code": "TC_effective",
+      "formula": "TC_effective < TC_nominal",
+      "description": "Realized throughput constrained by bottlenecks, coordination frictions, and channel interdependencies."
+    },
+    {
+      "name": "Sea Channel Capacity",
+      "code": "C_sea",
+      "description": "Capacity contributed by Caspian maritime shipping and other maritime corridors."
+    },
+    {
+      "name": "Rail Channel Capacity",
+      "code": "C_rail",
+      "description": "Capacity contributed by rail connections through Central Asia and related structured corridors."
+    },
+    {
+      "name": "Road Channel Capacity",
+      "code": "C_road",
+      "description": "Capacity contributed by overland trucking and road corridors, including Pakistan–Iran connectivity."
+    },
+    {
+      "name": "Regional System Health Index",
+      "code": "SHI",
+      "description": "Composite logistics performance indicator based on departures, arrivals, anchorage ratios, flow absorption, queue efficiency, and flow balance."
+    }
+  ],
+  "key_findings": [
+    "Iran’s external logistics system has evolved into a constrained, three-channel network integrating maritime, rail, and road transport.",
+    "The alternative logistics network operates below theoretical capacity because of bottlenecks, coordination frictions, and inter-channel dependence.",
+    "The system’s strategic value lies in sustaining minimum viable flow and delaying systemic degradation rather than replacing Persian Gulf maritime capacity.",
+    "The Caspian corridor functions as a shock absorber with high volatility but consistent recovery behavior.",
+    "Persian Gulf maritime transport remains structurally dominant in scale, with output far above northern channels.",
+    "Rail and road corridors provide adaptive redundancy but do not fundamentally alter throughput limits.",
+    "The Pakistan–Iran corridor strengthens routing flexibility and distribution but does not materially increase aggregate throughput.",
+    "Under severe disruption to Persian Gulf maritime flows, the alternative network is likely capable of sustaining only tens of thousands of tons per day.",
+    "System resilience emerges from interaction across channels rather than from any single route.",
+    "Critical-node disruption can generate disproportionate system-wide effects because effective throughput is governed by the most restrictive elements."
+  ],
+  "policy_recommendations": [
+    "Assess logistics resilience in terms of sustained flow continuity rather than peak or nominal capacity.",
+    "Prioritize monitoring of critical bottlenecks, including ports, rail nodes, road crossings, and coordination interfaces.",
+    "Use continuous high-frequency observation because resilience is reflected in persistence over time rather than isolated movements.",
+    "Design sanctions and disruption strategies around critical nodes and coordination frictions rather than aggregate capacity alone.",
+    "Evaluate alternative logistics channels relationally, since disruption in one channel cannot be assumed to be fully offset by unused capacity in another.",
+    "Treat moderate sustained throughput as strategically significant when it delays depletion and systemic degradation."
+  ],
+  "related_works": [
+    {
+      "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
+      "identifier": "10.5281/zenodo.19476666",
+      "relation": "Related EPINOVA policy brief assessing northern Russia–Iran supply channels and throughput constraints.",
+      "type": "DOI"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief providing the systemic escalation and cost-monitoring logic used to interpret threshold dynamics.",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    {
+      "citation": "Author’s calculations based on vessel tracking data.",
+      "type": "Internal analytical dataset referenced in figures",
+      "url": ""
+    },
+    {
+      "citation": "Regional System Health Index (SHI) constructed from departures, arrivals, and anchorage ratios.",
+      "type": "Methodological note in the policy brief",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint, Policy Brief No. EPINOVA–2026–PB–31, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19562154. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Beyond the Gulf: The emergence of a three-channel, threshold-delaying logistics system in Iran under sustained geopolitical constraint (Policy Brief No. EPINOVA–2026–PB–31). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19562154. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Beyond the Gulf, EPINOVA–2026–PB–31.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-14",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Regional System Health Index (SHI) Dynamics",
+      "page": 3,
+      "caption": "Regional System Health Index dynamics comparing Caspian System, Persian Gulf System, and average system performance.",
+      "source": "Author’s calculations based on vessel tracking data.",
+      "note": "SHI constructed from departures, arrivals, and anchorage ratios."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Caspian Ports Throughput Variability",
+      "page": 3,
+      "caption": "Caspian port throughput variability showing contraction, recovery, and normalization patterns.",
+      "source": "Author’s calculations based on vessel tracking data.",
+      "note": "Throughput estimated from vessel departures and calibrated capacity ranges."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Persian Gulf System Output",
+      "page": 4,
+      "caption": "Persian Gulf system output showing the scale dominance of southern maritime transport relative to northern alternatives.",
+      "source": "Author’s calculations based on vessel tracking data.",
+      "note": "Throughput estimated from vessel departures and calibrated capacity ranges."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Beyond the Gulf  The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, key judgments, methodology note, SHI and throughput figures, three-channel throughput model, Pakistan–Iran corridor discussion, threshold-delaying logistics concept box, policy implications, limitations, recommended citation, DOI, and disclaimer. Early metadata supplied uppercase DOI form, ORCID put-code, GitHub PDF URL, repository folder, and repository URL. The PDF DOI is normalized to lowercase as the primary DOI; the uppercase DOI form is retained as an alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19562154",
+    "crossref_doi_suffix": "epinova.pb.2026.031",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19562154",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; uppercase DOI form from early ORCID-derived metadata retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "211608809",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-14"
   }
 }

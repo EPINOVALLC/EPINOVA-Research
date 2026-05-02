@@ -1,29 +1,310 @@
 {
-  "title": "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy",
+  "epinova_id": "EPINOVA-PB-2025-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2025-002",
+  "title": "Artificial Intelligence as National Power",
+  "subtitle": "Implications of the 2025 U.S. National Security Strategy",
   "title_normalized": "artificial intelligence as national power: implications of the 2025 u.s. national security strategy",
-  "date": "2025-12-26",
+  "publication_date": "2025-12-26",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
   "doi": "10.5281/zenodo.18063602",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "201017536",
-  "source": "ORCID Public API",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18063602",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18063602",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201017536",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2025–02–PB",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Artificial Intelligence as National Power",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the treatment of artificial intelligence in the 2025 U.S. National Security Strategy. It argues that AI is repositioned as a foundational state capability and a cross-domain force multiplier embedded in military power, economic security, technological sovereignty, alliance management, and standards-setting. The brief interprets the strategy as a move from universal AI governance toward capability-driven, sovereign, and alliance-centered AI state capacity.",
+  "abstract": "This policy brief examines the implications of the 2025 U.S. National Security Strategy for global AI governance and national power. It argues that the NSS treats artificial intelligence not as an emerging technology but as a foundational state capability linked to military effectiveness, economic resilience, technological sovereignty, alliance alignment, and standards-setting. The analysis identifies a shift from AI regulation toward AI state capacity, interprets the document's limited attention to AI risk governance as strategic silence, and concludes that global AI governance is moving into a fragmented, security-driven, post-breakthrough phase in which political and institutional risks increasingly supersede purely technical risks.",
+  "keywords": [
+    "Artificial intelligence",
+    "AI national power",
+    "2025 U.S. National Security Strategy",
+    "U.S. national security",
+    "AI state capacity",
+    "AI governance",
+    "AI–State Complex",
+    "Technology sovereignty",
+    "Alliance-centric AI strategy",
+    "AI standards",
+    "Digital power",
+    "Supply-chain control",
+    "Export controls",
+    "Technology blocs",
+    "National security exceptions",
+    "Global AI governance fragmentation",
+    "Post-breakthrough AI development",
+    "Institutional lock-in",
+    "Political risk",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "National security strategy",
+    "Strategic studies",
+    "Technology policy",
+    "U.S. foreign policy",
+    "International relations",
+    "Digital sovereignty",
+    "Geopolitics of AI",
+    "Standards governance",
+    "Alliance politics",
+    "Economic security",
+    "Technology competition",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-26",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-26",
+      "date_type": "Created"
+    },
+    {
+      "date": "2025-12",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9302%E2%80%93PB/Artificial%20Intelligence%20as%20National%20Power%20Implications%20of%20the%202025%20U.S.%20National%20Security%20Strategy.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 3
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9302%E2%80%93PB",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9302%E2%80%93PB",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2025-002",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "AI as National Power / AI-State Capacity Framework",
+    "source_basis": "Analytical reading of the 2025 U.S. National Security Strategy using public information and policy-interpretive analysis",
+    "case_context": "2025 U.S. National Security Strategy and its implications for AI governance, technology sovereignty, and national power",
+    "core_problem": "AI is increasingly treated as a foundational state capability and geopolitical alignment instrument rather than as a standalone innovation or ethics-regulation issue.",
+    "central_claims": [
+      "AI is positioned in the 2025 NSS as a foundational state capability rather than an emerging technology sector.",
+      "AI governance is reframed from ethical regulation toward control of access, supply chains, standards, and technological sovereignty.",
+      "U.S. AI strategy is alliance-centric, using technology ecosystems, infrastructure, and standards to bind partners and exclude rivals.",
+      "Global AI governance is fragmenting as national security exceptions become structural rather than temporary.",
+      "Primary AI risks increasingly shift from purely technical failure toward political and institutional concentration, governance asymmetry, and lock-in."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "AI–State Complex",
+        "description": "A framework in which AI systems shape state capacity, economic competitiveness becomes inseparable from security readiness, and technological leadership functions as deterrence."
+      },
+      {
+        "name": "Strategic Silence on AI Risk Governance",
+        "description": "The brief interprets the NSS's limited discussion of transparency, explainability, and systemic AI risk as a signal that AI risks are managed internally within national security frameworks rather than negotiated as universal global norms."
+      },
+      {
+        "name": "Standards as Structural Power",
+        "description": "AI standards are treated as instruments shaping interoperability, platform dependence, and long-term institutional lock-in."
+      },
+      {
+        "name": "Post-Breakthrough AI Development",
+        "description": "The NSS is interpreted as assuming AI capability as already strategically present, shifting attention from technical feasibility to control, capture of benefits, and constrained diffusion."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Military Power",
+      "code": "AI military capability",
+      "description": "AI functions as a cross-domain force multiplier supporting autonomy, decision-speed advantage, and cost-efficient defense systems."
+    },
+    {
+      "name": "Economic Security",
+      "code": "AI economic resilience",
+      "description": "AI is tied to productivity growth, reindustrialization, supply-chain resilience, and domestic capture of technological benefits."
+    },
+    {
+      "name": "Technological Sovereignty",
+      "code": "AI sovereignty",
+      "description": "AI leadership is linked to intellectual property protection, standards-setting dominance, and control over technology diffusion."
+    },
+    {
+      "name": "Alliance-Centric Governance",
+      "code": "AI alignment architecture",
+      "description": "AI cooperation, advanced technology sharing, and access to U.S. AI ecosystems are treated as tools of diplomacy and strategic alignment."
+    },
+    {
+      "name": "Standards Power",
+      "code": "AI standards",
+      "description": "Standards shape interoperability, platform dependence, and long-term institutional lock-in."
+    },
+    {
+      "name": "Political and Institutional Risk",
+      "code": "AI governance risk",
+      "description": "Dominant risks shift from model failure and algorithmic bias toward institutional concentration, governance asymmetry, and political lock-in."
+    }
+  ],
+  "key_findings": [
+    "AI is treated as a foundational state capability, not as an emerging technology.",
+    "AI governance is reframed from ethical regulation to control of access, supply chains, and standards.",
+    "U.S. AI strategy is alliance-centric, using technology and standards to bind partners and exclude rivals.",
+    "Global AI governance is fragmenting, with national security exceptions becoming structural rather than temporary.",
+    "Primary AI risks are increasingly political and institutional, not purely technical.",
+    "The 2025 NSS embeds AI across military power, economic security, and technological sovereignty rather than treating it as a sectoral innovation issue.",
+    "AI standards operate as instruments of long-term structural power by shaping interoperability, platform dependence, and institutional lock-in.",
+    "The NSS signals a post-breakthrough phase in which AI capability is assumed and strategic focus shifts to control, domestic benefit capture, and international diffusion constraints."
+  ],
+  "policy_implications": [
+    {
+      "number": 1,
+      "title": "Treat AI governance as state-capacity governance",
+      "description": "AI policy should be analyzed as a component of national power, institutional capacity, industrial strategy, and alliance architecture rather than as a narrow technology-regulation issue."
+    },
+    {
+      "number": 2,
+      "title": "Account for structural fragmentation in global AI governance",
+      "description": "Universal AI governance regimes are likely to face persistent pressure from export controls, security exceptions, and alliance-based technology blocs."
+    },
+    {
+      "number": 3,
+      "title": "Analyze AI standards as geopolitical infrastructure",
+      "description": "Standards-setting should be evaluated as a source of interoperability control, platform dependence, and institutional lock-in."
+    },
+    {
+      "number": 4,
+      "title": "Shift risk analysis toward political and institutional risks",
+      "description": "AI risk assessment should include institutional concentration, governance asymmetry, sovereign capability competition, and political lock-in alongside technical safety concerns."
+    }
+  ],
+  "related_works": [
+    {
+      "title": "From Detection to Depletion: Sustainability Constraints in Counter-Drone Defense",
+      "identifier": "10.5281/zenodo.18037881",
+      "relation": "Related EPINOVA policy brief in the same 2025 policy brief series on AI-enabled warfare, sustainability, and global security governance",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "White House. (2025). National Security Strategy of the United States of America (November 2025). Washington, DC."
+  ],
+  "recommended_citation": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (EPINOVA-2025-02-PB). EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance. Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18063602. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (Policy Brief No. EPINOVA-2025-02-PB). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18063602. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Artificial Intelligence as National Power, EPINOVA-2025-02-PB.",
+  "imprint": {
+    "institution": "Global AI Governance Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-26",
+    "pagination": "3 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief reflects the author’s independent analysis based on publicly available information and does not represent the official positions of any government or institution. The publication is intended for research and policy discussion purposes only and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, series information, recommended citation, DOI, key findings, analytical sections, disclaimer, reference, and page count. Early metadata supplied DOI 10.5281/zenodo.18063602, ORCID put-code 201017536, GitHub PDF URL, and repository information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18063602",
+    "crossref_doi_suffix": "epinova.pb.2025.002",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18063602",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI provided by the PDF and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "201017536",
+    "source": "ORCID Public API",
+    "record_date": "2025-12-26"
   }
 }

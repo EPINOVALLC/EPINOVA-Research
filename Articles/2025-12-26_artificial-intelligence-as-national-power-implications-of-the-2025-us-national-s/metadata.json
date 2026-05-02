@@ -1,0 +1,90 @@
+{
+  "epinova_id": "EPINOVA-ART-2025-artificial-intelligence-as-national-powe",
+  "title": "Artificial Intelligence as National Power:",
+  "full_title": "Artificial Intelligence as National Power:",
+  "subtitle": "",
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "category": "articles",
+  "resource_type": "Text",
+  "publication_type": "Article",
+  "publication_date": "2025-12-26",
+  "version": "v1.0",
+  "status": "Archived from EPINOVA GoDaddy blog",
+  "language": "en",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "place": "Carrollton, Georgia, United States",
+  "doi": "To be assigned after Crossref registration",
+  "previous_doi": "",
+  "abstract": "Implications of the 2025 U.S. National Security Strategy for AI Development",
+  "description": "Implications of the 2025 U.S. National Security Strategy for AI Development",
+  "keywords": [],
+  "subjects": [
+    "AI governance",
+    "Strategic systems analysis",
+    "Technology policy"
+  ],
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "copyright": "© 2025 EPINOVA LLC. All rights reserved.",
+  "recommended_citation": "Wu, Shaoyuan. (2025). Artificial Intelligence as National Power:. EPINOVA LLC. https://epinova.org/articles/f/artificial-intelligence-as-national-power. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, Shaoyuan. (2025). Artificial Intelligence as National Power:. EPINOVA LLC. https://epinova.org/articles/f/artificial-intelligence-as-national-power. DOI: To be assigned after Crossref membership approval.",
+  "original_page": "https://epinova.org/articles/f/artificial-intelligence-as-national-power",
+  "canonical_url": "",
+  "source_status": "archived_from_godaddy_blog_with_images",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Articles/2025-12-26_artificial-intelligence-as-national-power-implications-of-the-2025-us-national-s",
+  "official_page": "https://epinova.org/articles/f/artificial-intelligence-as-national-power",
+  "alternate_identifiers": [
+    {
+      "scheme": "URL",
+      "identifier": "https://epinova.org/articles/f/artificial-intelligence-as-national-power",
+      "description": "Original EPINOVA article page."
+    }
+  ],
+  "related_works": [],
+  "references": [],
+  "files": [
+    {
+      "filename": "article.html",
+      "content_type": "text/html",
+      "description": "Archived HTML copy of the original EPINOVA article, including locally preserved images."
+    },
+    {
+      "filename": "article.md",
+      "content_type": "text/markdown",
+      "description": "Markdown preservation copy of the article."
+    },
+    {
+      "filename": "article.txt",
+      "content_type": "text/plain",
+      "description": "Plain-text preservation copy of the article."
+    },
+    {
+      "filename": "assets/image-001.jpg",
+      "original_url": "https://img1.wsimg.com/isteam/stock/112560/:/rs=w:1280",
+      "content_type": "image/jpeg",
+      "description": "Locally archived image from the original EPINOVA article."
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "landing_page": "https://publications.epinova.org/epinova-art-2025-artificial-intelligence-as-national-powe/",
+  "crossref": {
+    "crossref_url": "https://publications.epinova.org/epinova-art-2025-artificial-intelligence-as-national-powe/",
+    "crossref_doi_suffix": "epinova.art.2025.artificial.intelligence.as.national.powe",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2025-12-26",
+    "last_updated": "2026-05-01"
+  }
+}

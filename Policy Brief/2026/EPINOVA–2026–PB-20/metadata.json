@@ -1,29 +1,328 @@
 {
-  "title": "Israel's Strategic Options and U.S. Rebalancing under Dual-Theater Constraints",
+  "epinova_id": "EPINOVA-PB-2026-020",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-020",
+  "title": "Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints",
+  "subtitle": "",
   "title_normalized": "israel's strategic options and u.s. rebalancing under dual-theater constraints",
-  "date": "2026-03-28",
-  "doi": "10.5281/zenodo.19298296",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "210018490",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-28",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19298297",
+  "previous_doi": "10.5281/zenodo.19261831",
+  "landing_page": "https://doi.org/10.5281/zenodo.19298297",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19298297",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19261831",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "209942602",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–20",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes how the U.S.–Israel–Iran conflict has shifted from escalation-driven dynamics to allocation-driven competition under dual-theater constraints. It argues that Israel’s strategic options remain operationally viable but increasingly unsustainable, while U.S. engagement has become a scarce, allocable resource shaped by competing demands from the Middle East and Ukraine.",
+  "abstract": "The current phase of the U.S.–Israel–Iran conflict is no longer defined by escalation capacity alone, but by the compression of escalation bandwidth under systemic constraints. Israel retains multiple operational options, yet these options are increasingly concentrated in high-risk, low-sustainability pathways with diminishing marginal returns. At the same time, the United States has entered a structural dual-theater constraint regime, in which sustaining commitments in both the Middle East and Ukraine generates mounting pressure on critical military resources, particularly air defense systems, munitions, and logistical capacity. The brief argues that Israel is no longer operating solely against Iran, but is indirectly competing with Ukraine for U.S. strategic attention, resource allocation, and escalation tolerance. This marks a shift from escalation-driven dynamics to allocation-driven competition.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Israel strategy",
+    "U.S. rebalancing",
+    "Dual-theater constraints",
+    "Escalation bandwidth",
+    "Resource allocation",
+    "Allocation-driven competition",
+    "Air defense systems",
+    "Patriot",
+    "THAAD",
+    "Ukraine",
+    "Middle East",
+    "Strategic prioritization",
+    "Conditional decoupling",
+    "Resource scarcity",
+    "Escalation lock-in",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Alliance commitments",
+    "Strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International security",
+    "Middle East security",
+    "U.S. foreign policy",
+    "Israel security policy",
+    "Iran conflict",
+    "Ukraine war",
+    "Alliance management",
+    "Military resource allocation",
+    "Air defense",
+    "Escalation dynamics",
+    "Conflict systems analysis",
+    "Geopolitical risk",
+    "Defense policy",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-28",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-28",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-28",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-20/Israel%E2%80%99s%20Strategic%20Options%20and%20U.S.%20Rebalancing%20under%20Dual-Theater%20Constraints.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-20",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-20",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-020",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, escalation dynamics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Escalation Bandwidth and Dual-Theater Constraint Framework",
+    "source_basis": "Policy-facing systems analysis of escalation bandwidth, resource scarcity, alliance commitments, and cross-theater allocation trade-offs in the U.S.–Israel–Iran conflict and Ukraine theater.",
+    "case_context": "Israel’s strategic options and U.S. rebalancing under simultaneous Middle East and Ukraine commitments.",
+    "core_problem": "Escalation capacity is no longer theater-bound; U.S. military support, air defense assets, munitions, logistics, strategic attention, and escalation tolerance are globally shared and competitively allocated under scarcity.",
+    "central_claims": [
+      "The primary constraint in the conflict has shifted from escalation capability to the capacity to sustain escalation across multiple theaters under resource and systemic limits.",
+      "Israel’s remaining options are increasingly high-risk and structurally unsustainable, with diminishing marginal returns.",
+      "The United States has entered a dual-theater constraint regime that places binding pressure on critical military resources, particularly air defense systems.",
+      "Resource competition between Israel and Ukraine has become operationally binding, transforming parallel commitments into direct strategic trade-offs.",
+      "U.S. strategy is transitioning toward selective prioritization and conditional decoupling, resulting in differentiated commitment levels across theaters."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Escalation Bandwidth",
+        "description": "Treats escalation as a constrained bandwidth shaped by resource availability, system stability, alliance commitments, and political tolerance rather than as a linear escalation ladder."
+      },
+      {
+        "name": "Dual-Theater Constraint",
+        "description": "Analyzes how simultaneous Middle East and Ukraine commitments transform theater-specific decisions into a global allocation problem."
+      },
+      {
+        "name": "Resource Competition",
+        "description": "Examines how limited high-end assets, especially air defense systems, munitions, ISR, and logistics, create direct trade-offs between Israel and Ukraine."
+      },
+      {
+        "name": "Selective Prioritization",
+        "description": "Interprets U.S. behavior as a shift from parallel support under managed asymmetry to constraint-driven optimization under scarcity."
+      },
+      {
+        "name": "Conditional Decoupling",
+        "description": "Defines conditional decoupling as the strategic use of selective constraint to reallocate limited resources, strategic attention, and escalation capacity across theaters."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Resource Availability",
+      "code": "RA",
+      "description": "Represents the availability of high-end military assets, air defense systems, munitions, ISR capacity, and logistical support required to sustain escalation across theaters."
+    },
+    {
+      "name": "System Stability",
+      "code": "SS",
+      "description": "Captures the broader stability of the conflict system, including energy, maritime, escalation, and European balance risks."
+    },
+    {
+      "name": "Alliance Commitments",
+      "code": "AC",
+      "description": "Measures the burden of simultaneous U.S. commitments to partners across the Middle East and Europe."
+    },
+    {
+      "name": "Political Tolerance",
+      "code": "PT",
+      "description": "Assesses the political capacity to sustain resource transfers, escalation risk, and differentiated commitments across theaters."
+    },
+    {
+      "name": "Cross-Theater Allocation Pressure",
+      "code": "CTAP",
+      "description": "Captures the degree to which demands from Israel and Ukraine compete for identical or overlapping U.S. strategic resources."
+    }
+  ],
+  "key_findings": [
+    "The U.S.–Israel–Iran conflict has shifted from escalation-driven dynamics to allocation-driven competition.",
+    "Israel retains several operational pathways, but these increasingly converge toward high-risk, low-sustainability strategies with diminishing marginal returns.",
+    "Deepening U.S. operational integration can increase short-term support while accelerating the consumption of shared U.S. strategic capacity.",
+    "High-value targeting and multi-front pressure can sustain escalation pressure but also heighten U.S. reluctance and overextension risk.",
+    "U.S. air defense systems and related high-end assets are becoming binding constraints under simultaneous Middle East and Ukraine demands.",
+    "Parallel commitments are being transformed into direct competition because resource allocation is increasingly competitive rather than distributive.",
+    "U.S. strategy is shifting from parallel support to managed scarcity and constraint-driven prioritization.",
+    "Conditional decoupling functions not only as escalation restraint but also as a cross-theater resource allocation mechanism.",
+    "Strategic outcomes will increasingly be determined by allocation priority rather than escalation capacity."
+  ],
+  "policy_recommendations": [
+    "Assess Israeli operational options through sustainability and resource-consumption criteria rather than escalation capability alone.",
+    "Treat U.S. air defense and high-end military asset availability as a binding strategic variable in dual-theater planning.",
+    "Incorporate Ukraine–Middle East resource trade-offs into alliance consultation, escalation management, and operational planning.",
+    "Use conditional decoupling to manage scarce strategic capacity while avoiding uncontrolled escalation lock-in.",
+    "Prioritize system stability under resource scarcity rather than assuming that simultaneous support can remain indefinitely elastic."
+  ],
+  "related_works": [
+    {
+      "title": "From Compensation to Strategic Amplification: Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19261832",
+      "relation": "Previous policy brief in the EPINOVA PB sequence examining conflict cost reassignment and strategic amplification.",
+      "type": "DOI"
+    },
+    {
+      "title": "Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict",
+      "identifier": "10.5281/zenodo.19223653",
+      "relation": "Related policy brief on U.S.–Israel strategic divergence and war aims.",
+      "type": "DOI"
+    },
+    {
+      "title": "Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict",
+      "identifier": "10.5281/zenodo.19210002",
+      "relation": "Related policy brief on cost pressure and strategic constraints in the U.S.–Iran conflict.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints, Policy Brief No. EPINOVA–2026–PB–20, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19298297. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Israel’s strategic options and U.S. rebalancing under dual-theater constraints (Policy Brief No. EPINOVA–2026–PB–20). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19298297. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints, EPINOVA–2026–PB–20.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-28",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "U.S. Strategic Allocation under Dual-Theater Constraints",
+      "page": 5,
+      "description": "Illustrates the shift from distributive flexibility to constraint-driven prioritization within a constrained allocation space shaped by competing demands from the Middle East, Europe, and system-level stability requirements.",
+      "note": "The figure describes a recent shift toward higher short-term operational priority in the Middle East while maintaining long-term strategic commitment to Ukraine."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "From Parallel Commitments to Direct Competition: U.S. Resource Allocation Across Dual Theaters",
+      "page": 4,
+      "description": "Compares the Middle East and Ukraine across time horizon, system risk, resources, and political framing, emphasizing that air defense interceptors constitute the binding constraint."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, embedded table/figure review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, escalation bandwidth formula, Israel strategic options, U.S. resource competition analysis, Table 1, Figure 1, strategic implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19298296, ORCID put-code 210018490, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19298297 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19298297",
+    "crossref_doi_suffix": "epinova.pb.2026.020",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19298297",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "209942602",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-30"
   }
 }

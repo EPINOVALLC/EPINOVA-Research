@@ -73,7 +73,7 @@ a:hover {
 
 .topbar-inner {
   max-width: 1180px;
-  min-height: 96px;
+  min-height: 160px;
   margin: 0 auto;
   padding: 12px 24px;
   display: flex;
@@ -87,7 +87,7 @@ a:hover {
 
 .brand-logo-wrap {
   width: 620px;
-  height: 88px;
+  height: 100px;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -392,6 +392,44 @@ thead th {
   margin-bottom: 10px;
 }
 
+.latest-category-block {
+  margin-top: 22px;
+}
+
+.latest-category-block h3 {
+  font-size: 18px;
+  margin: 0 0 8px;
+}
+
+.latest-category-block .latest-list {
+  margin-top: 0;
+}
+
+.subcategory-block {
+  margin-top: 34px;
+}
+
+.subcategory-block h2 {
+  font-size: 21px;
+  margin: 0 0 16px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.year-block {
+  margin-top: 18px;
+}
+
+.year-block h3 {
+  font-size: 17px;
+  margin: 0 0 8px;
+  color: #333;
+}
+
+.year-block .category-list {
+  margin-top: 0;
+}
+
 .footer {
   background: var(--dark);
   color: #ccc;
@@ -442,7 +480,7 @@ thead th {
 
   .topbar-inner {
     max-width: 1180px;
-    min-height: 108px;
+    min-height: 116px;
     margin: 0 auto;
     padding: 10px 24px;
     display: flex;
@@ -455,18 +493,22 @@ thead th {
   }
 
   .brand-logo-wrap {
-    width: 100%;
+    width: 660px;
+    height: 96px;
+    overflow: visible;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: visible;
   }
 
   .brand-logo {
-    width: min(400px, 92vw);
+    width: 600px;
     height: auto;
-    max-height: 62px;
-    transform: none;
+    max-height: 86px;
+    object-fit: contain;
+    display: block;
+    transform: translateX(-18px);
+    transform-origin: center center;
   }
 
   .publication-nav {
@@ -514,8 +556,9 @@ thead th {
     <a href="/">Publications</a>
     <a href="/policy-briefs/">Policy Briefs</a>
     <a href="/working-papers/">Working Papers</a>
-    <a href="/reports/">Reports</a>
+    <!-- <a href="/reports/">Reports</a> -->
     <a href="/white-books/">White Books</a>
+    <a href="/research-reports/">Research Reports</a>
     <a href="https://epinova.org">EPINOVA</a>
   </nav>
 </div>
@@ -682,7 +725,7 @@ thead th {
       <p><a href="/">Publication index</a><br>
       <a href="/policy-briefs/">Policy Briefs</a><br>
       <a href="/working-papers/">Working Papers</a><br>
-      <a href="/reports/">Reports</a><br>
+      <!-- <a href="/reports/">Reports</a> -->
       <a href="/white-books/">White Books</a></p>
     </div>
     <div>
@@ -691,7 +734,7 @@ thead th {
       <a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p>
     </div>
     <div class="footer-bottom">
-      Generated on 2026-04-29 from EPINOVA metadata records.
+      Generated on 2026-04-30 from EPINOVA metadata records.
     </div>
   </div>
 </footer>

@@ -1,29 +1,327 @@
 {
-  "title": "From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning",
+  "epinova_id": "EPINOVA-PB-2026-023",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-023",
+  "title": "From Regional Power to Network Node",
+  "subtitle": "Iran’s Post-War Trajectory and Strategic Positioning",
   "title_normalized": "from regional power to network node: iran's post-war trajectory and strategic positioning",
-  "date": "2026-04-04",
-  "doi": "10.5281/zenodo.19420590",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "210720887",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-04",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19420591",
+  "previous_doi": "10.5281/zenodo.19420590",
+  "landing_page": "https://doi.org/10.5281/zenodo.19420591",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19420591",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19420590",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "210720887",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–23",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Regional Power to Network Node",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses Iran’s post-war trajectory as a shift from conventional regional-power emergence toward network-embedded strategic positioning. It argues that Iran is more likely to operate as a high-impact regional network node than as a traditional great power, with influence derived from cost imposition, selective external embedding, partial alignment, and its ability to shape interactions within fragmented systems.",
+  "abstract": "This analysis examines Iran’s post-war trajectory as a process of structural and functional transformation within an increasingly networked international system. Rather than consolidating into a dominant regional power, Iran is more likely to assume the role of a network-embedded strategic node whose influence derives from its capacity to impose costs, shape system-level interactions, and operate across fragmented and partially aligned structures. The brief argues that Iran’s future will be shaped by cost-imposition dynamics, selective reconstruction engagement from major Eastern actors, non-aligned but system-responsive positioning, and the alignment or misalignment between internal governance structures and external network roles. The analysis treats Iran’s trajectory as indicative of broader changes in international politics, where strategic relevance is increasingly defined by function within systems rather than hierarchical dominance.",
+  "keywords": [
+    "Iran",
+    "Post-war trajectory",
+    "Network node",
+    "Network-embedded power",
+    "Regional power",
+    "Strategic positioning",
+    "Cost imposition",
+    "Asymmetric rise",
+    "Partial alignment",
+    "Non-alignment",
+    "Embedded reconstruction",
+    "Asymmetric interdependence",
+    "Eastern involvement",
+    "Iran reconstruction",
+    "Regional security",
+    "Networked international system",
+    "Strategic competition",
+    "Governance fragmentation",
+    "Theocratic-institutional configuration",
+    "IRGC",
+    "Nonlinear instability",
+    "Systemic risk",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Middle East security",
+    "Iran studies",
+    "International relations",
+    "Networked conflict",
+    "Conflict systems analysis",
+    "Geopolitics",
+    "Post-war reconstruction",
+    "Political economy",
+    "Security governance",
+    "Systemic risk",
+    "Alliance and alignment studies",
+    "Regional order",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-04",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-04",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-04",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-23/From%20Regional%20Power%20to%20Network%20Node%20Iran%E2%80%99s%20Post-War%20Trajectory%20and%20Strategic%20Positioning.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-23",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-23",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-023",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Network-Embedded Power and Post-War Strategic Positioning Framework",
+    "source_basis": "Structural and systems-based assessment of Iran’s post-war trajectory, drawing on observed trends in conflict behavior, cost-imposition dynamics, partial alignment structures, reconstruction pathways, and internal governance constraints.",
+    "case_context": "Iran’s post-war trajectory and strategic positioning after the U.S.–Israel–Iran conflict, with attention to regional security, external reconstruction involvement, non-aligned positioning, and internal governance adaptation.",
+    "core_problem": "Iran’s future influence cannot be adequately assessed through conventional metrics of great-power emergence, territorial control, or scale accumulation; it must be analyzed through network position, cost-imposition capacity, partial alignment, and coherence between internal governance and external functional roles.",
+    "central_claims": [
+      "Iran is unlikely to emerge as a traditional great power and is more likely to function as a high-impact regional network node.",
+      "Iran’s influence is expected to derive less from dominance than from its ability to impose costs, shape interactions, and complicate control within fragmented systems.",
+      "Post-war reconstruction is likely to be shaped by selective, sectoral engagement from major Eastern actors rather than comprehensive strategic alignment.",
+      "Iran is unlikely to adopt sustained neutrality and is better understood as a non-aligned, system-responsive actor within a partially aligned order.",
+      "Iran’s internal governance structure remains a primary source of long-term uncertainty because it may not fully align with external network roles and reconstruction demands.",
+      "The principal systemic risk is nonlinear instability generated by interacting internal and external pressures rather than gradual decline."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Network-Embedded Power",
+        "description": "A form of influence in which strategic relevance derives primarily from position within interconnected systems and from the ability to shape interactions, impose costs, and affect systemic dynamics rather than territorial control or hierarchical authority."
+      },
+      {
+        "name": "Rise Without Dominance",
+        "description": "Iran may consolidate regional influence and deterrence credibility without achieving system-wide dominance or stable hierarchical control."
+      },
+      {
+        "name": "Embedded Reconstruction",
+        "description": "External actors may participate in post-war rebuilding through resource-backed infrastructure, energy-linked financing, and integration into regional economic and logistical networks while remaining bounded by Iranian national control structures."
+      },
+      {
+        "name": "Partial Alignment and Functional Positioning",
+        "description": "Iran’s external positioning is treated as non-aligned in formal alliance terms but non-neutral in systemic interaction, reflecting role-based participation rather than bloc membership."
+      },
+      {
+        "name": "Internal Governance Misalignment",
+        "description": "The analysis highlights tension between external integration dynamics requiring flexibility and internal governance structures oriented toward centralized control and sovereignty preservation."
+      },
+      {
+        "name": "Nonlinear Instability Risk",
+        "description": "Instability is framed as a possible discontinuous outcome of interacting pressures across governance, economic, security, and external embedding domains rather than a single-point failure."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Cost-Imposition Capacity",
+      "code": "CIC",
+      "description": "Assesses Iran’s ability to impose disproportionate defensive, operational, and maintenance costs on adversaries through relatively low-cost offensive and networked pressure mechanisms."
+    },
+    {
+      "name": "Network Leverage and Alliance Friction",
+      "code": "NLAF",
+      "description": "Captures Iran’s capacity to exploit alliance asymmetries, desynchronize adversary decision-making, and pressure critical operational and infrastructural nodes over time."
+    },
+    {
+      "name": "Embedded Reconstruction Potential",
+      "code": "ERP",
+      "description": "Evaluates the likelihood and strategic consequences of selective external participation in Iran’s reconstruction through infrastructure, energy, supply-chain, and digital-connectivity sectors."
+    },
+    {
+      "name": "Partial Alignment Positioning",
+      "code": "PAP",
+      "description": "Assesses Iran’s role as a formally non-aligned but system-responsive actor embedded in regional and cross-regional networks."
+    },
+    {
+      "name": "Internal Governance Coherence",
+      "code": "IGC",
+      "description": "Evaluates the alignment between Iran’s theocratic authority, military-economic influence, and technocratic administration under post-war reconstruction and external embedding pressures."
+    },
+    {
+      "name": "Nonlinear Instability Exposure",
+      "code": "NIE",
+      "description": "Assesses the risk that interacting internal governance constraints and external integration demands may exceed coordinated control capacity and produce discontinuous instability."
+    }
+  ],
+  "key_findings": [
+    "Iran is assessed as unlikely to emerge as a traditional great power; it is more likely to function as a high-impact regional network node.",
+    "Iran’s trajectory reflects a broader shift from dominance-based power toward network-based influence.",
+    "Iran’s post-war influence is more likely to come from cost imposition, interaction-shaping, and control-complication than from territorial expansion or hierarchical order-building.",
+    "Selective, sectoral economic integration by major Eastern actors is likely to shape reconstruction more than comprehensive strategic alignment.",
+    "Iran is unlikely to adopt sustained neutrality; its position is better characterized as non-aligned but non-neutral in systemic interaction and conflict dynamics.",
+    "Internal governance dynamics, particularly the theocratic–institutional configuration and military-economic influence, are likely to remain the primary source of long-term uncertainty.",
+    "Iran’s internal governance structure may face persistent tension between external integration demands and centralized control-oriented domestic institutions.",
+    "The principal systemic risk lies in nonlinear instability arising from interacting internal and external pressures rather than gradual decline."
+  ],
+  "policy_recommendations": [],
+  "analytical_scope_and_limits": {
+    "statement": "The PDF states that the assessment focuses on structural patterns and systemic dynamics and does not constitute a policy recommendation. Findings should be interpreted as indicative of structural tendencies and analytical scenarios rather than deterministic forecasts.",
+    "contingencies": [
+      "External actor strategies",
+      "Regional developments",
+      "Internal political and economic adjustment within Iran",
+      "Reconstruction conditions and sanctions environment",
+      "Evolution of partial alignment structures"
+    ]
+  },
+  "related_works": [
+    {
+      "title": "Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict",
+      "identifier": "10.5281/zenodo.19210002",
+      "relation": "Related EPINOVA policy brief addressing cost-imposition logic in the U.S.–Iran conflict",
+      "type": "DOI"
+    },
+    {
+      "title": "If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict",
+      "identifier": "10.5281/zenodo.19375572",
+      "relation": "Related EPINOVA policy brief on post-withdrawal systemic shock, proxy amplification, and strategic realignment",
+      "type": "DOI"
+    },
+    {
+      "title": "From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System",
+      "identifier": "10.5281/zenodo.19411098",
+      "relation": "Related EPINOVA policy brief on networked power and the transformation of centrality in the Western system",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Regional Power to Network Node: Iran’s Post-War Trajectory and Strategic Positioning, Policy Brief No. EPINOVA–2026–PB–23, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19420591. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From regional power to network node: Iran’s post-war trajectory and strategic positioning (Policy Brief No. EPINOVA–2026–PB–23). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19420591. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Regional Power to Network Node, EPINOVA–2026–PB–23.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-04",
+    "pagination": "8 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, key judgments, conceptual framework, analytical sections, analytical scope and limits, conclusion, final statement, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19420590, ORCID put-code 210720887, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19420591 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF contains no figures or tables."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19420591",
+    "crossref_doi_suffix": "epinova.pb.2026.023",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19420591",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "210720887",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-04"
   }
 }

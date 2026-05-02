@@ -1,29 +1,353 @@
 {
-  "title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
+  "epinova_id": "EPINOVA-PB-2026-015",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-015",
+  "title": "Seizing Kharg Island",
+  "subtitle": "U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
   "title_normalized": "seizing kharg island: u.s. operational superiority and the risk of crossing the loss-of-control threshold",
-  "date": "2026-03-20",
-  "doi": "10.5281/zenodo.19138941",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "209147270",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-20",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19138942",
+  "previous_doi": "10.5281/zenodo.19104089",
+  "landing_page": "https://doi.org/10.5281/zenodo.19138942",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19138942",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19104089",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "208929218",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–15",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Seizing Tarik Island U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name; the file name uses 'Tarik Island' while the PDF title and recommended citation use 'Kharg Island'"
+    },
+    {
+      "identifier": "Seizing Kharg Island",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses U.S. operational superiority and Iran's cost-imposition capacity in a potential Kharg Island or near-shore node-control scenario. It argues that the central strategic question is not whether the United States can achieve battlefield superiority, but whether it can convert operational dominance into a durable political outcome without crossing or approaching a loss-of-control threshold under cumulative systemic pressure.",
+  "abstract": "Based on currently available battlefield information, known deployments, observed strike patterns, and existing force structures, this policy brief argues that the United States retains clear operational advantages over Iran in long-range precision strike, sea–air integration, and expeditionary command-and-support architecture. Yet Iran retains sufficient missile, drone, mining, and coastal denial capabilities to raise the cost of U.S. access, persistence, and political management. The conflict is therefore framed as a struggle over the sustainability of control under mounting systemic stress rather than a conventional balance-of-power contest. The brief estimates aggregate systemic burden at $160 billion–$470 billion over a 30-day window and $470 billion–$1.28 trillion over a 90-day window, emphasizing that these figures are systemic burden estimates rather than audited war costs. The central conclusion is that U.S. operational success may not translate into cheap or governable political control, while Iran may still shape the war's cost structure through sustained cost imposition.",
+  "keywords": [
+    "Kharg Island",
+    "U.S.–Iran conflict",
+    "U.S.–Israel–Iran conflict",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Operational superiority",
+    "Cost imposition",
+    "Systemic burden",
+    "Forward presence",
+    "Maritime security",
+    "Strait of Hormuz",
+    "Iranian littoral",
+    "Missile defense",
+    "Drone warfare",
+    "Littoral denial",
+    "Mine warfare",
+    "Expeditionary operations",
+    "Amphibious operations",
+    "Node seizure",
+    "Systemic pressure competition",
+    "Energy security",
+    "Shipping disruption",
+    "Global shock",
+    "Middle East Conflict Cost Monitor",
+    "MCCM",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Security studies",
+    "Military operations",
+    "Maritime security",
+    "Middle East security",
+    "Conflict escalation",
+    "Operational analysis",
+    "Cost-imposition strategy",
+    "Systems analysis",
+    "Energy and shipping risk",
+    "Crisis management",
+    "Defense policy",
+    "Geopolitical risk",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-20",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-20",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-20",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Seizing Tarik Island U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-15/Seizing%20Tarik%20Island%20U.S.%20Operational%20Superiority%20and%20the%20Risk%20of%20Crossing%20the%20Loss-of-Control%20Threshold.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-15",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-15",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-015",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Loss-of-Control Threshold and Systemic Burden Assessment Framework",
+    "source_basis": "Policy-facing operational assessment based on observed deployments, strike patterns, known force structures, domain-by-domain military assessment, scenario-based cost estimation, and systemic burden analysis.",
+    "case_context": "U.S.–Iran and U.S.–Israel–Iran conflict dynamics involving Kharg Island, the Strait of Hormuz, Iranian littoral denial, U.S. expeditionary operations, maritime escort, and potential node seizure or denial operations.",
+    "core_problem": "U.S. military superiority may create battlefield access and operational dominance, but prolonged forward persistence near the Iranian littoral can generate cumulative costs, spillovers, and escalation-management burdens that move actors closer to a loss-of-control threshold.",
+    "central_claims": [
+      "The United States retains decisive advantages in long-range joint strike, maritime–air power projection, and multi-domain force integration.",
+      "Iran cannot defeat the United States symmetrically but can impose continuous costs through missiles, drones, mines, coastal denial, and political signaling.",
+      "The conflict is best understood as a competition over sustainable control under systemic stress rather than a contest over immediate battlefield victory.",
+      "U.S. operational access is feasible, but persistence near Kharg Island, the Strait of Hormuz, and the Iranian littoral becomes increasingly expensive and politically constrained.",
+      "The ultimate strategic question is which actor approaches the loss-of-control threshold first under cumulative systemic pressure."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Operational Superiority versus Political Control",
+        "description": "Distinguishes the U.S. ability to win operational engagements from its ability to convert battlefield superiority into a durable and affordable political outcome."
+      },
+      {
+        "name": "Cost-Imposition Strategy",
+        "description": "Assesses how Iran can use distributed launch capability, littoral denial, mines, drones, and political amplification to raise the cost of U.S. access and persistence."
+      },
+      {
+        "name": "Systemic Pressure Competition",
+        "description": "Frames the conflict as an interaction among military expenditure, infrastructure damage, regional exposure, energy volatility, shipping risk, insurance stress, and global economic shock."
+      },
+      {
+        "name": "Loss-of-Control Threshold",
+        "description": "Evaluates whether cumulative fiscal, political, military, and systemic pressures can push one or more actors toward a threshold beyond which escalation control becomes increasingly fragile."
+      },
+      {
+        "name": "Scenario-Based Burden Estimation",
+        "description": "Uses 30-day and 90-day burden windows to estimate aggregate systemic exposure, while emphasizing that the figures are not audited war costs."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Air Domain",
+      "code": "AIR",
+      "description": "Assesses U.S. dominance in air operations while noting that air superiority does not eliminate distributed missile and drone threats."
+    },
+    {
+      "name": "Maritime Domain",
+      "code": "MAR",
+      "description": "Evaluates U.S. access and escort capacity against Iranian littoral denial, mining, anti-ship missile, drone, and fast-boat harassment threats."
+    },
+    {
+      "name": "Amphibious Domain",
+      "code": "AMPH",
+      "description": "Assesses the feasibility of short-duration seizure or denial of coastal nodes and the difficulty of long-term stabilization under persistent threat."
+    },
+    {
+      "name": "Missile Defense",
+      "code": "MDEF",
+      "description": "Captures the structural cost asymmetry between relatively low-cost attack systems and expensive defensive interception and resupply requirements."
+    },
+    {
+      "name": "Information Domain",
+      "code": "INFO",
+      "description": "Examines how military actions rapidly translate into political constraints, narrative pressure, and escalation-management burdens."
+    },
+    {
+      "name": "Systemic Burden",
+      "code": "SB",
+      "description": "Aggregates military costs, Iranian losses, surrounding-state exposure, and global shock effects across 30-day and 90-day windows."
+    }
+  ],
+  "key_findings": [
+    "The United States retains decisive advantages in long-range joint strike, maritime–air power projection, and multi-domain force integration.",
+    "Iran retains enough missile, drone, mine, and littoral denial capability to make U.S. access feasible but persistence costly and politically constrained.",
+    "The central issue is not whether Washington can achieve battlefield superiority, but whether it can convert operational dominance into durable political control without entering a high-cost cycle of forward presence and escalation management.",
+    "The likely trajectory is not decisive military collapse by either side, but simultaneous systemic burden accumulation across U.S. expenditure, Iranian infrastructure loss, surrounding-state exposure, and global economic shock.",
+    "If current conflict intensity persists, estimated aggregate systemic burden may reach $160B–$470B in 30 days and $470B–$1.28T in 90 days.",
+    "The United States loses primarily through expense, Iran through destruction, surrounding states through involuntary exposure, and the global system through price shock.",
+    "Military superiority does not equal cheap control; operational success may remain politically and fiscally difficult to sustain near the Iranian littoral.",
+    "The decisive strategic question is which actor approaches the loss-of-control threshold first under cumulative systemic pressure."
+  ],
+  "scenario_estimates": [
+    {
+      "scenario": "30-Day Window",
+      "united_states_direct_military_and_fiscal_cost": "$30B–$80B",
+      "iran_direct_military_and_economic_losses": "$45B–$120B",
+      "surrounding_states_direct_losses": "$25B–$90B",
+      "global_shock": "$60B–$180B",
+      "aggregate_systemic_burden": "$160B–$470B"
+    },
+    {
+      "scenario": "90-Day Window",
+      "united_states_direct_military_and_fiscal_cost": "$90B–$220B",
+      "iran_direct_military_and_economic_losses": "$110B–$280B",
+      "surrounding_states_direct_losses": "$70B–$180B",
+      "global_shock": "$200B–$600B",
+      "aggregate_systemic_burden": "$470B–$1.28T"
+    }
+  ],
+  "strategic_options": [
+    {
+      "option": "Most Likely Approach",
+      "description": "Long-range suppression combined with maritime escort, amphibious signaling, and limited node-control preparation."
+    },
+    {
+      "option": "Conditional Option",
+      "description": "Short-duration seizure or denial of selected coastal nodes with clearly defined exit strategies."
+    },
+    {
+      "option": "Least Sustainable Option",
+      "description": "Prolonged control of Kharg Island or similar near-shore objectives under persistent missile and drone threat."
+    }
+  ],
+  "policy_recommendations": [
+    "Do not equate U.S. operational superiority with cheap or durable political control.",
+    "Assess Iranian strategic effectiveness through sustained cost-imposition capacity rather than symmetric battlefield victory conditions.",
+    "Treat cumulative persistence costs as a primary escalation risk rather than focusing only on single tactical escalation events.",
+    "Monitor loss-of-control threshold proximity across U.S. fiscal-strategic exposure, Iranian legitimacy-retaliation dynamics, surrounding-state vulnerability, and global market shock.",
+    "Avoid prolonged near-shore control objectives unless exit strategies, burden-sharing arrangements, and escalation-management mechanisms are clearly defined."
+  ],
+  "related_works": [
+    {
+      "title": "Post-Nodal Warfare: Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?",
+      "identifier": "10.5281/zenodo.19104090",
+      "relation": "Related EPINOVA policy brief on distributed command, system vulnerability, and high-intensity conflict dynamics.",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief assessing first-week battlefield dynamics and escalation risks in the same conflict series.",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief defining an escalation ladder framework for the conflict.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold, Policy Brief No. EPINOVA–2026–PB–15, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19138942. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Seizing Kharg Island: U.S. operational superiority and the risk of crossing the loss-of-control threshold (Policy Brief No. EPINOVA–2026–PB–15). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19138942. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Seizing Kharg Island, EPINOVA–2026–PB–15.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-20",
+    "pagination": "5 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Seizing Tarik Island U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, executive summary, strategic problem, U.S. and Iranian military-position assessments, domain-by-domain assessment, strategic options, scenario-based cost and loss estimates, distribution of burden, policy implications, conclusion, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19138941, ORCID put-code 209147270, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19138942 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF title uses 'Kharg Island'; the source filename and GitHub URL use 'Tarik Island'."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19138942",
+    "crossref_doi_suffix": "epinova.pb.2026.015",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19138942",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "208929218",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-20"
   }
 }

@@ -1,13 +1,111 @@
 {
+  "epinova_id": "EPINOVA-RR-2025-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Research Report",
+  "category": "research-reports",
+  "publication_series": "EPINOVA Research Report Series",
   "title": "From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War",
-  "title_normalized": "from detection to depletion: cost-exchange limits in the russia-ukraine drone war",
-  "date": "2025-12-19",
-  "doi": "10.5281/zenodo.18036791",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "201017593",
-  "source": "ORCID Public API",
+  "subtitle": "",
+  "title_normalized": "from detection to depletion: cost-exchange limits in the russia–ukraine drone war",
+  "publication_date": "2025-12-31",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18036790",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18036790",
+  "official_page": "https://epinova.org/publications",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.18036790",
+      "scheme": "DOI",
+      "description": "Zenodo DOI landing page"
+    },
+    {
+      "identifier": "EPINOVA–2025–01–RR",
+      "scheme": "EPINOVA report number",
+      "description": "Internal EPINOVA research report identifier"
+    }
+  ],
+  "description": "This research report develops a Minimum Viable, Auditable framework for evaluating counter-drone sustainability in the Russia–Ukraine drone war. It shifts assessment from intercept-centric measures toward cost-exchange sustainability, loss suppression, and mission-outcome preservation, using indicators such as CER, OLER, CER*obs, CPLAobs, KAPR, and KAPS.",
+  "abstract": "This research report examines cost-exchange limits in the Russia–Ukraine drone war and argues that unmanned aerial systems have shifted from tactical supplements to system-level drivers of military sustainability. Using a Minimum Viable, Auditable analytical baseline grounded in public data and conservative proxies, the report reframes counter-drone effectiveness away from intercept or shoot-down rates and toward sustainability- and mission-outcome-oriented evaluation. It integrates five indicators: Cost Exchange Ratio (CER), Observational Loss Suppression Ratio (OLER), composite cost-loss indicator CER*obs, Cost per Loss Avoided (CPLAobs), and Key Asset Preservation Ratio/Score (KAPR/KAPS). Applied to 2023–2025 public data, the analysis finds that high interception performance can coexist with deteriorating cost sustainability; that attack scale and saturation make unit cost curves decisive; and that mission outcomes such as power continuity and fuel supply preservation provide a more meaningful measure of strategic effect than interception counts alone. The report concludes that counter-UAS capability should be treated as an endurance capability under sustained saturation, requiring low-cost terminal layers, multi-sensor fusion, magazine-depth planning, and governance attention to AI-assisted detection and automated engagement.",
+  "keywords": [
+    "Russia–Ukraine war",
+    "drone warfare",
+    "counter-UAS",
+    "counter-drone defense",
+    "unmanned aerial systems",
+    "UAS",
+    "UAV",
+    "Shahed",
+    "Geran",
+    "air defense",
+    "cost-exchange ratio",
+    "CER",
+    "CER*",
+    "CPLA",
+    "OLER",
+    "KAPR",
+    "KAPS",
+    "Minimum Viable Auditable",
+    "MVA",
+    "mission outcomes",
+    "critical infrastructure",
+    "energy infrastructure",
+    "power continuity",
+    "fuel supply",
+    "saturation",
+    "magazine depth",
+    "low-cost terminal defense",
+    "electronic warfare",
+    "sensor fusion",
+    "AI-enabled warfare",
+    "meaningful human control",
+    "strategic sustainability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI-enabled warfare",
+    "Defense policy",
+    "Drone warfare",
+    "Counter-UAS",
+    "Military technology",
+    "Strategic studies",
+    "International security",
+    "Russia–Ukraine war",
+    "Critical infrastructure resilience",
+    "Cost-exchange analysis",
+    "Security governance",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-31",
+      "type": "Issued",
+      "description": "Public release of the research report."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "files": [
     {
       "label": "Download PDF",
@@ -17,13 +115,220 @@
       "description": "Full-text PDF of the publication"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "IsIdenticalTo",
+      "identifier": "https://doi.org/10.5281/zenodo.18036790",
+      "scheme": "DOI",
+      "resource_type": "Research Report",
+      "description": "Zenodo DOI record for this research report"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18110856",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief extending the argument from predictive control toward robustness in contested ISR environments"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18081107",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Related EPINOVA working paper on permanent presence under uncertainty, partially observable game-theoretic framing, cost-frequency dynamics, and strategic stability"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign",
+      "scheme": "URL",
+      "resource_type": "Analysis",
+      "description": "CSIS analysis used as a public source on Russia’s Shahed saturation campaign"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://www.reuters.com/graphics/UKRAINE-CRISIS/RUSSIA-ENERGY/gdpzbxkgwpw/",
+      "scheme": "URL",
+      "resource_type": "News analysis",
+      "description": "Reuters visual investigation and reporting on Ukraine’s drone campaign against Russian energy infrastructure"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine",
+      "scheme": "URL",
+      "resource_type": "Report",
+      "description": "Institute for Science and International Security monthly analysis of Russian Shahed-136 deployment against Ukraine"
+    }
+  ],
+  "references": [
+    "ACLED. (n.d.). Ukraine Conflict Monitor: Data and methodology. https://acleddata.com",
+    "Atlantic Council. (2025, January 16). Ukraine’s escalating air attacks bring Putin’s invasion home to Russia. https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-escalating-air-attacks-bring-putins-invasion-home-to-russia/",
+    "Australian Army Research Centre. (2025, August 19). Translating Ukraine lessons for the Pacific Theatre. https://researchcentre.army.gov.au/library/occasional-papers/translating-ukraine-lessons-pacific-theatre",
+    "Business Insider. (2025, November 11). Ukraine is fighting a war of innovations, and AI may be helping it down Russian drones. https://www.businessinsider.com/ukraine-russia-drones-ai-shahed-geran-anti-air-defense-2025-11",
+    "Center for European Policy Analysis (CEPA). (2023, September 27). An urgent matter of drones: Lessons for NATO from Ukraine. https://cepa.org/comprehensive-reports/an-urgent-matter-of-drones/",
+    "Center for Strategic and International Studies (CSIS). (2024, October 23). Assessing Russian firepower strikes in Ukraine. https://www.csis.org/analysis/assessing-russian-firepower-strikes-ukraine",
+    "Center for Strategic and International Studies (CSIS). (n.d.). Russian firepower strike tracker: Analyzing missile attacks in Ukraine. https://www.csis.org/programs/futures-lab/projects/russian-firepower-strike-tracker-analyzing-missile-attacks-ukraine",
+    "Center for Strategic and International Studies (CSIS). (2025, May 13). Drone saturation: Russia’s Shahed campaign. https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign",
+    "Center for Strategic and International Studies (CSIS). (2025, September 9). Russia’s massed strikes: The strategy of coercion by salvo. https://www.csis.org/analysis/russias-massed-strikes-strategy-coercion-salvo",
+    "Congressional Research Service. (2025, March 31). Department of Defense counter unmanned aircraft systems (R48477). https://www.congress.gov/crs_external_products/R/PDF/R48477/R48477.2.pdf",
+    "De Cubber, G. (2025). Standardized evaluation of counter-drone systems: Methods, technologies, and performance metrics. Drones, 9(5), 354. https://www.mdpi.com/2504-446X/9/5/354",
+    "Department of Defense. (2023, January 25). DoD Directive 3000.09: Autonomy in weapon systems. https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf",
+    "Department of Defense. (2024, December 5). Fact sheet: Strategy for countering unmanned systems. https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF",
+    "European Commission. (2024, February 14). Updated Ukraine recovery and reconstruction needs assessment. https://ec.europa.eu/commission/presscorner/detail/en/ip_24_801",
+    "Federal Aviation Administration. (2024, February 5). UAS detection and mitigation systems ARC: Final report. https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf",
+    "Gong, J., et al. (2023). Improved radar detection of small drones using Doppler signal-to-clutter ratio detector. Drones, 7(5), 316. https://www.mdpi.com/2504-446X/7/5/316",
+    "Government of Ukraine, World Bank, European Commission, & United Nations. (2024). Third Ukraine rapid damage and needs assessment (RDNA3): February 2022–December 2023. https://ukraine.un.org/sites/default/files/2024-02/UA%20RDNA3%20report%20EN.pdf",
+    "Government of Ukraine, World Bank, European Commission, & United Nations. (2025). Fourth Ukraine rapid damage and needs assessment (RDNA4): February 2022–December 2024. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099022025114040022",
+    "Government Accountability Office. (2022). Counter-drone technologies. https://www.gao.gov/assets/gao-22-105705.pdf",
+    "Government Accountability Office. (2025, June 18). Army modernization: Air and missile defense efforts. https://www.gao.gov/assets/gao-25-107491.pdf",
+    "Human Rights Watch & Harvard Law School International Human Rights Clinic. (2023). Review of the 2023 U.S. policy on autonomy in weapons systems. https://humanrightsclinic.law.harvard.edu/wp-content/uploads/2023/02/Review-of-the-2023-US-Policy-on-Autonomy-in-Weapons-Systems.pdf",
+    "Institute for Science and International Security. (2025, December 1). Monthly analysis of Russian Shahed-136 deployment against Ukraine. https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine",
+    "Institute for the Study of War. (2025). Russian force generation and technological adaptations updates. https://understandingwar.org",
+    "International Institute for Strategic Studies. (2025, April 14). Russia doubles down on the Shahed. https://www.iiss.org/online-analysis/military-balance/2025/04/russia-doubles-down-on-the-shahed/",
+    "Joint Air Power Competence Centre. (2020). A comprehensive approach to countering unmanned aircraft systems. https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf",
+    "Joint Chiefs of Staff. (2012). JP 3-01: Countering air and missile threats. https://defenseinnovationmarketplace.dtic.mil/wp-content/uploads/2018/02/JointDoctrine-CounteringAirandMissileThreats.pdf",
+    "Khan, M. A., Menouar, H., Eldeeb, A., Abu-Dayya, A., & Salim, F. D. (2022). On the detection of unauthorized drones: Techniques and future perspectives. IEEE Sensors Journal. https://doi.org/10.1109/JSEN.2022.3171293",
+    "National Institute of Standards and Technology. (2020). Measuring and comparing small unmanned aircraft systems: Test methods – Introduction. https://www.nist.gov/system/files/documents/2020/07/06/NIST%20sUAS%20Test%20Methods%20-%20Introduction%20%282020B1%29.pdf",
+    "Open Source Munitions Portal. (n.d.). Shahed-136 series. https://osmp.ngo/model/shahed-136-series/",
+    "Reuters. (2025, October 16). Inside Ukraine’s drone campaign to blitz Russia’s energy. https://www.reuters.com/graphics/UKRAINE-CRISIS/RUSSIA-ENERGY/gdpzbxkgwpw/",
+    "Reuters. (2025, December 13). Ukraine’s Odesa suffers major blackouts after Russian attack. https://www.reuters.com/business/aerospace-defense/ukraines-odesa-suffers-major-blackouts-after-russian-attack-2025-12-13/",
+    "Sky News. (2025, November 4). Russian ‘suicide drone’ launches quadruple this year. https://news.sky.com/story/russian-suicide-drone-launches-quadruple-this-year-13463263",
+    "United Nations Peacekeeping. (2025). Guidelines on counter unmanned aircraft systems. https://resourcehub01.blob.core.windows.net/%24web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Military/2025.16%20Guidelines%20on%20Counter%20Unmanned%20Aircraft%20Systems.pdf",
+    "U.S. Army. (2017). ATP 3-01.81: Counter–unmanned aircraft system techniques. https://aviation-assets.info/wp-content/uploads/ARN3099_ATP-3-01x81-FINAL-WEB.pdf",
+    "U.S. Army. (2025). FM 3-01: U.S. Army air and missile defense operations. https://rdl.train.army.mil/catalog-ws/view/100.ATSC/C01CC9C1-DA1C-4D5E-A6EB-5FCFAE218DCD-1398170439966/FM_3_01wc1.pdf",
+    "World Bank Open Knowledge Repository. (2024–2025). Ukraine rapid damage and needs assessments (RDNA3–RDNA4). https://openknowledge.worldbank.org"
+  ],
+  "recommended_citation": "Wu, S. (2025). From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War (Research Report). EPINOVA–2025–01–RR. Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "EPINOVA Research Report Series",
+    "place": "United States",
+    "publisher": "Global AI Governance Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "46 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1a",
+      "title": "Observational Indicators (2023)",
+      "description": "Visualizes the 2023 evolution of observational indicators including CER, OLER, CER*obs, CPLAobs, and KAPS for Ukraine and Russia under the MVA baseline.",
+      "source": "Author’s MVA baseline calculations based on publicly available data and conservative proxy assumptions",
+      "note": "Illustrative trend visualization; values are bounded ranges and not statistical confidence intervals."
+    },
+    {
+      "number": "Figure 1b",
+      "title": "Observational Indicators (2024)",
+      "description": "Visualizes the 2024 evolution of observational indicators including CER, OLER, CER*obs, CPLAobs, and KAPS for Ukraine and Russia under the MVA baseline.",
+      "source": "Author’s MVA baseline calculations based on publicly available data and conservative proxy assumptions",
+      "note": "Illustrative trend visualization; values are bounded ranges and not statistical confidence intervals."
+    },
+    {
+      "number": "Figure 1c",
+      "title": "Observational Indicators (2025)",
+      "description": "Visualizes the 2025 evolution of observational indicators including CER, OLER, CER*obs, CPLAobs, and KAPS for Ukraine and Russia under provisional MVA baseline assumptions.",
+      "source": "Author’s MVA baseline calculations based on publicly available data and conservative proxy assumptions",
+      "note": "2025 values are provisional and included for temporal continuity under the MVA standard."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Sustainability Decision Frontier under Drone Saturation: CPLAcf vs. CER*cf",
+      "description": "Plots counterfactual 2025 sustainability trade-offs across defense-structure choices under fixed stress assumptions, comparing marginal cost per loss avoided against composite counterfactual cost-loss pressure.",
+      "source": "Author’s counterfactual stress-test module",
+      "note": "Scenario-based stress-test visualization only; not an observed outcome or normative optimal configuration."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1A",
+      "title": "Observational Sustainability and Mission Outcomes (MVA Baseline)",
+      "description": "Reports baseline observational indicators for Ukraine and Russia from 2023 to 2025, including Ntotal, Nattack, defense mix, CER, OLER, CER*obs, CPLAobs, and KAPS.",
+      "source": "Author’s MVA baseline calculations using public sources, critical-asset functional-loss proxies, and bounded sensitivity assumptions",
+      "note": "Attack-intensity values are not numerically symmetric across sides because they reflect different attack modes: high-frequency saturation versus low-frequency node targeting. 2025 values are provisional."
+    },
+    {
+      "number": "Table 1B(a)",
+      "title": "Unified Counterfactual Assumptions",
+      "description": "Defines the low, base, and high stress multiplier scenarios used in the 2025 counterfactual stress test.",
+      "source": "Author’s counterfactual stress-test assumptions",
+      "note": "Counterfactual assumptions are for comparative stress testing and do not represent observed outcomes."
+    },
+    {
+      "number": "Table 1B(b)",
+      "title": "Counterfactual Stress Test Results (2025)",
+      "description": "Compares 2025 counterfactual stress-test results across SAM-heavy, balanced, and low-cost defense mixes, reporting CER, CLER, CER*cf, and CPLAcf ranges.",
+      "source": "Author’s counterfactual stress-test module",
+      "note": "Results are scenario-based and should not be interpreted as empirical measurements."
+    },
+    {
+      "number": "Appendix C Decision Matrix",
+      "title": "Decision Rules for Interpreting Counter-Drone Performance under Saturation",
+      "description": "Provides a structured interpretation matrix linking combinations of CER, OLER, and KAPS to strategic interpretation and policy implications.",
+      "source": "Author’s decision framework",
+      "note": "Heuristic interpretation aid designed to prevent single-indicator misreading under saturation conditions."
+    }
+  ],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "created_date": "2026-04-30",
+    "last_updated": "2026-05-01"
+  },
+  "crossref": {
+    "intended_registration_agency": "",
+    "record_type": "report",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18036790",
+    "crossref_doi_suffix": "epinova.rr.2025.001",
+    "registration_status": "Not applicable; DOI currently assigned through Zenodo/DataCite"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "This publication currently has a Zenodo/DataCite DOI. Datasets, code, figures, and supplementary materials may be assigned separate DataCite-based DOIs if needed."
   }
 }

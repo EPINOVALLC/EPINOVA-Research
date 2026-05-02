@@ -1,29 +1,316 @@
 {
+  "epinova_id": "EPINOVA-PB-2026-012",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-012",
   "title": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War",
+  "subtitle": "",
   "title_normalized": "narrative underperformance in the first week of the u.s.-israel-iran war",
-  "date": "2026-03-07",
-  "doi": "10.5281/zenodo.18904461",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "207711845",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-07",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18904462",
+  "previous_doi": "10.5281/zenodo.18904461",
+  "landing_page": "https://doi.org/10.5281/zenodo.18904462",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18904462",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18904461",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "207711845",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–12",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief examines information competition during the first week of the 2026 U.S.–Israel–Iran war. It argues that the United States did not lose the battlefield but appeared to lose narrative momentum because high communication volume did not translate into coherent, feed-compatible, serial messaging.",
+  "abstract": "This policy brief analyzes how communication tempo, narrative continuity, media-format compatibility, and expectation asymmetry shaped perceptions of initiative during the first week of the 2026 U.S.–Israel–Iran war. It finds that U.S. messaging was active but structurally fragmented across multiple institutions and formats, while Iran and Israel benefited from communication architectures that produced more visible narrative progression. Using a best-effort cross-channel estimate for official public outputs released between February 28 and March 6, the brief approximates visible communication tempo at 1.2 : 1 : 2.1 for the United States, Israel, and Iran. It concludes that actors with continuous, serially structured, feed-compatible communication are more likely to shape perceptions of momentum in early conflict phases, even when battlefield outcomes remain uncertain.",
+  "keywords": [
+    "U.S.–Israel–Iran war",
+    "Narrative underperformance",
+    "Information conflict",
+    "Strategic communication",
+    "Narrative tempo",
+    "Communication tempo",
+    "Narrative coherence",
+    "Media-format compatibility",
+    "Feed-based media",
+    "Official messaging",
+    "Expectation asymmetry",
+    "Perception effects",
+    "Operation Epic Fury",
+    "Iran messaging",
+    "Israel wartime communication",
+    "U.S. wartime communication",
+    "Digital information environment",
+    "Narrative momentum",
+    "Information operations",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Information conflict",
+    "Strategic communication",
+    "Public diplomacy",
+    "War and media",
+    "Middle East security",
+    "Narrative warfare",
+    "Digital media ecosystems",
+    "Crisis communication",
+    "Military communication",
+    "Perception management",
+    "Alliance politics",
+    "Conflict analysis",
+    "Policy communication",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-07",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-07",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-07",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-07",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-12/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 3
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-12",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-12",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-012",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Narrative Tempo and Communication Architecture Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on publicly visible official communication outputs, cross-channel communication-tempo estimation, and qualitative assessment of narrative structure during the first week of the 2026 U.S.–Israel–Iran war.",
+    "case_context": "Official public messaging by the United States, Israel, and Iran between February 28 and March 6, 2026, during the first week of the U.S.–Israel–Iran war.",
+    "core_problem": "High communication volume does not automatically produce narrative dominance when messages are dispersed across institutions, formats, and release rhythms that weaken perceived continuity in feed-based digital information environments.",
+    "central_claims": [
+      "The United States did not lose the battlefield in the first week, but it appeared to lose narrative momentum in the information environment.",
+      "Communication activity alone did not translate into narrative dominance because tempo, continuity, format compatibility, and expectation dynamics shaped audience interpretation.",
+      "U.S. messaging was structurally fragmented across multiple institutions, reducing perceived narrative coherence despite substantial output volume.",
+      "Iran and Israel benefited from communication architectures that produced visible narrative progression through sequential communiqués and rolling-update structures.",
+      "Expectation asymmetry magnified narrative vulnerability for the stronger actor, causing visible setbacks or retaliation by the weaker actor to receive disproportionate interpretive weight."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Communication Tempo and Perceived Initiative",
+        "description": "Assesses how the frequency and rhythm of official communication shape perceptions of activity, responsiveness, initiative, and momentum."
+      },
+      {
+        "name": "Narrative Continuity and Structural Messaging Design",
+        "description": "Evaluates whether messaging appears as a coherent, continuous story or as fragmented institutional outputs across separate channels."
+      },
+      {
+        "name": "Media-Format Compatibility",
+        "description": "Compares timeline-style updates, brief operational notices, and sequential communiqués with longer institutional formats such as formal statements and press briefings."
+      },
+      {
+        "name": "Expectation Asymmetry",
+        "description": "Examines how public expectations of rapid victory by technologically superior actors amplify the perception effects of isolated setbacks or adversary retaliation."
+      },
+      {
+        "name": "Feed-Compatible Serial Messaging",
+        "description": "Focuses on how rolling updates and recurring message formats sustain visibility in high-velocity digital information streams."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Communication Tempo",
+      "code": "CT",
+      "description": "Measures the visible frequency and rhythm of official public outputs during a crisis or conflict period."
+    },
+    {
+      "name": "Narrative Coherence",
+      "code": "NC",
+      "description": "Assesses whether cross-agency or multi-channel messaging produces a coherent storyline rather than fragmented institutional outputs."
+    },
+    {
+      "name": "Media-Format Compatibility",
+      "code": "MFC",
+      "description": "Evaluates whether communication formats are compatible with feed-based, high-velocity digital media environments."
+    },
+    {
+      "name": "Expectation Asymmetry",
+      "code": "EA",
+      "description": "Captures how expectations of rapid success by a stronger actor magnify the perception effects of visible setbacks or adversary retaliation."
+    },
+    {
+      "name": "Narrative Momentum",
+      "code": "NM",
+      "description": "Assesses whether an actor appears to possess initiative and continuity in the information environment regardless of battlefield uncertainty."
+    }
+  ],
+  "key_findings": [
+    "The United States did not lose the battlefield in the first week of the conflict, but it appeared to lose narrative momentum in the information environment.",
+    "High communication volume did not translate into narrative coherence because U.S. messaging was dispersed across multiple institutions and formats.",
+    "Feed-compatible serial messaging proved more effective than episodic institutional releases in shaping perceptions of initiative.",
+    "Iran operated at the highest visible communication tempo during the first week, followed by the United States and Israel under a best-effort cross-channel estimate of roughly 1.2 : 1 : 2.1.",
+    "Israel’s rolling operational update architecture created stronger narrative continuity despite lower visible communication tempo.",
+    "Traditional institutional communication formats, such as extended policy statements and formal briefings, were less compatible with high-velocity digital information streams.",
+    "Expectation asymmetry amplified perception effects because audiences expected rapid and decisive results from the stronger actor.",
+    "Narrative tempo is becoming a strategic variable in modern conflict, and communication architecture can matter as much as communication volume."
+  ],
+  "policy_recommendations": [
+    "Establish a unified wartime communication cell to integrate messaging across the White House, Department of Defense, State Department, and combatant commands.",
+    "Adopt rolling update communication architectures that create visible narrative continuity and sustain audience attention in feed-based media environments.",
+    "Synchronize cross-agency messaging to reduce institutional dispersion while preserving communication volume.",
+    "Preserve credibility while increasing communication tempo and repetition.",
+    "Balance rapid messaging cycles with factual accuracy and institutional credibility.",
+    "Treat narrative tempo and communication architecture as operationally relevant strategic variables during modern conflicts."
+  ],
+  "related_works": [
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief assessing battlefield and escalation risks during the same first-week period",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief providing escalation-ladder context for the conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
+      "identifier": "10.5281/zenodo.18843800",
+      "relation": "Related EPINOVA policy brief on low-probability, high-impact escalation risks in the same conflict",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Narrative Underperformance in the First Week of the U.S.–Israel–Iran War, Policy Brief No. EPINOVA–2026–PB–12, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18904462. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Narrative underperformance in the first week of the U.S.–Israel–Iran war (Policy Brief No. EPINOVA–2026–PB–12). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18904462. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Narrative Underperformance in the First Week of the U.S.–Israel–Iran War, EPINOVA–2026–PB–12.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-07",
+    "pagination": "3 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, communication-tempo assessment, narrative-continuity analysis, media-format compatibility analysis, expectation-asymmetry logic, strategic implications, policy recommendations, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18904461, ORCID put-code 207711845, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18904462 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18904462",
+    "crossref_doi_suffix": "epinova.pb.2026.012",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18904462",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207711845",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-07"
   }
 }

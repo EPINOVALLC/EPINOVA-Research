@@ -1,29 +1,392 @@
 {
-  "title": "Governing Fragmentation: Jurisdictional Competition and China's Counter-Extraterritoriality Framework",
+  "epinova_id": "EPINOVA-PB-2026-030",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-030",
+  "title": "Governing Fragmentation",
+  "subtitle": "Jurisdictional Competition and China’s Counter-Extraterritoriality Framework",
   "title_normalized": "governing fragmentation: jurisdictional competition and china's counter-extraterritoriality framework",
-  "date": "2026-04-13",
-  "doi": "10.5281/ZENODO.19560359",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211588567",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-13",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19560359",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19560359",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19560359",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/ZENODO.19560359",
+      "scheme": "DOI",
+      "description": "Uppercase DOI form from early ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211588567",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–30",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Governing Fragmentation Jurisdictional Competition and China’s Counter-Extraterritoriality Framework.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Governing Fragmentation",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief examines China’s counter-extraterritoriality framework as a structured response to unilateral extraterritorial enforcement and as a signal of wider jurisdictional fragmentation. It argues that jurisdiction is becoming a system-level domain of strategic competition, transforming compliance into a strategic problem for firms, financial institutions, and governance systems.",
+  "abstract": "China’s Regulation on Countering Unjustified Extraterritorial Jurisdiction marks an escalation in the global contest over legal authority by institutionalizing mechanisms to identify, prohibit, and counter unjustified foreign legal measures. The brief argues that jurisdiction is no longer embedded in a convergent legal order but is emerging as a domain of strategic competition in which states assert, contest, and deny legal authority as an instrument of power. The immediate consequence is fragmentation of global compliance, as firms and financial institutions face increasingly incompatible legal obligations across jurisdictions. These pressures spill over into financial systems, trade networks, platform ecosystems, and cross-border data governance. The brief concludes that fragmentation is not a temporary disruption but a structural feature of an emerging international order defined by competing legal sovereignties and regime coexistence without a central arbiter.",
+  "keywords": [
+    "Jurisdictional competition",
+    "Counter-extraterritoriality",
+    "China",
+    "Extraterritorial jurisdiction",
+    "Blocking measures",
+    "Compliance fragmentation",
+    "Legal fragmentation",
+    "Regime complex",
+    "Global governance",
+    "Sovereignty",
+    "Legal authority",
+    "Non-kinetic competition",
+    "Regulatory confrontation",
+    "Sanctions",
+    "Financial systems",
+    "Trade networks",
+    "Data governance",
+    "Platform ecosystems",
+    "Cross-domain spillover",
+    "Strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International law",
+    "Global governance",
+    "China policy",
+    "Extraterritoriality",
+    "Legal sovereignty",
+    "Sanctions and countermeasures",
+    "Compliance risk",
+    "Financial governance",
+    "Trade governance",
+    "Data governance",
+    "Regulatory fragmentation",
+    "Strategic studies",
+    "International political economy",
+    "Technology governance",
+    "Geoeconomics"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-13",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-13",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-13",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-13",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Governing Fragmentation Jurisdictional Competition and China’s Counter-Extraterritoriality Framework.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-30/Governing%20Fragmentation%20Jurisdictional%20Competition%20and%20China%E2%80%99s%20Counter-Extraterritoriality%20Framework.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-30",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-30",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-030",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, legal fragmentation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Jurisdictional Fragmentation Dynamics Framework",
+    "source_basis": "Policy-facing conceptual analysis based on China’s counter-extraterritoriality framework and its systemic effects across compliance, financial, trade, technology, and data governance domains.",
+    "case_context": "China’s Regulation on Countering Unjustified Extraterritorial Jurisdiction and the broader shift from legal convergence toward competing legal sovereignties.",
+    "core_problem": "Global legal and compliance systems increasingly face incompatible jurisdictional commands, making compliance a strategic alignment problem rather than a neutral technical function.",
+    "central_claims": [
+      "Jurisdiction is emerging as a system-level domain of strategic competition.",
+      "Global compliance is undergoing structural fragmentation as firms face irreconcilable legal obligations across jurisdictions.",
+      "Blocking mechanisms, prohibition orders, and countermeasures function as tools of non-kinetic competition and legal deterrence.",
+      "Jurisdictional conflict generates cross-domain spillovers into financial systems, trade networks, technology platforms, and data governance regimes.",
+      "The global order is shifting from legal convergence toward regime coexistence among competing, non-hierarchical legal systems."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Jurisdiction as Strategic Power",
+        "description": "Treats legal authority as a mechanism through which states project influence, constrain external actors, and defend sovereignty."
+      },
+      {
+        "name": "Blocking as Legal Strategy",
+        "description": "Interprets prohibition orders and non-compliance mechanisms as active jurisdictional counter-assertion rather than passive non-recognition."
+      },
+      {
+        "name": "Compliance Fragmentation",
+        "description": "Analyzes how firms and financial institutions face incompatible obligations and must reorganize compliance as geopolitical risk management."
+      },
+      {
+        "name": "Cross-Domain Spillover",
+        "description": "Tracks how legal tensions propagate into financial clearing, supply chains, technology standards, platform ecosystems, and data localization."
+      },
+      {
+        "name": "Regime Complex Formation",
+        "description": "Frames the emerging order as a set of overlapping legal regimes without hierarchy, central arbitration, or full convergence."
+      },
+      {
+        "name": "Governance of Fragmentation",
+        "description": "Focuses on managing structural tensions and bounded coexistence rather than restoring a unified legal order."
+      }
+    ],
+    "data_scope": "Conceptual and policy analysis based on the PDF’s discussion of legal foundations, compliance conflict, spillover effects, jurisdictional regime complex formation, and medium-term policy trajectories."
+  },
+  "dimensions": [
+    {
+      "name": "Legal Resistance",
+      "code": "Stage 1",
+      "description": "Blocking measures, prohibition orders, and sovereign evaluation of unjustified extraterritorial legal application."
+    },
+    {
+      "name": "Compliance Fragmentation",
+      "code": "Stage 2",
+      "description": "Divergent legal obligations and corporate exposure to irreconcilable compliance requirements across jurisdictions."
+    },
+    {
+      "name": "Cross-Domain Spillover",
+      "code": "Stage 3",
+      "description": "Propagation of legal conflict into economic systems, financial clearing, trade structures, technology platforms, and data governance."
+    },
+    {
+      "name": "Regime Complex Formation",
+      "code": "Stage 4",
+      "description": "Coexistence of competing legal systems in a non-hierarchical jurisdictional order without a central adjudicating authority."
+    },
+    {
+      "name": "System Trajectories",
+      "code": "Stage 5",
+      "description": "Possible pathways including managed fragmentation, escalating legal retaliation, and systemic bifurcation."
+    },
+    {
+      "name": "Governance of Fragmentation",
+      "code": "Stage 6",
+      "description": "Institutional and policy efforts to manage structural tensions without assuming legal convergence or systemic unity."
+    }
+  ],
+  "variables": [
+    {
+      "code": "CUEJ",
+      "name": "Countering Unjustified Extraterritorial Jurisdiction",
+      "layer": "Legal foundations"
+    },
+    {
+      "code": "BM",
+      "name": "Blocking Measures",
+      "layer": "Legal resistance"
+    },
+    {
+      "code": "PO",
+      "name": "Prohibition Orders",
+      "layer": "Integrated enforcement architecture"
+    },
+    {
+      "code": "CM",
+      "name": "Countermeasures",
+      "layer": "Integrated enforcement architecture"
+    },
+    {
+      "code": "CC",
+      "name": "Compliance Conflict",
+      "layer": "Compliance fragmentation"
+    },
+    {
+      "code": "CASC",
+      "name": "Corporate Adaptation Under Constraint",
+      "layer": "Compliance and strategy"
+    },
+    {
+      "code": "FS",
+      "name": "Financial System Spillover",
+      "layer": "Cross-domain spillover"
+    },
+    {
+      "code": "TPR",
+      "name": "Trade and Production Reconfiguration",
+      "layer": "Cross-domain spillover"
+    },
+    {
+      "code": "DGF",
+      "name": "Data Governance Fragmentation",
+      "layer": "Cross-domain spillover"
+    },
+    {
+      "code": "PESD",
+      "name": "Platform Ecosystem and Standards Divergence",
+      "layer": "Cross-domain spillover"
+    },
+    {
+      "code": "JRC",
+      "name": "Jurisdictional Regime Complex",
+      "layer": "International system effects"
+    },
+    {
+      "code": "NKLE",
+      "name": "Non-Kinetic Legal Escalation",
+      "layer": "International system effects"
+    },
+    {
+      "code": "MF",
+      "name": "Managed Fragmentation",
+      "layer": "Policy outlook"
+    },
+    {
+      "code": "ELR",
+      "name": "Escalating Legal Retaliation",
+      "layer": "Policy outlook"
+    },
+    {
+      "code": "SB",
+      "name": "Systemic Bifurcation",
+      "layer": "Policy outlook"
+    }
+  ],
+  "key_findings": [
+    "China’s counter-extraterritoriality framework relocates assessment of unjustified foreign legal application from an implied international hierarchy to sovereign evaluation.",
+    "The framework integrates assessment, prohibition, countermeasures, and judicial remedies into a coordinated enforcement architecture.",
+    "Global compliance is moving from rule optimization toward strategic constraint because adherence to one jurisdiction may violate obligations in another.",
+    "Firm-level adaptation is a key transmission channel through which legal fragmentation scales into financial, trade, technology, and data governance systems.",
+    "The emerging global legal order increasingly resembles a jurisdictional regime complex composed of overlapping, non-hierarchical legal systems.",
+    "Counter-extraterritorial frameworks create a paradox: they may stabilize confrontation below kinetic thresholds while reducing systemic predictability and legal coherence.",
+    "Medium-term trajectories include managed fragmentation, escalating legal retaliation, and systemic bifurcation, which can coexist and reinforce one another.",
+    "The central policy task is not restoring full legal unity, but managing fragmentation so that incompatibility remains bounded rather than systemically destabilizing."
+  ],
+  "policy_recommendations": [
+    "Treat jurisdictional competition as a system-level strategic domain rather than a narrow legal compliance issue.",
+    "Develop corporate and institutional compliance architectures that can operate under persistent legal incompatibility.",
+    "Monitor cross-domain spillovers from legal conflict into financial clearing, supply chains, platform governance, and cross-border data flows.",
+    "Design policy responses around managed fragmentation and partial interoperability rather than assumptions of legal convergence.",
+    "Strengthen institutional mechanisms for risk differentiation, exemption management, and calibrated coordination to prevent compliance deadlock.",
+    "Evaluate counter-extraterritorial instruments not only by immediate legal effect, but by their contribution to regime complex formation and systemic fragmentation."
+  ],
+  "related_works": [],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Governing Fragmentation: Jurisdictional Competition and China’s Counter-Extraterritoriality Framework, Policy Brief No. EPINOVA–2026–PB–30, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19560359. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Governing fragmentation: Jurisdictional competition and China’s counter-extraterritoriality framework (Policy Brief No. EPINOVA–2026–PB–30). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19560359. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Governing Fragmentation, EPINOVA–2026–PB–30.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-13",
+    "pagination": "8 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Jurisdictional Fragmentation Dynamics Framework",
+      "page": 6,
+      "description": "Six-stage framework showing a cumulative sequence from legal resistance and compliance fragmentation to cross-domain spillover, regime complex formation, system trajectories, and governance of fragmentation."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Governing Fragmentation Jurisdictional Competition and China’s Counter-Extraterritoriality Framework.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, key judgments, jurisdictional fragmentation analysis, China counter-extraterritoriality framework, policy outlook, Figure 1, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 211588567, uppercase DOI form, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase as 10.5281/zenodo.19560359; the uppercase form is retained as an alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19560359",
+    "crossref_doi_suffix": "epinova.pb.2026.030",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19560359",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; uppercase DOI form from early ORCID-derived metadata retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "211588567",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-13"
   }
 }

@@ -1,29 +1,369 @@
 {
-  "title": "Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction",
+  "epinova_id": "EPINOVA-PB-2026-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Managing Structural Exposure in the Arctic",
+  "subtitle": "Greenland as an AI-Strategic Node in Great-Power Interaction",
   "title_normalized": "managing structural exposure in the arctic: greenland as an ai-strategic node in great-power interaction",
-  "date": "2026-02-02",
-  "doi": "10.5281/zenodo.18454249",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "204381118",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-02",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18454250",
+  "previous_doi": "10.5281/zenodo.18454249",
+  "landing_page": "https://doi.org/10.5281/zenodo.18454250",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–03",
+      "scheme": "EPINOVA publication number",
+      "description": "Publication identifier printed in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18454250",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI printed in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18454249",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from early ORCID-derived metadata record; retained for reconciliation"
+    },
+    {
+      "identifier": "204381118",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Managing Structural Exposure in the Arctic.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "AI-SNI v0.1",
+      "scheme": "Framework version",
+      "description": "AI-Strategic Node Index framework version used in the policy brief"
+    },
+    {
+      "identifier": "Track-2 diplomacy and non-official strategic dialogue",
+      "scheme": "Analytical scope",
+      "description": "Analytical scope stated in the PDF front matter"
+    }
+  ],
+  "description": "This policy brief applies the AI-Strategic Node Index (AI-SNI v0.1) to Greenland as a structural AI-strategic node in great-power interaction. It frames Greenland as an already activated node embedded in AI-mediated early-warning, Arctic surveillance, climate modelling, and resource–data–energy systems, and focuses on Track-2 dialogue and non-official strategic engagement. The brief argues that the central policy challenge is governance-interface stabilization rather than strategic escalation or capacity expansion.",
+  "abstract": "Greenland has emerged as a structurally significant node within multiple AI-mediated systems that intersect with contemporary great-power interaction in the Arctic. These systems include strategic early-warning and missile detection architectures, Arctic maritime and air surveillance, global climate and sea-level modelling infrastructures, and the prospective coupling of energy, data connectivity, and compute-relevant resources. Application of the AI-Strategic Node Index (AI-SNI) indicates that Greenland occupies a Tier 3 exposure regime, reflecting relevant structural centrality without implying ordinal risk ranking, strategic superiority, or policy priority. The diagnostic profile highlights high functional centrality in sensing and decision-loop timing, moderate leverage in globally shared predictive models, latent future optionality, and pronounced infrastructure–governance asymmetry. The brief concludes that Greenland’s relevance in geopolitical calculations is already operational and system-embedded, while governance arrangements across involved actors remain uneven and partially misaligned.",
+  "keywords": [
+    "AI-Strategic Node Index",
+    "AI-SNI",
+    "AI-Strategic Node Framework",
+    "AI-SNF",
+    "Greenland",
+    "Arctic governance",
+    "Arctic security",
+    "great-power interaction",
+    "Track-2 diplomacy",
+    "non-official strategic dialogue",
+    "structural exposure",
+    "structural centrality",
+    "AI-mediated systems",
+    "early-warning systems",
+    "Arctic surveillance",
+    "climate modelling",
+    "infrastructure-governance asymmetry",
+    "decision-loop temporal advantage",
+    "resource-data-compute coupling",
+    "governance normalization",
+    "shared exposure",
+    "system stability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI Governance",
+    "Arctic Security",
+    "Greenland Studies",
+    "Great-Power Competition",
+    "Track-2 Diplomacy",
+    "Strategic Studies",
+    "Technology Governance",
+    "Critical Infrastructure Governance",
+    "Systemic Risk",
+    "International Relations",
+    "Digital Sovereignty",
+    "Climate and Security",
+    "AI-Mediated Systems"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-02",
+      "type": "Issued",
+      "description": "Publication date printed in the PDF and provided in early metadata."
+    },
+    {
+      "date": "2026-04-25",
+      "type": "Metadata record created in early ORCID-derived metadata",
+      "description": "Creation date in the early metadata record."
+    },
+    {
+      "date": "2026-04-30",
+      "type": "Metadata record updated in early ORCID-derived metadata",
+      "description": "Last-updated date in the early metadata record."
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "title": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Managing Structural Exposure in the Arctic.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-03/Managing%20Structural%20Exposure%20in%20the%20Arctic.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "pages": 4
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-03",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-03",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-003",
+    "series_description": "Policy brief series examining AI-enabled warfare, sustainability, global security governance, systemic risk, AI governance frameworks, and strategic risk in AI-mediated systems."
+  },
+  "methodology": {
+    "framework_name": "AI-Strategic Node Index (AI-SNI v0.1)",
+    "target_node": "Greenland",
+    "analytical_focus": "Greenland as a structural AI-strategic node",
+    "framework_applied": "AI-Strategic Node Index (AI-SNI v0.1)",
+    "analytical_scope": "Track-2 diplomacy and non-official strategic dialogue",
+    "status": "Diagnostic assessment, non-prescriptive",
+    "exposure_regime": "Tier 3 exposure regime",
+    "core_question": "Why has Greenland become a recurring reference point in discussions involving the United States, Denmark, NATO, the European Union, Russia, and China, despite its limited population, industrial base, and autonomous military capacity?",
+    "core_analytical_implication": "Greenland’s relevance in geopolitical calculations is already operational and system-embedded, while governance arrangements across involved actors remain uneven and partially misaligned.",
+    "track2_function": "Use Greenland as a concrete reference point for discussing shared exposure regimes, mutual vulnerability, and governance stabilization in AI-mediated systems without relying on ordinal ranking or competitive positioning.",
+    "interpretive_constraints": [
+      "Tier 3 is a categorical diagnostic exposure regime, not an ordinal ranking, medium-risk label, strategic superiority indicator, or policy-priority score.",
+      "The brief is diagnostic and non-prescriptive and is intended for Track-2 diplomacy and non-official strategic dialogue.",
+      "No structural class attribution is made in this brief.",
+      "The issue is framed as governance-interface stabilization around an already activated node, not as a recommendation for strategic escalation or capacity expansion."
+    ]
+  },
+  "dimensions": [
+    {
+      "code": "D1",
+      "name": "Algorithmic sensing and early-warning centrality",
+      "description": "Greenland contributes disproportionately to AI-enabled sensing and early-warning systems in high-latitude environments through geographically non-substitutable infrastructure embedded in alliance-level and transnational architectures."
+    },
+    {
+      "code": "D2",
+      "name": "Predictive model leverage",
+      "description": "Greenland plays a persistent role in global predictive systems, particularly climate and sea-level modelling, by providing data and calibration inputs used by governments, militaries, insurers, and infrastructure planners."
+    },
+    {
+      "code": "D3",
+      "name": "Decision-loop temporal advantage",
+      "description": "Greenland functions as a time-critical node whose integration into sensing and monitoring infrastructure contributes to compressed response windows in Arctic and trans-polar contexts."
+    },
+    {
+      "code": "D4",
+      "name": "Infrastructure–governance alignment",
+      "description": "The dominant binding constraint, reflecting fragmented governance across infrastructure ownership, operational control, data access, auditability, and escalation responsibility."
+    },
+    {
+      "code": "D5",
+      "name": "Resource–data–compute optionality",
+      "description": "Latent optionality linked to energy resources, connectivity, and potential data-compute coupling, whose strategic implications depend on governance credibility and coordination rather than physical potential alone."
+    }
+  ],
+  "key_findings": [
+    "Greenland has already become a structurally significant node in AI-mediated systems relevant to Arctic great-power interaction.",
+    "Its importance is generated by structural position, not by population size, domestic AI capacity, industrial scale, or autonomous military power.",
+    "AI-SNI places Greenland in a Tier 3 exposure regime, which denotes categorical structural exposure rather than risk ranking, strategic superiority, or policy priority.",
+    "The case combines high functional centrality in sensing and decision-loop timing, moderate leverage in global predictive modelling, and latent future optionality linked to energy, data, and compute infrastructure.",
+    "Infrastructure–governance asymmetry is the dominant binding constraint because actors interact with Greenland-linked infrastructure under heterogeneous legal, institutional, and strategic assumptions.",
+    "Structural exposure in AI-mediated systems can precede political consensus, institutional coordination, and shared governance norms.",
+    "For Track-2 dialogue, the most useful framing is shared exposure and mutual vulnerability rather than competitive positioning or influence maximization."
+  ],
+  "policy_implications": [
+    "Track-2 discussions should begin from the premise that Greenland’s structural relevance is already activated rather than asking whether Greenland will become strategic.",
+    "Capacity expansion in surveillance, infrastructure, or resource development does not automatically improve stability and may increase exposure if governance coordination remains incomplete.",
+    "Future Arctic navigation, early-warning, and resource-linked infrastructure pathways should be evaluated through governance alignment rather than physical potential alone.",
+    "Infrastructure–governance asymmetry can become a shared systemic issue across actors with divergent strategic interests because misalignment in one node can propagate through interconnected AI-enabled systems.",
+    "Dialogue should focus on risk containment, governance normalization, control rights, audit mechanisms, escalation procedures, and cross-actor interfaces before further capacity expansion."
+  ],
+  "governance_trajectories": [
+    {
+      "name": "Capacity-first trajectory",
+      "description": "Emphasizes physical assets, presence, and investment under existing governance arrangements; from an AI-SNI perspective, this tends to increase structural exposure without reducing systemic fragility."
+    },
+    {
+      "name": "Governance-first stabilization trajectory",
+      "description": "Prioritizes clarification of control rights, audit mechanisms, escalation procedures, and cross-actor interfaces before further capacity expansion; this is the trajectory most consistent with AI-SNI diagnostics in a Track-2 context."
+    },
+    {
+      "name": "Strategic acceleration trajectory",
+      "description": "Seeks to leverage Greenland-linked infrastructures for competitive advantage; diagnostic analysis suggests a high risk of governance overload and unintended spillover under compressed decision timelines."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18452803",
+      "scheme": "DOI",
+      "resource_type": "White Book",
+      "description": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book defining AI-SNI v0.1"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18453094",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on operationalizing AI-SNI for practical AI governance"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18453986",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief applying AI-SNI diagnostics to Greenland governance and structural centrality"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18261165",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Related EPINOVA working paper analyzing Greenland as a structural AI strategic node"
+    }
+  ],
   "references": [],
+  "recommended_citation": "EPINOVA. (2026). Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction. Policy Brief No. EPINOVA–2026–PB–03. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18454250. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "EPINOVA. (2026). Managing structural exposure in the Arctic: Greenland as an AI-strategic node in great-power interaction (Policy Brief No. EPINOVA–2026–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18454250. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), Managing Structural Exposure in the Arctic, EPINOVA–2026–PB–03.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "4 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Front-matter diagnostic summary",
+      "title": "AI-SNI Diagnostic Scope for Greenland",
+      "description": "Summary metadata printed at the beginning of the PDF, including target focus, framework applied, Track-2 analytical scope, and non-prescriptive diagnostic status.",
+      "source": "PDF front matter and AI-SNI diagnostic application"
+    },
+    {
+      "number": "Tier 3 Interpretation",
+      "title": "Tier 3 Exposure Regime in a Geopolitical Setting",
+      "description": "Textual classification explaining Tier 3 as active participation in AI-mediated systems, spillover potential across political and alliance boundaries, and governance arrangements lagging behind system integration.",
+      "source": "PDF Section 3, Interpreting Tier 3 in a Geopolitical Setting"
+    },
+    {
+      "number": "Governance Trajectories",
+      "title": "Governance Trajectories Observed in Dialogue Contexts",
+      "description": "Comparison of capacity-first, governance-first stabilization, and strategic acceleration trajectories for Greenland-type AI-strategic node profiles.",
+      "source": "PDF Section 6, Governance Trajectories Observed in Dialogue Contexts"
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Managing Structural Exposure in the Arctic.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, publication number, author, affiliation, date, executive summary, AI-SNI framework, Track-2 analytical scope, Tier 3 interpretation, governance trajectories, recommended citation, DOI 10.5281/zenodo.18454250, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18454249, ORCID put-code 204381118, and GitHub repository information."
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18454250",
+    "crossref_doi_suffix": "epinova.pb.2026.003",
+    "registration_status": "Pending",
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite unless later registered with Crossref."
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18454250",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "related_dataset_doi": "",
+    "notes": "Zenodo/DataCite DOI is printed in the PDF recommended citation; early metadata provided a closely related prior DOI value retained as previous_doi/alternate identifier."
+  },
+  "orcid": {
+    "put_code": "204381118",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-02"
   }
 }

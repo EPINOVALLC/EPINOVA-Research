@@ -1,29 +1,270 @@
 {
-  "title": "Survivor Governance: Authority Concentration under AI-Driven State Contraction",
-  "title_normalized": "survivor governance: authority concentration under ai-driven state contraction",
-  "date": "2025-12-20",
-  "doi": "10.5281/zenodo.18090197",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2025-004",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201017623",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper",
+  "series_code": "WP-F",
+  "series_number": "2025-004",
+  "title": "Survivor Governance",
+  "subtitle": "Authority Concentration under AI-Driven State Contraction",
+  "title_normalized": "survivor governance: authority concentration under ai-driven state contraction",
+  "publication_date": "2025-12-20",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18090197",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18090197",
+  "official_page": "https://doi.org/10.5281/zenodo.18090197",
+  "orcid_put_code": "201017623",
+  "alternate_identifiers": [
+    {
+      "identifier": "201017623",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "10.5281/zenodo.18090197",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI from early metadata"
+    },
+    {
+      "identifier": "Survivor Governance.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "2025-12-20",
+      "scheme": "Publication date",
+      "description": "Date shown in the PDF title page and early metadata record"
+    }
+  ],
+  "description": "This working paper introduces Survivor Governance as a political form emerging from AI-driven functional contraction of the state. It argues that AI can expand governmental capacity while reducing the human administrative apparatus, creating authority concentration among the remaining human officials who remain institutionally indispensable. The paper analyzes the mechanisms of state contraction, survivor group formation, authority consolidation, the Shark Effect, democratic and social externalities, and institutional safeguards against survivor lock-in.",
+  "abstract": "Artificial intelligence (AI) is increasingly integrated into governmental operations, enhancing administrative efficiency, analytical capacity, and policy execution. At the same time, it induces a structural contraction of the human apparatus of the state by automating large portions of routine and procedural work. This dual transformation—capacity expansion alongside organizational shrinkage—creates a fundamental asymmetry: while governmental functions can be automated, political authority cannot. Consequently, power does not disappear with institutional downsizing; it concentrates within a narrowing circle of human officials who remain institutionally indispensable. This article introduces Survivor Governance as a political form emerging from this transformation. Survivor Governance does not denote technocracy, nor rule by AI experts. Rather, it describes a mode of governance in which authority accumulates by default among those who survive AI-driven functional contraction of government, regardless of whether they are optimally suited for governing in an AI-enabled state. By focusing on the internal transformation of government rather than democratic decline per se, the article provides a structural explanation for emerging patterns of political closure, institutional conservatism, and declining administrative mobility under AI-enabled governance.",
+  "keywords": [
+    "Survivor Governance",
+    "AI-driven state contraction",
+    "AI governance",
+    "State transformation",
+    "Authority concentration",
+    "Functional contraction",
+    "Administrative automation",
+    "Institutional survivorship",
+    "Political closure",
+    "Institutional conservatism",
+    "Government automation",
+    "Human authority",
+    "Public administration",
+    "Democratic accountability",
+    "AI-enabled governance"
+  ],
+  "subjects": [
+    "AI Governance",
+    "Political Science",
+    "Public Administration",
+    "State Transformation",
+    "Institutional Design",
+    "Governance Theory"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-20",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-20",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Survivor Governance.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-20/Survivor%20Governance.pdf",
+      "format": "application/pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "pages": 7,
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-20/Survivor%20Governance.pdf"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-20",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-20",
+  "source_repository": "EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper",
+    "series_code": "WP-F",
+    "series_number": "2025-004",
+    "series_description": "Working Paper F-series record in the EPINOVA research repository. The series contains conceptual and framework-oriented working papers on AI, governance, strategy, institutional transformation, and social systems."
+  },
+  "conceptual_framework": {
+    "framework_name": "Survivor Governance",
+    "core_problem": "Authority concentration under AI-driven state contraction",
+    "central_claim": "AI can automate governmental functions and reduce human administrative roles, but political authority remains human and therefore concentrates among the surviving officials who remain institutionally indispensable.",
+    "core_mechanism": "AI-enabled capacity expansion + functional contraction of human administrative roles + non-automatable political authority = residual authority concentration among institutional survivors.",
+    "distinction_from_related_forms": [
+      "Not technocracy: Survivor Governance is not rule by AI experts.",
+      "Not classical elite rule: authority accrues by residual necessity rather than hierarchy, competition, or social stratification.",
+      "Not AI rule: AI may execute or support authority but cannot possess political legitimacy or accountability."
+    ],
+    "key_terms": [
+      {
+        "term": "Functional contraction",
+        "definition": "Reduction of human institutional roles within the state apparatus as administrative and procedural functions are automated, without a corresponding reduction in political authority."
+      },
+      {
+        "term": "Survivors",
+        "definition": "Human officials and roles that remain institutionally indispensable after AI-driven automation because they bear legal authority, political responsibility, security responsibility, or non-codifiable institutional knowledge."
+      },
+      {
+        "term": "Survivor group",
+        "definition": "A bounded institutional group formed as remaining indispensable human officials interact within a narrowing administrative space, producing higher entry barriers and internal authority concentration."
+      },
+      {
+        "term": "Shark Effect",
+        "definition": "An analytical metaphor for defensive consolidation among institutional survivors under persistent contraction, involving hardened entry barriers, intensified internal coordination, and declining administrative mobility."
+      }
+    ]
+  },
+  "structure": [
+    {
+      "section": "1",
+      "title": "Introduction — The Paradox of AI-Enabled Government"
+    },
+    {
+      "section": "2",
+      "title": "Government and AI — Capability Expansion and Human Contraction"
+    },
+    {
+      "section": "3",
+      "title": "Functional Contraction of the State Apparatus"
+    },
+    {
+      "section": "4",
+      "title": "Survivors Within the State"
+    },
+    {
+      "section": "5",
+      "title": "Survivor Governance — Definition and Core Logic"
+    },
+    {
+      "section": "6",
+      "title": "Governance Dynamics Under Survivor Rule"
+    },
+    {
+      "section": "7",
+      "title": "Political and Social Externalities"
+    },
+    {
+      "section": "8",
+      "title": "Governing the Transformation"
+    },
+    {
+      "section": "9",
+      "title": "Conclusion"
+    }
+  ],
+  "key_findings": [
+    "AI-enabled government can expand administrative capacity while reducing the number of human institutional roles required to operate the state.",
+    "Governmental functions can be automated, but political authority, legitimacy, and responsibility remain irreducibly human under existing legal and institutional arrangements.",
+    "Functional contraction does not weaken the state; it can produce a more capable but more concentrated state apparatus.",
+    "Authority concentrates by default among human officials whose roles survive automation because they remain legally, politically, or institutionally non-replaceable.",
+    "Survivor Governance differs from technocracy and classical elite rule because it selects by residual institutional necessity rather than expertise, electoral competition, hierarchy, or social status.",
+    "The Shark Effect describes defensive consolidation behavior among institutional survivors, including hardened entry barriers, stronger internal coordination, and declining mobility.",
+    "Democratic procedures may remain formally intact while the administrative and social foundations of participation weaken under authority concentration.",
+    "Institutional safeguards such as term limits, role rotation, transparency requirements, and formal re-entry pathways can mitigate survivor lock-in."
+  ],
+  "policy_implications": [
+    "AI governance should treat authority concentration as a structural risk of administrative automation, not only as a problem of algorithmic bias or technical failure.",
+    "States should design institutional mechanisms that prevent non-automatable authority from becoming a closed and permanent survivor class.",
+    "AI systems should be used to strengthen oversight, auditability, and procedural accountability rather than to replace political authority.",
+    "Public-sector AI reform should assess impacts on administrative mobility, workforce re-entry, democratic participation, and the distribution of responsibility within the state.",
+    "Efficiency-driven workforce contraction should be paired with transparency and accountability measures that prevent excessive consolidation of authority among remaining officials."
+  ],
+  "related_works": [],
+  "references": [
+    "Axios. (2025). IRS deploys generative AI tools as workforce shrinks. Axios. https://www.axios.com",
+    "European Union. (2024). Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union, L 1689. https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+    "OECD. (2019). OECD principles on artificial intelligence. Organisation for Economic Co-operation and Development. https://www.oecd.org/ai/principles/",
+    "Office of Management and Budget. (2024). Advancing governance, innovation, and risk management for agency use of artificial intelligence (OMB Memorandum M-24-10). Executive Office of the President of the United States. https://www.whitehouse.gov/omb/",
+    "Reuters. (2025). U.S. federal agencies plan large-scale workforce reductions amid administrative reforms. Reuters. https://www.reuters.com",
+    "U.S. Government Accountability Office. (2023). Artificial intelligence: Opportunities and challenges in federal agencies (GAO Report). https://www.gao.gov",
+    "UNESCO. (2021). Recommendation on the ethics of artificial intelligence. United Nations Educational, Scientific and Cultural Organization. https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+    "United States Congress. (1946). Administrative Procedure Act, 5 U.S.C. §§ 551–559. https://www.law.cornell.edu/uscode/text/5/part-I/chapter-5/subchapter-II",
+    "White House. (2022). Blueprint for an AI Bill of Rights: Making automated systems work for the American people. Executive Office of the President of the United States. https://www.whitehouse.gov/ostp/ai-bill-of-rights/"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). Survivor Governance: Authority Concentration under AI-Driven State Contraction. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090197. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). Survivor governance: Authority concentration under AI-driven state contraction. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090197. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Survivor Governance.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-20"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and the early ORCID-derived metadata record. The working paper reflects the author's analytical views based on publicly available information and does not represent the official position of any government, organization, or institution.",
   "metadata_source": {
+    "source_file": "Survivor Governance.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and structured metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, author, ORCID, affiliation, publication date, abstract, structure, conceptual framework, key findings, conclusion, and references. Early metadata supplied DOI, ORCID put-code, repository URLs, and original ORCID Public API source information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI registration information is provided. Zenodo DOI is treated as the active DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18090197",
+    "crossref_doi_suffix": "epinova.wp.f.2025.004.survivor.governance",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18090197",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI provided in early ORCID-derived metadata."
   }
 }

@@ -1,0 +1,134 @@
+All Posts
+Gray-Zone Maritime Rights-Protection Strategy:
+October 13, 2025
+|
+Maritime Policy & Technology
+Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal
+Author:
+Dr. Shaoyuan Wu
+ORCID:
+https://orcid.org/0009-0008-0660-8232
+Affiliation:
+Global AI Governance and Policy Research Center, EPINOVA
+Date:
+October 13, 2025
+1. Introduction
+Amid disparities in comprehensive national power and a geostrategic asymmetry between “near-shore” and “far-shore” actors, the essence of gray-zone maritime confrontation is not a one-off tactical duel, but a systemic war of attrition centered on resource endurance and operational sustainability. The near-shore side leverages geographic proximity to apply sustained tactical pressure through high-frequency, low-cost deployments, eroding the far-shore side’s resilience in maintenance, fuel, manpower, and political tolerance. The far-shore side, in turn, relies on force structure scale, system-level control, and stronger resource mobilization to build and sustain long-term dominance in rights-protection operations.
+Drawing on a dual analytical framework—the Asymmetric Cost–Effective Presence model (Cost–Distance–Frequency, CDF) and an Operational Sustainability Threshold—this paper uses the China–Philippines dispute over Scarborough Shoal as a representative case. It systematically analyzes each side’s relative advantages and constraints across geography/distance, sortie frequency, platform mix, and legal–discursive narratives, and offers actionable recommendations consistent with current international rules.
+2. CDF Model
+In gray-zone maritime rights-protection and sustained-presence missions, the central challenge is to handle—within a unified decision framework—transit time and energy consumption induced by distance, turnaround and maintenance pressure induced by frequency, and the cumulative effects of cost and risk over time.
+Existing methods struggle to evaluate, on a consistent basis, the presence effectiveness of manned/unmanned mixed deployments and to endogenize both risk expectation and policy sustainability thresholds.
+The CDF model adopts “Cost per Effective Hour of Presence” as the core yardstick, integrating “Effective Presence”, “Risk Expectation”, and the “Sustainability Threshold” into a single framework. It supports evaluation of manned–unmanned mixed deployment strategies, provides a closed-form threshold solution for substitution ratios, and helps design more cost-effective and resilient force-posture options—facilitating platform integration and real-time scenario simulation.
+2.1.
+Manned-Only Scenario
+a) Cost per sortie:
+b) Effective presence hours:
+c) Cost per effective hour of presence:
+2.2.
+Manned–Unmanned Mix Scenario
+a) On-station time decomposition:
+c) Cost calculations:
+d) Effective presence hours (with weights):
+e) Cost per effective hour (mixed):
+2.3.
+Risk, Presence, and Sustainability Threshold
+a) Risk expectation:
+b) Presence weight:
+2.4.
+Sustainability threshold:
+Use the ratio of “cost per effective hour” as the sole benchmark:
+If R_eff > λ, the deploying party B exceeds the policy-defined sustainability threshold λ, implying that its long-term presence will face systemic fiscal, reputational, or institutional constraints. Typical aggregate settings may use values such as λ=3.
+2.5.
+Critical Substitution Ratio in the Mixed Case
+If the goal is cost parity between the mixed deployment and the manned-only baseline,
+the closed-form solution for the unmanned share u is:
+When w_u = w_m (i.e., identical presence weights), this simplifies to:
+If C_per,eff is dominated by B and significantly exceeds the unmanned component C_(u,var) x T_on, a cost advantage emerges once the unmanned share u surpasses the threshold needed to amortize the fixed unmanned cost C_(u,fixed). Conversely, if  w_u < w_m​, the discount in unmanned presence weight means a higher u is required to break even.
+3. Key Points of the China–Philippines Dispute over Scarborough Shoal
+Scarborough Shoal lies roughly 120 nautical miles west of Luzon in the northeastern South China Sea and is among the most contested maritime areas between China and the Philippines. Since 2012, China has maintained a continuous presence of the China Coast Guard and sustained fishing activities in the area, amounting to a de facto and normalized maritime presence.
+In 2016, the Permanent Court of Arbitration, ruling on a case unilaterally initiated by the Philippines, held that China’s claims to “historic rights” over parts of the relevant waters—including those around Scarborough Shoal—had no legal effect. The Philippines accepted and has cited the award in its diplomatic and legal positions, while China stated it does not accept or recognize the ruling and emphasizes resolving disputes through negotiation.
+Geographically and in terms of deployment, the Shoal’s proximity to the Philippine mainland gives Manila notable cost advantages in resupply, crew rotation, and sortie frequency. By contrast, China must dispatch coast guard, fisheries enforcement, and at times naval assets from more distant bases, making each sortie more costly in fuel, time at sea, and manpower.
+In recent years, both sides have engaged frequently in law-enforcement patrols, fisheries control, and at-sea resupply activities in the area, with recurrent friction— including water-cannon use, vessel interceptions, resupply obstruction, and boarding/inspection encounters—exhibiting typical “gray-zone” characteristics. Taken together, these dynamics constitute a paradigmatic asymmetric contest:
+near-shore, low-cost, high-frequency presence
+versus
+far-shore, higher-cost, higher-control posturing
+.
+3.1. Geographical Distance and Sustainment Characteristics
+a) Structural Advantages of the Near-Shore State: The Philippines
+In rights-protection practice around Scarborough Shoal and other disputed waters, the Philippines—as the geographically “near-shore” actor—possesses several structural advantages:
+Geographic proximity and low sortie cost.
+Scarborough Shoal lies roughly 120 nautical miles from the Philippine mainland, yielding short transit times, quick resupply cycles, and significantly lower per-sortie costs than those of a far-shore actor. This geographic edge enables high-frequency, low-cost presence operations—relying on agile small coast-guard craft, fishing vessels, and civil maritime assets—to exert steady tactical pressure as a matter of routine.
+Legal ruling and moral capital in the public discourse.
+In 2016, the Permanent Court of Arbitration rendered an award favorable to the Philippines in the South China Sea arbitration. Although China rejects the award, it provides Manila with a measure of “legal backing” under international law. By persistently citing the ruling, the Philippine government and media reinforce a narrative of “defending the international order,” enhancing discursive leverage and perceived legitimacy in multilateral venues.
+Civilian “space-occupation” mechanism.
+The Philippines organizes fishermen, small fishing boats, and non-military maritime groups to maintain a factual presence in disputed waters. This low-intensity, semi-informal posture reduces escalation risk while strengthening the impression of routine use and, potentially, supporting claims of
+effective occupation
+in legal argument. The deliberate policy ambiguity of such deployments also affords maneuvering room in diplomacy and helps limit formal governmental liability.
+b) Strategic Advantages of the Far-Shore State: China
+Despite greater distance, higher sortie costs, and heightened international scrutiny, China—as the “far-shore” actor—retains several key advantages in the South China Sea rights-protection, particularly in force structure, institutional integration, and strategic control:
+Strategic control enabled by resource scale and platform systems.
+China fields a composite enforcement and control architecture spanning the      coast guard, fisheries administration, and the navy, with large-displacement, long-endurance government vessels and auxiliary platforms. Coupled with island-reef infrastructure and forward logistics nodes, this supports a relatively stable long-range presence system capable of persistent patrols, rapid contingency response, and sustained rights-protection operations—providing enduring tactical pressure and area control.
+State-level integration and a legitimacy-building narrative.
+China can mobilize cross-ministerial resources—coast guard, diplomacy, scientific research, environmental protection, and state media—to construct a rights-protection narrative framed as “non-military” and “non-coercive.” By institutionalizing activities such as ocean monitoring, ecological protection, and scientific surveys—and by invoking themes like “resource protection,” “international navigation order,” and “non-militarization of the South China Sea”—Beijing seeks to downplay the confrontational nature of its actions, bolster legal and institutional      legitimacy, and shape rule interpretation in a direction favorable to its interests.
+3.2. Game Mechanisms and CDF Mapping for Near- and Far-Shore Rights-Protection Operations
+In gray-zone practice in the South China Sea, near-shore and far-shore actors exhibit a pronounced three-dimensional asymmetry in cost–frequency–risk. The divergence is not only about the distribution of resources and response capacity, but also about fundamentally different strategic logics. The analysis below proceeds from the evolution of the competitive game and its mapping to the CDF model.
+a) Near-shore high-frequency, low-cost pathway
+Leveraging geographic proximity, near-shore states commonly employ high-frequency, small-scale, low-cost operations. By organizing fishermen, small craft, and light law-enforcement vessels (often non-military or low-visibility platforms) to enter disputed waters frequently, they establish factual presence and generate cumulative media/discourse effects. Although tactically limited in intensity, this approach sustains pressure and compels far-shore actors to respond repeatedly.
+If a far-shore actor persists with large manned vessels as its primary toolset, sortie frequency is constrained by fuel and maintenance costs, transit time, and political exposure. Over time, this produces systemic burdens—rising fuel consumption, accelerated wear and tear, crew fatigue, and diplomatic costs—undermining fiscal and strategic sustainability.
+b) Far-shore transformation: cost compression and presence re-architecture
+To offset those disadvantages, the far-shore actor should pursue a three-part transformation:
+Unmanned.
+Deploy USVs/UAVs to substitute part of manned force structure, reducing personnel and maintenance costs per hour.
+Prepositioned.
+Build island-reef facilities, floating platforms, or temporary nodes to shorten transit and improve sortie responsiveness.
+Legitimized Presence.
+Strengthen evidence collection like law-enforcement records, comms tracks and video, and strategic messaging to elevate legal      defensibility and international acceptability.
+Together, these measures lower per-sortie cost (C_sortie), raise effective presence (H_eff), and progressively erode the near-shore advantage rooted in geography and frequency—rebalancing the structural game.
+3.3. CDF-model parameter mapping and strategic takeaways
+The CDF framework offers a structured way to understand how the game evolves and how key parameters interact.
+Distance (D) amplifies cost and maintenance pressure.
+Owing to longer deployment ranges, far-shore actors incur greater transit time (T_transit), which elevates the variable-cost term (C_var,eff + r_maint) × T_transit. As frequency rises, the distance penalty accelerates maintenance and depreciation,      becoming a principal constraint on sustained presence.
+Frequency (f) and turnaround (T_turn) determine sustainability.
+Frequency and turnaround efficiency directly shape effective presence per unit time (H_eff). With short sortie–return cycles (low T_turn) and stronger port support, near-shore actors more easily sustain high-frequency deployments and rapid backfilling, achieving continuous on-scene presence.
+Risk expectation (E_risk) captures asymmetric incident risk.
+In interceptions, boardings, and dispersal actions typical of the gray zone, accident rates, media exposure, and detention risk are asymmetric. The E_risk term affects cost per effective hour (C_per,eff) non-linearly. Civilian craft on the near-shore side may trigger diplomatic friction; far-shore law-enforcement failures or escalation can carry higher international reputational and diplomatic costs.
+Presence weights (w_m, w_u) and substitution rate (u) in a mixed force.
+In manned–unmanned mixes, the model applies presence weights. Because unmanned platforms typically deliver less sensing/ deterrence value (w_u < w_m), achieving equivalent H_eff requires a higher unmanned share u, with      potential trade-offs in identification fidelity and evidentiary robustness—hence the need to optimize cost versus effectiveness.
+Sustainability threshold (λ) and stability boundary.
+High-intensity, long-duration deployments can yield tactical gains but risk structural fatigue if a side’s R_eff persistently exceeds its policy tolerance λ (e.g., personnel limits, maintenance cycles, budget ceilings). The CDF model supports constructing a strategy sustainability function to forecast how long a given presence level can be maintained and where the critical breakpoints lie.
+4. Future Strategies for Both Sides
+4.1. Near-Shore Actor (Philippines): Amplify Proximity Advantages and Institutionalize High-Frequency Presence
+Within the South China Sea’s asymmetric competition, the Philippines, as the geographically near-shore actor, should concentrate on its relative strengths in distance, sortie frequency, and narrative framing. By leveraging low-cost, high-frequency, and institutionalized methods, Manila can build a resilient, scalable rights-protection posture. Specifically:
+Advance a lightweight, routine forward-presence mechanism.
+Procure or lease large numbers of low-maintenance, low-cost maritime platforms (e.g., small patrol craft, USVs) to reduce dependence on a few large vessels and create a high-quantity / high-frequency coverage network. This improves responsiveness, on-scene accessibility, and routine      area occupation.
+Institutionalize a fisheries–civil vessel linkage.
+Normalize a dual track of “government oversight + civil participation.” Using fisheries escort mechanisms as the backbone, integrate fishermen’s organizations, small fishing boats, and local maritime networks. Establish escort protocols, liability waivers, and commercial insurance to form a semi-official presence structure that achieves low-cost factual control.
+Build a triad of evidence collection, media dissemination, and diplomatic leverage.
+Create a front-end evidence pipeline (video, AIS tracks, VHF recordings), synchronized media release, and rapid diplomatic engagement to convert each maritime friction into actionable legal–narrative capital. Amplify through U.S. military–affiliated or third-party think-tank media channels (e.g., USNI News) to reinforce a “law-abiding party” image and cultivate international support.
+Strengthen logistics chains and multilateral support.
+Establish joint replenishment agreements or shared repair/monitoring hubs at regional or allied ports to enable multi-node logistics for high-frequency sorties. Combine intelligence-sharing and ocean-state warning networks to distribute platform risk and fiscal burden, extending the sustainability window of operations.
+Promulgate      ROE and training for low-intensity operations.
+Under a “non-military / non-conflict” framework, codify SOPs that define at-sea behavioral boundaries, communications norms, and de-escalation responses. Provide basic training for civil/self-organized platforms to avoid inadvertent escalation or casualties. Emphasize a restrained, professional, and lawful posture to reduce international backlash and legal exposure.
+4.2. Far-Shore Actor (China): Converting Scale into a Low-Cost, Sustainable Presence
+Facing the triple constraints of long distance, higher costs, and intense international scrutiny, China, as the far-shore actor, should convert existing scale and system advantages into a low-intensity, low-cost, high-resilience, and durable rights-protection posture. The core shift is from a traditional “large manned-vessel–centric” model to a structure of platform diversification, forward deployment, and institutionalized operations. Recommended lines of effort:
+Build a forward logistics network and normalize unmanned on-scene presence.
+Using controlled or claimed features (reefs, shoals) and floating platforms, deploy floating resupply nodes, unmanned buoys, and low-signature USVs to form a three-segment presence chain:
+far-shore → forward node → objective area
+. Maintain radar-detectable and comms-identifiable presence during non-friction periods to avoid frequent tasking of large government vessels, thereby reducing sortie costs and external sensitivity.
+Construct a legitimacy narrative and a closed evidentiary chain.
+Embed presence in lower-salience, non-confrontational missions—scientific surveys, ocean monitoring, ecological protection—to institutionalize legal justifications. Pair with law-enforcement recorders, AIS track management, and audio-video evidence collection to form a legitimacy-and-evidence loop suitable for international scrutiny, supporting dispute management and external messaging.
+Use multi-point inducement to disperse near-shore resources.
+Create multiple “legal gray-edge” task lines—cross-sector fisheries patrols, oceanographic transects, buoy placement—to lengthen the opponent’s response radius and resource chain. Forcing dispersion of limited near-shore assets lowers their concentration and sortie frequency in key zones, helping reshape perceptual dominance and the information narrative.
+Optimize platform mix and deployment tempo to reduce cost per presence hour.
+Prioritize adaptable, low-marginal-cost unmanned systems and pursue mission fusion (e.g., monitoring–communications–patrol on shared platforms) to improve task coupling. Use the CDF model’s “cost per effective hour of presence” metric to dynamically tune platform types, rotation cycles, and payloads—achieving a coordinated optimum of cost, effectiveness, and sustainability.
+Keep diplomatic channels open and crisis-management mechanisms usable.
+After incidents, employ hotlines, bilateral engagements, and third-party      mechanisms to maintain communication, clarify positions, and convey red lines, reducing miscalculation and misperception. This helps bound actions within limited confrontation or controlled escalation, slowing external intervention and broader multilateral pressure.
+Recommended
+Citation:
+Wu, S.-Y. (2025)
+.
+Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal
+. EIPINOVA.
+https://epinova.org/f/gray-zone-maritime-rights-protection-strategy
+.
+Share this post:

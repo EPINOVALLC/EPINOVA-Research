@@ -1,29 +1,332 @@
 {
-  "title": "From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis",
-  "title_normalized": "from beneficiary to burden carrier: china's structural exposure in the strait of hormuz crisis",
-  "date": "2026-04-17",
-  "doi": "10.5281/ZENODO.19632808",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212033596",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-033",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-033",
+  "title": "From Beneficiary to Burden Carrier",
+  "subtitle": "China’s Structural Exposure in the Strait of Hormuz Crisis",
+  "title_normalized": "from beneficiary to burden carrier: china’s structural exposure in the strait of hormuz crisis",
+  "publication_date": "2026-04-17",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19632808",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19632808",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19632808",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212033596",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–33",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Beneficiary to Burden Carrier China’s Structural Exposure in the Strait of Hormuz Crisis.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Beneficiary to Burden Carrier",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes China’s structural exposure in the Strait of Hormuz crisis. It argues that China’s growing visibility should be understood less as deliberate geopolitical elevation or voluntary leadership than as the result of systemic coupling, energy dependence, network centrality, and cost-redistribution dynamics.",
+  "abstract": "China’s growing visibility in the Strait of Hormuz crisis is often interpreted as evidence of geopolitical elevation or strategic entrustment. This policy brief argues that such interpretations misidentify the underlying mechanism. China is not being elevated into leadership; it is being structurally exposed. As disruption to maritime energy flows intensifies, the Strait of Hormuz has evolved into a systemic escalation node that draws in actors based on functional centrality and dependence rather than strategic intent. Within this system, China is shifting from a passive beneficiary of stability toward a potential burden carrier. This transformation emerges from the interaction between high systemic dependence, increasing network centrality, and escalating cross-domain coupling. The resulting condition produces a dual-binding dilemma: non-engagement risks reputational and systemic costs, while engagement increases exposure to escalation dynamics and entanglement risks. The central policy challenge is therefore how China can manage structurally induced exposure without crossing escalation thresholds.",
+  "keywords": [
+    "China",
+    "Strait of Hormuz",
+    "Hormuz crisis",
+    "Structural exposure",
+    "Burden carrier",
+    "Systemic escalation",
+    "Systemic coupling",
+    "Networked conflict",
+    "Energy security",
+    "Maritime logistics",
+    "Global energy flows",
+    "Chokepoint risk",
+    "Threshold coupling",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Escalation dynamics",
+    "Dual-binding dilemma",
+    "Cost redistribution",
+    "Cost-imposition logic",
+    "Responsibility signaling",
+    "Strategic neutrality",
+    "Role lock-in",
+    "Systemic risk",
+    "Strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "China foreign policy",
+    "Middle East security",
+    "Maritime security",
+    "Energy security",
+    "Conflict escalation",
+    "Networked conflict",
+    "Geopolitical risk",
+    "Global governance",
+    "Systemic risk analysis",
+    "Security studies",
+    "Policy analysis",
+    "Chokepoint governance",
+    "Crisis management"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-17",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-17",
+      "date_type": "PDF creation metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Beneficiary to Burden Carrier China’s Structural Exposure in the Strait of Hormuz Crisis.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-33/From%20Beneficiary%20to%20Burden%20Carrier%20China%E2%80%99s%20Structural%20Exposure%20in%20the%20Strait%20of%20Hormuz%20Crisis.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-33",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-33",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-033",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Structural Exposure and Systemic Escalation Analysis",
+    "source_basis": "Policy-facing structural analysis using systemic coupling, networked conflict, cost-redistribution, and loss-of-control threshold concepts.",
+    "case_context": "China’s exposure to the Strait of Hormuz crisis under conditions of maritime energy disruption, global chokepoint stress, and cross-domain escalation pressure.",
+    "core_problem": "China’s growing visibility in the Hormuz crisis is often misread as deliberate leadership or strategic entrustment, when the brief argues that the mechanism is system-generated structural exposure caused by dependence, network centrality, and escalating systemic coupling.",
+    "central_claims": [
+      "The Strait of Hormuz is emerging as a globally coupled escalation node, with China’s visibility driven by systemic coupling rather than deliberate geopolitical elevation.",
+      "China’s role is structurally defined by dependency and network centrality rather than by military positioning or strategic intent.",
+      "External discourse around China’s responsibility reflects cost-redistribution dynamics rather than a genuine transfer of leadership.",
+      "The principal risk lies in threshold coupling, whereby even limited engagement may generate disproportionate escalation exposure.",
+      "The ongoing shift is best understood as a transition from beneficiary to burden carrier rather than from neutrality to leadership."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Systemic Escalation Node",
+        "description": "Treats the Strait of Hormuz as a globally coupled chokepoint linking energy markets, maritime logistics, and financial systems."
+      },
+      {
+        "name": "Structural Exposure Rather Than Leadership",
+        "description": "Interprets China’s growing role as system-generated exposure rather than deliberate geopolitical promotion, strategic delegation, or voluntary leadership."
+      },
+      {
+        "name": "Exposure-Control Asymmetry",
+        "description": "Highlights the gap between China’s high systemic relevance and its more limited operational capacity to shape escalation outcomes."
+      },
+      {
+        "name": "Dual-Binding Constraint",
+        "description": "Frames China’s policy dilemma as one in which both engagement and non-engagement reallocate risk rather than eliminate it."
+      },
+      {
+        "name": "Threshold Coupling and LoCT",
+        "description": "Assesses the risk that limited participation may create disproportionate escalation exposure when systemic pressure has already accumulated."
+      },
+      {
+        "name": "Role Lock-In",
+        "description": "Identifies the risk that temporary burden sharing may harden into durable expectations of continuous stabilization."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Economic Exposure",
+      "code": "EE",
+      "description": "Captures China’s dependence on Gulf energy flows and its exposure to disruption in the Strait of Hormuz."
+    },
+    {
+      "name": "Network Centrality",
+      "code": "NC",
+      "description": "Captures China’s structural position within global energy, logistics, and financial networks affected by Hormuz instability."
+    },
+    {
+      "name": "Military Control Capacity",
+      "code": "MCC",
+      "description": "Assesses the degree to which China possesses forward presence and escalation-management infrastructure proportional to its systemic exposure."
+    },
+    {
+      "name": "Responsibility Expectation",
+      "code": "RE",
+      "description": "Captures external expectations that China should contribute to stabilization as systemic burden redistributes across important nodes."
+    },
+    {
+      "name": "Threshold Coupling",
+      "code": "TC",
+      "description": "Assesses the risk that even limited engagement may accelerate escalation dynamics when systemic pressure is already elevated."
+    },
+    {
+      "name": "Role Lock-In Risk",
+      "code": "RLIR",
+      "description": "Captures the possibility that temporary crisis involvement becomes an enduring expectation of stabilization responsibility."
+    }
+  ],
+  "key_findings": [
+    "The Strait of Hormuz is emerging as a globally coupled escalation node whose effects extend beyond a regional conflict frame.",
+    "China’s growing visibility is driven by systemic coupling rather than deliberate geopolitical elevation.",
+    "China’s position is defined by dependency and network centrality more than by military positioning or strategic intent.",
+    "External discourse around China’s responsibility is better understood as responsibility signaling and cost redistribution than as a genuine transfer of leadership.",
+    "China faces an exposure-control asymmetry: expectations to contribute to stabilization rise faster than its proportional capacity to control escalation outcomes.",
+    "China is situated in a dual-binding condition in which non-engagement and engagement both carry escalating costs.",
+    "The main escalation risk lies in threshold coupling, where limited participation may produce disproportionate exposure because systemic pressure has already accumulated across multiple domains.",
+    "The longer-term risk is gradual role lock-in, where temporary burden sharing hardens into an enduring expectation of continuous stabilization."
+  ],
+  "policy_recommendations": [
+    "China should preserve functional ambiguity in role definition to prevent temporary participation from becoming a fixed expectation of long-term responsibility.",
+    "China should calibrate engagement toward indirect stabilization, including coordination, monitoring, and limited support functions, rather than visible enforcement roles.",
+    "China should avoid open-ended security commitments that could lock it into escalation pathways it does not control or fully shape.",
+    "External stakeholders should recognize the structural limits of responsibility transfer strategies and avoid pushing China toward greater involvement without corresponding control capacity.",
+    "System-level governance should reframe Hormuz as a shared systemic risk embedded in global energy and logistics networks.",
+    "Governance structures should distribute responsibility while maintaining coordination, rather than concentrating stabilization functions in a single node."
+  ],
+  "related_works": [
+    {
+      "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+      "identifier": "10.5281/zenodo.19633889",
+      "relation": "Related EPINOVA policy brief extending the China exposure analysis through MCCM v2.1 variables and threshold-coupling risk.",
+      "type": "DOI"
+    },
+    {
+      "title": "From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz",
+      "identifier": "10.5281/zenodo.19568379",
+      "relation": "Related EPINOVA policy brief on Hormuz blockade dynamics and third-party intervention risk.",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper providing the broader systemic escalation and LoCT conceptual background.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis, Policy Brief No. EPINOVA–2026–PB–33, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19632808. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From beneficiary to burden carrier: China’s structural exposure in the Strait of Hormuz crisis (Policy Brief No. EPINOVA–2026–PB–33). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Beneficiary to Burden Carrier, EPINOVA–2026–PB–33.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-17",
+    "pagination": "6 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "label": "Table 1",
+      "title": "Structural Asymmetry: China’s Exposure, Capacity, and Expected Role",
+      "source": "Author’s conceptualization",
+      "description": "Summarizes the imbalance between China’s high economic exposure, limited military control capacity, and increasing responsibility expectation."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Beneficiary to Burden Carrier China’s Structural Exposure in the Strait of Hormuz Crisis.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, why-this-matters statement, executive summary, analytical sections, policy implications, limitations, conclusion, table information, recommended citation, DOI, series information, and disclaimer. Early metadata supplied ORCID put-code 212033596, GitHub PDF URL, repository folder, repository URL, and ORCID-derived source fields. DOI normalization changed 10.5281/ZENODO.19632808 to 10.5281/zenodo.19632808."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19632808",
+    "crossref_doi_suffix": "epinova.pb.2026.033",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19632808",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation and retained as the primary DOI."
+  },
+  "orcid": {
+    "put_code": "212033596",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-17"
   }
 }

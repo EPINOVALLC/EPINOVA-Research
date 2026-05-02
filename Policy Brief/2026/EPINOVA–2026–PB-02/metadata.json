@@ -1,29 +1,345 @@
 {
-  "title": "Governing Structural Centrality: Greenland as an AI-Strategic Node under the AI-SNI Framework",
+  "epinova_id": "EPINOVA-PB-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Governing Structural Centrality",
+  "subtitle": "Greenland as an AI-Strategic Node under the AI-SNI Framework",
   "title_normalized": "governing structural centrality: greenland as an ai-strategic node under the ai-sni framework",
-  "date": "2026-02-02",
-  "doi": "10.5281/zenodo.18453985",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "204378380",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-02",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18453986",
+  "previous_doi": "10.5281/zenodo.18453985",
+  "landing_page": "https://doi.org/10.5281/zenodo.18453986",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–02",
+      "scheme": "EPINOVA publication number",
+      "description": "Publication identifier printed in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18453986",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI printed in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18453985",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from early ORCID-derived metadata record; retained for reconciliation"
+    },
+    {
+      "identifier": "204378380",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Governing Structural Centrality.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "AI-SNI v0.1",
+      "scheme": "Framework version",
+      "description": "AI-Strategic Node Index framework version used in the policy brief"
+    }
+  ],
+  "description": "This policy brief applies the AI-Strategic Node Index (AI-SNI v0.1) to Greenland as an AI-strategic node. It evaluates Greenland’s structural exposure across five AI-SNI dimensions, reports an AI-SNI composite result of 0.52 in the Tier 3 Relevant Exposure Band, identifies Infrastructure–Governance Asymmetry as the binding constraint, and argues that Greenland’s policy challenge is governance stabilization rather than capacity expansion.",
+  "abstract": "Greenland has already become a structurally significant node within multiple AI-mediated systems, including strategic early-warning, Arctic surveillance, climate modelling, and emerging resource–data–energy coupling. Application of the AI-Strategic Node Index (AI-SNI) yields a composite score of 0.52 (Tier 3), indicating relevant structural exposure rather than elevated risk or strategic superiority. The diagnostic profile shows high functional centrality in sensing and decision-loop timing, moderate global modelling leverage, latent future optionality, and a critical governance deficit in infrastructure control, auditability, and escalation authority. The brief argues that the primary challenge for structurally central AI nodes is not how to increase strategic importance, but how to govern an importance that already exists. Without targeted governance stabilization, structural centrality may translate into systemic fragility.",
+  "keywords": [
+    "AI-Strategic Node Index",
+    "AI-SNI",
+    "AI-Strategic Node Framework",
+    "AI-SNF",
+    "Greenland",
+    "Arctic governance",
+    "structural centrality",
+    "AI governance",
+    "AI-mediated systems",
+    "infrastructure-governance asymmetry",
+    "algorithmic sensing",
+    "early-warning centrality",
+    "decision-loop temporal advantage",
+    "predictive model leverage",
+    "resource-data-compute coupling",
+    "governance fragility",
+    "node-level structural intelligence",
+    "structural exposure",
+    "Tier 3 exposure band",
+    "policy brief",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI Governance",
+    "Arctic Security",
+    "Greenland Studies",
+    "Strategic Studies",
+    "Technology Governance",
+    "Critical Infrastructure Governance",
+    "Systemic Risk",
+    "Public Policy",
+    "International Relations",
+    "Digital Sovereignty",
+    "Climate and Security",
+    "AI-Mediated Systems"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-02",
+      "type": "Issued",
+      "description": "Publication date printed in the PDF and provided in early metadata."
+    },
+    {
+      "date": "2026-04-25",
+      "type": "Metadata record created in early ORCID-derived metadata",
+      "description": "Creation date in the early metadata record."
+    },
+    {
+      "date": "2026-04-30",
+      "type": "Metadata record updated in early ORCID-derived metadata",
+      "description": "Last-updated date in the early metadata record."
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "title": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Governing Structural Centrality.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-02/Governing%20Structural%20Centrality.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "pages": 4
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-02",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-02",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-002",
+    "series_description": "Policy brief series examining AI-enabled warfare, sustainability, global security governance, systemic risk, and AI governance frameworks."
+  },
+  "methodology": {
+    "framework_name": "AI-Strategic Node Index (AI-SNI v0.1)",
+    "target_node": "Greenland",
+    "analytical_framework": "AI-Strategic Node Index (AI-SNI v0.1)",
+    "composite_result": "AI-SNI = 0.52",
+    "exposure_band": "Tier 3 – Relevant Exposure Band",
+    "confidence_profile": "Grade B",
+    "binding_constraint": "Infrastructure–Governance Asymmetry (D4 = 0.22)",
+    "core_policy_question": "Why has Greenland, despite its limited population, industrial base, and autonomous military power, become disproportionately salient in the strategic calculations of major international actors?",
+    "core_policy_implication": "The Greenland case illustrates that the primary challenge for structurally central AI nodes is not how to increase strategic importance, but how to govern an importance that already exists.",
+    "interpretive_constraints": [
+      "Tier 3 indicates a relevant exposure regime, not medium risk, strategic superiority, or an ordinal ranking.",
+      "AI-SNI scores are diagnostic and non-ranking outputs.",
+      "No structural class attribution is made in this brief; such attribution requires additional qualitative assessment beyond the diagnostic application.",
+      "The binding constraint cannot be offset by higher scores in sensing, modelling, decision-loop timing, or future optionality."
+    ]
+  },
+  "dimensions": [
+    {
+      "code": "D1",
+      "name": "Algorithmic sensing and early-warning centrality",
+      "score": 0.71,
+      "description": "Greenland contributes to high-latitude sensing, surveillance, and early-warning functions embedded in broader security and monitoring architectures."
+    },
+    {
+      "code": "D2",
+      "name": "Predictive model leverage",
+      "score": 0.53,
+      "description": "Greenland contributes observational data and calibration inputs to climate and sea-level modelling systems with downstream global dependency."
+    },
+    {
+      "code": "D3",
+      "name": "Decision-loop temporal advantage",
+      "score": 0.55,
+      "description": "Greenland functions as a time-critical node in sensing and monitoring systems that contribute to compressed decision timelines in Arctic and high-latitude contexts."
+    },
+    {
+      "code": "D4",
+      "name": "Infrastructure–governance alignment",
+      "score": 0.22,
+      "description": "The primary binding constraint, reflecting misalignment between AI-relevant infrastructure importance and governance clarity over control, auditability, escalation authority, and liability."
+    },
+    {
+      "code": "D5",
+      "name": "Resource–data–compute optionality",
+      "score": 0.6,
+      "description": "Latent future optionality from possible coupling among energy resources, connectivity, data infrastructure, and future compute, contingent on governance clarity and regulatory legitimacy."
+    }
+  ],
+  "key_findings": [
+    "Greenland is already a structurally significant AI-mediated node because of its role in early-warning, Arctic surveillance, climate modelling, and resource–data–energy coupling.",
+    "The AI-SNI composite result of 0.52 places Greenland in the Tier 3 Relevant Exposure Band, which denotes categorical structural exposure rather than ordinal risk or strategic superiority.",
+    "High scores in D1 and D3 indicate functional centrality in sensing and decision-loop timing, while D2 and D5 reflect modelling leverage and latent future optionality.",
+    "D4 Infrastructure–Governance Asymmetry, with a score of 0.22, is the binding constraint because governance clarity has not evolved in proportion to the node’s activated structural role.",
+    "Additional infrastructure, surveillance, investment, or resource development may increase exposure if governance interfaces remain under-specified.",
+    "The most structurally consistent pathway is governance-first stabilization, including clarification of control, data rights, audit authority, emergency override, and liability arrangements.",
+    "No structural class attribution is made in this brief because such attribution requires additional qualitative assessment beyond this diagnostic application."
+  ],
+  "policy_implications": [
+    "Strategic relevance can become activated independently of local policy choice when a territory is structurally embedded in AI-mediated systems.",
+    "Governance capacity, rather than infrastructure scale, may become the limiting factor for structurally central AI nodes.",
+    "Future resource, energy, and data-infrastructure initiatives should be conditioned on governance credibility rather than physical potential alone.",
+    "Capacity-first trajectories risk increasing exposure without reducing fragility.",
+    "Governance-first stabilization is the most consistent trajectory because it directly addresses the identified binding constraint.",
+    "Strategic acceleration without governance stabilization may create governance overload and loss-of-control risk."
+  ],
+  "governance_actions": [
+    "Establish AI-critical infrastructure control matrices clarifying ownership, operational control, data rights, audit authority, emergency override, and liability.",
+    "Institutionalize governance of decision-loop temporal advantages through defined coordination and fallback mechanisms.",
+    "Gate major energy, data, or mineral initiatives on demonstrable improvements in governance alignment.",
+    "Strengthen auditability and transparency through publication of non-sensitive governance documentation."
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18452803",
+      "scheme": "DOI",
+      "resource_type": "White Book",
+      "description": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book defining AI-SNI v0.1"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18453094",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on operationalizing AI-SNI for practical AI governance"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18261165",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Related EPINOVA working paper analyzing Greenland as a structural AI strategic node"
+    }
+  ],
   "references": [],
+  "recommended_citation": "EPINOVA. (2026). Governing Structural Centrality: Greenland as an AI-Strategic Node under the AI-SNI Framework. Policy Brief No. EPINOVA–2026–PB–02. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18453986. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "EPINOVA. (2026). Governing structural centrality: Greenland as an AI-strategic node under the AI-SNI framework (Policy Brief No. EPINOVA–2026–PB–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18453986. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), Governing Structural Centrality, EPINOVA–2026–PB–02.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "4 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Diagnostic Summary",
+      "title": "AI-SNI Diagnostic Summary for Greenland",
+      "description": "Summary metadata printed at the beginning of the PDF, including target node, analytical framework, composite result, confidence profile, and binding constraint.",
+      "source": "PDF front matter and AI-SNI diagnostic application"
+    },
+    {
+      "number": "Dimension Profile",
+      "title": "AI-SNI Diagnostic Findings Across D1–D5",
+      "description": "Textual dimensional profile covering algorithmic sensing and early-warning centrality, predictive model leverage, decision-loop temporal advantage, infrastructure–governance alignment, and resource–data–compute optionality.",
+      "source": "PDF Section 2, AI-SNI Diagnostic Findings"
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Governing Structural Centrality.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, publication number, author, affiliation, date, executive summary, AI-SNI result, dimensional profile, policy implications, governance actions, recommended citation, DOI 10.5281/zenodo.18453986, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18453985, ORCID put-code 204378380, and GitHub repository information."
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18453986",
+    "crossref_doi_suffix": "epinova.pb.2026.002",
+    "registration_status": "Pending",
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite unless later registered with Crossref."
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18453986",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "related_dataset_doi": "",
+    "notes": "Zenodo/DataCite DOI is printed in the PDF recommended citation; early metadata provided a closely related prior DOI value retained as previous_doi/alternate identifier."
+  },
+  "orcid": {
+    "put_code": "204378380",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-02"
   }
 }

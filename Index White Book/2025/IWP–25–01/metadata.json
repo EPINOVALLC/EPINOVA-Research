@@ -1,29 +1,302 @@
 {
-  "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book",
-  "title_normalized": "survivor governance risk index (sgri): conceptual and methodological white book",
-  "date": "2025-12-24",
-  "doi": "10.5281/zenodo.18050662",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
+  "epinova_id": "EPINOVA-IWP-2025-001",
+  "record_type": "Publication",
+  "resource_type": "Book",
+  "publication_type": "White Book",
   "category": "white-books",
-  "put_code": "201017560",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Index White Book Series",
+  "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book",
+  "subtitle": "Version 0.1 Foundational Release",
+  "title_normalized": "survivor governance risk index sgri conceptual and methodological white book",
+  "publication_date": "2025-12-31",
+  "version": "v0.1",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shao-Yuan",
+      "given_name": "Shao-Yuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shao-Yuan Wu",
+  "doi": "10.5281/zenodo.18050662",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18050662",
+  "official_page": "https://epinova.org/iwp2501",
+  "alternate_identifiers": [
+    {
+      "identifier": "IWP–25–01",
+      "scheme": "EPINOVA internal publication number",
+      "description": "Internal EPINOVA Index White Book identifier"
+    },
+    {
+      "identifier": "https://epinova.org/iwp2501",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.18050662",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI landing page"
+    }
+  ],
+  "description": "This white book introduces the Survivor Governance Risk Index (SGRI), a conceptual and methodological framework for assessing structural political risk under AI-driven automation. It defines Survivor Governance, develops a three-dimensional indicator architecture, explains composite index construction and risk bands, provides an illustrative calculation, and outlines data sources, typologies, limitations, and future empirical upgrade pathways.",
+  "abstract": "The Survivor Governance Risk Index (SGRI) White Book develops a structural early-warning framework for assessing whether AI-driven automation may erode the socio-economic population base required for inclusive and effective political participation. Rather than measuring democratic quality, regime type, or national AI capability, SGRI evaluates whether political influence is becoming concentrated among structurally non-displaceable groups while automation-exposed populations retain formal rights but lose effective political agency. The framework operationalizes this risk through three dimensions: Material Survivorship, Political Participation Skew, and Corrective Capacity. It defines nine core indicators, specifies normalization and aggregation procedures, proposes a composite formula, introduces qualitative risk bands, and presents ideal-type risk configurations for comparative analysis. The white book emphasizes profile-based diagnosis rather than country ranking and positions SGRI as a modular risk layer for future global AI governance, digital transformation, sustainability, and competitiveness index systems.",
+  "keywords": [
+    "Survivor Governance Risk Index",
+    "SGRI",
+    "Survivor Governance",
+    "AI governance",
+    "AI-driven automation",
+    "structural political risk",
+    "political agency",
+    "effective political participation",
+    "automation displacement",
+    "material survivorship",
+    "political participation skew",
+    "corrective capacity",
+    "economic membership",
+    "democratic binding of AI decisions",
+    "algorithmic accountability",
+    "structural non-displaceability",
+    "AI and labor markets",
+    "AI policy",
+    "composite indicators",
+    "early-warning index",
+    "global AI governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence governance",
+    "Public policy",
+    "Political science",
+    "Political economy",
+    "Labor market transformation",
+    "Automation and society",
+    "Democratic governance",
+    "Composite indicator methodology",
+    "Systemic risk",
+    "Technology governance"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-31",
+      "type": "Issued",
+      "description": "Initial public release of SGRI White Book v0.1."
+    },
+    {
+      "date": "2025-12",
+      "type": "Created",
+      "description": "Foundational release dated December 2025."
+    }
+  ],
+  "license": {
+    "id": "custom-all-rights-reserved-with-noncommercial-permission",
+    "title": "Non-commercial academic, scholarly, and educational use permitted with attribution; commercial or proprietary deployment may require prior written permission from the author.",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Survivor Governance Risk Index Conceptual and Methodological White Book.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Book/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the SGRI conceptual and methodological white book"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2025/IWP%E2%80%9325%E2%80%9301",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2025/IWP%E2%80%9325%E2%80%9301",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary EPINOVA research repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://epinova.org/publications/f/survivor-governance",
+      "scheme": "URL",
+      "resource_type": "Conceptual article",
+      "description": "Original concept reference for Survivor Governance: Authority Concentration under AI-Driven State Contraction"
+    },
+    {
+      "relation": "IsIdenticalTo",
+      "identifier": "https://doi.org/10.5281/zenodo.18050662",
+      "scheme": "DOI",
+      "resource_type": "White Book",
+      "description": "Zenodo/DataCite DOI record for the SGRI White Book"
+    }
+  ],
+  "references": [
+    "Acemoglu, D., & Restrepo, P. (2020). AI and jobs. Journal of Economic Perspectives, 34(3), 30–55. https://doi.org/10.1257/jep.34.3.30",
+    "Council of Europe. (2024). Artificial intelligence and administrative law: Accountability frameworks. Council of Europe Publishing.",
+    "Dahl, R. A. (1971). Polyarchy: Participation and opposition. Yale University Press.",
+    "European Commission. (2024). Artificial Intelligence Act: Conformity assessment and governance framework. European Union.",
+    "Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254–280. https://doi.org/10.1016/j.techfore.2016.08.019",
+    "International Labour Organization. (2023). World employment and social outlook: Trends. ILO Publishing.",
+    "Luxembourg Income Study. (2024). LIS database documentation. https://www.lisdatacenter.org",
+    "Nardo, M., Saisana, M., Saltelli, A., & Tarantola, S. (2008). Handbook on constructing composite indicators: Methodology and user guide. European Commission, Joint Research Centre.",
+    "OECD. (2018). Job displacement and re-employment: What do we know? OECD Publishing. https://doi.org/10.1787/9789264303373-en",
+    "OECD. (2020). Innovative citizen participation and new democratic institutions. OECD Publishing. https://doi.org/10.1787/339306da-en",
+    "OECD. (2023). The impact of artificial intelligence on the labour market. OECD Publishing. https://www.oecd.org",
+    "OECD. (2024). Government at a glance 2024. OECD Publishing. https://doi.org/10.1787/3c6cdbcd-en",
+    "OECD. (2024). OECD handbook on constructing composite indicators (2nd ed.). OECD Publishing.",
+    "Standing, G. (2011). The precariat: The new dangerous class. Bloomsbury Academic.",
+    "Tocqueville, A. de. (1835/2000). Democracy in America (H. C. Mansfield & D. Winthrop, Trans.). University of Chicago Press. (Original work published 1835)",
+    "UNESCO. (2023). Recommendation on the ethics of artificial intelligence. UNESCO Publishing. https://unesdoc.unesco.org",
+    "World Economic Forum. (2024). Global risks report 2024: Methodology. World Economic Forum. https://www.weforum.org",
+    "World Inequality Lab. (2024). World inequality database methodology. https://wid.world",
+    "World Values Survey Association. (2023). World Values Survey wave 7: Documentation. https://www.worldvaluessurvey.org",
+    "Wu, S.-Y. (2025). Survivor governance: Authority concentration under AI-driven state contraction. EPINOVA. https://epinova.org/publications/f/survivor-governance"
+  ],
+  "recommended_citation": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Book (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Book (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "edition": "Version 0.1 Foundational Release",
+    "pagination": "83 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 4.1",
+      "title": "Core Dimensions and Indicator Composition of SGRI",
+      "description": "Defines the three primary SGRI dimensions—Material Survivorship, Political Participation Skew, and Corrective Capacity—and their nine core indicators.",
+      "source": "Author’s SGRI indicator architecture"
+    },
+    {
+      "number": "Table 4.2",
+      "title": "SGRI Risk Bands and Interpretive Framework",
+      "description": "Summarizes qualitative risk bands for interpreting SGRI as an anticipatory structural governance-risk signal rather than an ordinal ranking or performance grade.",
+      "source": "Author’s SGRI risk interpretation framework"
+    },
+    {
+      "number": "Table 5.1",
+      "title": "NAES Levels and Risk Interpretation",
+      "description": "Classifies Non-Automatable Employment Share levels and their implications for survivorship concentration risk.",
+      "source": "Author’s SGRI Material Survivorship methodology"
+    },
+    {
+      "number": "Table 5.2",
+      "title": "ICS Levels and Risk Interpretation",
+      "description": "Classifies Income Concentration among Survivors and its relationship to survivorship-based economic dominance.",
+      "source": "Author’s SGRI Material Survivorship methodology"
+    },
+    {
+      "number": "Table 5.3",
+      "title": "RPAD Levels and Risk Interpretation",
+      "description": "Classifies Re-entry Probability after AI Displacement and its implications for displacement reversibility and structural exclusion.",
+      "source": "Author’s SGRI Material Survivorship methodology"
+    },
+    {
+      "number": "Table 6.1",
+      "title": "EPC Level and Risk Interpretation",
+      "description": "Classifies Employment–Participation Correlation and its implications for political participation dependence on employment stability.",
+      "source": "Author’s SGRI Political Participation Skew methodology"
+    },
+    {
+      "number": "Table 6.2",
+      "title": "SORI Level and Risk Interpretation",
+      "description": "Classifies Survivor Over-Representation Index levels and their implications for institutional over-representation of structurally non-displaceable groups.",
+      "source": "Author’s SGRI Political Participation Skew methodology"
+    },
+    {
+      "number": "Table 6.3",
+      "title": "PRA Level and Risk Interpretation",
+      "description": "Classifies Policy Responsiveness Asymmetry and its implications for survivor-favoring policy skew.",
+      "source": "Author’s SGRI Political Participation Skew methodology"
+    },
+    {
+      "number": "Table 7.1",
+      "title": "EMP Level and Interpretation",
+      "description": "Classifies Economic Membership Preservation as a corrective-capacity indicator that buffers AI-driven displacement risk.",
+      "source": "Author’s SGRI Corrective Capacity methodology"
+    },
+    {
+      "number": "Table 7.2",
+      "title": "PEO Level and Interpretation",
+      "description": "Classifies Political Entry Openness as a corrective-capacity indicator of access to meaningful political participation channels.",
+      "source": "Author’s SGRI Corrective Capacity methodology"
+    },
+    {
+      "number": "Table 7.3",
+      "title": "DBA Level and Interpretation",
+      "description": "Classifies Democratic Binding of AI Decisions as a corrective-capacity indicator of oversight, auditability, and redress for AI-mediated decisions.",
+      "source": "Author’s SGRI Corrective Capacity methodology"
+    },
+    {
+      "number": "Illustrative Calculation Tables",
+      "title": "Hypothetical Input Data and Risk Band Assignment",
+      "description": "Provides a conceptual example of normalized M, P, and C indicators, dimension aggregation, composite SGRI calculation, and moderate-risk classification.",
+      "source": "Author’s illustrative SGRI calculation"
+    }
+  ],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "created_date": "2026-04-30",
+    "last_updated": "2026-05-01"
+  },
+  "crossref": {
+    "intended_registration_agency": "",
+    "record_type": "book",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18050662",
+    "crossref_doi_suffix": "epinova.iwp.2025.001",
+    "registration_status": "Not applicable; DOI currently assigned through Zenodo/DataCite"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "Primary DOI is assigned through Zenodo/DataCite. Datasets, code, empirical scoring files, and supplementary materials may be assigned separate DataCite-based DOIs in future SGRI releases."
   }
 }

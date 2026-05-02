@@ -1,29 +1,352 @@
 {
-  "title": "Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict",
+  "epinova_id": "EPINOVA-PB-2026-016",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-016",
+  "title": "Deterrence Under Cost Pressure",
+  "subtitle": "From Overmatch to Cost Imposition in the U.S.–Iran Conflict",
   "title_normalized": "deterrence under cost pressure: from overmatch to cost imposition in the u.s.-iran conflict",
-  "date": "2026-03-24",
-  "doi": "10.5281/zenodo.19210001",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "209565735",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-24",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19210002",
+  "previous_doi": "10.5281/zenodo.19210001",
+  "landing_page": "https://doi.org/10.5281/zenodo.19210002",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19210002",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19210001",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "209565735",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–16",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Deterrence Under Cost Pressure From Overmatch to Cost Imposition in the U.S.–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Deterrence Under Cost Pressure",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes how the U.S.–Iran conflict is shifting deterrence from overmatch-based dominance toward sustained cost-imposition dynamics. It argues that strategic advantage increasingly depends on signaling coherence, defensive sustainability, and adaptation to partially aligned network structures rather than on capability superiority alone.",
+  "abstract": "The current U.S.–Iran confrontation reflects a broader adjustment in deterrence mechanisms, operational logic, and international structure. Although U.S. operational capacity remains highly structured, inconsistent political signaling creates an action–narrative gap that reduces the interpretability of deterrence. At the same time, Iran’s use of distributed missile and drone attacks, saturation tactics, and low-cost offensive systems exploits the cost asymmetry between offense and high-cost defense. The brief argues that deterrence persists, but in a transformed form: not as low-cost dominance, but as constraint under sustained cost pressure. It further assesses identity-based mobilization as a situational political instrument and describes the surrounding international structure as a set of partially aligned networks rather than fixed alliance blocs.",
+  "keywords": [
+    "Deterrence",
+    "Cost pressure",
+    "Cost imposition",
+    "Overmatch",
+    "U.S.–Iran conflict",
+    "Strategic signaling",
+    "Deterrence instability",
+    "Action–narrative gap",
+    "Missile and drone warfare",
+    "Saturation tactics",
+    "Defense-offense cost ratio",
+    "Exchange asymmetry",
+    "Cumulative burden",
+    "MCCM",
+    "Strategic communication",
+    "Identity mobilization",
+    "Partially aligned networks",
+    "Alliance structure",
+    "Networked conflict",
+    "Systemic complexity",
+    "Escalation uncertainty",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Security studies",
+    "Deterrence theory",
+    "Military strategy",
+    "Middle East conflict",
+    "U.S.–Iran relations",
+    "Information conflict",
+    "Strategic communication",
+    "Cost-imposition strategy",
+    "Missile defense",
+    "Drone warfare",
+    "Alliance politics",
+    "International relations",
+    "Networked conflict analysis",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-24",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-24",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-24",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-24",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Deterrence Under Cost Pressure From Overmatch to Cost Imposition in the U.S.–Iran Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-16/Deterrence%20Under%20Cost%20Pressure%20From%20Overmatch%20to%20Cost%20Imposition%20in%20the%20U.S.%E2%80%93Iran%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 4
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-16",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-16",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-016",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, deterrence dynamics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Cost-Pressure Deterrence and Cost-Imposition Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on observed U.S.–Iran conflict dynamics, MCCM cost-monitoring logic, exchange-asymmetry visualization, cumulative burden assessment, and qualitative interpretation of strategic communication, identity mobilization, and network alignment patterns.",
+    "case_context": "U.S.–Iran conflict, missile and drone exchanges, strategic communication gaps, deterrence instability, and changing international alignment structures.",
+    "core_problem": "U.S. military overmatch remains substantial, but the strategic conversion of capability into deterrence is weakened when signaling coherence declines and low-cost offensive systems impose sustained high-cost defensive burdens.",
+    "central_claims": [
+      "The United States faces a degradation in strategic signaling coherence, reducing the interpretability and credibility of its deterrence posture.",
+      "The conflict reflects a structural shift from overmatch-based deterrence to cost-imposition dynamics, eroding the feasibility of low-cost dominance.",
+      "Iran’s operational approach exploits the asymmetry between low-cost offensive systems and high-cost defensive assets.",
+      "Identity-based mobilization functions as a situational political instrument rather than a durable foundation for strategic alignment.",
+      "The international structure surrounding the conflict is evolving from alliance-centric blocs toward partially aligned networks, increasing systemic complexity and escalation uncertainty."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Strategic Communication and Deterrence Stability",
+        "description": "Assesses how gaps between operational coherence and political signaling ambiguity reduce the external legibility of U.S. deterrence strategy."
+      },
+      {
+        "name": "Overmatch-to-Cost-Imposition Transition",
+        "description": "Interprets the conflict as a shift from low-cost coercive dominance toward reciprocal cost exchange under sustained missile and drone pressure."
+      },
+      {
+        "name": "Exchange Asymmetry",
+        "description": "Uses defender-versus-attacker cost ratio logic to evaluate how low-cost offensive cycles can impose disproportionate resource burdens on defensive systems."
+      },
+      {
+        "name": "Identity Mobilization",
+        "description": "Treats identity-based narratives as conditional and reversible political instruments for short-term cohesion and legitimacy reinforcement."
+      },
+      {
+        "name": "Partially Aligned Networks",
+        "description": "Analyzes how selective coordination among actors can coexist with divergent commitments, making escalation pathways more diffuse and nonlinear."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Signaling Coherence",
+      "code": "SC",
+      "description": "Assesses the clarity, continuity, and interpretability of political and military signaling in deterrence communication."
+    },
+    {
+      "name": "Cost-Imposition Pressure",
+      "code": "CIP",
+      "description": "Evaluates the extent to which repeated offensive cycles impose sustained expenditure and resource stress on defensive systems."
+    },
+    {
+      "name": "Defense-Offense Exchange Asymmetry",
+      "code": "DOEA",
+      "description": "Captures the ratio between defender cost and attacker cost, especially under saturation or high-intensity engagement conditions."
+    },
+    {
+      "name": "Cumulative Burden Dynamics",
+      "code": "CBD",
+      "description": "Assesses how repeated engagement cycles produce upward cost trajectories and sustained fiscal pressure over time."
+    },
+    {
+      "name": "Identity Mobilization Instrumentality",
+      "code": "IMI",
+      "description": "Evaluates how identity-based narratives temporarily compress divisions and support legitimacy under conflict conditions."
+    },
+    {
+      "name": "Network Alignment Complexity",
+      "code": "NAC",
+      "description": "Measures the degree to which modular, situational, and deliberately limited alignment structures complicate bloc-based assumptions and escalation forecasting."
+    }
+  ],
+  "key_findings": [
+    "U.S. operational actions remain structured, but political signaling is less coherent, creating ambiguity over whether objectives prioritize deterrence, escalation control, or broader coercive degradation.",
+    "Deterrence instability emerges when adversaries are uncertain not about U.S. strength, but about thresholds, limits, and escalation pathways.",
+    "The conflict highlights a structural transition from overmatch-based deterrence to cost-imposition dynamics.",
+    "Iran’s sustained missile and drone strikes, distributed launch platforms, and saturation tactics exploit the asymmetry between low-cost offense and high-cost defense.",
+    "The defense-to-offense cost ratio remains above parity, with episodic spikes under saturation or high-intensity attack conditions.",
+    "Repeated engagement cycles subject the defender to continuous resource expenditure and shift deterrence from reputational dominance to resource sustainability.",
+    "Identity-based narratives can temporarily compress internal divisions and reinforce legitimacy, but they do not create durable strategic cohesion.",
+    "The international structure surrounding the conflict is increasingly defined by partially aligned networks rather than formal alliance cohesion.",
+    "Strategic advantage increasingly depends on the capacity to endure, adapt, and signal coherently under sustained system-wide cost pressure."
+  ],
+  "cost_dynamics": {
+    "summary": "The brief treats cost pressure as a structural feature of the conflict rather than a temporary tactical anomaly. Repeated missile and drone cycles impose persistent defensive expenditure and create cumulative burden even when individual attacks have limited tactical effects.",
+    "exchange_asymmetry": {
+      "figure": "Figure 1",
+      "indicator": "Defender / attacker cost ratio",
+      "interpretation": "The cost ratio remains consistently above parity, with saturation-driven spikes under higher-intensity attack conditions."
+    },
+    "cumulative_burden": {
+      "figure": "Figure 2",
+      "indicator": "Cumulative cost imposition dynamics for U.S. & Allies and Iran",
+      "interpretation": "Cumulative cost trajectories diverge steadily over time, with higher aggregate expenditure on the U.S. side and persistent upward cost pressure under repeated engagement cycles."
+    }
+  },
+  "policy_recommendations": [
+    "Reinforce signaling discipline as a core component of deterrence.",
+    "Treat strategic communication as an operational variable rather than a secondary function.",
+    "Prioritize defensive sustainability over point-defense success.",
+    "Plan for prolonged expenditure and resource sustainability, not only interception effectiveness.",
+    "Adapt strategic planning to networked environments.",
+    "Move scenario development beyond bloc-based assumptions toward models of partially aligned, multi-actor systems."
+  ],
+  "related_works": [
+    {
+      "title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
+      "identifier": "10.5281/zenodo.19138942",
+      "relation": "Related EPINOVA policy brief assessing U.S. operational superiority, systemic burden, and LoCT risk in the U.S.–Iran conflict.",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief assessing first-week escalation dynamics and next-phase risks.",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief providing an escalation ladder framework for the conflict.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–16, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19210002. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Deterrence under cost pressure: From overmatch to cost imposition in the U.S.–Iran conflict (Policy Brief No. EPINOVA–2026–PB–16). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19210002. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Deterrence Under Cost Pressure, EPINOVA–2026–PB–16.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-24",
+    "pagination": "4 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Exchange Asymmetry (Defender / Attacker Cost Ratio)",
+      "description": "Line chart showing that the defense-to-offense cost ratio remains above parity across conflict days, with saturation-driven spikes under higher-intensity attack conditions.",
+      "source": "MCCM (EPINOVA)",
+      "note": "Figure shown on page 2 of the PDF."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Cost Imposition Dynamics (Cumulative Burden)",
+      "description": "Cumulative burden chart comparing U.S. & Allies and Iran, showing steadily diverging cost trajectories and persistent upward cost pressure under repeated engagement cycles.",
+      "source": "MCCM (EPINOVA)",
+      "note": "Mid estimates shown; shaded bands indicate low–high ranges; CAPEX continuity included for U.S. series; Global Shock excluded. Figure shown on page 2 of the PDF."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Deterrence Under Cost Pressure From Overmatch to Cost Imposition in the U.S.–Iran Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, strategic communication analysis, cost-imposition logic, Figure 1 exchange-asymmetry chart, Figure 2 cumulative burden chart, identity mobilization analysis, partially aligned network analysis, conclusion, policy implications, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19210001, ORCID put-code 209565735, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19210002 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19210002",
+    "crossref_doi_suffix": "epinova.pb.2026.016",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19210002",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "209565735",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-24"
   }
 }

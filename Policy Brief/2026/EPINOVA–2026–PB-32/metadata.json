@@ -1,29 +1,349 @@
 {
-  "title": "From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz",
+  "epinova_id": "EPINOVA-PB-2026-032",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-032",
+  "title": "From Selective Restriction to Universal Blockade",
+  "subtitle": "Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz",
   "title_normalized": "from selective restriction to universal blockade: legal contestation and third-party naval intervention in the strait of hormuz",
-  "date": "2026-04-14",
-  "doi": "10.5281/ZENODO.19568379",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211656502",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-14",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19568379",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19568379",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19568379",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/ZENODO.19568379",
+      "scheme": "DOI",
+      "description": "Uppercase DOI form from early ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211656502",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–32",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Selective Restriction to Universal Blockade",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the shift from Iran's selective maritime restriction model to a broader U.S. port-access blockade in the Strait of Hormuz, assessing the legal contestation, systemic externalities, and conditions under which third-party naval intervention may be framed as navigation assurance rather than coercive enforcement.",
+  "abstract": "This policy brief identifies a structurally decisive distinction between Iran's bounded selective restriction regime and the United States' system-wide port-access blockade in the Strait of Hormuz. It argues that the expansion from selective interference to universalized exclusion transforms the crisis from a bilateral confrontation into a systemic question of international maritime governance. The brief examines Iran's appeal to the United Nations, the legal basis for third-party naval deployment under transit passage and collective security frameworks, and the operational pathways available to external actors. It concludes that third-party involvement is legally defensible and strategically consequential only when framed as defensive maritime assurance, integrating escort operations, humanitarian support, and maritime domain awareness while avoiding enforcement behavior that could intensify cross-domain escalation.",
+  "keywords": [
+    "Strait of Hormuz",
+    "Maritime security",
+    "Maritime blockade",
+    "Port-access blockade",
+    "Selective restriction",
+    "Transit passage",
+    "UNCLOS",
+    "United Nations Charter",
+    "Third-party naval intervention",
+    "Navigation assurance",
+    "Defensive escort",
+    "Maritime domain awareness",
+    "International maritime governance",
+    "Global commons",
+    "Energy security",
+    "Legal contestation",
+    "Extraterritorial enforcement",
+    "Systemic escalation",
+    "MCCM v2.0+",
+    "Cross-domain escalation",
+    "Rules-based maritime order",
+    "Iran",
+    "United States",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Maritime governance",
+    "International law",
+    "Law of the sea",
+    "Security studies",
+    "Middle East security",
+    "Strategic competition",
+    "Energy chokepoints",
+    "Naval operations",
+    "Conflict escalation",
+    "International institutions",
+    "Global commons governance",
+    "Policy analysis",
+    "Systems analysis",
+    "Geopolitics"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-14",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-14",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-14",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata updated"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-32/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-32",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-32",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-032",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Maritime Coercion and Third-Party Intervention Assessment Framework",
+    "source_basis": "Policy-facing legal and systemic analysis based on the Strait of Hormuz crisis, UNCLOS transit passage logic, United Nations Charter pathways, and MCCM v2.0+ escalation-system interpretation.",
+    "case_context": "Iran–U.S. maritime confrontation in the Strait of Hormuz, legal contestation over blockade practices, and potential third-party naval intervention.",
+    "core_problem": "A shift from selective maritime restriction to system-wide port-access blockade externalizes conflict costs onto neutral actors and converts a bilateral confrontation into a systemic test of maritime order and global commons governance.",
+    "central_claims": [
+      "The Iran–U.S. distinction is structurally decisive because it separates bounded coercion from system-wide disruption.",
+      "Iran's appeal to the United Nations transforms the crisis into a test of maritime order and legal governance.",
+      "The U.S. port-access blockade externalizes conflict costs onto neutral actors and the global economic system.",
+      "Third-party naval deployment is legally defensible when framed through transit passage, national protection, and navigation assurance rather than coercive enforcement.",
+      "Improperly framed intervention can intensify cross-domain escalation through increased system coupling and feedback loops."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Selective Restriction versus Universal Blockade",
+        "description": "Distinguishes Iran's bounded and differentiated interference with maritime flows from a U.S. model of generalized exclusion applied to all vessels entering or leaving Iranian ports."
+      },
+      {
+        "name": "Internationalization through Legal Contestation",
+        "description": "Interprets Iran's UN appeal as a shift from operational confrontation to legal-institutional contestation over navigational rights, sovereignty, and international responsibility."
+      },
+      {
+        "name": "Transit Passage and Navigation Assurance",
+        "description": "Uses the non-suspendable character of transit passage through international straits as the operational-legal basis for defensively framed third-party deployment."
+      },
+      {
+        "name": "Layered Maritime Assurance",
+        "description": "Integrates defensive escort, humanitarian/evacuation support, and maritime domain awareness as a stabilizing operational architecture."
+      },
+      {
+        "name": "MCCM v2.0+ Escalation-System Dynamics",
+        "description": "Assesses how third-party presence can stabilize maritime flows while increasing actor density, feedback speed, and cross-domain coupling."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Maritime Coercion Model",
+      "code": "MCM",
+      "description": "Compares selective restriction and universal port-access blockade as structurally distinct forms of maritime coercion."
+    },
+    {
+      "name": "Legal Contestation and Institutionalization",
+      "code": "LCI",
+      "description": "Assesses how the dispute is reframed through UN channels, UNCLOS transit passage principles, and claims under the UN Charter."
+    },
+    {
+      "name": "Third-Party Intervention Legitimacy",
+      "code": "TPIL",
+      "description": "Evaluates legal and political grounds for third-party naval presence, including formal authorization, navigation assurance, and national protection logics."
+    },
+    {
+      "name": "Operational Assurance Architecture",
+      "code": "OAA",
+      "description": "Captures the layered combination of escort operations, humanitarian and evacuation support, deconfliction, and maritime domain awareness."
+    },
+    {
+      "name": "Systemic Escalation Risk",
+      "code": "SER",
+      "description": "Assesses how additional naval actors alter interaction density, decision space, feedback loops, and cross-domain propagation risk."
+    }
+  ],
+  "variables": [
+    {
+      "name": "Selective Restriction Regime",
+      "code": "SRR",
+      "description": "A bounded, differentiated maritime control model involving conditional or permission-based access, targeted pressure, and discretionary flow control."
+    },
+    {
+      "name": "Universal Port-Access Blockade",
+      "code": "UPAB",
+      "description": "A generalized exclusion model restricting vessels entering or leaving Iranian ports regardless of flag, with system-wide externalities for neutral actors."
+    },
+    {
+      "name": "Navigation Assurance Posture",
+      "code": "NAP",
+      "description": "A defensive operational posture focused on protecting neutral commercial shipping and preserving transit continuity without coercive enforcement."
+    },
+    {
+      "name": "Maritime Domain Awareness",
+      "code": "MDA",
+      "description": "Real-time surveillance, risk monitoring, navigation warnings, incident documentation, and attribution supporting operational safety and legal transparency."
+    },
+    {
+      "name": "Escalation Coupling Risk",
+      "code": "ECR",
+      "description": "The risk that additional military actors, compressed decision cycles, and incompatible rules of engagement generate reinforcing cross-domain escalation loops."
+    }
+  ],
+  "key_findings": [
+    "The distinction between Iran's selective restriction regime and the U.S. universal port-access blockade is structural rather than scalar.",
+    "Iran's model represents localized distortion of navigational rights, while the U.S. model introduces a generalized exclusion regime with system-wide effects.",
+    "Once neutral shipping and global commerce are affected, the crisis shifts from bilateral confrontation to international maritime governance.",
+    "Iran's appeal to the United Nations reframes the blockade as a question of international responsibility, navigational freedom, and sovereignty rather than unilateral strategy.",
+    "Third-party naval deployment is most defensible when framed as navigation assurance grounded in transit passage and national protection doctrines.",
+    "Security Council authorization provides maximal formal legitimacy but is constrained by veto dynamics and therefore limited in near-term operational feasibility.",
+    "A layered maritime assurance architecture should combine defensive escort, humanitarian and evacuation support, and maritime domain awareness.",
+    "Third-party intervention produces a dual effect: immediate stabilization of commercial flows and increased systemic sensitivity to shocks.",
+    "Escalation risk derives less from actor intent than from interaction sequences, misperception, contested authority, and incompatible rules of engagement.",
+    "The Strait of Hormuz functions as a high-density systemic stress test for the governance of global commons under conflict conditions."
+  ],
+  "policy_recommendations": [
+    "Frame third-party naval involvement as navigation assurance rather than conflict participation or counter-blockade enforcement.",
+    "Maintain a strictly defensive posture and avoid operational behaviors that resemble coercive enforcement or access denial.",
+    "Integrate escort, humanitarian, evacuation, and maritime domain awareness functions into a coordinated maritime assurance architecture.",
+    "Facilitate communication, transparency, and deconfliction mechanisms through international institutions or ad hoc coordination frameworks where formal mandates are unavailable.",
+    "Prevent the emergence of competing enforcement regimes that could transform a navigation crisis into multi-actor security competition.",
+    "Treat the Strait of Hormuz as part of the global commons by prioritizing continuity of access, openness, predictability, and restraint."
+  ],
+  "related_works": [
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief providing the MCCM v2.0+ escalation-system framework referenced in the assessment of cross-domain escalation risk.",
+      "type": "DOI"
+    },
+    {
+      "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
+      "identifier": "10.5281/zenodo.19562154",
+      "relation": "Related EPINOVA policy brief analyzing Iran's logistics adaptation beyond Persian Gulf maritime flows.",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    {
+      "citation": "United Nations Convention on the Law of the Sea (UNCLOS).",
+      "type": "International legal framework referenced in the policy brief",
+      "url": ""
+    },
+    {
+      "citation": "United Nations Charter, Article 2(4).",
+      "type": "International legal framework referenced in the policy brief",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz, Policy Brief No. EPINOVA–2026–PB–32, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19568379. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From selective restriction to universal blockade: Legal contestation and third-party naval intervention in the Strait of Hormuz (Policy Brief No. EPINOVA–2026–PB–32). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Selective Restriction to Universal Blockade, EPINOVA–2026–PB–32.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-14",
+    "pagination": "8 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, key judgments, why-this-matters section, executive summary, analytical distinction, legal escalation analysis, third-party deployment basis, operational models, diplomatic pathways, MCCM v2.0+ escalation-risk discussion, policy recommendations, limitations, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied uppercase DOI form, ORCID put-code 211656502, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase for the primary doi field while the uppercase ORCID-derived DOI is retained as an alternate identifier."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19568379",
+    "crossref_doi_suffix": "epinova.pb.2026.032",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19568379",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata, with DOI normalized to lowercase."
+  },
+  "orcid": {
+    "put_code": "211656502",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-14"
   }
 }

@@ -1,29 +1,322 @@
 {
-  "title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
-  "title_normalized": "unmanned algorithmic warfare and human role reconfiguration: an international law perspective",
-  "date": "2025-12-29",
-  "doi": "10.5281/zenodo.18088850",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2025-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201017305",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper",
+  "series_code": "WP-F",
+  "series_number": "2025-002",
+  "title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration",
+  "subtitle": "An International Law Perspective",
+  "title_full": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
+  "title_normalized": "unmanned algorithmic warfare and human role reconfiguration: an international law perspective",
+  "publication_date": "2025-12-04",
+  "date": "2025-12-04",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "author": "Wu, Shaoyuan",
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18088850",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18088850",
+  "official_page": "https://doi.org/10.5281/zenodo.18088850",
+  "alternate_identifiers": [
+    {
+      "identifier": "Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "201017305",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API put-code from early metadata record"
+    },
+    {
+      "identifier": "2025-12-04",
+      "scheme": "PDF date",
+      "description": "Date shown on the PDF title page"
+    },
+    {
+      "identifier": "2025-12-29",
+      "scheme": "ORCID record date",
+      "description": "Date field in the early ORCID-derived metadata record"
+    }
+  ],
+  "description": "This working paper examines how artificial intelligence, autonomous weapon systems, and algorithmic command-and-control architectures reconfigure warfare and strain the operational foundations of international humanitarian law, state responsibility, use-of-force analysis, and meaningful human control. It argues that international law remains applicable, but that AI-enabled conflict creates an operationalization crisis by eroding the factual conditions required for foreseeability, attribution, proportionality assessment, and accountable human judgment.",
+  "abstract": "As artificial intelligence (AI), autonomous weapon systems (AWS), and highly automated command-and-control architectures increasingly permeate the battlespace, the structure of armed conflict is undergoing a profound shift toward de-humanization. Existing frameworks of international humanitarian law (IHL) and the law of state responsibility were built on the premise that human agents occupy the center of the decision–execution chain. Yet algorithmic perception, target identification, tactical optimization, and autonomous engagement now routinely exceed human cognitive capacity, both in speed and in operational complexity. This article advances an analytic framework of Algorithmic Unmanned Warfare, arguing that the issue is not that international law ceases to apply, but that it confronts a crisis of operationalization: the legal principles remain normatively intact, yet the factual and structural conditions necessary for their implementation are progressively eroding. The discussion proceeds across five dimensions—evolution of warfare, attribution and responsibility, AI territoriality, meaningful human control, and future institutional reconstruction—each illustrating how algorithmic systems reshape the practical foundations upon which legal regulation has long depended. The article concludes that the AI era represents not a technical upgrade of warfare, but a fundamental stress test for the foundations of the law of armed conflict. Preserving governable, auditable, and accountable frameworks for the use of force will determine whether AI militarization reinforces international order or accelerates its erosion.",
+  "keywords": [
+    "Algorithmic unmanned warfare",
+    "Autonomous weapon systems",
+    "International humanitarian law",
+    "Law of armed conflict",
+    "State responsibility",
+    "Meaningful human control",
+    "AI territoriality",
+    "Use of force",
+    "Armed attack",
+    "Algorithmic opacity",
+    "Human role reconfiguration",
+    "OODA loop",
+    "AI-enabled conflict",
+    "Autonomous systems governance",
+    "Military AI"
+  ],
+  "subjects": [
+    "International Law",
+    "International Humanitarian Law",
+    "Military Artificial Intelligence",
+    "Autonomous Weapon Systems",
+    "Strategic Studies",
+    "AI Governance",
+    "Use of Force and State Responsibility"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-04",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-04",
+      "date_type": "Created"
+    },
+    {
+      "date": "2025-12-29",
+      "date_type": "Registered in early ORCID-derived metadata"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-04/Unmanned%20Algorithmic%20Warfare%20and%20Human%20Role%20Reconfiguration.pdf",
+      "format": "application/pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the working paper",
+      "pages": 10,
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-04/Unmanned%20Algorithmic%20Warfare%20and%20Human%20Role%20Reconfiguration.pdf"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-04",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-04",
+  "source_repository": "EPINOVA-Research GitHub repository",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper",
+    "series_code": "WP-F",
+    "series_number": "2025-002",
+    "series_description": "Working paper in EPINOVA's F-series, focused on foundational, future-oriented, or framework-level analysis involving AI, law, governance, and structural transformation. Series classification is inferred from the GitHub repository path in the early metadata record."
+  },
+  "framework": {
+    "framework_name": "Algorithmic Unmanned Warfare",
+    "framework_type": "International law and AI warfare analytical framework",
+    "core_claim": "AI-enabled warfare does not render international law obsolete; it creates an operationalization crisis by weakening the factual foundations required to apply IHL, attribution rules, use-of-force thresholds, and meaningful human control.",
+    "conceptual_framing": "Algorithmic Unmanned Warfare refers to a structural condition in which algorithmic systems, rather than discrete weapon platforms, become the primary locus of operational decision-making across sensing, targeting, and engagement."
+  },
+  "methodology": {
+    "approach": "Conceptual legal analysis combined with structural interpretation of AI-enabled warfare and autonomous command-and-control systems.",
+    "analytical_dimensions": [
+      "Technological disruption and the operationalization crisis of international law",
+      "Evolution of warfare from human-dominated to system-dominated conflict",
+      "International humanitarian law and state responsibility",
+      "AI territoriality and UN Charter use-of-force analysis",
+      "Meaningful human control and human role reconfiguration",
+      "Institutional reconstruction for accountable AI-enabled conflict"
+    ],
+    "core_legal_domains": [
+      "International humanitarian law",
+      "Law of armed conflict",
+      "State responsibility under ARSIWA",
+      "UN Charter Article 2(4) use of force",
+      "UN Charter Article 51 armed attack and self-defense",
+      "Article 36 weapons review logic",
+      "Meaningful human control"
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Evolution of warfare",
+      "description": "Analyzes the transition from mechanized and information-age warfare to algorithmic warfare, where the operational chain shifts from commander–soldier–weapon to sensor–model–effecter."
+    },
+    {
+      "name": "Attribution and responsibility",
+      "description": "Examines how state responsibility remains legally valid but becomes evidentially fragile under distributed training pipelines, emergent model behavior, and ambiguous effective control."
+    },
+    {
+      "name": "AI territoriality",
+      "description": "Conceptualizes AI-era strategic space through physical, digital, and institutional layers, including compute infrastructure, data flows, cloud regions, satellite links, and algorithmic governance regimes."
+    },
+    {
+      "name": "Meaningful human control",
+      "description": "Frames MHC as a normative allocation of responsibility rather than a technical guarantee, covering design-phase understanding, deployment-phase judgment, and operational override capacity."
+    },
+    {
+      "name": "Institutional reconstruction",
+      "description": "Identifies the need to rebuild legal and governance mechanisms around predictability, controllability, auditability, algorithmic effects, and human judgment as the final arbiter of war's legitimacy."
+    }
+  ],
+  "key_findings": [
+    "AI is evolving from an enabling tool into the structural core of the battlespace, shifting the logic of warfare from humans–weapons–territory to systems–algorithms–nodes.",
+    "IHL continues to apply, but its operationalization is undermined by algorithmic opacity, epistemic opacity of machine-learning models, model unpredictability, and distributed technological supply chains.",
+    "Under the law of state responsibility, abstract legal attribution remains valid, yet factual attribution becomes difficult due to emergent behavior, cross-border training pipelines, and ambiguous effective control.",
+    "Warfare space increasingly manifests as AI territoriality involving compute infrastructure, data flows, cloud regions, and algorithmic governance regimes, creating new interpretive challenges for the UN Charter rules on use of force and armed attack.",
+    "Human roles are not disappearing but migrating upward from tactical execution to strategic judgment, normative arbitration, and institutional design.",
+    "The AI era is a stress test for the operational foundations of the law of armed conflict rather than a mere technical upgrade of warfare."
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Human-Led vs. Algorithmic OODA",
+      "description": "Compares the traditional human-led OODA loop with algorithmic OODA: human observation becomes automated multi-sensor fusion; human orientation becomes model-based threat evaluation; human decision becomes semi- or fully autonomous decision generation; and human action becomes autonomous effectors such as drone swarms, loitering munitions, and air-defense systems.",
+      "source": "Author's analysis based on the conceptual comparison between human-led and algorithmic OODA cycles",
+      "note": "The OODA framework is used as an analytical device rather than as a mechanistic model of legal responsibility."
+    },
+    {
+      "number": "Table 2",
+      "title": "Four-Tier Reconfiguration of Human Roles",
+      "description": "Presents a four-tier model of human role migration under algorithmic warfare: tactical execution declines; supervisory and authorization functions weaken; strategic judgment increases; and normative and institutional design becomes increasingly pivotal.",
+      "source": "Author's analysis",
+      "note": "The table conceptualizes human agency as migrating upward from real-time operation toward authorization, governance, and normative arbitration."
+    }
+  ],
+  "typological_comparison": {
+    "human_led_ooda": [
+      "Human observation",
+      "Human orientation",
+      "Human decision",
+      "Human action"
+    ],
+    "algorithmic_ooda": [
+      "Automated multi-sensor fusion",
+      "Model-based threat evaluation",
+      "Semi- or fully autonomous decision generation",
+      "Autonomous effectors such as drone swarms, loitering munitions, and air-defense systems"
+    ],
+    "human_role_tiers": [
+      {
+        "tier": "I",
+        "name": "Tactical Execution",
+        "trend": "Declining as autonomous platforms increasingly perform sensing, targeting, and kinetic tasks"
+      },
+      {
+        "tier": "II",
+        "name": "Supervisory and Authorization Functions",
+        "trend": "Weakening as engagement cycles accelerate beyond human reaction time"
+      },
+      {
+        "tier": "III",
+        "name": "Strategic Judgment",
+        "trend": "Increasing as human commanders focus on higher-order oversight rather than tactical control"
+      },
+      {
+        "tier": "IV",
+        "name": "Normative and Institutional Design",
+        "trend": "Increasingly pivotal as the primary domain where human agency remains indispensable"
+      }
+    ]
+  },
+  "policy_implications": [
+    "Reaffirm the applicability of IHL to AI-enabled means and methods of warfare while developing operational standards for predictability, controllability, and auditability.",
+    "Strengthen Article 36 weapons review processes by incorporating model-level testing, operational transparency, and evaluation of AI system behavior under varied contexts.",
+    "Develop legal and institutional interpretations that account for compute infrastructure, data flows, and algorithmic effects when assessing use of force and armed attack thresholds.",
+    "Codify meaningful human control as a baseline constraint across design, deployment, and operational phases of autonomous weapon systems.",
+    "Establish safeguards against systemic or uncontrollable escalation arising from high-speed autonomous engagement and opaque model behavior."
+  ],
+  "related_works": [],
+  "references": [
+    "Boothby, William H. 2016. Weapons and the Law of Armed Conflict. Oxford: Oxford University Press.",
+    "Boyd, John R. 1996. The Essence of Winning and Losing. Unpublished briefing slides. Widely circulated briefing, available via the U.S. Air Force Air University and secondary archival sources.",
+    "Burrell, Jenna. 2016. \"How the Machine 'Thinks': Understanding Opacity in Machine Learning Algorithms.\" Big Data & Society 3(1).",
+    "Crawford, James. 2013. State Responsibility: The General Part. Cambridge: Cambridge University Press.",
+    "Crootof, Rebecca. 2022. \"War Torts: Accountability for Autonomous Weapons Systems.\" University of Pennsylvania Law Review 170(5): 1347–1416.",
+    "Danks, David, and Alex John London. 2017. \"Algorithmic Bias in Autonomous Systems.\" Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI).",
+    "De Spiegeleire, Stephan, Matthijs Maas, and Tim Sweijs. 2017. AI and the Future of Defense. The Hague: The Hague Centre for Strategic Studies.",
+    "Dinstein, Yoram. 2022. The Conduct of Hostilities under the Law of International Armed Conflict. 4th ed. Cambridge: Cambridge University Press.",
+    "Ekelhof, Merel A. C. 2019. \"Moving Beyond Semantics on Autonomous Weapons: Meaningful Human Control in Operation.\" Global Policy 10(3): 343–348.",
+    "Horowitz, Michael C., and Paul Scharre. 2021. \"AI in Military Applications: Emerging Trends and Implications.\" Annual Review of Political Science 24: 253–270.",
+    "ICRC (International Committee of the Red Cross). 2021. \"Autonomy, Artificial Intelligence and Robotics: Technical and Legal Challenges.\" Geneva: ICRC.",
+    "ICRC. 2023. \"Safeguarding Human Control over Weapons Systems.\" Geneva: ICRC.",
+    "International Law Commission (ILC). 2001. Articles on Responsibility of States for Internationally Wrongful Acts, UN Doc. A/56/10, ch. IV.E. United Nations.",
+    "Kallberg, Jan. 2019. \"Navigating the OODA Loop in High-Velocity Cyber Conflict.\" Cyber Defense Review.",
+    "Nye, Joseph S. 2010. Cyber Power. Cambridge, MA: Harvard Kennedy School.",
+    "Rahwan, Iyad. 2019. \"Society-in-the-Loop: Programming the Algorithmic Social Contract.\" Ethics and Information Technology 21(1): 5–14.",
+    "Sassòli, Marco. 2021. International Humanitarian Law: Rules, Controversies, and Solutions to Problems Arising in Warfare. Cheltenham: Edward Elgar.",
+    "Schmitt, Michael N. 2017. \"Autonomous Weapon Systems and International Humanitarian Law.\" Harvard National Security Journal 8(2): 140–164.",
+    "Schmitt, Michael N. 2021. \"The Use of Force in Cyberspace: Emerging State Practice.\" Texas Law Review 99(3): 490–524.",
+    "Schmitt, Michael N., and Liis Vihul, eds. 2020. Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations. Cambridge: Cambridge University Press.",
+    "Tsagourias, Nicholas, and Russell Buchan. 2022. Research Handbook on the Law of Cyber Operations. Cheltenham: Edward Elgar.",
+    "Tsagourias, Nicholas, and Alasdair Farrell. 2022. \"The Effects Doctrine in Cyber Operations.\" Journal of Conflict & Security Law 27(1): 67–95."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18088850. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). Unmanned algorithmic warfare and human role reconfiguration: An international law perspective. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18088850. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Unmanned Algorithmic Warfare and Human Role Reconfiguration.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-04"
+  },
+  "figures": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and the early ORCID-derived metadata record. The working paper presents analytical views on AI-enabled warfare, international humanitarian law, state responsibility, AI territoriality, and meaningful human control. It does not represent the official position of any government, organization, or institution.",
   "metadata_source": {
+    "source_file": "Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual/page inspection, and early metadata reconciliation",
+    "generated_on": "2026-04-30",
+    "notes": "The PDF title page shows the date 2025-12-04. The early ORCID-derived metadata record lists date 2025-12-29 and provides DOI, put_code, and repository links. This updated record uses the PDF date as publication_date while preserving the ORCID record date as an alternate date and retaining DOI/repository metadata from the early record.",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "created_date": "2025-12-04",
+    "last_updated": "2026-05-01"
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated in the supplied metadata. Zenodo DOI is treated as DataCite/Zenodo DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18088850",
+    "crossref_doi_suffix": "epinova.wp.f.2025.002.unmanned.algorithmic.warfare",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18088850",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "DOI supplied by the early ORCID-derived metadata record."
+  },
+  "orcid": {
+    "put_code": "201017305",
+    "source": "ORCID Public API",
+    "date": "2025-12-29"
   }
 }

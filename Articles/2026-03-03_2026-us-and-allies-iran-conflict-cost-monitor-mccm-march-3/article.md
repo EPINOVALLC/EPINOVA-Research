@@ -1,0 +1,99 @@
+# 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 3
+
+Original URL: https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-3
+
+Publication date: 2026-03-03
+
+Archive note: This is a locally preserved Markdown copy of an EPINOVA article originally generated through the GoDaddy blog system.
+
+---
+
+[All Posts](<https://epinova.org/articles?blog=y>)
+
+### 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 3
+
+March 3, 2026
+
+**Powered by AIPAMS**
+
+  
+
+
+**Introduction**
+
+The 2026 Middle East Conflict Cost Monitor (MCCM) provides an event-driven, scenario-based assessment of daily conflict-related expenditures and losses across major state actors involved in the crisis. Using a structured low–mid–high estimation framework, the series aggregates publicly available operational indicators, force posture changes, strike intensity proxies, reported material damage, and infrastructure disruptions to produce comparable daily cost ranges.
+
+The framework distinguishes between (1) direct military expenditures and asset losses, (2) infrastructure and energy-sector disruption costs, and (3) systemic market spillovers (“Global Shock”), which are reported separately from war-specific accounts.
+
+MCCM is designed as a rolling monitoring instrument rather than a definitive accounting ledger. All estimates are expressed in current U.S. dollars (USD) and reflect bounded scenario approximations intended for comparative analysis and policy discussion. High-range estimates may incorporate upper-bound scenario adjustments where reported high-value asset losses remain under verification. Estimates are updated as verification improves and may be revised retroactively. 
+
+  
+
+
+![](assets/image-001.jpg)
+
+**Note:**  
+Ranges reflect scenario-bounded estimates. Low = minimum confirmed observable losses. Mid = most probable range based on publicly available reporting and operational cost parameters. High = upper-bound scenario including reported but not independently verified high-value asset losses. Figures exclude Global Shock (systemic market spillovers). All values are incremental (24-hour estimate). 
+
+  
+
+
+![](assets/image-002.jpg)
+
+**Note:**
+
+Cumulative totals represent aggregated daily scenario ranges. High range includes scenario-based upper-bound adjustments (e.g., reported strategic asset losses). Figures exclude Global Shock. Values rounded; subject to revision as verification improves. 
+
+  
+
+
+![](assets/image-003.jpg)
+
+**Note:**
+
+Global Shock reflects cumulative systemic spillovers (energy, shipping, insurance, airspace) during the reporting period and is excluded from direct military cost totals. 
+
+  
+
+
+**Selected References:**
+
+Al Jazeera. (2026, March 2–3). _Coverage of U.S.–Iran military escalation and casualty reporting_. <https://www.aljazeera.com/>
+
+Anadolu Ajansı. (2026, March 2). _U.S. military operations cost estimate for Operation “Epic Fury”_. <https://www.aa.com.tr/en>
+
+Bloomberg. (2026, March 2). _Israel approves additional 9 billion shekels in defense funding amid escalation_. <https://www.bloomberg.com/>
+
+Business Insider. (2026, March 2). _F-35I operating cost and operational tempo reporting_. <https://www.businessinsider.com/>
+
+CCTV International News. (2026, March 2). _Iran announces launch of “Fattah-2” hypersonic missile_. <https://news.cctv.com/>
+
+China News Service (中国新闻网). (2026, March 2). 伊朗称纳坦兹核设施遭美以两次袭击 [Iran says Natanz nuclear facility struck twice by U.S. and Israel]. <https://www.chinanews.com/>
+
+Fox News. (2026, March 3). _Report on drone strike near U.S. Embassy in Saudi Arabia_. <https://www.foxnews.com/>
+
+IRNA (Islamic Republic News Agency). (2026, March 2). _Statement from Iran Atomic Energy Organization on Natanz strikes_. <https://en.irna.ir/>
+
+Mehr News Agency. (2026, March 1–3). _Reports on Strait of Hormuz maritime enforcement_. <https://en.mehrnews.com/>
+
+People’s Daily (人民日报). (2026, March 2). 伊朗关闭霍尔木兹海峡，美以空袭伊朗港口！美以军事打击伊朗最新动态 [Iran closes Strait of Hormuz; U.S.–Israel airstrikes update]. <https://www.people.com.cn/>
+
+Qatar Ministry of Defense. (2026, March 2). _Official statement on interception of aircraft and missiles_. <https://www.mod.gov.qa/>
+
+Reuters. (2026, March 2–3). _U.S. Central Command statements; Gulf military escalation; energy market reaction_. [https://www.reuters.com/](<https://www.reuters.com/?utm_source=chatgpt.com>)
+
+Reference News (参考消息). (2026, March 2–3). 美军公布最新伤亡情况；法德表态；卡塔尔称击落两架伊朗战机 [Various reports on casualties and regional responses]. <https://www.cankaoxiaoxi.com/>
+
+Red Star News (红星新闻). (2026, March 2). 伊朗公布“法塔赫-2”高超音速导弹发射视频 [Iran releases Fattah-2 hypersonic missile footage]. <https://www.chengdu.cn/>
+
+State Service of Special Communications and Information Protection of Ukraine (SSSCIP). (2025–2026). _Operational and institutional reporting_. <https://cip.gov.ua/>
+
+U.S. Central Command. (2026, March 1–3). _Official press releases on ongoing operations and casualty updates_. <https://www.centcom.mil/>
+
+Xinhua News Agency. (2026, March 2–3). _Iran–U.S.–Israel conflict updates; Natanz nuclear facility strike reporting_. <https://english.news.cn/>
+
+Yangtze Evening News (扬子晚报). (2026, March 2). 以军称投下超2500枚炸弹，摧毁约600个伊朗目标 [Israeli military reports 2,500 bombs dropped]. <https://www.yangtse.com/>
+
+壹航运 (One Shipping). (2026, March 2). 快讯：悬挂美国国旗油轮遭导弹袭击 [Report on tanker damage claim]. <https://www.yihangyun.com/>
+
+Share this post:

@@ -1,29 +1,279 @@
 {
-  "title": "Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal",
-  "title_normalized": "gray-zone maritime rights-protection strategy: asymmetric costs and sustainable presence, a case study of the china-philippines dispute over scarborough shoal",
-  "date": "2025-10-13",
-  "doi": "10.5281/zenodo.18095271",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-2025-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201033348",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2025-10-13",
+  "title": "Gray-Zone Maritime Rights-Protection Strategy",
+  "subtitle": "Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal",
+  "title_normalized": "gray-zone maritime rights-protection strategy: asymmetric costs and sustainable presence, a case study of the china–philippines dispute over scarborough shoal",
+  "publication_date": "2025-10-13",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18095271",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18095271",
+  "official_page": "https://doi.org/10.5281/zenodo.18095271",
+  "alternate_identifiers": [
+    {
+      "identifier": "Gray-Zone Maritime Rights-Protection Strategy.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "2025-10-13",
+      "scheme": "Publication date",
+      "description": "Date shown in the PDF title page"
+    },
+    {
+      "identifier": "10.5281/zenodo.18095271",
+      "scheme": "DOI",
+      "description": "Zenodo DOI from the earliest ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201033348",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API put-code from the earliest metadata record"
+    },
+    {
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-10-13",
+      "scheme": "Repository folder",
+      "description": "GitHub repository folder from the earliest metadata record"
+    }
+  ],
+  "description": "This working paper develops a Cost–Distance–Frequency (CDF) framework for evaluating gray-zone maritime rights-protection operations under asymmetric geography. Using the China–Philippines dispute over Scarborough Shoal as a case study, it models cost per effective hour of presence, risk expectation, sustainability thresholds, and manned–unmanned substitution conditions to assess how sustained presence, operational tempo, and cost compression shape long-term strategic symmetry.",
+  "abstract": "Gray-zone maritime rights-protection operations increasingly hinge on sustained presence rather than episodic tactical encounters, particularly under conditions of geographic asymmetry between near-shore and far-shore actors. This paper introduces a Cost–Distance–Frequency (CDF) analytical framework that models cost per effective hour of presence, integrates risk expectation and policy-defined sustainability thresholds, and derives closed-form conditions for manned–unmanned substitution in long-duration deployments. Applying the framework to the China–Philippines dispute over Scarborough Shoal, the analysis demonstrates how near-shore advantages rooted in proximity and sortie frequency can be structurally offset over time through far-shore cost compression, prepositioning, and unmanned force integration. The study highlights the dynamic interaction among cost accumulation, operational tempo, and incident risk in shaping strategic symmetry under gray-zone conditions. By linking operational design to long-term fiscal and institutional endurance, the CDF framework offers a potentially generalizable analytical tool for informing force-posture decisions in contested maritime environments.",
+  "keywords": [
+    "Gray-zone maritime strategy",
+    "Maritime rights-protection",
+    "Cost–Distance–Frequency framework",
+    "CDF model",
+    "Scarborough Shoal",
+    "China–Philippines dispute",
+    "South China Sea",
+    "Sustained presence",
+    "Asymmetric costs",
+    "Operational sustainability",
+    "Manned–unmanned substitution",
+    "Unmanned surface vehicles",
+    "Maritime law enforcement",
+    "Effective presence",
+    "Risk expectation"
+  ],
+  "subjects": [
+    "International Relations",
+    "Maritime Security",
+    "South China Sea Studies",
+    "Gray-Zone Conflict",
+    "Strategic Studies",
+    "Operational Sustainability Modeling"
+  ],
+  "dates": [
+    {
+      "date": "2025-10-13",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-10-13",
+      "date_type": "Created"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Gray-Zone Maritime Rights-Protection Strategy.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-10-13/Gray-Zone%20Maritime%20Rights-Protection%20Strategy.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the publication",
+      "pages": 10
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-10-13",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-10-13",
+  "source_repository": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper",
+    "series_code": "WP-F",
+    "series_number": "2025-10-13",
+    "series_description": "Working paper in the EPINOVA Working Paper F path, based on the repository folder Working Paper/F/2025/2025-10-13."
+  },
+  "methodology": {
+    "framework_name": "Cost–Distance–Frequency (CDF) Analytical Framework",
+    "case_study": "China–Philippines dispute over Scarborough Shoal",
+    "core_metric": "Cost per effective hour of presence",
+    "analytical_components": [
+      "Effective presence hours",
+      "Risk expectation",
+      "Policy-defined sustainability threshold",
+      "Manned-only deployment scenario",
+      "Manned–unmanned mixed deployment scenario",
+      "Closed-form critical substitution ratio for unmanned share",
+      "Strategic symmetry evolution under cost, frequency, presence, and risk parameters"
+    ],
+    "main_formulas": [
+      {
+        "number": "2.1",
+        "name": "Cost per sortie",
+        "formula": "C_sortie = C_fixed + (C_var,eff + r_maint) × (T_transit + T_on) + E_risk"
+      },
+      {
+        "number": "2.2",
+        "name": "Cost per effective hour of presence",
+        "formula": "C_per,eff = C_sortie / H_eff"
+      },
+      {
+        "number": "2.3",
+        "name": "Relative sustainability burden",
+        "formula": "R_eff = C_per,eff^A / C_per,eff^B"
+      },
+      {
+        "number": "2.4",
+        "name": "Critical unmanned substitution ratio",
+        "formula": "u* = w_m × C_u,fixed / ((A + B) × (w_u − w_m) − w_m × (C_u,var × T_on − B))"
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Distance",
+      "code": "D",
+      "description": "Transit distance and associated time, fuel, maintenance, and responsiveness penalties."
+    },
+    {
+      "name": "Frequency",
+      "code": "f",
+      "description": "Sortie frequency and turnaround rhythm determining sustained effective presence."
+    },
+    {
+      "name": "Effective Presence",
+      "code": "H_eff",
+      "description": "Weighted on-station presence generated by manned and unmanned platforms."
+    },
+    {
+      "name": "Risk Expectation",
+      "code": "E_risk",
+      "description": "Expected cost of loss, incident escalation, reputational exposure, and operational risk."
+    },
+    {
+      "name": "Sustainability Threshold",
+      "code": "λ",
+      "description": "Policy-defined tolerance parameter reflecting fiscal, political, and institutional endurance limits."
+    },
+    {
+      "name": "Unmanned Substitution Share",
+      "code": "u",
+      "description": "Share of on-station time or presence assigned to unmanned systems under mixed deployment."
+    }
+  ],
+  "key_findings": [
+    "Gray-zone maritime rights-protection contests are better understood as endurance competitions centered on sustained presence rather than episodic tactical encounters.",
+    "Near-shore advantages arise from shorter transit time, lower sortie costs, faster turnaround, and high-frequency presence, but these advantages are structurally contingent rather than permanent.",
+    "Far-shore disadvantages can be offset through cost compression, prepositioned logistics, forward nodes, platform diversification, and manned–unmanned force integration.",
+    "Cost per effective hour of presence provides a unified metric for comparing manned-only and manned–unmanned mixed deployments under long-duration gray-zone conditions.",
+    "Risk expectation and policy-defined sustainability thresholds are essential for evaluating whether a presence strategy is fiscally, institutionally, and reputationally durable.",
+    "The Scarborough Shoal case illustrates a dynamic competition between near-shore low-cost high-frequency presence and far-shore higher-cost but higher-control posturing."
+  ],
+  "related_works": [],
+  "references": [
+    "Biddle, S. (2004). Military power: Explaining victory and defeat in modern battle. Princeton University Press.",
+    "Beckman, R. (2013). The UN Convention on the Law of the Sea and the maritime disputes in the South China Sea. American Journal of International Law, 107(1), 142–163. https://doi.org/10.5305/amerjintelaw.107.1.0142",
+    "Brands, H. (2016). Paradoxes of the gray zone. Foreign Policy Research Institute. https://www.fpri.org/article/2016/02/paradoxes-gray-zone/",
+    "Erickson, A. S., & Kennedy, C. (2016). China’s maritime militia. Naval War College Review, 69(2), 1–24.",
+    "Freier, N., Cunningham, K., & Goldgeier, J. (2018). Managing gray zone conflicts. International Security, 43(1), 156–190. https://doi.org/10.1162/isec_a_00316",
+    "Fravel, M. T. (2011). China’s strategy in the South China Sea. Contemporary Southeast Asia, 33(3), 292–319. https://doi.org/10.1355/cs33-3b",
+    "Hayton, B. (2014). The South China Sea: The struggle for power in Asia. Yale University Press.",
+    "Horowitz, M. C. (2010). The diffusion of military power: Causes and consequences for international politics. Princeton University Press.",
+    "Horowitz, M. C., Allen, G. C., Kania, E. B., & Scharre, P. (2018). Strategic competition in an era of artificial intelligence. Center for a New American Security. https://www.cnas.org/publications/reports/strategic-competition-in-an-era-of-artificial-intelligence",
+    "Mazarr, M. J. (2015). Mastering the gray zone: Understanding a changing era of conflict. RAND Corporation. https://www.rand.org/pubs/research_reports/RR1197.html",
+    "Mazarr, M. J., Priebe, M., Radin, A., & Sutter, S. (2019). Understanding and countering gray-zone aggression. RAND Corporation. https://www.rand.org/pubs/research_reports/RR1003.html",
+    "Permanent Court of Arbitration. (2016). The South China Sea Arbitration (The Republic of the Philippines v. The People’s Republic of China). https://pca-cpa.org/en/cases/7/",
+    "Posen, B. R. (2014). Restraint: A new foundation for U.S. grand strategy. Cornell University Press.",
+    "Scharre, P. (2018). Army of none: Autonomous weapons and the future of war. W. W. Norton.",
+    "Sullivan, P. L. (2012). War aims and war outcomes: Why powerful states lose limited wars. Journal of Conflict Resolution, 56(3), 496–524. https://doi.org/10.1177/0022002712445730",
+    "Watts, B. D. (2004). Six decades of guided munitions and battle networks. Center for Strategic and Budgetary Assessments."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18095271. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18095271. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Gray-Zone Maritime Rights-Protection Strategy.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-10-13"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Symmetry evolution under the CDF framework (conceptual illustration)",
+      "description": "Conceptual diagram illustrating the qualitative evolution of strategic symmetry over time as relative cost, frequency, effective presence, and risk parameters change under the CDF framework. The figure is schematic rather than empirically calibrated.",
+      "source": "Author’s analysis based on the CDF framework",
+      "note": "Conceptual illustration; not a quantitative simulation."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and updated with the earliest ORCID-derived metadata supplied by the user. The working paper provides analytical views based on public sources and does not prescribe policy choices; it examines strategic feasibility under cost–sustainability constraints.",
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
-  }
+    "last_updated": "2026-05-01",
+    "source_file": "Gray-Zone Maritime Rights-Protection Strategy.pdf",
+    "source_type": "PDF + earliest ORCID-derived metadata record",
+    "extraction_method": "PDF text and visual inspection, supplemented by the earliest metadata record supplied by the user",
+    "notes": "Latest PDF-derived metadata was updated with the earliest record's Zenodo DOI, ORCID put-code, repository URL, repository folder, and downloadable PDF URL. References and framework fields remain populated from the PDF."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "10.5281/zenodo.18095271",
+    "deposit_ready": false,
+    "notes": "The DOI is a Zenodo/DataCite DOI from the earliest ORCID-derived metadata record; no Crossref DOI is indicated.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18095271",
+    "crossref_doi_suffix": "epinova.wp.2025.001.gray.zone.maritime.cdf",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18095271",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo DOI recovered from the earliest ORCID-derived metadata record supplied by the user."
+  },
+  "put_code": "201033348",
+  "source": "ORCID Public API"
 }

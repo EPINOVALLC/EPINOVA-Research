@@ -1,29 +1,315 @@
 {
-  "title": "From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System",
+  "epinova_id": "EPINOVA-PB-2026-022",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-022",
+  "title": "From Representative of the West to Primary Node",
+  "subtitle": "The Transformation of the United States in the Future Western and Transatlantic Political System",
   "title_normalized": "from representative of the west to primary node: the transformation of the united states in the future western and transatlantic political system",
-  "date": "2026-04-03",
-  "doi": "10.5281/zenodo.19411097",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "210680127",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-03",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19411098",
+  "previous_doi": "10.5281/zenodo.19411097",
+  "landing_page": "https://doi.org/10.5281/zenodo.19411098",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19411098",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19411097",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "210680127",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–22",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Representative of the West to Primary Node",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the transformation of the United States from representative of the West into the primary network node of a partially aligned Western and transatlantic system. It argues that U.S. centrality is shifting from representational authority to network-based connectivity, coordination enablement, and platform-based structural influence under conditions of cost pressure, strategic divergence, and systemic complexity.",
+  "abstract": "This policy brief argues that the United States is not losing its centrality within the Western system, but is undergoing a functional transformation in how that centrality is exercised. In the postwar order, the United States operated as the institutional, security, and narrative representative of the West. That role is eroding under rising systemic costs, increasing divergence among allies, and growing complexity in networked conflict environments. The Western system is shifting toward a partially aligned network configuration in which coordination is situational, commitments are conditional, and strategic unity is increasingly difficult to sustain. Within this system, the United States remains the most capable and connected actor, but increasingly functions as a primary network node rather than the unified representative of Western interests. The brief further argues that under systemic stress the transatlantic system may evolve toward a dual-core configuration centered on the United States and Europe, with the principal systemic risk lying in declining coordination capacity and proximity to the Loss-of-Control Threshold (LoCT).",
+  "keywords": [
+    "United States",
+    "Western system",
+    "Transatlantic political system",
+    "Primary node",
+    "Networked order",
+    "Strategic centrality",
+    "Representational authority",
+    "Network-based influence",
+    "Alliance transformation",
+    "Conditional alignment",
+    "Dual-core Western system",
+    "United States-Europe relations",
+    "Strategic divergence",
+    "Cost imposition",
+    "Systemic complexity",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Coordination capacity",
+    "Signaling fragmentation",
+    "Platform-based structural influence",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International relations",
+    "Transatlantic relations",
+    "Alliance politics",
+    "U.S. foreign policy",
+    "Western political order",
+    "Networked governance",
+    "Security architecture",
+    "Geopolitical systems analysis",
+    "Escalation dynamics",
+    "Global order transformation",
+    "Political systems",
+    "Technology and infrastructure governance",
+    "International security"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-03",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-03",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-03",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-22/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 4
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-22",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-22",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-022",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Primary Node Transformation and Networked Western Order Framework",
+    "source_basis": "Policy-facing systemic analysis of the transformation of U.S. centrality in the Western and transatlantic system under cost pressure, strategic divergence, networked conflict dynamics, and Loss-of-Control Threshold risk.",
+    "case_context": "Future Western and transatlantic political system, U.S. strategic centrality, alliance transformation, and networked international order.",
+    "core_problem": "The United States remains central in the Western system, but the mechanism of centrality is shifting from representative authority within a cohesive alliance hierarchy to network-based influence within a partially aligned and increasingly differentiated system.",
+    "central_claims": [
+      "The United States is transitioning from representing the West to functioning as the primary network node within the Western and transatlantic system.",
+      "This transformation reflects structural evolution rather than simple U.S. decline.",
+      "The Western system is shifting from an alliance-based hierarchy toward a partially aligned network configuration.",
+      "Under systemic stress, the transatlantic system may evolve toward a dual-core configuration centered on the United States and Europe.",
+      "The principal systemic risk lies in declining coordination capacity, fragmented signaling, and increasing proximity to the Loss-of-Control Threshold."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Representative Authority to Network Centrality",
+        "description": "U.S. centrality is shifting from speaking for the Western system to linking, stabilizing, and enabling coordination across a distributed network."
+      },
+      {
+        "name": "Cost-Imposition Pressure",
+        "description": "Low-cost offensive capabilities and rising systemic burdens increase the marginal cost of leadership and transform order provision into a resource-intensive function."
+      },
+      {
+        "name": "Strategic Divergence among Allies",
+        "description": "Differences in threat perception, escalation tolerance, and strategic time horizons weaken the possibility of unified Western representation."
+      },
+      {
+        "name": "Partially Aligned Western Network",
+        "description": "The Western system is increasingly organized through selective, issue-specific, and situational alignment rather than comprehensive alliance cohesion."
+      },
+      {
+        "name": "Dual-Core Transatlantic Configuration",
+        "description": "Under stress, the United States and Europe may form partially overlapping cores defined by distinct military, technological, financial, regulatory, industrial, and regional-security roles."
+      },
+      {
+        "name": "Loss-of-Control Threshold Risk",
+        "description": "Declining coordination capacity, signaling fragmentation, and increasing actor interaction raise nonlinear escalation risk in a networked conflict system."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Representational Authority",
+      "code": "RA",
+      "description": "Assesses the degree to which U.S. action is interpreted as representing the collective Western system rather than only U.S. national preference."
+    },
+    {
+      "name": "Network Centrality",
+      "code": "NC",
+      "description": "Captures the United States' role as a highly connected node linking security, technological, financial, institutional, and operational systems."
+    },
+    {
+      "name": "Strategic Divergence",
+      "code": "SD",
+      "description": "Measures divergence in threat perception, escalation tolerance, time horizon, and policy priorities among Western and transatlantic actors."
+    },
+    {
+      "name": "Conditional Alignment",
+      "code": "CA",
+      "description": "Assesses the extent to which cooperation becomes selective, situational, modular, and constrained by issue area or crisis context."
+    },
+    {
+      "name": "Coordination Capacity",
+      "code": "CC",
+      "description": "Evaluates the system's ability to produce timely and coherent collective action under distributed decision-making and fragmented signaling conditions."
+    },
+    {
+      "name": "Loss-of-Control Threshold Proximity",
+      "code": "LoCT-P",
+      "description": "Assesses whether declining coordination, signaling fragmentation, and expanding actor interaction push the system toward nonlinear escalation dynamics."
+    }
+  ],
+  "key_findings": [
+    "The United States is transitioning from representing the West to serving as the primary network node of the Western and transatlantic system.",
+    "This transformation reflects a structural evolution of the international system rather than simple decline in U.S. power.",
+    "The Western system is shifting from an alliance-based hierarchy to a partially aligned network configuration.",
+    "Strategic divergence is widening under conditions of cost pressure and asymmetric threat perception.",
+    "Under systemic stress, the system may evolve toward a dual-core configuration centered on the United States and Europe.",
+    "The future Western system is likely to be formally unified but operationally divided, with conditional alignment replacing unified strategy.",
+    "The principal systemic risk lies not in bloc fragmentation but in declining coordination capacity and increasing proximity to the Loss-of-Control Threshold.",
+    "U.S. centrality is increasingly exercised through connectivity, platform-based structural influence, and system-stabilizing linkage rather than representational authority."
+  ],
+  "policy_recommendations": [
+    "Treat U.S. strategic centrality as a network-positioning problem rather than a question of symbolic leadership or simple decline.",
+    "Strengthen transatlantic coordination mechanisms that preserve signaling coherence under conditions of partial alignment and strategic divergence.",
+    "Develop policy tools for managing conditional alignment across security, technology, trade, regulatory, and financial domains.",
+    "Monitor dual-core differentiation between the United States and Europe as a structural feature of the future Western system rather than as an exceptional crisis pattern.",
+    "Prioritize resilience and coordination capacity as core indicators of Western system stability under networked conflict conditions.",
+    "Use LoCT-oriented analysis to identify when fragmented decisions and contradictory signals may create nonlinear escalation risks."
+  ],
+  "related_works": [
+    {
+      "title": "If the United States Suddenly Withdraws: Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict",
+      "identifier": "10.5281/zenodo.19375572",
+      "relation": "Preceding EPINOVA policy brief examining U.S. withdrawal, systemic shock, proxy amplification, and strategic realignment dynamics.",
+      "type": "DOI"
+    },
+    {
+      "title": "Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints",
+      "identifier": "10.5281/zenodo.19298297",
+      "relation": "Related EPINOVA policy brief on U.S. rebalancing, allocation pressure, and dual-theater constraints.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System, Policy Brief No. EPINOVA–2026–PB–22, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19411098. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From representative of the West to primary node: The transformation of the United States in the future Western and transatlantic political system (Policy Brief No. EPINOVA–2026–PB–22). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19411098. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Representative of the West to Primary Node, EPINOVA–2026–PB–22.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-03",
+    "pagination": "4 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, analytical sections, LoCT proposition, final statement, recommended citation, DOI, series information, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19411097, ORCID put-code 210680127, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19411098 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' according to the PDF series and policy brief number."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19411098",
+    "crossref_doi_suffix": "epinova.pb.2026.022",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19411098",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "210680127",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-30"
   }
 }

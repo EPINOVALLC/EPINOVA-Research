@@ -1,29 +1,326 @@
 {
-  "title": "From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict",
+  "epinova_id": "EPINOVA-PB-2026-019",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-019",
+  "title": "From Compensation to Strategic Amplification",
+  "subtitle": "Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict",
   "title_normalized": "from compensation to strategic amplification: iran's reparations claims in the u.s.-israel-iran conflict",
-  "date": "2026-03-27",
-  "doi": "10.5281/zenodo.19261831",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "209942602",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-27",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19261832",
+  "previous_doi": "10.5281/zenodo.19261831",
+  "landing_page": "https://doi.org/10.5281/zenodo.19261832",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19261832",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19261831",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "209942602",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–19",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Compensation to Strategic Amplification",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes Iran’s potential reparations claims in the U.S.–Israel–Iran conflict as instruments of strategic amplification rather than conventional compensation. It argues that reparations claims convert material costs into diplomatic, informational, and negotiation leverage by reallocating perceived responsibility across the conflict system.",
+  "abstract": "Iran’s potential demand for war reparations should not be interpreted as a conventional financial claim, but as a forward-looking instrument of cost reassignment rather than a backward-looking mechanism of compensation. Reparations claims serve to reframe responsibility for the conflict, redistribute perceived costs across actors, and lock in favorable post-conflict narratives. This brief finds that reparations operate not as mechanisms of compensation, but as tools for converting material costs into strategic leverage across diplomatic and informational domains, shaping both negotiation dynamics and post-conflict outcomes.",
+  "keywords": [
+    "Iran reparations claims",
+    "U.S.–Israel–Iran conflict",
+    "Strategic amplification",
+    "Conflict cost reassignment",
+    "Political Cost Reassignment Ratio",
+    "PCRR",
+    "Middle East Conflict Cost Monitor",
+    "MCCM",
+    "Cost attribution",
+    "Narrative leverage",
+    "Negotiation architecture",
+    "Conflict termination",
+    "Systemic warfare",
+    "Legitimacy redistribution",
+    "Narrative amplification",
+    "Policy brief",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Security studies",
+    "Conflict economics",
+    "Middle East conflict",
+    "Strategic communication",
+    "Information conflict",
+    "Reparations",
+    "Negotiation theory",
+    "Political risk",
+    "Systemic warfare",
+    "Cost redistribution",
+    "Policy analysis",
+    "Strategic studies",
+    "AI-enabled warfare and governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-27",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-27",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-27",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early ORCID-derived metadata record created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-19/From%20Compensation%20to%20Strategic%20Amplification%20Iran%E2%80%99s%20Reparations%20Claims%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-19",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-19",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-019",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, systemic conflict dynamics, and information conflict into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Strategic Reparations and Political Cost Reassignment Framework",
+    "source_basis": "Policy-facing scenario analysis integrating reparations claim logic with MCCM cumulative exposure estimates and the Political Cost Reassignment Ratio (PCRR).",
+    "case_context": "Iran’s potential reparations claims in the U.S.–Israel–Iran conflict and their role in negotiation, narrative attribution, and post-conflict political positioning.",
+    "core_problem": "Conventional financial interpretations of reparations claims miss their strategic role in converting material conflict costs into narrative leverage, legitimacy pressure, and bargaining architecture.",
+    "central_claims": [
+      "Reparations function as instruments of active conflict strategy rather than merely post-conflict settlement mechanisms.",
+      "Strategic impact is non-linear because even unrealized claims can generate disproportionate political and informational effects.",
+      "Iran’s objective is cost reallocation rather than full financial recovery.",
+      "Claim structures reflect a deliberate negotiation architecture shaping bargaining outcomes.",
+      "PCRR links monetary claims to systemic impact by situating reparations within the broader cost structure of the conflict."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Material Value",
+        "description": "Assesses the financial magnitude of reparations claims and their relation to direct damage, broader systemic burden, and expanded repricing scenarios."
+      },
+      {
+        "name": "Narrative Leverage",
+        "description": "Evaluates how claims reframe legitimacy, responsibility, and international perception regardless of actual payment realization."
+      },
+      {
+        "name": "Negotiation Function",
+        "description": "Interprets conservative, structural, and offensive claim tiers as components of a bargaining architecture."
+      },
+      {
+        "name": "Political Cost Reassignment Ratio",
+        "description": "Uses PCRR to estimate the relative scale of political cost reassignment by comparing reparations claims with total systemic burden."
+      },
+      {
+        "name": "Threshold and Regime Shift Analysis",
+        "description": "Maps how increasing claim size and PCRR can shift claims from symbolic positioning to active cost redistribution or narrative restructuring."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Material Value",
+      "code": "MV",
+      "description": "Financial magnitude of a reparations claim, including direct damage accounting, systemic cost attribution, and expanded repricing logic."
+    },
+    {
+      "name": "Narrative Leverage",
+      "code": "NL",
+      "description": "The capacity of a claim to influence legitimacy, responsibility attribution, and international perception."
+    },
+    {
+      "name": "Negotiation Function",
+      "code": "NF",
+      "description": "The role of a claim tier in setting fallback positions, primary bargaining zones, or negotiation ceilings."
+    },
+    {
+      "name": "Political Cost Reassignment Ratio",
+      "code": "PCRR",
+      "description": "Ratio of reparations claims to total systemic burden, used as a directional measure of political cost reassignment intensity."
+    },
+    {
+      "name": "Systemic Burden",
+      "code": "TSB",
+      "description": "Cumulative military expenditures, infrastructure damage, and broader economic spillovers consistent with the MCCM cumulative exposure framing."
+    }
+  ],
+  "key_findings": [
+    "Reparations claims should be read as forward-looking cost reassignment instruments rather than backward-looking compensation mechanisms.",
+    "The symbolic and political effects of reparations may outweigh any actual financial transfer.",
+    "The conservative tier establishes legal and moral legitimacy, the structural tier functions as the primary target zone for cost redistribution, and the offensive tier sets an upper anchor for narrative dominance.",
+    "PCRR reframes the analysis from financial feasibility to strategic effect by measuring the relationship between claim size and total systemic burden.",
+    "Lower PCRR ratios reinforce positioning, mid-range ratios indicate active cost redistribution, and higher ratios signal narrative restructuring of responsibility.",
+    "Reparations claims can shape conflict dynamics through narrative amplification, legitimacy redistribution, and constraint formation even without formal agreements.",
+    "For the United States, the primary risk lies in narrative concession rather than direct financial exposure.",
+    "For Israel, elevated reparations claims may generate cumulative legitimacy pressure under sustained multi-front operational conditions."
+  ],
+  "policy_recommendations": [
+    "Analyze reparations claims as strategic instruments of cost attribution and negotiation architecture rather than as purely legal or financial claims.",
+    "For Iran, calibrate high-anchor strategies against the risk of negotiation deadlock and the credibility requirements of sustained attribution pressure.",
+    "For the United States, balance de-escalation engagement with narrative containment to avoid implicit legitimization of broader responsibility claims.",
+    "For Israel, monitor cumulative legitimacy pressure arising from reparations narratives under sustained conflict conditions.",
+    "Use PCRR as a directional analytical instrument for comparing claim ranges with evolving systemic burden, not as a precise settlement metric."
+  ],
+  "related_works": [
+    {
+      "title": "Middle East Conflict Cost Monitor (MCCM) framework publications in the EPINOVA Policy Brief Series",
+      "identifier": "",
+      "relation": "Provides the cumulative exposure and systemic burden context referenced by this brief.",
+      "type": "Related publication series"
+    },
+    {
+      "title": "Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System",
+      "identifier": "10.5281/zenodo.19238746",
+      "relation": "Preceding policy brief in the series examining information-system divergence and amplification dynamics.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Compensation to Strategic Amplification: Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–19, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19261832. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From compensation to strategic amplification: Iran’s reparations claims in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–19). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19261832. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Compensation to Strategic Amplification, EPINOVA–2026–PB–19.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-27",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Reparations Scenarios by Claim Size and PCRR",
+      "page": 4,
+      "description": "Maps conservative, structural, and offensive reparations scenarios across estimated claim size and Political Cost Reassignment Ratio thresholds, showing strategic regime shifts from legal legitimacy to cost redistribution and narrative dominance.",
+      "note": "The figure assumes a total systemic burden range of $600B–$1.5T and indicates that structural-tier claims of $200B–$800B imply an approximate PCRR of 0.13–1.33."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Iran Reparations Scenarios: Range, Valuation Logic, and Strategic Function",
+      "page": 3,
+      "description": "Defines conservative, structural, and offensive reparations scenarios with estimated ranges, burden share, valuation approach, strategic function, and negotiation role."
+    },
+    {
+      "number": "Table 2",
+      "title": "PCRR Interpretation and Analytical Role",
+      "page": 4,
+      "description": "Classifies PCRR ranges below 0.2, 0.2–0.6, and above 0.6 as symbolic positioning, active cost redistribution, and narrative restructuring of responsibility."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Compensation to Strategic Amplification Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, embedded table/figure review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, analytical framework, scenario table, PCRR formula and interpretation table, Figure 1, policy implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19261831, ORCID put-code 209942602, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19261832 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19261832",
+    "crossref_doi_suffix": "epinova.pb.2026.019",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19261832",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "209942602",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-25"
   }
 }

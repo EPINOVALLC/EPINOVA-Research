@@ -1,29 +1,318 @@
 {
-  "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+  "epinova_id": "EPINOVA-PB-2026-011",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-011",
+  "title": "The First Week of the U.S.–Israel–Iran War",
+  "subtitle": "Battlefield Assessment and Next-Phase Risks",
   "title_normalized": "the first week of the u.s.-israel-iran war: battlefield assessment and next-phase risks",
-  "date": "2026-03-06",
-  "doi": "10.5281/zenodo.18896559",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "207667677",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18896560",
+  "previous_doi": "10.5281/zenodo.18896559",
+  "landing_page": "https://doi.org/10.5281/zenodo.18896560",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18896560",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18896559",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "207667677",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–11",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "The First Week of the U.S.–Israel–Iran War.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "The First Week of the U.S.–Israel–Iran War",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses the first week of the U.S.–Israel–Iran war, arguing that the conflict has moved beyond limited reprisal into an unstable intermediate escalation band. It evaluates battlefield dynamics, missile-defense fatigue, maritime and economic spillover, joint-campaign integration, and threshold-crossing risks that may shape the next phase of the conflict.",
+  "abstract": "The first week of the U.S.–Israel–Iran war has moved the conflict beyond limited reprisal while remaining below the threshold of full-scale regional war. The brief argues that the war is operating in an unstable Level 4–6 escalation band, characterized by persistent missile-UAV exchange, widening maritime and economic spillover, and growing allied operational integration. It finds that no principal actor has achieved decisive military collapse or war-terminating advantage, but that the conflict is becoming more costly, more politically tense, and more vulnerable to threshold-crossing events. The next phase is likely to be determined less by average strike performance than by whether missile-defense fatigue, maritime and energy-channel pressure, and deeper U.S. joint-campaign integration deteriorate simultaneously.",
+  "keywords": [
+    "U.S.–Israel–Iran war",
+    "Iran conflict",
+    "Middle East conflict",
+    "Battlefield assessment",
+    "Escalation risk",
+    "Escalation ladder",
+    "Level 4–6 escalation band",
+    "Missile-UAV exchange",
+    "Missile-defense fatigue",
+    "Threshold-crossing event",
+    "Critical node vulnerability",
+    "Maritime spillover",
+    "Energy volatility",
+    "War-risk insurance",
+    "Airspace disruption",
+    "Joint-campaign integration",
+    "Alliance coordination",
+    "Systemic spillover",
+    "Strategic stability",
+    "MCCM",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Middle East security",
+    "Military strategy",
+    "Escalation management",
+    "Strategic studies",
+    "Conflict monitoring",
+    "Missile defense",
+    "Maritime security",
+    "Energy security",
+    "Alliance politics",
+    "Crisis stability",
+    "Systemic risk",
+    "Operational assessment",
+    "Defense policy",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-06",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "The First Week of the U.S.–Israel–Iran War.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-11/The%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-11",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-11",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-011",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "First-Week Battlefield and Escalation-Risk Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on open-source battlefield indicators, escalation-ladder reasoning, and Middle East Conflict Cost Monitor (MCCM)-style systemic cost and spillover assessment.",
+    "case_context": "First seven days of the U.S.–Israel–Iran war, including missile-UAV exchanges, defensive consumption, maritime and energy spillover, and allied operational integration.",
+    "core_problem": "The conflict has not produced decisive military collapse, but it has moved beyond limited punitive exchange into a sustained and unstable escalation band where time, spillover, and threshold-crossing events may determine the next phase.",
+    "central_claims": [
+      "The first week of the war has generated sustained escalation momentum without producing decisive military resolution.",
+      "The conflict occupies an unstable middle zone between limited punishment and wider regional war, broadly consistent with a Level 4–6 escalation band.",
+      "Threshold-crossing events are more important for next-phase risk than average strike performance or daily strike counts.",
+      "Time functions as a destabilizing variable in prolonged missile-intensive conflict by increasing inventory pressure, political fatigue, and breakthrough probability.",
+      "Systemic spillovers through energy markets, shipping disruption, war-risk insurance, and airspace constraints should be treated as escalation-warning indicators rather than secondary economic effects."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Escalation Band Assessment",
+        "description": "Positions the first-week conflict dynamics in a Level 4–6 band: above limited punitive exchange, below full-scale regional war, and increasingly shaped by structured multi-domain confrontation."
+      },
+      {
+        "name": "Threshold-Crossing Event Logic",
+        "description": "Focuses on low-probability, high-impact events such as critical-node hits, mass-casualty incidents, sustained interception decline, or expansion of war aims."
+      },
+      {
+        "name": "Missile-Defense Fatigue and Inventory Pressure",
+        "description": "Assesses whether sustained launch tempo and defensive expenditure erode the margin of safety over multiple strike cycles."
+      },
+      {
+        "name": "Systemic Spillover Monitoring",
+        "description": "Treats energy volatility, maritime disruption, insurance stress, and airspace constraints as part of the conflict's strategic impact."
+      },
+      {
+        "name": "Joint-Campaign Integration Risk",
+        "description": "Evaluates whether deeper U.S. and allied operational integration increases the rigidity and cost of escalation control."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Escalation Momentum",
+      "code": "EM",
+      "description": "Assesses whether the conflict is moving from episodic retaliation toward sustained, structured, multi-domain confrontation."
+    },
+    {
+      "name": "Missile-Defense Fatigue",
+      "code": "MDF",
+      "description": "Tracks whether interception performance, defensive inventories, and operational tempo show signs of cumulative strain."
+    },
+    {
+      "name": "Threshold-Crossing Event Exposure",
+      "code": "TCEE",
+      "description": "Evaluates the probability and consequence of critical-node strikes, mass-casualty events, strategic asset losses, or explicit expansion of war aims."
+    },
+    {
+      "name": "Maritime and Energy-Channel Pressure",
+      "code": "MECP",
+      "description": "Captures shipping disruption, war-risk insurance, energy volatility, airspace constraints, and other systemic spillovers."
+    },
+    {
+      "name": "Joint-Campaign Integration",
+      "code": "JCI",
+      "description": "Assesses the degree to which U.S., Israeli, and allied operations shift from reinforced posture toward deeper operational coordination and broader objectives."
+    }
+  ],
+  "key_findings": [
+    "The first week did not produce decisive military resolution, systemic military collapse, or a war-terminating advantage for any principal actor.",
+    "The conflict has moved beyond limited reprisal and is best understood as an unstable intermediate condition below full-scale regional war but above limited punitive exchange.",
+    "The war is operating in a Level 4–6 escalation band characterized by persistent missile-UAV exchange, widening maritime and economic spillover, and growing allied operational integration.",
+    "The decisive next-phase variable is likely to be a threshold-crossing event rather than average strike effectiveness or daily strike counts.",
+    "Defense remains effective, but sustained launch tempo and defensive expenditure may erode the margin of safety over time.",
+    "The conflict's costs extend beyond direct military operations through energy markets, shipping disruption, war-risk pricing, and airspace constraints.",
+    "The United States retains escalation capacity, but each additional layer of posture and operational integration increases fiscal exposure and political burden.",
+    "Iran can derive strategic benefit from sustained high-tempo conflict by imposing uncertainty, stretching defensive inventories, and increasing cumulative breakthrough probability.",
+    "If missile-defense fatigue, maritime and energy-channel pressure, and deeper U.S. operational integration deteriorate together, the conflict may shift toward a more unstable escalation environment."
+  ],
+  "policy_recommendations": [
+    "Do not treat temporary containment as evidence of strategic stability.",
+    "Prioritize protection of critical military and civilian nodes most likely to produce threshold effects.",
+    "Treat time as a strategic variable rather than a neutral backdrop in prolonged missile-intensive conflict.",
+    "Monitor systemic spillover in energy, shipping, insurance, and airspace as part of escalation warning.",
+    "Watch for war-aim expansion as a leading indicator of movement toward a higher escalation band.",
+    "Scrutinize simultaneous deterioration across missile-defense fatigue, maritime and energy-channel pressure, and U.S. joint-campaign integration."
+  ],
+  "related_works": [
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief providing the escalation-ladder framework referenced by the Level 4–6 assessment",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
+      "identifier": "10.5281/zenodo.18843800",
+      "relation": "Related EPINOVA policy brief on low-probability, high-impact escalation risks in missile exchanges",
+      "type": "DOI"
+    },
+    {
+      "title": "The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific",
+      "identifier": "10.5281/zenodo.18894858",
+      "relation": "Related EPINOVA policy brief on cross-regional strategic effects of the same conflict",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks, Policy Brief No. EPINOVA–2026–PB–11, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18896560. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). The first week of the U.S.–Israel–Iran war: Battlefield assessment and next-phase risks (Policy Brief No. EPINOVA–2026–PB–11). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18896560. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), The First Week of the U.S.–Israel–Iran War, EPINOVA–2026–PB–11.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-06",
+    "pagination": "5 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "The First Week of the U.S.–Israel–Iran War.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, executive summary, key judgments, first-week battlefield assessment, next-phase outlook, indicators to watch, policy implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18896559, ORCID put-code 207667677, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18896560 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18896560",
+    "crossref_doi_suffix": "epinova.pb.2026.011",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18896560",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207667677",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-06"
   }
 }

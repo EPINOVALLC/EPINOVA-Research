@@ -1,13 +1,96 @@
 {
-  "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal",
-  "title_normalized": "when ai infrastructure is optional but governance lock-in is not: an ai-sni local governance diagnostic of the temple (ga) data center proposal",
-  "date": "2026-02-02",
-  "doi": "10.5281/zenodo.18463739",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-D-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "204490745",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper D-Series",
+  "series_code": "WP-D",
+  "series_number": "EPINOVA–WP–D–2026–01",
+  "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not",
+  "subtitle": "An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal",
+  "title_normalized": "when ai infrastructure is optional but governance lock-in is not: an ai-sni local governance diagnostic of the temple (ga) data center proposal",
+  "publication_date": "2026-02-02",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18463740",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18463740",
+  "official_page": "https://doi.org/10.5281/zenodo.18463740",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.18463740",
+      "scheme": "DOI",
+      "description": "Zenodo DOI landing page"
+    },
+    {
+      "identifier": "EPINOVA–WP–D–2026–01",
+      "scheme": "Local identifier",
+      "description": "EPINOVA Working Paper D-Series publication number"
+    }
+  ],
+  "description": "This working paper applies the AI-Strategic Node Index (AI-SNI) as a local governance diagnostic to the proposed Project Bus data center campus in Temple, Georgia. It distinguishes commercially viable AI-enabling infrastructure from structurally necessary AI system nodes and argues that the proposal shows limited evidence of non-substitutability while generating governance friction and path-dependency risk.",
+  "abstract": "As artificial intelligence (AI) infrastructure rapidly expands at sub-national levels, local governments are increasingly asked to approve large-scale data centers under claims of strategic necessity, digital competitiveness, or AI leadership. However, existing evaluation frameworks rarely distinguish between commercially viable infrastructure and structurally necessary AI system nodes. This article applies the AI-Strategic Node Index (AI-SNI), a governance-oriented diagnostic framework originally developed for macro-strategic analysis, to a local infrastructure controversy: the proposed data center campus (\"Project Bus\") in Temple, Georgia. The analysis demonstrates that while the proposed facility may hold commercial or optional future value, it does not constitute a demonstrably structurally necessary AI node under current evidentiary conditions. Instead, the project exhibits high governance friction and long-term path-dependency risks disproportionate to its demonstrated system indispensability.",
+  "keywords": [
+    "AI governance",
+    "data centers",
+    "infrastructure lock-in",
+    "local governance",
+    "AI-SNI",
+    "AI-Strategic Node Index",
+    "AI-Strategic Node Framework",
+    "structural necessity",
+    "Temple Georgia",
+    "Project Bus",
+    "sub-national AI infrastructure",
+    "governance friction",
+    "path dependency",
+    "non-substitutability",
+    "data center governance",
+    "infrastructure approval",
+    "public policy",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence governance",
+    "Infrastructure governance",
+    "Local government",
+    "Data center policy",
+    "Public policy",
+    "Urban and regional planning",
+    "Technology governance",
+    "Risk assessment",
+    "Institutional design",
+    "AI infrastructure"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-02",
+      "type": "Issued",
+      "description": "First public release of EPINOVA Working Paper D-Series No. 2026-01."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "files": [
     {
       "label": "Download PDF",
@@ -17,13 +100,176 @@
       "description": "Full-text PDF of the publication"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301",
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "series_information": {
+    "series": "EPINOVA Working Paper D-Series",
+    "series_code": "WP-D",
+    "series_description": "WP-D examines governance mechanisms and institutional design in AI-mediated systems, focusing on how infrastructure, authority, and decision processes generate lock-in, coordination burden, and failure risk and how such risks can be structurally contained.",
+    "paper_number": "EPINOVA–WP–D–2026–01"
+  },
+  "methodology": {
+    "framework": "AI-Strategic Node Index (AI-SNI)",
+    "application_level": "Sub-national / local infrastructure governance diagnostic",
+    "case": "Temple, Georgia data center proposal (Project Bus)",
+    "scoring_assumptions": [
+      "Equal weighting across five AI-SNI dimensions (α1–α5 = 0.2)",
+      "Normalized diagnostic scores bounded within [0,1]",
+      "Evidence-bounded scoring with explicit uncertainty recognition",
+      "Reference composite score only; no alternative aggregation formulations"
+    ],
+    "composite_formula": "AI-SNI = Σ(d=1 to 5) α_d × D_d",
+    "composite_score": 0.38,
+    "tier_assignment": "Tier 4 (Low–Moderate Exposure Regime)",
+    "confidence_status": "Bounded / Non-escalatable",
+    "core_diagnostic_conclusion": "The proposed Temple data center does not satisfy AI-SNI criteria for structural necessity or non-substitutability within AI-mediated systems. Its primary risk lies in governance friction and premature infrastructural lock-in rather than in demonstrated system indispensability."
+  },
+  "dimensions": [
+    {
+      "code": "D1",
+      "name": "Sensing and Monitoring Centrality",
+      "score": 0.12,
+      "assessment": "Low",
+      "interpretation": "No exclusive geographic, environmental, or system-level sensing function is associated with the proposed site; the AI system does not acquire uniquely situated perceptual or monitoring inputs from the Temple node."
+    },
+    {
+      "code": "D2",
+      "name": "Predictive and Modeling Dependency",
+      "score": 0.43,
+      "assessment": "Indeterminate → Effectively Low",
+      "interpretation": "No demonstrated binding exists between the proposed facility and specific predictive models or domain-critical forecasting systems; compute location remains functionally fungible under current evidence."
+    },
+    {
+      "code": "D3",
+      "name": "Decision Pipeline Criticality",
+      "score": 0.47,
+      "assessment": "Low–Moderate",
+      "interpretation": "The facility may function as a general-purpose compute supply node but does not operate as a non-bypassable execution, authorization, or decision-trigger junction."
+    },
+    {
+      "code": "D4",
+      "name": "Governance and Control Alignment",
+      "score": 0.35,
+      "assessment": "Weak alignment / High friction",
+      "interpretation": "Rezoning, annexation, multi-jurisdictional governance interfaces, community opposition, and emerging state-level scrutiny create disproportionate governance complexity relative to demonstrated structural necessity."
+    },
+    {
+      "code": "D5",
+      "name": "Future Coupling and Path Dependency",
+      "score": 0.53,
+      "assessment": "High optionality × High uncertainty",
+      "interpretation": "The project creates future options but also introduces elevated risk of premature infrastructural lock-in where platform binding, regulatory durability, and exit costs remain insufficiently specified."
+    }
+  ],
+  "key_findings": [
+    "The proposed Temple data center does not constitute a structurally necessary AI node.",
+    "Across D1–D3, the project does not demonstrate non-substitutable roles in AI-mediated sensing, prediction, or decision pipelines.",
+    "Governance friction, rather than technical insufficiency or capacity shortage, is the primary structural risk associated with the proposed facility.",
+    "Future coupling potential does not convert into justified structural necessity without demonstrated platform binding, regulatory durability, or credible exit pathways.",
+    "Local authorities should require explicit demonstrations of structural necessity before approving large-scale, difficult-to-reverse AI infrastructure projects."
+  ],
+  "related_works": [
+    {
+      "relation": "References",
+      "identifier": "10.5281/zenodo.18452803",
+      "scheme": "DOI",
+      "resource_type": "White Book",
+      "description": "AI-Strategic Node Framework (AI-SNF) conceptual and methodological white book used as the methodological basis for AI-SNI"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://apps.dca.ga.gov/DRI/",
+      "scheme": "URL",
+      "resource_type": "Government record",
+      "description": "Georgia Department of Community Affairs Development of Regional Impact application summary for Project Bus (DRI #4606)"
+    },
+    {
+      "relation": "References",
+      "identifier": "10.6028/NIST.AI.100-1",
+      "scheme": "DOI",
+      "resource_type": "Technical report",
+      "description": "NIST AI Risk Management Framework used as a governance and risk-management reference"
+    }
+  ],
+  "references": [
+    "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological white book (Version 0.1; EPINOVA-IWB-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803",
+    "Georgia Department of Community Affairs. (2026). Development of regional impact (DRI) application summary: Project Bus (DRI #4606). State of Georgia. https://apps.dca.ga.gov/DRI/",
+    "Organisation for Economic Co-operation and Development. (2019). Artificial intelligence in society. OECD Publishing. https://doi.org/10.1787/eedfee77-en",
+    "National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1",
+    "UNESCO. (2021). Recommendation on the ethics of artificial intelligence. United Nations Educational, Scientific and Cultural Organization. https://unesdoc.unesco.org/ark:/48223/pf0000381137"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal (EPINOVA Working Paper No. EPINOVA–WP–D–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18463740. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). When AI infrastructure is optional but governance lock-in is not: An AI-SNI local governance diagnostic of the Temple (GA) data center proposal (EPINOVA Working Paper No. EPINOVA–WP–D–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18463740. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), When AI Infrastructure Is Optional but Governance Lock-In Is Not, EPINOVA Working Paper D–2026–01.",
+  "imprint": {
+    "title": "EPINOVA Working Paper D-Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "8 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "AI-SNI Dimension-Level Scores for the Temple (GA) Data Center Proposal",
+      "description": "Reports dimension-level diagnostic scores for D1 through D5: D1 = 0.12, D2 = 0.43, D3 = 0.47, D4 = 0.35, and D5 = 0.53, producing a composite AI-SNI score of approximately 0.38.",
+      "source": "Author’s AI-SNI assessment based on publicly available information and evidence-bounded scoring"
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
+  "disclaimer": "This working paper reflects the author’s analytical views based on publicly available information. It does not represent the official position of any government, organization, or institution.",
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
-  }
+    "created_date": "2026-04-30",
+    "last_updated": "2026-05-01",
+    "source_pdf": "When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf",
+    "notes": "Metadata updated from the PDF text, including title page, abstract, A-Series/WP-D sidebar information, Table 1, methodology, findings, policy implications, and references."
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18463740",
+    "crossref_doi_suffix": "epinova.wp.d.2026.001",
+    "registration_status": "Pending / to be synchronized with EPINOVA publication landing page if Crossref registration is used"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "doi": "10.5281/zenodo.18463740",
+    "notes": "Zenodo DOI identified in the PDF; datasets, code, figures, or supplementary materials may receive separate DataCite DOIs if needed."
+  },
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research"
 }

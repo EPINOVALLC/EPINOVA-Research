@@ -5,7 +5,10 @@
   "publication_type": "Policy Brief",
   "category": "policy-briefs",
   "publication_series": "EPINOVA Policy Brief Series",
-  "title": "Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict",
+  "series_code": "PB",
+  "series_number": "2026-041",
+  "title": "Energy Endurance Under Systemic Shock",
+  "subtitle": "Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict",
   "title_normalized": "energy endurance under systemic shock: divergent survival pathways in east asia during the u.s.–israel–iran conflict",
   "publication_date": "2026-04-25",
   "version": "v1.0",
@@ -32,29 +35,68 @@
   "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://epinova.org/policy-brief-1",
-      "scheme": "URL",
-      "description": "Official EPINOVA publication page"
+      "identifier": "EPINOVA–2026–PB–41",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "EPINOVA-PB-2026-041",
+      "scheme": "EPINOVA publication ID",
+      "description": "Repository and metadata identifier"
     },
     {
       "identifier": "10.5281/zenodo.19770272",
       "scheme": "DOI",
-      "description": "Previous Zenodo DOI reserved or assigned before Crossref migration"
+      "description": "Previous Zenodo DOI reserved or assigned before Crossref migration; retained for reconciliation"
+    },
+    {
+      "identifier": "https://publications.epinova.org/epinova-pb-2026-041/",
+      "scheme": "URL",
+      "description": "Publication landing page intended for Crossref DOI resolution"
+    },
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA policy brief page"
+    },
+    {
+      "identifier": "Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Energy Endurance Under Systemic Shock",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
     }
   ],
-  "description": "This policy brief examines energy endurance under systemic shock and compares divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. It focuses on the structural exposure, energy import dependence, reserve-release behavior, and resilience differences among Japan, South Korea, and Taiwan under conditions of geopolitical disruption and regional energy pressure.",
-  "abstract": "This policy brief examines how systemic shock in the U.S.–Israel–Iran conflict affects energy endurance in East Asia. Using Japan, South Korea, and Taiwan as comparative cases, the brief analyzes oil and natural gas dependence, reserve-release behavior, supply vulnerability, and differentiated resilience pathways. It argues that energy endurance is not determined solely by import volume, but by the interaction among strategic reserves, diversification capacity, institutional response speed, and exposure to systemic maritime and geopolitical risk.",
+  "description": "This policy brief examines energy endurance under systemic shock and compares divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. It introduces the Energy Endurance & Survival Index (EESI) and links it to High-Pressure Systemic Equilibrium (HPSE) and the Loss-of-Control Threshold (LoCT) to explain how Japan, South Korea, and Taiwan absorb, transmit, and approach systemic instability under sustained energy pressure.",
+  "abstract": "The U.S.–Israel–Iran conflict is transforming energy security from a problem of supply disruption into one of systemic endurance. Energy flows have not collapsed; instead, rising costs, buffer depletion, and structural dependency are progressively compressing resilience across import-dependent economies. This policy brief introduces the Energy Endurance & Survival Index (EESI) and situates it within a broader framework linking High-Pressure Systemic Equilibrium (HPSE) and the Loss-of-Control Threshold (LoCT). Using Japan, South Korea, and Taiwan as comparative cases, it argues that energy vulnerability is not determined by import dependence alone, but by how dependence interacts with buffering capacity, demand rigidity, reserve accessibility, cost pressure, and system structure. The analysis identifies three divergent pathways toward instability: slow compression in Japan, accelerated compression in South Korea, and rapid trigger exposure in Taiwan.",
   "keywords": [
     "energy security",
     "energy endurance",
+    "Energy Endurance & Survival Index",
+    "EESI",
+    "High-Pressure Systemic Equilibrium",
+    "HPSE",
+    "Loss-of-Control Threshold",
+    "LoCT",
     "systemic shock",
+    "systemic risk",
     "East Asia",
     "Japan",
     "South Korea",
     "Taiwan",
+    "LNG",
     "oil reserves",
-    "natural gas",
+    "strategic petroleum reserves",
+    "energy import dependence",
+    "buffer depletion",
+    "demand rigidity",
+    "cost pressure",
     "U.S.–Israel–Iran conflict",
+    "maritime risk",
+    "geopolitical disruption",
     "strategic resilience",
     "public policy",
     "EPINOVA"
@@ -63,20 +105,41 @@
     "Energy security",
     "International relations",
     "Public policy",
+    "Strategic studies",
     "Systemic risk",
-    "Strategic resilience"
+    "Strategic resilience",
+    "East Asian security",
+    "Energy policy",
+    "Geopolitical risk",
+    "Networked conflict",
+    "Systems analysis",
+    "Crisis management",
+    "Maritime security",
+    "Critical infrastructure",
+    "Policy diagnostics"
   ],
   "dates": [
     {
       "date": "2026-04-25",
-      "type": "Issued",
-      "description": "First public release on EPINOVA."
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
     }
   ],
   "license": {
-    "id": "cc-by-4.0",
-    "title": "Creative Commons Attribution 4.0 International",
-    "url": "https://creativecommons.org/licenses/by/4.0/"
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
   },
   "files": [
     {
@@ -84,109 +147,412 @@
       "filename": "Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41/Energy%20Endurance%20Under%20Systemic%20Shock%20Divergent%20Survival%20Pathways%20in%20East%20Asia%20During%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
   "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41",
-  "source_repository": {
-    "platform": "GitHub",
-    "organization": "EPINOVALLC",
-    "repository": "EPINOVA-Research",
-    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-041",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic shock, and global security governance into concise policy-facing analysis."
   },
+  "methodology": {
+    "framework_name": "Energy Endurance & Survival Index (EESI) with HPSE–LoCT Integration",
+    "source_basis": "Policy-facing synthesis based on publicly available energy dependency, oil and LNG reserve, and policy-response data, interpreted through the High-Pressure Systemic Equilibrium (HPSE), Energy Endurance & Survival Index (EESI), and Loss-of-Control Threshold (LoCT) framework.",
+    "case_context": "Japan, South Korea, and Taiwan under sustained energy pressure during the U.S.–Israel–Iran conflict.",
+    "core_problem": "Traditional energy security indicators such as supply availability and import dependence do not adequately capture how sustained conflict pressure erodes system endurance through cost escalation, buffer depletion, reserve accessibility, and demand rigidity.",
+    "central_claims": [
+      "Energy disruption under systemic shock does not necessarily produce immediate collapse; it may appear as sustained cost escalation, systemic friction, and progressive resilience compression.",
+      "Energy vulnerability is not determined by dependence alone, but by the interaction among dependence, buffering capacity, reserve accessibility, consumption scale, system rigidity, and cost pressure.",
+      "Japan converts large reserves into short-term stabilization, reducing long-term endurance capacity and producing a slow-compression pathway.",
+      "South Korea transmits energy pressure directly into industrial output because of demand rigidity, producing accelerated compression.",
+      "Taiwan’s limited LNG buffer creates immediate systemic exposure and a rapid trigger pathway toward threshold proximity.",
+      "HPSE explains persistence under sustained stress, EESI measures endurance capacity, and LoCT defines the point at which pressure transmission exceeds system control."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "High-Pressure Systemic Equilibrium",
+        "description": "Systems remain operational under sustained stress while efficiency declines, costs rise, and fragility accumulates."
+      },
+      {
+        "name": "Energy Endurance & Survival Index",
+        "description": "EESI links storage, accessibility, dependency, consumption, rigidity, and cost pressure into a comparative indicator of endurance under prolonged stress."
+      },
+      {
+        "name": "Structural Exposure",
+        "description": "Import dependence becomes consequential only through its interaction with buffering capacity, demand structure, and system rigidity."
+      },
+      {
+        "name": "Buffer Depletion",
+        "description": "Strategic reserves can stabilize systems in the short term while simultaneously converting long-term endurance into finite delay capacity."
+      },
+      {
+        "name": "Demand Rigidity",
+        "description": "Limited capacity to reduce or shift demand determines how efficiently systems absorb or transmit energy pressure."
+      },
+      {
+        "name": "Loss-of-Control Threshold Pathways",
+        "description": "Distinct internal structures produce different pathways toward instability: slow compression, accelerated compression, and rapid trigger exposure."
+      },
+      {
+        "name": "Cross-System Transmission",
+        "description": "Energy shocks propagate from supply constraints into cost, finance, industrial output, and system stability."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Storage",
+      "code": "STO",
+      "description": "Physical reserves, including strategic and commercial inventories."
+    },
+    {
+      "name": "Accessibility",
+      "code": "ACC",
+      "description": "The extent to which reserves are preserved, reachable, and deployable under stress."
+    },
+    {
+      "name": "Dependency",
+      "code": "DEP",
+      "description": "Reliance on external energy supply, including LNG and oil import dependence."
+    },
+    {
+      "name": "Consumption",
+      "code": "CON",
+      "description": "Scale of energy demand that must be sustained under pressure."
+    },
+    {
+      "name": "Rigidity",
+      "code": "RIG",
+      "description": "The difficulty of reducing, substituting, or shifting demand under stress."
+    },
+    {
+      "name": "Cost Pressure",
+      "code": "CP",
+      "description": "Price volatility, insurance burden, financing pressure, and associated energy-cost escalation."
+    },
+    {
+      "name": "High-Pressure Systemic Equilibrium",
+      "code": "HPSE",
+      "description": "A condition in which flows persist and systems continue to operate, but resilience erodes and fragility increases."
+    },
+    {
+      "name": "Loss-of-Control Threshold",
+      "code": "LoCT",
+      "description": "The threshold boundary at which a system loses control over how pressure is absorbed, transmitted, and stabilized."
+    }
+  ],
+  "formulas": [
+    {
+      "label": "Energy Endurance & Survival Index",
+      "equation": "EESI = (Storage × Accessibility × (1 − Dependency)) / (Consumption × Rigidity × (1 + Cost Pressure))",
+      "description": "Comparative indicator of energy-system endurance under prolonged stress."
+    }
+  ],
+  "key_findings": [
+    "Energy disruption no longer produces immediate collapse, but manifests as sustained cost escalation and systemic friction.",
+    "Energy flows may persist under HPSE even as resilience erodes and decision space narrows.",
+    "Japan maintains the largest buffer, but repeated reserve releases convert strategic reserves into short-term stabilization capacity and erode long-term endurance.",
+    "South Korea combines substantial oil reserves with a more constrained LNG margin, and its industrial rigidity transmits energy shocks into production and economic stress.",
+    "Taiwan’s limited LNG buffer of approximately 11 days creates immediate systemic exposure.",
+    "All three economies exhibit high external dependence, but similar exposure levels produce divergent resilience outcomes because of differences in buffering capacity and system structure.",
+    "East Asian energy systems follow three distinct LoCT pathways: slow compression in Japan, accelerated compression in South Korea, and rapid trigger exposure in Taiwan.",
+    "System failure is not defined only by resource depletion, but by loss of control over how pressure is absorbed and transmitted.",
+    "Energy security should be reframed as the capacity to sustain function, absorb pressure, and adapt under prolonged stress."
+  ],
+  "policy_recommendations": [
+    "Redefine energy security assessment around system endurance rather than supply availability alone.",
+    "Use EESI-style indicators to compare how reserves, accessibility, dependency, consumption, rigidity, and cost pressure interact under sustained stress.",
+    "Balance Japan’s short-term reserve releases against the need to preserve long-term endurance capacity.",
+    "Reduce South Korea’s industrial demand rigidity to limit the transmission of energy shocks into production and economic performance.",
+    "Treat Taiwan’s LNG storage expansion and supply diversification as urgent priorities because its short LNG buffer creates immediate threshold exposure.",
+    "Monitor cross-domain transmission from energy supply constraints into cost, finance, industrial output, and political stability.",
+    "Interpret reserve drawdowns as time-conversion mechanisms that can delay instability but may also reduce future strategic flexibility."
+  ],
   "related_works": [
     {
-      "relation": "IsPartOf",
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief defining and applying the HPSE framework",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper defining the Loss-of-Control Threshold framework",
+      "type": "DOI"
+    },
+    {
+      "title": "EPINOVA Policy Brief Series",
       "identifier": "https://epinova.org/policy-brief-1",
-      "scheme": "URL",
-      "resource_type": "Publication series",
-      "description": "EPINOVA Policy Brief Series"
+      "relation": "Series page for EPINOVA policy briefs",
+      "type": "URL"
     },
     {
-      "relation": "IsSupplementedBy",
+      "title": "EPINOVA Research Repository",
       "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
-      "scheme": "URL",
-      "resource_type": "Repository",
-      "description": "Supplementary repository and structural archive"
-    },
-    {
-      "relation": "References",
-      "identifier": "https://doi.org/10.5281/zenodo.19645873",
-      "scheme": "DOI",
-      "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on high-pressure systemic equilibrium"
+      "relation": "Supplementary repository and structural archive",
+      "type": "Repository"
     }
   ],
   "references": [
-    "Worldometer. (2026). Japan Natural Gas. https://www.worldometers.info/zh/天然气/日本-天然气/",
-    "Worldometer. (2026). Japan Oil. https://www.worldometers.info/zh/石油/日本-石油/",
-    "Worldometer. (2026). South Korea Natural Gas. https://www.worldometers.info/zh/天然气/韩国-天然气/",
-    "Worldometer. (2026). South Korea Oil. https://www.worldometers.info/zh/石油/韩国-石油/",
-    "Worldometer. (2026). Taiwan Natural Gas. https://www.worldometers.info/zh/天然气/台湾-天然气/",
-    "Worldometer. (2026). Taiwan Oil. https://www.worldometers.info/zh/石油/台湾-石油/",
-    "Xinhua News Agency. (2026, March 17). South Korea to release strategic petroleum reserves amid energy pressure. https://www.news.cn/world/20260317/136fbeb1979448e5b4d72bd1bface8c8/c.html",
-    "Xinhua News Agency. (2026, April 24). Japan announces additional petroleum reserve release. https://www.news.cn/world/20260424/4a3cbae35b7e4e6d96f94b4f94afba17/c.html",
-    "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50. Policy Brief No. EPINOVA–2026–PB–35. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
-    "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977"
+    {
+      "citation": "Worldometer. (2026). Japan Natural Gas.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/天然气/日本-天然气/"
+    },
+    {
+      "citation": "Worldometer. (2026). Japan Oil.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/石油/日本-石油/"
+    },
+    {
+      "citation": "Worldometer. (2026). South Korea Natural Gas.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/天然气/韩国-天然气/"
+    },
+    {
+      "citation": "Worldometer. (2026). South Korea Oil.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/石油/韩国-石油/"
+    },
+    {
+      "citation": "Worldometer. (2026). Taiwan Natural Gas.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/天然气/台湾-天然气/"
+    },
+    {
+      "citation": "Worldometer. (2026). Taiwan Oil.",
+      "type": "Data source",
+      "url": "https://www.worldometers.info/zh/石油/台湾-石油/"
+    },
+    {
+      "citation": "Xinhua News Agency. (2026, March 17). South Korea to release strategic petroleum reserves amid energy pressure.",
+      "type": "News source",
+      "url": "https://www.news.cn/world/20260317/136fbeb1979448e5b4d72bd1bface8c8/c.html"
+    },
+    {
+      "citation": "Xinhua News Agency. (2026, April 24). Japan announces additional petroleum reserve release.",
+      "type": "News source",
+      "url": "https://www.news.cn/world/20260424/4a3cbae35b7e4e6d96f94b4f94afba17/c.html"
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50. Policy Brief No. EPINOVA–2026–PB–35. Global AI Governance and Policy Research Center, EPINOVA LLC.",
+      "type": "Related EPINOVA policy brief",
+      "url": "https://doi.org/10.5281/zenodo.19645873"
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC.",
+      "type": "Related EPINOVA working paper",
+      "url": "https://doi.org/10.5281/zenodo.19139977"
+    }
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-041. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Energy endurance under systemic shock: Divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-041. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–41, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Energy endurance under systemic shock: Divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–41). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Energy Endurance Under Systemic Shock, EPINOVA–2026–PB–41.",
   "imprint": {
-    "title": "EPINOVA Policy Brief Series",
-    "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
-    "edition": "v1.0",
-    "pagination": ""
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-25",
+    "pagination": "7 pages"
   },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Energy Import Dependency Structure in East Asia",
+      "page": 3,
+      "caption": "All three economies exhibit high import dependence, yet structural differences translate similar exposure into divergent resilience under sustained pressure.",
+      "source": "Worldometer; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC"
+    },
+    {
+      "number": "Figure 2",
+      "title": "Oil and LNG Reserve Coverage (Days of Supply)",
+      "page": 4,
+      "caption": "Oil provides long-duration buffering, while LNG storage remains significantly constrained, especially in Taiwan, defining short-term system vulnerability.",
+      "source": "National energy data; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC"
+    },
+    {
+      "number": "Figure 3",
+      "title": "Divergent Pathways Toward the Loss-of-Control Threshold (LoCT)",
+      "page": 5,
+      "caption": "EESI-based comparison shows Japan in a high-endurance range, South Korea in a compressed moderate range, and Taiwan in a low-endurance range approaching LoCT, reflecting distinct system-level pathways under sustained pressure.",
+      "source": "Worldometer; national data; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC"
+    },
+    {
+      "number": "Figure 4",
+      "title": "Integrated Framework of HPSE, EESI, and LoCT",
+      "page": 6,
+      "caption": "HPSE explains system persistence under sustained stress, EESI measures endurance capacity, and LoCT defines threshold failure. Together, they form a continuous model linking system persistence, degradation, and eventual loss of control.",
+      "source": "Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "EESI Scale Interpretation",
+      "page": 2,
+      "description": "Interprets EESI scores from high endurance to critical exposure.",
+      "rows": [
+        {
+          "eesi_score": "≥ 3.0",
+          "interpretation": "High endurance",
+          "system_condition": "Strong buffering capacity; pressure absorbed over longer duration"
+        },
+        {
+          "eesi_score": "2.0–2.9",
+          "interpretation": "Moderate endurance",
+          "system_condition": "Increasingly compressed under sustained stress"
+        },
+        {
+          "eesi_score": "1.0–1.9",
+          "interpretation": "Low endurance",
+          "system_condition": "Limited buffering capacity; rapid pressure transmission"
+        },
+        {
+          "eesi_score": "< 1.0",
+          "interpretation": "Critical exposure",
+          "system_condition": "Minimal absorptive capacity; approaching LoCT"
+        }
+      ]
+    },
+    {
+      "number": "Table 2",
+      "title": "Baseline Energy Dependency",
+      "page": 3,
+      "description": "Compares LNG and oil import dependence across Japan, South Korea, and Taiwan.",
+      "note": "LNG and oil import dependence are approximations based on publicly available data.",
+      "source": "Worldometer; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "rows": [
+        {
+          "economy": "Japan",
+          "lng_import_dependence": "~95%",
+          "oil_import_dependence": "~72%",
+          "structural_character": "Fully externalized system"
+        },
+        {
+          "economy": "South Korea",
+          "lng_import_dependence": "~98%",
+          "oil_import_dependence": "~108%",
+          "structural_character": "Industrial import-dependent system"
+        },
+        {
+          "economy": "Taiwan",
+          "lng_import_dependence": "~98%",
+          "oil_import_dependence": "~84%",
+          "structural_character": "High dependence with weak buffer"
+        }
+      ]
+    },
+    {
+      "number": "Table 3",
+      "title": "Buffer Capacity and Policy Response",
+      "page": 4,
+      "description": "Compares oil reserves, LNG reserves, 2026 policy actions, and system effects.",
+      "note": "Values are approximate and reflect structural buffering capacity rather than real-time inventories.",
+      "source": "National energy data; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "rows": [
+        {
+          "economy": "Japan",
+          "oil_reserve": "~214–254 days",
+          "lng_reserve": "~2–4 weeks",
+          "policy_action_2026": "Repeated reserve releases",
+          "system_effect": "Buffer erosion"
+        },
+        {
+          "economy": "South Korea",
+          "oil_reserve": "~208 days",
+          "lng_reserve": "9–52 days",
+          "policy_action_2026": "Release + nuclear ramp-up",
+          "system_effect": "Partial stabilization"
+        },
+        {
+          "economy": "Taiwan",
+          "oil_reserve": "100+ days",
+          "lng_reserve": "~11 days",
+          "policy_action_2026": "LNG expansion plans",
+          "system_effect": "Limited mitigation"
+        }
+      ]
+    },
+    {
+      "number": "Table 4",
+      "title": "System Typology and LoCT Pathways",
+      "page": 5,
+      "description": "Identifies dominant system types, core constraints, failure mechanisms, and LoCT pathways.",
+      "note": "Typologies reflect dominant system characteristics under sustained stress conditions.",
+      "source": "Worldometer; national data; Analysis: Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "rows": [
+        {
+          "economy": "Japan",
+          "system_type": "Buffer-depletion system",
+          "core_constraint": "External dependence",
+          "failure_mechanism": "Reserve exhaustion",
+          "loct_path": "Slow compression"
+        },
+        {
+          "economy": "South Korea",
+          "system_type": "Industrial rigidity system",
+          "core_constraint": "Demand inflexibility",
+          "failure_mechanism": "Cost transmission",
+          "loct_path": "Accelerated compression"
+        },
+        {
+          "economy": "Taiwan",
+          "system_type": "Immediate exposure system",
+          "core_constraint": "LNG shortage",
+          "failure_mechanism": "No buffer",
+          "loct_path": "Rapid trigger"
+        }
+      ]
+    }
+  ],
+  "appendices": [],
   "funding": {
-    "funders": [],
-    "awards": []
+    "statement": "No external funding information is provided in the PDF."
   },
   "software": {
-    "repository_url": "",
-    "programming_language": "",
-    "development_status": ""
+    "statement": "No software artifact is specified in the PDF."
   },
-  "conference": {
-    "title": "",
-    "acronym": "",
-    "place": "",
-    "dates": "",
-    "session": "",
-    "part": "",
-    "website": ""
-  },
-  "journal": {
-    "title": "",
-    "issn": "",
-    "volume": "",
-    "issue": "",
-    "pages": ""
-  },
-  "thesis": {
-    "awarding_university": "",
-    "awarding_department": "",
-    "thesis_type": "",
-    "submission_date": "",
-    "defense_date": ""
-  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF + earlier EPINOVA metadata record",
+    "extraction_method": "PDF text extraction, visual/table review, and metadata reconciliation against the provided schema",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, EESI formula, table and figure titles, policy implications, limitations, conclusion, recommended citation, and disclaimer. Earlier metadata supplied prior Zenodo DOI 10.5281/zenodo.19770272, EPINOVA landing page, official page, repository URLs, and reference list. The PDF states that the DOI is to be assigned after Crossref membership approval; therefore no primary DOI is set and the prior Zenodo DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {
-    "intended_registration_agency": "Crossref",
-    "record_type": "report",
+    "status": "pending",
+    "doi": "",
+    "deposit_ready": true,
+    "notes": "PDF states that DOI is to be assigned after Crossref membership approval. Landing page is intended to serve as the primary Crossref DOI resolution interface after registration.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-041/",
     "crossref_doi_suffix": "epinova.pb.2026.041",
+    "intended_registration_agency": "Crossref",
     "registration_status": "Pending"
   },
   "datacite": {
-    "use_for_dataset": false,
-    "related_dataset_doi": "",
-    "notes": "Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+    "status": "previous_or_reserved",
+    "doi": "10.5281/zenodo.19770272",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Earlier Zenodo/DataCite DOI retained for reconciliation; the current PDF uses a Crossref-pending DOI statement rather than a finalized DOI."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
   }
 }

@@ -1,29 +1,324 @@
 {
-  "title": "From AI Capabilities to Structural Governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance",
+  "epinova_id": "EPINOVA-PB-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-001",
+  "title": "From AI Capabilities to Structural Governance",
+  "subtitle": "Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance",
   "title_normalized": "from ai capabilities to structural governance: operationalizing the ai-strategic node index (ai-sni) for practical ai governance",
-  "date": "2026-02-02",
-  "doi": "10.5281/zenodo.18453093",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "204371356",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-01",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18453094",
+  "previous_doi": "10.5281/zenodo.18453093",
+  "landing_page": "https://doi.org/10.5281/zenodo.18453094",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18453094",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18453093",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "204371356",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–01",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From AI Capabilities to Structural Governance.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From AI Capabilities to Structural Governance",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief operationalizes the AI-Strategic Node Index (AI-SNI) as a practical governance diagnostic tool for identifying structural exposure, leverage concentration, governance fragility, and cross-border spillover risks in AI-enabled systems. It argues that effective AI governance must move beyond isolated model-level or actor-centered regulation toward node-level structural intelligence.",
+  "abstract": "As artificial intelligence systems become embedded in sensing infrastructures, decision-making loops, critical services, and cross-border networks, AI governance challenges are shifting from isolated technical risks to structural and systemic risks. Existing governance approaches centered on ethical principles, compliance obligations, or model-level safeguards are insufficient to identify where AI-enabled strategic leverage accumulates, how systemic dependencies emerge, and how governance failures propagate across jurisdictions and sectors. The AI-Strategic Node Index (AI-SNI), as defined in the AI-Strategic Node Framework: Conceptual and Methodological White Book (v0.1), provides a governance-oriented diagnostic instrument to support policy-makers in assessing structural exposure, leverage concentration, and governance fragility within AI-enabled systems. This policy brief outlines how AI-SNI can support national strategies, cross-border coordination, and institutional risk management without introducing rankings or prescriptive policy mandates.",
+  "keywords": [
+    "AI governance",
+    "AI-Strategic Node Index",
+    "AI-SNI",
+    "AI-Strategic Node Framework",
+    "AI-SNF",
+    "Structural governance",
+    "Structural risk intelligence",
+    "AI-enabled systems",
+    "Systemic risk",
+    "Governance fragility",
+    "Leverage concentration",
+    "Cross-border AI governance",
+    "AI critical infrastructure",
+    "Node-level analysis",
+    "Model-level safeguards",
+    "Actor-centric regulation",
+    "Infrastructure governance",
+    "National AI strategy",
+    "Risk screening",
+    "System stress testing",
+    "Confidence-based interpretation",
+    "Auditability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "Technology policy",
+    "Public policy",
+    "Risk governance",
+    "Critical infrastructure",
+    "AI infrastructure",
+    "Strategic studies",
+    "International governance",
+    "Cross-border coordination",
+    "Systems analysis",
+    "Institutional risk management",
+    "Governance diagnostics",
+    "Digital sovereignty",
+    "AI policy implementation",
+    "Global AI governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-01",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-02-01",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-02-01",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-02-02",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From AI Capabilities to Structural Governance.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-01/From%20AI%20Capabilities%20to%20Structural%20Governance.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 4
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-01",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-01",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-001",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "AI-Strategic Node Index Operationalization Framework",
+    "source_basis": "Policy-facing synthesis based on the AI-Strategic Node Framework: Conceptual and Methodological White Book (v0.1) and its AI-Strategic Node Index diagnostic architecture",
+    "case_context": "Practical AI governance, national AI strategy, infrastructure oversight, cross-border coordination, and institutional risk management",
+    "core_problem": "Existing AI governance tools focus on actors, models, or sector-specific compliance, but they do not adequately identify structurally significant AI-enabled nodes where leverage, dependency, and governance fragility accumulate.",
+    "central_claims": [
+      "AI governance risks increasingly arise from structural configurations of AI-enabled systems rather than isolated algorithms, models, or individual actors.",
+      "Existing governance instruments are not designed to detect leverage concentration, systemic dependency, or cross-border spillover associated with AI-enabled infrastructure nodes.",
+      "AI-SNI provides a diagnostic and non-ranking approach to identifying structurally significant AI nodes and associated governance exposure.",
+      "Structural risk in AI systems is configuration-dependent and cannot be inferred from technical performance, compliance status, or sector classification alone.",
+      "Effective AI governance requires node-level structural intelligence to complement model-level safeguards and actor-based regulation."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Structural Blind Spot in AI Governance",
+        "description": "Actor-centric regulation, model-centric safeguards, and sector-specific compliance often miss systemic risks emerging from node-level leverage, dependency, and spillover."
+      },
+      {
+        "name": "AI-SNI as Diagnostic Instrument",
+        "description": "AI-SNI is positioned as a diagnostic index system rather than a ranking, benchmarking, or prescriptive decision tool."
+      },
+      {
+        "name": "Node-Level Structural Intelligence",
+        "description": "Governance analysis should identify the structural roles of AI-enabled nodes within broader systems and assess disproportionate leverage and spillover risk."
+      },
+      {
+        "name": "Risk Screening and System Stress Testing",
+        "description": "AI-SNI profiles can support fragility-sensitive assessments under governance degradation or disruption scenarios."
+      },
+      {
+        "name": "Safeguards Against Misuse",
+        "description": "Risk tiers, composite scores, structural classes, and confidence profiles must be interpreted as bounded diagnostics rather than rankings or self-executing policy mandates."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Algorithmic Sensing and Early-Warning Centrality",
+      "code": "ASEWC",
+      "description": "Assesses whether an AI-enabled node concentrates sensing, monitoring, forecasting, or early-warning functions within a broader governance or infrastructure system."
+    },
+    {
+      "name": "Predictive and Modelling Leverage",
+      "code": "PML",
+      "description": "Captures the degree to which predictive models or AI-enabled analytical systems influence policy, operational, or institutional decisions."
+    },
+    {
+      "name": "Decision-Loop Temporal Advantage",
+      "code": "DLTA",
+      "description": "Assesses whether AI-enabled systems compress decision timelines beyond existing human, organizational, or institutional governance cycles."
+    },
+    {
+      "name": "Infrastructure–Governance Alignment",
+      "code": "IGA",
+      "description": "Evaluates the fit or mismatch between the physical, digital, and institutional infrastructures supporting an AI node and the governance mechanisms that oversee it."
+    },
+    {
+      "name": "Future Coupling and Option Preservation",
+      "code": "FCOP",
+      "description": "Assesses future-oriented coupling among compute, data, energy, physical infrastructure, and cross-jurisdictional governance pathways."
+    }
+  ],
+  "key_findings": [
+    "AI governance risks increasingly arise from structural configurations of AI-enabled systems rather than from isolated algorithms, models, or individual actors.",
+    "Existing AI governance instruments are not designed to detect leverage concentration, systemic dependency, or cross-border spillover risks associated with AI-enabled infrastructure nodes.",
+    "The AI-Strategic Node Index provides a diagnostic, non-ranking approach to identifying structurally significant AI nodes and their associated governance exposure.",
+    "Structural risk in AI systems is configuration-dependent and cannot be inferred from technical performance, compliance status, or sector classification alone.",
+    "Effective AI governance requires node-level structural intelligence to complement model-level safeguards and actor-based regulation.",
+    "AI-SNI can support national AI strategy and infrastructure oversight by identifying AI-critical infrastructure nodes that warrant enhanced governance attention.",
+    "AI-SNI can support cross-border and multilateral AI governance by enabling shared diagnosis of transnational dependency structures without reliance on ordinal rankings.",
+    "AI-SNI diagnostic extensions can support fragility-sensitive risk screening and system stress testing under governance degradation or disruption scenarios."
+  ],
+  "policy_recommendations": [
+    "Integrate AI-SNI as a diagnostic layer within existing AI governance and risk-assessment systems.",
+    "Complement model- and actor-centric regulation with node-level structural analysis.",
+    "Use AI-SNI profiles to inform cross-border dialogue while avoiding ordinal comparison or league-table interpretations.",
+    "Institutionalize confidence-based interpretation rules to mitigate risks arising from incomplete or uneven data.",
+    "Ensure transparency and auditability in AI-SNI application to sustain policy legitimacy and trust."
+  ],
+  "related_works": [
+    {
+      "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+      "identifier": "10.5281/zenodo.18452803",
+      "relation": "Source conceptual and methodological white book defining AI-SNF and AI-SNI v0.1",
+      "type": "DOI"
+    },
+    {
+      "title": "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power",
+      "identifier": "10.5281/zenodo.18261165",
+      "relation": "Related EPINOVA working paper applying the AI strategic node concept to Greenland and Arctic strategic geography",
+      "type": "DOI"
+    },
+    {
+      "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not: Temple's Data Center, AI-SNI, and the Reclassification of AI Strategic Exposure",
+      "identifier": "",
+      "relation": "Related EPINOVA working paper applying AI-SNI to a local data-center governance case",
+      "type": "Related publication"
+    }
+  ],
+  "references": [
+    {
+      "citation": "AI-Strategic Node Framework: Conceptual and Methodological White Book (v0.1).",
+      "type": "Framework source referenced in the policy brief",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "EPINOVA (2026), From AI Capabilities to Structural Governance: Applying the AI-Strategic Node Index (AI-SNI) in Practical AI Governance, Policy Brief No. EPINOVA–2026–PB–01, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18453094. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From AI capabilities to structural governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for practical AI governance (Policy Brief No. EPINOVA–2026–PB–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18453094. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), From AI Capabilities to Structural Governance, EPINOVA–2026–PB–01.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-02-01",
+    "pagination": "4 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From AI Capabilities to Structural Governance.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, key findings, policy challenge, AI-SNI diagnostic architecture, practical applications, safeguards, recommendations, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18453093, ORCID put-code 204371356, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18453094 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF date is February 01, 2026; the early ORCID-derived metadata date is February 02, 2026 and is retained separately."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18453094",
+    "crossref_doi_suffix": "epinova.pb.2026.001",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18453094",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "204371356",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-02"
   }
 }

@@ -1,29 +1,346 @@
 {
-  "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
-  "title_normalized": "ai-strategic node framework (ai-snf): conceptual and methodological white book",
-  "date": "2026-01-30",
-  "doi": "10.5281/zenodo.18452802",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
+  "epinova_id": "EPINOVA-IWB-2026-01",
+  "record_type": "Publication",
+  "resource_type": "Book",
+  "publication_type": "White Book",
   "category": "white-books",
-  "put_code": "204367454",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Index White Book Series",
+  "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+  "subtitle": "Version 0.1 Foundational Release",
+  "title_normalized": "ai strategic node framework ai snf conceptual and methodological white book",
+  "publication_date": "2026-01-31",
+  "version": "v0.1",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shao-Yuan",
+      "given_name": "Shao-Yuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shao-Yuan Wu",
+  "doi": "10.5281/zenodo.18452803",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18452803",
+  "official_page": "https://epinova.org/iwb2601",
+  "alternate_identifiers": [
+    {
+      "identifier": "IWB-2026-01",
+      "scheme": "EPINOVA internal publication number",
+      "description": "Internal EPINOVA Index White Book identifier"
+    },
+    {
+      "identifier": "AI-SNF v0.1",
+      "scheme": "Framework version identifier",
+      "description": "Version identifier for the AI-Strategic Node Framework foundational release"
+    },
+    {
+      "identifier": "AI-SNI v0.1",
+      "scheme": "Derived diagnostic output version identifier",
+      "description": "Version identifier for the bounded AI-Strategic Node Index diagnostic output specified within AI-SNF"
+    },
+    {
+      "identifier": "https://epinova.org/iwb2601",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.18452803",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI landing page"
+    }
+  ],
+  "description": "This white book introduces the AI-Strategic Node Framework (AI-SNF) and its bounded composite diagnostic output, the AI-Strategic Node Index (AI-SNI) v0.1. It defines AI-strategic nodes as geographic, infrastructural, or institutional configurations whose position within AI-mediated perception, prediction, decision, governance, and resource-compute systems creates disproportionate strategic consequence. The white book specifies five dimensions, indicator logic, normalization and aggregation rules, exposure bands, diagnostic extensions, structural class attribution, typologies, uncertainty treatment, reporting templates, and interpretive guardrails.",
+  "abstract": "The AI-Strategic Node Framework (AI-SNF) White Book develops a governance-oriented analytical architecture for diagnosing structural leverage, fragility, control asymmetry, and systemic consequence within AI-mediated systems. Rather than ranking countries or measuring aggregate AI capacity, AI-SNF shifts the unit of analysis to strategic nodes: territories, corridors, facility clusters, chokepoints, and infrastructural configurations whose disruption, degradation, capture, or misgovernance may produce disproportionate effects across sensing, prediction, decision-making, governance, and long-horizon resource-data-compute coupling. The framework organizes assessment around five dimensions: Algorithmic Sensing and Early-Warning Centrality (D1), Predictive Model Leverage and Dependency (D2), Decision-Loop Temporal Advantage (D3), Infrastructure-Governance Asymmetry and Control (D4), and Resource-Data-Compute Coupling Potential (D5). It specifies AI-SNI as a bounded composite diagnostic output for visualization and pattern recognition, not as a predictive model, ranking mechanism, or decision-automation tool. It further introduces exposure tier bands, diagnostic extensions for governance fragility and weakest-link sensitivity, a non-computable Structural Class System (S/A/B/C), international node typologies, evidence grading, confidence treatment, and reporting templates. The foundational v0.1 release prioritizes conceptual coherence, auditability, interpretive restraint, and governance relevance before empirical scaling or operational application.",
+  "keywords": [
+    "AI-Strategic Node Framework",
+    "AI-SNF",
+    "AI-Strategic Node Index",
+    "AI-SNI",
+    "AI governance",
+    "strategic nodes",
+    "AI-mediated systems",
+    "algorithmic sensing",
+    "early warning",
+    "predictive model dependency",
+    "decision-loop temporal advantage",
+    "infrastructure governance asymmetry",
+    "resource data compute coupling",
+    "structural leverage",
+    "systemic fragility",
+    "control asymmetry",
+    "governance diagnostics",
+    "strategic geography",
+    "AI infrastructure",
+    "composite indicators",
+    "uncertainty treatment",
+    "evidence grading",
+    "structural class attribution",
+    "global AI governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence governance",
+    "Strategic studies",
+    "Technology governance",
+    "Geopolitics",
+    "Critical infrastructure",
+    "AI infrastructure",
+    "Systems analysis",
+    "Risk governance",
+    "Composite indicator methodology",
+    "Public policy",
+    "International relations",
+    "Digital sovereignty",
+    "Infrastructure governance",
+    "Decision systems"
+  ],
+  "dates": [
+    {
+      "date": "2026-01-31",
+      "type": "Issued",
+      "description": "Initial public release of AI-SNF White Book v0.1. The PDF states January 2026; the metadata uses the last day of the month for a complete ISO date."
+    },
+    {
+      "date": "2026-01",
+      "type": "Created",
+      "description": "Foundational release dated January 2026."
+    }
+  ],
+  "license": {
+    "id": "custom-all-rights-reserved-with-noncommercial-permission",
+    "title": "Non-commercial academic, scholarly, and educational use permitted with attribution; commercial or proprietary deployment may require prior written permission from the author.",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Book/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the AI-SNF conceptual and methodological white book"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2026/IWB-2026-01",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2026/IWB-2026-01",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary EPINOVA research repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.18261165",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Original concept reference: Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://doi.org/10.5281/zenodo.18453094",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related practical governance application: From AI Capabilities to Structural Governance: Applying the AI-Strategic Node Index (AI-SNI) in Practical AI Governance"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://doi.org/10.5281/zenodo.18453986",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related policy brief on Greenland structural centrality under the AI-SNI framework"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://doi.org/10.5281/zenodo.18454250",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Related policy brief on Greenland as an AI-strategic node in great-power interaction"
+    },
+    {
+      "relation": "IsIdenticalTo",
+      "identifier": "https://doi.org/10.5281/zenodo.18452803",
+      "scheme": "DOI",
+      "resource_type": "White Book",
+      "description": "Zenodo/DataCite DOI record for the AI-SNF White Book"
+    }
+  ],
+  "references": [
+    "Baldwin, D. A. (2016). Power and international relations. Princeton University Press.",
+    "Beck, U. (1992). Risk society: Towards a new modernity. Sage Publications.",
+    "Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.",
+    "Bratton, B. H. (2016). The stack: On software and sovereignty. MIT Press.",
+    "Castells, M. (2010). The rise of the network society (2nd ed.). Wiley-Blackwell.",
+    "European Commission. (2021). Proposal for a regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). https://eur-lex.europa.eu/",
+    "Floridi, L. (2014). The fourth revolution: How the infosphere is reshaping human reality. Oxford University Press.",
+    "Floridi, L., Cowls, J., King, T. C., & Taddeo, M. (2020). How to design AI for social good: Seven essential factors. Science and Engineering Ethics, 26(3), 1771–1796. https://doi.org/10.1007/s11948-020-00213-5",
+    "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51–59. https://doi.org/10.1038/nature12047",
+    "Jasanoff, S. (2004). States of knowledge: The co-production of science and social order. Routledge.",
+    "Kahn, H. (1962). Thinking about the unthinkable. Horizon Press.",
+    "Kleinberg, J., Ludwig, J., Mullainathan, S., & Obermeyer, Z. (2018). Prediction policy problems. American Economic Review, 108(1), 1–40. https://doi.org/10.1257/aer.20170923",
+    "Latour, B. (2005). Reassembling the social: An introduction to actor-network-theory. Oxford University Press.",
+    "National Institute of Standards and Technology. (2023). AI risk management framework (AI RMF 1.0). U.S. Department of Commerce. https://www.nist.gov/itl/ai-risk-management-framework",
+    "North, D. C. (1990). Institutions, institutional change and economic performance. Cambridge University Press.",
+    "Organisation for Economic Co-operation and Development. (2019). OECD principles on artificial intelligence. https://www.oecd.org/going-digital/ai/principles/",
+    "Organisation for Economic Co-operation and Development. (2021). Framework for the classification of AI systems. OECD Digital Economy Papers.",
+    "Perrow, C. (1984). Normal accidents: Living with high-risk technologies. Princeton University Press.",
+    "Power, M. (2007). Organized uncertainty: Designing a world of risk management. Oxford University Press.",
+    "Renn, O. (2008). Risk governance: Coping with uncertainty in a complex world. Earthscan.",
+    "Schelling, T. C. (1960). The strategy of conflict. Harvard University Press.",
+    "Taleb, N. N. (2012). Antifragile: Things that gain from disorder. Random House.",
+    "Tufekci, Z. (2015). Algorithmic harms beyond Facebook and Google. Colorado Technology Law Journal, 13(203), 203–218.",
+    "United Nations Office for Disarmament Affairs (UNODA). (2023). Advancing responsible artificial intelligence in the military domain. United Nations. https://disarmament.UNODA.org/ai/",
+    "Weick, K. E. (1988). Enacted sensemaking in crisis situations. Journal of Management Studies, 25(4), 305–317.",
+    "World Economic Forum. (2020). Global technology governance: AI, data, and digital infrastructure. WEF Publications.",
+    "World Economic Forum. (2023). Global risks report 2023. https://www.weforum.org/reports/global-risks-report-2023/",
+    "Wu, Shao-Yuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA–WP–A–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165"
+  ],
+  "recommended_citation": "Wu, Shao-Yuan. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book (v0.1). (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Book (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
+  "imprint": {
+    "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "edition": "Version 0.1 Foundational Release",
+    "pagination": "229 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 4.2",
+      "title": "Integrated Structural Architecture of AI-SNF and AI-SNI Outputs",
+      "description": "Illustrates the layered AI-SNF architecture: D1–D3 operational centrality, D4 governance-alignment and fragility, D5 forward-looking coupling potential, AI-SNI bounded composite output, exposure tier bands, confidence profile, and non-derivative structural class attribution.",
+      "source": "Author’s AI-SNF / AI-SNI structural architecture",
+      "note": "The figure emphasizes that AI-SNI outputs support contextual analysis but do not determine systemic role; structural class attribution cannot be inferred from composite scores, tier groups, or diagnostic extensions."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Section 4.2 Dimension Architecture",
+      "title": "Five Core Dimensions of AI-SNF",
+      "description": "Defines D1 Algorithmic Sensing and Early-Warning Centrality, D2 Predictive Model Leverage and Dependency, D3 Decision-Loop Temporal Advantage, D4 Infrastructure-Governance Asymmetry and Control, and D5 Resource-Data-Compute Coupling Potential.",
+      "source": "Author’s AI-SNF dimensional architecture"
+    },
+    {
+      "number": "Section 10.5",
+      "title": "Composite Index Formula and Diagnostic Extensions",
+      "description": "Specifies reference AI-SNI as the authoritative bounded composite diagnostic output and distinguishes diagnostic extensions for governance fragility and weakest-link sensitivity from alternative index formulations.",
+      "source": "Author’s AI-SNI composite-index methodology"
+    },
+    {
+      "number": "Section 11.1",
+      "title": "AI-SNI Exposure Tier Bands",
+      "description": "Defines four exposure-oriented tier bands for visualization and coarse screening: Tier 1 Critical Exposure (AI-SNI ≥ 0.80), Tier 2 High Exposure (0.65–0.80), Tier 3 Relevant Exposure (0.50–0.65), and Tier 4 Peripheral Exposure (AI-SNI < 0.50).",
+      "source": "Author’s AI-SNI risk classification framework",
+      "note": "Tier identifiers are non-ordinal and must not be treated as rankings, policy priorities, or measures of desirability."
+    },
+    {
+      "number": "Section 12.3",
+      "title": "Structural Class Definitions (S / A / B / C)",
+      "description": "Defines structural classes as higher-order interpretive categories assessing systemic role, non-substitutability, cross-dimensional coupling, and failure-propagation implications independent of composite scores or tier placement.",
+      "source": "Author’s AI-SNF Structural Class System",
+      "note": "Structural class attribution is non-computable, non-ordinal, and cannot be mechanically inferred from AI-SNI values."
+    },
+    {
+      "number": "Part V Illustrative Example",
+      "title": "Illustrative AI-SNI Calculation and Interpretation",
+      "description": "Provides a synthetic worked example showing dimension-level scoring, reference AI-SNI calculation, diagnostic extensions, tier assignment, structural tagging, and structural class attribution without making empirical claims about a real-world node.",
+      "source": "Author’s illustrative AI-SNF / AI-SNI calculation"
+    },
+    {
+      "number": "Section 20.5",
+      "title": "Core AI-Strategic Node Typologies and Typology Assignment Overview",
+      "description": "Summarizes Type I Concentrated Leverage with Weak Correction, Type II Concentrated Leverage with Institutional Buffering, Type III Diffuse Leverage with Participation Skew, and Type IV Peripheral or Latent Nodes.",
+      "source": "Author’s AI-SNF international benchmarking and node typology framework"
+    },
+    {
+      "number": "Appendix A",
+      "title": "Uncertainty and Confidence Treatment",
+      "description": "Defines evidence grading, confidence propagation, uncertainty categories, interpretive constraints, and confidence override logic for AI-SNF and AI-SNI outputs.",
+      "source": "Author’s AI-SNF uncertainty-treatment protocol"
+    },
+    {
+      "number": "Appendix B",
+      "title": "Typology Assignment Protocol",
+      "description": "Provides a structured protocol for assigning typology labels as diagnostic, non-prescriptive, non-ranking categories.",
+      "source": "Author’s AI-SNF typology assignment protocol"
+    },
+    {
+      "number": "Appendix C",
+      "title": "AI-SNF / AI-SNI Reporting Template",
+      "description": "Provides a reporting template covering node identification, D1–D5 dimension profiles, evidence grades, confidence levels, AI-SNI composite output, diagnostic extensions, exposure tier, structural typology, structural class attribution, interpretation summary, and disclosure constraints.",
+      "source": "Author’s AI-SNF / AI-SNI reporting template"
+    },
+    {
+      "number": "Appendix D",
+      "title": "Abbreviation and Glossary",
+      "description": "Defines key AI-SNF and AI-SNI abbreviations and glossary terms used across the framework.",
+      "source": "Author’s AI-SNF terminology standard"
+    }
+  ],
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "created_date": "2026-04-30",
+    "last_updated": "2026-05-01"
+  },
+  "crossref": {
+    "intended_registration_agency": "",
+    "record_type": "book",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18452803",
+    "crossref_doi_suffix": "epinova.iwb.2026.01",
+    "registration_status": "Not applicable; DOI currently assigned through Zenodo/DataCite"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "Primary DOI is assigned through Zenodo/DataCite. Datasets, code, empirical node scoring files, and supplementary AI-SNF / AI-SNI materials may be assigned separate DataCite-based DOIs in future releases."
   }
 }

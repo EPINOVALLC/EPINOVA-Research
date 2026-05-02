@@ -1,29 +1,388 @@
 {
-  "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
+  "epinova_id": "EPINOVA-PB-2026-008",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-008",
+  "title": "Escalation Risk in Protracted Missile Exchanges",
+  "subtitle": "Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
   "title_normalized": "escalation risk in protracted missile exchanges: assessing low-probability, high-impact dynamics in the u.s.-israel-iran conflict based on irgc operation true promise 4 (waves 1-13)",
-  "date": "2026-03-03",
-  "doi": "10.5281/zenodo.18843799",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "207209462",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-03",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18843800",
+  "previous_doi": "10.5281/zenodo.18843799",
+  "landing_page": "https://doi.org/10.5281/zenodo.18843800",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18843800",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18843799",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "207209462",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–08",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Escalation Risk in Protracted Missile Exchanges.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Escalation Risk in Protracted Missile Exchanges",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses escalation risk in protracted missile exchanges during the U.S.–Israel–Iran conflict, using IRGC Operation True Promise 4 (Waves 1–13) as the empirical frame. It argues that escalation risk is driven less by average strike performance than by cumulative probability dynamics and the possibility of a single low-probability, high-impact strike against a critical node.",
+  "abstract": "This policy brief evaluates low-probability, high-impact escalation dynamics in protracted missile exchanges based on open-source reporting and cross-validated indicators concerning IRGC Operation True Promise 4 (Waves 1–13). It finds that estimated interception rates remain relatively high, no independently verified systemic military degradation has occurred among principal actors as of Wave 13, and the conflict remains below confirmed strategic escalation thresholds. However, prolonged launch tempo, interceptor consumption, and critical-node exposure can generate cumulative probability dynamics that narrow the margin of stability over time. The brief combines operational assessment, bounded cost modeling, critical-node escalation scenarios, and threshold indicators to clarify why apparently contained exchanges may still carry nonlinear escalation risk.",
+  "keywords": [
+    "Escalation risk",
+    "Missile exchanges",
+    "Protracted conflict",
+    "Low-probability high-impact risk",
+    "Critical node strike",
+    "IRGC Operation True Promise 4",
+    "Waves 1–13",
+    "U.S.–Israel–Iran conflict",
+    "Interceptor consumption",
+    "Interception effectiveness",
+    "Cumulative probability dynamics",
+    "Strategic escalation threshold",
+    "Operational stress",
+    "Missile defense",
+    "High-value nodes",
+    "Command and control",
+    "MCCM",
+    "Middle East Conflict Cost Monitor",
+    "Fiscal exposure",
+    "Scenario modeling",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Security studies",
+    "Missile defense",
+    "Escalation dynamics",
+    "Middle East conflict",
+    "Conflict monitoring",
+    "Operational analysis",
+    "Risk governance",
+    "Defense policy",
+    "Military strategy",
+    "Crisis management",
+    "Systems analysis",
+    "Policy analysis",
+    "International security",
+    "Geopolitical risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-03",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-03",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-03",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-03",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Escalation Risk in Protracted Missile Exchanges.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-08/Escalation%20Risk%20in%20Protracted%20Missile%20Exchanges.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-08",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-08",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-008",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Critical-Node Escalation and Bounded Conflict-Cost Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on open-source reporting, cross-validated indicators concerning IRGC Operation True Promise 4 (Waves 1–13), and bounded scenario modeling using the Middle East Conflict Cost Monitor (MCCM).",
+    "case_context": "U.S.–Israel–Iran conflict, IRGC Operation True Promise 4, sustained missile and UAV exchanges, interceptor consumption, and high-value-node exposure.",
+    "core_problem": "Aggregate launch numbers and daily damage totals can understate escalation risk in protracted missile exchanges because a single successful strike against a high-value node may generate disproportionate political, military, or alliance consequences.",
+    "estimation_scope": [
+      "Estimated interception success rate and breakthrough rate using open-source reporting and observed outcomes.",
+      "Operational stress assessment across tactical, operational, and strategic levels.",
+      "Daily incremental cost estimation for Day 1 through Day 3 under low, mid, and high scenario assumptions.",
+      "Cumulative fiscal exposure comparison between U.S. & Allies and Iran.",
+      "Scenario assessment for critical-node strike pathways and escalation thresholds."
+    ],
+    "cost_modeling_basis": [
+      "Open-source reporting of strike volume.",
+      "Estimated interceptor expenditure.",
+      "Known unit cost approximations.",
+      "Observed deployment milestones."
+    ],
+    "scope_limitations": [
+      "Figures exclude macroeconomic spillover effects labeled as Global Shock.",
+      "Figures focus on direct operational and material costs.",
+      "All estimates remain subject to reporting uncertainty, partial battlefield visibility, and ongoing verification.",
+      "The analysis is intended for policy discussion and risk assessment rather than econometric precision or operational planning."
+    ],
+    "central_claims": [
+      "Escalation risk in protracted missile exchanges is driven less by average strike performance than by the cumulative probability of a single high-impact strike against a critical node.",
+      "As of Wave 13, interception rates appear to remain relatively high and no independently verified systemic military degradation has been confirmed.",
+      "Operational stress is evident through interceptor consumption and elevated tempo, but systemic breakdown has not been observed.",
+      "Time functions as a destabilizing variable when sustained launch volume, defensive inventory depletion, and critical-node exposure persist over several weeks.",
+      "The conflict remains below confirmed strategic escalation thresholds, but the margin of stability may narrow if operational tempo and defensive consumption remain elevated."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Tactical Defensive Performance",
+        "description": "Assesses interception effectiveness, breakthrough rates, and confirmed strike outcomes across missile and UAV categories."
+      },
+      {
+        "name": "Operational Stress and Defensive Consumption",
+        "description": "Evaluates interceptor consumption, operational tempo, redundancy, and signs of defensive system stress or collapse."
+      },
+      {
+        "name": "Strategic Threshold Monitoring",
+        "description": "Tracks whether key escalation thresholds such as strategic asset loss, mass-casualty events, expanded war aims, or alliance rupture have been crossed."
+      },
+      {
+        "name": "Critical-Node Strike Pathways",
+        "description": "Distinguishes escalation effects associated with major military facilities, leadership or symbolic targets, and strategic asset losses."
+      },
+      {
+        "name": "Cumulative Probability Dynamics",
+        "description": "Assesses how prolonged exchanges can increase the probability of a high-impact strike even when average breakthrough rates remain constant."
+      },
+      {
+        "name": "Bounded Cost Scenario Analysis",
+        "description": "Uses low, mid, and high scenario assumptions to estimate daily incremental and cumulative fiscal exposure."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Tactical Level",
+      "code": "TACT",
+      "description": "Estimated interception success, breakthrough rate, confirmed effective-strike outcomes, and evidence of military infrastructure degradation."
+    },
+    {
+      "name": "Operational Level",
+      "code": "OPER",
+      "description": "Interceptor consumption rates, operational tempo, defensive system stress, redundancy, and signs of operational paralysis."
+    },
+    {
+      "name": "Strategic Level",
+      "code": "STRAT",
+      "description": "Presence or absence of expanded war aims, large-scale mobilization, alliance rupture, mass-casualty events, or loss of strategic military assets."
+    },
+    {
+      "name": "Daily Cost Escalation Pattern",
+      "code": "DCEP",
+      "description": "Day-by-day incremental direct operational and material costs under low, mid, and high scenario assumptions."
+    },
+    {
+      "name": "Cumulative Cost Dynamics",
+      "code": "CCD",
+      "description": "Aggregate fiscal exposure and scenario divergence across U.S. & Allies and Iran under short-duration assumptions."
+    },
+    {
+      "name": "Critical-Node Escalation Pathways",
+      "code": "CNEP",
+      "description": "Escalation consequences associated with successful strikes against major military facilities, leadership or symbolic targets, and strategic assets."
+    },
+    {
+      "name": "Time Variable",
+      "code": "TIME",
+      "description": "Cumulative probability effect generated by sustained launch volume, elevated operational tempo, declining defensive inventories, and extended conflict duration."
+    },
+    {
+      "name": "Escalation Threshold Indicators",
+      "code": "ETI",
+      "description": "Observable developments that would indicate rising systemic escalation risk, including declining interception effectiveness, strategic asset destruction, high-casualty civilian strikes, or expanded war aims."
+    }
+  ],
+  "key_findings": [
+    "Estimated interception rates appear to remain relatively high, approximately 75–90 percent, limiting aggregate confirmed damage.",
+    "Estimated breakthrough rates are approximately 10–20 percent, while confirmed effective-strike rates remain lower due to accuracy variance and target dispersion.",
+    "There is no independently verified evidence of systemic military degradation among principal actors as of Wave 13.",
+    "Escalation risk appears to be driven less by average strike performance than by the probability of a single high-impact strike against a critical node.",
+    "Operational stress is evident through elevated interceptor consumption, sustained high tempo, and increased pressure on defensive systems.",
+    "Defensive redundancy appears intact, and no confirmed defensive system collapse or sustained operational paralysis has been observed as of Wave 13.",
+    "No confirmed strategic escalation threshold has been crossed as of Wave 13.",
+    "Daily incremental cost data indicate a stepwise escalation pattern rather than smooth linear growth across Day 1 to Day 3.",
+    "Under mid-range assumptions, U.S. & Allies cumulative cost reaches approximately $11–12 billion by Day 3, while Iran’s cumulative cost reaches approximately $5 billion by Day 3.",
+    "If launch tempo and defensive consumption persist over several weeks, cumulative probability dynamics may increase systemic escalation risk.",
+    "The conflict remains operationally contained within observed escalation boundaries, but the margin of stability may narrow over time."
+  ],
+  "policy_recommendations": [
+    "For the United States and Israel, reinforce redundancy in high-value military and political nodes.",
+    "For the United States and Israel, sustain interceptor production and resupply capacity.",
+    "For the United States and Israel, avoid symbolic concentration of leadership exposure.",
+    "For the United States and Israel, preserve diplomatic signaling channels to manage escalation pathways.",
+    "For the United States and Israel, prioritize distributed command-and-control resilience.",
+    "For Iran, recognize that continued saturation strategies may increase cumulative escalation probability.",
+    "For Iran, account for the risk that a single high-impact success could trigger disproportionate retaliation.",
+    "For regional states, harden energy and civilian infrastructure nodes.",
+    "For regional states, maintain crisis communication channels to prevent misinterpretation.",
+    "For regional states, enhance civil defense preparedness and avoid reactive escalation driven by incomplete or unverified information."
+  ],
+  "related_works": [
+    {
+      "title": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026)",
+      "identifier": "10.5281/zenodo.18654021",
+      "relation": "Related EPINOVA policy brief using event-driven fiscal estimation in the Middle East conflict context",
+      "type": "DOI"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Later related EPINOVA policy brief formalizing the MCCM framework for systemic escalation assessment",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief extending battlefield assessment and risk analysis after the initial exchange period",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    {
+      "citation": "Open-source reporting and cross-validated indicators concerning IRGC Operation True Promise 4 (Waves 1–13).",
+      "type": "Source basis described in the policy brief",
+      "url": ""
+    },
+    {
+      "citation": "Middle East Conflict Cost Monitor (MCCM), Day 1–Day 3 low–mid–high scenario estimates.",
+      "type": "Analytical model and figure source described in the policy brief",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "EPINOVA (2026), Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13), Policy Brief No. EPINOVA–2026–PB–08, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18843800. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Escalation risk in protracted missile exchanges: Assessing low-probability, high-impact dynamics in the U.S.–Israel–Iran conflict based on IRGC Operation True Promise 4 (Waves 1–13) (Policy Brief No. EPINOVA–2026–PB–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18843800. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), Escalation Risk in Protracted Missile Exchanges, EPINOVA–2026–PB–08.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-03",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Daily Incremental Cost (Day 1–Day 3)",
+      "description": "Three-panel figure showing estimated incremental daily cost ranges for the 2026 U.S. & Allies–Iran conflict cost monitor across February 28, March 1, and March 2, 2026.",
+      "source": "EPINOVA Middle East Conflict Cost Monitor (MCCM), powered by AIPAMS",
+      "note": "The figure illustrates event-driven fiscal exposure under low–mid–high scenario assumptions and excludes macroeconomic spillover effects."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Cumulative Cost Trajectory (Low–Mid–High Scenario)",
+      "description": "Scenario-bounded cumulative cost comparison for U.S. & Allies and Iran by Day 3, showing widening low–high uncertainty bounds and mid-range cumulative exposure.",
+      "source": "EPINOVA Middle East Conflict Cost Monitor (MCCM), powered by AIPAMS",
+      "note": "The figure focuses on direct operational and material costs; values remain subject to revision as additional verification becomes available."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "The PDF figures state that the cost-monitor visuals were powered by AIPAMS; no standalone software artifact is specified."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Escalation Risk in Protracted Missile Exchanges.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual figure review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key findings, operational assessment, cost figures, methodological note, escalation scenarios, threshold indicators, policy considerations, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18843799, ORCID put-code 207209462, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18843800 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18843800",
+    "crossref_doi_suffix": "epinova.pb.2026.008",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18843800",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207209462",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-03"
   }
 }

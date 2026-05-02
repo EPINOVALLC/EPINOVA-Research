@@ -1,29 +1,351 @@
 {
-  "title": "Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States",
-  "title_normalized": "why the south? institutional friction and the spatial reorganization of data center infrastructure in the united states",
-  "date": "2026-02-09",
-  "doi": "10.5281/zenodo.18572132",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-D-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "205210072",
-  "source": "ORCID Public API",
-  "files": [
+  "publication_series": "EPINOVA Working Paper D-Series",
+  "series_code": "WP-D",
+  "series_number": "EPINOVA–WP–D–2026–02",
+  "title": "Why the South?",
+  "subtitle": "Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States",
+  "title_normalized": "why the south? institutional friction and the spatial reorganization of data center infrastructure in the united states",
+  "publication_date": "2026-02-09",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
     {
-      "label": "Download PDF",
-      "filename": "Why the South.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302/Why%20the%20South.pdf",
-      "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302",
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18572133",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18572133",
+  "official_page": "https://doi.org/10.5281/zenodo.18572133",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.18572133",
+      "scheme": "DOI",
+      "description": "Zenodo DOI landing page"
+    },
+    {
+      "identifier": "EPINOVA–WP–D–2026–02",
+      "scheme": "Local identifier",
+      "description": "EPINOVA Working Paper D-Series publication number"
+    }
+  ],
+  "description": "This working paper explains why recent large-scale data center infrastructure expansion in the United States has increasingly clustered in the American South and selected interior regions. It advances a structural explanation centered on institutional feasibility, introducing a structural belt model and a three-axis framework of local institutional friction, utility buildability, and network interconnection to explain corridor-based hyperscale growth and its governance implications.",
+  "abstract": "Despite common assumptions that large-scale data center infrastructure should concentrate in coastal technology hubs, low-tax jurisdictions, or energy-abundant regions, recent expansion in the United States follows a different spatial pattern. In the AI and hyperscale era, new large-scale development has increasingly clustered in the American South and selected interior regions. This paper addresses this puzzle by advancing a structural explanation centered on institutional feasibility rather than factor endowments alone. The paper introduces a structural belt model and a three-axis framework—local institutional friction, utility buildability, and network interconnection—to explain why certain regions function as low-resistance infrastructure zones. It shows that data center expansion follows a logic of friction minimization across governance, permitting, and power delivery systems, producing contiguous corridors of growth rather than isolated point-optimal sites. This spatial reorganization carries important governance implications. Rapid infrastructure lock-in in low-friction regions can outpace the adaptation of regulatory and political oversight, generating infrastructure–governance asymmetries. The findings contribute to debates on AI compute governance, infrastructure planning, and the political economy of large-scale digital systems.",
+  "keywords": [
+    "Infrastructure friction",
+    "Data centers",
+    "Institutional feasibility",
+    "Governance",
+    "Political economy",
+    "Artificial intelligence",
+    "Infrastructure lock-in",
+    "Spatial reorganization",
+    "hyperscale infrastructure",
+    "AI compute governance",
+    "utility buildability",
+    "network interconnection",
+    "local institutional friction",
+    "Infrastructure Friction Boundary",
+    "Growth Attractiveness Index",
+    "Infrastructure–Governance Asymmetry Pressure Index",
+    "American South",
+    "Southeast United States",
+    "subnational governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence governance",
+    "Data center infrastructure",
+    "Infrastructure governance",
+    "Political economy",
+    "Urban and regional planning",
+    "Energy policy",
+    "Utility regulation",
+    "Technology governance",
+    "Subnational governance",
+    "Spatial analysis",
+    "Public policy",
+    "Institutional design",
+    "Infrastructure lock-in",
+    "AI compute infrastructure"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-09",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-02-09",
+      "date_type": "Available"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved unless otherwise stated",
+    "url": ""
+  },
+  "files": [
+    {
+      "filename": "Why the South.pdf",
+      "description": "Primary PDF file for EPINOVA Working Paper D–2026–02",
+      "format": "application/pdf",
+      "size_bytes": 645826,
+      "pages": 16,
+      "language": "en",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302/Why%20the%20South.pdf",
+      "label": "Download PDF",
+      "content_type": "application/pdf"
+    }
+  ],
+  "series_information": {
+    "series_name": "EPINOVA Working Paper D-Series",
+    "series_code": "WP-D",
+    "series_scope": "WP-D examines governance mechanisms and institutional design in AI-mediated systems, focusing on how infrastructure, authority, and decision processes generate lock-in, coordination burden, and failure risk and how such risks can be structurally contained.",
+    "publication_number": "EPINOVA–WP–D–2026–02"
+  },
+  "methodology": {
+    "approach": "Conceptual and comparative structural analysis using a three-axis feasibility framework and structural belt model.",
+    "core_frameworks": [
+      "Structural belt model of data center expansion",
+      "Three-axis feasibility framework",
+      "Growth Attractiveness Index (GAI)",
+      "Infrastructure–Governance Asymmetry Pressure Index (IGAP)",
+      "Infrastructure Friction Boundary (IFB)",
+      "Phase-sensitive dynamic coefficient system"
+    ],
+    "analytical_axes": [
+      {
+        "code": "A",
+        "name": "Local Institutional Friction",
+        "description": "Captures zoning regimes, permitting procedures, litigation risk, and politicization of land-use decisions. Higher values indicate greater institutional resistance or uncertainty."
+      },
+      {
+        "code": "B",
+        "name": "Utility Buildability",
+        "description": "Measures the capacity of utilities and regulators to deliver large increments of power on predictable timelines, including grid capacity, interconnection procedures, transmission, and substation expansion."
+      },
+      {
+        "code": "C",
+        "name": "Network Interconnection",
+        "description": "Captures long-haul fiber access, carrier diversity, internet exchange access, redundancy, and scalable replication of network quality across sites."
+      }
+    ],
+    "formulas": [
+      {
+        "name": "Growth Attractiveness Index, static form",
+        "formula": "GAI = [(0.45 × B + 0.35 × C + 0.20 × (5 − A)) / 5] × 100",
+        "description": "Measures baseline attractiveness for data center growth using utility buildability, network interconnection, and inverse local institutional friction."
+      },
+      {
+        "name": "Dynamic Growth Attractiveness Index",
+        "formula": "D-GAI_t = [(α_t × B_t + β_t × C_t + γ_t × (5 − A_t)) / 5] × 100, with α_t + β_t + γ_t = 1",
+        "description": "Generalizes the static GAI with phase-sensitive coefficients reflecting changing constraint dominance across development phases."
+      },
+      {
+        "name": "Infrastructure–Governance Asymmetry Pressure Index, static form",
+        "formula": "IGAP = 100 × [0.50 × (5 − A)^(−1) + 0.30 × B + 0.20 × C]",
+        "description": "Measures the degree to which infrastructure expansion outpaces institutional mediation capacity."
+      },
+      {
+        "name": "Dynamic Infrastructure–Governance Asymmetry Pressure Index",
+        "formula": "D-IGAP_t = 100 × [δ_t × (5 − A_t)^(−1) + ε_t × B_t + ζ_t × C_t], with δ_t + ε_t + ζ_t = 1",
+        "description": "Represents how governance lag, scale acceleration, and network lock-in coefficients alter asymmetry pressure over time."
+      },
+      {
+        "name": "Infrastructure Friction Boundary",
+        "formula": "α_t × B_i + β_t × C_i + γ_t × (5 − A_i) = Θ_t",
+        "description": "Defines the dynamic feasibility threshold separating low-friction structural belts from structurally constrained zones."
+      }
+    ],
+    "case_logic": "The paper uses stylized comparative state-level illustrations, including Northern Virginia, Georgia/Atlanta, Texas, and California, to validate the structural feasibility framework rather than to conduct large-N econometric estimation."
+  },
+  "dimensions": [
+    {
+      "code": "Axis A",
+      "name": "Local Institutional Friction",
+      "role": "Governance and permitting constraint",
+      "interpretation": "Lower friction enables faster deployment, but prolonged low friction can generate infrastructure–governance asymmetry as lock-in outpaces oversight."
+    },
+    {
+      "code": "Axis B",
+      "name": "Utility Buildability",
+      "role": "Power delivery and grid expansion capacity",
+      "interpretation": "Utility buildability matters more than nominal energy abundance because hyperscale deployment requires large loads to be delivered on predictable timelines."
+    },
+    {
+      "code": "Axis C",
+      "name": "Network Interconnection",
+      "role": "Connectivity and replicability condition",
+      "interpretation": "Robust and scalable interconnection supports corridor-based expansion when comparable network quality can be replicated across sites."
+    }
+  ],
+  "key_findings": [
+    "Recent U.S. data center expansion is better explained by institutional feasibility than by coastal agglomeration, energy abundance, tax incentives, or single-factor optimization alone.",
+    "Large-scale data centers should be treated as lock-in infrastructure because they involve sunk capital, long time horizons, governance dependency, and difficult reversibility.",
+    "The American South and Southeast function as a low-friction structural belt because local institutional friction, utility buildability, and network interconnection align across contiguous areas.",
+    "Infrastructure expansion follows corridors of feasibility rather than isolated point-optimal sites because grids, fiber backbones, and logistics systems are spatially continuous.",
+    "Low-friction zones enable rapid deployment but also generate infrastructure–governance asymmetries when build-out outpaces regulatory, fiscal, environmental, and democratic oversight capacity.",
+    "Governance friction can serve as a temporal alignment mechanism rather than merely an obstruction, helping synchronize infrastructure expansion with public accountability and cumulative impact assessment.",
+    "AI compute governance increasingly depends on subnational institutional capacity because land use, power delivery, and infrastructure siting decisions occur where compute physically lands."
+  ],
+  "related_works": [
+    {
+      "citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal. EPINOVA Working Paper No. EPINOVA–WP–D–2026–01.",
+      "relationship": "Related EPINOVA Working Paper D-Series analysis of AI infrastructure governance, local approval risk, and infrastructure lock-in."
+    }
+  ],
+  "references": [
+    "Ansell, C., Trondal, J., & Øgård, M. (2017). Turbulence and new institutionalism: Governance in times of turbulence. Governance, 30(1), 3–22. https://doi.org/10.1111/gove.12217",
+    "Armond, C., & Manning, S. (2023). Governing hyperscale data centers: Energy, land, and regulatory politics. Energy Research & Social Science, 98, 102987. https://doi.org/10.1016/j.erss.2023.102987",
+    "Crawford, K. (2021). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.",
+    "Graham, S., & Marvin, S. (2001). Splintering urbanism: Networked infrastructures, technological mobilities and the urban condition. Routledge.",
+    "Henderson, J., Dicken, P., Hess, M., Coe, N., & Yeung, H. W.-C. (2020). Global production networks and the globalisation of data centres. Geoforum, 108, 1–13. https://doi.org/10.1016/j.geoforum.2019.10.012",
+    "International Energy Agency. (2023). Data centres and data transmission networks. IEA. https://www.iea.org/reports/data-centres-and-data-transmission-networks",
+    "Pierson, P. (2000). Increasing returns, path dependence, and the study of politics. American Political Science Review, 94(2), 251–267. https://doi.org/10.2307/2586011",
+    "Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817–830. https://doi.org/10.1016/S0301-4215(00)00070-7"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Why the South? Institutional friction and the spatial reorganization of data center infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Why the South?, EPINOVA Working Paper D–2026–02.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "series": "EPINOVA Working Paper D-Series",
+    "publication_number": "EPINOVA–WP–D–2026–02",
+    "location": "United States",
+    "date": "February 09, 2026"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Three-Axis Infrastructure Friction Boundary",
+      "page": 9,
+      "description": "Conceptual illustration of the boundary separating low-friction structural belts from structurally constrained zones based on institutional friction (A), utility buildability (B), and network interconnection (C). Points indicate illustrative jurisdictional positions rather than empirical state-level observations. The boundary is dynamic and may shift as governance and infrastructure conditions evolve.",
+      "source": "Author’s conceptual visualization based on the three-axis feasibility framework.",
+      "note": "Conceptual illustration; not a regression-derived or empirical state-level frontier."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Projecting the Infrastructure Friction Boundary onto the United States",
+      "page": 12,
+      "description": "Stylized projection of the Infrastructure Friction Boundary onto U.S. geographic space. The apparent north–south orientation reflects the spatial manifestation of underlying institutional, utility, and network feasibility gradients rather than a fixed geographic, political, or historical dividing line.",
+      "source": "Author’s stylized projection based on the Infrastructure Friction Boundary model.",
+      "note": "Interpretive rather than inferential visualization."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Illustrative Phase-Specific Weighting Regimes",
+      "page": 7,
+      "description": "Illustrative coefficient regimes for early expansion, rapid scaling, mature saturation, and post-backlash phases. The table shows how the relative weights of utility buildability, network interconnection, and governance friction shift as the dominant constraint changes.",
+      "columns": [
+        "Development Phase",
+        "α_t",
+        "β_t",
+        "γ_t",
+        "Dominant Constraint"
+      ],
+      "rows": [
+        [
+          "Early Expansion",
+          "0.50",
+          "0.30",
+          "0.20",
+          "Power availability"
+        ],
+        [
+          "Rapid Scaling",
+          "0.45",
+          "0.35",
+          "0.20",
+          "Power + network"
+        ],
+        [
+          "Mature Saturation",
+          "0.35",
+          "0.30",
+          "0.35",
+          "Governance friction"
+        ],
+        [
+          "Post-Backlash",
+          "0.30",
+          "0.25",
+          "0.45",
+          "Institutional control"
+        ]
+      ],
+      "source": "Author’s framework."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "award": ""
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository": ""
+  },
+  "conference": {},
+  "journal": {},
+  "thesis": {},
+  "disclaimer": "This working paper reflects the author’s analytical views based on publicly available information. It does not represent the official position of any government, organization, or institution.",
   "metadata_source": {
+    "source_file": "Why the South.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Manual metadata extraction from uploaded PDF text and visual figure/table content",
+    "updated_at": "2026-04-30T07:26:41Z",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
-  }
+    "created_date": "2026-02-09",
+    "last_updated": "2026-05-01"
+  },
+  "crossref": {
+    "status": "ready_for_registration_or_update",
+    "type": "posted-content",
+    "subtype": "working_paper",
+    "title": "Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "doi": "10.5281/zenodo.18572133",
+    "publication_date": "2026-02-09",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18572133",
+    "crossref_doi_suffix": "epinova.wp.d.2026.002",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "resourceType": "Working Paper",
+    "resourceTypeGeneral": "Text",
+    "creator": "Wu, Shaoyuan",
+    "title": "Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publicationYear": "2026",
+    "doi": "10.5281/zenodo.18572133",
+    "subjects": [
+      "Artificial intelligence governance",
+      "Data center infrastructure",
+      "Infrastructure governance",
+      "Institutional feasibility",
+      "Spatial reorganization"
+    ]
+  },
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research"
 }

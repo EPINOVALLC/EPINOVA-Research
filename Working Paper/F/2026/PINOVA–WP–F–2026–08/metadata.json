@@ -1,29 +1,353 @@
 {
-  "title": "Who Loses Control First? Threshold Competition in the 2026 U.S.–Israel–Iran Conflict",
-  "title_normalized": "who loses control first? threshold competition in the 2026 u.s.-israel-iran conflict",
-  "date": "2026-03-19",
-  "doi": "10.5281/zenodo.19118194",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-008",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "209031462",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-008",
+  "title": "Who Loses Control First?",
+  "subtitle": "Threshold Competition in the 2026 U.S.–Israel–Iran Conflict",
+  "title_normalized": "who loses control first? threshold competition in the 2026 u.s.-israel-iran conflict",
+  "publication_date": "2026-03-19",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19118195",
+  "previous_doi": "10.5281/zenodo.19118194",
+  "landing_page": "https://doi.org/10.5281/zenodo.19118195",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–WP–F–2026–08",
+      "scheme": "EPINOVA Working Paper Number",
+      "description": "Working paper number shown in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.19118195",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19118194",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from ORCID-derived metadata; retained for reconciliation"
+    },
+    {
+      "identifier": "209031462",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Who Loses Control First.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Wu (2026), Who Loses Control First?, EPINOVA Working Paper F–2026–08",
+      "scheme": "Short citation",
+      "description": "Short citation shown or implied by the EPINOVA working paper format"
+    }
+  ],
+  "description": "This working paper analyzes the 2026 U.S.–Israel–Iran conflict as a form of threshold competition rather than a conventional contest for decisive military victory. It introduces the loss-of-control threshold (LoCT) as an analytical lens for assessing how cumulative military, fiscal, political, economic, informational, and legitimacy pressures can push actors beyond their capacity to regulate escalation. The paper compares three actor-specific pathways: U.S. fiscal–strategic overextension, Israeli escalation lock-in, and Iran's legitimacy–retaliation loop.",
+  "abstract": "This paper analyzes the 2026 U.S.–Israel–Iran conflict as a form of threshold competition rather than a contest for decisive military victory. It introduces the concept of the loss-of-control threshold (LoCT) to explain how actors lose the ability to regulate escalation under cumulative systemic pressure. The analysis identifies three distinct pathways: U.S. fiscal–strategic overextension, Israeli escalation lock-in, and Iran’s legitimacy–retaliation loop. The paper argues that the key variable in contemporary conflict is not battlefield superiority, but the ability to delay crossing actor-specific thresholds of uncontrollability.",
+  "keywords": [
+    "loss-of-control threshold",
+    "LoCT",
+    "threshold competition",
+    "systemic warfare",
+    "escalation dynamics",
+    "cost-imposition strategy",
+    "network warfare",
+    "U.S.–Israel–Iran conflict",
+    "cross-domain pressure",
+    "strategic resilience",
+    "fiscal–strategic overextension",
+    "escalation lock-in",
+    "legitimacy–retaliation loop",
+    "systemic pressure",
+    "Middle East conflict",
+    "AI-mediated strategic risk",
+    "EPINOVA Working Paper F-Series"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "International Security",
+    "Escalation Dynamics",
+    "Systemic Warfare",
+    "Threshold Competition",
+    "Middle East Conflict",
+    "U.S.–Israel–Iran Conflict",
+    "Network Warfare",
+    "Cost-Imposition Strategy",
+    "Strategic Resilience",
+    "Conflict Analysis",
+    "AI-Mediated Strategic Risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-19",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-19",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Who Loses Control First.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-008",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Loss-of-Control Threshold (LoCT) / Threshold Competition Framework",
+    "method_type": "Conceptual and diagnostic working paper using comparative actor-pathway analysis and synthesis of open-source reporting and prior EPINOVA systemic warfare research.",
+    "analytical_focus": "The paper reframes the 2026 U.S.–Israel–Iran conflict as threshold competition under cumulative systemic pressure, asking which actor loses the capacity to regulate escalation first rather than which actor achieves decisive victory.",
+    "core_concepts": [
+      {
+        "name": "Loss-of-Control Threshold",
+        "code": "LoCT",
+        "description": "The point at which cumulative pressures across military, political, economic, and informational systems exceed an actor's capacity to regulate escalation dynamics."
+      },
+      {
+        "name": "Threshold competition",
+        "description": "A conflict condition in which actors compete to delay crossing actor-specific thresholds of uncontrollability rather than to secure decisive battlefield victory."
+      },
+      {
+        "name": "Systemic pressure",
+        "description": "Nonlinear pressure generated by the interaction of node criticality, cascading effects, temporal persistence, and information amplification."
+      }
+    ],
+    "actor_pathways": [
+      {
+        "actor": "United States",
+        "primary_driver": "Fiscal–strategic overextension",
+        "outcome_logic": "Sustaining global commitments becomes increasingly difficult under fiscal pressure, cross-regional strategic strain, domestic political constraints, and cost-imposition asymmetry.",
+        "threshold_pathway": "Constrained strategic choices between strategic contraction and high-risk escalation."
+      },
+      {
+        "actor": "Israel",
+        "primary_driver": "Escalation lock-in",
+        "outcome_logic": "Escalation generates deterrence, deterrence requires continued escalation, and continued escalation reduces flexibility and increases risk.",
+        "threshold_pathway": "De-escalation weakens deterrence, while continued escalation reduces control."
+      },
+      {
+        "actor": "Iran",
+        "primary_driver": "Legitimacy–retaliation loop",
+        "outcome_logic": "Failure to retaliate weakens domestic and regional credibility, while retaliation increases exposure to further escalation.",
+        "threshold_pathway": "Maintaining deterrence requires continued retaliation, while each response increases the probability of more severe counterstrikes."
+      }
+    ],
+    "analytical_dimensions": [
+      "Military escalation dynamics",
+      "Fiscal and resource sustainability",
+      "Cross-regional strategic strain",
+      "Domestic political legitimacy",
+      "Information amplification",
+      "Alliance and network pressure",
+      "Energy and infrastructure exposure",
+      "Nuclear-adjacent risk thresholds"
+    ],
+    "relationship_to_prior_frameworks": [
+      {
+        "framework": "Systemic Warfare in the Networked Age",
+        "relationship": "The LoCT framework extends systemic warfare logic by identifying actor-specific tipping points under cumulative pressure."
+      },
+      {
+        "framework": "Industrial War and Network War",
+        "relationship": "The paper uses the vulnerability of globally deployed military networks and cost-imposition dynamics as a basis for analyzing U.S. overextension risk."
+      },
+      {
+        "framework": "Systemic Pressure Index",
+        "relationship": "LoCT is conceptually aligned with SPI-style nonlinear accumulation of systemic stress."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "U.S. Fiscal–Strategic Overextension",
+      "code": "US-LoCT",
+      "description": "Risk pathway in which fiscal burden, global commitments, cross-regional force allocation, domestic legitimacy, and cost-imposition asymmetry narrow U.S. strategic options."
+    },
+    {
+      "name": "Israeli Escalation Lock-In",
+      "code": "Israel-LoCT",
+      "description": "Risk pathway in which high-intensity operations raise the baseline of escalation and make de-escalation increasingly costly."
+    },
+    {
+      "name": "Iranian Legitimacy–Retaliation Loop",
+      "code": "Iran-LoCT",
+      "description": "Risk pathway in which Iran faces pressure to retaliate to preserve credibility while each retaliation increases exposure to counter-escalation."
+    },
+    {
+      "name": "Systemic Pressure",
+      "code": "SPI-linked pressure",
+      "description": "Cumulative pressure across military, political, economic, and informational systems that can produce nonlinear loss-of-control effects."
+    },
+    {
+      "name": "Threshold Competition",
+      "code": "LoCT competition",
+      "description": "Strategic interaction in which the decisive variable is each actor's capacity to delay crossing thresholds of uncontrollability."
+    }
+  ],
+  "key_findings": [
+    "The 2026 U.S.–Israel–Iran conflict is better understood as threshold competition than as a conventional contest for decisive military victory.",
+    "The loss-of-control threshold (LoCT) captures the point at which cumulative systemic pressure exceeds an actor's capacity to regulate escalation dynamics.",
+    "The United States faces a pathway of fiscal–strategic overextension driven by war funding burdens, cross-regional strategic strain, domestic political constraints, and cost-imposition asymmetry.",
+    "Israel faces escalation lock-in, where deterrence depends on continued escalation but continued escalation reduces maneuver space and control.",
+    "Iran faces a legitimacy–retaliation loop, where failure to respond damages credibility while retaliation increases exposure to further escalation.",
+    "The decisive variable in contemporary systemic warfare is not battlefield superiority alone, but the capacity to absorb and manage cumulative pressure without crossing actor-specific thresholds of uncontrollability.",
+    "The actor that loses control first is the actor that loses, even absent a conventional battlefield defeat."
+  ],
+  "related_works": [
+    {
+      "title": "Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.18972327",
+      "relation": "Related EPINOVA Working Paper F-Series work on network warfare and operational logic in the same conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure",
+      "identifier": "10.5281/zenodo.19078936",
+      "relation": "Related EPINOVA Working Paper F-Series work defining systemic warfare and the SPI logic used in this paper",
+      "type": "DOI"
+    },
+    {
+      "title": "Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict",
+      "identifier": "10.5281/zenodo.19027188",
+      "relation": "Related EPINOVA policy brief on platform nodes and narrative competition referenced in the paper",
+      "type": "DOI"
+    },
+    {
+      "title": "Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict?",
+      "identifier": "10.5281/zenodo.19104090",
+      "relation": "Related EPINOVA policy brief on distributed command and post-nodal warfare referenced in the paper",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Associated Press. (2026, March 17). Iran, Iraq, U.S., Israel tensions escalate amid regional conflict. https://apnews.com/article/iran-iraq-us-israel-trump-march-17-2026-35d15d7cbcfa65fd7d180c28d38e7f31",
+    "Biddle, S. (2004). Military power: Explaining victory and defeat in modern battle. Princeton University Press.",
+    "Brands, H. (2022). The twilight struggle: What the Cold War teaches us about great-power rivalry today. Yale University Press.",
+    "Jervis, R. (1976). Perception and misperception in international politics. Princeton University Press.",
+    "Kahn, H. (1965). On escalation: Metaphors and scenarios. Praeger.",
+    "Reuters. (2026a, March 18). Pentagon seeks more than $200 billion budget request for Iran war. https://www.reuters.com/world/us/pentagon-seeks-more-than-200-billion-budget-request-iran-war-washington-post-2026-03-18/",
+    "Reuters. (2026b, March 18). U.S. weighs military reinforcements as Iran war enters possible new phase. https://www.reuters.com/world/middle-east/us-weighs-military-reinforcements-iran-war-enters-possible-new-phase-2026-03-18/",
+    "Reuters. (2026c, March 17). Trump criticises allies over Hormuz request amid Iran-Israel tensions. https://www.reuters.com/world/china/trump-criticises-allies-over-rejection-hormuz-request-iran-israel-trade-2026-03-17/",
+    "Reuters. (2026d, March 18). Israel kills Iranian security chief Ali Larijani in airstrike. https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/",
+    "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
+    "Tabatabai, A. M. (2020). No confrontation: Iran’s national security strategy. Oxford University Press.",
+    "The Guardian. (2026, March 18). Trump, Iran war, and domestic political tensions in the U.S. https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
+    "Wu, S. (2026a). Industrial War and Network War: Operational logics in the Russia–Ukraine War and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026b). Systemic Warfare in the Networked Age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026c). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188",
+    "Wu, S. (2026d). Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict? (Policy Brief No. EPINOVA–2026–PB–14). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19104090"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Who Loses Control First?, EPINOVA Working Paper F–2026–08.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-19",
+    "pagination": "5 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Comparative drivers and escalation dynamics across the United States, Israel, and Iran",
+      "description": "Summarizes actor-specific pathways to loss of control: U.S. fiscal–strategic overextension, Israeli escalation lock-in, and Iran's legitimacy–retaliation loop.",
+      "source": "Author's analytical synthesis based on the LoCT threshold competition framework",
+      "note": "The table is conceptual and diagnostic rather than a quantitative scoring model."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions. It does not constitute policy recommendations, predictive assessments, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "Who Loses Control First.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, Table 1, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.19118194, ORCID put-code 209031462, and GitHub repository information. PDF recommended citation supplied DOI 10.5281/zenodo.19118195, which is used as the primary DOI in this record."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. PDF recommended citation DOI is used as the primary DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19118195",
+    "crossref_doi_suffix": "epinova.wp.f.2026.008",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19118195",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI shown in the PDF recommended citation. Earlier ORCID-derived DOI 10.5281/zenodo.19118194 is retained as previous_doi / alternate identifier for reconciliation."
+  },
+  "orcid": {
+    "put_code": "209031462",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-19"
   }
 }

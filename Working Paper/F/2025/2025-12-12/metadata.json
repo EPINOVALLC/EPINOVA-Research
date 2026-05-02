@@ -1,29 +1,307 @@
 {
-  "title": "Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA",
-  "title_normalized": "strategic discontinuity in ai-enabled warfare: machine-speed vs human-speed ooda",
-  "date": "2025-12-12",
-  "doi": "10.5281/zenodo.18089642",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2025-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201017495",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper",
+  "series_code": "WP-F",
+  "series_number": "2025-003",
+  "title": "Strategic Discontinuity in AI-Enabled Warfare",
+  "subtitle": "Machine-Speed vs Human-Speed OODA",
+  "title_full": "Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA",
+  "title_normalized": "strategic discontinuity in ai-enabled warfare: machine-speed vs human-speed ooda",
+  "publication_date": "2025-12-12",
+  "date": "2025-12-12",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "author": "Wu, Shaoyuan",
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18089642",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18089642",
+  "official_page": "https://doi.org/10.5281/zenodo.18089642",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18089642",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI from early ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201017495",
+      "scheme": "ORCID put-code",
+      "description": "ORCID public API put-code from early metadata record"
+    },
+    {
+      "identifier": "Strategic Discontinuity in AI-Enabled Warfare.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "2025-12-12",
+      "scheme": "Publication date",
+      "description": "Date shown in the PDF title page and early metadata record"
+    }
+  ],
+  "description": "This working paper develops the concept of strategic discontinuity in AI-enabled warfare, defined as the structural mismatch between machine-speed OODA cycles and human-speed legal, doctrinal, and institutional oversight. It analyzes how autonomous weapon systems, algorithmic command-and-control, missile-defense automation, kill-chain acceleration, and swarm-based autonomy challenge meaningful human control, international humanitarian law, command responsibility, and strategic stability.",
+  "abstract": "Artificial intelligence (AI), autonomous weapon systems, and automated command-and-control architectures are accelerating the tempo of warfare toward machine-speed OODA cycles measured in milliseconds. These developments challenge the foundational assumption of international humanitarian law (IHL) and regulatory instruments such as DoD Directive 3000.09 that human judgment can feasibly govern the use of force. The resulting strategic discontinuity arises when military effectiveness requires machine-speed autonomy while legal and institutional systems remain anchored in human-speed oversight and accountability. This article analyzes the structural nature of this discontinuity across temporal, doctrinal, organizational, and stability dimensions; demonstrates its real-world manifestations in missile-defense automation, algorithmically accelerated kill chains, and swarm-based distributed autonomy; and develops a governance framework for mitigating, though not resolving, the gap between human cognition and machine-tempo operations. The framework integrates risk-tiered autonomy, layered oversight architectures, machine-readable rules of engagement, auditability and reversibility requirements, and international confidence-building measures. Together, these pathways outline how meaningful human control and strategic stability may be preserved as warfare increasingly exceeds the temporal limits of human decision-making.",
+  "keywords": [
+    "AI-enabled warfare",
+    "Strategic discontinuity",
+    "Machine-speed OODA",
+    "Human-speed OODA",
+    "Autonomous weapon systems",
+    "Meaningful human control",
+    "International humanitarian law",
+    "DoD Directive 3000.09",
+    "Algorithmic warfare",
+    "Autonomous kill chains",
+    "Swarm autonomy",
+    "Strategic stability",
+    "Escalation risk",
+    "Algorithmic rules of engagement",
+    "Auditability",
+    "Human oversight"
+  ],
+  "subjects": [
+    "International Humanitarian Law",
+    "AI Governance",
+    "Military Technology",
+    "Autonomous Weapon Systems",
+    "Strategic Stability",
+    "Security Studies",
+    "Human–Machine Decision-Making"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-12",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-12",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Strategic Discontinuity in AI-Enabled Warfare.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-12/Strategic%20Discontinuity%20in%20AI-Enabled%20Warfare.pdf",
+      "format": "application/pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the working paper",
+      "pages": 18,
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-12/Strategic%20Discontinuity%20in%20AI-Enabled%20Warfare.pdf"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-12",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-12",
+  "source_repository": "EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper",
+    "series_code": "WP-F",
+    "series_number": "2025-003",
+    "series_description": "Working paper in the EPINOVA F-series focusing on AI, warfare, international law, human control, and strategic stability in algorithmic military systems."
+  },
+  "framework": {
+    "name": "Strategic Discontinuity Framework",
+    "core_concept": "Strategic discontinuity is defined as a structural mismatch that arises when military effectiveness increasingly depends on machine-speed autonomy, while legal, doctrinal, and institutional systems continue to mandate human-speed oversight and accountability.",
+    "analytical_focus": [
+      "Temporal asymmetry between machine-speed and human-speed OODA cycles",
+      "Responsibility gaps generated by opacity, unforeseeability, and distributed autonomy",
+      "Operational effectiveness versus legal compliance under machine-tempo conflict",
+      "Organizational disruption of hierarchical command structures",
+      "Strategic stability and escalation risk under autonomous interaction"
+    ]
+  },
+  "methodology": {
+    "approach": "Conceptual and doctrinal analysis with illustrative operational vignettes",
+    "core_comparison": "Machine-speed OODA versus human-speed OODA",
+    "main_operational_cases": [
+      "Automated air and missile defense systems including Aegis, Iron Dome, Patriot PAC-3, and counter-UAS interceptors",
+      "Algorithmically accelerated kill chains in the Russia–Ukraine conflict",
+      "Swarm experimentation and large-scale distributed autonomy"
+    ],
+    "governance_pathways": [
+      "Risk-tiered autonomy",
+      "Layered human oversight architecture",
+      "Algorithmic Rules of Engagement (A-ROE)",
+      "Auditability, explainability, and reversibility",
+      "International norm development and confidence-building measures"
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Tempo Asymmetry",
+      "description": "Machine-speed OODA cycles unfold in milliseconds, while human perception, orientation, and decision-making operate orders of magnitude slower."
+    },
+    {
+      "name": "Responsibility Gaps",
+      "description": "Algorithmic opacity, distributed autonomy, and diminished foreseeability weaken links among human intent, system behavior, and legal accountability."
+    },
+    {
+      "name": "Operational Effectiveness vs. Legal Compliance",
+      "description": "States face a structural dilemma between maintaining human control and retaining tactical viability in high-tempo engagements."
+    },
+    {
+      "name": "Organizational Disruption",
+      "description": "Machine-speed warfare pressures militaries toward flatter, decentralized, algorithmically coordinated architectures."
+    },
+    {
+      "name": "Strategic Stability and Escalation Risks",
+      "description": "Compressed crisis decision windows, algorithmic misperception, signal ambiguity, and preemption incentives increase instability."
+    }
+  ],
+  "key_findings": [
+    "AI-enabled warfare is creating a structural discontinuity between machine-speed military operations and human-speed legal and institutional oversight.",
+    "Machine-speed OODA loops are not merely faster versions of human OODA loops; they structurally preclude synchronous human participation in certain engagement windows.",
+    "IHL and DoD Directive 3000.09 remain normatively important but are increasingly misaligned with operational environments where decisions occur in milliseconds.",
+    "Human-speed control is not itself a guarantee of lawful or stable conduct, because human decision-making also fails under cognitive overload, stress, and compressed command conditions.",
+    "Automated missile defense, algorithmically accelerated kill chains, and swarm systems illustrate distinct operational mechanisms of strategic discontinuity.",
+    "Governance should shift from real-time human tactical control toward ex ante constraint-setting, machine-readable rules, auditability, reversibility, and post-engagement accountability.",
+    "The goal of governance is mitigation rather than full resolution, because no institutional design can completely reconcile millisecond-level decision cycles with doctrines built for human cognition."
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Human-Led vs. Algorithmic OODA Loops",
+      "description": "Compares the Observe, Orient, Decide, and Act stages under human-led and algorithmic warfare, showing the redistribution of sensing, orientation, decision generation, and action delivery from humans to algorithmic systems.",
+      "source": "Author's analysis based on the OODA framework and AI-enabled warfare literature",
+      "note": "Conceptual comparison table."
+    }
+  ],
+  "figures": [],
+  "case_studies": [
+    {
+      "name": "Automated Air and Missile Defense",
+      "systems": [
+        "Aegis Combat System",
+        "Iron Dome",
+        "Patriot PAC-3",
+        "Counter-UAS interceptors"
+      ],
+      "strategic_discontinuity_mechanism": "Tempo-driven autonomy in which machine-speed sensing, classification, and intercept sequences exceed feasible human intervention windows."
+    },
+    {
+      "name": "Russia–Ukraine Algorithmic Kill Chains",
+      "systems": [
+        "AI-assisted target identification",
+        "Automated geolocation",
+        "Networked UAV strike packages",
+        "Semi-autonomous loitering munitions"
+      ],
+      "strategic_discontinuity_mechanism": "Algorithmic acceleration of orientation and decision functions across distributed kill chains."
+    },
+    {
+      "name": "Swarm Experimentation",
+      "systems": [
+        "Multi-agent UAV swarms",
+        "Distributed autonomous sensing",
+        "Cooperative routing",
+        "Collective target prioritization"
+      ],
+      "strategic_discontinuity_mechanism": "Organizational infeasibility of human-centric command over large numbers of simultaneous autonomous agents."
+    }
+  ],
+  "policy_implications": [
+    "Risk-tiered autonomy should replace binary distinctions between autonomous and non-autonomous systems.",
+    "Human control should be layered across strategic authorization, operational optimization, and tactical machine-speed execution.",
+    "Algorithmic Rules of Engagement should encode trigger conditions, legal constraints, audit logs, fail-safe thresholds, and prohibited contexts.",
+    "Autonomous systems require auditability, explainability, and reversibility to preserve accountability when real-time human control is not feasible.",
+    "International confidence-building measures should include transparency standards, validation protocols, shared human-control standards, and AI-related incident reporting mechanisms."
+  ],
+  "related_works": [],
+  "references": [
+    "Altmann, J., & Sauer, F. (2017). Autonomous weapon systems and strategic stability. Survival, 59(5), 117–142.",
+    "Berge, T., & Brehm, M. (2023). Escalation risks in AI-enabled military operations: Emerging dynamics and mitigation options. Journal of Strategic Studies, 46(4), 512–538.",
+    "Boulanin, V., & Verbruggen, M. (2017). Mapping the development of autonomy in weapon systems. Stockholm International Peace Research Institute (SIPRI).",
+    "Boyd, J. (1996). The essence of winning and losing. Unpublished briefing, U.S. Department of Defense.",
+    "Crootof, R. (2015). The killer robots are here: Legal and policy implications. Cardozo Law Review, 36(5), 1837–1915.",
+    "Cummings, M. L. (2021). Artificial intelligence and the future of warfare. Chatham House Research Paper.",
+    "Department of Defense. (2023). DoD Directive 3000.09: Autonomy in Weapon Systems. U.S. Department of Defense.",
+    "Docherty, B. (2023). Crunch time on killer robots: Why new international law is needed for autonomous weapons. Human Rights Watch & International Human Rights Clinic.",
+    "Ekelhof, M. (2019). Lifting the fog of targeting: ‘Autonomous weapons’ and human control through the lens of military targeting. The Lawfare Research Paper Series, 1–38.",
+    "Freedman, L. (2017). The future of war: A history. Public Affairs.",
+    "Hall, A., & Philpott, M. (2022). Algorithmic misperception and crisis instability: AI, deterrence, and miscalculation. International Security, 46(3), 72–109.",
+    "Hoadley, D., & Sayler, M. (2020). Artificial intelligence and national security (CRS Report R45178). Congressional Research Service.",
+    "Horowitz, M. C. (2019). When speed kills: Autonomous weapons systems, deterrence, and stability. International Security, 43(4), 44–80.",
+    "International Committee of the Red Cross. (2015). International humanitarian law and autonomous weapon systems: ICRC position paper. ICRC.",
+    "Payne, K. (2021). I, Warbot: The dawn of artificial intelligence, autonomous weapons, and human conflict. Hurst.",
+    "Roff, H. M., & Moyes, R. (2016). Meaningful human control, artificial intelligence and autonomous weapons. Article 36 Briefing Paper.",
+    "Roff, H. M. (2016). Autonomous weapons and the problem of meaningful human control. Ethics & International Affairs, 30(2), 203–216.",
+    "Santoni, A. (2021). Reframing meaningful human control: Autonomy, oversight, and machine auditability in future warfare. Journal of Military Ethics, 20(3–4), 145–162.",
+    "Scharre, P. (2018). Army of none: Autonomous weapons and the future of war. W. W. Norton.",
+    "United Nations Convention on Certain Conventional Weapons. (2021). Report of the Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems (LAWS). United Nations Office at Geneva.",
+    "Wong, W., & Scharre, P. (2023). The speed of war: Stability, decision time, and technological acceleration in military conflict. Center for a New American Security (CNAS)."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18089642. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). Strategic discontinuity in AI-enabled warfare: Machine-speed vs human-speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18089642. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Strategic Discontinuity in AI-Enabled Warfare.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-12"
+  },
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper provides analytical views on AI-enabled warfare, strategic discontinuity, international humanitarian law, meaningful human control, and governance pathways for machine-speed conflict.",
   "metadata_source": {
+    "source_file": "Strategic Discontinuity in AI-Enabled Warfare.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and metadata reconciliation",
+    "generated_on": "2026-04-30",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, author, ORCID, affiliation, publication date, abstract, table, case studies, governance framework, conclusion, and references. Early metadata supplied DOI, ORCID put-code, repository URL, repository folder, and GitHub PDF URL."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI information is provided. Zenodo DOI is treated as DataCite DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18089642",
+    "crossref_doi_suffix": "epinova.wp.f.2025.003.strategic.discontinuity.ai.warfare",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18089642",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "DOI is supplied by the early ORCID-derived metadata record and points to a Zenodo/DataCite DOI."
   }
 }

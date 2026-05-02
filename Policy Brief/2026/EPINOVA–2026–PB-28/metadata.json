@@ -1,29 +1,329 @@
 {
-  "title": "U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare",
+  "epinova_id": "EPINOVA-PB-2026-028",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-028",
+  "title": "U.S. Defense Procurement (Jan–Apr 2026)",
+  "subtitle": "AI as the Foundation of Modern Warfare",
   "title_normalized": "u.s. defense procurement (jan-apr 2026): ai as the foundation of modern warfare",
-  "date": "2026-04-11",
-  "doi": "10.5281/ZENODO.19520723",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211424633",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-11",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19520723",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19520723",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19520723",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/ZENODO.19520723",
+      "scheme": "DOI",
+      "description": "Uppercase DOI form from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211424633",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–28",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "U.S. Defense Procurement (Jan–Apr 2026) AI and the Emerging Foundations of Modern Warfare.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "U.S. Defense Procurement (Jan–Apr 2026)",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief examines U.S. AI-related defense procurement from January through April 2026 and argues that artificial intelligence is becoming a foundational layer of modern warfare systems rather than a discretionary force multiplier. It interprets AI procurement growth as evidence of rising decision density, battlefield complexity, and system-stabilization requirements.",
+  "abstract": "Between January and April 2026, U.S. defense procurement entered a rapid acceleration phase in artificial intelligence integration. AI-related contracts are estimated at $16–21 billion, representing approximately 18–24 percent of total procurement value and expanding three to four times within a single quarter. The brief argues that this pattern reflects a structural transformation in modern warfare: AI is shifting from auxiliary software to embedded system infrastructure, from efficiency enhancement to system stabilization, and from optional capability enhancement to a prerequisite for operational coherence under high-intensity, high-density conditions. It concludes that military effectiveness is increasingly defined by system stability, algorithmic robustness, recovery capacity, and the ability to sustain coherence under speed, complexity, and saturation.",
+  "keywords": [
+    "Artificial intelligence",
+    "AI procurement",
+    "Defense procurement",
+    "U.S. defense spending",
+    "Modern warfare",
+    "Military AI",
+    "System stabilization",
+    "System coherence",
+    "Missile defense AI",
+    "ISR",
+    "Sensor fusion",
+    "Command and control",
+    "C2 systems",
+    "Drone systems",
+    "Counter-drone systems",
+    "Decision support",
+    "Algorithmic robustness",
+    "Operational tempo",
+    "Loss-of-control threshold",
+    "LoCT",
+    "Strategic competition",
+    "System resilience",
+    "Military transformation",
+    "AI-enabled warfare",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI-enabled warfare",
+    "Defense procurement",
+    "Military technology",
+    "Strategic studies",
+    "National security",
+    "Technology policy",
+    "Artificial intelligence governance",
+    "Command and control",
+    "Missile defense",
+    "ISR systems",
+    "Autonomous systems",
+    "System resilience",
+    "Security studies",
+    "Procurement analysis",
+    "Operational complexity"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-11",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-11",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-11",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-11",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "U.S. Defense Procurement (Jan–Apr 2026) AI and the Emerging Foundations of Modern Warfare.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-28/U.S.%20Defense%20Procurement%20%28Jan%E2%80%93Apr%202026%29%20AI%20and%20the%20Emerging%20Foundations%20of%20Modern%20Warfare.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-28",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-28",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-028",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, defense sustainability, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "AI Defense Procurement and System Coherence Assessment",
+    "source_basis": "Policy-facing synthesis based on public procurement patterns, functional classification of AI-relevant defense programs, and conceptual interpretation of AI as an embedded stabilization layer in modern military systems.",
+    "case_context": "U.S. defense procurement from January through April 2026, with emphasis on AI-related investment across ISR, missile defense, drone and counter-drone systems, C2 systems, and modeling or simulation.",
+    "core_problem": "Traditional procurement analysis often treats AI as an enabling tool or force multiplier, but emerging procurement patterns suggest that AI is becoming a structural dependency required to maintain operational coherence under battlefield complexity and decision saturation.",
+    "central_claims": [
+      "AI is becoming a structural dependency rather than a discretionary force multiplier in modern warfare systems.",
+      "The acceleration of AI-related procurement reflects rising battlefield complexity and decision-overload pressure rather than technological opportunism alone.",
+      "Missile defense systems are a primary driver of AI spending because they operate under high decision density, extreme latency constraints, and high-cost engagement conditions.",
+      "AI functions as a system stabilization layer that can delay loss-of-control dynamics but also introduces algorithmic-layer fragility.",
+      "Strategic competition is shifting from platform accumulation toward system resilience, algorithmic robustness, and stability under stress."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Procurement Acceleration",
+        "description": "Assesses the rapid expansion of AI-related procurement volume, project count, and estimated value between January and April 2026."
+      },
+      {
+        "name": "Functional Classification",
+        "description": "Classifies AI-related procurement by operational function rather than explicit AI labeling, including autonomy, sensor fusion, missile defense, C2, and decision-support capabilities."
+      },
+      {
+        "name": "System Stabilization",
+        "description": "Interprets AI expenditure as a system-maintenance and coherence-preservation cost under saturation, latency compression, and high-density engagement conditions."
+      },
+      {
+        "name": "Loss-of-Control Threshold",
+        "description": "Evaluates AI as a conditional mechanism that can delay, but not eliminate, systemic breakdown under complexity and coordination overload."
+      },
+      {
+        "name": "Algorithmic-Layer Fragility",
+        "description": "Identifies new vulnerabilities arising from dependence on algorithmic robustness, data integrity, cyber resilience, and model reliability."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Scale and Acceleration",
+      "code": "PROC-SCALE",
+      "description": "Measures the estimated growth of AI-related defense procurement projects and contract value during the January–April 2026 period."
+    },
+    {
+      "name": "Structural Integration",
+      "code": "AI-SYSINT",
+      "description": "Captures the transition from AI as discrete analytical tools to AI embedded in missile defense, drone systems, counter-drone systems, C2 networks, and end-to-end ISR pipelines."
+    },
+    {
+      "name": "Functional Distribution",
+      "code": "AI-FDIST",
+      "description": "Assesses the distribution of AI procurement across ISR and sensor AI, missile defense AI, drone and counter-drone systems, C2 systems, and modeling or simulation."
+    },
+    {
+      "name": "System Stabilization Function",
+      "code": "AI-STAB",
+      "description": "Evaluates AI as a stabilization layer that preserves operational coherence, manages information overload, and supports real-time decision-making under saturation."
+    },
+    {
+      "name": "Strategic Competition and Fragility",
+      "code": "AI-STRAT-FRAG",
+      "description": "Assesses how AI dependence reshapes strategic competition around system resilience while introducing vulnerabilities through algorithmic errors, system failures, and adversarial interference."
+    }
+  ],
+  "key_findings": [
+    "AI-related U.S. defense procurement from January through April 2026 is estimated at $16–21 billion across approximately 78–92 projects.",
+    "AI-related procurement is estimated to account for approximately 18–24 percent of total procurement value during the observed period.",
+    "Overall AI-related spending increased by roughly three to four times within a single quarter, indicating rapid scaling rather than gradual growth.",
+    "AI investment shifted from discrete tools and modular capabilities toward system-level integration in missile defense, drone and counter-drone systems, C2 networks, and ISR pipelines.",
+    "Missile defense systems receive a disproportionately large share of funding relative to project count due to high decision complexity, extreme time compression, and limited tolerance for latency.",
+    "AI is increasingly functioning as a system stabilization layer that preserves coherence under saturation rather than merely improving efficiency.",
+    "For every $10 billion in missile procurement, the brief suggests that approximately $2–3 billion in AI systems may be required to sustain operational effectiveness, as an illustrative and non-definitive ratio.",
+    "Rising AI procurement can be interpreted as a proxy indicator of systemic complexity escalation in contemporary warfare.",
+    "Increased dependence on AI creates algorithmic-layer fragility through possible model errors, cascading failures, cyber disruption, data manipulation, and adversarial exploitation.",
+    "Military competition is shifting from firepower-centric warfare toward system-coherence-centric warfare."
+  ],
+  "policy_recommendations": [
+    "Treat AI procurement as a system-stability requirement rather than a discretionary modernization add-on.",
+    "Prioritize algorithmic robustness, reliability, and recovery capacity alongside platform quantity and firepower metrics.",
+    "Assess AI-related investment by operational function and system dependency rather than explicit AI procurement labels alone.",
+    "Monitor missile defense, ISR, C2, drone, and counter-drone procurement as indicators of decision-density and system-stress pressures.",
+    "Integrate algorithmic-layer fragility, cyber vulnerability, data integrity, and model failure risk into defense planning and strategic risk assessment."
+  ],
+  "related_works": [
+    {
+      "title": "The Quiet Surge: How AI Procurement Is Reshaping the Logic of War",
+      "identifier": "https://epinova.org/articles/f/the-quiet-surge-how-ai-procurement-is-reshaping-the-logic-of-war",
+      "relation": "Related EPINOVA article on AI procurement and the changing logic of warfare",
+      "type": "Web article"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief on systemic escalation assessment and loss-of-control dynamics",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), U.S. Defense Procurement (Jan–Apr 2026): AI and the Emerging Foundations of Modern Warfare, Policy Brief No. EPINOVA–2026–PB–28, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19520723. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). U.S. defense procurement (Jan–Apr 2026): AI as the foundation of modern warfare (Policy Brief No. EPINOVA–2026–PB–28). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19520723. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), U.S. Defense Procurement (Jan–Apr 2026), EPINOVA–2026–PB–28.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-11",
+    "pagination": "6 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "label": "Table 1",
+      "title": "Monthly Trends in U.S. AI-Related Defense Procurement (Jan–Apr 2026)",
+      "page": 2,
+      "description": "Summarizes monthly project counts, estimated contract value, and month-over-month growth for AI-related defense procurement from January through March–April 2026."
+    },
+    {
+      "label": "Table 2",
+      "title": "Functional Distribution of U.S. AI-Related Defense Procurement by Domain (Jan–Apr 2026)",
+      "page": 3,
+      "description": "Compares project share and funding share across ISR and sensor AI, missile defense AI, drone and counter-drone systems, C2 systems, and modeling or simulation."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "U.S. Defense Procurement (Jan–Apr 2026) AI and the Emerging Foundations of Modern Warfare.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, author, affiliation, date, key judgments, executive summary, procurement estimates, tables, strategic implications, limitations, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI casing variant 10.5281/ZENODO.19520723, ORCID put-code 211424633, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19520723 is used as the primary DOI; the uppercase ORCID-derived DOI form is retained as an alternate identifier for reconciliation. The PDF title uses 'AI as the Foundation of Modern Warfare'; the PDF recommended citation and file name use 'AI and the Emerging Foundations of Modern Warfare', which is retained in the recommended citation and source file fields."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19520723",
+    "crossref_doi_suffix": "epinova.pb.2026.028",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19520723",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; uppercase DOI form from ORCID-derived metadata retained as alternate identifier."
+  },
+  "orcid": {
+    "put_code": "211424633",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-11"
   }
 }

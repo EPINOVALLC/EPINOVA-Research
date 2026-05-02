@@ -1,29 +1,350 @@
 {
+  "epinova_id": "EPINOVA-PB-2026-013",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-013",
   "title": "Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict",
+  "subtitle": "",
   "title_normalized": "terminal platform nodes and narrative competition in the u.s.-israel-iran conflict",
-  "date": "2026-03-14",
-  "doi": "10.5281/zenodo.19027187",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "208508720",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-14",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19027188",
+  "previous_doi": "10.5281/zenodo.19027187",
+  "landing_page": "https://doi.org/10.5281/zenodo.19027188",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19027188",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19027187",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "208508720",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–13",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Terminal Platform Nodes and Narrative Competition in the US-Isreal-Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Terminal Platform Nodes and Narrative Competition",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief introduces the concept of Terminal Platform Nodes (TPNs) as the final distribution points through which wartime narratives reach mass audiences via algorithmically mediated feeds, recommendation systems, trending mechanisms, and viral amplification pathways. Using a dataset of 5,000 posts across X, Facebook, TikTok, and Instagram, it analyzes narrative competition, platform distribution, content formats, and engagement dynamics in the U.S.–Israel–Iran conflict.",
+  "abstract": "The 2026 U.S.–Israel–Iran conflict illustrates the growing importance of digital information ecosystems in contemporary warfare. Alongside kinetic operations, state and nonstate actors compete to shape global perceptions through narratives circulating across social media platforms. This policy brief introduces Terminal Platform Nodes (TPNs), the final distribution points in the digital information ecosystem through which narratives reach mass audiences via algorithmically mediated feeds, recommendation systems, and viral amplification mechanisms. Drawing on a dataset of 5,000 social media posts collected across X, Facebook, TikTok, and Instagram between February 28 and March 14, 2026, the analysis finds that narrative competition is concentrated at terminal platform nodes rather than message production networks, that platform architecture and algorithmic amplification strongly influence narrative visibility, and that a small fraction of high-engagement posts disproportionately shapes the information ecosystem.",
+  "keywords": [
+    "Terminal Platform Nodes",
+    "TPNs",
+    "Narrative competition",
+    "Information warfare",
+    "Digital information ecosystem",
+    "Social media platforms",
+    "Algorithmic amplification",
+    "Recommendation systems",
+    "Platform architecture",
+    "Narrative visibility",
+    "U.S.–Israel–Iran conflict",
+    "Information conflict",
+    "Strategic communication",
+    "Viral amplification",
+    "High-engagement nodes",
+    "Power-law distribution",
+    "Short-form video",
+    "X",
+    "Facebook",
+    "TikTok",
+    "Instagram",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Information warfare",
+    "Strategic communication",
+    "Social media analysis",
+    "Platform governance",
+    "Algorithmic governance",
+    "Digital public sphere",
+    "Narrative competition",
+    "Information security",
+    "Conflict analysis",
+    "Middle East conflict",
+    "AI-enabled warfare",
+    "Platform studies",
+    "Communication studies",
+    "Public policy",
+    "National security",
+    "Digital resilience"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-14",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-14",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-14",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-14",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Terminal Platform Nodes and Narrative Competition in the US-Isreal-Iran Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-13/Terminal%20Platform%20Nodes%20and%20Narrative%20Competition%20in%20the%20US-Isreal-Iran%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-13",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-13",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-013",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, platform dynamics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Terminal Platform Node Narrative Competition Framework",
+    "source_basis": "Policy-facing synthesis based on a dataset of 5,000 conflict-related social media posts collected across X, Facebook, TikTok, and Instagram between February 28 and March 14, 2026, with metadata fields including narrative category, engagement level, content format, hashtags, and timestamp.",
+    "case_context": "Narrative competition and digital platform distribution dynamics during the 2026 U.S.–Israel–Iran conflict.",
+    "core_problem": "Traditional information-warfare analysis often emphasizes message origin, propaganda production, or state sponsorship, but wartime narrative influence increasingly depends on how content circulates through algorithmically mediated terminal platform nodes that determine mass visibility.",
+    "central_claims": [
+      "Narrative competition is concentrated at terminal platform nodes rather than message production networks alone.",
+      "Platform architecture and algorithmic amplification strongly influence narrative visibility during wartime information competition.",
+      "A small fraction of high-engagement posts can disproportionately shape the broader information ecosystem.",
+      "Contemporary information competition is increasingly determined by control over platform distribution dynamics rather than message generation alone.",
+      "Short-form media and feed-based distribution systems have become central information battlefields in modern conflict."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Terminal Platform Nodes",
+        "description": "Examines the final distribution points through which narratives reach mass audiences via algorithmically curated feeds, recommendation and ranking systems, trending mechanisms, viral amplification pathways, and short-form video distribution platforms."
+      },
+      {
+        "name": "Platform Distribution",
+        "description": "Assesses how conflict-related narratives circulate across X, Facebook, TikTok, and Instagram and how each platform performs different functions within a broader narrative ecosystem."
+      },
+      {
+        "name": "Narrative Frame Distribution",
+        "description": "Analyzes the prevalence of Self-Defense, Illegal Aggression, Humanitarian Impact, and Economic Cost frames within the observed dataset."
+      },
+      {
+        "name": "Content Format and Algorithmic Visibility",
+        "description": "Evaluates how text posts, short video, images, long video, AI-generated media, and infographics differ in visibility and platform compatibility."
+      },
+      {
+        "name": "Engagement Concentration",
+        "description": "Interprets high-, medium-, and low-engagement content patterns as evidence of power-law dynamics in digital information environments."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Platform Distribution",
+      "code": "PD",
+      "description": "Measures the share of conflict-related content circulating across terminal platforms such as X, Facebook, TikTok, and Instagram."
+    },
+    {
+      "name": "Narrative Frame Prevalence",
+      "code": "NFP",
+      "description": "Assesses the distribution of dominant narrative frames, including Self-Defense, Illegal Aggression, Humanitarian Impact, and Economic Cost."
+    },
+    {
+      "name": "Content Format Visibility",
+      "code": "CFV",
+      "description": "Evaluates how content formats influence algorithmic visibility and audience reach in platform-mediated information environments."
+    },
+    {
+      "name": "Engagement Concentration",
+      "code": "EC",
+      "description": "Captures the unequal distribution of attention in which a small number of posts generate disproportionately high engagement and narrative influence."
+    },
+    {
+      "name": "Algorithmic Amplification Pathways",
+      "code": "AAP",
+      "description": "Assesses how recommendation, ranking, trending, and viral distribution mechanisms shape narrative diffusion."
+    }
+  ],
+  "key_findings": [
+    "Narrative competition in the U.S.–Israel–Iran conflict is concentrated at terminal platform nodes rather than message production networks alone.",
+    "Platform architecture and algorithmic amplification strongly influence which narratives become visible to mass audiences.",
+    "A small fraction of high-engagement posts disproportionately shapes the information ecosystem.",
+    "The dataset covers 5,000 social media posts across X, Facebook, TikTok, and Instagram collected between February 28 and March 14, 2026.",
+    "X accounts for 50 percent of observed platform activity and functions as the primary arena for real-time narrative contestation.",
+    "Facebook accounts for 24 percent of observed posts, TikTok for 16 percent, and Instagram for 10 percent.",
+    "Self-Defense and Illegal Aggression frames account for approximately 80 percent of observed content, indicating that narrative competition is primarily structured around legitimacy framing.",
+    "Text posts and short-form video dominate content formats, with short-form video especially influential because of algorithmic prioritization mechanisms.",
+    "Engagement patterns display a power-law distribution: 20 percent high engagement, 50 percent medium engagement, and 30 percent low engagement.",
+    "Narrative dominance is determined less by content volume than by engagement concentration at high-impact terminal platform nodes."
+  ],
+  "policy_recommendations": [
+    "Recognize platform architecture as a central component of information security and wartime narrative analysis.",
+    "Increase transparency regarding algorithmic ranking systems, recommendation mechanisms, and content amplification dynamics.",
+    "Develop high-engagement monitoring systems that prioritize viral nodes and high-impact posts rather than attempting to track all content equally.",
+    "Promote cross-platform ecosystem analysis capable of tracking narrative diffusion across multiple platforms simultaneously.",
+    "Account for the strategic role of short-form video platforms in shaping narrative visibility, particularly among younger audiences.",
+    "Incorporate Terminal Platform Node monitoring into information-security frameworks and democratic information-resilience policy."
+  ],
+  "related_works": [
+    {
+      "title": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War",
+      "identifier": "10.5281/zenodo.18904462",
+      "relation": "Related EPINOVA policy brief on wartime communication tempo, narrative coherence, and expectation asymmetry in the same conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief assessing first-week battlefield dynamics and escalation risks in the same conflict",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief providing escalation-ladder context for the conflict environment",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–13, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19027188. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Terminal Platform Nodes and Narrative Competition, EPINOVA–2026–PB–13.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-14",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Narrative Prevalence Across Platforms (Feb 28 - Mar 14, 2026)",
+      "description": "Bar chart comparing the prevalence of Self-Defense, Illegal Aggression, Humanitarian Impact, and Economic Cost frames across TikTok, X, Facebook, and Instagram during the observation period.",
+      "source": "Author’s analysis based on a 5,000-post social media dataset across X, Facebook, TikTok, and Instagram",
+      "note": "Percentages are analytical estimates from the sampled dataset and are intended for policy discussion rather than archival completeness."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Platform Distribution of Conflict-Related Social Media Posts (5,000 Samples)",
+      "description": "Summarizes platform shares in the dataset: X 50%, Facebook 24%, TikTok 16%, and Instagram 10%."
+    },
+    {
+      "number": "Table 2",
+      "title": "Distribution of Narrative Frames in the U.S.–Israel–Iran Conflict Information Ecosystem",
+      "description": "Summarizes narrative-frame shares: Self-Defense 48.6%, Illegal Aggression 31.9%, Humanitarian Impact 13.8%, and Economic Cost 5.7%."
+    },
+    {
+      "number": "Table 3",
+      "title": "Content Format Distribution Across Social Media Platforms",
+      "description": "Summarizes content-format shares: Text Posts 38%, Short Video 33%, Images 18%, Long Video 7%, AI-Generated Media 3%, and Infographics 1%."
+    },
+    {
+      "number": "Table 4",
+      "title": "Engagement Distribution of Conflict-Related Social Media Content",
+      "description": "Summarizes engagement-level shares: High 20%, Medium 50%, and Low 30%."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Terminal Platform Nodes and Narrative Competition in the US-Isreal-Iran Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, rendered-page inspection, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, Terminal Platform Nodes concept, dataset scope, platform distribution, narrative-frame distribution, content-format distribution, engagement dynamics, strategic implications, policy options, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19027187, ORCID put-code 208508720, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19027188 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19027188",
+    "crossref_doi_suffix": "epinova.pb.2026.013",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19027188",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "208508720",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-14"
   }
 }

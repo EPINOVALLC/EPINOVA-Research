@@ -1,29 +1,313 @@
 {
-  "title": "From Detection to Depletion: Sustainability Constraints in Counter-Drone Defense",
+  "epinova_id": "EPINOVA-PB-2025-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2025-001",
+  "title": "From Detection to Depletion",
+  "subtitle": "Sustainability Constraints in Counter-Drone Defense",
   "title_normalized": "from detection to depletion: sustainability constraints in counter-drone defense",
-  "date": "2025-12-16",
+  "publication_date": "2025-12-16",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
   "doi": "10.5281/zenodo.18037881",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "201017414",
-  "source": "ORCID Public API",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18037881",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18037881",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201017414",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2025–01–PB",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Detection to Depletion",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief synthesizes the findings of EPINOVA-2025-01-RR into a policy-facing assessment of counter-drone defense sustainability. It argues that air defense in the Russia-Ukraine war is not failing primarily because drones cannot be intercepted, but because defense architectures struggle to remain economically and operationally sustainable under continuous low-cost saturation. The brief reframes counter-UAS evaluation from shoot-down ratios toward mission preservation, cost per loss avoided, and endurance under stress.",
+  "abstract": "In the Russia-Ukraine war, air defense is not failing because drones cannot be intercepted, but because defenses struggle to remain economically and operationally sustainable under continuous saturation. Metrics focused on shoot-down rates systematically overstate effectiveness and underestimate structural exhaustion. Drawing on a Minimum Viable, Auditable (MVA) framework and observations from 2023-2025, this policy brief argues that cost per loss avoided, composite cost-loss indicators, and key asset preservation should guide counter-drone defense planning. It concludes that future air-defense effectiveness will be defined by sustainability and mission preservation rather than interception counts alone.",
+  "keywords": [
+    "Counter-drone defense",
+    "Counter-UAS",
+    "Drone warfare",
+    "Russia-Ukraine war",
+    "Air defense sustainability",
+    "Saturation attacks",
+    "Cost per Loss Avoided",
+    "CPLA",
+    "Composite Cost-Loss Indicator",
+    "CER*",
+    "Key Asset Preservation Score",
+    "KAPS",
+    "Minimum Viable Auditable framework",
+    "MVA framework",
+    "Mission-based defense",
+    "Low-cost terminal layers",
+    "Magazine depletion",
+    "Force-structure misalignment",
+    "AI-enabled warfare",
+    "Global security governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Defense policy",
+    "Counter-UAS",
+    "Air defense",
+    "Drone warfare",
+    "Strategic studies",
+    "Military technology",
+    "AI-enabled warfare",
+    "Security governance",
+    "Russia-Ukraine War",
+    "Operational sustainability",
+    "Cost-exchange analysis",
+    "Mission resilience"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-16",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-16",
+      "date_type": "Created"
+    },
+    {
+      "date": "2025-12",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93PB/From%20Detection%20to%20Depletion%20Sustainability%20Constraints%20in%20Counter-Drone%20Defense.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 3
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93PB",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93PB",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2025-001",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Minimum Viable, Auditable (MVA) Framework for Counter-Drone Defense Sustainability",
+    "source_basis": "Based on EPINOVA-2025-01-RR",
+    "case_context": "Russia-Ukraine war, 2023-2025 counter-drone and air-defense sustainability patterns",
+    "core_problem": "High intercept rates can mask structural exhaustion when defenders rely on costly interceptors against low-cost, high-frequency drone saturation.",
+    "central_claims": [
+      "Air defense sustainability should be evaluated by mission preservation over time, not by shoot-down rates alone.",
+      "CPLA and composite cost-loss indicators may deteriorate before intercept rates decline, providing early warning of structural stress.",
+      "Force-structure choices determine whether counter-drone defense remains economically and operationally sustainable under saturation.",
+      "Low-cost terminal layers, when properly cued, flatten cost curves and preserve mission outcomes more robustly than heavy reliance on expensive surface-to-air missiles."
+    ],
+    "key_metrics": [
+      {
+        "code": "CPLA",
+        "name": "Cost per Loss Avoided",
+        "description": "Measures how much it costs to preserve one unit of critical function."
+      },
+      {
+        "code": "CER*",
+        "name": "Composite Cost-Loss Indicator",
+        "description": "Detects whether cost pressure and residual loss are worsening together."
+      },
+      {
+        "code": "KAPS",
+        "name": "Key Asset Preservation Score",
+        "description": "Measures whether core national functions are actually being preserved."
+      }
+    ],
+    "decision_rule": "Minimize CPLA subject to maintaining KAPS above a defined mission threshold across plausible stress scenarios."
+  },
+  "dimensions": [
+    {
+      "name": "Physical Detection and Engagement Limits",
+      "code": "Physical limits",
+      "description": "Low-altitude clutter, weak radar and infrared signatures, and reduced observability constrain counter-drone detection and engagement."
+    },
+    {
+      "name": "Temporal Decision Limits",
+      "code": "Temporal limits",
+      "description": "Sensor refresh, data fusion, authorization, and interceptor timelines may lag behind drone maneuver and attack cycles."
+    },
+    {
+      "name": "Resource Sustainability Limits",
+      "code": "Resource limits",
+      "description": "Magazine depth, replenishment speed, and fiscal burden become decisive under continuous saturation."
+    },
+    {
+      "name": "Technology and Doctrine Mismatch",
+      "code": "Doctrine mismatch",
+      "description": "Defensive systems optimized for fast, high-signature platforms face slow, low-signature, mass-produced threats."
+    },
+    {
+      "name": "Operational Procedure Lag",
+      "code": "Decision guidance lag",
+      "description": "Legacy engagement rules, target classification standards, and human-centered authorization chains remain calibrated for manned or high-value threats rather than expendable drones."
+    },
+    {
+      "name": "Mission Preservation",
+      "code": "KAPS-first defense",
+      "description": "Defense success is measured by preservation of critical national functions rather than total interception."
+    }
+  ],
+  "key_findings": [
+    "In the Russia-Ukraine war, air defense is not failing because drones cannot be intercepted, but because defenses struggle to remain sustainable under continuous saturation.",
+    "Shoot-down ratios can systematically overstate effectiveness and underestimate structural exhaustion.",
+    "CPLA and composite cost-loss indicators deteriorate before intercept rates decline, making them useful early-warning indicators of structural stress.",
+    "Under saturation, force-structure choices dominate outcomes; reliance on expensive surface-to-air missiles sharply increases marginal defense costs.",
+    "Low-cost terminal layers such as guns, electronic warfare, and interceptor drones can flatten cost curves when properly cued and authorized.",
+    "High intercept rates can coexist with rapid magazine depletion, rising marginal defense costs, dependence on scarce interceptors, and readiness erosion.",
+    "Counter-UAS should be treated as an endurance capability involving stockpiles, production throughput, maintenance cycles, and surge capacity.",
+    "Future air-defense effectiveness will be defined by sustainability and mission preservation, not interception counts."
+  ],
+  "policy_implications": [
+    {
+      "number": 1,
+      "title": "Adopt mission-based defense (KAPS-first)",
+      "description": "Accept incomplete interception outside priority zones and concentrate protection, hardening, and rapid recovery on power, fuel, and other critical assets."
+    },
+    {
+      "number": 2,
+      "title": "Rebalance toward low-cost terminal layers",
+      "description": "Shift engagements against slow, low-signature drones away from high-end interceptors, supported by revised engagement rules and faster authorization pathways."
+    },
+    {
+      "number": 3,
+      "title": "Invest in detection and track continuity",
+      "description": "Improve engageability through better detection, cueing, track continuity, engagement authorities, and decision guidance."
+    },
+    {
+      "number": 4,
+      "title": "Treat Counter-UAS as an endurance capability",
+      "description": "Plan for stockpiles, production throughput, maintenance cycles, and surge capacity rather than peak performance alone."
+    }
+  ],
+  "related_works": [
+    {
+      "title": "From Detection to Depletion: Cost-Exchange Limits in the Russia-Ukraine Drone War",
+      "identifier": "10.5281/zenodo.18036790",
+      "relation": "Source research report on which this policy brief is based",
+      "type": "DOI"
+    },
+    {
+      "title": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
+      "identifier": "10.5281/zenodo.18090017",
+      "relation": "Related EPINOVA working paper extending the MVA framework to fiber-optic UAS and counter-UAS assessment",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, S. (2025). From Detection to Depletion: Sustainability Constraints in Counter-Drone Defense (Policy Brief). EPINOVA-2025-01-PB. Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18037881. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). From detection to depletion: Sustainability constraints in counter-drone defense (Policy Brief No. EPINOVA-2025-01-PB). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18037881. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), From Detection to Depletion, EPINOVA PB-2025-01.",
+  "imprint": {
+    "institution": "Global AI Governance Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-16",
+    "pagination": "3 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This brief reflects the author’s analysis based on publicly available information and does not represent official positions of any government.",
   "metadata_source": {
+    "source_file": "From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, series information, recommended citation, DOI, key judgment, metrics, policy implications, disclaimer, and page count. Early metadata supplied DOI 10.5281/zenodo.18037881, ORCID put-code 201017414, GitHub PDF URL, and repository information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18037881",
+    "crossref_doi_suffix": "epinova.pb.2025.001",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18037881",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI provided by the PDF and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "201017414",
+    "source": "ORCID Public API",
+    "record_date": "2025-12-16"
   }
 }

@@ -1,29 +1,360 @@
 {
-  "title": "Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime",
+  "epinova_id": "EPINOVA-PB-2026-039",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-039",
+  "title": "Flow Persistence Under Blockade",
+  "subtitle": "Systemic Friction and the Emergence of a Porous Maritime Regime",
   "title_normalized": "flow persistence under blockade: systemic friction and the emergence of a porous maritime regime",
-  "date": "2026-04-22",
-  "doi": "10.5281/ZENODO.19692504",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212531167",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-22",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19692504",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19692504",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19692504",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212531167",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–39",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Flow Persistence Under Blockade Systemic Friction and the Emergence of a Porous Maritime Regime.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Flow Persistence Under Blockade",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the persistence of maritime flows after the April 13, 2026 U.S. maritime blockade targeting vessels entering or departing Iranian waters. It argues that continued tanker movement does not indicate policy failure, but reflects the emergence of a porous blockade regime in which strategic effects arise through systemic friction, volatility, behavioral adaptation, and cost imposition rather than full flow denial.",
+  "abstract": "Following the initiation of the U.S. maritime blockade at 10:00 ET on April 13, 2026, reporting indicated that at least 34 Iranian-linked oil tankers bypassed enforcement measures. This policy brief argues that continued maritime flows should not be read as evidence of blockade failure. Instead, the blockade restructured flows by introducing friction, volatility, and uncertainty into a continuous logistics system. The resulting porous blockade regime preserves throughput while degrading efficiency, predictability, and coordination. The brief situates this pattern within a broader shift in coercive strategy from denial to cost imposition, where strategic effect derives from making activity more difficult, risky, and expensive to sustain over time.",
+  "keywords": [
+    "Maritime blockade",
+    "Porous blockade",
+    "Systemic friction",
+    "Flow persistence",
+    "Cost imposition",
+    "Persian Gulf",
+    "Strait of Hormuz",
+    "Iran",
+    "U.S.–Iran conflict",
+    "Maritime coercion",
+    "Shipping risk",
+    "AIS vessel tracking",
+    "System Health Index",
+    "SHI",
+    "High-Pressure Systemic Equilibrium",
+    "HPSE",
+    "Threshold transition",
+    "Maritime logistics",
+    "Energy security",
+    "Coercive strategy",
+    "Probabilistic enforcement",
+    "Strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Maritime security",
+    "Energy security",
+    "International security",
+    "Conflict analysis",
+    "Geopolitics",
+    "Systems analysis",
+    "Logistics networks",
+    "Risk governance",
+    "Escalation dynamics",
+    "U.S.–Iran relations",
+    "Persian Gulf security",
+    "Critical infrastructure",
+    "Supply-chain resilience",
+    "Security policy",
+    "Coercion and deterrence"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-22",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Flow Persistence Under Blockade Systemic Friction and the Emergence of a Porous Maritime Regime.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39/Flow%20Persistence%20Under%20Blockade%20Systemic%20Friction%20and%20the%20Emergence%20of%20a%20Porous%20Maritime%20Regime.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-39",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-039",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Porous Blockade and Systemic Friction Assessment Framework",
+    "source_basis": "Policy-facing system-level assessment based on vessel-flow behavior, blockade timing, maritime logistics indicators, System Health Index interpretation, and the High-Pressure Systemic Equilibrium concept.",
+    "case_context": "U.S. maritime blockade initiated at 10:00 ET on April 13, 2026, targeting vessels entering or departing Iranian waters, with reported continued movement by Iranian-linked tankers.",
+    "core_problem": "Volume-based interpretations may misread continued maritime movement as blockade failure, while the relevant strategic effect may lie in systemic friction, volatility, route and timing distortion, cost imposition, and threshold proximity.",
+    "central_claims": [
+      "The persistence of maritime flows under blockade conditions reflects system adaptation under constraint rather than policy failure.",
+      "The blockade operates through systemic friction by reshaping routing, timing, cost, and coordination structures rather than eliminating throughput.",
+      "Bypass events are expected leakage under probabilistic enforcement and do not by themselves indicate operational breakdown.",
+      "The emerging maritime order is best understood as a porous blockade regime marked by flow persistence, volatility, and rising coordination costs.",
+      "Strategic impact derives from cost imposition and behavioral change rather than binary interdiction outcomes.",
+      "Escalation risk is driven by threshold transition as cumulative pressure pushes the system toward instability."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Policy Initiation and Temporal Structure",
+        "description": "Examines the blockade initiation time and the 24–72 hour adjustment window in which flows initially persist while systemic friction accumulates."
+      },
+      {
+        "name": "Flow Persistence Under Constraint",
+        "description": "Interprets stable or rising vessel presence as structural inelasticity and adaptive response rather than immediate proof of blockade failure."
+      },
+      {
+        "name": "Volatility and Rhythm Disruption",
+        "description": "Uses departure volatility and surge-delay patterns to identify rhythmic disruption and behavioral adaptation under enforcement risk."
+      },
+      {
+        "name": "Porous Blockade Regime",
+        "description": "Conceptualizes enforcement as selectively permeable, with strategic effects generated through friction, risk, cost, and predictability loss rather than total interdiction."
+      },
+      {
+        "name": "High-Pressure Systemic Equilibrium",
+        "description": "Interprets continued operation under rising pressure as a fragile equilibrium in which resilience declines and marginal shocks may trigger threshold transition."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Flow Persistence",
+      "code": "FP",
+      "description": "Captures continued maritime movement under constraint, including vessel presence and throughput continuity despite blockade pressure."
+    },
+    {
+      "name": "Systemic Friction",
+      "code": "SF",
+      "description": "Captures cumulative disruption in routing, timing, delays, insurance and risk costs, and coordination efficiency."
+    },
+    {
+      "name": "Departure Volatility",
+      "code": "DV",
+      "description": "Captures irregular departure patterns, delay-surge waves, and operational rhythm disruption under enforcement risk."
+    },
+    {
+      "name": "System Health Compression",
+      "code": "SHI-C",
+      "description": "Captures temporary degradation and partial recovery in system health indicators without full functional collapse."
+    },
+    {
+      "name": "Porous Enforcement Leakage",
+      "code": "PEL",
+      "description": "Captures bypass events and selective permeability as expected leakage within probabilistic enforcement rather than binary failure."
+    },
+    {
+      "name": "Threshold Transition Risk",
+      "code": "TTR",
+      "description": "Captures the risk that accumulated friction shifts the system from strained equilibrium into systemic instability."
+    }
+  ],
+  "key_findings": [
+    "The persistence of maritime flows after blockade initiation does not indicate policy failure; it reflects system adaptation under constraint.",
+    "The blockade operates through systemic friction rather than full flow denial, reshaping routing, timing, and cost structures while allowing some throughput to continue.",
+    "Reported bypass events by at least 34 Iranian-linked tankers are better interpreted as leakage within a selectively permeable enforcement system than as operational breakdown.",
+    "The emerging regime is a porous blockade characterized by persistent flows, adaptive routing, disrupted operational rhythms, rising costs, and declining predictability.",
+    "System Health Index compression without collapse indicates elevated coordination friction and reduced throughput efficiency while system functionality remains under stress.",
+    "Strategic effects arise through cost imposition, behavioral change, and gradual degradation rather than binary success or failure.",
+    "The Persian Gulf maritime system exhibits features of High-Pressure Systemic Equilibrium, remaining operational while becoming progressively less resilient.",
+    "Escalation risk is concentrated around threshold transition, especially if enforcement tightens, insurance conditions shift, or critical nodes are physically disrupted."
+  ],
+  "policy_recommendations": [
+    "Move beyond flow metrics alone and incorporate volatility indicators, coordination efficiency, and system health metrics into blockade assessment.",
+    "Evaluate blockade effectiveness structurally rather than absolutely, focusing on behavioral change, cost redistribution, and friction generation rather than interdiction rates alone.",
+    "Treat bypass events as expected leakage under porous enforcement unless accompanied by evidence of systemic enforcement collapse.",
+    "Monitor threshold-transition indicators, including enforcement tightening, insurance repricing or withdrawal, routing volatility, and disruption of critical maritime nodes.",
+    "Avoid interpreting flow persistence as stability; assess whether continued movement is occurring under declining resilience and increasing systemic pressure."
+  ],
+  "related_works": [
+    {
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief developing the High-Pressure Systemic Equilibrium concept used in this analysis",
+      "type": "DOI"
+    },
+    {
+      "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+      "identifier": "10.5281/zenodo.19633889",
+      "relation": "Related EPINOVA policy brief on systemic exposure, transmission pressure, and threshold-coupling risk in the same conflict system",
+      "type": "DOI"
+    },
+    {
+      "title": "From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis",
+      "identifier": "10.5281/zenodo.19632808",
+      "relation": "Related EPINOVA policy brief on the Strait of Hormuz crisis and systemic exposure under maritime pressure",
+      "type": "DOI"
+    },
+    {
+      "title": "From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz",
+      "identifier": "10.5281/zenodo.19568379",
+      "relation": "Related EPINOVA policy brief on the transition from selective restriction to broader blockade logic in the Strait of Hormuz",
+      "type": "DOI"
+    },
+    {
+      "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure",
+      "identifier": "",
+      "relation": "Related EPINOVA policy brief on Iranian logistics adaptation and bypass pathways under blockade pressure",
+      "type": "Related publication"
+    }
+  ],
+  "references": [
+    {
+      "citation": "AIS vessel tracking data; Strait of Hormuz throughput estimates; shipping risk and insurance indicators; open-source reporting.",
+      "type": "Data and source categories identified in Figure 1 resources",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime, Policy Brief No. EPINOVA–2026–PB–39, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19692504. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Flow persistence under blockade: Systemic friction and the emergence of a porous maritime regime (Policy Brief No. EPINOVA–2026–PB–39). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19692504. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Flow Persistence Under Blockade, EPINOVA–2026–PB–39.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-22",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Flow Persistence vs. Systemic Friction Under Blockade Conditions",
+      "page": 3,
+      "caption": "The figure compares departures, total vessel presence, and SHI around the April 13, 2026 blockade initiation, showing flow persistence under constraint alongside rising systemic friction and threshold-driven nonlinear dynamics.",
+      "source": "AIS vessel tracking data; Strait of Hormuz throughput estimates; shipping risk and insurance indicators; open-source reporting.",
+      "note": "Flow persistence reflects continued movement under constraint, while systemic friction captures cumulative disruption through routing, delay, and cost. The relationship is threshold-driven and nonlinear."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Transition in Coercive Logic",
+      "page": 4,
+      "description": "Conceptual comparison contrasting a traditional flow-denial model with an emerging flow-distortion model based on systemic friction, cumulative pressure, and gradual degradation.",
+      "columns": [
+        "Dimension",
+        "Traditional Model",
+        "Emerging Model"
+      ],
+      "source": "Conceptual comparison derived from system-level analysis of maritime behavior under blockade conditions."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Flow Persistence Under Blockade Systemic Friction and the Emergence of a Porous Maritime Regime.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual figure inspection, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, blockade initiation timing, porous blockade concept, HPSE interpretation, policy implications, recommended citation, DOI, Figure 1, Table 1, and disclaimer. Early metadata supplied DOI 10.5281/ZENODO.19692504, ORCID put-code 212531167, GitHub PDF URL, repository folder, and repository URL. DOI capitalization was normalized to lowercase for DOI URL consistency."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19692504",
+    "crossref_doi_suffix": "epinova.pb.2026.039",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19692504",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212531167",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-22"
   }
 }

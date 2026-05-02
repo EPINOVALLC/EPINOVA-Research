@@ -1,29 +1,335 @@
 {
-  "title": "The U.S.–Iran War and East Asia's Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific",
-  "title_normalized": "the u.s.-iran war and east asia's next strategic test: why the middle east conflict may reshape risk in the western pacific",
-  "date": "2026-03-06",
-  "doi": "10.5281/zenodo.18894857",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "207645361",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-010",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-010",
+  "title": "The U.S.–Iran War and East Asia’s Next Strategic Test",
+  "subtitle": "Why the Middle East Conflict May Reshape Risk in the Western Pacific",
+  "title_normalized": "the u.s.–iran war and east asia's next strategic test: why the middle east conflict may reshape risk in the western pacific",
+  "publication_date": "2026-03-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18894858",
+  "previous_doi": "10.5281/zenodo.18894857",
+  "landing_page": "https://doi.org/10.5281/zenodo.18894858",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18894858",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18894857",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "207645361",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–10",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "The U.S.–Iran War and East Asia’s Next Strategic Test Why the Middle East Conflict May Reshape Risk in the Western Pacific.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "The U.S.–Iran War and East Asia’s Next Strategic Test",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the U.S.–Iran war as a cross-regional strategic stressor that may reshape deterrence dynamics in East Asia. It argues that the Middle East conflict can consume scarce U.S. assets, compress alliance decision space, and alter how regional actors assess American availability, resolve, and prioritization in the Western Pacific.",
+  "abstract": "The U.S.–Iran war should not be treated as a self-contained Middle Eastern crisis. Its wider significance lies in the strategic chain reactions it may generate across other regions by consuming scarce U.S. assets, compressing alliance decision space, and altering how regional actors interpret American availability, resolve, and prioritization. This policy brief argues that the conflict may generate cross-regional strategic strain that reshapes deterrence dynamics in East Asia. It identifies the Russia–Ukraine war and the U.S.–Iran war as capability-revealing wars, assesses East Asia as the most plausible next theater for a capability test, and evaluates Taiwan-centered coercion, South China Sea friction, and Korean Peninsula escalation as distinct risk pathways. The brief concludes that East Asian deterrence should not be framed only around invasion scenarios, but around whether the United States and its allies can preserve strategic coherence, alliance confidence, and operational capacity across multiple regions at once.",
+  "keywords": [
+    "U.S.–Iran war",
+    "East Asia",
+    "Western Pacific",
+    "Middle East conflict",
+    "Cross-regional strategic strain",
+    "Strategic chain reaction",
+    "Capability-revealing war",
+    "Deterrence",
+    "Alliance cohesion",
+    "U.S.–China competition",
+    "Taiwan contingency",
+    "Taiwan blockade",
+    "Taiwan quarantine",
+    "South China Sea",
+    "Korean Peninsula",
+    "China–Japan relations",
+    "Japan security role",
+    "Missile defense",
+    "Force allocation",
+    "Alliance burden sharing",
+    "Coercive pressure",
+    "Strategic credibility",
+    "Multi-theater pressure",
+    "Regional spillover",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "East Asian security",
+    "Middle East security",
+    "Western Pacific security",
+    "U.S. foreign policy",
+    "Alliance politics",
+    "Deterrence theory",
+    "Military strategy",
+    "Crisis stability",
+    "Cross-regional security dynamics",
+    "Taiwan Strait",
+    "South China Sea",
+    "Korean Peninsula",
+    "Great-power competition",
+    "Geopolitics",
+    "Policy analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-06",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "The U.S.–Iran War and East Asia’s Next Strategic Test Why the Middle East Conflict May Reshape Risk in the Western Pacific.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-10/The%20U.S.%E2%80%93Iran%20War%20and%20East%20Asia%E2%80%99s%20Next%20Strategic%20Test%20Why%20the%20Middle%20East%20Conflict%20May%20Reshape%20Risk%20in%20the%20Western%20Pacific.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 3
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-10",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-10",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-010",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Cross-Regional Strategic Chain-Reaction Assessment",
+    "source_basis": "Policy-facing strategic assessment based on the interaction between the U.S.–Iran war, force-allocation pressure, alliance signaling, missile-defense burdens, and East Asian contingency pathways.",
+    "case_context": "U.S.–Iran war and its potential effects on deterrence and crisis stability in East Asia and the Western Pacific as of March 06, 2026.",
+    "core_problem": "Regional conflicts are often treated as compartmentalized, but war in one theater may reshape deterrence in another region by consuming scarce assets, altering alliance perceptions, and changing assessments of U.S. availability and resolve.",
+    "central_claims": [
+      "The U.S.–Iran war should be analyzed as a cross-regional strategic stressor rather than a self-contained Middle Eastern crisis.",
+      "The Russia–Ukraine war and the U.S.–Iran war function as capability-revealing wars that expose limits, burdens, and adaptation patterns in modern conflict.",
+      "East Asia is the most plausible next theater in which a capability test could emerge under conditions of cross-regional pressure.",
+      "The most likely East Asian pathway is layered coercion rather than immediate all-out war, especially a Taiwan-centered crisis involving blockade-like pressure, quarantine, cyber disruption, missile signaling, and information operations.",
+      "South China Sea friction is a plausible limited-clash pathway, while the Korean Peninsula is lower in probability but potentially fastest in escalation.",
+      "A China–Japan war frame is analytically insufficient because Japan’s role is embedded in broader alliance structures and U.S.–China competition.",
+      "The core policy challenge is preserving strategic coherence, alliance confidence, and operational capacity across multiple regions at once."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Capability-Revealing Wars",
+        "description": "Recent conflicts are interpreted as revealing the limits and operational burdens of major military powers under sustained attritional, missile-intensive, or alliance-enabled conditions."
+      },
+      {
+        "name": "Cross-Regional Strategic Transmission",
+        "description": "The brief evaluates how force allocation, missile-defense redeployment, alliance signaling, and perceptions of U.S. prioritization can transmit risk from the Middle East to East Asia."
+      },
+      {
+        "name": "East Asian Contingency Pathways",
+        "description": "Taiwan-centered coercion, South China Sea friction, and Korean Peninsula crisis dynamics are assessed as distinct but interconnected pathways."
+      },
+      {
+        "name": "Coercion Below General War",
+        "description": "The analysis emphasizes blockade-like pressure, quarantine, missile demonstrations, cyber disruption, and information operations rather than focusing solely on invasion scenarios."
+      },
+      {
+        "name": "Alliance Cohesion and Multi-Theater Capacity",
+        "description": "U.S. credibility is treated as a function of sustained operational effectiveness, alliance confidence, and burden-sharing across multiple regions."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Capability-Revealing Wars",
+      "code": "CRW",
+      "description": "Frames the Russia–Ukraine war and the U.S.–Iran war as conflicts that reveal practical limits in military power, attrition endurance, missile defense, strike operations, and war termination."
+    },
+    {
+      "name": "Cross-Regional Strategic Strain",
+      "code": "CRSS",
+      "description": "Assesses how the Middle East conflict can consume scarce U.S. assets, reduce strategic slack, and alter perceptions of U.S. availability, resolve, and prioritization in East Asia."
+    },
+    {
+      "name": "Taiwan-Centered Coercive Contingency",
+      "code": "TCC",
+      "description": "Identifies blockade-like pressure, quarantine, cyber disruption, missile signaling, and layered escalation around Taiwan as the most plausible serious East Asian pathway."
+    },
+    {
+      "name": "South China Sea Limited-Clash Pathway",
+      "code": "SCS-LCP",
+      "description": "Assesses localized China–Philippines or maritime friction scenarios that may remain geographically narrow but generate wider alliance spillover and strategic signaling."
+    },
+    {
+      "name": "Korean Peninsula Fast-Escalation Pathway",
+      "code": "KP-FEP",
+      "description": "Treats the Korean Peninsula as a lower-probability but higher-speed escalation theater shaped by compressed decision time, nuclear shadow, command coordination, and deterrence credibility."
+    },
+    {
+      "name": "Alliance-Embedded Japan Role",
+      "code": "AEJR",
+      "description": "Frames Japan’s role through U.S.–Japan alliance integration, trilateral coordination, and cross-regional burden sharing rather than as an isolated bilateral China–Japan war scenario."
+    },
+    {
+      "name": "Multi-Theater Deterrence Sustainability",
+      "code": "MTDS",
+      "description": "Evaluates whether the United States and its partners can sustain operational effectiveness, political confidence, and alliance cohesion across simultaneous regional pressures."
+    }
+  ],
+  "key_findings": [
+    "The U.S.–Iran war should not be treated as a self-contained Middle Eastern crisis because it may generate strategic chain reactions across other regions.",
+    "The conflict may reshape East Asian deterrence by consuming scarce U.S. assets, compressing alliance decision space, and altering perceptions of American availability and resolve.",
+    "The Russia–Ukraine war and the U.S.–Iran war can be understood as capability-revealing wars that expose constraints in prolonged attrition and high-intensity regional operations.",
+    "East Asia is the most plausible next theater in which a new capability test could emerge.",
+    "The most likely East Asian pathway is layered coercion around Taiwan rather than immediate all-out war.",
+    "South China Sea friction is the most likely limited-clash pathway, while the Korean Peninsula remains less likely but potentially fastest in escalation.",
+    "A stand-alone China–Japan war frame is not the best primary analytical lens because Japan’s security role is embedded in alliance structures and broader U.S.–China competition.",
+    "East Asian deterrence should focus not only on invasion scenarios but on preserving strategic coherence, alliance confidence, and operational capacity across multiple regions."
+  ],
+  "policy_recommendations": [
+    "Treat regional conflicts as interconnected rather than compartmentalized when assessing force allocation, missile-defense redeployment, maritime commitments, supply-chain disruption, and alliance psychology.",
+    "Reframe East Asian deterrence around coercive pressure below the threshold of immediate general war, not only around invasion scenarios.",
+    "Monitor whether the Middle East conflict reduces strategic slack or redeploys critical assets away from the Western Pacific.",
+    "Strengthen alliance confidence and crisis coordination among the United States, Japan, the Philippines, South Korea, and other regional partners.",
+    "Prioritize operational capacity and political confidence across multiple regions rather than relying on the assumption of a single decisive campaign.",
+    "Track indicators of expanded Chinese coercive activity around Taiwan, maritime militia and coast guard pressure in the South China Sea, and North Korean missile or nuclear signaling."
+  ],
+  "related_works": [
+    {
+      "title": "The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater",
+      "identifier": "10.5281/zenodo.18893892",
+      "relation": "Related EPINOVA working paper developing the broader chain-reaction argument for East Asia as a capability-revealing theater",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief on escalation ladder dynamics in the U.S.–Israel–Iran conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
+      "identifier": "10.5281/zenodo.18843800",
+      "relation": "Related EPINOVA policy brief on low-probability, high-impact escalation risk in sustained missile exchanges",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific, Policy Brief No. EPINOVA–2026–PB–10, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18894858. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), The U.S.–Iran War and East Asia’s Next Strategic Test, EPINOVA–2026–PB–10.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-06",
+    "pagination": "3 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "The U.S.–Iran War and East Asia’s Next Strategic Test Why the Middle East Conflict May Reshape Risk in the Western Pacific.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, executive summary, key judgments, policy implications, watch indicators, bottom line, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18894857, ORCID put-code 207645361, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18894858 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18894858",
+    "crossref_doi_suffix": "epinova.pb.2026.010",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18894858",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207645361",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-06"
   }
 }

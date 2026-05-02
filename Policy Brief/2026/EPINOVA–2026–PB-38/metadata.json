@@ -1,29 +1,367 @@
 {
-  "title": "Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution",
+  "epinova_id": "EPINOVA-PB-2026-038",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-038",
+  "title": "Recovery during Ceasefire",
+  "subtitle": "A Structured Assessment of U.S., Israel, and Iran Force Reconstitution",
   "title_normalized": "recovery during ceasefire: a structured assessment of u.s., israel, and iran force reconstitution",
-  "date": "2026-04-22",
-  "doi": "10.5281/ZENODO.19692046",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212528235",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-22",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19692046",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19692046",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19692046",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212528235",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–38",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Recovery during Ceasefire A Structured Assessment of U.S., Israel, and Iran Force Reconstitution.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Recovery during Ceasefire",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses force reconstitution during the April 2026 U.S.–Israel–Iran ceasefire. It argues that ceasefire does not create stability, but redistributes time for competitive recovery, producing asymmetric trajectories among the United States, Israel, and Iran.",
+  "abstract": "The April 2026 ceasefire in the U.S.–Israel–Iran conflict does not produce stability; it creates a competitive interval for force reconstitution, in which actors convert time into capability at unequal rates. Recovery dynamics are structurally asymmetric: the United States retains superior long-term capacity, Iran demonstrates faster but partial short-term recovery, and Israel operates primarily as a recovery-denial actor, prioritizing disruption over restoration. Under conditions of non-enforcement, the decisive variable is not compliance with ceasefire provisions, but relative recovery performance. Asymmetric recovery produces temporary capability imbalances that increase incentives for preemption and escalation, making the ceasefire interval a critical phase in which subsequent conflict outcomes are determined.",
+  "keywords": [
+    "Ceasefire",
+    "Force reconstitution",
+    "Recovery Index",
+    "Recovery asymmetry",
+    "U.S.–Israel–Iran conflict",
+    "United States",
+    "Israel",
+    "Iran",
+    "Strategic reconstitution",
+    "Capability regeneration",
+    "Recovery-denial actor",
+    "Non-enforcement",
+    "Post-ceasefire imbalance",
+    "Escalation risk",
+    "High-risk equilibrium",
+    "Capability monitoring",
+    "Preemption incentives",
+    "Operational readiness",
+    "Logistics integration",
+    "Force posture",
+    "Systemic instability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Security studies",
+    "Conflict analysis",
+    "Ceasefire analysis",
+    "Military reconstitution",
+    "Escalation dynamics",
+    "Middle East security",
+    "U.S. foreign policy",
+    "Iran security studies",
+    "Israel security studies",
+    "Defense sustainability",
+    "Systems analysis",
+    "Policy analysis",
+    "Crisis management",
+    "International relations"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-22",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-22",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Recovery during Ceasefire A Structured Assessment of U.S., Israel, and Iran Force Reconstitution.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-38/Recovery%20during%20Ceasefire%20A%20Structured%20Assessment%20of%20U.S.%2C%20Israel%2C%20and%20Iran%20Force%20Reconstitution.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-38",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-38",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-038",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, and systemic escalation dynamics into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Force Reconstitution under Constraint Framework",
+    "source_basis": "Structured comparative analysis using publicly available information, including official statements, media reporting, open-source observations of military activity, logistics behavior, and force posture during the April 2026 ceasefire period.",
+    "case_context": "April 2026 ceasefire in the U.S.–Israel–Iran conflict, with emphasis on relative force reconstitution among the United States, Israel, and Iran.",
+    "core_problem": "Ceasefire is often interpreted as de-escalation, but under non-enforcement conditions it may function as a competitive interval in which actors convert time into capability at unequal rates.",
+    "central_claims": [
+      "Ceasefire in the U.S.–Israel–Iran conflict redistributes time for competitive force reconstitution rather than producing stability.",
+      "Recovery trajectories are structurally asymmetric because actors differ in industrial capacity, external support, operational doctrine, and structural constraints.",
+      "The United States has high long-term reconstitution capacity but exhibits temporal lag in regenerating high-end systems.",
+      "Iran can recover rapidly in the short term, but its recovery remains partial and constrained by damage, restrictions, and external pressure.",
+      "Israel has limited recovery depth but retains a strong recovery-denial role by disrupting adversary reconstitution.",
+      "The strategic risk of ceasefire lies in post-ceasefire imbalance and temporary windows of relative advantage rather than in ceasefire failure alone."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Ceasefire as Recovery Phase",
+        "description": "Ceasefire is treated as an active strategic interval in which conflict capacity is redistributed across time rather than suspended."
+      },
+      {
+        "name": "Recovery Index",
+        "description": "Recovery is conceptualized as a composite function of recovery speed, recovery capacity, and structural constraints."
+      },
+      {
+        "name": "Asymmetric Reconstitution",
+        "description": "Actors recover at different speeds and toward different end states, producing divergent time-to-capability trajectories."
+      },
+      {
+        "name": "Recovery Denial",
+        "description": "Israel is analyzed as an actor that prioritizes disruption of adversary recovery rather than restoration of its own recovery depth."
+      },
+      {
+        "name": "Post-Ceasefire Escalation Risk",
+        "description": "Temporary capability imbalances created by asymmetric recovery increase incentives for preemption and renewed escalation."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Recovery Speed",
+      "code": "RS",
+      "description": "Captures the rate at which actors restore operational functionality, including weapons availability, force readiness, and deployment cycles."
+    },
+    {
+      "name": "Recovery Capacity",
+      "code": "RC",
+      "description": "Refers to the structural foundation that sustains regeneration over time, including industrial depth, logistical integration, and access to material and organizational resources."
+    },
+    {
+      "name": "Structural Constraints",
+      "code": "SC",
+      "description": "Captures limiting conditions such as infrastructure damage, supply-chain disruption, political and economic pressure, and external interdiction."
+    },
+    {
+      "name": "Recovery Index",
+      "code": "RI",
+      "description": "Composite conceptual index defined as RI = f(Speed, Capacity) × (1 − Constraints), used for structured comparative assessment under data uncertainty."
+    },
+    {
+      "name": "Functional Role during Ceasefire",
+      "code": "FR",
+      "description": "Classifies actors by their dominant role during ceasefire, including long-term regeneration, disruption or denial, and adaptive recovery."
+    }
+  ],
+  "key_findings": [
+    "Ceasefire in the U.S.–Israel–Iran conflict does not produce stability; it redistributes time for competitive force reconstitution.",
+    "Recovery trajectories are structurally asymmetric, shaped by industrial capacity, external support, and operational constraints.",
+    "The United States demonstrates high reconstitution capacity with temporal lag, reflecting industrial-scale regeneration dynamics.",
+    "Iran exhibits rapid but partial recovery, constrained by structural damage and external pressure.",
+    "Israel shows limited recovery depth but strong disruption capability, operating to degrade adversary reconstitution.",
+    "Under conditions of non-enforcement, the decisive variable is relative recovery performance rather than formal compliance with ceasefire provisions.",
+    "Asymmetric recovery creates temporary capability imbalances that may increase incentives for preemption and escalation.",
+    "The ceasefire interval functions as a critical strategic phase in which post-ceasefire conflict trajectories are shaped."
+  ],
+  "policy_recommendations": [
+    "Shift from compliance monitoring to capability monitoring under non-enforcement conditions.",
+    "Track relative recovery performance, including operational capability restoration, logistics reconstitution, and force posture adaptation.",
+    "Prevent asymmetric recovery windows that may create incentives for preemption or escalation.",
+    "Recognize ceasefire as an active strategic phase rather than a passive pause in hostilities.",
+    "Design policy responses that address recovery and adaptation dynamics inside ceasefire periods, not only conflict termination."
+  ],
+  "related_works": [
+    {
+      "title": "Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints",
+      "identifier": "10.5281/zenodo.19444571",
+      "relation": "Related EPINOVA policy brief on ceasefire dynamics, non-enforcement, and strategic time arbitrage.",
+      "type": "DOI"
+    },
+    {
+      "title": "Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment",
+      "identifier": "10.5281/zenodo.19464642",
+      "relation": "Related EPINOVA policy brief developing the concept of ceasefire as recovery competition.",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief on high-pressure equilibrium and systemic escalation dynamics.",
+      "type": "DOI"
+    },
+    {
+      "title": "Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19665929",
+      "relation": "Related EPINOVA policy brief comparing capability and sustainability readiness across the United States, Israel, and Iran.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution, Policy Brief No. EPINOVA–2026–PB–38, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19692046. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Recovery during ceasefire: A structured assessment of U.S., Israel, and Iran force reconstitution (Policy Brief No. EPINOVA–2026–PB–38). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19692046. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Recovery during Ceasefire, EPINOVA–2026–PB–38.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-22",
+    "pagination": "8 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Asymmetric Recovery Trajectories During Ceasefire (45-Day Window)",
+      "page": 6,
+      "caption": "Comparative force reconstitution trajectories for the United States, Israel, and Iran over a 45-day ceasefire period, represented as a composite index capturing operational capability restoration, logistics integration, and force readiness.",
+      "source": "Author’s compilation based on publicly available information, including official statements, media reporting, and open-source observations of military activity, logistics behavior, and force posture during the ceasefire period.",
+      "note": "Recovery trajectories are analytically constructed and represent relative—not absolute—levels of performance. The composite index captures short-term reconstitution dynamics and is intended to support structured comparative analysis under uncertainty."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Comparative Recovery Profiles during Ceasefire: U.S., Israel, and Iran",
+      "page": 5,
+      "description": "Compares the United States, Israel, and Iran across recovery speed, capacity, constraints, and functional role during ceasefire.",
+      "columns": [
+        "Actor",
+        "Recovery Speed",
+        "Capacity",
+        "Constraints",
+        "Functional Role"
+      ],
+      "rows": [
+        {
+          "Actor": "United States",
+          "Recovery Speed": "Medium",
+          "Capacity": "High",
+          "Constraints": "Moderate",
+          "Functional Role": "Long-term regeneration"
+        },
+        {
+          "Actor": "Israel",
+          "Recovery Speed": "Low",
+          "Capacity": "Medium",
+          "Constraints": "High",
+          "Functional Role": "Disruption / denial"
+        },
+        {
+          "Actor": "Iran",
+          "Recovery Speed": "High (partial)",
+          "Capacity": "Low–Medium",
+          "Constraints": "High",
+          "Functional Role": "Adaptive recovery"
+        }
+      ],
+      "source": "Author’s compilation based on publicly available information, including official statements, media reporting, and open-source observations during the April 2026 ceasefire period.",
+      "note": "Categories reflect relative, not absolute, recovery performance; assessments are intended for structured comparative analysis under data uncertainty."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Recovery during Ceasefire A Structured Assessment of U.S., Israel, and Iran Force Reconstitution.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual inspection of embedded figure/table content, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied the policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, why-this-matters section, analytical framework, Recovery Index formula, actor-level assessments, table, figure, policy implications, limitations, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied DOI 10.5281/ZENODO.19692046, ORCID put-code 212528235, GitHub PDF URL, repository folder, and repository URL. DOI capitalization was normalized to 10.5281/zenodo.19692046."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19692046",
+    "crossref_doi_suffix": "epinova.pb.2026.038",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19692046",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212528235",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-22"
   }
 }

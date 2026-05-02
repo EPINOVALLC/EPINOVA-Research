@@ -1,29 +1,358 @@
 {
-  "title": "Assessing AI Capabilities Across Six Major Countries and Economic Blocs: An Eight-Dimensional Comparative Framework",
+  "epinova_id": "EPINOVA-PB-2026-007",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-007",
+  "title": "Assessing AI Capabilities Across Six Major Countries and Economic Blocs",
+  "subtitle": "An Eight-Dimensional Comparative Framework",
   "title_normalized": "assessing ai capabilities across six major countries and economic blocs: an eight-dimensional comparative framework",
-  "date": "2026-02-27",
-  "doi": "10.5281/zenodo.18802794",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "206925648",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-27",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18802795",
+  "previous_doi": "10.5281/zenodo.18802794",
+  "landing_page": "https://doi.org/10.5281/zenodo.18802795",
+  "official_page": "https://epinova.org/articles/f/beyond-rankings-what-really-defines-ai-national-power",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18802795",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18802794",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "206925648",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–07",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Assessing AI Capabilities Across Six Major Cou.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Assessing AI Capabilities Across Six Major Countries and Economic Blocs",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief introduces the Eight-Dimensional Global AI National Competitiveness Index System (GAI-NCIS) and applies it to six major AI countries and economic blocs: the United States, China, the European Union, Japan, South Korea, and Russia. It extends conventional AI capability assessment beyond compute, frontier models, data, industry, chips, and military integration by adding Domestic Task Competence (DTC) and Foreign Task Competence (FTC).",
+  "abstract": "As artificial intelligence shifts from a research and innovation domain to a core component of national execution capacity, traditional comparisons based solely on compute, frontier models, and investment no longer capture the full scope of strategic competitiveness. This policy brief introduces an Eight-Dimensional Global AI National Competitiveness Index System (GAI-NCIS) and applies it to six major countries and economic blocs: the United States, China, the European Union, Japan, South Korea, and Russia. The framework builds on six conventional structural dimensions—Compute, Models, Data, Industry, Chips, and Military Integration—by incorporating two execution-oriented dimensions: Domestic Task Competence (DTC), defined as AI capability in executing tasks within domestic institutional, linguistic, and industrial contexts; and Foreign Task Competence (FTC), defined as AI capability in executing cross-border, cross-cultural, and cross-institutional tasks. The addition of DTC and FTC materially alters comparative rankings and highlights structural asymmetries that are not visible under production-oriented metrics alone.",
+  "keywords": [
+    "AI governance",
+    "AI national competitiveness",
+    "Global AI National Competitiveness Index System",
+    "GAI-NCIS",
+    "Eight-dimensional comparative framework",
+    "Artificial intelligence capability assessment",
+    "Structural capacity",
+    "Execution capacity",
+    "Domestic Task Competence",
+    "DTC",
+    "Foreign Task Competence",
+    "FTC",
+    "Compute Power Index",
+    "Frontier Model Index",
+    "Data Capability Index",
+    "Industry Adoption Index",
+    "Chip Sovereignty Index",
+    "Military Integration Index",
+    "Semiconductor sovereignty",
+    "AI strategic competition",
+    "AI policy",
+    "United States",
+    "China",
+    "European Union",
+    "Japan",
+    "South Korea",
+    "Russia",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "Technology policy",
+    "Public policy",
+    "AI competitiveness",
+    "Strategic studies",
+    "International governance",
+    "National AI strategy",
+    "Artificial intelligence policy",
+    "Semiconductor supply chains",
+    "AI infrastructure",
+    "Defense technology",
+    "Cross-border AI capability",
+    "Institutional execution capacity",
+    "Comparative policy analysis",
+    "Global AI governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-27",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-02-27",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-02-27",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early ORCID-derived metadata created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata updated"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Assessing AI Capabilities Across Six Major Cou.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-07/Assessing%20AI%20Capabilities%20Across%20Six%20Major%20Cou.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-07",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-07",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-007",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Eight-Dimensional Global AI National Competitiveness Index System (GAI-NCIS)",
+    "source_basis": "Policy-facing comparative framework calibrated through eight normalized dimensions combining structural AI production capacity and execution-oriented task competence.",
+    "case_context": "Comparative assessment of AI capability across the United States, China, the European Union, Japan, South Korea, and Russia.",
+    "core_problem": "Traditional AI capability assessments centered on compute, frontier models, data, investment, and production capacity do not fully capture whether AI systems can execute high-stakes institutional, linguistic, industrial, and cross-border tasks.",
+    "central_claims": [
+      "AI national competitiveness increasingly depends on execution capacity as well as structural production capacity.",
+      "Domestic Task Competence and Foreign Task Competence materially alter comparative assessment and tier stability.",
+      "The United States remains the only high-capability AI ecosystem in the equal-weight scenario.",
+      "China’s strong domestic execution capacity stabilizes its upper-middle tier position despite remaining structural gaps.",
+      "The European Union’s foreign task competence and regulatory interoperability help offset weaker frontier-model production.",
+      "Semiconductor sovereignty functions as a cross-tier bottleneck variable for long-term AI capability stability."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Structural Capacity",
+        "description": "Assessment of compute, frontier model production, data capability, industry adoption, chip sovereignty, and military integration."
+      },
+      {
+        "name": "Execution Capacity",
+        "description": "Assessment of domestic and foreign task competence as practical measures of institutional, linguistic, regulatory, and cross-border AI performance."
+      },
+      {
+        "name": "Tier-Based Competitiveness",
+        "description": "Grouping countries into High Capability, Upper-Middle, Middle, and Constrained Capacity tiers rather than relying only on ordinal rankings."
+      },
+      {
+        "name": "Strategic Map Framework",
+        "description": "Positioning AI ecosystems in a two-dimensional space defined by structural production capacity and institutional execution capability."
+      },
+      {
+        "name": "Semiconductor Sovereignty Constraint",
+        "description": "Interpreting chip sovereignty as a stability variable that affects innovation velocity, deployment sustainability, and tier mobility."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Compute Power Index",
+      "code": "CPI",
+      "description": "Assesses national AI training and inference capacity, including effective AI compute, high-end GPU availability, inference throughput, and energy reliability for AI loads."
+    },
+    {
+      "name": "Frontier Model Index",
+      "code": "FMI",
+      "description": "Assesses production of globally competitive frontier models, including top-tier model output, multimodal maturity, long-context/tool integration stability, and alignment and safety engineering maturity."
+    },
+    {
+      "name": "Data Capability Index",
+      "code": "DCI",
+      "description": "Assesses the scale, quality, accessibility, traceability, and governance of training and structured data."
+    },
+    {
+      "name": "Industry Adoption Index",
+      "code": "IAI",
+      "description": "Assesses the depth and diffusion of AI in economic systems, including enterprise adoption, workflow embedding, productivity gains, investment, and ecosystem density."
+    },
+    {
+      "name": "Chip Sovereignty Index",
+      "code": "CSI",
+      "description": "Assesses control over semiconductor and AI chip supply chains, including advanced node fabrication, AI chip availability, EDA/IP control, and domestic substitution capacity."
+    },
+    {
+      "name": "Military Integration Index",
+      "code": "MII",
+      "description": "Assesses AI integration within defense systems, including AI-enabled ISR, autonomous systems deployment, AI-embedded command systems, and defense expenditure scale."
+    },
+    {
+      "name": "Domestic Task Competence",
+      "code": "DTC",
+      "description": "Assesses AI capability in executing tasks within domestic institutional contexts, including legal/regulatory task accuracy, domestic workflow success, institutional language precision, and policy update latency."
+    },
+    {
+      "name": "Foreign Task Competence",
+      "code": "FTC",
+      "description": "Assesses AI capability in executing cross-border and cross-cultural tasks, including multilingual coverage, foreign compliance task success, cross-cultural communication robustness, and information-environment resilience."
+    }
+  ],
+  "key_findings": [
+    "Global AI competitiveness is stratified across four tiers: High Capability, Upper-Middle, Middle, and Constrained Capacity.",
+    "The United States is assessed as the only High Capability ecosystem, with a total score of 88.5 in the equal-weight scenario.",
+    "China is assessed as Upper-Middle, with strong Data Capability and Domestic Task Competence supporting its tier position.",
+    "The European Union, South Korea, and Japan fall into the Middle tier, with different combinations of regulatory, semiconductor, and model-ecosystem strengths and constraints.",
+    "Russia is assessed as Constrained Capacity, showing divergence between military integration and civilian AI ecosystem breadth.",
+    "Execution capacity acts as a tier modifier: DTC strengthens China’s position, FTC prevents the EU from slipping downward, and balanced structural/execution performance reinforces U.S. tier separation.",
+    "Semiconductor sovereignty operates as a cross-tier constraint affecting frontier model scaling, innovation velocity, and long-term deployment sustainability.",
+    "Tier mobility requires coordinated progress across structural capacity, economic diffusion, and execution capability rather than isolated gains in a single dimension."
+  ],
+  "policy_recommendations": [
+    "Shift AI competitiveness analysis from rank competition toward tier strategy and tier-mobility conditions.",
+    "Incorporate Domestic Task Competence and Foreign Task Competence into national AI capability assessment.",
+    "Treat institutional data access, legal clarity, and update mechanisms as execution infrastructure.",
+    "Strengthen multilingual, cross-cultural, and cross-border AI capability as a strategic differentiator.",
+    "Improve semiconductor sovereignty, fabrication resilience, packaging capability, and AI chip substitution capacity as long-term stability variables.",
+    "Evaluate AI competitiveness through the interaction of structural capacity, economic diffusion, and execution capability rather than frontier model scale alone."
+  ],
+  "related_works": [
+    {
+      "title": "Beyond Rankings: What Really Defines AI National Power?",
+      "identifier": "https://epinova.org/articles/f/beyond-rankings-what-really-defines-ai-national-power",
+      "relation": "Related EPINOVA article corresponding to the policy brief theme and publication date",
+      "type": "Web article"
+    },
+    {
+      "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+      "identifier": "10.5281/zenodo.18452803",
+      "relation": "Related EPINOVA white book on AI strategic-node governance and structural assessment",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "EPINOVA (2026), Assessing AI Capabilities Across Six Major Countries and Economic Blocs: An Eight-Dimensional Comparative Framework, Policy Brief No. EPINOVA–2026–PB–07, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18802795. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Assessing AI capabilities across six major countries and economic blocs: An eight-dimensional comparative framework (Policy Brief No. EPINOVA–2026–PB–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18802795. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), Assessing AI Capabilities Across Six Major Countries and Economic Blocs, EPINOVA–2026–PB–07.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-02-27",
+    "pagination": "5 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Strategic Map of Global AI Capability (Structural Capacity × Execution Capacity Framework)",
+      "description": "Two-dimensional strategic map positioning global AI capability according to structural production capacity and institutional execution capability. The map identifies quadrants for structural and execution leaders, institutional integrators, structural producers, and constrained ecosystems, with tier groups from High Capability to Constrained Capacity.",
+      "source": "Author’s framework based on GAI-NCIS eight-dimensional assessment",
+      "note": "Global AI competitiveness is best understood as a two-dimensional strategic space defined by structural production capacity and institutional execution capability. Tier positioning reflects the interaction between these axes rather than scale alone."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Major AI Ecosystems and Representative Leading Systems Across Six Countries and Economic Blocs",
+      "description": "Lists the United States, China, European Union, Japan, South Korea, and Russia with four major AI ecosystems or representative companies/systems for each."
+    },
+    {
+      "number": "Table 2",
+      "title": "GAI-NCIS Sub-Indicators",
+      "description": "Defines eight GAI-NCIS dimensions, abbreviations, core focus areas, and illustrative representative sub-indicators."
+    },
+    {
+      "number": "Table 3",
+      "title": "GAI-NCIS Eight-Dimensional Results (0–100 Scale, Equal Weight Scenario)",
+      "description": "Reports normalized CPI, FMI, DCI, IAI, CSI, MII, DTC, FTC, and total scores for the six assessed countries and blocs under an equal-weight scenario."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Assessing AI Capabilities Across Six Major Cou.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record + latest EPINOVA metadata schema",
+    "extraction_method": "PDF text extraction, visual/table review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, GAI-NCIS framework, assessed countries/blocs, tables, figure, results, implications, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied DOI 10.5281/zenodo.18802794, ORCID put-code 206925648, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18802795 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18802795",
+    "crossref_doi_suffix": "epinova.pb.2026.007",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18802795",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "206925648",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-25"
   }
 }

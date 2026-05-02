@@ -1,29 +1,309 @@
 {
-  "title": "From Predictive Control to Robustness: Why Indeterminacy Outperforms Precision in Contested ISR Environments",
+  "epinova_id": "EPINOVA-PB-2025-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2025-003",
+  "title": "From Predictive Control to Robustness",
+  "subtitle": "Why Indeterminacy Outperforms Precision in Contested ISR Environments",
   "title_normalized": "from predictive control to robustness: why indeterminacy outperforms precision in contested isr environments",
-  "date": "2025-12-31",
-  "doi": "10.5281/zenodo.18110855",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "201135159",
-  "source": "ORCID Public API",
+  "publication_date": "2025-12-31",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18110856",
+  "previous_doi": "10.5281/zenodo.18110855",
+  "landing_page": "https://doi.org/10.5281/zenodo.18110856",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18110856",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18110855",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "201135159",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2025–PB–03",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Predictive Control to Robustness",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief argues that contested ISR environments transform uncertainty from an information deficit into a structural condition created by exposure, interaction, and adversary adaptation. It challenges precision-centric drone warfare assessment and recommends shifting evaluation toward robustness, adversary learning speed, exposure accumulation, and governance mechanisms compatible with survivability.",
+  "abstract": "For much of the past decade, drone warfare has been evaluated through a precision-centric lens. Advances in sensing, data fusion, and command-and-control have reinforced the assumption that improved detection, tighter synchronization, and faster decision cycles translate into durable operational advantage. This policy brief argues that this assumption breaks down in contested ISR environments, where uncertainty is produced by interaction, exposure, and adversary adaptation. Precision-centric approaches may accelerate opponent learning, compress decision windows, and undermine long-run effectiveness. Robustness-oriented postures that preserve spatiotemporal indeterminacy can raise adversary costs and provide alternative pathways to stability when paired with process-based accountability, audit-by-design, and signal-management safeguards.",
+  "keywords": [
+    "Predictive control",
+    "Robustness",
+    "Indeterminacy",
+    "Contested ISR",
+    "Drone warfare",
+    "Unmanned systems",
+    "Adversary learning",
+    "Exposure accumulation",
+    "Measurement–exposure trade-off",
+    "Spatiotemporal indeterminacy",
+    "ISR environments",
+    "Precision-centric warfare",
+    "Force planning",
+    "Escalation management",
+    "Governance and verification",
+    "Audit-by-design",
+    "Signal management norms",
+    "AI-enabled warfare",
+    "Strategic stability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI-enabled warfare",
+    "Drone warfare",
+    "ISR systems",
+    "Strategic studies",
+    "Defense policy",
+    "Unmanned systems",
+    "Military technology",
+    "Escalation management",
+    "AI governance",
+    "Security governance",
+    "Operational resilience",
+    "Robustness and uncertainty",
+    "Arms control and verification",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-31",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-31",
+      "date_type": "Created"
+    },
+    {
+      "date": "2025-12",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%93PB-03/From%20predictive%20control%20to%20robustness%20Why%20indeterminacy%20outperforms%20precision%20in%20contested%20ISR%20environments.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 3
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%93PB-03",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2025/EPINOVA%E2%80%932025%E2%80%93PB-03",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2025-003",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Predictive Control to Robustness Framework",
+    "source_basis": "Policy-facing analytical synthesis based on publicly available information and conceptual analysis of contested ISR environments",
+    "case_context": "Drone warfare, contested ISR, adversary adaptation, and robustness-oriented force planning",
+    "core_problem": "Precision-centric assessment assumes that improved sensing and synchronization improve control, but contested observability can turn precision into exposure and accelerate adversary learning.",
+    "central_claims": [
+      "Uncertainty in contested ISR environments is a structural condition rather than merely a deficit of information.",
+      "Precision-centric approaches can accelerate adversary learning, compress decision windows, and degrade long-run operational effectiveness.",
+      "Temporal regularity and persistent ISR create exploitable patterns that undermine predictability-based control.",
+      "Robustness-oriented postures preserving spatiotemporal indeterminacy can raise adversary costs without requiring continuous activity.",
+      "Governance and verification must shift from static transparency toward process-based accountability, audit-by-design, and signal management norms."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Measurement–Exposure Trade-off",
+        "description": "In contested ISR environments, improvements in observation quality can increase signature exposure, reveal patterns, and support adversary inference."
+      },
+      {
+        "name": "Timing as Hazard",
+        "description": "Regular timing patterns become exploitable hazards rather than reliable schedules under adversarial observation and adaptation."
+      },
+      {
+        "name": "Interpretability Gap",
+        "description": "Detection does not guarantee classification, and classification does not guarantee confident inference of intent."
+      },
+      {
+        "name": "Robustness-Oriented Posture",
+        "description": "Force planning should emphasize posture mixtures resilient to regime shifts and adversary learning rather than single-regime precision optimization."
+      },
+      {
+        "name": "Governance under Contested Observability",
+        "description": "Verification and escalation management must address misperception risk, autonomous adaptation, and the limits of continuous spatiotemporal transparency."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Precision Fragility",
+      "code": "PF",
+      "description": "The tendency of precision-centric ISR and control systems to become brittle as improved observation generates exposure and predictable activity patterns."
+    },
+    {
+      "name": "Adversary Learning Speed",
+      "code": "ALS",
+      "description": "The rate at which opponents convert observed regularities into countermeasures, inference advantages, or targeting opportunities."
+    },
+    {
+      "name": "Exposure Accumulation",
+      "code": "EA",
+      "description": "Cumulative signature, timing, and behavioral exposure generated by persistent sensing, control, or communication activity."
+    },
+    {
+      "name": "Spatiotemporal Indeterminacy",
+      "code": "STI",
+      "description": "Persistent uncertainty in location, timing, and activity patterns that raises the cost of adversary inference."
+    },
+    {
+      "name": "Regime Robustness",
+      "code": "RR",
+      "description": "Resilience of force posture across changing interaction regimes and adversary adaptations."
+    },
+    {
+      "name": "Governance and Verification Compatibility",
+      "code": "GVC",
+      "description": "The ability of operational designs to remain accountable, auditable, and stabilizing despite reduced reliance on static transparency."
+    }
+  ],
+  "key_findings": [
+    "Precision-centric drone warfare models treat uncertainty as a deficit; in contested environments, uncertainty becomes a structural condition produced by adaptation and exposure.",
+    "Improvements in sensing, synchronization, and control can accelerate adversary learning and degrade long-run effectiveness.",
+    "Temporal regularity and persistent ISR generate exploitable patterns that undermine predictability-based control.",
+    "Robustness-oriented postures that preserve spatiotemporal indeterminacy can raise adversary costs without requiring continuous activity.",
+    "Traditional verification and escalation management frameworks are strained under conditions of contested observability.",
+    "Evaluation should move from static intercept rates, detection persistence, and synchronization speed toward dynamic measures of adversary learning speed, exposure accumulation, and marginal cost of actionable certainty.",
+    "Portfolio-style force planning can improve robustness under regime uncertainty even if it sacrifices peak performance in a single scenario.",
+    "Governance mechanisms should emphasize process-based accountability, audit-by-design, and signal management norms rather than continuous disclosure of sensitive operational details."
+  ],
+  "policy_recommendations": [
+    "Reassess evaluation frameworks that prioritize precision without accounting for exposure, adaptation, and long-run robustness.",
+    "Avoid single-regime optimization in force planning and favor posture mixtures resilient to regime shifts and adversary learning.",
+    "Incorporate uncertainty as a stability variable in escalation management rather than treating it solely as a failure mode.",
+    "Shift governance emphasis from continuous spatiotemporal transparency toward process-based accountability and audit-by-design mechanisms compatible with survivability.",
+    "Develop signal management norms that reduce misinterpretation without requiring disclosure of sensitive operational details."
+  ],
+  "related_works": [
+    {
+      "title": "From Detection to Depletion: Sustainability Constraints in Counter-Drone Defense",
+      "identifier": "10.5281/zenodo.18037881",
+      "relation": "Related EPINOVA policy brief on counter-drone defense sustainability and mission-preservation metrics",
+      "type": "DOI"
+    },
+    {
+      "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+      "identifier": "10.5281/zenodo.18081107",
+      "relation": "Related EPINOVA working paper on uncertainty, presence, POSG modeling, and strategic stability in unmanned systems",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, S.-Y. (2025). From predictive control to robustness: Why indeterminacy outperforms precision in contested ISR environments (Policy Brief No. EPINOVA–2025–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18110856. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2025). From predictive control to robustness: Why indeterminacy outperforms precision in contested ISR environments (Policy Brief No. EPINOVA–2025–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18110856. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), From Predictive Control to Robustness, EPINOVA Policy Brief 03.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-31",
+    "pagination": "3 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief reflects the author’s independent analysis based on publicly available information and does not represent the official positions of any government or institution. The publication is intended for research and policy discussion purposes only and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, author, affiliation, date, executive summary, key findings, policy problem, implications, recommendations, recommended citation, DOI, short citation, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18110855, ORCID put-code 201135159, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18110856 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18110856",
+    "crossref_doi_suffix": "epinova.pb.2025.003",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18110856",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "201135159",
+    "source": "ORCID Public API",
+    "record_date": "2025-12-31"
   }
 }

@@ -5,6 +5,8 @@
   "publication_type": "Policy Brief",
   "category": "policy-briefs",
   "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-043",
   "title": "Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure",
   "subtitle": "Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply",
   "title_normalized": "transit of goods through territory of pakistan order 2026: six land routes, third-country goods, and the southeastern bypass of hormuz pressure",
@@ -33,13 +35,43 @@
   "official_page": "https://epinova.org/policy-brief-2",
   "alternate_identifiers": [
     {
+      "identifier": "EPINOVA–2026–PB–43",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "EPINOVA-PB-2026-043",
+      "scheme": "EPINOVA publication identifier",
+      "description": "Normalized EPINOVA publication identifier used in metadata records"
+    },
+    {
+      "identifier": "epinova.pb.2026.043",
+      "scheme": "Crossref DOI suffix",
+      "description": "Planned Crossref DOI suffix for registration after membership approval"
+    },
+    {
+      "identifier": "https://publications.epinova.org/epinova-pb-2026-043/",
+      "scheme": "URL",
+      "description": "Planned publication landing page for DOI resolution"
+    },
+    {
       "identifier": "https://epinova.org/policy-brief-2",
       "scheme": "URL",
-      "description": "Official EPINOVA publication page"
+      "description": "Official EPINOVA publication page from early metadata"
+    },
+    {
+      "identifier": "Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Transit of Goods through Territory of Pakistan Order 2026",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
     }
   ],
   "description": "This policy brief examines Pakistan’s Transit of Goods through Territory of Pakistan Order 2026 as a southeastern logistics adaptation linked to Iran-bound third-country transit under Hormuz pressure. It analyzes six designated land routes, the 6+1+1+2 logistics architecture, potential China–Pakistan rail support, the Iran–Pakistan energy layer, and air–land and sea–land extensions, including a schematic map of the six designated Pakistan–Iran transit corridors.",
-  "abstract": "This policy brief analyzes Pakistan’s Transit of Goods through Territory of Pakistan Order 2026, which designates six Iran-bound transit routes linking Karachi, Port Qasim, and Gwadar with Gabd and Taftan. The brief argues that the order does not replace Iran’s Persian Gulf maritime system, but institutionalizes a southeastern bypass capable of sustaining selective flows under pressure. It interprets the corridor as a 6+1+1+2 architecture: six designated land routes, one potential China–Pakistan rail enabling layer, one Iran–Pakistan energy-infrastructure layer, and two intermodal extensions through air–land and sea–land movement. The analysis treats Pakistan as a third-country transit platform and southeastern logistics switchboard within Iran’s wider threshold-delaying supply system. The brief concludes that the corridor cannot reproduce Hormuz-scale maritime capacity, but can preserve minimum viable flow, support food and basic-goods continuity, maintain selected industrial inputs, and complicate blockade enforcement.",
+  "abstract": "This policy brief analyzes Pakistan’s Transit of Goods through Territory of Pakistan Order 2026, which designates six Iran-bound transit routes linking Karachi, Port Qasim, and Gwadar with Gabd and Taftan. The brief argues that the order does not replace Iran’s Persian Gulf maritime system, but institutionalizes a southeastern bypass capable of sustaining selective flows under pressure. Its core significance lies in third-country transit: external cargo can enter Pakistan through ports or airports and move onward to Iran by road, shifting the logistics problem from a narrow maritime chokepoint to a distributed system of ports, roads, borders, customs guarantees, financial documentation, and cargo prioritization. Building on EPINOVA–2026–PB–42’s three-layer model, the brief interprets the Pakistan corridor as a 6+1+1+2 architecture: six designated land routes, one potential China–Pakistan rail enabling layer, one Iran–Pakistan energy-infrastructure layer, and two intermodal extensions through air–land and sea–land movement. The analysis concludes that the corridor cannot reproduce Hormuz-scale maritime capacity, but can preserve minimum viable flow, support food and basic-goods continuity, maintain selected industrial inputs, and complicate blockade enforcement.",
   "keywords": [
     "Pakistan",
     "Iran",
@@ -81,8 +113,23 @@
   "dates": [
     {
       "date": "2026-04-28",
-      "type": "Issued",
-      "description": "First public release on EPINOVA."
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-04-28",
+      "date_type": "Created",
+      "description": "PDF creation date and early metadata creation date"
+    },
+    {
+      "date": "2026-04-28",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated to latest EPINOVA schema"
     }
   ],
   "license": {
@@ -96,7 +143,9 @@
       "filename": "Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 10
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
@@ -107,6 +156,237 @@
     "repository": "EPINOVA-Research",
     "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
   },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-043",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Pakistan–Iran 6+1+1+2 Southeastern Logistics Architecture Framework",
+    "source_basis": "Policy-facing analysis based on Pakistan’s Transit of Goods through Territory of Pakistan Order 2026, public reporting by Dawn, ProPakistani, The Express Tribune, Reuters, and Global Energy Monitor, route geography, scenario-based throughput assumptions, EPINOVA–2026–PB–42’s three-layer logistics adaptation model, and EPINOVA–2026–PB–27’s constrained-capacity methodology.",
+    "case_context": "Pakistan-based third-country transit to Iran during Hormuz pressure in the U.S.–Israel–Iran conflict, with emphasis on Karachi, Port Qasim, Gwadar, Gabd, Taftan, Balochistan road corridors, potential CPEC-linked rail support, air–land cargo movement, and the Iran–Pakistan energy layer.",
+    "core_problem": "Hormuz pressure cannot be evaluated only through maritime traffic. Pakistan’s 2026 transit order shifts part of the Iran-bound logistics problem into a distributed system of ports, roads, borders, customs guarantees, documentation, trucking, insurance, financial controls, and potential multimodal extensions.",
+    "central_claims": [
+      "Pakistan’s 2026 transit order institutionalizes third-country transit to Iran rather than merely expanding bilateral Pakistan–Iran trade.",
+      "The six designated routes create a southeastern port–road–border corridor linking Karachi, Port Qasim, and Gwadar with Gabd and Taftan.",
+      "The corridor delays pressure but does not replace Hormuz or reproduce Persian Gulf maritime scale.",
+      "The system is best understood as a 6+1+1+2 architecture: six designated routes, one potential China–Pakistan rail enabling layer, one latent Iran–Pakistan energy-infrastructure layer, and two intermodal extensions through air–land and sea–land movement.",
+      "The Iran–Pakistan gas pipeline is a latent energy-security layer rather than current freight capacity.",
+      "Pakistan functions as a southeastern logistics switchboard within Iran’s wider threshold-delaying supply system.",
+      "Blockade monitoring expands from vessels and Hormuz chokepoint traffic to Pakistan’s logistics surface, including ports, roads, border crossings, air-cargo intake points, bonded cargo systems, and third-country documentation."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Third-Country Transit Platform",
+        "description": "Treats Pakistan as a legal and operational transit platform for goods originating outside Pakistan and moving toward Iran."
+      },
+      {
+        "name": "Six-Route Designated Corridor System",
+        "description": "Analyzes the six legally designated routes linking Pakistani maritime entry points with Gabd and Taftan border exits."
+      },
+      {
+        "name": "6+1+1+2 Architecture",
+        "description": "Distinguishes the six formal routes from potential rail support, latent energy infrastructure, and air–land / sea–land extensions."
+      },
+      {
+        "name": "Threshold-Delaying Supply",
+        "description": "Assesses whether limited but persistent flows can slow depletion, support food and basic-goods continuity, and maintain selected industrial inputs."
+      },
+      {
+        "name": "Constrained-Capacity Estimation",
+        "description": "Uses scenario-based bounds rather than measured throughput to estimate likely sustained movement under port, road, customs, security, trucking, and border-processing constraints."
+      },
+      {
+        "name": "Friction Management under Porous Blockade",
+        "description": "Frames the corridor as a mechanism that regionalizes and administratively complicates blockade pressure without eliminating it."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Gwadar–Gabd",
+      "code": "R1",
+      "main_nodes": [
+        "Gwadar",
+        "Makran coast"
+      ],
+      "border_exit": "Gabd",
+      "primary_function": "Short southeastern access route",
+      "estimated_sustained_capacity": "300–1,200 t/day",
+      "annualized_range": "0.1–0.4 million t/year",
+      "best_cargo_fit": [
+        "Food",
+        "medicine",
+        "small containers",
+        "humanitarian cargo"
+      ],
+      "strategic_role": "Fast southeastern access"
+    },
+    {
+      "name": "Karachi / Port Qasim–Lyari–Ormara–Pasni–Gabd",
+      "code": "R2",
+      "main_nodes": [
+        "Karachi",
+        "Port Qasim",
+        "coastal Balochistan"
+      ],
+      "border_exit": "Gabd",
+      "primary_function": "Port-linked coastal corridor",
+      "estimated_sustained_capacity": "800–2,500 t/day",
+      "annualized_range": "0.3–0.9 million t/year",
+      "best_cargo_fit": [
+        "Food",
+        "consumer goods",
+        "refrigerated cargo",
+        "agricultural inputs"
+      ],
+      "strategic_role": "Sea–land coastal bypass"
+    },
+    {
+      "name": "Karachi / Port Qasim–Khuzdar–Dalbandin–Taftan",
+      "code": "R3",
+      "main_nodes": [
+        "Karachi",
+        "Port Qasim",
+        "Khuzdar",
+        "Dalbandin"
+      ],
+      "border_exit": "Taftan",
+      "primary_function": "Inland heavy road corridor",
+      "estimated_sustained_capacity": "1,500–4,000 t/day",
+      "annualized_range": "0.5–1.5 million t/year",
+      "best_cargo_fit": [
+        "Containers",
+        "industrial inputs",
+        "spare parts",
+        "construction materials"
+      ],
+      "strategic_role": "Main heavy road corridor"
+    },
+    {
+      "name": "Gwadar–Turbat–Hoshab–Panjgur–Nagg–Besima–Khuzdar–Quetta / Lakpass–Dalbandin–Nokundi–Taftan",
+      "code": "R4",
+      "main_nodes": [
+        "Gwadar",
+        "interior Balochistan",
+        "Quetta axis"
+      ],
+      "border_exit": "Taftan",
+      "primary_function": "Deep inland redundancy route",
+      "estimated_sustained_capacity": "600–2,000 t/day",
+      "annualized_range": "0.2–0.7 million t/year",
+      "best_cargo_fit": [
+        "Mixed cargo",
+        "emergency supply",
+        "light industrial goods"
+      ],
+      "strategic_role": "Deep redundancy route"
+    },
+    {
+      "name": "Gwadar–Lyari–Khuzdar–Quetta / Lakpass–Dalbandin–Nokundi–Taftan",
+      "code": "R5",
+      "main_nodes": [
+        "Gwadar",
+        "Khuzdar",
+        "Quetta",
+        "Dalbandin"
+      ],
+      "border_exit": "Taftan",
+      "primary_function": "Gwadar-to-Taftan inland corridor",
+      "estimated_sustained_capacity": "700–2,200 t/day",
+      "annualized_range": "0.25–0.8 million t/year",
+      "best_cargo_fit": [
+        "Containerized goods",
+        "food",
+        "machinery parts"
+      ],
+      "strategic_role": "Gwadar-to-Taftan inland bridge"
+    },
+    {
+      "name": "Karachi / Port Qasim–Gwadar–Gabd",
+      "code": "R6",
+      "main_nodes": [
+        "Karachi",
+        "Port Qasim",
+        "Gwadar"
+      ],
+      "border_exit": "Gabd",
+      "primary_function": "Port-to-port coastal relay",
+      "estimated_sustained_capacity": "1,000–3,000 t/day",
+      "annualized_range": "0.35–1.1 million t/year",
+      "best_cargo_fit": [
+        "Transshipped containers",
+        "food",
+        "consumer goods"
+      ],
+      "strategic_role": "Port-to-port relay"
+    }
+  ],
+  "logistics_architecture": [
+    {
+      "layer": "Core 6",
+      "component": "Six designated Pakistan–Iran transit routes",
+      "status": "Legally designated",
+      "function": "Port–road–border movement",
+      "strategic_role": "Creates a formal third-country transit framework"
+    },
+    {
+      "layer": "+1 Rail",
+      "component": "China–Pakistan rail / CPEC-linked rail potential",
+      "status": "Potential enabling layer",
+      "function": "Rear-area cargo movement toward Pakistani ports and Balochistan corridors",
+      "strategic_role": "Adds logistical depth if future rail upgrades mature"
+    },
+    {
+      "layer": "+1 Energy",
+      "component": "Iran–Pakistan gas pipeline / potential hydrocarbon layer",
+      "status": "Latent infrastructure layer",
+      "function": "Long-term energy connectivity",
+      "strategic_role": "Deepens Pakistan–Iran strategic interdependence"
+    },
+    {
+      "layer": "+ Air–Land",
+      "component": "Pakistan air-cargo intake + road movement to border",
+      "status": "Supplementary",
+      "function": "High-value, low-volume, time-sensitive cargo",
+      "strategic_role": "Preserves critical inputs"
+    },
+    {
+      "layer": "+ Sea–Land",
+      "component": "Karachi / Port Qasim / Gwadar maritime intake + road exit to Iran",
+      "status": "Most operationally relevant extension",
+      "function": "Third-country cargo enters Pakistan by sea and exits to Iran by road",
+      "strategic_role": "Regionalizes Hormuz pressure"
+    }
+  ],
+  "capacity_summary": {
+    "system_level_working_capacity": "3,000–8,000 tons per day",
+    "system_level_annualized_capacity": "approximately 1.1–2.9 million tons per year",
+    "upper_constrained_range": "10,000–15,000 tons per day, equivalent to roughly 3.6–5.5 million tons per year under favorable constrained conditions",
+    "method_note": "Route-level estimates should not be mechanically summed because effective throughput is reduced by node bottlenecks, channel coupling, intermodal delays, road security, cargo documentation, customs clearance, bank guarantees, insurance, trucking coordination, and nonlinear failure dynamics."
+  },
+  "key_findings": [
+    "Pakistan’s 2026 transit order institutionalizes third-country transit to Iran, creating a legal framework for goods originating outside Pakistan to move through Pakistani territory toward Iran.",
+    "The six designated routes form a dual-border, multi-port, Balochistan-centered transit architecture rather than a single road corridor.",
+    "Karachi, Port Qasim, and Gwadar are linked to Gabd and Taftan, creating a southeastern port–road–border access layer outside direct Gulf entry.",
+    "The corridor does not replace Hormuz; it sustains limited flows of food, medicine, consumer goods, spare parts, industrial inputs, and selected high-value cargo.",
+    "The system is analytically described as a 6+1+1+2 architecture: six designated land routes, one potential China–Pakistan rail enabling layer, one Iran–Pakistan energy-infrastructure layer, and two intermodal extensions through air–land and sea–land movement.",
+    "Only the six land routes are formally designated by the 2026 order; the rail, energy, air–land, and sea–land components are analytical extensions or enabling layers.",
+    "The Iran–Pakistan gas pipeline is a latent long-term energy-security layer and should not be counted as immediate goods throughput.",
+    "The corridor’s working capacity is likely low-to-medium and constrained by port clearance, trucking availability, road security in Balochistan, border processing, customs procedures, insurance, bank guarantees, and documentation requirements.",
+    "Pakistan’s highest practical value is likely as a third-country transit platform for selective sea–land or air–land movement, especially for China, Southeast Asia, Gulf re-export hubs, and humanitarian suppliers.",
+    "The corridor regionalizes Hormuz pressure and shifts enforcement from maritime chokepoint monitoring to a wider port–road–border and documentation problem.",
+    "Pakistan is becoming a southeastern logistics switchboard within Iran’s wider threshold-delaying supply system."
+  ],
+  "policy_recommendations": [
+    "Shift monitoring from maritime traffic alone to logistics-system indicators, including Karachi, Port Qasim, Gwadar, Gabd, Taftan, Quetta / Lakpass, Dalbandin, Nokundi, bonded cargo movements, air-cargo intake, port congestion, and border-clearance rates.",
+    "Focus pressure analysis on bottlenecks rather than whole corridors, especially customs interfaces, port clearance systems, border exits, fuel availability, trucking capacity, insurance, and bank guarantees.",
+    "Interpret air–land movement as a critical-input channel rather than a bulk-trade solution; its value lies in medicine, electronics, communications equipment, precision components, and time-sensitive parts.",
+    "Treat China–Pakistan rail connectivity as a future enabling layer rather than a current Iran-bound corridor unless formal linkage or operational evidence appears.",
+    "Treat the Iran–Pakistan gas pipeline as a long-term energy-security variable with high strategic relevance but limited current operational contribution to logistics capacity.",
+    "Evaluate porous logistics adaptation by throughput, delivery time, cost, documentation burden, cargo prioritization, and enforcement complexity rather than by the binary question of whether goods still move."
+  ],
   "related_works": [
     {
       "relation": "IsPartOf",
@@ -176,11 +456,12 @@
     "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666"
   ],
   "recommended_citation": "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-043. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six land routes, third-country goods, and the southeastern bypass of Hormuz pressure: Gwadar, Taftan, Gabd, and the multimodal logic of threshold-delaying supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-043. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Transit of goods through territory of Pakistan order 2026: Six land routes, third-country goods, and the southeastern bypass of Hormuz pressure: Gwadar, Taftan, Gabd, and the multimodal logic of threshold-delaying supply. EPINOVA Policy Brief Series, EPINOVA-PB-2026-043. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Transit of Goods through Territory of Pakistan Order 2026, EPINOVA–2026–PB–43.",
   "imprint": {
-    "title": "EPINOVA Policy Brief Series",
-    "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-28",
     "edition": "v1.0",
     "pagination": "10 pages"
   },
@@ -225,11 +506,14 @@
       "source": "Author’s assessment based on the third-country transit logic of the 2026 order, Pakistan’s port and border geography, trade-source compatibility, and sanctions/documentation constraints"
     }
   ],
+  "appendices": [],
   "funding": {
+    "statement": "No external funding information is provided in the PDF.",
     "funders": [],
     "awards": []
   },
   "software": {
+    "statement": "No software artifact is specified in the PDF.",
     "repository_url": "",
     "programming_language": "",
     "development_status": ""
@@ -257,22 +541,50 @@
     "submission_date": "",
     "defense_date": ""
   },
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
   "metadata_source": {
+    "source_file": "Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf",
+    "source_type": "PDF + early metadata record",
+    "extraction_method": "PDF text extraction, visual inspection of rendered page images, PDF embedded metadata extraction, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-28",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, six designated routes, schematic map, 6+1+1+2 logistics architecture, capacity estimates, cargo categories, source-country assessment, Iran–Pakistan pipeline discussion, policy implications, limitations, conclusion, recommended citation, and disclaimer. Early metadata supplied official page URL, GitHub PDF URL, repository folder, repository URL, CC-BY license metadata, related works, references, and Crossref/DataCite placeholders. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-04-28T14:03:45-04:00",
+    "modification_date": "2026-04-28T14:03:45-04:00",
+    "pages": 10
   },
   "crossref": {
-    "intended_registration_agency": "Crossref",
-    "record_type": "report",
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-043/",
     "crossref_doi_suffix": "epinova.pb.2026.043",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
     "registration_status": "Pending"
   },
   "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
     "use_for_dataset": false,
     "related_dataset_doi": "",
-    "notes": "Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF in the supplied metadata. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
   }
 }

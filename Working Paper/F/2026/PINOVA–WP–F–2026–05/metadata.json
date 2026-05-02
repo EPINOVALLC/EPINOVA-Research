@@ -1,29 +1,430 @@
 {
-  "title": "Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare",
-  "title_normalized": "cloud under fire: hyperscale data centers and the rise of cyber-physical warfare",
-  "date": "2026-03-09",
-  "doi": "10.5281/zenodo.18923620",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-005",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "207847927",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-005",
+  "title": "Cloud Under Fire",
+  "subtitle": "Hyperscale Data Centers and the Rise of Cyber-Physical Warfare",
+  "title_normalized": "cloud under fire: hyperscale data centers and the rise of cyber-physical warfare",
+  "publication_date": "2026-03-09",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18923621",
+  "previous_doi": "10.5281/zenodo.18923620",
+  "landing_page": "https://doi.org/10.5281/zenodo.18923621",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–WP–F–2026–05",
+      "scheme": "EPINOVA Working Paper Number",
+      "description": "Working paper number shown in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18923621",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18923620",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from ORCID-derived metadata; retained for reconciliation"
+    },
+    {
+      "identifier": "207847927",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Cloud Under Fire.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Wu (2026), Cloud Under Fire, EPINOVA Working Paper F–2026–05",
+      "scheme": "Short citation",
+      "description": "Short citation implied by the EPINOVA working paper format"
+    }
+  ],
+  "description": "This working paper examines the militarization of hyperscale cloud infrastructure and the rise of cyber-physical warfare through the concept of Digital Strategic Nodes. Using reported drone strikes affecting infrastructure near AWS cloud facilities in the United Arab Emirates and Bahrain during the 2026 U.S.–Iran conflict as a case study, it maps major cloud regions, Internet exchange points, submarine cable landing stations, cloud interconnection facilities, and edge-distribution nodes across the Middle East and analyzes how physical attacks on digital infrastructure may generate cyber-like disruption.",
+  "abstract": "The rapid expansion of cloud computing has concentrated critical digital services within a relatively small number of hyperscale data centers operated by major technology firms. These facilities support financial systems, artificial intelligence platforms, logistics networks, and government operations, making them essential components of contemporary economic and technological systems. As a result, cloud infrastructure may increasingly represent a potential category of strategic targets in modern conflict. This article examines the emerging militarization of digital infrastructure through the case of reported drone strikes affecting infrastructure near Amazon Web Services (AWS) cloud facilities in the United Arab Emirates and Bahrain during the 2026 U.S.–Iran conflict. Building on the concept of Digital Strategic Nodes, the paper argues that hyperscale data centers represent highly concentrated points of systemic digital dependence and may therefore become attractive targets for adversaries seeking strategic disruption. Drawing on international relations scholarship on cyber conflict, critical infrastructure security, and cyber-physical systems, the article maps major digital infrastructure across the Middle East. The analysis identifies an expanded inventory of 28 digital strategic nodes, including hyperscale cloud regions, Internet exchange points, submarine cable landing stations, cloud interconnection facilities, and edge-distribution nodes located within the strike range of Iranian missile systems. Depending on whether secondary interconnection and edge facilities are included, the regional network comprises roughly 20–30 strategically significant nodes. The findings suggest that contemporary warfare is increasingly characterized by cyber-physical interaction, in which kinetic attacks on digital infrastructure may produce effects traditionally associated with cyber operations. This dynamic complicates existing theories of cyber deterrence and highlights the growing strategic importance of protecting large-scale digital infrastructure in future conflicts.",
+  "keywords": [
+    "Cyber-physical warfare",
+    "cloud infrastructure",
+    "hyperscale data centers",
+    "critical infrastructure security",
+    "digital strategic nodes",
+    "DSN framework",
+    "cyber conflict",
+    "Middle East conflict",
+    "infrastructure targeting",
+    "cloud computing",
+    "AWS data centers",
+    "Microsoft Azure",
+    "submarine cable landing stations",
+    "Internet exchange points",
+    "edge-distribution nodes",
+    "cloud interconnection",
+    "missile range bands",
+    "cyber deterrence",
+    "digital infrastructure resilience",
+    "EPINOVA Working Paper F-Series"
+  ],
+  "subjects": [
+    "Cyber-Physical Warfare",
+    "Cloud Infrastructure Security",
+    "Critical Infrastructure Protection",
+    "Cyber Conflict",
+    "Digital Strategic Nodes",
+    "Middle East Security",
+    "Infrastructure Targeting",
+    "Strategic Studies",
+    "Cyber Deterrence",
+    "AI-Mediated Strategic Risk",
+    "Digital Infrastructure Governance",
+    "International Security"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-09",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-09",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Cloud Under Fire.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 14
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-005",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Digital Strategic Nodes (DSN) and Cyber-Physical Warfare Framework",
+    "case_study": "Reported drone strikes affecting infrastructure near Amazon Web Services cloud facilities in the United Arab Emirates and Bahrain during the 2026 U.S.–Iran conflict",
+    "research_question": "How does the physical targeting of cloud infrastructure reshape the cyber-physical dynamics of modern warfare?",
+    "method_type": "Qualitative strategic analysis combined with empirical infrastructure mapping of selected Middle East digital infrastructure nodes.",
+    "core_concept": {
+      "name": "Digital Strategic Nodes",
+      "definition": "Infrastructure locations whose disruption may generate disproportionate systemic effects due to their central role within digital networks.",
+      "examples": [
+        "Hyperscale cloud data centers",
+        "Internet exchange points",
+        "Submarine cable landing stations",
+        "Cloud interconnection hubs",
+        "Edge-distribution or content-delivery network nodes"
+      ]
+    },
+    "conceptual_model": {
+      "formula": "DSN Risk ∝ Concentration × Connectivity × Geographic Exposure",
+      "variables": [
+        {
+          "name": "Concentration",
+          "description": "Degree to which computing capacity and digital services are centralized within a limited number of facilities."
+        },
+        {
+          "name": "Connectivity",
+          "description": "Extent to which a node functions as a junction within regional or global data networks, such as Internet exchange points or submarine cable landing stations."
+        },
+        {
+          "name": "Geographic Exposure",
+          "description": "Physical accessibility of infrastructure within the strike range of conventional military capabilities, including missiles or drones."
+        }
+      ]
+    },
+    "infrastructure_scope": [
+      "Hyperscale cloud regions",
+      "Internet exchange points",
+      "Submarine cable landing stations",
+      "Cloud interconnection facilities",
+      "Edge-distribution and CDN nodes"
+    ],
+    "regional_mapping": {
+      "region": "Middle East",
+      "estimated_node_inventory": 28,
+      "node_inventory_range": "roughly 20–30 strategically significant nodes depending on inclusion of secondary interconnection and edge facilities",
+      "reference_point": "western Iran near Kermanshah",
+      "missile_range_bands": [
+        "300 km",
+        "700 km",
+        "1,000 km",
+        "1,500 km",
+        "2,000 km"
+      ],
+      "range_band_distribution": [
+        {
+          "range_band": "≤1000 km",
+          "number_of_nodes": 4
+        },
+        {
+          "range_band": "1000–1500 km",
+          "number_of_nodes": 19
+        },
+        {
+          "range_band": "1500–2000 km",
+          "number_of_nodes": 5
+        }
+      ]
+    },
+    "principal_nodes_discussed": [
+      "AWS Bahrain Region",
+      "AWS Middle East (UAE) Region",
+      "Microsoft Azure UAE Central",
+      "Microsoft Azure UAE North",
+      "Microsoft Azure Qatar Central",
+      "Microsoft Azure Israel Central",
+      "Google Cloud Israel Region",
+      "Oracle Cloud Saudi West",
+      "Oracle Cloud Saudi Central",
+      "UAE-IX",
+      "DE-CIX Dubai",
+      "Saudi Internet Exchange",
+      "Qatar Internet Exchange",
+      "Israel Internet Exchange",
+      "Fujairah cable landing hub",
+      "Jeddah Red Sea cable hub",
+      "Doha Gulf cable gateway",
+      "Tel Aviv Mediterranean landing hub",
+      "AWS Direct Connect nodes",
+      "Amazon CloudFront edge nodes"
+    ],
+    "analytical_claims": [
+      "Hyperscale cloud facilities combine high concentration and high connectivity, giving them potential strategic significance as Digital Strategic Nodes.",
+      "Kinetic attacks on digital infrastructure may generate cyber-like disruption without requiring digital intrusion.",
+      "Cyber deterrence and infrastructure security must expand beyond network defense to include physical protection, redundancy, and resilience of digital infrastructure nodes."
+    ],
+    "limitations": [
+      "The case study relies on open-source reporting and publicly available information regarding reported strikes and service disruptions.",
+      "Range bands are intended as analytical visualization of layered reach rather than a precise probability model of strike likelihood.",
+      "Distance estimates are approximate great-circle estimates from western Iran and rounded to the nearest ten kilometers.",
+      "The paper analyzes strategic exposure and cyber-physical dynamics; it does not provide operational targeting guidance."
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Infrastructure Concentration",
+      "code": "CONC",
+      "description": "Degree to which computing capacity and digital services are centralized within limited physical facilities."
+    },
+    {
+      "name": "Network Connectivity",
+      "code": "CONN",
+      "description": "Position of a facility as a junction for Internet routing, data exchange, submarine cable traffic, cloud interconnection, or edge distribution."
+    },
+    {
+      "name": "Geographic Exposure",
+      "code": "GEO-EXP",
+      "description": "Degree to which a digital infrastructure node lies within the reach of missiles, drones, or other conventional strike capabilities."
+    },
+    {
+      "name": "Cyber-Physical Interaction",
+      "code": "CPI",
+      "description": "Mechanism through which physical attacks on digital infrastructure produce digital service disruption, cyber-like outages, or network instability."
+    },
+    {
+      "name": "Systemic Dependence",
+      "code": "SYS-DEP",
+      "description": "Extent to which governments, financial systems, logistics networks, AI platforms, and private-sector services depend on the node."
+    },
+    {
+      "name": "Cascade Potential",
+      "code": "CAS",
+      "description": "Potential for localized disruption to propagate across interconnected cloud, network, economic, or governmental systems."
+    },
+    {
+      "name": "Civilian-Military Ambiguity",
+      "code": "CMA",
+      "description": "Degree to which cloud infrastructure supports both civilian services and strategically relevant governmental, economic, or technological functions."
+    }
+  ],
+  "key_findings": [
+    "Cloud infrastructure may increasingly represent a potential category of strategic target in modern conflict because hyperscale data centers support finance, AI platforms, logistics networks, and government operations.",
+    "Hyperscale data centers operate as Digital Strategic Nodes because they concentrate systemic digital dependence within a limited number of highly connected facilities.",
+    "The mapped Middle East network includes an expanded inventory of 28 digital strategic nodes, with many falling within approximate 1,000 km, 1,500 km, or 2,000 km range bands from western Iran.",
+    "Kinetic attacks on physical cloud or network infrastructure may produce effects traditionally associated with cyber operations, including service disruptions, network outages, and economic losses.",
+    "Cyber-physical warfare challenges conventional distinctions between cyber operations and traditional military action by linking physical strikes to digital-system effects.",
+    "The centralization of cloud markets and digital services may create systemic vulnerabilities, because disruption of a small number of nodes could affect multiple sectors simultaneously.",
+    "Cyber deterrence strategies may need to expand beyond digital intrusion prevention to include physical protection of data centers, Internet exchange points, cable landing stations, and cloud interconnection facilities.",
+    "The militarization of hyperscale cloud infrastructure raises legal and normative questions about the protection of civilian digital systems during armed conflict."
+  ],
+  "related_works": [
+    {
+      "title": "The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater",
+      "identifier": "10.5281/zenodo.18893892",
+      "relation": "Related EPINOVA F-Series work on the cross-regional strategic consequences of the 2026 U.S.–Iran conflict",
+      "type": "DOI"
+    },
+    {
+      "title": "Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War",
+      "identifier": "10.5281/zenodo.18903880",
+      "relation": "Related EPINOVA F-Series work on information-environment dynamics in the 2026 U.S.–Israel–Iran War",
+      "type": "DOI"
+    },
+    {
+      "title": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
+      "identifier": "10.5281/zenodo.18090017",
+      "relation": "Related EPINOVA work on unmanned systems, C-UAS assessment, and auditable defense evaluation",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Armbrust, M., Fox, A., Griffith, R., Joseph, A. D., Katz, R., Konwinski, A., Lee, G., Patterson, D., Rabkin, A., Stoica, I., & Zaharia, M. (2010). A view of cloud computing. Communications of the ACM, 53(4), 50–58. https://doi.org/10.1145/1721654.1721672",
+    "Associated Press. (2026, March 2). Iranian strikes on Amazon data centers highlight industry's vulnerability to physical disasters. https://apnews.com/article/71066b0a822c4cfd88b61e3fe79af917",
+    "Borghard, E. D., & Lonergan, S. W. (2017). The logic of coercion in cyberspace. Security Studies, 26(3), 452–481. https://doi.org/10.1080/09636412.2017.1306396",
+    "Cusumano, M. A., Gawer, A., & Yoffie, D. B. (2019). The business of platforms: Strategy in the age of digital competition, innovation, and power. Harper Business. https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumano-annabelle-gawer-david-b-yoffie",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "Farrell, H., & Newman, A. L. (2022). Underground empire: How America weaponized the world economy. Henry Holt and Company.",
+    "Financial Times. (2026, March 6). Iran hits Amazon data centres in jolt to Gulf AI drive. https://www.ft.com/content/09fa5c20-2c8f-4f41-9d91-c78476eaac20",
+    "Gartzke, E. (2013). The myth of cyberwar: Bringing war in cyberspace back down to earth. International Security, 38(2), 41–73. https://doi.org/10.1162/ISEC_a_00136",
+    "Healey, J. (2011). A fierce domain: Conflict in cyberspace, 1986–2012. Cyber Conflict Studies Association. https://cyberconflict.org/a-fierce-domain/",
+    "Kello, L. (2017). The virtual weapon and international order. Yale University Press. https://yalebooks.yale.edu/book/9780300201260/the-virtual-weapon-and-international-order/",
+    "Langner, R. (2011). Stuxnet: Dissecting a cyberwarfare weapon. IEEE Security & Privacy, 9(3), 49–51. https://doi.org/10.1109/MSP.2011.67",
+    "Lewis, J. A. (2014). Cybersecurity and critical infrastructure protection. Center for Strategic and International Studies. https://www.csis.org/analysis/cybersecurity-and-critical-infrastructure-protection",
+    "Libicki, M. C. (2009). Cyberdeterrence and cyberwar. RAND Corporation. https://www.rand.org/pubs/monographs/MG877.html",
+    "Lindsay, J. R. (2013). Stuxnet and the limits of cyber warfare. Security Studies, 22(3), 365–404. https://doi.org/10.1080/09636412.2013.816122",
+    "Mueller, M. (2017). Will the Internet fragment? Sovereignty, globalization and cyberspace. Polity Press. https://www.politybooks.com/bookdetail/?isbn=9781509501250",
+    "Nye, J. S. (2017). Deterrence and dissuasion in cyberspace. International Security, 41(3), 44–71. https://doi.org/10.1162/ISEC_a_00266",
+    "Reuters. (2026, March 2). Amazon cloud unit flags issues at Bahrain and UAE data centers amid Iran strikes. https://www.reuters.com/world/middle-east/amazon-cloud-unit-flags-issues-bahrain-uae-data-centers-amid-iran-strikes-2026-03-02/",
+    "Rid, T. (2013). Cyber war will not take place. Oxford University Press. https://global.oup.com/academic/product/cyber-war-will-not-take-place-9780199338177",
+    "Seabrooke, L., & Wigan, D. (2021). The governance of global infrastructure. Review of International Political Economy. https://doi.org/10.1080/09692290.2021.1897287",
+    "Singer, P. W., & Friedman, A. (2014). Cybersecurity and cyberwar: What everyone needs to know. Oxford University Press. https://global.oup.com/academic/product/cybersecurity-and-cyberwar-9780199918096",
+    "Slayton, R. (2017). What is the cyber offense-defense balance? Conceptions, causes, and assessment. International Security, 41(3), 72–109. https://doi.org/10.1162/ISEC_a_00267",
+    "Statista. (2024). Market share of leading cloud infrastructure service providers worldwide from 2017 to 2024. https://www.statista.com/statistics/967365/worldwide-cloud-infrastructure-services-market-share-vendor/",
+    "Synergy Research Group. (2024). Cloud market share: AWS, Microsoft and Google continue to dominate global cloud infrastructure market. https://www.srgresearch.com/articles/aws-microsoft-and-google-continue-to-dominate-cloud-market",
+    "Valeriano, B., & Maness, R. C. (2015). Cyber war versus cyber realities: Cyber conflict in the international system. Oxford University Press. https://global.oup.com/academic/product/cyber-war-versus-cyber-realities-9780190204792",
+    "Valeriano, B., Jensen, B. M., & Maness, R. C. (2018). Cyber strategy: The evolving character of power and coercion. Oxford University Press. https://global.oup.com/academic/product/cyber-strategy-9780190618094",
+    "Varian, H. R. (2019). Artificial intelligence, economics, and industrial organization. Economics of Innovation and New Technology, 28(8), 1–12. https://doi.org/10.1080/10438599.2019.1565293"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare (EPINOVA Working Paper No. EPINOVA–WP–F–2026–05). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18923621. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Cloud under fire: Hyperscale data centers and the rise of cyber-physical warfare (EPINOVA Working Paper No. EPINOVA–WP–F–2026–05). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18923621. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Cloud Under Fire, EPINOVA Working Paper F–2026–05.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-09",
+    "pagination": "14 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Conceptual model of DSN risk",
+      "description": "Conceptual model illustrating how infrastructure concentration, network connectivity, and geographic exposure interact to shape strategic vulnerability.",
+      "source": "Author's conceptual model based on the Digital Strategic Nodes framework",
+      "note": "Analytical visualization of DSN risk; not a quantitative risk score."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Digital Strategic Nodes Within Layered Iranian Missile Range Bands in the Middle East",
+      "description": "Map overlaying approximate 300 km, 700 km, 1,000 km, 1,500 km, and 2,000 km range bands from western Iran with selected hyperscale cloud infrastructure, Internet exchange points, submarine cable landing stations, cloud interconnection hubs, and edge-distribution nodes across the Middle East.",
+      "source": "Author's mapping based on public information on regional digital infrastructure and layered missile range bands",
+      "note": "Approximate analytical visualization of layered reach; not a precise probability model of strike likelihood."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Digital Strategic Nodes in the Middle East",
+      "description": "Expanded inventory of 28 digital strategic nodes across the Middle East, including hyperscale cloud facilities, Internet exchanges, cable landing stations, cloud interconnection nodes, and edge/CDN nodes, with approximate distance from western Iran and corresponding missile range band.",
+      "source": "Author's compilation from public cloud, Internet exchange, cable landing, and regional infrastructure information",
+      "note": "Distances are approximate great-circle estimates measured from western Iran near Kermanshah and rounded to the nearest ten kilometers."
+    },
+    {
+      "number": "Table 2",
+      "title": "Node Distribution by Range Band",
+      "description": "Summary distribution of mapped digital strategic nodes by missile range band: four nodes at or below 1,000 km, nineteen nodes in the 1,000–1,500 km band, and five nodes in the 1,500–2,000 km band.",
+      "source": "Author's calculation from the expanded inventory presented in Table 1",
+      "note": "Counts reflect approximate classification based on distance from western Iran using the Kermanshah reference point."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions. It does not constitute policy recommendations, predictive assessments, operational targeting guidance, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "Cloud Under Fire.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual inspection of figures/tables, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series statement, recommended citation, Digital Strategic Nodes framework, Figure 1, Figure 2, Table 1, Table 2, conclusion, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.18923620, ORCID put-code 207847927, and GitHub repository information. PDF recommended citation shows DOI 10.5281/zenodo.18923621 and is used as the primary DOI in this record."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18923621",
+    "crossref_doi_suffix": "epinova.wp.f.2026.005",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18923621",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI shown in the PDF recommended citation. Earlier ORCID-derived metadata listed 10.5281/zenodo.18923620 and is retained as previous_doi / alternate identifier for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207847927",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-09"
   }
 }

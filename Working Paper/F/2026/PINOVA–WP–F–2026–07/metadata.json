@@ -1,29 +1,565 @@
 {
-  "title": "Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure",
-  "title_normalized": "systemic warfare in the networked age: operational systems, information competition, and cumulative pressure",
-  "date": "2026-03-17",
-  "doi": "10.5281/zenodo.19078935",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-007",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "208799838",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-007",
+  "title": "Systemic Warfare in the Networked Age",
+  "subtitle": "Operational Systems, Information Competition, and Cumulative Pressure",
+  "title_normalized": "systemic warfare in the networked age: operational systems, information competition, and cumulative pressure",
+  "publication_date": "2026-03-17",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19078936",
+  "previous_doi": "10.5281/zenodo.19078935",
+  "landing_page": "https://doi.org/10.5281/zenodo.19078936",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–WP–F–2026–07",
+      "scheme": "EPINOVA Working Paper Number",
+      "description": "Working paper number shown in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.19078936",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19078935",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from ORCID-derived metadata; retained for reconciliation"
+    },
+    {
+      "identifier": "208799838",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Systemic Warfare in the Networked Age.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Wu (2026), Systemic Warfare in the Networked Age, EPINOVA Working Paper F–2026–07",
+      "scheme": "Short citation",
+      "description": "Short citation implied by the EPINOVA working paper format"
+    }
+  ],
+  "description": "This working paper introduces systemic warfare as a form of contemporary conflict in which actors impose cumulative pressure across interconnected operational systems and information domains rather than relying on decisive battlefield outcomes. It distinguishes Operational System Warfare as the material dimension of systemic conflict and information competition as the interpretive dimension, and develops the Operational Node Criticality Score (ONCS) and Systemic Pressure Index (SPI) as analytical constructs for modeling node-level importance and system-level stress.",
+  "abstract": "Contemporary warfare is undergoing a structural transformation driven by the growing centrality of interconnected operational systems and networked information environments. Existing frameworks, from industrial warfare to network-centric warfare, emphasize either territorial control or information superiority, but provide limited tools for explaining how cumulative disruption across infrastructures generates strategic effects. This article introduces systemic warfare as a form of conflict in which actors seek to impose cumulative pressure across interconnected operational systems and information domains, rather than achieve decisive battlefield outcomes. Within this framework, Operational System Warfare (OSW) constitutes the material dimension of conflict, while information competition shapes its political and interpretive dynamics. To formalize this framework, the article develops two analytical constructs: the Operational Node Criticality Score (ONCS), capturing the structural importance of infrastructure nodes, and the Systemic Pressure Index (SPI), representing the nonlinear accumulation of system-level stress across interdependent infrastructures. These constructs are intended as analytical tools for modeling interaction mechanisms rather than as directly observed empirical measures. Drawing on observations from the initial phase of the 2026 U.S.–Israel–Iran conflict, the analysis suggests that systemic pressure may accumulate nonlinearly as disruptions target increasingly critical nodes and propagate across interconnected systems. Sustained multi-domain actions can generate effects that appear to exceed the additive impact of individual strikes, reconfiguring the logic of warfare from discrete engagements toward system-level competition. The article contributes to the study of contemporary conflict in three ways: it reconceptualizes military effectiveness as system resilience under persistent disruption, introduces a formalized framework for analyzing cumulative pressure in networked conflict, and integrates operational and informational dynamics into a unified model of multi-domain warfare. More broadly, it argues that systemic warfare reflects a shift toward cumulative, system-level competition in which the interaction of material disruption and interpretive processes reshapes how strategic effects are generated.",
+  "keywords": [
+    "Systemic warfare",
+    "Operational System Warfare",
+    "OSW",
+    "Operational Node Criticality Score",
+    "ONCS",
+    "Systemic Pressure Index",
+    "SPI",
+    "information competition",
+    "network-centric warfare",
+    "operational systems",
+    "military infrastructure",
+    "narrative competition",
+    "multi-domain conflict",
+    "strategic resilience",
+    "cumulative pressure",
+    "systemic pressure",
+    "operational nodes",
+    "interpretive amplification",
+    "critical infrastructure interdependence",
+    "U.S.–Israel–Iran conflict",
+    "AI-mediated strategic risk",
+    "EPINOVA Working Paper F-Series"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "Military Operations",
+    "Systemic Warfare",
+    "Operational System Warfare",
+    "Information Competition",
+    "Network-Centric Warfare",
+    "Multi-Domain Conflict",
+    "Critical Infrastructure",
+    "Narrative Competition",
+    "System Resilience",
+    "Operational Node Criticality",
+    "Systemic Pressure Modeling",
+    "International Security",
+    "AI-Mediated Strategic Risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-17",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-17",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Systemic Warfare in the Networked Age.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 19
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-007",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Systemic Warfare Framework",
+    "core_components": [
+      "Operational System Warfare (OSW) as the material dimension of conflict",
+      "Information competition as the interpretive dimension of conflict",
+      "Operational Node Criticality Score (ONCS) for node-level strategic importance",
+      "Systemic Pressure Index (SPI) for aggregate system-level stress",
+      "Operational-information interaction as a recursive feedback loop",
+      "Multi-domain systemic effects across operational, information, cyber, and economic domains"
+    ],
+    "method_type": "Conceptual framework development with analytical modeling, illustrative simulation, and case illustration from the initial phase of the 2026 U.S.–Israel–Iran conflict.",
+    "analytical_focus": "The paper models how localized disruptions to critical operational nodes can produce cumulative systemic pressure when propagated through interconnected infrastructures and amplified through information competition.",
+    "warfare_logic_evolution": [
+      {
+        "logic": "Industrial Warfare",
+        "primary_focus": [
+          "Territorial control",
+          "Mass armies",
+          "Industrial production",
+          "Frontline attrition"
+        ]
+      },
+      {
+        "logic": "Network-Centric Warfare",
+        "primary_focus": [
+          "Sensors and data networks",
+          "Precision strike",
+          "Information superiority",
+          "Platform connectivity"
+        ]
+      },
+      {
+        "logic": "Operational System Warfare",
+        "primary_focus": [
+          "Distributed military infrastructures",
+          "Bases and logistics networks",
+          "Satellites and digital systems",
+          "Alliance architectures"
+        ]
+      },
+      {
+        "logic": "Information Competition",
+        "primary_focus": [
+          "Narrative framing",
+          "Platform amplification",
+          "Strategic signaling",
+          "Perception management"
+        ]
+      }
+    ],
+    "operational_system_layers": [
+      "Alliances",
+      "Bases",
+      "Logistics",
+      "Sensors / ISR",
+      "Satellites",
+      "Energy",
+      "Digital infrastructure",
+      "Industrial supply chains"
+    ],
+    "operational_information_interaction_sequence": [
+      "Military operations",
+      "Operational events such as strikes and deployments",
+      "Information circulation through media reports and social media",
+      "Narrative competition structured around legitimacy frames",
+      "Political pressure through public opinion and diplomacy",
+      "Strategic constraints such as escalation risk and alliance responses",
+      "Operational decisions including retaliation and adjustment",
+      "Feedback into subsequent operations"
+    ],
+    "main_formulas": [
+      {
+        "number": "5.1",
+        "name": "Operational Node Criticality Score",
+        "formula": "ONCS_i = (F_i × C_i × D_i × S_i)^γ",
+        "description": "Captures the structural importance of an operational node based on functional importance, connectivity, dependency load, substitutability, and a scaling parameter.",
+        "variables": [
+          {
+            "symbol": "F_i",
+            "description": "Functional importance of the node in sustaining operational capability"
+          },
+          {
+            "symbol": "C_i",
+            "description": "Connectivity of the node across subsystems"
+          },
+          {
+            "symbol": "D_i",
+            "description": "Dependency load; number and significance of subsystems reliant on the node"
+          },
+          {
+            "symbol": "S_i",
+            "description": "Substitutability expressed as inverse replacement availability"
+          },
+          {
+            "symbol": "γ",
+            "description": "Scaling parameter for sensitivity across operational contexts"
+          }
+        ]
+      },
+      {
+        "number": "5.2",
+        "name": "Systemic Pressure Index",
+        "formula": "SPI_t = Σ_i (W_i × D_i × C_i × T_i × I_i)",
+        "description": "Aggregates system-level stress across disrupted operational nodes, integrating node weight, disruption intensity, cascading multiplier, temporal persistence, and information amplification."
+      },
+      {
+        "number": "5.3",
+        "name": "Cascading multiplier",
+        "formula": "C_i = 1 + α × Interdependency_i",
+        "description": "Models how coupling among subsystems amplifies disruption propagation."
+      },
+      {
+        "number": "5.4",
+        "name": "Information amplification factor",
+        "formula": "I_i = 1 + β × NarrativeIntensity_i",
+        "description": "Represents how narrative salience across digital platforms amplifies the strategic effect of operational events."
+      },
+      {
+        "number": "5.5",
+        "name": "Temporal persistence factor",
+        "formula": "T_i = Duration_i × RecoveryDelay_i",
+        "description": "Combines disruption duration with recovery delay to model persistence of systemic pressure."
+      },
+      {
+        "number": "5.6",
+        "name": "ONCS-weighted SPI formulation",
+        "formula": "SPI_t = Σ_i (ONCS_i × D_i × C_i × T_i × I_i)",
+        "description": "Links node-level criticality directly to system-level pressure accumulation."
+      },
+      {
+        "number": "5.7",
+        "name": "Reduced-form analytical specification",
+        "formula": "ln(SPI_t) = α + Σ_{k=1}^{5} β_k × ln(X_{k,t}) + ε_t",
+        "description": "Maps observable proxies for node criticality, disruption intensity, cascading effects, persistence, and informational amplification to systemic stress."
+      },
+      {
+        "number": "5.8",
+        "name": "Interaction model specification",
+        "formula": "ln(SPI_t) = α + Σ_{k=1}^{5} β_k × ln(X_{k,t}) + γ_1(ONCS_t × I_t) + γ_2(D_t × C_t) + μ_t",
+        "description": "Introduces interaction terms for operational-information and disruption-cascade coupling."
+      },
+      {
+        "number": "5.9",
+        "name": "Dynamic SPI recursion",
+        "formula": "SPI_{t+1} = (1 − δ) × SPI_t + Σ_i (ONCS_i × D_{i,t} × C_{i,t} × T_{i,t} × I_{i,t}) − ρ_t",
+        "description": "Models systemic pressure accumulation, dissipation, and recovery over time."
+      },
+      {
+        "number": "5.10",
+        "name": "Threshold cascading multiplier",
+        "formula": "C_{i,t} = c_1 if SPI_t < τ_1; c_2 if τ_1 ≤ SPI_t < τ_2; c_3 if SPI_t ≥ τ_2",
+        "description": "Captures nonlinear transition from localized disruption to system-level stress."
+      },
+      {
+        "number": "5.11",
+        "name": "Network pressure propagation",
+        "formula": "P_{i,t+1} = P_{i,t} + Σ_j w_{ji} × P_{j,t} + S_{i,t} − R_{i,t}",
+        "description": "Extends pressure modeling to interdependent operational nodes."
+      },
+      {
+        "number": "5.12",
+        "name": "Aggregate systemic pressure in network model",
+        "formula": "SPI_t = Σ_i (ONCS_i × P_{i,t})",
+        "description": "Defines total systemic pressure as ONCS-weighted pressure across operational nodes."
+      }
+    ],
+    "oncs_classification": [
+      {
+        "class": "Critical nodes",
+        "range": "ONCS > 0.8"
+      },
+      {
+        "class": "High-value nodes",
+        "range": "0.5 ≤ ONCS ≤ 0.8"
+      },
+      {
+        "class": "Supporting nodes",
+        "range": "0.2 ≤ ONCS < 0.5"
+      },
+      {
+        "class": "Peripheral nodes",
+        "range": "ONCS < 0.2"
+      }
+    ],
+    "spi_patterns": [
+      "High-criticality targeting with low frequency: efficient systemic pressure generation",
+      "Low-criticality targeting with high frequency: resource-intensive attrition",
+      "High-criticality targeting combined with strong information amplification: strategic-level effects extending beyond the operational domain"
+    ],
+    "case_illustration": {
+      "case": "Initial phase of the 2026 U.S.–Israel–Iran conflict",
+      "scope_note": "The case is used for analytical illustration rather than comprehensive empirical validation.",
+      "observed_domains": [
+        "Operational systems dimension",
+        "Information competition dimension",
+        "Operational–information interaction",
+        "Cyber and cross-domain expansion",
+        "Multi-domain systemic effects"
+      ],
+      "social_media_dataset": {
+        "sample_size": 5000,
+        "period": "February 28–March 14, 2026",
+        "platforms": [
+          "X",
+          "Facebook",
+          "TikTok",
+          "Instagram"
+        ],
+        "platform_distribution": [
+          {
+            "platform": "X",
+            "share": "50%",
+            "role": "Real-time narrative arena"
+          },
+          {
+            "platform": "Facebook",
+            "share": "24%",
+            "role": "Advocacy networks"
+          },
+          {
+            "platform": "TikTok",
+            "share": "16%",
+            "role": "Viral video flow"
+          },
+          {
+            "platform": "Instagram",
+            "share": "10%",
+            "role": "Visual narrative"
+          }
+        ]
+      }
+    }
+  },
+  "dimensions": [
+    {
+      "name": "Operational Systems",
+      "description": "Interconnected infrastructures that enable military forces to operate across regions, including bases, logistics, satellites, energy, digital communications, industrial supply chains, and alliances."
+    },
+    {
+      "name": "Information Competition",
+      "description": "The interpretive domain in which narratives, legitimacy frames, platform amplification, and perception management shape how operational events are politically understood."
+    },
+    {
+      "name": "Operational Node Criticality",
+      "code": "ONCS",
+      "description": "Node-level structural importance based on functional importance, connectivity, dependency load, and substitutability."
+    },
+    {
+      "name": "Systemic Pressure",
+      "code": "SPI",
+      "description": "Aggregate stress imposed on an operational system through node disruption, cascading interdependencies, temporal persistence, and information amplification."
+    },
+    {
+      "name": "Interpretive Amplification",
+      "description": "Mechanism by which operational events are translated into political meaning through information networks and feed back into strategic constraints."
+    },
+    {
+      "name": "Multi-Domain Systemic Effects",
+      "description": "Cumulative effects across operational, information, cyber, and economic domains."
+    }
+  ],
+  "key_findings": [
+    "Contemporary warfare is shifting toward systemic warfare, in which actors impose cumulative pressure across interconnected operational systems and information environments rather than relying on decisive battlefield outcomes.",
+    "Operational System Warfare constitutes the material dimension of systemic warfare, targeting the infrastructures that sustain military operations across regions.",
+    "Information competition constitutes the interpretive dimension of systemic warfare, shaping how operational events are framed, amplified, and translated into political and strategic effects.",
+    "Operational Node Criticality Score (ONCS) provides a structured way to assess the systemic importance of infrastructure nodes within operational networks.",
+    "Systemic Pressure Index (SPI) models how disruption intensity, node importance, cascading effects, temporal persistence, and information amplification combine to produce aggregate systemic stress.",
+    "Systemic pressure may accumulate nonlinearly as disruptions target increasingly critical nodes and propagate across interconnected systems.",
+    "Operational and information dynamics form a recursive feedback loop: military operations generate observable events, information circulation creates narrative competition, and political pressure constrains subsequent operational decisions.",
+    "The 2026 U.S.–Israel–Iran conflict illustrates how operational disruption, information competition, cyber incidents, and economic pressure can interact across domains.",
+    "Military effectiveness in systemic warfare depends increasingly on system resilience, redundancy, recovery capacity, and the ability to manage perception within networked information environments.",
+    "Strategic outcomes are shaped less by isolated strikes than by cumulative pressure across interconnected systems over time."
+  ],
+  "related_works": [
+    {
+      "title": "Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.18972327",
+      "relation": "Preceding EPINOVA Working Paper F-Series work that compares industrial and network-oriented operational logics and provides a conceptual foundation for systemic warfare analysis",
+      "type": "DOI"
+    },
+    {
+      "title": "Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict",
+      "identifier": "10.5281/zenodo.19027188",
+      "relation": "Related EPINOVA policy brief referenced in the PDF for platform-node and narrative competition analysis",
+      "type": "DOI"
+    },
+    {
+      "title": "2026 U.S. & allies–Iran conflict cost monitor (MCCM): An event-driven, daily expenditure and loss scenarios assessment series",
+      "identifier": "https://epinova.org/articles/f/2026-middle-east-conflict-cost-monitor-mccm",
+      "relation": "Related EPINOVA analytical platform used as supporting source for conflict cost and systemic pressure context",
+      "type": "URL"
+    }
+  ],
+  "references": [
+    "AIPAMS Analytical Platform. (2026). 2026 U.S. & allies–Iran conflict cost monitor (MCCM): An event-driven, daily expenditure and loss scenarios assessment series. https://epinova.org/articles/f/2026-middle-east-conflict-cost-monitor-mccm",
+    "Alberts, D. S., Garstka, J. J., & Stein, F. P. (2000). Network-centric warfare: Developing and leveraging information superiority. CCRP.",
+    "Associated Press. (2026, March 11). U.S. medical equipment company Stryker says cyberattack disrupted its global networks. https://apnews.com/article/stryker-cyberattack-iran-medical-equipment-products-8dd418618a3bd4fa4c97caf7978c11ee",
+    "Boyd, J. (1996). The essence of winning and losing. Unpublished briefing.",
+    "Cebrowski, A. K., & Garstka, J. J. (1998). Network-centric warfare: Its origin and future. Proceedings, 124(1), 28–35.",
+    "Clausewitz, C. von. (1976). On war (M. Howard & P. Paret, Eds. & Trans.). Princeton University Press.",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79.",
+    "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51–59.",
+    "Hoskins, A., & O’Loughlin, B. (2015). Arrested war: The third phase of mediatization. Information, Communication & Society, 18(11), 1320–1338.",
+    "Keegan, J. (1993). A history of warfare. Vintage.",
+    "Mazarr, M. J. (2019). Understanding deterrence. RAND Corporation.",
+    "Nye, J. S. (2010). The future of power. PublicAffairs.",
+    "Rid, T. (2013). Cyber war will not take place. Oxford University Press.",
+    "Rinaldi, S. M., Peerenboom, J. P., & Kelly, T. K. (2001). Identifying, understanding, and analyzing critical infrastructure interdependencies. IEEE Control Systems Magazine, 21(6), 11–25.",
+    "The Wall Street Journal. (2026, March 16). Hack on U.S. medical company shows reach of Iran’s cyber capabilities. https://www.wsj.com/politics/national-security/hack-on-u-s-medical-company-shows-reach-of-irans-cyber-capabilities-85999878",
+    "Valeriano, B., & Maness, R. C. (2015). Cyber war versus cyber realities. Oxford University Press.",
+    "Warden, J. A. (1995). The air campaign: Planning for combat. National Defense University Press.",
+    "Wu, S. (2026a). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (v1.0). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026b). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Systemic Warfare in the Networked Age, EPINOVA Working Paper F–2026–07.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-17",
+    "pagination": "19 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Operational System Architecture",
+      "description": "Layered diagram showing alliances, bases, logistics, sensors/ISR, satellites, energy, digital infrastructure, and industrial supply chains as interconnected components of operational systems.",
+      "source": "Author's conceptual framework based on the PDF",
+      "note": "Illustrates the distributed system structure through which localized disruptions can propagate across operational layers."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Operational–Information Interaction",
+      "description": "Flow diagram linking military operations, operational events, information circulation, narrative competition, political pressure, strategic constraints, operational decisions, and feedback into subsequent operations.",
+      "source": "Author's conceptual framework based on the PDF",
+      "note": "Shows the recursive feedback loop between operational disruption and information competition."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Simulated Trajectories of Systemic Pressure Under Escalation Scenarios",
+      "description": "Illustrative visualization showing strike count and modeled Systemic Pressure Index dynamics over time under escalation scenarios.",
+      "source": "Author's analytical simulation based on observed strike activity and information competition inputs described in the PDF",
+      "note": "Values are scaled for analytical illustration and do not represent calibrated real-world magnitudes."
+    },
+    {
+      "number": "Figure 4",
+      "title": "Platform Distribution of Conflict-Related Social Media Posts (February 28 – March 14, 2026, N = 5,000)",
+      "description": "Diagram showing X at 50% as the real-time narrative arena, Facebook at 24% as advocacy networks, TikTok at 16% as viral video flow, and Instagram at 10% as visual narrative.",
+      "source": "Author's structured analysis of 5,000 conflict-related social media posts described in the PDF",
+      "note": "Used to illustrate differentiated platform roles within the information competition dimension."
+    },
+    {
+      "number": "Figure 5",
+      "title": "Multi-Domain Systemic Warfare",
+      "description": "Conceptual diagram integrating information, cyber, operational, and economic domains within a systemic warfare framework.",
+      "source": "Author's conceptual framework based on the PDF",
+      "note": "Shows how systemic warfare extends across multiple interconnected domains."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Evolution of Warfare Logics",
+      "description": "Compares Industrial Warfare, Network-Centric Warfare, Operational System Warfare, and Information Competition across objects of competition and sources of strategic effect.",
+      "source": "Author's conceptual comparison in the PDF"
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions. It does not constitute policy recommendations, predictive assessments, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "Systemic Warfare in the Networked Age.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation DOI 10.5281/zenodo.19078936, formulas, figures, table, disclaimer, methodology content, and references. Early metadata supplied DOI 10.5281/zenodo.19078935, ORCID put-code 208799838, and GitHub repository information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. The PDF includes a note that Crossref DOI is to be assigned after Crossref membership approval.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19078936",
+    "crossref_doi_suffix": "epinova.wp.f.2026.007",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19078936",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI shown in the PDF recommended citation. Earlier ORCID-derived metadata listed 10.5281/zenodo.19078935 and is retained as previous_doi."
+  },
+  "orcid": {
+    "put_code": "208799838",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-17"
   }
 }

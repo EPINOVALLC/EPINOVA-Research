@@ -1,29 +1,346 @@
 {
+  "epinova_id": "EPINOVA-PB-2026-037",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-037",
   "title": "Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network",
+  "subtitle": "From Strike to System Disruption in the Caspian Logistics Network",
   "title_normalized": "beyond the battlefield: from strike to system disruption in the caspian logistics network",
-  "date": "2026-04-21",
-  "doi": "10.5281/ZENODO.19681411",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212439742",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-21",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19681411",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19681411",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19681411",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212439742",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–37",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Beyond the Battlefield From Strike to System Disruption in the Caspian Logistics Network.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Beyond the Battlefield",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes how a reported offshore infrastructure strike in the Caspian Sea may have propagated through a tightly coupled logistics network, generating coordination friction, nonlinear throughput collapse, System Health Index (SHI) degradation, and cross-theater logistics disruption.",
+  "abstract": "Recent developments in the Caspian Sea point to a structural shift in the character of modern conflict. A reported strike on offshore infrastructure triggered a sharp disruption in maritime throughput and a corresponding decline in system health indicators, revealing the vulnerability of tightly coupled logistics systems. The observed sequence—pre-disruption surge, rapid collapse, and constrained recovery—indicates that the Caspian logistics network operates under tight structural constraints and exhibits nonlinear response dynamics. This brief develops a causal framework linking infrastructure strikes to logistics system degradation, demonstrating how localized actions propagate across interconnected system layers. The analysis shows that the primary effect of such strikes lies not in immediate capacity loss, but in coordination breakdown, increased friction, and systemic instability. The findings highlight the emergence of cross-theater coupling, in which geographically separated systems become functionally integrated through shared logistical dependencies.",
+  "keywords": [
+    "Caspian logistics network",
+    "Cross-theater coupling",
+    "Logistics disruption",
+    "Infrastructure strike",
+    "System disruption",
+    "System Health Index",
+    "SHI",
+    "Flow absorption",
+    "Queue efficiency",
+    "Flow balance",
+    "Throughput collapse",
+    "Nonlinear response dynamics",
+    "Coordination friction",
+    "Routing uncertainty",
+    "Critical nodes",
+    "Logistics resilience",
+    "Risk-constrained continuity",
+    "Maritime throughput",
+    "Vessel composition",
+    "Support vessels",
+    "Tanker activity",
+    "Cargo vessels",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Escalation dynamics",
+    "Networked conflict",
+    "Modern warfare",
+    "Strategic competition",
+    "AI-enabled warfare",
+    "Information conflict",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Logistics systems",
+    "Maritime security",
+    "Caspian Sea",
+    "Infrastructure resilience",
+    "Networked conflict",
+    "Systems analysis",
+    "Escalation risk",
+    "Security studies",
+    "Critical infrastructure",
+    "Military logistics",
+    "Conflict analysis",
+    "Policy analysis",
+    "Cross-domain disruption",
+    "Operational resilience"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-21",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-21",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-21",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-21",
+      "date_type": "ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early metadata created"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Beyond the Battlefield From Strike to System Disruption in the Caspian Logistics Network.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-37/Beyond%20the%20Battlefield%20From%20Strike%20to%20System%20Disruption%20in%20the%20Caspian%20Logistics%20Network.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-37",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-37",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-037",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic disruption, logistics resilience, and escalation dynamics into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Cross-Theater Logistics Disruption and System Health Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on observed vessel-tracking behavior, throughput estimates, SHI modeling, and a causal mechanism linking infrastructure strikes to logistics friction, throughput response, and system-level degradation.",
+    "case_context": "Caspian Sea logistics disruption following a reported offshore infrastructure strike and its implications for cross-theater coupling in the U.S.–Israel–Iran conflict environment.",
+    "core_problem": "Localized infrastructure strikes can create system-wide logistics effects in tightly coupled networks even when they do not directly destroy aggregate transport capacity.",
+    "central_claims": [
+      "Single-node disruption can trigger system-wide effects in tightly coupled logistics networks.",
+      "The Caspian logistics system appears to operate near structural limits, with temporary surges followed by rapid collapse and constrained recovery.",
+      "The main strategic effect of infrastructure strikes lies in degrading system performance through friction, uncertainty, and coordination breakdown rather than eliminating physical capacity.",
+      "System Health Index degradation captures the transition from stable operation to systemic stress through declining flow absorption, queue efficiency, and flow balance.",
+      "Cross-theater coupling is operationally active when geographically separated systems are functionally connected through shared logistical dependencies."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Trigger Layer: Cross-Theater Infrastructure Strike",
+        "description": "Assesses how a reported strike on offshore or coordination-relevant infrastructure can initiate disruption even when the target is not a transport asset."
+      },
+      {
+        "name": "Logistics Layer: Friction Generation",
+        "description": "Examines coordination breakdown, routing uncertainty, localized congestion, and elevated security risk as mechanisms that reduce logistics efficiency."
+      },
+      {
+        "name": "Throughput Layer: Nonlinear Response",
+        "description": "Tracks surge, saturation, collapse, and constrained recovery as indicators of a system operating near structural limits."
+      },
+      {
+        "name": "System Layer: SHI Degradation",
+        "description": "Uses flow absorption, queue efficiency, and flow balance to interpret the decline in system health and stability."
+      },
+      {
+        "name": "Behavioral Adaptation Under Constraint",
+        "description": "Interprets changes in cargo, tanker, and support vessel composition as evidence of risk-constrained continuity rather than uniform collapse."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Flow Absorption",
+      "code": "F",
+      "description": "Captures the system's ability to absorb and sustain flow under disruption without severe backlog or breakdown."
+    },
+    {
+      "name": "Queue Efficiency",
+      "code": "Q",
+      "description": "Captures the system's ability to process queues and maintain port or transfer-point coordination under stress."
+    },
+    {
+      "name": "Flow Balance",
+      "code": "B",
+      "description": "Captures the balance and continuity of flow distribution across the logistics network."
+    },
+    {
+      "name": "System Health Index",
+      "code": "SHI",
+      "description": "Composite system health measure constructed from flow absorption, queue efficiency, and flow balance."
+    },
+    {
+      "name": "Loss-of-Control Threshold",
+      "code": "LoCT",
+      "description": "Analytical threshold at which escalation or system degradation becomes self-reinforcing and difficult to contain."
+    }
+  ],
+  "key_findings": [
+    "Single-node disruption can trigger system-wide effects, especially when non-transport critical infrastructure plays a coordination or system-interface role.",
+    "The Caspian logistics system shows signs of limited buffering capacity and high sensitivity to disruption.",
+    "The observed system response follows a three-phase pattern: pre-disruption surge, rapid collapse, and constrained recovery.",
+    "Infrastructure strikes propagate through logistics friction, throughput breakdown, and SHI degradation.",
+    "Cross-theater coupling converts localized actions into measurable downstream effects through shared logistics dependencies.",
+    "Strategic effects derive more from system degradation, increased coordination friction, and reduced efficiency than from outright physical destruction.",
+    "Vessel-composition changes indicate selective behavioral adaptation: cargo movement contracts, tanker activity withdraws sharply, and support vessels remain comparatively stable.",
+    "The system appears to transition from throughput maximization toward risk-constrained continuity under elevated stress."
+  ],
+  "policy_recommendations": [
+    "Shift from incident-based monitoring to system-level metrics, including throughput indicators and SHI-style measures of system health.",
+    "Strengthen resilience at critical nodes such as ports, coordination interfaces, infrastructure hubs, offshore platforms, and transfer points.",
+    "Integrate cross-theater dependencies into strategic risk assessment and logistics planning.",
+    "Prioritize continuity over volume in logistics system design under disruption conditions.",
+    "Treat logistics systems as buffers or amplifiers of escalation rather than as passive support infrastructure."
+  ],
+  "related_works": [
+    {
+      "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
+      "identifier": "10.5281/zenodo.19476666",
+      "relation": "Related EPINOVA policy brief on northern supply capacity and Russia–Iran logistics under constraint",
+      "type": "DOI"
+    },
+    {
+      "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure",
+      "identifier": "",
+      "relation": "Related EPINOVA policy brief on alternative logistics corridors and threshold-delaying supply under blockade pressure",
+      "type": "Related publication"
+    },
+    {
+      "title": "Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution",
+      "identifier": "10.5281/zenodo.19692046",
+      "relation": "Related EPINOVA policy brief on recovery competition and force reconstitution in the same conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19665929",
+      "relation": "Related EPINOVA policy brief on capability and sustainability readiness across the U.S., Israel, and Iran",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network, Policy Brief No. EPINOVA–2026–PB–37, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19681411. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Beyond the battlefield: From strike to system disruption in the Caspian logistics network (Policy Brief No. EPINOVA–2026–PB–37). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19681411. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Beyond the Battlefield, EPINOVA–2026–PB–37.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-21",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Mechanism of Cross-Theater Logistics Disruption",
+      "page": 3,
+      "source": "Author’s analysis",
+      "note": "Conceptual mechanism developed by the author based on the observed sequence of infrastructure disruption, logistics friction, throughput response, and SHI degradation."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Cross-Theater Strike and System-Level Disruption: Evidence from Caspian Logistics Dynamics",
+      "page": 5,
+      "source": "Author’s calculations based on vessel-tracking observations, throughput estimates, SHI modeling",
+      "note": "Top panel marks the reported strike event on April 10. Middle panel presents estimated throughput and SHI dynamics. Bottom panel reports vessel composition changes across cargo, tanker, and support vessels. SHI is constructed from flow absorption, queue efficiency, and flow balance."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Beyond the Battlefield From Strike to System Disruption in the Caspian Logistics Network.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, page-image inspection for embedded figures, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, key judgments, analytical mechanism, behavioral evidence, figures, policy takeaways, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 212439742, GitHub PDF URL, repository folder, repository URL, and ORCID-derived metadata date. DOI is normalized to lowercase Zenodo/DataCite form."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19681411",
+    "crossref_doi_suffix": "epinova.pb.2026.037",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19681411",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212439742",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-21"
   }
 }

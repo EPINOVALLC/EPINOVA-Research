@@ -1,29 +1,347 @@
 {
-  "title": "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework",
-  "title_normalized": "single-/few-human-ai firms and single-/few-human-ai-robot firms: new archetypes under the mmc framework",
-  "date": "2025-11-15",
-  "doi": "10.5281/zenodo.18088667",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2025-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201017750",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper",
+  "series_code": "WP-F",
+  "series_number": "2025-001",
+  "title": "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms",
+  "subtitle": "New Archetypes under the MMC Framework",
+  "title_full": "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework",
+  "title_normalized": "single-/few-human-ai firms and single-/few-human-ai-robot firms: new archetypes under the mmc framework",
+  "publication_date": "2025-11-15",
+  "date": "2025-11-15",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "author": "Wu, Shaoyuan",
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18088667",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18088667",
+  "official_page": "https://doi.org/10.5281/zenodo.18088667",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18088667",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI from early ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201017750",
+      "scheme": "ORCID put-code",
+      "description": "ORCID public API put-code from early metadata record"
+    },
+    {
+      "identifier": "SFHAF and SFHARF New Archetypes under the MMC Framework.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "2025-11-15",
+      "scheme": "Publication date",
+      "description": "Date shown in the PDF title page"
+    }
+  ],
+  "description": "This working paper introduces Single-/Few-Human–AI Firms (S/F-HAI-F) and Single-/Few-Human–AI–Robot Firms (S/F-HAIR-F) as distinct micro- and mini-scale firm archetypes under the MMC framework. It examines their production functions, capital structures, platform dependencies, sectoral boundaries, risk profiles, evolutionary paths, and implications for firm theory and public policy.",
+  "abstract": "Advances in generative AI, multi-agent systems, and automation are enabling a new class of firms in which one or a few humans, supported by AI and sometimes robots, can perform at scales once requiring much larger organizations. This paper introduces two such archetypes within a micro- and mini-scale firm framework (MMC): the Single-/Few-Human–AI Firm and the Single-/Few-Human–AI–Robot Firm. Although legally classified as firms, these entities differ fundamentally from traditional organizations in their production functions, capital structures, and risk profiles. These firms are not merely automated sole proprietorships, but organizational forms in which algorithmic capital functionally substitutes for internal labor hierarchies. S/F-HAI-F is characterized by AI-intensive, cognition-focused production, extreme labor leverage, high fixed and near-zero marginal costs, and strong dependence on digital platforms. S/F-HAIR-F extends this model by integrating robotic capital, allowing single- or few-human firms to directly engage in manufacturing, agriculture, logistics, and other physical sectors through micro-scale, automated operations. The paper compares these two archetypes and argues that they represent distinct, path-dependent trajectories rather than stages of a single evolution. The analysis shows that existing firm theories remain applicable but must be extended to account for algorithmic and robotic capital, platform governance, and minimal human headcount. The paper concludes by outlining key implications for firm theory and public policy, including taxation, regulation, and workforce transformation in an economy increasingly shaped by human–AI–robot micro-firms.",
+  "keywords": [
+    "Single-/Few-Human–AI Firm",
+    "Single-/Few-Human–AI–Robot Firm",
+    "S/F-HAI-F",
+    "S/F-HAIR-F",
+    "MMC framework",
+    "Micro- and mini-scale firms",
+    "Human–AI collaboration",
+    "Human–AI–robot collaboration",
+    "Algorithmic capital",
+    "Robotic capital",
+    "Platform governance",
+    "Firm theory",
+    "Production function",
+    "Automation",
+    "Generative AI",
+    "Multi-agent systems",
+    "Labor leverage",
+    "Microeconomic units"
+  ],
+  "subjects": [
+    "Artificial Intelligence",
+    "Firm Theory",
+    "Microeconomics",
+    "Platform Governance",
+    "Robotics and Automation",
+    "Future of Work",
+    "Human-AI-Robot Systems",
+    "MMC Framework"
+  ],
+  "dates": [
+    {
+      "date": "2025-11-15",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-11-15",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "SFHAF and SFHARF New Archetypes under the MMC Framework.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-11-15/SFHAF%20and%20SFHARF%20New%20Archetypes%20under%20the%20MMC%20Framework.pdf",
+      "format": "application/pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-11-15",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-11-15",
+  "source_repository": "EPINOVA-Research GitHub repository",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper",
+    "series_code": "WP-F",
+    "series_number": "2025-001",
+    "series_description": "Working paper in the F-series folder of the EPINOVA Research repository, focused on foundational and theoretical work related to AI-mediated economic and organizational transformation."
+  },
+  "framework": {
+    "framework_name": "MMC Framework",
+    "framework_full_name": "Micro & Mini-scale Corporate Sector Framework",
+    "analytical_focus": "Single-/few-human micro-firm archetypes enabled by AI, multi-agent systems, automation, and robotic capital",
+    "core_archetypes": [
+      {
+        "name": "Single-/Few-Human–AI Firm",
+        "abbreviation": "S/F-HAI-F",
+        "definition": "A production unit consisting of one or a very small number of human decision-makers plus AI systems, producing primarily informational, knowledge-based, or decision-oriented services.",
+        "production_function": "Y = F(L_h, K_ai, K_c)",
+        "core_features": [
+          "AI-intensive cognition-focused production",
+          "Highly leveraged human capital",
+          "High fixed costs and near-zero marginal costs within capacity limits",
+          "Structural dependence on AI, cloud, data, and platform providers",
+          "Asset-light and cloud-flexible operation"
+        ],
+        "sectoral_embedding": [
+          "Policy, legal, and economic consulting",
+          "Financial and compliance analytics",
+          "Software, game, and tool development",
+          "Online education and personalized tutoring",
+          "Media, content creation, branding, and personal IP operations"
+        ]
+      },
+      {
+        "name": "Single-/Few-Human–AI–Robot Firm",
+        "abbreviation": "S/F-HAIR-F",
+        "definition": "A single-/few-human firm that integrates AI systems with a non-negligible stock of robotic capital to directly produce tangible goods or physical services.",
+        "production_function": "Y = F(L_h, K_ai, K_r, K_c)",
+        "core_features": [
+          "Cognitive–physical integration",
+          "Robotic capital and automated physical execution",
+          "Medium-asset structure with maintenance, depreciation, and obsolescence risks",
+          "Exposure to safety, equipment, environmental, product-liability, and local regulatory risks",
+          "Infrastructure-constrained spatial embedding"
+        ],
+        "sectoral_embedding": [
+          "Flexible micro-factories and small-batch manufacturing",
+          "AI-assisted agriculture and smart farming",
+          "Last-mile logistics and urban services",
+          "Inspection robots, drones, autonomous vehicles, and automated production cells"
+        ]
+      }
+    ]
+  },
+  "methodology": {
+    "approach": "Conceptual and theoretical economic analysis",
+    "main_concepts": [
+      "Microeconomic unit of analysis",
+      "Firm archetypes under minimal human headcount",
+      "Algorithmic capital as a substitute for internal labor hierarchies",
+      "Robotic capital as a pathway from cognitive services to physical production",
+      "Platform dependence and quasi-hierarchical platform governance",
+      "Path-dependent differentiation between S/F-HAI-F and S/F-HAIR-F"
+    ],
+    "main_formulas": [
+      {
+        "number": "2.1.1",
+        "name": "Human headcount constraint",
+        "formula": "0 < H ≤ H̄",
+        "description": "Defines the single-/few-human condition, where H denotes the number of human principals and H̄ is a small upper bound such as 1–3."
+      },
+      {
+        "number": "2.1.2",
+        "name": "S/F-HAI-F production function",
+        "formula": "Y = F(L_h, K_ai, K_c)",
+        "description": "Represents output as a function of human labor input, AI-related capital, and conventional capital."
+      },
+      {
+        "number": "3.1",
+        "name": "S/F-HAIR-F production function",
+        "formula": "Y = F(L_h, K_ai, K_r, K_c)",
+        "description": "Extends the S/F-HAI-F production function by incorporating robotic capital K_r for physical-sector production."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Human labor input",
+      "code": "L_h",
+      "description": "Human time, skills, expertise, decision-making capacity, and social capital supplied by one or a very small number of human principals."
+    },
+    {
+      "name": "AI-related capital",
+      "code": "K_ai",
+      "description": "Model subscriptions, fine-tuned weights, vector databases, AI agents, automation workflows, and data pipelines."
+    },
+    {
+      "name": "Robotic capital",
+      "code": "K_r",
+      "description": "Robots and automated physical systems such as collaborative robot arms, drones, 3D printers, CNC modules, inspection robots, and autonomous vehicles."
+    },
+    {
+      "name": "Conventional capital",
+      "code": "K_c",
+      "description": "Computers, software, office space, basic tools, and other non-AI/non-robotic assets."
+    },
+    {
+      "name": "Human headcount",
+      "code": "H",
+      "description": "The number of human principals involved in decision-making and day-to-day operation, constrained to a very small number."
+    }
+  ],
+  "key_findings": [
+    "One or a few humans supported by AI can increasingly perform productive functions that previously required larger organizations.",
+    "S/F-HAI-F and S/F-HAIR-F remain legally firms, but their internal production functions, capital structures, and risk profiles differ substantially from conventional firms and sole proprietorships.",
+    "S/F-HAI-F relies on algorithmic capital to substitute for internal labor hierarchies and is strongest in digital, cognitive, and knowledge-intensive sectors.",
+    "S/F-HAIR-F extends the model into physical sectors by adding robotic capital, enabling micro-scale manufacturing, agriculture, logistics, and urban-service operations under a very small human core.",
+    "The two archetypes are related but path-dependent trajectories rather than stages of a single linear evolution.",
+    "Existing firm theories remain applicable but require extension to account for algorithmic capital, robotic capital, platform governance, and extreme labor leverage.",
+    "Policy implications include taxation, social protection, platform and infrastructure regulation, sector-specific safety regulation, education, and workforce reskilling."
+  ],
+  "typological_comparison": [
+    {
+      "criterion": "Primary output",
+      "sf_hai_f": "Informational, knowledge-based, decision-oriented services",
+      "sf_hair_f": "Tangible goods or physical services integrated with cognitive decision-making"
+    },
+    {
+      "criterion": "Capital mix",
+      "sf_hai_f": "Human labor, AI capital, conventional digital tools",
+      "sf_hair_f": "Human labor, AI capital, robotic capital, conventional capital"
+    },
+    {
+      "criterion": "Risk structure",
+      "sf_hai_f": "Platform dependence, data governance, AI policy and cloud-service risk",
+      "sf_hair_f": "Platform and data risk plus safety, equipment, environmental, and product-liability risk"
+    },
+    {
+      "criterion": "Spatial embedding",
+      "sf_hai_f": "Cloud-flexible, location-light, potentially nomadic",
+      "sf_hair_f": "Infrastructure-constrained by power, connectivity, transport, industrial space, and local regulation"
+    },
+    {
+      "criterion": "Evolutionary logic",
+      "sf_hai_f": "Deepening cognitive specialization and scaling intangible outputs",
+      "sf_hair_f": "Densifying and coordinating physical capacity while maintaining a small human core"
+    }
+  ],
+  "policy_implications": [
+    "Tax systems and social safety nets may need adaptation for highly leveraged micro-firms with minimal human headcount.",
+    "Platform and infrastructure regulation should address structural dependence on a small number of AI and cloud providers.",
+    "Sector-specific regulation is required when micro-scale robotic producers enter manufacturing, agriculture, logistics, and physical services.",
+    "Education and reskilling systems should prepare workers to design, supervise, and govern S/F-HAI-F and S/F-HAIR-F systems."
+  ],
+  "related_works": [],
+  "references": [
+    "Acemoglu, D., & Restrepo, P. (2020). Artificial intelligence and jobs. Journal of Economic Perspectives, 34(3), 30–50. https://doi.org/10.1257/jep.34.3.30",
+    "Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. Journal of Economic Perspectives, 29(3), 3–30. https://doi.org/10.1257/jep.29.3.3",
+    "Coase, R. H. (1937). The nature of the firm. Economica, 4(16), 386–405. https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+    "European Commission. (2024). Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). https://eur-lex.europa.eu",
+    "Grossman, S. J., & Hart, O. D. (1986). The costs and benefits of ownership: A theory of vertical and lateral integration. Journal of Political Economy, 94(4), 691–719. https://doi.org/10.1086/261404",
+    "Kellogg, K. C., Valentine, M. A., & Christin, A. (2020). Algorithms at work: The new contested terrain of control. Academy of Management Annals, 14(1), 366–410. https://doi.org/10.5465/annals.2018.0174",
+    "OECD. (2023). OECD AI policy observatory: Artificial intelligence, productivity and the future of work. Organisation for Economic Co-operation and Development. https://oecd.ai",
+    "Parker, G. G., Van Alstyne, M. W., & Choudary, S. P. (2016). Platform revolution: How networked markets are transforming the economy—and how to make them work for you. W. W. Norton & Company.",
+    "Rochet, J.-C., & Tirole, J. (2006). Two-sided markets: A progress report. RAND Journal of Economics, 37(3), 645–667. https://doi.org/10.1111/j.1756-2171.2006.tb00036.x",
+    "Williamson, O. E. (1985). The economic institutions of capitalism. Free Press."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18088667. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). Single-/few-human–AI firms and single-/few-human–AI–robot firms: New archetypes under the MMC framework. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18088667. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-11-15"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata record. The working paper presents a conceptual and theoretical analysis of emerging human–AI and human–AI–robot micro-firm archetypes under the MMC framework.",
   "metadata_source": {
+    "source_file": "SFHAF and SFHARF New Archetypes under the MMC Framework.pdf",
+    "source_type": "PDF + early metadata.json",
+    "extraction_method": "PDF text extraction and early ORCID-derived metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "generated_on": "2026-04-30",
+    "notes": "Metadata fields were populated from the title page, abstract, body sections, formulas, conclusion, and references of the PDF, supplemented by the early ORCID-derived metadata record for DOI, ORCID put-code, GitHub file URL, and repository folder."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref registration is indicated in the provided metadata. The DOI is treated as a Zenodo/DataCite DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18088667",
+    "crossref_doi_suffix": "epinova.wp.f.2025.001.sfhaf.sfharf.mmc",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18088667",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI supplied by the early ORCID-derived metadata record."
+  },
+  "orcid": {
+    "put_code": "201017750",
+    "source": "ORCID Public API",
+    "work_type": "working-paper",
+    "status": "available_in_early_metadata"
   }
 }

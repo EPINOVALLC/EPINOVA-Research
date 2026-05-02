@@ -1,29 +1,334 @@
 {
-  "title": "Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict",
+  "epinova_id": "EPINOVA-PB-2026-036",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-036",
+  "title": "Who Is Ready Under Renewed Conflict?",
+  "subtitle": "A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict",
   "title_normalized": "who is ready under renewed conflict? a capability-sustainability assessment of the u.s.-israel-iran conflict",
-  "date": "2026-04-20",
-  "doi": "10.5281/ZENODO.19665929",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212275412",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-20",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19665929",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19665929",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19665929",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212275412",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–36",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Who Is Ready Under Renewed Conflict A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict.S.–Israel–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Who Is Ready Under Renewed Conflict?",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses comparative readiness in the U.S.–Israel–Iran conflict through a capability–sustainability framework. It argues that the United States is best positioned for short-duration, high-intensity operations; Iran is structurally better positioned for prolonged cost-imposition conflict; and Israel is operationally effective but constrained by limited strategic depth, multi-front exposure, and escalation lock-in.",
+  "abstract": "In the event of renewed hostilities, the United States, Israel, and Iran would enter the conflict with distinct readiness profiles across two core dimensions: immediate military capability and long-term sustainability under systemic pressure. The United States retains decisive short-term combat readiness and the ability to initiate and dominate high-intensity, multi-domain operations. Iran is structurally better positioned for protracted conflict through cost-imposition strategies, distributed systems, and lower-cost offensive capabilities. Israel demonstrates high operational effectiveness but limited sustainability because of geography, force structure, and multi-front exposure. The central implication is that readiness is multidimensional rather than absolute: actors are prepared for different types of conflict, not the same one.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Capability readiness",
+    "Sustainability readiness",
+    "Readiness assessment",
+    "Systemic pressure",
+    "Cost-imposition strategy",
+    "Escalation control",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Threshold competition",
+    "Protracted conflict",
+    "Short-duration conflict",
+    "Military sustainability",
+    "Strategic endurance",
+    "Escalation lock-in",
+    "Multi-domain operations",
+    "Information warfare",
+    "Networked conflict",
+    "Strategic competition",
+    "Middle East security",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International security",
+    "Military affairs",
+    "Conflict analysis",
+    "Middle East security",
+    "Escalation dynamics",
+    "Systems analysis",
+    "Defense policy",
+    "Geopolitics",
+    "Networked conflict",
+    "Crisis stability",
+    "Policy analysis",
+    "Security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-20",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-20",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-20",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-20",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Who Is Ready Under Renewed Conflict A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict.S.–Israel–Iran Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-36/Who%20Is%20Ready%20Under%20Renewed%20Conflict%20A%20Capability%E2%80%93Sustainability%20Assessment%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-36",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-36",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-036",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, escalation dynamics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Capability–Sustainability Readiness Assessment Framework",
+    "source_basis": "Policy-facing structural assessment based on a two-dimensional distinction between immediate military capability and long-term sustainability under systemic pressure.",
+    "case_context": "Renewed hostilities in the U.S.–Israel–Iran conflict, with comparative focus on the United States, Israel, and Iran.",
+    "core_problem": "Conventional readiness assessments often treat military preparedness as a single capability measure, but conflict outcomes under cumulative systemic pressure depend on how short-term combat capability interacts with long-term sustainability, cost structure, escalation control, and distance to the Loss-of-Control Threshold.",
+    "central_claims": [
+      "Readiness is multidimensional rather than absolute; the United States, Israel, and Iran are prepared for different types of conflict.",
+      "Short-duration, high-intensity conflict favors the United States because of superior force projection, ISR integration, precision strike, and multi-domain coordination.",
+      "Protracted conflict favors Iran because distributed systems, lower-cost offensive capabilities, and cost-imposition strategies can sustain pressure over time.",
+      "Israel is operationally effective but structurally constrained in endurance by geography, force structure, multi-front exposure, and escalation lock-in.",
+      "The decisive strategic risk is not immediate defeat but loss of control under cumulative systemic pressure."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Capability Readiness",
+        "description": "Assesses the ability to initiate and dominate early-phase combat through force projection, operational integration, strike effectiveness, and escalation management."
+      },
+      {
+        "name": "Sustainability Readiness",
+        "description": "Assesses the ability to absorb cumulative pressure over time through cost structure, resource regeneration, and system resilience across military, economic, and political domains."
+      },
+      {
+        "name": "Cost-Imposition Competition",
+        "description": "Examines how lower-cost offensive systems and distributed architectures can impose increasing adaptation costs on higher-cost adversaries."
+      },
+      {
+        "name": "Escalation Lock-In",
+        "description": "Analyzes how deterrence credibility and sustained operational tempo can compress decision space and reduce strategic flexibility."
+      },
+      {
+        "name": "Loss-of-Control Threshold",
+        "description": "Treats LoCT as an analytical construct for the point at which escalation becomes self-reinforcing and difficult to contain."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Capability Readiness",
+      "code": "CR",
+      "description": "Ability to initiate and dominate early-phase combat, including force projection, operational integration, strike effectiveness, and escalation management."
+    },
+    {
+      "name": "Sustainability Readiness",
+      "code": "SR",
+      "description": "Ability to absorb cumulative pressure over time, including cost structure, resource regeneration, and system resilience across military, economic, and political domains."
+    },
+    {
+      "name": "Cost Structure",
+      "code": "CS",
+      "description": "Relative cost burden of sustaining offensive, defensive, logistical, and adaptation requirements over time."
+    },
+    {
+      "name": "Information Warfare",
+      "code": "IW",
+      "description": "Relative ability to shape information dynamics, perception effects, and narrative pressure during sustained conflict."
+    },
+    {
+      "name": "Escalation Control",
+      "code": "EC",
+      "description": "Capacity to manage escalation pathways, preserve decision space, and avoid self-reinforcing escalation cycles."
+    },
+    {
+      "name": "Distance to Loss-of-Control Threshold",
+      "code": "D-LoCT",
+      "description": "Relative proximity to the systemic tipping point at which escalation becomes self-reinforcing and difficult to contain."
+    }
+  ],
+  "key_findings": [
+    "Readiness diverges across actors along capability and sustainability dimensions, producing distinct warfighting profiles.",
+    "Short-duration conflicts favor the United States, while protracted conflicts favor Iran.",
+    "Israel is structurally predisposed toward escalation but constrained in long-term endurance.",
+    "The primary strategic risk is not defeat, but loss of control under cumulative systemic pressure.",
+    "The capability ranking is assessed as United States > Israel > Iran.",
+    "The sustainability ranking is assessed as Iran ≥ United States > Israel.",
+    "The United States is fully prepared to initiate and dominate early-phase combat operations but faces rising cost pressure and strategic trade-offs in prolonged conflict.",
+    "Iran is not positioned for decisive conventional victory but remains operationally viable in sustained strike exchange and structurally optimized for prolonged conflict.",
+    "Israel is tactically highly capable but intensity-dependent and least suited for extended high-intensity conflict.",
+    "Loss of control emerges not from singular defeat but from the accumulation of systemic pressure over time."
+  ],
+  "policy_recommendations": [
+    "Assess conflict readiness through both capability and sustainability rather than a single aggregate readiness score.",
+    "Distinguish short-duration operational advantage from long-term strategic endurance when evaluating escalation scenarios.",
+    "Monitor cost structure, resource regeneration, information dynamics, and escalation control as core indicators of conflict sustainability.",
+    "Treat Loss-of-Control Threshold proximity as a central policy concern in sustained cross-domain interaction.",
+    "Prioritize control preservation and escalation management over assumptions of decisive military termination."
+  ],
+  "related_works": [
+    {
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief on systemic pressure and high-pressure equilibrium in the same conflict system",
+      "type": "DOI"
+    },
+    {
+      "title": "Who Loses Control First? Threshold Competition in the 2026 U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19118195",
+      "relation": "Related EPINOVA working paper on threshold competition and Loss-of-Control Threshold dynamics",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper providing broader theoretical context for LoCT analysis",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–36, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19665929. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–36). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19665929. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Who Is Ready Under Renewed Conflict?, EPINOVA–2026–PB–36.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-20",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Relative Positioning of Actors by Capability and Sustainability",
+      "page": 3,
+      "caption": "Relative positioning of the United States, Israel, and Iran across capability and sustainability dimensions.",
+      "note": "Capability and sustainability are composite assessments based on operational, economic, and systemic indicators.",
+      "source": "Author’s analysis."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Structural Comparison of Readiness Across the United States, Israel, and Iran",
+      "page": 3,
+      "description": "Compares the United States, Israel, and Iran across war initiation capability, sustained operations, cost structure, information warfare, escalation control, and distance to LoCT.",
+      "note": "Readiness is conceptualized as a composite construct incorporating operational capability, sustainability under cost pressure, information dynamics, and escalation control capacity. LoCT refers to the systemic tipping point at which escalation becomes self-reinforcing and difficult to contain. Assessments are relative and based on current conflict conditions.",
+      "source": "Author’s analysis."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Who Is Ready Under Renewed Conflict A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, page-image review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied the policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical framework, capability and sustainability rankings, figure, table, limitations, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI capitalization, ORCID put-code 212275412, GitHub PDF URL, repository folder, repository URL, and original report/category labels. The record has been normalized to the EPINOVA policy-brief schema; the Zenodo/DataCite DOI is used as the primary DOI."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19665929",
+    "crossref_doi_suffix": "epinova.pb.2026.036",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19665929",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212275412",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-20"
   }
 }

@@ -11,471 +11,59 @@
   <meta property="og:site_name" content="EPINOVA Publications">
 
   <style>
-:root {
-  --text: #202020;
-  --muted: #666;
-  --border: #d9d9d9;
-  --soft: #f7f7f7;
-  --soft2: #fbfbfb;
-  --link: #0b5cad;
-  --dark: #050505;
-  --dark2: #111;
-  --green: #2f7d32;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  background: #fff;
-}
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--text);
-  background: #fff;
-  line-height: 1.55;
-}
-
-a {
-  color: var(--link);
-  overflow-wrap: anywhere;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.topbar {
-  background: var(--dark);
-  color: #fff;
-  border-bottom: 1px solid #222;
-}
-
-.topbar-inner {
-  max-width: 1180px;
-  min-height: 96px;
-  margin: 0 auto;
-  padding: 12px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.logo-only-header {
-  justify-content: center;
-}
-
-.brand-logo-wrap {
-  width: 620px;
-  height: 88px;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.brand-logo {
-  width: 560px;
-  height: auto;
-  max-height: none;
-  object-fit: contain;
-  display: block;
-  transform: translateX(-18px) scale(1.05);
-  transform-origin: center center;
-}
-
-.publication-nav-bar {
-  width: 100%;
-  background: #f4f4f4;
-  border-top: 1px solid #d6d6d6;
-  border-bottom: 1px solid #d6d6d6;
-}
-
-.publication-nav {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 11px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 34px;
-}
-
-.publication-nav a {
-  color: #222222;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
-}
-
-.publication-nav a:hover {
-  color: #0b5cad;
-  text-decoration: none;
-}
-
-.container {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 32px 24px 48px;
-}
-
-.record-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 340px;
-  gap: 34px;
-  align-items: start;
-}
-
-.record-main {
-  min-width: 0;
-}
-
-.record-sidebar {
-  min-width: 0;
-}
-
-.record-info-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 18px;
-  align-items: center;
-  margin-bottom: 20px;
-  color: var(--muted);
-  font-size: 14px;
-}
-
-.label-group {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-
-.label {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  border: 1px solid var(--border);
-  background: #f1f1f1;
-  border-radius: 4px;
-  padding: 4px 8px;
-  font-size: 12px;
-  color: #333;
-}
-
-.label-open {
-  color: var(--green);
-  border-color: #b6d7b9;
-  background: #f5fbf5;
-}
-
-h1 {
-  font-size: 34px;
-  line-height: 1.22;
-  margin: 0 0 16px;
-  font-weight: 700;
-}
-
-h2 {
-  font-size: 22px;
-  line-height: 1.3;
-  margin: 32px 0 12px;
-}
-
-h3 {
-  font-size: 17px;
-  margin: 0 0 10px;
-}
-
-.record-section {
-  margin-top: 28px;
-}
-
-.creators {
-  margin-bottom: 22px;
-}
-
-.plain-list {
-  padding-left: 20px;
-}
-
-.muted {
-  color: var(--muted);
-}
-
-.rich-text {
-  word-wrap: break-word;
-  overflow-wrap: anywhere;
-}
-
-.panel {
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: #fff;
-  margin-top: 14px;
-  overflow: hidden;
-}
-
-.panel-heading {
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-  padding: 10px 14px;
-  font-weight: 700;
-}
-
-.file-preview {
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: #fff;
-  overflow: hidden;
-  margin: 14px 0;
-}
-
-.file-preview-title {
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-  padding: 10px 14px;
-  font-weight: 700;
-}
-
-.file-preview iframe {
-  width: 100%;
-  height: 620px;
-  border: 0;
-  background: #eee;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 14px;
-}
-
-th, td {
-  border-top: 1px solid var(--border);
-  padding: 9px 10px;
-  text-align: left;
-  vertical-align: top;
-}
-
-thead th {
-  background: var(--soft);
-  border-top: 0;
-}
-
-.file-table td.right {
-  text-align: right;
-  white-space: nowrap;
-}
-
-.button {
-  display: inline-block;
-  border: 1px solid #777;
-  border-radius: 4px;
-  padding: 7px 11px;
-  color: #111;
-  background: #fff;
-  text-decoration: none;
-}
-
-.button:hover {
-  border-color: #111;
-  text-decoration: none;
-}
-
-.button.small {
-  padding: 4px 8px;
-  font-size: 13px;
-}
-
-.sidebar-box {
-  border: 1px solid var(--border);
-  background: #fff;
-  border-radius: 4px;
-  margin-bottom: 18px;
-  overflow: hidden;
-}
-
-.sidebar-box h2 {
-  margin: 0;
-  font-size: 17px;
-  padding: 12px 14px;
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-}
-
-.details-list {
-  margin: 0;
-  padding: 14px;
-}
-
-.details-list dt {
-  font-size: 12px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-top: 12px;
-  font-weight: 700;
-}
-
-.details-list dt:first-child {
-  margin-top: 0;
-}
-
-.details-list dd {
-  margin: 4px 0 0;
-  overflow-wrap: anywhere;
-}
-
-.sidebar-links {
-  margin: 0;
-  padding: 14px 14px 14px 32px;
-}
-
-.citation-text {
-  margin: 0;
-  padding: 14px;
-  font-size: 14px;
-  overflow-wrap: anywhere;
-}
-
-.references li {
-  margin-bottom: 8px;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
-  margin-top: 24px;
-}
-
-.card {
-  display: block;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 18px;
-  color: var(--text);
-  background: #fff;
-}
-
-.card:hover {
-  border-color: #111;
-  text-decoration: none;
-}
-
-.latest-list li,
-.category-list li {
-  margin-bottom: 10px;
-}
-
-.footer {
-  background: var(--dark);
-  color: #ccc;
-  margin-top: 48px;
-}
-
-.footer-inner {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 28px 24px;
-  display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
-  gap: 24px;
-  font-size: 14px;
-}
-
-.footer h2 {
-  color: #fff;
-  border: 0;
-  padding: 0;
-  margin: 0 0 10px;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.footer a {
-  color: #fff;
-}
-
-.footer-bottom {
-  border-top: 1px solid #222;
-  padding-top: 14px;
-  margin-top: 14px;
-  grid-column: 1 / -1;
-  color: #aaa;
-  font-size: 13px;
-}
-
-.small {
-  font-size: 13px;
-}
-
-@media (max-width: 900px) {
-  .record-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .topbar-inner {
-    max-width: 1180px;
-    min-height: 108px;
-    margin: 0 auto;
-    padding: 10px 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .logo-only-header {
-    justify-content: center;
-  }
-
-  .brand-logo-wrap {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: visible;
-  }
-
-  .brand-logo {
-    width: min(400px, 92vw);
-    height: auto;
-    max-height: 62px;
-    transform: none;
-  }
-
-  .publication-nav {
-    flex-wrap: wrap;
-    gap: 10px 20px;
-    padding: 10px 16px;
-  }
-
-  .publication-nav a {
-    font-size: 12px;
-    letter-spacing: 0.04em;
-  }
-
-  h1 {
-    font-size: 28px;
-  }
-
-  .file-preview iframe {
-    height: 460px;
-  }
-
-  .footer-inner {
-    grid-template-columns: 1fr;
-  }
-}
+:root { --text:#202020; --muted:#666; --border:#d9d9d9; --soft:#f7f7f7; --link:#0b5cad; --dark:#050505; --green:#2f7d32; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--text); background:#fff; line-height:1.55; }
+a { color:var(--link); overflow-wrap:anywhere; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.topbar { background:var(--dark); color:#fff; border-bottom:1px solid #222; }
+.topbar-inner { max-width:1180px; min-height:160px; margin:0 auto; padding:12px 24px; display:flex; align-items:center; justify-content:center; }
+.brand-logo-wrap { width:620px; height:100px; overflow:hidden; display:flex; align-items:center; justify-content:center; }
+.brand-logo { width:560px; height:auto; object-fit:contain; display:block; transform:translateX(-18px) scale(1.05); transform-origin:center center; }
+.publication-nav-bar { width:100%; background:#f4f4f4; border-top:1px solid #d6d6d6; border-bottom:1px solid #d6d6d6; }
+.publication-nav { max-width:1180px; margin:0 auto; padding:11px 24px; display:flex; align-items:center; justify-content:center; gap:34px; flex-wrap:wrap; }
+.publication-nav a { color:#222; font-size:13px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; white-space:nowrap; }
+.container { max-width:1180px; margin:0 auto; padding:32px 24px 48px; }
+.record-grid { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:34px; align-items:start; }
+.record-info-row { display:flex; justify-content:space-between; gap:18px; align-items:center; margin-bottom:20px; color:var(--muted); font-size:14px; }
+.label-group { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+.label { display:inline-flex; border:1px solid var(--border); background:#f1f1f1; border-radius:4px; padding:4px 8px; font-size:12px; color:#333; }
+.label-open { color:var(--green); border-color:#b6d7b9; background:#f5fbf5; }
+h1 { font-size:34px; line-height:1.22; margin:0 0 16px; font-weight:700; }
+h2 { font-size:22px; line-height:1.3; margin:32px 0 12px; }
+h3 { font-size:17px; margin:0 0 10px; }
+.record-section { margin-top:28px; }
+.plain-list { padding-left:20px; }
+.muted { color:var(--muted); }
+.panel, .file-preview, .sidebar-box { border:1px solid var(--border); border-radius:4px; background:#fff; overflow:hidden; margin-top:14px; }
+.panel-heading, .file-preview-title, .sidebar-box h2 { background:var(--soft); border-bottom:1px solid var(--border); padding:10px 14px; font-weight:700; }
+.file-preview iframe { width:100%; height:620px; border:0; background:#eee; }
+table { width:100%; border-collapse:collapse; font-size:14px; }
+th, td { border-top:1px solid var(--border); padding:9px 10px; text-align:left; vertical-align:top; }
+thead th { background:var(--soft); border-top:0; }
+.file-table td.right { text-align:right; white-space:nowrap; }
+.button { display:inline-block; border:1px solid #777; border-radius:4px; padding:7px 11px; color:#111; background:#fff; }
+.button.small { padding:4px 8px; font-size:13px; }
+.sidebar-box { margin-bottom:18px; }
+.sidebar-box h2 { margin:0; font-size:17px; }
+.details-list { margin:0; padding:14px; }
+.details-list dt { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; margin-top:12px; font-weight:700; }
+.details-list dt:first-child { margin-top:0; }
+.details-list dd { margin:4px 0 0; overflow-wrap:anywhere; }
+.sidebar-links { margin:0; padding:14px 14px 14px 32px; }
+.citation-text { margin:0; padding:14px; font-size:14px; overflow-wrap:anywhere; }
+.references li, .latest-list li, .category-list li { margin-bottom:10px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin-top:24px; }
+.card { display:block; border:1px solid var(--border); border-radius:6px; padding:18px; color:var(--text); background:#fff; }
+.latest-category-block, .year-block { margin-top:22px; }
+.subcategory-block { margin-top:34px; }
+.subcategory-block h2 { font-size:21px; margin:0 0 16px; padding-bottom:6px; border-bottom:1px solid var(--border); }
+.footer { background:var(--dark); color:#ccc; margin-top:48px; }
+.footer-inner { max-width:1180px; margin:0 auto; padding:28px 24px; display:grid; grid-template-columns:1.5fr 1fr 1fr; gap:24px; font-size:14px; }
+.footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
+.footer a { color:#fff; }
+.footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
+@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
 </style>
 
 </head>
@@ -483,89 +71,29 @@ thead th {
 
 <header class="topbar">
   <div class="topbar-inner logo-only-header">
-    <div class="brand-logo-wrap">
-      <img
-        class="brand-logo"
-        src="/assets/global-ai-governance-logo.png"
-        alt="Global AI Governance and Policy Research Center, EPINOVA LLC"
-      >
-    </div>
+    <div class="brand-logo-wrap"><img class="brand-logo" src="/assets/global-ai-governance-logo.png" alt="Global AI Governance and Policy Research Center, EPINOVA LLC"></div>
   </div>
 </header>
-
 <div class="publication-nav-bar">
   <nav class="publication-nav" aria-label="Publication navigation">
     <a href="/">Publications</a>
+    <a href="/articles/">Articles</a>
     <a href="/policy-briefs/">Policy Briefs</a>
     <a href="/working-papers/">Working Papers</a>
-    <a href="/reports/">Reports</a>
     <a href="/white-books/">White Books</a>
+    <a href="/research-reports/">Research Reports</a>
     <a href="https://epinova.org">EPINOVA</a>
   </nav>
 </div>
 
-
-<main class="container">
-  <p><a href="/">← EPINOVA Publications</a></p>
-  <h1>Policy Briefs</h1>
-  <p class="muted">4 publications</p>
-
-  <ul class="category-list">
-    
-<li>
-  <strong>EPINOVA-PB-2026-044</strong> —
-  <a href="/epinova-pb-2026-044/">Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike</a>
-  <br>
-  <span class="muted">Policy Brief · 2026-04-29</span>
-</li>
-
-<li>
-  <strong>EPINOVA-PB-2026-043</strong> —
-  <a href="/epinova-pb-2026-043/">Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure</a>
-  <br>
-  <span class="muted">Policy Brief · 2026-04-28</span>
-</li>
-
-<li>
-  <strong>EPINOVA-PB-2026-042</strong> —
-  <a href="/epinova-pb-2026-042/">Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure</a>
-  <br>
-  <span class="muted">Policy Brief · 2026-04-28</span>
-</li>
-
-<li>
-  <strong>EPINOVA-PB-2026-041</strong> —
-  <a href="/epinova-pb-2026-041/">Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict</a>
-  <br>
-  <span class="muted">Policy Brief · 2026-04-25</span>
-</li>
-
-  </ul>
-</main>
-
+<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>Policy Briefs</h1><p class='muted'>46 publications</p><div class='year-block'><h2>2026</h2><ul class='category-list'><li><strong>EPINOVA-PB-2026-044</strong> — <a href='/epinova-pb-2026-044/'>Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike: Visible Vessel Contraction, Port-Rhythm Inversion, and Window-Based Logistics in the Caspian Corridor</a><br><span class='muted'>Policy Brief · 2026-04-29</span></li><li><strong>EPINOVA-PB-2026-043</strong> — <a href='/epinova-pb-2026-043/'>Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply</a><br><span class='muted'>Policy Brief · 2026-04-28</span></li><li><strong>EPINOVA-PB-2026-042</strong> — <a href='/epinova-pb-2026-042/'>Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply</a><br><span class='muted'>Policy Brief · 2026-04-28</span></li><li><strong>EPINOVA-PB-2026-041</strong> — <a href='/epinova-pb-2026-041/'>Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-04-25</span></li><li><strong>EPINOVA-PB-2026-040</strong> — <a href='/epinova-pb-2026-040/'>Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance</a><br><span class='muted'>Policy Brief · 2026-04-23</span></li><li><strong>EPINOVA-PB-2026-039</strong> — <a href='/epinova-pb-2026-039/'>Flow Persistence Under Blockade: Systemic Friction and the Emergence of a Porous Maritime Regime</a><br><span class='muted'>Policy Brief · 2026-04-22</span></li><li><strong>EPINOVA-PB-2026-038</strong> — <a href='/epinova-pb-2026-038/'>Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution</a><br><span class='muted'>Policy Brief · 2026-04-22</span></li><li><strong>EPINOVA-PB-2026-037</strong> — <a href='/epinova-pb-2026-037/'>Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network: From Strike to System Disruption in the Caspian Logistics Network</a><br><span class='muted'>Policy Brief · 2026-04-21</span></li><li><strong>EPINOVA-PB-2026-036</strong> — <a href='/epinova-pb-2026-036/'>Who Is Ready Under Renewed Conflict?: A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-04-20</span></li><li><strong>EPINOVA-PB-2026-035</strong> — <a href='/epinova-pb-2026-035/'>Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50</a><br><span class='muted'>Policy Brief · 2026-04-18</span></li><li><strong>EPINOVA-PB-2026-034</strong> — <a href='/epinova-pb-2026-034/'>China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk</a><br><span class='muted'>Policy Brief · 2026-04-17</span></li><li><strong>EPINOVA-PB-2026-033</strong> — <a href='/epinova-pb-2026-033/'>From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis</a><br><span class='muted'>Policy Brief · 2026-04-17</span></li><li><strong>EPINOVA-PB-2026-032</strong> — <a href='/epinova-pb-2026-032/'>From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz</a><br><span class='muted'>Policy Brief · 2026-04-14</span></li><li><strong>EPINOVA-PB-2026-031</strong> — <a href='/epinova-pb-2026-031/'>Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint</a><br><span class='muted'>Policy Brief · 2026-04-14</span></li><li><strong>EPINOVA-PB-2026-030</strong> — <a href='/epinova-pb-2026-030/'>Governing Fragmentation: Jurisdictional Competition and China’s Counter-Extraterritoriality Framework</a><br><span class='muted'>Policy Brief · 2026-04-13</span></li><li><strong>EPINOVA-PB-2026-029</strong> — <a href='/epinova-pb-2026-029/'>From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework</a><br><span class='muted'>Policy Brief · 2026-04-13</span></li><li><strong>EPINOVA-PB-2026-028</strong> — <a href='/epinova-pb-2026-028/'>U.S. Defense Procurement (Jan–Apr 2026): AI as the Foundation of Modern Warfare</a><br><span class='muted'>Policy Brief · 2026-04-11</span></li><li><strong>EPINOVA-PB-2026-027</strong> — <a href='/epinova-pb-2026-027/'>Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint</a><br><span class='muted'>Policy Brief · 2026-04-09</span></li><li><strong>EPINOVA-PB-2026-026</strong> — <a href='/epinova-pb-2026-026/'>Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment</a><br><span class='muted'>Policy Brief · 2026-04-08</span></li><li><strong>EPINOVA-PB-2026-025</strong> — <a href='/epinova-pb-2026-025/'>Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints</a><br><span class='muted'>Policy Brief · 2026-04-06</span></li><li><strong>EPINOVA-PB-2026-024</strong> — <a href='/epinova-pb-2026-024/'>What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield</a><br><span class='muted'>Policy Brief · 2026-04-05</span></li><li><strong>EPINOVA-PB-2026-023</strong> — <a href='/epinova-pb-2026-023/'>From Regional Power to Network Node: Iran’s Post-War Trajectory and Strategic Positioning</a><br><span class='muted'>Policy Brief · 2026-04-04</span></li><li><strong>EPINOVA-PB-2026-022</strong> — <a href='/epinova-pb-2026-022/'>From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System</a><br><span class='muted'>Policy Brief · 2026-04-03</span></li><li><strong>EPINOVA-PB-2026-020</strong> — <a href='/epinova-pb-2026-020/'>Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints</a><br><span class='muted'>Policy Brief · 2026-03-28</span></li><li><strong>EPINOVA-PB-2026-019</strong> — <a href='/epinova-pb-2026-019/'>From Compensation to Strategic Amplification: Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-03-27</span></li><li><strong>EPINOVA-PB-2026-018</strong> — <a href='/epinova-pb-2026-018/'>Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict: Evidence from China’s Signaling System</a><br><span class='muted'>Policy Brief · 2026-03-26</span></li><li><strong>EPINOVA-PB-2026-017</strong> — <a href='/epinova-pb-2026-017/'>Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-03-25</span></li><li><strong>EPINOVA-PB-2026-016</strong> — <a href='/epinova-pb-2026-016/'>Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-03-24</span></li><li><strong>EPINOVA-PB-2026-015</strong> — <a href='/epinova-pb-2026-015/'>Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold</a><br><span class='muted'>Policy Brief · 2026-03-20</span></li><li><strong>EPINOVA-PB-2026-014</strong> — <a href='/epinova-pb-2026-014/'>Post-Nodal Warfare: Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?</a><br><span class='muted'>Policy Brief · 2026-03-18</span></li><li><strong>EPINOVA-PB-2026-013</strong> — <a href='/epinova-pb-2026-013/'>Terminal Platform Nodes and Narrative Competition in the U.S.–Israel–Iran Conflict</a><br><span class='muted'>Policy Brief · 2026-03-14</span></li><li><strong>EPINOVA-PB-2026-012</strong> — <a href='/epinova-pb-2026-012/'>Narrative Underperformance in the First Week of the U.S.–Israel–Iran War</a><br><span class='muted'>Policy Brief · 2026-03-07</span></li><li><strong>EPINOVA-PB-2026-011</strong> — <a href='/epinova-pb-2026-011/'>The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks</a><br><span class='muted'>Policy Brief · 2026-03-06</span></li><li><strong>EPINOVA-PB-2026-010</strong> — <a href='/epinova-pb-2026-010/'>The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific</a><br><span class='muted'>Policy Brief · 2026-03-06</span></li><li><strong>EPINOVA-PB-2026-009</strong> — <a href='/epinova-pb-2026-009/'>Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework</a><br><span class='muted'>Policy Brief · 2026-03-04</span></li><li><strong>EPINOVA-PB-2026-008</strong> — <a href='/epinova-pb-2026-008/'>Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)</a><br><span class='muted'>Policy Brief · 2026-03-03</span></li><li><strong>EPINOVA-PB-2026-007</strong> — <a href='/epinova-pb-2026-007/'>Assessing AI Capabilities Across Six Major Countries and Economic Blocs: An Eight-Dimensional Comparative Framework</a><br><span class='muted'>Policy Brief · 2026-02-27</span></li><li><strong>EPINOVA-PB-2026-006</strong> — <a href='/epinova-pb-2026-006/'>Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems: Implications for U.S. and China’s Force Structure Transition (2026–2060)</a><br><span class='muted'>Policy Brief · 2026-02-19</span></li><li><strong>EPINOVA-PB-2026-005</strong> — <a href='/epinova-pb-2026-005/'>The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026)</a><br><span class='muted'>Policy Brief · 2026-02-16</span></li><li><strong>EPINOVA-PB-2026-004</strong> — <a href='/epinova-pb-2026-004/'>Where Data Centers Get Built?: Institutional Friction and the Spatial Logic of Compute Infrastructure in the United States</a><br><span class='muted'>Policy Brief · 2026-02-09</span></li><li><strong>EPINOVA-PB-2026-003</strong> — <a href='/epinova-pb-2026-003/'>Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction</a><br><span class='muted'>Policy Brief · 2026-02-02</span></li><li><strong>EPINOVA-PB-2026-002</strong> — <a href='/epinova-pb-2026-002/'>Governing Structural Centrality: Greenland as an AI-Strategic Node under the AI-SNI Framework</a><br><span class='muted'>Policy Brief · 2026-02-02</span></li><li><strong>EPINOVA-PB-2026-001</strong> — <a href='/epinova-pb-2026-001/'>From AI Capabilities to Structural Governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance</a><br><span class='muted'>Policy Brief · 2026-02-01</span></li></ul></div><div class='year-block'><h2>2025</h2><ul class='category-list'><li><strong>EPINOVA-PB-2025-003</strong> — <a href='/epinova-pb-2025-003/'>From Predictive Control to Robustness: Why Indeterminacy Outperforms Precision in Contested ISR Environments</a><br><span class='muted'>Policy Brief · 2025-12-31</span></li><li><strong>EPINOVA-PB-2025-002</strong> — <a href='/epinova-pb-2025-002/'>Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy</a><br><span class='muted'>Policy Brief · 2025-12-26</span></li><li><strong>EPINOVA-PB-2025-001</strong> — <a href='/epinova-pb-2025-001/'>From Detection to Depletion: Sustainability Constraints in Counter-Drone Defense</a><br><span class='muted'>Policy Brief · 2025-12-16</span></li></ul></div></main>
 
 <footer class="footer">
   <div class="footer-inner">
-    <div>
-      <h2>About</h2>
-      <p>Global AI Governance and Policy Research Center publishes structured open-access research outputs through EPINOVA LLC.</p>
-    </div>
-    <div>
-      <h2>Publications</h2>
-      <p><a href="/">Publication index</a><br>
-      <a href="/policy-briefs/">Policy Briefs</a><br>
-      <a href="/working-papers/">Working Papers</a><br>
-      <a href="/reports/">Reports</a><br>
-      <a href="/white-books/">White Books</a></p>
-    </div>
-    <div>
-      <h2>Links</h2>
-      <p><a href="https://epinova.org">EPINOVA main site</a><br>
-      <a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p>
-    </div>
-    <div class="footer-bottom">
-      Generated on 2026-04-29 from EPINOVA metadata records.
-    </div>
+    <div><h2>About</h2><p>Global AI Governance and Policy Research Center publishes structured open-access research outputs through EPINOVA LLC.</p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-books/">White Books</a></p></div>
+    <div><h2>Links</h2><p><a href="https://epinova.org">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
+    <div class="footer-bottom">Generated on 2026-05-01 from EPINOVA metadata records and archived Articles.</div>
   </div>
 </footer>
 

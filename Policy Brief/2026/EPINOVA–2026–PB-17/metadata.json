@@ -1,29 +1,339 @@
 {
-  "title": "Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict",
+  "epinova_id": "EPINOVA-PB-2026-017",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-017",
+  "title": "Divergent War Aims",
+  "subtitle": "The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict",
   "title_normalized": "divergent war aims: the u.s., israel, and the strategic logic of divergence in the iran conflict",
-  "date": "2026-03-25",
-  "doi": "10.5281/zenodo.19223652",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "209674082",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-25",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19223653",
+  "previous_doi": "10.5281/zenodo.19223652",
+  "landing_page": "https://doi.org/10.5281/zenodo.19223653",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19223653",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19223652",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "209674082",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–17",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Divergent War Aims.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name from early metadata and uploaded file"
+    },
+    {
+      "identifier": "Divergent War Aims",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes strategic divergence between the United States and Israel in the Iran conflict. It argues that the two actors remain operationally aligned but differ in war aims, time horizons, escalation thresholds, and definitions of success, while Iran pursues cost imposition to exploit coalition asymmetry over time.",
+  "abstract": "The United States and Israel are often treated as strategically aligned in confronting Iran, but their war aims diverge in structure, time horizon, and acceptable levels of escalation. The United States prioritizes control sustainability: applying sustained pressure while maintaining escalation control, preserving coalition cohesion, and avoiding strategic overextension. Israel prioritizes deterrence restoration through coercive credibility, even at higher escalation risk. Iran’s strategy is best understood as cost imposition under asymmetry, designed to exploit divergence within the opposing coalition by amplifying differences in tempo, cost tolerance, and strategic objectives. The resulting pattern is not alliance breakdown, but strategic asymmetry within the coalition, in which continued operational coordination masks increasingly divergent strategic logics.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Iran conflict",
+    "Divergent war aims",
+    "Strategic divergence",
+    "Coalition asymmetry",
+    "Alliance management",
+    "Control sustainability",
+    "Coercive credibility",
+    "Deterrence restoration",
+    "Cost imposition",
+    "Tempo divergence",
+    "Threshold divergence",
+    "Escalation control",
+    "Escalation thresholds",
+    "Coalition strategy",
+    "Military coordination",
+    "Strategic logic",
+    "Iran strategy",
+    "U.S. strategy",
+    "Israeli strategy",
+    "MCCM",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International security",
+    "Middle East security",
+    "U.S. foreign policy",
+    "Israel security policy",
+    "Iran strategy",
+    "Deterrence theory",
+    "Alliance politics",
+    "Coalition warfare",
+    "Escalation management",
+    "Cost-imposition strategy",
+    "Crisis stability",
+    "Conflict analysis",
+    "Geopolitics",
+    "Security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-25",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-25",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-25",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-25",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Divergent War Aims.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-17/Divergent%20War%20Aims.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-17",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-17",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-017",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, deterrence dynamics, escalation management, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Divergent War Aims and Coalition-Asymmetry Assessment Framework",
+    "source_basis": "Policy-facing synthesis based on observed U.S.–Israel–Iran conflict dynamics, comparative assessment of U.S. and Israeli war aims, cost-imposition logic, threshold and tempo divergence analysis, and strategic interaction mapping.",
+    "case_context": "U.S.–Israel–Iran conflict, U.S.–Israel operational cooperation, Iran’s cost-imposition strategy, coalition management, and escalation-control challenges.",
+    "core_problem": "Operational alignment between allies can mask deeper strategic divergence when actors define success, acceptable costs, escalation thresholds, and time horizons differently under sustained conflict pressure.",
+    "central_claims": [
+      "The United States and Israel are operationally aligned but strategically divergent in the Iran conflict.",
+      "U.S. strategy prioritizes control sustainability, escalation management, coalition cohesion, and avoidance of strategic overextension.",
+      "Israeli strategy prioritizes coercive credibility and deterrence restoration through visible and consequential pressure.",
+      "Iran pursues cost imposition under asymmetry to exploit coalition divergence over time.",
+      "The most likely near-term trajectory is continued operational cooperation alongside widening differences in tempo, thresholds, and risk tolerance."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Operational Alignment vs. Strategic Divergence",
+        "description": "Distinguishes tactical and operational cooperation from underlying differences in war aims, end states, risk tolerance, and definitions of success."
+      },
+      {
+        "name": "Control Sustainability",
+        "description": "Interprets the U.S. approach as an effort to maintain pressure while preserving escalation control, alliance cohesion, and strategic capacity across multiple theaters."
+      },
+      {
+        "name": "Coercive Credibility",
+        "description": "Interprets the Israeli approach as a requirement to restore deterrence through visible and durable punishment under immediate threat conditions."
+      },
+      {
+        "name": "Cost-Imposition and Wedge Strategy",
+        "description": "Analyzes Iran’s use of low-cost pressure, tempo management, perception effects, and threshold calibration to amplify coalition-management stress."
+      },
+      {
+        "name": "Threshold–Tempo–Asymmetry Interaction",
+        "description": "Maps how differences in escalation thresholds and operational tempo generate strategic asymmetry within a formally cooperating coalition."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Control Sustainability",
+      "code": "CS",
+      "description": "Assesses the capacity to apply pressure while maintaining escalation control, coalition cohesion, and avoidance of strategic overextension."
+    },
+    {
+      "name": "Coercive Credibility",
+      "code": "CC",
+      "description": "Evaluates the perceived inevitability, visibility, and consequence of punishment used to restore deterrence."
+    },
+    {
+      "name": "Threshold Divergence",
+      "code": "TD",
+      "description": "Captures differences among coalition actors regarding acceptable cost, sufficient outcomes, and tolerable escalation levels."
+    },
+    {
+      "name": "Tempo Divergence",
+      "code": "TPD",
+      "description": "Measures divergence in preferred operational pace, duration, and intensity between allied actors."
+    },
+    {
+      "name": "Coalition-Management Stress",
+      "code": "CMS",
+      "description": "Assesses the degree to which operational coordination masks growing strain in strategic synchronization and end-state alignment."
+    },
+    {
+      "name": "Cost-Imposition Pressure",
+      "code": "CIP",
+      "description": "Evaluates how sustained low-cost pressure forces adversaries to absorb cumulative fiscal, operational, and political burdens."
+    }
+  ],
+  "key_findings": [
+    "The United States and Israel are operationally aligned but strategically divergent.",
+    "U.S. strategy prioritizes escalation control and control sustainability, while Israel prioritizes deterrence restoration through coercive credibility.",
+    "The divergence reflects structural constraints and threat environments rather than temporary policy disagreement.",
+    "Iran is pursuing a cost-imposition strategy designed to exploit coalition asymmetry and amplify divergence over time.",
+    "The likely near-term trajectory is continued operational cooperation alongside widening differences in tempo, thresholds, and risk tolerance.",
+    "The U.S.–Israel gap is not primarily about whether to act, but about where to stop.",
+    "Iran can gain strategic advantage without defeating the United States or Israel outright if coalition warfare becomes progressively more costly, politically difficult, and strategically less coherent.",
+    "The emerging divide is definitional, reflecting different understandings of what the war is, what it requires, and what it means to lose."
+  ],
+  "policy_recommendations": [
+    "Recognize that alliance unity does not eliminate strategic divergence in war aims, end states, and escalation thresholds.",
+    "Treat escalation control as a coalition-management problem as well as a military problem.",
+    "Define more clearly which outcomes are sufficient for deterrence, sustainable for regional stability, and compatible with broader U.S. strategic commitments.",
+    "Incorporate Iran’s incentive to widen alliance asymmetry into coalition planning rather than assuming that increased military pressure automatically strengthens cohesion.",
+    "Align coalition strategy around shared understandings of acceptable escalation, tolerable costs, and conditions for termination.",
+    "Avoid excessive reliance on escalation that may widen strategic divergence and constrain long-term coalition effectiveness."
+  ],
+  "related_works": [
+    {
+      "title": "Deterrence Under Cost Pressure: From Overmatch to Cost Imposition in the U.S.–Iran Conflict",
+      "identifier": "10.5281/zenodo.19210002",
+      "relation": "Related EPINOVA policy brief developing the cost-imposition logic referenced in the analysis of Iran’s strategy.",
+      "type": "DOI"
+    },
+    {
+      "title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold",
+      "identifier": "10.5281/zenodo.19138942",
+      "relation": "Related EPINOVA policy brief assessing U.S. operational superiority, cost burdens, and loss-of-control threshold dynamics.",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief assessing early battlefield dynamics, threshold events, and next-phase risks.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Divergent War Aims: The U.S., Israel, and the Strategic Logic of Divergence in the Iran Conflict, Policy Brief No. EPINOVA–2026–PB–17, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19223653. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict (Policy Brief No. EPINOVA–2026–PB–17). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19223653. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Divergent War Aims, EPINOVA–2026–PB–17.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-25",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "U.S.–Israel–Iran Strategic Interaction Triangle",
+      "description": "Triangular conceptual diagram showing the distinct but interdependent strategic logics of the United States, Israel, and Iran: U.S. control sustainability, Israeli coercive credibility, and Iranian cost imposition. It highlights alliance coordination under divergent thresholds, direct coercion and deterrence contestation, and sustained cost pressure below full-scale war.",
+      "source": "Author’s conceptual reconstruction based on the threshold–tempo–asymmetry interaction framework",
+      "note": "Figure shown on page 5 of the PDF."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Diverging Threshold Logics of War: United States vs. Israel",
+      "description": "Compares U.S. and Israeli strategic thresholds across time horizon, strategic objective, escalation preference, and primary constraint. The United States is characterized as long-term and system-oriented, focused on containment and stability, while Israel is characterized as short-term and threat-driven, focused on altering the security environment and restoring deterrence.",
+      "source": "Author’s analytical synthesis",
+      "note": "Table shown on page 4 of the PDF."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Divergent War Aims.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, executive summary, U.S. control sustainability analysis, Israeli coercive credibility analysis, Table 1 threshold-logics comparison, Iran cost-imposition strategy, Figure 1 strategic interaction triangle, likely near-term paths, policy implications, conclusion, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19223652, ORCID put-code 209674082, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19223653 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19223653",
+    "crossref_doi_suffix": "epinova.pb.2026.017",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19223653",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "209674082",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-25"
   }
 }

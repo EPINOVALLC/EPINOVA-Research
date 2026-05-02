@@ -1,29 +1,402 @@
 {
-  "title": "Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict",
-  "title_normalized": "industrial war and network war: operational logics in the russia-ukraine war and the u.s.-israel-iran conflict",
-  "date": "2026-03-11",
-  "doi": "10.5281/zenodo.18972326",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-006",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "208188264",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-006",
+  "title": "Industrial War and Network War",
+  "subtitle": "Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict",
+  "title_normalized": "industrial war and network war: operational logics in the russia-ukraine war and the u.s.-israel-iran conflict",
+  "publication_date": "2026-03-11",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18972327",
+  "previous_doi": "10.5281/zenodo.18972326",
+  "landing_page": "https://doi.org/10.5281/zenodo.18972327",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–WP–F–2026–06",
+      "scheme": "EPINOVA Working Paper Number",
+      "description": "Working paper number shown in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18972327",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18972326",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from ORCID-derived metadata; retained for reconciliation"
+    },
+    {
+      "identifier": "208188264",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Industrial War vs Network War.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Wu (2026), Industrial War and Network War, EPINOVA Working Paper F–2026–06",
+      "scheme": "Short citation",
+      "description": "Short citation implied by the EPINOVA working paper format"
+    }
+  ],
+  "description": "This working paper compares the Russia–Ukraine war and the 2026 U.S.–Israel–Iran conflict as two distinct operational logics of contemporary warfare. It distinguishes industrial warfare centered on territorial control, national infrastructure destruction, and frontline attrition from network warfare centered on operational nodes, distributed base networks, logistics systems, alliance coordination, and cross-regional strategic pressure.",
+  "abstract": "This working paper compares the Russia–Ukraine war and the 2026 U.S.–Israel–Iran conflict as two distinct operational logics of contemporary warfare. Russia’s campaign largely reflects a traditional interstate model centered on territorial control, frontline attrition, and strategic strikes against national infrastructure. By contrast, Iran’s strategy resembles a network-oriented approach designed to impose systemic pressure on a globally deployed military power. The paper therefore compares the conflicts not in terms of military capability or political objectives, but in terms of the operational structures through which military pressure is applied. Iran’s operational logic illustrates several emerging characteristics of modern warfare: cumulative pressure generated through repeated missile and drone strikes, systemic targeting of operational nodes rather than national territory, and cross-regional strain imposed on alliance-based military architectures. The comparison does not suggest that Iran possesses greater military capability than Russia. Instead, it highlights how contemporary conflict increasingly involves attempts to disrupt distributed military ecosystems rather than achieve decisive territorial victory. Three conclusions follow. First, modern conflict increasingly favors cost-imposition strategies over decisive battlefield outcomes. Second, operational nodes, such as bases, radar systems, logistics hubs, and communications infrastructure, are becoming central strategic targets. Third, globally deployed powers are most vulnerable not to isolated battlefield defeats but to sustained cross-regional pressure that strains alliance systems and force allocation.",
+  "keywords": [
+    "Industrial warfare",
+    "Network warfare",
+    "Operational logic",
+    "Russia–Ukraine war",
+    "U.S.–Israel–Iran conflict",
+    "Cost-imposition strategy",
+    "Operational nodes",
+    "Military infrastructure networks",
+    "Cross-regional strategic pressure",
+    "Base targeting",
+    "Missile exchanges",
+    "Drone warfare",
+    "Offense-defense cost asymmetry",
+    "Distributed military networks",
+    "Alliance coordination",
+    "Global force allocation",
+    "Network-centric warfare",
+    "Systemic disruption",
+    "Strategic strain",
+    "EPINOVA Working Paper F-Series"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "Military Operations",
+    "Industrial Warfare",
+    "Network Warfare",
+    "Russia–Ukraine War",
+    "U.S.–Israel–Iran Conflict",
+    "Cost-Imposition Strategy",
+    "Missile and Drone Warfare",
+    "Operational Networks",
+    "Cross-Regional Strategic Strain",
+    "Alliance Systems",
+    "AI-Mediated Strategic Risk",
+    "International Security"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-11",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-11",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Industrial War vs Network War.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-006",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Industrial War vs Network War Comparative Operational Logic Framework",
+    "case_comparison": [
+      "Russia–Ukraine war",
+      "2026 U.S.–Israel–Iran conflict"
+    ],
+    "method_type": "Comparative qualitative strategic analysis of operational structures, target selection, cost-imposition dynamics, and cross-regional pressure transmission.",
+    "analytical_focus": "The paper compares operational logics rather than overall military capability or political objectives, distinguishing territorial-industrial warfare from node-to-network pressure strategies.",
+    "core_distinction": {
+      "industrial_war_logic": [
+        "Territorial control",
+        "Urban centers",
+        "National infrastructure",
+        "Frontline attrition"
+      ],
+      "network_war_logic": [
+        "Operational nodes",
+        "Base networks",
+        "Logistics systems",
+        "Alliance coordination"
+      ]
+    },
+    "power_asymmetry_mapping": [
+      {
+        "relative_power_position": "Great Power",
+        "dominant_warfare_logic": "Industrial Warfare",
+        "operational_focus": "Territorial control and infrastructure destruction"
+      },
+      {
+        "relative_power_position": "Constrained Power",
+        "dominant_warfare_logic": "Network Warfare",
+        "operational_focus": "Operational nodes and distributed military networks"
+      }
+    ],
+    "cost_imposition_model": {
+      "formula": "Q = 1 - (1 - p)^n",
+      "variables": [
+        {
+          "symbol": "p",
+          "description": "Probability of single-strike penetration"
+        },
+        {
+          "symbol": "n",
+          "description": "Number of attack attempts"
+        },
+        {
+          "symbol": "Q",
+          "description": "Cumulative probability of at least one successful penetration"
+        }
+      ],
+      "interpretation": "Even low-probability strikes accumulate risk over repeated attack cycles, increasing the likelihood of defensive failure and imposing continuous operational and financial burdens on the defender."
+    },
+    "offense_defense_cost_asymmetry": [
+      {
+        "system": "Iranian drone",
+        "approximate_cost": "$20,000–$50,000"
+      },
+      {
+        "system": "Iranian ballistic missile",
+        "approximate_cost": "$200,000–$1,000,000"
+      },
+      {
+        "system": "Patriot interceptor",
+        "approximate_cost": "$3,000,000–$5,000,000"
+      },
+      {
+        "system": "THAAD interceptor",
+        "approximate_cost": "$12,000,000+"
+      }
+    ],
+    "pressure_transmission_pathway": [
+      "Middle East conflict",
+      "Air defense demand rises",
+      "Redeployment pressure",
+      "Reduced coverage elsewhere",
+      "Alliance perception shifts"
+    ],
+    "scope_note": "The comparison does not equate Russia and Iran in capability or political objectives. It isolates operational logic: industrial territorial warfare versus network-oriented systemic pressure."
+  },
+  "dimensions": [
+    {
+      "name": "Territorial Control",
+      "code": "industrial_territorial_control",
+      "description": "Industrial-war focus on seizing, defending, or degrading geographic and urban-industrial space."
+    },
+    {
+      "name": "Frontline Attrition",
+      "code": "industrial_attrition",
+      "description": "Sustained battlefield pressure and material exhaustion along conventional frontlines."
+    },
+    {
+      "name": "Operational Nodes",
+      "code": "network_nodes",
+      "description": "Bases, radar systems, logistics hubs, communications infrastructure, command-and-control facilities, and other connective elements of distributed military networks."
+    },
+    {
+      "name": "Cost-Imposition Pressure",
+      "code": "cost_imposition",
+      "description": "Repeated missile and drone exchanges that impose cumulative interception, logistics, and readiness costs on the defender."
+    },
+    {
+      "name": "Cumulative Penetration Risk",
+      "code": "Q",
+      "description": "Cumulative probability that at least one strike penetrates defenses over repeated attack attempts."
+    },
+    {
+      "name": "Cross-Regional Strategic Strain",
+      "code": "CRSS",
+      "description": "Transmission of pressure from one theater to other regions through force-allocation tradeoffs, air-defense demand, alliance perception, and redeployment pressure."
+    },
+    {
+      "name": "Alliance Coordination",
+      "code": "alliance_coordination",
+      "description": "The ability of a globally deployed military architecture to sustain access, logistics, deterrence credibility, and operational coherence under multi-theater pressure."
+    }
+  ],
+  "key_findings": [
+    "The Russia–Ukraine war and the 2026 U.S.–Israel–Iran conflict illustrate two different operational logics: industrial warfare and network warfare.",
+    "Russia’s campaign largely reflects industrial warfare centered on territorial control, frontline attrition, and strikes against national infrastructure.",
+    "Iran’s approach in the U.S.–Israel–Iran conflict resembles network warfare aimed at imposing systemic pressure on distributed U.S. regional military infrastructure.",
+    "The comparison does not imply that Iran has greater military capability than Russia; it highlights how constrained actors may adopt different operational structures under asymmetric conditions.",
+    "Repeated missile and drone strikes can create cost-imposition effects by forcing defenders into expensive, continuous interception operations.",
+    "Strategic advantage in network warfare may derive from cumulative pressure, probabilistic penetration risk, and operational-node disruption rather than immediate decisive destruction.",
+    "Operational nodes such as bases, radar systems, logistics hubs, communications infrastructure, and command-and-control facilities are becoming central strategic targets.",
+    "Globally deployed powers are vulnerable to sustained cross-regional pressure that strains force allocation, alliance coordination, and deterrence perceptions.",
+    "The strategic center of gravity in contemporary conflict may increasingly move from territorial battlefields toward the distributed infrastructures that sustain military operations."
+  ],
+  "related_works": [
+    {
+      "title": "From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War",
+      "identifier": "10.5281/zenodo.18036790",
+      "relation": "Related EPINOVA research report on cost-exchange dynamics in drone warfare",
+      "type": "DOI"
+    },
+    {
+      "title": "Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War",
+      "identifier": "10.5281/zenodo.18903880",
+      "relation": "Related EPINOVA working paper on narrative and perception effects in the same conflict sequence",
+      "type": "DOI"
+    },
+    {
+      "title": "The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific",
+      "identifier": "10.5281/zenodo.18894858",
+      "relation": "Related EPINOVA policy brief on cross-regional strategic strain and Western Pacific implications",
+      "type": "DOI"
+    },
+    {
+      "title": "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM)",
+      "identifier": "https://epinova.org/articles/f/2026-middle-east-conflict-cost-monitor-mccm",
+      "relation": "Related MCCM analytical platform used for illustrative cost-monitor estimates",
+      "type": "URL"
+    }
+  ],
+  "references": [
+    "AIPAMS Analytical Platform. (2026). 2026 U.S. & allies–Iran conflict cost monitor (MCCM): An event-driven, daily expenditure and loss scenarios assessment series. https://epinova.org/articles/f/2026-middle-east-conflict-cost-monitor-mccm",
+    "Arquilla, J., & Ronfeldt, D. (2001). Networks and netwars: The future of terror, crime, and militancy. RAND Corporation. https://www.rand.org/pubs/monograph_reports/MR1382.html",
+    "Biddle, S. (2004). Military power: Explaining victory and defeat in modern battle. Princeton University Press. https://press.princeton.edu/books/paperback/9780691128023/military-power",
+    "Cebrowski, A. K., & Garstka, J. J. (1998). Network-centric warfare: Its origin and future. U.S. Naval Institute Proceedings, 124(1). https://www.usni.org/magazines/proceedings/1998/january/network-centric-warfare-its-origin-and-future",
+    "Clark, B., Patt, D., & Walton, T. (2021). Implementing decision-centric warfare: Elevating command and control to gain an optionality advantage. Center for Strategic and Budgetary Assessments. https://csbaonline.org/research/publications/implementing-decision-centric-warfare",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "Freedman, L. (2017). The future of war: A history. Oxford University Press. https://global.oup.com/academic/product/the-future-of-war-9780198808916",
+    "Jane’s Defence Weekly. (2026). Missile exchanges intensify in the Gulf region as conflict escalates. https://www.janes.com/defence-news",
+    "Posen, B. R. (1984). The sources of military doctrine: France, Britain, and Germany between the world wars. Cornell University Press. https://cornellpress.cornell.edu/book/9780801491863/the-sources-of-military-doctrine",
+    "Reuters. (2026). Iran launches missile attacks after U.S.–Israeli strikes on Iranian facilities. https://www.reuters.com/world/middle-east/",
+    "Wu, S.-Y. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790",
+    "Wu, S.-Y. (2026a). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran war (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880",
+    "Wu, S.-Y. (2026b). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Industrial War and Network War, EPINOVA Working Paper F–2026–06.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-11",
+    "pagination": "8 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Industrial War vs Network War",
+      "description": "Conceptual diagram contrasting industrial war logic, which proceeds from territorial control to urban centers, national infrastructure, and frontline attrition, with network war logic, which proceeds from operational nodes to base networks, logistics systems, and alliance coordination.",
+      "source": "Author’s conceptual framework",
+      "note": "Conceptual illustration of contrasting operational logics."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Cross-Regional Strategic Strain",
+      "description": "Conceptual pressure-transmission diagram showing how a Middle East conflict can raise air-defense demand, create redeployment pressure, reduce coverage elsewhere, and shift alliance perceptions across U.S. global deployments.",
+      "source": "Author’s conceptual framework",
+      "note": "Conceptual illustration of cross-regional pressure transmission rather than a quantitative forecast."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Power Asymmetry and Operational Logic of Warfare",
+      "description": "Compares great-power industrial warfare focused on territorial control and infrastructure destruction with constrained-power network warfare focused on operational nodes and distributed military networks.",
+      "source": "Author’s analysis"
+    },
+    {
+      "number": "Table 2",
+      "title": "Offense–Defense Cost Asymmetry in Missile Exchanges in the U.S.–Israel–Iran Conflict",
+      "description": "Scenario-based approximations comparing the cost of Iranian drones, Iranian ballistic missiles, Patriot interceptors, and THAAD interceptors to illustrate structural offense–defense cost asymmetry.",
+      "source": "Middle East Conflict Cost Monitor (MCCM) daily updates, Days 1–10; author’s illustrative synthesis",
+      "note": "Estimates are scenario-based approximations and not precise accounting values."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions. It does not constitute policy recommendations, predictive assessments, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "Industrial War vs Network War.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual inspection of figures/tables, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, figures, tables, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.18972326, ORCID put-code 208188264, and GitHub repository information. PDF recommended citation shows DOI 10.5281/zenodo.18972327 and is treated as the main DOI."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. PDF includes statement 'DOI: To be assigned after Crossref membership approval' in citation-style metadata.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18972327",
+    "crossref_doi_suffix": "epinova.wp.f.2026.006",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18972327",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI shown in the PDF recommended citation. Earlier ORCID-derived metadata listed DOI 10.5281/zenodo.18972326 and is retained as previous_doi / alternate identifier for reconciliation."
+  },
+  "orcid": {
+    "put_code": "208188264",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-11"
   }
 }

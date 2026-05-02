@@ -1,29 +1,347 @@
 {
-  "title": "Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints",
+  "epinova_id": "EPINOVA-PB-2026-025",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-025",
+  "title": "Ceasefire Under Conditions of Non-Enforcement",
+  "subtitle": "Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints",
   "title_normalized": "ceasefire under conditions of non-enforcement: time arbitrage, negotiation dynamics, and controlled de-escalation in the u.s.-iran conflict with israeli structural constraints",
-  "date": "2026-04-06",
-  "doi": "10.5281/zenodo.19444570",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "210863568",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19444571",
+  "previous_doi": "10.5281/zenodo.19444570",
+  "landing_page": "https://doi.org/10.5281/zenodo.19444571",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19444571",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19444570",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "210863568",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–25",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Ceasefire Under Conditions of Non-Enforcement Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name from early metadata"
+    },
+    {
+      "identifier": "Ceasefire Under Conditions of Non-Enforcement",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes ceasefire design under conditions in which no external actor can enforce compliance. It argues that U.S.–Iran ceasefire negotiations, under Israeli structural constraints, should be understood as self-enforcing strategic arrangements that regulate time, cost, legitimacy, force posture, and escalation dynamics rather than as trust-based commitments.",
+  "abstract": "In the absence of an enforceable guarantor, ceasefire negotiations between the United States and Iran cannot rely on trust or third-party enforcement. They must instead be understood as self-enforcing strategic arrangements designed to regulate time, cost, and escalation dynamics under adversarial conditions. This policy brief develops a structural interpretation of ceasefire dynamics around three propositions: the principal risk lies in asymmetric pauses that enable force reconstitution and strategic repositioning; negotiation functions as time arbitrage in which actors compete to reshape operational tempo and redistribute temporal advantage; and the optimal outcome is controlled, conditional, and reversible de-escalation rather than full cessation of hostilities. The brief introduces the Six-Layer Lock Mechanism (SLLM), a structured framework for synchronized, verifiable, reversible exchanges designed to constrain exploitation while preserving strategic balance.",
+  "keywords": [
+    "Ceasefire design",
+    "Non-enforcement",
+    "Time arbitrage",
+    "U.S.–Iran conflict",
+    "Israeli structural constraints",
+    "Controlled de-escalation",
+    "Self-enforcing agreement",
+    "Six-Layer Lock Mechanism",
+    "SLLM",
+    "Simultaneity",
+    "Force freeze",
+    "Deterrence retention",
+    "Immediate Reversion Clause",
+    "IRC",
+    "Mediator limitations",
+    "Pakistan",
+    "Turkey",
+    "Egypt",
+    "Strategic negotiation",
+    "Force reconstitution",
+    "Operational tempo",
+    "Escalation management",
+    "Maritime access",
+    "Sanctions relief",
+    "Conflict structuring",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International security",
+    "Middle East conflict",
+    "U.S.–Iran relations",
+    "Ceasefire negotiations",
+    "Conflict management",
+    "Escalation control",
+    "Deterrence theory",
+    "Security governance",
+    "Policy analysis",
+    "Crisis bargaining",
+    "Military strategy",
+    "International relations",
+    "War termination",
+    "Self-enforcing institutions"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-06",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-06",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-06",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early metadata record created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata updated"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Ceasefire Under Conditions of Non-Enforcement Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-25/Ceasefire%20Under%20Conditions%20of%20Non-Enforcement%20Time%20Arbitrage%2C%20Negotiation%20Dynamics%2C%20and%20Controlled%20De-escalation%20in%20the%20U.S.%E2%80%93Iran%20Conflict%20with%20Israeli%20Structural%20Constraints.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-25",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-25",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-025",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Six-Layer Lock Mechanism (SLLM)",
+    "source_basis": "Policy-facing structural analysis of ceasefire negotiation under conditions of non-enforcement, asymmetric escalation dynamics, time arbitrage, mediator limitations, and Israeli structural constraints in the U.S.–Iran conflict.",
+    "case_context": "Ceasefire negotiation dynamics in the U.S.–Iran conflict under conditions where Pakistan, Turkey, and Egypt may mediate or facilitate communication but lack enforceable guarantor capacity.",
+    "core_problem": "When no external actor can enforce compliance, ceasefire arrangements can become asymmetric recovery windows unless they are structured through simultaneity, force posture constraints, deterrence retention, reversibility, actor-specific constraints, and immediate incentives.",
+    "central_claims": [
+      "Ceasefires without enforcement are design problems rather than trust problems.",
+      "Negotiation redistributes temporal advantage and can function as a form of time arbitrage.",
+      "Asymmetric pauses create strategic instability by enabling uneven force reconstitution and operational recovery.",
+      "Ceasefire stability under non-enforcement requires structural constraints rather than voluntary restraint.",
+      "The optimal outcome is controlled, conditional, and reversible de-escalation rather than unconditional cessation of hostilities."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Non-Enforcement Condition",
+        "description": "Examines ceasefire bargaining when no external guarantor can compel restraint or ensure compliance."
+      },
+      {
+        "name": "Mediator Without Enforcement Capacity",
+        "description": "Assesses Pakistan, Turkey, and Egypt as mediators or facilitators that can transmit signals, reduce miscalculation, and provide procedural legitimacy without providing binding security guarantees."
+      },
+      {
+        "name": "Time Arbitrage Game",
+        "description": "Interprets negotiation as a contest over who gains more from pauses, delays, and shifts in operational tempo."
+      },
+      {
+        "name": "Structural Reconfiguration",
+        "description": "Treats negotiation as a mechanism for reconfiguring time, cost, legitimacy, and internal actor alignments rather than simply terminating conflict."
+      },
+      {
+        "name": "Self-Enforcing Ceasefire Architecture",
+        "description": "Uses the SLLM to organize synchronized, verifiable, reversible exchanges that constrain exploitation while preserving deterrence."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Simultaneity",
+      "code": "SLLM-L1",
+      "description": "No unilateral pause is permitted; de-escalatory measures must be implemented simultaneously and reciprocally to prevent asymmetric advantage during transition phases."
+    },
+    {
+      "name": "Force Freeze",
+      "code": "SLLM-L2",
+      "description": "Prohibits additional strategic deployments, operational base expansion, and forward positioning or upgrading of air and missile defense systems."
+    },
+    {
+      "name": "Deterrence Retention",
+      "code": "SLLM-L3",
+      "description": "Preserves mobile and survivable strike capabilities, avoids full operational transparency, and maintains latent mobilization capacity to prevent deterrence collapse during partial de-escalation."
+    },
+    {
+      "name": "Immediate Reversion Clause",
+      "code": "SLLM-L4 / IRC",
+      "description": "Any violation automatically triggers suspension of ceasefire conditions, restoration of operational rights, and rapid political or informational attribution."
+    },
+    {
+      "name": "Israeli Structural Constraints",
+      "code": "SLLM-L5",
+      "description": "Applies a separate protocol to Israel, including prohibitions on preemptive strikes and targeted killings and restrictions on attacks against critical infrastructure."
+    },
+    {
+      "name": "Immediate Incentives",
+      "code": "SLLM-L6",
+      "description": "Links implementation to tangible benefits such as frozen asset release, restored maritime access, reversible sanctions relief, and protected or de-confliction zones."
+    }
+  ],
+  "key_findings": [
+    "Ceasefires without enforcement are design problems, not trust problems; stability depends on structural design rather than assumptions of compliance.",
+    "Negotiation redistributes temporal advantage by turning ceasefire periods into arenas of time arbitrage.",
+    "Asymmetric pauses can generate strategic instability by favoring one side's recovery while increasing the other's exposure.",
+    "A ceasefire without constraints on force posture and redeployment can become a preparation phase for renewed conflict.",
+    "Mediator roles are useful for signaling, miscalculation reduction, and procedural legitimacy, but Pakistan, Turkey, and Egypt lack the capacity to compel restraint from the primary actors.",
+    "The optimal outcome is not full cessation of hostilities, but controlled, conditional, and reversible de-escalation in which escalation pathways remain constrained without eliminating deterrence.",
+    "The Six-Layer Lock Mechanism provides a modular self-enforcing architecture for non-exploitable ceasefire design.",
+    "Short-cycle, reversible implementation reduces time-arbitrage opportunities and sustains strategic leverage under conditions of non-enforcement."
+  ],
+  "policy_recommendations": [
+    "Avoid unconditional ceasefire commitments that require unilateral or front-loaded restraint.",
+    "Prioritize simultaneity and reversibility by structuring ceasefire arrangements as iterative, reciprocal, and reversible exchanges.",
+    "Incorporate force posture constraints to prevent redeployment, reinforcement, and operational recovery windows during ceasefire periods.",
+    "Use limited ceasefire cycles, limited exchange, limited verification, limited concessions, and automatic reversion as the core negotiation formula.",
+    "Tie compliance to immediate tangible incentives, including asset release, maritime access, reversible sanctions relief, and protected or de-confliction zones.",
+    "Apply explicit Israel-specific operational constraints to address escalation asymmetries involving preemptive strikes, targeted killings, and attacks on critical infrastructure."
+  ],
+  "related_works": [
+    {
+      "title": "Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment",
+      "identifier": "10.5281/zenodo.19464642",
+      "relation": "Related EPINOVA policy brief extending the non-enforcement ceasefire logic toward recovery competition and strategic regeneration.",
+      "type": "DOI"
+    },
+    {
+      "title": "What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield",
+      "identifier": "10.5281/zenodo.19432715",
+      "relation": "Related EPINOVA policy brief in the same U.S.–Israel–Iran conflict sequence.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints, Policy Brief No. EPINOVA–2026–PB–25, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19444571. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints (Policy Brief No. EPINOVA–2026–PB–25). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19444571. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Ceasefire Under Conditions of Non-Enforcement, EPINOVA–2026–PB–25.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-06",
+    "pagination": "11 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "The Six-Layer Lock Mechanism for Non-Exploitable Ceasefire Design",
+      "page": 6,
+      "description": "Pyramid-style diagram presenting controlled de-escalation without deterrence collapse through six layers: simultaneity, deterrence retention, force freeze, immediate reversion clause, Israeli structural constraints, and immediate incentives."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Comparative Assessment of Mediators Without Enforcement Capacity",
+      "page": 2,
+      "description": "Compares Pakistan, Turkey, and Egypt across access, capability, credibility, and protective effect for Iran."
+    },
+    {
+      "number": "Table 2",
+      "title": "Strategic Pathways Under Time Arbitrage Dynamics",
+      "page": 3,
+      "description": "Compares no negotiation, full ceasefire, partial de-escalation, and violation scenarios in terms of U.S./Israel payoff and Iran payoff."
+    }
+  ],
+  "appendices": [
+    {
+      "title": "Annex A. Draft Ceasefire Agreement",
+      "pages": "9-11",
+      "description": "Proposed framework for a self-enforcing ceasefire under conditions of non-enforcement, including scope, implementation principles, simultaneous de-escalation obligations, force posture freeze, deterrence retention, immediate reversion, Israel-specific constraints, verification, incentives, duration and renewal, violation attribution, and legal-political status."
+    }
+  ],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Ceasefire Under Conditions of Non-Enforcement Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual/page review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, series information, recommended citation, DOI, disclaimer, mediator assessment, time-arbitrage framework, SLLM architecture, operational model, policy implications, conclusion, Figure 1, Tables 1-2, and Annex A. Early ORCID-derived metadata supplied DOI 10.5281/zenodo.19444570, ORCID put-code 210863568, GitHub PDF URL, repository folder, repository URL, and early metadata dates. The PDF DOI 10.5281/zenodo.19444571 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19444571",
+    "crossref_doi_suffix": "epinova.pb.2026.025",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19444571",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "210863568",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-06"
   }
 }

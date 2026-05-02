@@ -1,29 +1,363 @@
 {
-  "title": "What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield",
+  "epinova_id": "EPINOVA-PB-2026-024",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-024",
+  "title": "What Cannot Be Recovered Cannot Be Leveraged",
+  "subtitle": "Debris, Evidence, and Power in the Iran Battlefield",
   "title_normalized": "what cannot be recovered cannot be leveraged: debris, evidence, and power in the iran battlefield",
-  "date": "2026-04-06",
-  "doi": "10.5281/zenodo.19432714",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "210780239",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-05",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19432715",
+  "previous_doi": "10.5281/zenodo.19420590",
+  "landing_page": "https://doi.org/10.5281/zenodo.19432715",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19432715",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19420590",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "210720887",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–24",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "What Cannot Be Recovered Cannot Be Leveraged",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief examines battlefield debris as a strategic intermediary between military action and influence in the Iran battlefield. It introduces the Recoverability Constraint, Debris-to-Evidence Conversion, Debris-to-Leverage Conversion, Visibility Gap, Startline Asymmetry, and Leverage Inversion to explain how recoverable artifacts shape attribution, narrative construction, strategic signaling, and political leverage.",
+  "abstract": "The 2026 U.S.–Israel–Iran conflict highlights a structural shift in modern warfare: battlefield debris has emerged as a critical intermediary between military action and strategic influence. Across the conflict, recoverable artifacts, including UAV wreckage, munition fragments, and aircraft debris, have played a central role in shaping attribution, narrative construction, and signaling dynamics. Their public dissemination has directly influenced perceptions of operational effectiveness and technological vulnerability. This policy brief argues that strategic leverage in contemporary conflict is increasingly conditioned by the recoverability of battlefield artifacts, which determines whether military activity can be observed, verified, and translated into influence. Systems that do not generate recoverable evidence, regardless of their operational sophistication, face structural limits in visibility and therefore reduced impact in the information domain.",
+  "keywords": [
+    "battlefield debris",
+    "recoverability constraint",
+    "debris-to-evidence conversion",
+    "debris-to-leverage conversion",
+    "evidence-to-power conversion",
+    "visibility gap",
+    "startline asymmetry",
+    "leverage inversion",
+    "evidence-centric warfare",
+    "information conflict",
+    "narrative amplification",
+    "strategic signaling",
+    "attribution",
+    "OSINT verification",
+    "UAV wreckage",
+    "munition fragments",
+    "Iran battlefield",
+    "U.S.–Israel–Iran conflict",
+    "AI-enabled warfare",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Information conflict",
+    "Modern warfare",
+    "Military technology",
+    "Open-source intelligence",
+    "Evidence formation",
+    "Conflict narratives",
+    "Battlefield attribution",
+    "Networked conflict",
+    "Security studies",
+    "Middle East conflict",
+    "Defense analysis",
+    "Political communication",
+    "Technology and war",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-05",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-05",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-05",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-04",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "What Cannot Be Recovered Cannot Be Leveraged Debris, Evidence, and Power in the Iran Battlefield.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-24/What%20Cannot%20Be%20Recovered%20Cannot%20Be%20Leveraged%20Debris%2C%20Evidence%2C%20and%20Power%20in%20the%20Iran%20Battlefield.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 9
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-24",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-24",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-024",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Debris-to-Leverage Framework",
+    "source_basis": "Policy-facing analysis of recoverability, evidence formation, and narrative leverage in the Iran battlefield, based on claim-based reporting and partially verified battlefield evidence from February to April 2026.",
+    "case_context": "The 2026 U.S.–Israel–Iran conflict and the circulation of recoverable UAV wreckage, munition fragments, aircraft debris, sensors, communication modules, missile components, and battlefield imagery.",
+    "core_problem": "Modern conflict analysis often focuses on operational capability and kinetic effects, but insufficiently accounts for how recoverable battlefield artifacts generate observable evidence and convert into informational, strategic, and political leverage.",
+    "central_claims": [
+      "Recoverability conditions leverage because only systems that generate recoverable artifacts can produce observable, attributable, and exploitable evidence.",
+      "Battlefield debris underpins evidence formation by enabling attribution, validation, and narrative construction.",
+      "Evidence converts into power when documented, validated, amplified, and integrated into strategic and political narratives.",
+      "Advanced systems face a visibility–leverage gap when high operational sophistication produces few recoverable artifacts and therefore limited downstream informational impact.",
+      "Strategic influence is increasingly shaped not only by what systems can do, but by what they leave behind."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Recoverability Constraint",
+        "description": "Only systems that generate recoverable artifacts can produce observable, attributable, and exploitable evidence."
+      },
+      {
+        "name": "Debris-to-Evidence Conversion",
+        "description": "Physical remnants are transformed into evidence through documentation, validation, and amplification."
+      },
+      {
+        "name": "Evidence-to-Power Conversion",
+        "description": "Validated and amplified evidence generates informational effects, strategic signaling, and political leverage."
+      },
+      {
+        "name": "Debris-to-Leverage Conversion",
+        "description": "Recovered battlefield artifacts are transformed into strategic influence across technical, operational, and informational domains."
+      },
+      {
+        "name": "Visibility Gap",
+        "description": "A divergence between actual operational capability and observable battlefield representation caused by differences in recoverability."
+      },
+      {
+        "name": "Startline Asymmetry and Leverage Inversion",
+        "description": "Systems with lower technical sophistication but higher recoverability can generate greater strategic influence than advanced low-recoverability systems."
+      }
+    ],
+    "data_scope": "Claim-based reporting and partially verified data sources related to recoverable systems and debris observed in the Iran conflict from February to April 2026.",
+    "limitations": "The analysis is based on a single conflict environment and relies primarily on claim-based and partially verified data sources. Findings should be interpreted as indicative of emerging structural patterns rather than universally generalizable dynamics."
+  },
+  "dimensions": [
+    {
+      "name": "Recoverability Constraint",
+      "code": "RC",
+      "description": "Assesses whether a military system or engagement produces recoverable artifacts that can enter the observable evidence space."
+    },
+    {
+      "name": "Debris-to-Evidence Conversion",
+      "code": "DEC",
+      "description": "Captures the transformation of physical remnants into documented, validated, and amplified evidence."
+    },
+    {
+      "name": "Evidence-to-Power Conversion",
+      "code": "EPC",
+      "description": "Assesses how evidence generates influence through informational effects, strategic signaling, and political effects."
+    },
+    {
+      "name": "Debris-to-Leverage Conversion",
+      "code": "DLC",
+      "description": "Evaluates how recovered battlefield artifacts are converted into technical exploitation, operational adaptation, and narrative exploitation."
+    },
+    {
+      "name": "Visibility Gap",
+      "code": "VG",
+      "description": "Measures the divergence between actual capability and observable battlefield representation produced by recoverability differences."
+    },
+    {
+      "name": "Startline Asymmetry",
+      "code": "SA",
+      "description": "Identifies structural differences in how systems enter the Debris–Evidence–Leverage chain at the outset of engagement."
+    },
+    {
+      "name": "Leverage Inversion",
+      "code": "LI",
+      "description": "Describes the condition in which less advanced but more recoverable systems produce greater strategic influence than advanced low-recoverability systems."
+    }
+  ],
+  "key_findings": [
+    "The battlefield is increasingly functioning as an evidence-generating environment in which debris, imagery, and fragments shape attribution and narrative competition.",
+    "Recoverable artifacts such as UAV wreckage, munition fragments, and aircraft debris provide the material basis for evidence formation and strategic signaling.",
+    "Systems that generate limited recoverable evidence face structural constraints in the information domain, even when they possess high operational sophistication.",
+    "Debris becomes strategically meaningful only after passing through documentation, validation, and amplification processes.",
+    "Evidence generated from debris can produce informational, strategic, and political effects that extend beyond immediate tactical outcomes.",
+    "Recoverability can generate a leverage inversion, where less sophisticated but more visible and recoverable systems exert disproportionate narrative and strategic influence.",
+    "Evidence-centric warfare rewards actors capable of producing observable, recoverable, and narratable outcomes.",
+    "Strategic influence is increasingly determined not only by force projection, but by the capacity to generate recoverable, verifiable, and narratable traces."
+  ],
+  "policy_recommendations": [
+    "Analyze battlefield visibility as a strategic variable rather than as a neutral reflection of operational activity.",
+    "Assess recoverability conditions when evaluating the informational and political effects of military operations.",
+    "Treat debris-derived evidence as a multi-domain instrument linking attribution, validation, narrative amplification, and strategic signaling.",
+    "Distinguish between operational effectiveness and observable impact when interpreting conflict narratives.",
+    "Incorporate visibility gaps and recoverability bias into OSINT, battlefield assessment, and strategic communication analysis."
+  ],
+  "related_works": [
+    {
+      "title": "Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System",
+      "identifier": "10.5281/zenodo.19238746",
+      "relation": "Related EPINOVA policy brief on amplification dynamics and information-system divergence in the same conflict series",
+      "type": "DOI"
+    },
+    {
+      "title": "From Compensation to Strategic Amplification: Iran's Reparations Claims in the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19261832",
+      "relation": "Related EPINOVA policy brief on strategic amplification and cost attribution in the same conflict series",
+      "type": "DOI"
+    },
+    {
+      "title": "From Regional Power to Network Node: Iran's Post-War Trajectory and Strategic Positioning",
+      "identifier": "10.5281/zenodo.19420591",
+      "relation": "Related EPINOVA policy brief on Iran's network-embedded strategic positioning",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield, Policy Brief No. EPINOVA–2026–PB–24, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19432715. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). What cannot be recovered cannot be leveraged: Debris, evidence, and power in the Iran battlefield (Policy Brief No. EPINOVA–2026–PB–24). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19432715. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), What Cannot Be Recovered Cannot Be Leveraged, EPINOVA–2026–PB–24.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-05",
+    "pagination": "9 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Debris-to-Leverage Conversion in the Iran Battlefield",
+      "page": 7,
+      "description": "Conceptual figure illustrating how recoverable battlefield artifacts are converted into strategic influence through technical, operational, and narrative pathways.",
+      "note": "The figure situates Debris-to-Leverage Conversion as the intermediate layer linking physical recoverability to strategic leverage."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Recoverable Systems and Debris Observed in the Iran Conflict (Claim-Based Reporting, Feb–Apr 2026)",
+      "page_start": 3,
+      "page_end": 4,
+      "description": "Claim-based table listing recoverable systems and debris attributed to U.S. and Israeli platforms, including manned aircraft, UAVs, cruise missiles, precision-guided bombs, anti-radiation missiles, loitering munitions, electronic systems, communication modules, recovered platforms, and critical components.",
+      "note": "The table reflects Iranian-reported claims and publicly circulated battlefield imagery; it does not represent a verified inventory and no independent confirmation is implied."
+    },
+    {
+      "number": "Table 2",
+      "title": "Conversion Chain Framework",
+      "page": 5,
+      "description": "Four-stage framework describing how debris becomes evidence through physical remnants, documentation, validation, and amplification.",
+      "note": "The table operationalizes the Debris-to-Evidence Conversion chain."
+    },
+    {
+      "number": "Table 3",
+      "title": "Structural Visibility Gap Across System Types",
+      "page": 7,
+      "description": "Comparison of advanced systems and recoverable systems across capability level, recoverability, and observable impact.",
+      "note": "The table illustrates the visibility gap between high-capability low-recoverability systems and moderate-capability high-recoverability systems."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual/table review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, conceptual framework, Recoverability Constraint, Debris-to-Evidence Conversion, Evidence-to-Power Conversion, Debris-to-Leverage Conversion, Visibility Gap, Startline Asymmetry, Leverage Inversion, strategic implications, limitations, recommended citation, DOI, tables, figure, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19432714, ORCID put-code 210780239, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19432715 is used as the primary DOI; the early DOI is retained as previous_doi for reconciliation. The PDF date is April 05, 2026; the early ORCID-derived metadata date is April 06, 2026 and is retained separately."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19432715",
+    "crossref_doi_suffix": "epinova.pb.2026.024",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19432715",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "210720887",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-04"
   }
 }

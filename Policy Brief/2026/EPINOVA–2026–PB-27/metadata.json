@@ -1,29 +1,346 @@
 {
-  "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
+  "epinova_id": "EPINOVA-PB-2026-027",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-027",
+  "title": "Russia–Iran Northern Supply Capacity",
+  "subtitle": "A Three-Channel Assessment of Sustained Throughput Under Constraint",
   "title_normalized": "russia-iran northern supply capacity: a three-channel assessment of sustained throughput under constraint",
-  "date": "2026-04-09",
-  "doi": "10.5281/zenodo.19476665",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211120814",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-09",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19476666",
+  "previous_doi": "10.5281/zenodo.19476665",
+  "landing_page": "https://doi.org/10.5281/zenodo.19476666",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19476666",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19476665",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211120814",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–27",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Russia–Iran Northern Supply Capacity A Three-Channel Assessment of Sustained Throughput Under Constraint.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Russia–Iran Northern Supply Capacity",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief evaluates Russia–Iran logistical connectivity through northern routes under sustained strategic pressure. It assesses Caspian maritime shipping, Central Asian rail transit, and overland trucking as a constrained but durable three-channel logistics network that functions as a threshold-delaying sustainment system rather than a high-volume surge architecture.",
+  "abstract": "Russia’s northern routes to Iran provide a constrained but persistent supply system under conditions of geopolitical pressure and partial maritime denial. This policy brief assesses the capacity, structural resilience, and strategic effects of three primary channels: Caspian maritime shipping, Central Asian rail transit, and overland trucking. The analysis estimates aggregate throughput at approximately 3,800–29,000 tons per day, with a realistic working range of 10,000–15,000 tons per day under constrained conditions. The central finding is that the system is not a replacement for Persian Gulf-scale maritime logistics and cannot support high-intensity wartime surge requirements. Instead, it functions as a threshold-delaying sustainment network that preserves continuity, absorbs partial disruption, enables selected replenishment, moderates escalation speed, and redistributes conflict costs over time. For policymakers, the core issue is not whether northern supply exists, but whether steady-state throughput can be degraded through selective disruption of key bottlenecks such as Caspian ports, rail transshipment nodes, and border-processing interfaces.",
+  "keywords": [
+    "Russia–Iran logistics",
+    "Northern supply capacity",
+    "Caspian maritime transport",
+    "Central Asian rail transit",
+    "Overland trucking",
+    "Sustainment network",
+    "Threshold-delaying logistics",
+    "Throughput under constraint",
+    "Persian Gulf access",
+    "Partial maritime denial",
+    "Logistics resilience",
+    "Strategic supply corridors",
+    "Multi-channel redundancy",
+    "Node concentration",
+    "Channel coupling",
+    "Nonlinear disruption",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Middle East conflict",
+    "MCCM",
+    "Escalation dynamics",
+    "Cost redistribution",
+    "Iran",
+    "Russia",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International security",
+    "Logistics and supply chains",
+    "Maritime security",
+    "Caspian Sea",
+    "Russia–Iran relations",
+    "Middle East conflict",
+    "Escalation management",
+    "Critical infrastructure",
+    "Geopolitical risk",
+    "Transportation corridors",
+    "Network resilience",
+    "Policy analysis",
+    "Security studies",
+    "Conflict systems analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-09",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-09",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-09",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-09",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Russia–Iran Northern Supply Capacity A Three-Channel Assessment of Sustained Throughput Under Constraint.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-27/Russia%E2%80%93Iran%20Northern%20Supply%20Capacity%20A%20Three-Channel%20Assessment%20of%20Sustained%20Throughput%20Under%20Constraint.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-27",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-27",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-027",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, escalation dynamics, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Three-Channel Northern Supply Capacity and Threshold-Delaying Sustainment Framework",
+    "source_basis": "Scenario-based capacity assessment of Russia–Iran northern logistics routes, integrating throughput ranges, bottleneck analysis, Loss-of-Control Threshold logic, and MCCM-style cost-dynamics interpretation.",
+    "case_context": "Russia–Iran logistical connectivity under geopolitical constraint, partial maritime denial, and sustained pressure on southern maritime access, with attention to Caspian maritime transport, Central Asian railway transit, and overland trucking.",
+    "core_problem": "A constrained northern supply system may not replace Persian Gulf-scale logistics, but persistent low-visibility throughput can delay systemic degradation, preserve continuity, and alter escalation trajectories under pressure.",
+    "central_claims": [
+      "Russia retains a viable northern logistics pathway to Iran under conditions of geopolitical constraint and partial maritime denial.",
+      "The northern supply system functions as a threshold-delaying sustainment network rather than a surge logistics architecture.",
+      "Caspian maritime transport dominates throughput, while rail and road provide secondary redundancy with limited substitution capacity.",
+      "Aggregate throughput is bounded at approximately 3,800–29,000 tons per day, with a realistic working range of 10,000–15,000 tons per day under constrained conditions.",
+      "Effective system throughput is lower than a simple arithmetic sum because of node concentration, channel coupling, coordination friction, and nonlinear failure dynamics.",
+      "The strategic importance of the network lies in moderating escalation dynamics, redistributing conflict costs over time, and preventing rapid systemic collapse."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Three-Channel Capacity Assessment",
+        "description": "Evaluates Caspian maritime shipping, Central Asian rail transit, and overland trucking as distinct but coupled logistics channels with different throughput ranges and bottlenecks."
+      },
+      {
+        "name": "Threshold-Delaying Sustainment Network",
+        "description": "Frames the northern supply system as a mechanism that preserves continuity and delays stress accumulation rather than providing wartime surge capacity."
+      },
+      {
+        "name": "LoCT Escalation Logic",
+        "description": "Interprets logistics capacity as a regulator of escalation speed, where higher sustained capacity slows threshold crossing and lower capacity accelerates instability."
+      },
+      {
+        "name": "MCCM Cost Dynamics",
+        "description": "Assesses how persistent supply can lower short-term collapse risk while increasing cumulative exposure and long-term conflict burden."
+      },
+      {
+        "name": "Bottleneck and Nonlinear Disruption Analysis",
+        "description": "Emphasizes that selective disruption of ports, rail transshipment nodes, and border-processing interfaces can produce disproportionate throughput loss."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Caspian Maritime Transport Capacity",
+      "code": "CMT",
+      "description": "Primary sustainment corridor and backbone of steady-flow logistics, with estimated capacity of approximately 3,000–16,000 tons per day and bottlenecks around port concentration, vessel-size limits, and shallow-water constraints."
+    },
+    {
+      "name": "Central Asian Railway Capacity",
+      "code": "CAR",
+      "description": "Secondary structured corridor for medium-volume flow, with estimated capacity of approximately 500–8,000 tons per day and constraints involving gauge breaks, line capacity, and transshipment delays."
+    },
+    {
+      "name": "Overland Trucking Capacity",
+      "code": "OTC",
+      "description": "Flexible, adaptive, last-resort channel, with estimated capacity of approximately 300–5,000 tons per day and constraints involving border crossings, convoy vulnerability, and low efficiency."
+    },
+    {
+      "name": "Effective System Throughput",
+      "code": "EST",
+      "description": "Assesses realized throughput after node constraints, inter-channel synchronization limits, and disruption spillovers, recognizing that effective capacity may fall below the arithmetic sum of channel capacities."
+    },
+    {
+      "name": "Threshold-Delay Effect",
+      "code": "TDE",
+      "description": "Evaluates how sustained supply continuity slows stress accumulation, delays Loss-of-Control Threshold crossing, and prevents rapid systemic collapse."
+    },
+    {
+      "name": "Cost Redistribution Effect",
+      "code": "CRE",
+      "description": "Captures how the network can reduce immediate war-cost shocks while redistributing burdens over time and potentially increasing long-term combined exposure."
+    }
+  ],
+  "key_findings": [
+    "Russia retains a viable northern logistics pathway to Iran despite geopolitical constraints and partial maritime denial.",
+    "The Russia–Iran northern supply system is better understood as a threshold-delaying sustainment mechanism than as a surge logistics architecture.",
+    "Caspian maritime transport is the principal throughput channel, while rail and road provide secondary redundancy and limited substitution capacity.",
+    "The estimated aggregate capacity range is approximately 3,800–29,000 tons per day, with a realistic working range of 10,000–15,000 tons per day under constrained conditions.",
+    "The northern network can sustain baseline industrial, dual-use, and selected military-relevant flows, but it cannot replace Persian Gulf-scale maritime logistics or high-intensity wartime surges.",
+    "Effective throughput is constrained by node concentration, channel coupling, scheduling friction, bottlenecks, and nonlinear disruption dynamics.",
+    "The system’s strategic significance lies in preserving continuity, absorbing disruption, delaying escalation thresholds, and redistributing conflict costs over time.",
+    "Selective disruption at critical chokepoints may be more effective than attempts at total interdiction."
+  ],
+  "policy_recommendations": [
+    "Focus disruption strategy on bottlenecks rather than total interdiction, especially ports, rail transshipment nodes, and border-processing interfaces.",
+    "Prioritize sustained monitoring of rolling throughput indicators rather than relying on one-time visibility or episodic movement detection.",
+    "Assess capacity degradation against system function rather than absolute volume, because even modest sustained throughput can preserve continuity and delay depletion.",
+    "Treat the northern logistics network as a resilience corridor, not as a strategic breakthrough corridor or full substitute for southern maritime access.",
+    "Incorporate node concentration, channel coupling, and nonlinear disruption effects into any policy assessment of Russia–Iran supply resilience."
+  ],
+  "related_works": [
+    {
+      "title": "Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment",
+      "identifier": "10.5281/zenodo.19464642",
+      "relation": "Preceding EPINOVA policy brief on ceasefire as a competitive interval for capability recovery and network disruption under non-enforcement conditions",
+      "type": "DOI"
+    },
+    {
+      "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
+      "identifier": "10.5281/zenodo.19562154",
+      "relation": "Later EPINOVA policy brief expanding the logistics analysis beyond the Gulf and identifying three-channel threshold-delaying systems under sustained pressure",
+      "type": "DOI"
+    },
+    {
+      "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure",
+      "identifier": "",
+      "relation": "Related EPINOVA policy brief on Iran’s broader logistics adaptation under blockade pressure and multi-corridor routing logic",
+      "type": "Related publication"
+    },
+    {
+      "title": "Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network",
+      "identifier": "10.5281/zenodo.19681411",
+      "relation": "Related EPINOVA policy brief on system disruption, throughput stress, and Caspian logistics dynamics after strikes against northern supply infrastructure",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint, Policy Brief No. EPINOVA–2026–PB–27, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19476666. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Russia–Iran northern supply capacity: A three-channel assessment of sustained throughput under constraint (Policy Brief No. EPINOVA–2026–PB–27). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Russia–Iran Northern Supply Capacity, EPINOVA–2026–PB–27.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-09",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Russia–Iran Northern Supply Network: A Threshold-Delaying Sustainment System",
+      "page": 6,
+      "description": "Conceptual systems diagram showing logistics input channels, threshold-buffer functions, escalation dynamics under LoCT logic, and cost redistribution over time under MCCM logic."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Russia–Iran Northern Supply Capacity and Systemic Effects",
+      "page": 3,
+      "description": "Comparative table summarizing estimated capacity, structural role, LoCT escalation interpretation, MCCM cost interpretation, and bottlenecks for Caspian maritime transport, Central Asian railway, overland trucking, and the combined three-channel system."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Russia–Iran Northern Supply Capacity A Three-Channel Assessment of Sustained Throughput Under Constraint.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual-page review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, why-this-matters section, system overview, analytical framework, channel capacity estimates, Table 1, Figure 1, policy implications, limitations, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied DOI 10.5281/zenodo.19476665, ORCID put-code 211120814, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19476666 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19476666",
+    "crossref_doi_suffix": "epinova.pb.2026.027",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19476666",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "211120814",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-09"
   }
 }

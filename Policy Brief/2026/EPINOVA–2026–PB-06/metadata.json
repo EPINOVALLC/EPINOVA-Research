@@ -1,29 +1,415 @@
 {
-  "title": "Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems: Implications for U.S. and China's Force Structure Transition (2026–2060)",
+  "epinova_id": "EPINOVA-PB-2026-006",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems",
+  "subtitle": "Implications for U.S. and China’s Force Structure Transition (2026–2060)",
   "title_normalized": "lifecycle cost parity between human personnel and ai-enabled systems: implications for u.s. and china's force structure transition (2026-2060)",
-  "date": "2026-02-19",
-  "doi": "10.5281/zenodo.18689811",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "206106348",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-19",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18689812",
+  "previous_doi": "10.5281/zenodo.18689811",
+  "landing_page": "https://doi.org/10.5281/zenodo.18689812",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–06",
+      "scheme": "EPINOVA publication number",
+      "description": "Publication identifier printed in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18689812",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI printed in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18689811",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from early ORCID-derived metadata record; retained for reconciliation"
+    },
+    {
+      "identifier": "206106348",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Policy Brief No. EPINOVA–2026–PB–06",
+      "scheme": "Series number",
+      "description": "Policy Brief series number"
+    }
+  ],
+  "description": "This policy brief evaluates when AI-enabled systems may reach lifecycle cost parity with human military personnel in the United States and China between 2026 and 2060. It uses a cross-service lifecycle cost model to estimate economic crossover timing across Army, Navy, Marine Corps, Air Force, Space Force, strategic forces, strategic technical roles, and medical roles, emphasizing that cost parity is a financial threshold rather than an automatic deployment or replacement outcome.",
+  "abstract": "This brief evaluates when AI-enabled systems achieve lifecycle cost parity with human military personnel in the United States and China. Drawing on a cross-service lifecycle cost model, including the Army, Navy, Marine Corps, Air Force, Space Force, Strategic Forces, Strategic Technical roles, and Medical Corps, the analysis estimates the earliest year in which AI-enabled capability equals or falls below the full lifecycle cost of recruiting, training, sustaining, and compensating comparable human personnel. The analysis finds that cost parity occurs earlier in the United States across most categories, that information-intensive and maintenance roles reach parity earliest, and that strategic and high-liability roles remain augmentation-dominant through later decades. Cost parity is interpreted as a structural financial incentive for force redesign rather than immediate personnel displacement.",
+  "keywords": [
+    "AI-enabled systems",
+    "lifecycle cost parity",
+    "military personnel costs",
+    "force structure transition",
+    "human-AI teaming",
+    "manned-unmanned systems",
+    "defense economics",
+    "autonomous systems",
+    "United States",
+    "China",
+    "military AI governance"
+  ],
+  "subjects": [
+    {
+      "term": "AI-enabled military systems",
+      "scheme": "EPINOVA topic"
+    },
+    {
+      "term": "Defense economics",
+      "scheme": "EPINOVA topic"
+    },
+    {
+      "term": "Force structure transition",
+      "scheme": "EPINOVA topic"
+    },
+    {
+      "term": "Military AI governance",
+      "scheme": "EPINOVA topic"
+    },
+    {
+      "term": "U.S.–China strategic competition",
+      "scheme": "EPINOVA topic"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-02-19",
+      "type": "Issued"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "title": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-06/Lifecycle%20Cost%20Parity%20Between%20Human%20Personnel%20and%20AI-Enabled%20Systems.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-06",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-06",
+  "source_repository": "EPINOVA-Research",
+  "series_information": {
+    "series_title": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_short_title": "EPINOVA Policy Brief Series",
+    "series_number": "EPINOVA–2026–PB–06",
+    "series_year": "2026",
+    "series_sequence": 6,
+    "description": "This policy brief is part of the EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance."
+  },
+  "analytical_framework": {
+    "name": "Lifecycle Cost Parity Model for Human Personnel and AI-Enabled Systems",
+    "type": "Cross-service defense cost-transition model",
+    "core_question": "When does an AI-enabled system equal or fall below the lifecycle cost of comparable human military personnel while meeting minimum combat-ready operational maturity?",
+    "core_condition": "AI_lifecycle ≤ Human_lifecycle",
+    "time_horizon": "2026–2060",
+    "countries": [
+      "United States",
+      "China"
+    ],
+    "service_categories": [
+      "Army",
+      "Navy",
+      "Marine Corps",
+      "Air Force",
+      "Space Force",
+      "Strategic Forces",
+      "Strategic Technical roles",
+      "Medical Corps"
+    ],
+    "human_lifecycle_cost_components": [
+      "Recruitment",
+      "Training",
+      "Compensation",
+      "Benefits",
+      "Equipment amortization",
+      "Operational sustainment",
+      "Healthcare and long-term benefit obligations"
+    ],
+    "ai_lifecycle_cost_components": [
+      "Development amortization",
+      "Procurement",
+      "Deployment",
+      "Maintenance",
+      "Software updates",
+      "Integration",
+      "Supervisory staffing"
+    ],
+    "baseline_assumptions": [
+      "Costs are evaluated over a 20-year horizon",
+      "Costs are expressed in constant 2025 U.S. dollars",
+      "A 3 percent real discount rate is applied",
+      "U.S. personnel costs grow at 2.5–3.5 percent annually in real terms",
+      "Chinese personnel costs grow at 1.5–2.5 percent annually in real terms",
+      "AI-enabled system costs decline by 6–10 percent annually through 2035 and 2–4 percent thereafter",
+      "Crossover is recorded only after minimum combat-ready reliability and integration thresholds are met",
+      "The model excludes large-scale conflict attrition and abrupt doctrinal shifts"
+    ],
+    "interpretive_limit": "Economic crossover is a financial threshold and structural incentive for force redesign, not a guarantee of immediate replacement, deployment, or operational superiority."
+  },
+  "key_findings": [
+    "Lifecycle cost parity occurs earlier in the United States across most categories because higher personnel compensation, healthcare expenditures, and long-term benefit obligations accelerate substitution pressure relative to China.",
+    "Information-intensive and maintenance roles reach cost parity earliest, generally between 2028 and 2033 under the baseline scenario.",
+    "Combat aviation and maneuver forces generally enter parity windows between 2032 and 2040, supporting expanded manned–unmanned integration rather than immediate human replacement.",
+    "Strategic and high-liability roles, including nuclear command functions, senior intelligence positions, and trauma medicine, remain augmentation-dominant through approximately 2045–2055.",
+    "The 2030–2040 decade is structurally disruptive because many maneuver, aviation, and support roles enter transition windows during this period.",
+    "Cost parity should be understood as a financial threshold indicating structural incentives for force redesign, not as an operational outcome or automatic displacement mechanism.",
+    "The likely trajectory is phased movement toward hybrid manned–unmanned architectures rather than categorical replacement of human personnel."
+  ],
+  "service_level_outlook": [
+    {
+      "service": "Army",
+      "united_states_crossover_window": "2030–2036",
+      "china_crossover_window": "2035–2040",
+      "early_transition_roles": [
+        "Light infantry support functions",
+        "Engineers and logistics",
+        "Cyber and electronic warfare"
+      ],
+      "interpretation": "The Army outlook implies movement from manpower density toward unmanned asset density, while special operations remain augmentation-dominant beyond 2040."
+    },
+    {
+      "service": "Navy",
+      "united_states_crossover_window": "2031–2040",
+      "china_crossover_window": "2036–2045",
+      "early_transition_roles": [
+        "Surface fleet operations",
+        "Aviation maintenance"
+      ],
+      "late_transition_roles": [
+        "Submarine roles",
+        "Nuclear roles"
+      ],
+      "interpretation": "The Navy outlook points toward reduced crew sizes, expanded unmanned surface and undersea systems, predictive maintenance, and continued human anchoring in nuclear command roles."
+    },
+    {
+      "service": "Marine Corps",
+      "united_states_crossover_window": "2032–2036",
+      "china_crossover_window": "2037–2040",
+      "transition_roles": [
+        "Autonomous ISR",
+        "Breach systems",
+        "Suppression systems",
+        "Remote logistics support"
+      ],
+      "interpretation": "Marine force design increasingly reflects distributed, semi-autonomous expeditionary operations."
+    },
+    {
+      "service": "Air Force",
+      "united_states_crossover_window": "2031–2036 for most roles",
+      "china_crossover_window": "2035–2040",
+      "early_transition_roles": [
+        "ISR analysts",
+        "UAV operators",
+        "Aircraft maintenance"
+      ],
+      "mid_phase_roles": [
+        "Fighter pilots under loyal wingman constructs",
+        "Bomber pilots under collaborative combat aircraft constructs"
+      ],
+      "interpretation": "Human pilots increasingly function as mission commanders overseeing multiple semi-autonomous platforms."
+    },
+    {
+      "service": "Space Force",
+      "united_states_crossover_window": "2041–2046",
+      "china_crossover_window": "2045–2050",
+      "transition_roles": [
+        "Monitoring",
+        "Anomaly detection",
+        "Routine orbital management"
+      ],
+      "interpretation": "Human operators remain central in escalation-sensitive decisions and high-value asset control."
+    },
+    {
+      "service": "Strategic Forces",
+      "united_states_crossover_window": "~2047",
+      "china_crossover_window": "~2051",
+      "transition_roles": [
+        "Missile launch duty",
+        "Nuclear command support"
+      ],
+      "interpretation": "Strategic forces remain augmentation-dominant because escalation control, legal accountability, and deterrence stability constrain full autonomy."
+    },
+    {
+      "service": "Strategic Technical and Medical Roles",
+      "united_states_crossover_window": "2040s",
+      "china_crossover_window": "2040s–2050s depending on role",
+      "transition_roles": [
+        "Senior intelligence officers",
+        "Trauma surgeons"
+      ],
+      "interpretation": "AI enhances analytic speed and clinical precision but does not displace high-liability decision-makers in the near term."
+    }
+  ],
+  "comparative_patterns": [
+    {
+      "pattern": "The United States transitions earlier",
+      "description": "Higher personnel costs accelerate economic crossover, although institutional inertia and service culture may moderate restructuring pace."
+    },
+    {
+      "pattern": "China transitions slightly later",
+      "description": "Lower baseline personnel costs delay economic parity, but centralized planning structures may facilitate rapid adjustment once parity is reached."
+    },
+    {
+      "pattern": "The 2030–2040 decade is structurally disruptive",
+      "description": "Most maneuver, aviation, and support roles cross during this period, shifting budget allocations from personnel sustainment toward autonomous systems procurement and integration."
+    }
+  ],
+  "force_structure_implications": [
+    {
+      "category": "Replacement-Dominant",
+      "abbreviation": "R",
+      "examples": [
+        "ISR analysts",
+        "UAV operators",
+        "Maintenance roles"
+      ]
+    },
+    {
+      "category": "Manned–Unmanned Teaming",
+      "abbreviation": "M",
+      "examples": [
+        "Armor",
+        "Aviation",
+        "Naval surface operations"
+      ]
+    },
+    {
+      "category": "Augmentation-Dominant",
+      "abbreviation": "A",
+      "examples": [
+        "Nuclear command",
+        "Special operations",
+        "Trauma medicine"
+      ]
+    },
+    {
+      "category": "Role Compression",
+      "abbreviation": "",
+      "examples": [
+        "Contraction of operator-level positions",
+        "Consolidation of oversight and authority roles"
+      ]
+    }
+  ],
+  "strategic_risks": [
+    "Workforce dislocation among mid-career personnel in maintenance, ISR, and cyber roles",
+    "Altered escalation stability as automation expands in conventional forces",
+    "Alliance asymmetry caused by divergent crossover timelines and interoperability gaps",
+    "Budget volatility if personnel savings are offset by transition and integration costs"
+  ],
+  "policy_recommendations": [
+    "Develop hybrid doctrine before cost pressures compel abrupt restructuring.",
+    "Preserve human authority in escalation-sensitive domains.",
+    "Expand AI governance frameworks for military applications.",
+    "Conduct sensitivity analysis under alternative AI cost-decline trajectories.",
+    "Rebalance training pipelines toward supervisory, systems-integration, and command roles."
+  ],
+  "deployment_dynamics_beyond_cost_parity": [
+    "Industrial manufacturing capacity may compress unit costs faster than modeled lifecycle trends.",
+    "Organizational adaptation speed depends on doctrinal revision, training pipeline adjustment, and command architecture redesign.",
+    "Risk tolerance and escalation control may slow automation in high-liability domains even after cost parity.",
+    "Institutional incentives, including personnel compensation structures and pension liabilities, create asymmetric fiscal pressures."
+  ],
+  "related_works": [],
   "references": [],
+  "recommended_citation": "EPINOVA (2026), Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems: Implications for U.S. and Chinese Force Structure Transition (2026–2060), Policy Brief No. EPINOVA–2026–PB–06, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18689812. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "EPINOVA. (2026). Lifecycle cost parity between human personnel and AI-enabled systems: Implications for U.S. and Chinese force structure transition (2026–2060) (Policy Brief No. EPINOVA–2026–PB–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18689812. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "EPINOVA (2026), Lifecycle Cost Parity, EPINOVA–2026–PB–06.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
+    "location": "United States",
+    "year": 2026
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Projected Economic Crossover Timing Between Human Personnel and AI-Enabled Systems by Service and Role, United States and China (2026–2060)",
+      "page": 4,
+      "description": "Scatter-style comparison of projected economic crossover years between human personnel and AI-enabled systems by service and role for the United States and China, showing earlier U.S. crossover in many information-intensive, maintenance, aviation, and support categories and later crossover for strategic and high-liability roles.",
+      "source": "Author’s lifecycle cost parity model under baseline assumptions",
+      "note": "Crossover is defined as the first year in which AI lifecycle cost is less than or equal to human lifecycle cost under baseline assumptions."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the publication."
+  },
+  "software": {
+    "statement": "No software artifact is identified in the publication metadata."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "updated_from": [
+      "Lifecycle Cost Parity Between Human Personnel and AI-Enabled Systems.pdf",
+      "metadata.json"
+    ],
+    "notes": "Metadata updated according to the current EPINOVA publication metadata format, using the PDF as the primary source and the early ORCID-derived metadata record for repository, file, and ORCID put-code information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "deposit_ready": false,
+    "registration_status": "Pending",
+    "doi": "10.5281/zenodo.18689812",
+    "notes": "After Crossref registration, EPINOVA publication landing pages are intended to serve as the primary DOI resolution interface. Current DOI is a Zenodo/DataCite DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18689812",
+    "crossref_doi_suffix": "epinova.pb.2026.006",
+    "intended_registration_agency": "Crossref"
+  },
+  "datacite": {
+    "status": "registered",
+    "deposit_ready": true,
+    "doi": "10.5281/zenodo.18689812",
+    "repository": "Zenodo"
+  },
+  "orcid": {
+    "status": "linked",
+    "source": "ORCID Public API",
+    "put_code": "206106348",
+    "work_type": "report",
+    "visibility": "public"
   }
 }

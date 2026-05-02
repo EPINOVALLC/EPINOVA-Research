@@ -1,29 +1,379 @@
 {
-  "title": "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic",
-  "title_normalized": "when decapitation no longer matters: ai-delegated execution and the potential failure of preemptive strike logic",
-  "date": "2026-01-15",
-  "doi": "10.5281/zenodo.18252767",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "202494938",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-001",
+  "title": "When Decapitation No Longer Matters",
+  "subtitle": "AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic",
+  "title_normalized": "when decapitation no longer matters: ai-delegated execution and the potential failure of preemptive strike logic",
+  "publication_date": "2026-01-15",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18252768",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18252768",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18252768",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18252767",
+      "scheme": "DOI",
+      "description": "DOI recorded in the early ORCID-derived metadata; retained as a discrepancy note for reconciliation"
+    },
+    {
+      "identifier": "202494938",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–WP–F–2026–01",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number shown in the PDF title page and running header"
+    },
+    {
+      "identifier": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "When Decapitation No Longer Matters",
+      "scheme": "Short title",
+      "description": "Short form of the working paper title"
+    }
+  ],
+  "description": "This working paper examines how AI-enabled delegated execution can undermine the risk-reduction logic of preemptive strike. It argues that preemptive strike depends on a disruptable human decision bottleneck, and that when retaliatory execution is pre-authorized, institutionally insulated, and no longer contingent on leadership survival, decapitation loses strategic leverage. The paper develops the concept of decapitation irrelevance and reframes deterrence stability around pre-crisis institutional commitment rather than crisis-time leader discretion.",
+  "abstract": "Preemptive and preventive strike doctrines in international relations are commonly understood as strategies of risk reduction, premised on the belief that striking first can suppress or prevent future retaliation. This logic presumes that diverse target sets—military forces, leadership nodes, and critical infrastructure—are strategically substitutable within a unified framework of early violence. This article argues that such substitutability rests on an underexamined structural condition: the existence of a disruptable human decision bottleneck whose removal can meaningfully alter retaliatory execution. Decapitation functions as a necessary enabling condition within preemptive strike logic even when it is not the sole objective. When leadership disruption no longer affects the probability, scale, or certainty of retaliation, preemption forfeits its defining function as risk reduction and collapses into reciprocal destruction. This condition is increasingly undermined by AI-enabled delegated execution. When retaliatory execution is pre-authorized and institutionally insulated from real-time human intervention, killing leaders no longer alters strategic outcomes—a condition this article terms decapitation irrelevance. Contrary to prevailing concerns in AI governance scholarship, this transformation does not entail automated decision-making, but a reconfiguration of commitment structures. The article concludes that deterrence stability in AI-integrated environments depends less on crisis-time restraint than on institutional architectures of pre-commitment established before conflict begins.",
+  "keywords": [
+    "Preemptive strike",
+    "Preventive strike",
+    "Decapitation",
+    "Decapitation irrelevance",
+    "AI-delegated execution",
+    "Delegated execution",
+    "Deterrence theory",
+    "AI and strategic stability",
+    "Nuclear deterrence",
+    "Pre-commitment",
+    "Decision bottleneck",
+    "Leadership decapitation",
+    "Retaliatory execution",
+    "Crisis stability",
+    "International security",
+    "Strategic risk",
+    "AI governance",
+    "Human-in-the-loop",
+    "Institutional commitment",
+    "Preemptive strike logic"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "International Security",
+    "Deterrence Theory",
+    "AI-Enabled Conflict",
+    "Nuclear Strategy",
+    "Crisis Stability",
+    "Preemptive and Preventive Strike",
+    "AI Governance",
+    "International Relations Theory",
+    "Security Studies"
+  ],
+  "dates": [
+    {
+      "date": "2026-01-15",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-01-15",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301/When%20Decapitation%20No%20Longer%20Matters%20AI-Delegated%20Execution%20and%20the%20Potential%20Failure%20of%20Preemptive%20Strike%20Logic%EF%BC%88EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301%EF%BC%89.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 18
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-001",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Decapitation Irrelevance and AI-Delegated Execution Framework",
+    "core_problem": "Preemptive strike logic depends on a disruptable human decision bottleneck; AI-enabled delegated execution may decouple retaliatory execution from leadership survival and thereby eliminate the risk-reduction function of decapitation.",
+    "central_claims": [
+      "Preemptive strike is strategically coherent only if it reduces the probability, scale, or certainty of retaliation, rather than merely inflicting destruction.",
+      "Decapitation operates as a necessary enabling condition for preemptive risk reduction because leadership disruption links heterogeneous target damage to possible retaliatory restraint.",
+      "AI-enabled delegated execution relocates sovereign control upstream into institutional design, threshold definition, and pre-authorized execution pathways.",
+      "When leadership removal no longer changes expected retaliation, preemptive strike collapses from risk reduction into reciprocal destruction.",
+      "Deterrence stability in AI-integrated environments depends increasingly on pre-crisis institutional architectures of pre-commitment rather than crisis-time leader discretion."
+    ],
+    "scope_conditions": [
+      "The adversary possesses strategic-level retaliatory capability.",
+      "Retaliatory execution can be institutionally pre-committed through authorization rules, standing procedures, and execution pathways.",
+      "Attackers face incomplete information and non-verifiability regarding complete neutralization.",
+      "The object of analysis is the risk-reduction logic of preemptive and preventive strike, not the broader permissibility or desirability of war."
+    ],
+    "core_concepts": [
+      {
+        "term": "Decapitation irrelevance",
+        "definition": "A deterrence condition in which the removal of human leadership does not meaningfully affect the probability, scale, or certainty of strategic retaliation."
+      },
+      {
+        "term": "Delegated execution",
+        "definition": "Execution under pre-authorized institutional rules after sovereign decision-making has occurred upstream; it does not imply autonomous sovereign judgment by AI systems."
+      },
+      {
+        "term": "Decision bottleneck",
+        "definition": "A narrow human authorization point whose disruption can delay, distort, or prevent retaliation."
+      },
+      {
+        "term": "Necessary condition collapse",
+        "definition": "The collapse of preemptive strike's risk-reduction logic once leadership removal no longer alters retaliatory execution."
+      },
+      {
+        "term": "Destruction without leverage",
+        "definition": "A condition in which physical damage no longer translates into reduced retaliatory certainty or strategic restraint."
+      }
+    ],
+    "diagnostic_indicators": [
+      {
+        "indicator": "Pre-authorized retaliation",
+        "guiding_question": "Is retaliatory execution authorized in advance through standing orders or institutional rules rather than ad hoc leadership approval?",
+        "strategic_implication": "If yes, leadership removal is unlikely to suppress execution."
+      },
+      {
+        "indicator": "Absence of a single authorizing node",
+        "guiding_question": "Does retaliatory execution depend on a unique, identifiable leadership figure or centralized authorization point?",
+        "strategic_implication": "If no, decapitation cannot reliably interrupt execution."
+      },
+      {
+        "indicator": "Execution under degraded communication",
+        "guiding_question": "Can retaliatory execution occur under conditions of severe communication disruption or partial isolation?",
+        "strategic_implication": "If yes, C4ISR disruption cannot substitute for leadership removal."
+      },
+      {
+        "indicator": "Belief invariance regarding retaliation",
+        "guiding_question": "Does the attacker's expectation of retaliation remain largely unchanged regardless of leadership survival?",
+        "strategic_implication": "If yes, decapitation fails to reduce perceived risk."
+      },
+      {
+        "indicator": "Institutional insulation of execution",
+        "guiding_question": "Are execution pathways structurally insulated from crisis-time political intervention?",
+        "strategic_implication": "If yes, last-minute restraint cannot be exploited."
+      }
+    ],
+    "analytical_sections": [
+      "Scope conditions and analytical boundaries",
+      "Preemptive and preventive strike as temporal logic and risk reduction",
+      "Decapitation as a necessary condition in preemptive strike theory",
+      "Delegated execution and the elimination of the decision bottleneck",
+      "Why other target sets cannot substitute for decapitation",
+      "Cost transformation and crisis stability",
+      "Responsibility, control, and the political function of the human-in-the-loop",
+      "Implications for international relations theory"
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Human Decision Bottleneck",
+      "code": "HDB",
+      "description": "The degree to which retaliatory execution remains dependent on crisis-time human authorization or a centralized leadership node."
+    },
+    {
+      "name": "Pre-Authorization Depth",
+      "code": "PAD",
+      "description": "The extent to which retaliatory execution is authorized before crisis onset through institutional rules, standing orders, or threshold structures."
+    },
+    {
+      "name": "Institutional Insulation",
+      "code": "IIE",
+      "description": "The degree to which execution pathways are protected from leadership removal, degraded communications, and crisis-time political intervention."
+    },
+    {
+      "name": "Retaliation Belief Invariance",
+      "code": "RBI",
+      "description": "The stability of the attacker's expectation of retaliation regardless of whether leadership survives."
+    },
+    {
+      "name": "Target-Set Non-Substitutability",
+      "code": "TSNS",
+      "description": "The inability of military, infrastructure, C4ISR, or logistics strikes to substitute for leadership disruption once execution is pre-committed."
+    },
+    {
+      "name": "Irreversible Cost Acceptance",
+      "code": "ICA",
+      "description": "The shift from capability assessment to accepting guaranteed retaliatory costs once preemption can no longer reduce expected retaliation."
+    },
+    {
+      "name": "Crisis-Time Discretion Loss",
+      "code": "CTDL",
+      "description": "The reduction in strategic relevance of last-minute leader intervention once control is relocated upstream into institutional design."
+    }
+  ],
+  "key_findings": [
+    "Preemptive strike relies on risk reduction, not destruction alone; destruction without reduced retaliation is strategically incoherent.",
+    "Decapitation is not the whole of preemptive strike doctrine, but it functions as a necessary enabling condition that converts heterogeneous target damage into possible retaliatory restraint.",
+    "AI-enabled delegated execution undermines the decision bottleneck by pre-authorizing and institutionally insulating retaliatory execution from crisis-time leadership survival.",
+    "Decapitation irrelevance is a threshold condition in which leadership removal no longer meaningfully alters the probability, scale, or certainty of retaliation.",
+    "Military, infrastructure, C4ISR, transportation, and logistics targets cannot substitute for decapitation once retaliatory execution is pre-committed and distributed.",
+    "Under delegated execution, preemption shifts from a capability-centered calculation to a decision about irreversible cost acceptance.",
+    "Crisis stability may depend less on last-minute human discretion and more on pre-crisis institutional threshold design, credibility, and mutual recognition.",
+    "The human-in-the-loop should be understood partly as a political technology that preserves attribution and legitimacy, not necessarily as an operational guarantee of restraint.",
+    "International relations theory must shift attention from leader-centric rationality and crisis-time bargaining toward institutional architecture and pre-commitment design."
+  ],
+  "related_works": [
+    {
+      "title": "Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA",
+      "identifier": "10.5281/zenodo.18089642",
+      "relation": "Related EPINOVA work on machine-speed OODA, human control, and strategic stability in AI-enabled warfare",
+      "type": "DOI"
+    },
+    {
+      "title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
+      "identifier": "10.5281/zenodo.18088850",
+      "relation": "Related EPINOVA work on algorithmic warfare, human role migration, IHL, and accountability",
+      "type": "DOI"
+    },
+    {
+      "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+      "identifier": "10.5281/zenodo.18081107",
+      "relation": "Related EPINOVA work on uncertainty, strategic stability, and unmanned systems under adversarial inference",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Acton, J. M. (2020, April 9). Is it a nuke? Pre-launch ambiguity and inadvertent escalation. Carnegie Endowment for International Peace. https://carnegieendowment.org/2020/04/09/is-it-a-nuke-pre-launch-ambiguity-and-inadvertent-escalation-pub-81446",
+    "Betts, R. K. (2003). Striking first: A history of thankfully lost opportunities. Ethics & International Affairs, 17(1), 17–24.",
+    "Blair, B. G. (1993). The logic of accidental nuclear war. Brookings Institution.",
+    "Chiozza, G., & Goemans, H. E. (2011). Leaders and international conflict. Cambridge University Press.",
+    "Depp, M., & Scharre, P. (2024, January 16). Artificial intelligence and nuclear stability. War on the Rocks. https://warontherocks.com/2024/01/artificial-intelligence-and-nuclear-stability/",
+    "Fearon, J. D. (1995). Rationalist explanations for war. International Organization, 49(3), 379–414.",
+    "Fearon, J. D. (1997). Signaling foreign policy interests: Tying hands versus sinking costs. Journal of Conflict Resolution, 41(1), 68–90.",
+    "Feaver, P. D. (1992). Command and control in emerging nuclear nations. International Security, 17(3), 160–187.",
+    "Finnemore, M., & Sikkink, K. (1998). International norm dynamics and political change. International Organization, 52(4), 887–917.",
+    "Horowitz, M. C. (2018). Artificial intelligence, international competition, and the balance of power. Texas National Security Review, 1(3). https://tnsr.org/2018/05/artificial-intelligence-international-competition-and-the-balance-of-power/",
+    "Horowitz, M. C., Stam, A. C., & Ellis, C. D. (2015). Why leaders fight. Cambridge University Press.",
+    "Horowitz, M. C., & Scharre, P. (2021, January 12). AI and international stability: Risks and confidence-building measures. Center for a New American Security. https://www.cnas.org/publications/commentary/ai-and-international-stability-risks-and-confidence-building-measures",
+    "Jervis, R. (1978). Cooperation under the security dilemma. World Politics, 30(2), 167–214.",
+    "Johnson, J. (2024). Revisiting the ‘stability–instability paradox’ in AI-enabled warfare: A modern-day Promethean tragedy under the nuclear shadow? Review of International Studies. https://doi.org/10.1017/S0260210524000767",
+    "Levy, J. S. (2008). Preventive war and democratic politics. International Studies Quarterly, 52(1), 1–24.",
+    "Payne, K. (2021). Artificial intelligence: A revolution in strategic affairs? Survival, 63(2), 7–32.",
+    "Powell, R. (1990). Nuclear deterrence theory: The search for credibility. Cambridge University Press.",
+    "Sagan, S. D. (1993). The limits of safety: Organizations, accidents, and nuclear weapons. Princeton University Press.",
+    "Scharre, P. (2018). Army of none: Autonomous weapons and the future of war. W. W. Norton & Company.",
+    "Scharre, P. (2023). Four battlegrounds: Power in the age of artificial intelligence. W. W. Norton & Company.",
+    "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
+    "Snyder, G. H. (1961). Deterrence and defense: Toward a theory of national security. Princeton University Press."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), When Decapitation No Longer Matters.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-01-15",
+    "pagination": "18 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Indicators of Decapitation Irrelevance",
+      "description": "Conceptual diagnostics for identifying whether leadership disruption continues to play an enabling role in preemptive strike logic, including pre-authorized retaliation, absence of a single authorizing node, degraded-communication execution, belief invariance, and institutional insulation of execution.",
+      "source": "Author's analytical framework based on decapitation irrelevance and delegated execution logic",
+      "note": "The table is a conceptual diagnostic, not an index score or empirical measurement tool."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions; it does not constitute policy recommendations, predictive assessments, operational guidance, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation using the latest EPINOVA metadata schema",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied the title, working paper number, author, ORCID, affiliation, publication date, abstract, keywords, F-Series statement, recommended citation, Table 1, disclaimer, and references. Early metadata supplied ORCID put-code 202494938, GitHub repository information, and DOI 10.5281/zenodo.18252767. The PDF recommended citation lists 10.5281/zenodo.18252768; this record uses the PDF DOI as primary and retains the early DOI as an alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. The recommended citation states that Crossref DOI is to be assigned after Crossref membership approval.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18252768",
+    "crossref_doi_suffix": "epinova.wp.f.2026.001",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18252768",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI is taken from the PDF recommended citation. Early ORCID-derived metadata lists 10.5281/zenodo.18252767, which is retained as an alternate identifier pending reconciliation."
+  },
+  "orcid": {
+    "put_code": "202494938",
+    "source": "ORCID Public API",
+    "record_date": "2026-01-15",
+    "doi_in_early_metadata": "10.5281/zenodo.18252767"
   }
 }

@@ -1,0 +1,186 @@
+# Artificial Intelligence as National Power:
+
+Original URL: https://epinova.org/articles/f/artificial-intelligence-as-national-power
+
+Publication date: 2025-12-26
+
+Archive note: This is a locally preserved Markdown copy of an EPINOVA article originally generated through the GoDaddy blog system.
+
+---
+
+[All Posts](<https://epinova.org/articles?blog=y>)
+
+### Artificial Intelligence as National Power:
+
+December 26, 2025|Global AI Governance & Policy
+
+![](assets/image-001.jpg)
+
+#### **Implications of the 2025 U.S. National Security Strategy for AI Development**
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+**Author:** Dr. Shaoyuan Wu 
+
+**ORCID:**<https://orcid.org/0009-0008-0660-8232>
+
+**Affiliation:** Global AI Governance and Policy Research Center, EPINOVA 
+
+**Date:** December 26, 2025 
+
+  
+
+
+  
+
+
+#### **Abstract**
+
+The National Security Strategy of the United States (November 2025) marks a decisive shift in how artificial intelligence (AI) is conceptualized within state strategy. Rather than treating AI as a regulatory object, ethical challenge, or standalone innovation sector, the document embeds AI directly into the architecture of national power. This article argues that the strategy reflects a transition into a **post-breakthrough phase of AI development** , in which AI functions as a **core production factor of state capacity** , a **strategic military enabler** , and a **tool for geopolitical alignment and standards dominance**. The analysis demonstrates that the document’s silences on AI risk governance are not accidental omissions, but deliberate strategic choices signaling the emergence of an AI-centered statecraft paradigm.
+
+  
+
+
+#### **1\. Introduction: From “Emerging Technology” to State Capability**
+
+In earlier policy documents, AI was commonly framed as a disruptive innovation requiring ethical oversight, workforce adaptation, and sector-specific regulation. The 2025 National Security Strategy (NSS) marks a clear departure from this approach. AI is no longer presented primarily as a technology to be governed, but as a strategic capability to be mobilized, protected, and leveraged in pursuit of national objectives (White House, 2025, pp. 5–9).
+
+This reframing reflects a deeper structural shift. AI has crossed the threshold from technological novelty to infrastructural necessity. Much like electricity, oil, or nuclear energy in earlier eras, AI is treated as a foundational input into military power, economic productivity, and international influence, reshaping how state capacity itself is conceived (White House, 2025).
+
+  
+
+
+#### **2\. The Strategic Identity of AI in the 2025 NSS**
+
+**2.1. AI as a Core Domain of National Power**
+
+Throughout the NSS, AI is consistently grouped with nuclear deterrence, space systems, quantum computing, autonomous platforms, and energy infrastructure (White House, 2025, pp. 7–8, 21–22). This placement signals that AI is no longer treated as a sectoral advantage, but as a **cross-domain force multiplier** integral to national power.
+
+The strategic identity of AI in the NSS can be summarized along three interrelated axes:
+
+  * **Military effectiveness** , including autonomous systems, accelerated decision-making, and cost–exchange optimization (White House, 2025, pp. 14, 21–24);
+  * **Economic resilience** , supporting reindustrialization, productivity growth, and secure supply chains (White House, 2025, pp. 13–15);
+  * **Technological sovereignty** , anchoring intellectual property protection and standards-setting power (White House, 2025, p. 9).
+
+
+
+The implication is explicit: **erosion of AI leadership increasingly equates to erosion of national power**.
+
+  
+
+
+**2.2. AI Embedded in an Integrated Security–Economy–Industry Framework**
+
+A defining feature of the 2025 NSS is the collapse of traditional boundaries between national security, economic policy, and industrial strategy. AI appears not as a standalone policy domain, but as an embedded capability operating across these spheres (White House, 2025, Sections II–IV).
+
+Within this framework, economic security is repeatedly framed as national security, while industrial capacity, particularly in advanced technologies, is treated as a prerequisite for military readiness and geopolitical influence (White House, 2025, pp. 13–15). This integrated treatment reflects the emergence of an **AI–State Complex** , in which AI systems do not merely serve state functions, but actively shape and reinforce state capacity itself.
+
+  
+
+
+#### **3\. The Strategic Silence on AI Risk Governance**
+
+**3.1. Absence as Signal, Not Oversight**
+
+Notably absent from the NSS are sustained discussions of algorithmic transparency, explainability, civil AI rights, or systemic AI risk. These omissions are striking given the prominence of such themes in multilateral AI governance debates.
+
+This absence should not be interpreted as neglect. Rather, it reflects a strategic prioritization: within the NSS framework, AI risk governance is subordinated to the consolidation of national capability and competitive advantage (White House, 2025). Risk management is implicitly framed as an internal administrative function, not as an objective of international norm-setting or collective governance.
+
+  
+
+
+**3.2. Governance Reframed as Control of Access and Flow**
+
+Instead of regulating AI behavior directly, the NSS emphasizes control over key points of access and flow, including:
+
+  * **Access to advanced AI systems and capabilities** ;
+  * **Critical supply chains and energy inputs** ;
+  * **Technological alignment and interoperability with allies** (White House, 2025, pp. 9, 14–15).
+
+
+
+Under this approach, governance shifts from ethical constraint toward **capability containment and diffusion management**. AI governance is thus reframed as a matter of strategic control rather than normative regulation, signaling a transition from universalist AI governance models to **geostrategic AI control**.
+
+  
+
+
+#### **4\. AI and Geopolitical Alignment**
+
+**4.1. AI as a Diplomatic and Alliance-Binding Asset**
+
+In its regional sections, particularly those addressing the Indo-Pacific and the Middle East, the NSS explicitly positions AI as a tool of diplomatic leverage and alliance formation. The strategy highlights AI cooperation, advanced technology sharing, and standards alignment as mechanisms for strengthening partnerships while constraining adversarial influence (White House, 2025, pp. 19–23, 27–28).
+
+Under this approach, AI functions as a **political asset**. It shapes alignment choices, structures patterns of technological dependence, and embeds partners within U.S.-led technological ecosystems, extending strategic influence beyond traditional security cooperation.
+
+  
+
+
+**4.2. Standards as Structural Power**
+
+The NSS explicitly states the objective of ensuring that “U.S. technology and U.S. standards, particularly in AI—drive the world forward” (White House, 2025, p. 9). This formulation underscores a core strategic insight: **AI standards operate as a form of institutional power**.
+
+By shaping interoperability, compatibility, and long-term adoption pathways, AI standards generate durable dependencies that persist beyond individual systems, policy cycles, or administrations. In this sense, standards function not merely as technical specifications, but as instruments of structural power in the emerging AI-centered international order.
+
+  
+
+
+#### **5\. AI Development Stage: The Post-Breakthrough Era**
+
+From a technological lifecycle perspective, the NSS assumes that AI capabilities have reached a level of maturity sufficient to shape strategic outcomes. Rather than debating feasibility or emphasizing social disruption, the document centers on questions of control, integration, and competitive positioning (White House, 2025).
+
+This orientation signals entry into a **post-breakthrough phase** of AI development. In this phase, AI is no longer primarily a technical or innovation challenge, but an institutional and geopolitical one, where strategic advantage depends on governance structures, deployment pathways, and the organization of state capacity itself.
+
+  
+
+
+#### **6\. Implications for Global AI Governance**
+
+**6.1. Fragmentation of Universal AI Governance**
+
+The NSS implicitly acknowledges the limits of universal AI governance. National security exceptions, export controls, and alliance-based technology blocs increasingly undermine the feasibility of global, uniform AI norms (White House, 2025, pp. 9–10, 21–23).
+
+As a result, AI governance enters a phase of **sovereign fragmentation** , in which regulatory approaches, standards, and access regimes are shaped primarily by geopolitical alignment rather than by universal ethical consensus or multilateral harmonization.
+
+  
+
+
+**6.2. Structural Risk Superseding Technical Risk**
+
+As AI becomes embedded within state capacity, the dominant risk profile shifts. Risks increasingly stem not from technical failure or model-level behavior, but from **structural concentration of power** , institutional lock-in, and asymmetric governance capacity across states (White House, 2025).
+
+These risks are fundamentally political and systemic rather than algorithmic. They concern how AI redistributes authority, constrains policy choice, and entrenches long-term power asymmetries—challenging existing frameworks that focus narrowly on technical safety or compliance.
+
+  
+
+
+#### **7\. Conclusion**
+
+The 2025 National Security Strategy repositions AI at the core of national power. By embedding AI within military capability, economic resilience, and geopolitical alignment, the document reflects an emerging model of **AI-era statecraft** in which control over AI ecosystems becomes a central determinant of global influence.
+
+Under these conditions, understanding AI requires moving beyond compliance-oriented or purely technical frameworks. Effective analysis must instead focus on **state capacity** , **institutional resilience** , and the **distribution of structural power** in an international system increasingly shaped by AI-enabled governance.
+
+  
+
+
+#### **References**
+
+**White House.**(2025). _National Security Strategy of the United States of America_(November 2025). Washington, DC.
+
+  
+
+
+**Recommended Citation:**
+
+**Wu, S.-Y. (2025)**. _Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy for AI development_. EPINOVA. <https://epinova.org/publications/f/artificial-intelligence-as-national-power>. 
+
+Share this post:

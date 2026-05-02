@@ -1,13 +1,116 @@
 {
-  "title": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026)",
-  "title_normalized": "the fiscal implications of recent u.s. force posture adjustments in the middle east: an event-driven estimate (jan 26 - feb 15, 2026)",
-  "date": "2026-02-16",
-  "doi": "10.5281/zenodo.18654020",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "205787107",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-005",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East",
+  "subtitle": "An Event-Driven Estimate (Jan 26 – Feb 15, 2026)",
+  "title_normalized": "the fiscal implications of recent u.s. force posture adjustments in the middle east: an event-driven estimate (jan 26 – feb 15, 2026)",
+  "publication_date": "2026-02-16",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18654021",
+  "previous_doi": "10.5281/zenodo.18654020",
+  "landing_page": "https://doi.org/10.5281/zenodo.18654021",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–05",
+      "scheme": "EPINOVA publication number",
+      "description": "Publication identifier printed in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18654021",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI printed in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18654020",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from early ORCID-derived metadata record; retained for reconciliation"
+    },
+    {
+      "identifier": "205787107",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Policy Brief No. EPINOVA–2026–PB–05",
+      "scheme": "Series number",
+      "description": "Policy Brief series number"
+    }
+  ],
+  "description": "This policy brief provides an event-driven estimate of the incremental surge-related fiscal impact associated with recent U.S. force posture adjustments in the Middle East between January 26 and February 15, 2026. It translates observable deployment milestones into a bounded cost range and highlights stepwise acceleration in daily fiscal exposure, especially after the transition to a dual-carrier posture.",
+  "abstract": "Between January 26 and February 15, 2026, the United States implemented a sequence of force posture adjustments in the Middle East in response to rising tensions involving Iran. Publicly reported actions included the entry of the USS Abraham Lincoln Carrier Strike Group, additional naval surface reinforcement, heightened defensive posture adjustments at regional bases, and assignment of a second carrier, USS Gerald R. Ford. This brief provides a transparent, event-driven estimate of the incremental surge-related fiscal impact associated with these adjustments. The surge-only bounded estimate is $0.25B-$0.58B, with a midpoint estimate of approximately $0.4B. The key finding is not merely the cumulative amount, but the nonlinear acceleration in daily fiscal exposure, particularly after the transition to a dual-carrier posture.",
+  "keywords": [
+    "U.S. force posture",
+    "Middle East",
+    "fiscal exposure",
+    "deployment cost",
+    "carrier strike group",
+    "dual-carrier posture",
+    "event-driven estimate",
+    "surge costs",
+    "defense spending",
+    "maritime operations",
+    "regional escalation",
+    "cost trajectory",
+    "daily marginal cost",
+    "Iran tensions"
+  ],
+  "subjects": [
+    {
+      "subject": "Defense economics"
+    },
+    {
+      "subject": "Force posture analysis"
+    },
+    {
+      "subject": "Middle East security"
+    },
+    {
+      "subject": "U.S. military deployments"
+    },
+    {
+      "subject": "Fiscal impact assessment"
+    },
+    {
+      "subject": "Policy analysis and governance"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-02-16",
+      "type": "Issued"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "files": [
     {
       "label": "Download PDF",
@@ -17,13 +120,213 @@
       "description": "Full-text PDF of the publication"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-05",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-05",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-05"
+  },
+  "series_information": {
+    "series_title": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-005",
+    "printed_identifier": "EPINOVA–2026–PB–05",
+    "description": "This policy brief is part of the EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance."
+  },
+  "analytical_framework": {
+    "name": "Event-Driven Force Posture Cost Estimate",
+    "abbreviation": "Event-driven surge-cost model",
+    "type": "Open-source fiscal estimation framework",
+    "purpose": "To estimate incremental surge-related operational costs from observable force posture adjustments and identify event-triggered changes in fiscal exposure.",
+    "observation_window": "January 26 – February 15, 2026",
+    "core_argument": "Fiscal exposure expands in stepwise fashion in response to operational posture adjustments rather than through gradual linear accumulation; the transition to a dual-carrier posture produces the largest marginal cost acceleration in the observation window.",
+    "activation_points": [
+      {
+        "date": "2026-01-26",
+        "event": "USS Abraham Lincoln Carrier Strike Group enters region",
+        "cost_effect": "Maritime cost activation"
+      },
+      {
+        "date": "2026-01-29",
+        "event": "Additional naval surface reinforcement",
+        "cost_effect": "Maritime slope increase"
+      },
+      {
+        "date": "2026-02-10",
+        "event": "Defensive posture escalation at regional bases",
+        "cost_effect": "Air, base, and logistics acceleration"
+      },
+      {
+        "date": "2026-02-13",
+        "event": "Second carrier, USS Gerald R. Ford, assigned",
+        "cost_effect": "Major maritime cost jump"
+      }
+    ],
+    "operational_categories": [
+      "Maritime operations",
+      "Land-based air and ISR operations",
+      "Regional base support uplift",
+      "Logistics and sustainment adjustments",
+      "Space and intelligence enablement"
+    ]
+  },
+  "key_findings": [
+    "The estimated incremental surge-only cost for January 26-February 15, 2026 is bounded between approximately $0.25B and $0.58B, with a midpoint estimate of roughly $0.4B.",
+    "The cost trajectory reflects discrete slope changes corresponding to publicly reported deployment milestones rather than smooth escalation assumptions.",
+    "The January 29 naval reinforcement phase marks the initial increase in daily marginal cost as additional surface assets joined the regional posture.",
+    "The February 10 defensive readiness escalation produces a broader uplift in air operations, base support, and logistics intensity.",
+    "The February 13 transition to a dual-carrier posture generates the most pronounced acceleration and the largest single increase in daily fiscal exposure during the observation window.",
+    "Maritime operations account for the dominant share of incremental expenditure during the review period.",
+    "Surge costs can accelerate during signaling and deterrence stages, before confirmed large-scale kinetic engagement."
+  ],
+  "policy_recommendations": [
+    {
+      "title": "Track Fiscal Exposure as an Escalation Indicator",
+      "recommendation": "Force posture adjustments should be monitored not only for operational signaling but also for event-triggered changes in daily marginal fiscal exposure."
+    },
+    {
+      "title": "Improve Event-Level Fiscal Transparency",
+      "recommendation": "Budgetary and oversight processes should better align deployment reporting with approximate cost disclosure during escalation phases."
+    },
+    {
+      "title": "Assess the Cost of Maritime Signaling",
+      "recommendation": "Carrier-based signaling should be evaluated as a concentrated and predictable fiscal commitment, especially when posture shifts from single-carrier to dual-carrier operations."
+    },
+    {
+      "title": "Separate Surge Costs from Baseline Presence",
+      "recommendation": "Analysts should distinguish incremental surge-related operating costs from baseline regional defense spending to avoid overstatement or misclassification."
+    }
+  ],
+  "governance_implications": [
+    "Escalation generates measurable fiscal acceleration even when posture adjustments remain below the threshold of active combat operations.",
+    "Carrier-based deployments concentrate fiscal exposure and make maritime signaling a major cost driver in crisis response.",
+    "Operational tempo can outpace fiscal transparency, creating a structural lag between publicly reported deployment changes and cost visibility.",
+    "Budgetary exposure emerges before kinetic engagement, making fiscal monitoring relevant to deterrence and signaling phases.",
+    "Transparent cost anchors and bounded estimates can improve public policy discussion without relying on classified accounting data."
+  ],
+  "methodology": {
+    "approach": "Open-source event-driven fiscal estimation using publicly reported deployment milestones and piecewise linear cost trajectories.",
+    "scope": "Incremental surge-related operational costs only for U.S. force posture adjustments in the Middle East from January 26 to February 15, 2026.",
+    "cost_structure": [
+      "Maritime operations",
+      "Land-based air and ISR operations",
+      "Regional base support uplift",
+      "Logistics and sustainment adjustments",
+      "Space and intelligence enablement"
+    ],
+    "bounded_estimate": {
+      "low_bound": "~$0.25B",
+      "midpoint": "~$0.40B",
+      "high_bound": "~$0.58B",
+      "sensitivity_band": "±15–20%"
+    },
+    "cost_anchors": [
+      "Publicly available carrier strike group operating cost benchmarks",
+      "Department of Defense reimbursable flying-hour rates"
+    ],
+    "exclusions": [
+      "Baseline regional military presence",
+      "Annualized personnel compensation",
+      "Procurement and recapitalization expenditures",
+      "Major munition expenditure"
+    ],
+    "limitations": "The brief presents an open-source analytical estimate rather than official Department of War accounting data or certified budget execution records. Cost adjustments are triggered exclusively by publicly reported deployment milestones."
+  },
+  "related_works": [
+    {
+      "citation": "AIPAMS Analytical Platform. (2026). 2026 U.S. & allies-Iran conflict cost monitor (MCCM): An event-driven, daily expenditure and loss scenarios assessment series.",
+      "relation": "Related cost-monitoring framework for conflict expenditure and escalation assessment."
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia-Ukraine War and the U.S.-Israel-Iran Conflict.",
+      "relation": "Related EPINOVA working paper on force posture, network strain, and cost-imposition dynamics."
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.",
+      "relation": "Related EPINOVA working paper on systemic escalation and threshold dynamics."
+    }
+  ],
   "references": [],
+  "recommended_citation": "EPINOVA (2026), The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026), Policy Brief No. EPINOVA–2026–PB–05, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18654021. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2026). The fiscal implications of recent U.S. force posture adjustments in the Middle East: An event-driven estimate (Jan 26-Feb 15, 2026) (Policy Brief No. EPINOVA–2026–PB–05). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654021. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East, EPINOVA–2026–PB–05.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "year": "2026"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Cumulative Incremental Deployment Cost: Piecewise Linear Model",
+      "description": "Cumulative cost trajectory showing event-triggered slope changes across the Jan. 26-Feb. 15, 2026 observation window, including naval reinforcement, defensive escalation, and dual-carrier phase.",
+      "source": "Author’s event-driven estimate based on publicly reported deployment milestones and open-source cost anchors.",
+      "note": "Approximate open-source analytical estimate; not official accounting data."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Daily Marginal Deployment Cost: Event-Triggered Escalation Pattern",
+      "description": "Daily marginal deployment cost pattern showing stepwise changes associated with naval reinforcement, defensive escalation, and transition to a dual-carrier posture.",
+      "source": "Author’s event-driven estimate based on publicly reported deployment milestones and open-source cost anchors.",
+      "note": "Approximate open-source analytical estimate; not official accounting data."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Key Activation Points",
+      "description": "Deployment milestones and corresponding cost effects used to structure the event-driven cost trajectory.",
+      "source": "Author’s reconstruction from publicly reported deployment milestones.",
+      "note": "Dates and cost effects are used as modeling triggers rather than classified operational decisions.",
+      "columns": [
+        "Date",
+        "Deployment Event",
+        "Cost Effect"
+      ]
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is specified in the publication."
+  },
+  "software": [],
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
-    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records; updated using the publication PDF and early ORCID-derived metadata record.",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "pdf_used": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East.pdf",
+    "early_metadata_used": "metadata.json"
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "Crossref registration pending. After Crossref registration, EPINOVA publication landing pages are intended to serve as the primary DOI resolution interface.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18654021",
+    "crossref_doi_suffix": "epinova.pb.2026.005",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18654021",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Primary DOI follows the DOI printed in the PDF recommended citation. Earlier DOI from early metadata retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "205787107",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-16",
+    "notes": "Early ORCID-derived metadata lists DOI 10.5281/zenodo.18654020; PDF lists DOI 10.5281/zenodo.18654021."
   }
 }

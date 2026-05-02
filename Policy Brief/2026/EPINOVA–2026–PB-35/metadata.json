@@ -1,29 +1,348 @@
 {
-  "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
-  "title_normalized": "escalation without collapse: high-pressure systemic equilibrium in the u.s.-israel-iran conflict, days 1-50",
-  "date": "2026-04-18",
-  "doi": "10.5281/ZENODO.19645873",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212135635",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-035",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-035",
+  "title": "Escalation Without Collapse",
+  "subtitle": "High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+  "title_normalized": "escalation without collapse: high-pressure systemic equilibrium in the u.s.–israel–iran conflict, days 1–50",
+  "publication_date": "2026-04-18",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19645873",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19645873",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19645873",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212135635",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–35",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Escalation Without Collapse High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Escalation Without Collapse",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief applies the MCCM v2.3+ framework to the first 50 days of the U.S.–Israel–Iran conflict and conceptualizes the conflict as a case of escalation without collapse. It argues that high cross-domain coupling, near-threshold operation, and preserved structural integrity produced a high-pressure systemic equilibrium rather than full regional war or systemic breakdown.",
+  "abstract": "The first 50 days of the U.S.–Israel–Iran conflict reveal a shift from conventional escalation toward a highly coupled, system-driven conflict environment. Applying the MCCM v2.3+ framework, this policy brief argues that escalation did not proceed linearly or culminate in full regional war. Instead, the system entered a sustained high-pressure systemic equilibrium (HPSE), characterized by cross-domain coupling, proximity to loss-of-control thresholds, and expanding observability dynamics. The analysis identifies six phases: localized kinetic escalation, transmission activation, cross-domain coupling, system synchronization, threshold approach, and an observability shift. It concludes that modern escalation increasingly propagates through interconnected military, maritime, proxy, economic, informational, and observability domains faster than individual actors can contain it, making the central policy challenge the management of transmission pathways, threshold buffers, structural resilience, and evidence-attribution dynamics.",
+  "keywords": [
+    "High-Pressure Systemic Equilibrium",
+    "HPSE",
+    "MCCM v2.3+",
+    "Middle East Conflict Cost Monitor",
+    "U.S.–Israel–Iran conflict",
+    "Escalation without collapse",
+    "Systemic escalation",
+    "Networked conflict",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Cross-domain coupling",
+    "Threshold dynamics",
+    "Transmission mechanisms",
+    "Maritime disruption",
+    "Proxy activity",
+    "Information amplification",
+    "Observability",
+    "Evidence and attribution",
+    "Narrative control",
+    "Strategic resilience",
+    "Structural integrity",
+    "Crisis management",
+    "Global security governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Conflict escalation",
+    "Middle East conflict",
+    "Systems analysis",
+    "Networked warfare",
+    "Crisis management",
+    "Security governance",
+    "Maritime security",
+    "Energy security",
+    "Information conflict",
+    "Geopolitical risk",
+    "Policy analysis",
+    "AI-enabled security analysis",
+    "Threshold governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-18",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-18",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-18",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-18",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Escalation Without Collapse High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-35/Escalation%20Without%20Collapse%20High-Pressure%20Systemic%20Equilibrium%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%2C%20Days%201%E2%80%9350.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-35",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-35",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-035",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Middle East Conflict Cost Monitor (MCCM) v2.3+",
+    "source_basis": "Policy-facing application of MCCM v2.3+, a 26-layer systemic escalation framework organized across nine systems to assess cross-domain coupling, transmission dynamics, threshold proximity, structural resilience, uncertainty, and observability in networked conflict systems.",
+    "case_context": "The first 50 days of the U.S.–Israel–Iran conflict, assessed as a coupled escalation system involving military operations, maritime disruption, proxy activity, energy and logistics stress, information amplification, threshold dynamics, and observability-related competition.",
+    "core_problem": "Sustained escalation did not produce immediate systemic collapse; instead, the conflict stabilized near a loss-of-control threshold under conditions of high coupling, preserved structural integrity, and partially controlled transmission dynamics.",
+    "central_claims": [
+      "Escalation becomes system-driven under high coupling conditions, especially after approximately Day 30 when cross-domain interaction reduced the ability of any single actor to control escalation trajectories.",
+      "The conflict stabilized near a loss-of-control threshold without transitioning into full regional war, indicating a structurally constrained high-pressure systemic equilibrium.",
+      "Transmission mechanisms, including maritime disruption, proxy activity, and information amplification, became primary escalation drivers alongside kinetic force.",
+      "Observability emerged as a strategic domain in the later phase, with evidence, attribution, and narrative control shaping leverage and signaling.",
+      "Coupling intensity alone is insufficient to produce systemic collapse unless it coincides with threshold breach and structural breakdown.",
+      "High-Pressure Systemic Equilibrium emerges when high coupling, near-threshold operation, and preserved structural integrity coexist."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "MCCM v2.3+ 26-Layer Escalation Architecture",
+        "description": "Uses a 26-layer, nine-system model to interpret escalation as layered system interaction rather than a linear sequence of events."
+      },
+      {
+        "name": "Phased Escalation Evolution",
+        "description": "Divides the first 50 days into six phases: localized kinetic escalation, transmission activation, cross-domain coupling, system synchronization, threshold approach, and observability shift."
+      },
+      {
+        "name": "High-Pressure Systemic Equilibrium",
+        "description": "Conceptualizes persistent escalation without collapse as a regime produced by high coupling, near-threshold operation, and preserved structural integrity."
+      },
+      {
+        "name": "Threshold and Loss-of-Control Dynamics",
+        "description": "Assesses how decision friction, signaling ambiguity, and systemic instability bring the system near LoCT without necessarily crossing into uncontrolled escalation."
+      },
+      {
+        "name": "Observability as Strategic Domain",
+        "description": "Examines how evidence production, attribution clarity, and narrative leverage become active dimensions of strategic competition in later conflict phases."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Situation & Perception",
+      "code": "I",
+      "description": "Captures initial strategic stress, perception formation, and the framing of escalation pressures across the conflict system."
+    },
+    {
+      "name": "Escalation Dynamics",
+      "code": "II",
+      "description": "Assesses the intensity and evolution of military, proxy, and cross-domain escalation dynamics."
+    },
+    {
+      "name": "Transmission",
+      "code": "III",
+      "description": "Captures how shocks propagate through maritime, logistical, financial, informational, and other interconnected channels."
+    },
+    {
+      "name": "Capability & Mobilization",
+      "code": "IV",
+      "description": "Assesses actor capacity to mobilize, adapt, sustain operations, and respond to escalating system pressure."
+    },
+    {
+      "name": "Structural Resilience",
+      "code": "V",
+      "description": "Evaluates whether core logistical, energy, and institutional functions remain operational under sustained pressure."
+    },
+    {
+      "name": "Threshold & Control",
+      "code": "VI",
+      "description": "Assesses proximity to loss-of-control conditions, decision friction, and the ability to preserve escalation buffers."
+    },
+    {
+      "name": "Rule & Institutional Order",
+      "code": "VII",
+      "description": "Captures rule contestation, institutional stress, and the erosion or preservation of order under crisis conditions."
+    },
+    {
+      "name": "Uncertainty",
+      "code": "VIII",
+      "description": "Assesses ambiguity, volatility, unknowns, and the extent to which uncertainty amplifies escalation risk."
+    },
+    {
+      "name": "Bio-Observability",
+      "code": "IX",
+      "description": "Captures the growing strategic role of observability, evidence production, attribution, interpretation, and narrative leverage."
+    }
+  ],
+  "key_findings": [
+    "The first 50 days of the conflict show escalation without collapse rather than linear escalation toward resolution or full regional war.",
+    "After approximately Day 30, cross-domain coupling became sufficiently intense that escalation dynamics became increasingly system-driven rather than actor-controlled.",
+    "Between Days 38 and 44, the system approached a loss-of-control threshold, reflected in rising decision friction, signaling ambiguity, and instability.",
+    "After Day 44, observability-related dynamics became increasingly prominent, indicating a shift toward evidence-driven and attribution-sensitive competition.",
+    "The system did not collapse because structural resilience, threshold management, and controlled coupling preserved baseline functional integrity.",
+    "High-Pressure Systemic Equilibrium describes a condition in which escalation persists near critical thresholds while systemic integrity is preserved.",
+    "Transmission pathways, including maritime routes, proxy networks, and information systems, operate as strategic levers rather than secondary theaters.",
+    "The most dangerous condition may be near-threshold stability, where small shocks can generate disproportionate effects."
+  ],
+  "policy_recommendations": [
+    "Prioritize management of transmission pathways, particularly maritime and proxy systems, to reduce cross-domain shock propagation.",
+    "Maintain threshold buffers under high-coupling conditions to preserve distance from loss-of-control thresholds.",
+    "Strengthen logistics and energy-system resilience so that core throughput capacity is maintained under stress.",
+    "Develop governance mechanisms for observability, including evidence, attribution, and narrative contestation frameworks.",
+    "Treat escalation management as system behavior stabilization rather than only deterrence of discrete hostile actions."
+  ],
+  "related_works": [
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief developing the broader MCCM framework used for systemic escalation assessment.",
+      "type": "DOI"
+    },
+    {
+      "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+      "identifier": "10.5281/zenodo.19633889",
+      "relation": "Related EPINOVA policy brief applying MCCM v2.1 to China’s systemic exposure in the same conflict environment.",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper on systemic escalation and LoCT theory.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50, Policy Brief No. EPINOVA–2026–PB–35, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19645873. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict, days 1–50 (Policy Brief No. EPINOVA–2026–PB–35). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Escalation Without Collapse, EPINOVA–2026–PB–35.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-18",
+    "pagination": "7 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "MCCM v2.3+ Systemic Escalation Heatmap (Days 1–50)",
+      "page": 4,
+      "description": "Heatmap showing temporal evolution of systemic escalation across 26 analytical layers and nine systems, with marked phases including transmission acceleration, coupling zone, LoCT approach, and observability shift."
+    },
+    {
+      "number": "Figure 2",
+      "title": "High-Pressure Systemic Equilibrium (HPSE): Conditions for Persistent Escalation Without Systemic Collapse",
+      "page": 5,
+      "description": "Venn-style conceptual diagram showing HPSE as the overlap between high coupling, near-threshold operation, and structural integrity."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Escalation Without Collapse High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual figure review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, key judgments, why-this-matters statement, executive summary, MCCM v2.3+ framework description, six-phase escalation interpretation, HPSE concept, policy considerations, limitations, conclusion, figures, recommended citation, DOI, series information, and disclaimer. Early metadata supplied ORCID put-code 212135635, GitHub PDF URL, repository folder, repository URL, and ORCID-derived source fields. DOI normalization changed 10.5281/ZENODO.19645873 to 10.5281/zenodo.19645873."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19645873",
+    "crossref_doi_suffix": "epinova.pb.2026.035",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19645873",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation; early ORCID-derived DOI normalized to lowercase zenodo form."
+  },
+  "orcid": {
+    "put_code": "212135635",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-18"
   }
 }

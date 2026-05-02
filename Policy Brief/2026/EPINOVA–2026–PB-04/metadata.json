@@ -1,13 +1,115 @@
 {
-  "title": "Where Data Centers Get Built? Institutional Friction and the Spatial Logic of Compute Infrastructure in the United States",
+  "epinova_id": "EPINOVA-PB-2026-004",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "title": "Where Data Centers Get Built?",
+  "subtitle": "Institutional Friction and the Spatial Logic of Compute Infrastructure in the United States",
   "title_normalized": "where data centers get built? institutional friction and the spatial logic of compute infrastructure in the united states",
-  "date": "2026-02-10",
-  "doi": "10.5281/zenodo.18592481",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "205251164",
-  "source": "ORCID Public API",
+  "publication_date": "2026-02-09",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18592482",
+  "previous_doi": "10.5281/zenodo.18592481",
+  "landing_page": "https://doi.org/10.5281/zenodo.18592482",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–04",
+      "scheme": "EPINOVA publication number",
+      "description": "Publication identifier printed in the PDF"
+    },
+    {
+      "identifier": "10.5281/zenodo.18592482",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI printed in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18592481",
+      "scheme": "DOI",
+      "description": "Earlier DOI value from early ORCID-derived metadata record; retained for reconciliation"
+    },
+    {
+      "identifier": "205251164",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Policy Brief No. EPINOVA–2026–PB–04",
+      "scheme": "Series number",
+      "description": "Policy Brief series number"
+    }
+  ],
+  "description": "This policy brief analyzes why large-scale data center development in the United States is increasingly shaped by institutional feasibility rather than purely technical or market-based conditions. It introduces the Infrastructure Friction Boundary (IFB) as a diagnostic framework for understanding where compute infrastructure can be deployed with lower procedural resistance and what governance risks follow from such spatial concentration.",
+  "abstract": "Large-scale data center development in the United States is increasingly shaped not by purely technical or market-based considerations, but by differences in institutional feasibility across jurisdictions. While recent public discourse often describes a southward shift of data centers, this framing overstates relocation and obscures underlying structural drivers. The brief argues that current development patterns are better understood as institutional site selection: data centers are built where governance, permitting, and utility coordination allow rapid, low-friction deployment. It introduces the Infrastructure Friction Boundary (IFB), a diagnostic framework for identifying where hyperscale compute infrastructure can be accommodated with minimal procedural resistance. Understanding institutional friction is essential for anticipating the long-term governance consequences of AI- and compute-intensive infrastructure expansion.",
+  "keywords": [
+    "data centers",
+    "compute infrastructure",
+    "AI infrastructure",
+    "institutional friction",
+    "Infrastructure Friction Boundary",
+    "IFB",
+    "permitting",
+    "utility coordination",
+    "energy infrastructure",
+    "governance capacity",
+    "land-use governance",
+    "infrastructure-governance asymmetry",
+    "United States"
+  ],
+  "subjects": [
+    {
+      "subject": "AI infrastructure governance"
+    },
+    {
+      "subject": "Data center siting"
+    },
+    {
+      "subject": "Institutional feasibility"
+    },
+    {
+      "subject": "Compute infrastructure policy"
+    },
+    {
+      "subject": "Energy and utility coordination"
+    },
+    {
+      "subject": "Public policy and governance"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-02-09",
+      "type": "Issued"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "Metadata updated"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "files": [
     {
       "label": "Download PDF",
@@ -17,13 +119,146 @@
       "description": "Full-text PDF of the publication"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-04",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-04",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-04"
+  },
+  "series_information": {
+    "series_title": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-004",
+    "printed_identifier": "EPINOVA–2026–PB–04",
+    "description": "This policy brief is part of the EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance."
+  },
+  "analytical_framework": {
+    "name": "Infrastructure Friction Boundary",
+    "abbreviation": "IFB",
+    "type": "Diagnostic framework",
+    "purpose": "To identify where hyperscale compute infrastructure can be accommodated with minimal procedural resistance and to diagnose governance risks created by low-friction deployment environments.",
+    "core_argument": "Data center siting patterns reflect institutional gradients and deployment feasibility, not merely regional technical superiority or market optimization.",
+    "dimensions": [
+      {
+        "name": "Institutional Friction",
+        "description": "Land-use regulation, zoning rigidity, public hearing requirements, litigation exposure, and density of local veto points."
+      },
+      {
+        "name": "Utility and Energy Feasibility",
+        "description": "Grid redundancy, substation approval processes, water dependency, and coordination between developers and utilities."
+      },
+      {
+        "name": "Network and Infrastructure Embeddedness",
+        "description": "Existing fiber backbones and cluster effects, contingent on institutional capacity to enable expansion."
+      }
+    ],
+    "interpretive_note": "IFB is not a geographic or political dividing line; it is a composite feasibility threshold for infrastructure siting under institutional constraints."
+  },
+  "key_findings": [
+    "Large-scale data center development in the United States is increasingly shaped by institutional feasibility across jurisdictions rather than by technical or market conditions alone.",
+    "The apparent north-south spatial pattern of data center development reflects institutional gradients, including permitting timelines, utility coordination, litigation exposure, and public contestation, rather than intrinsic regional superiority.",
+    "Lower-friction jurisdictions tend to feature streamlined approval processes, coordinated decision authority, and reduced procedural contestation.",
+    "Jurisdictions with advanced digital ecosystems and mature infrastructure may remain commercially viable while becoming institutionally constrained by governance resistance.",
+    "The concentration of development reflects where data centers can be built most easily, not necessarily where they are strategically, environmentally, or socially optimal.",
+    "Low institutional friction can generate infrastructure-governance asymmetry by enabling high-lock-in infrastructure before long-term public accountability and governance safeguards are fully developed."
+  ],
+  "policy_recommendations": [
+    {
+      "title": "Treat Institutional Friction as a Governance Signal",
+      "recommendation": "Low institutional friction should trigger enhanced scrutiny rather than automatic approval for high-lock-in infrastructure projects."
+    },
+    {
+      "title": "Integrate Long-Term Governance Impact Assessments",
+      "recommendation": "Approval processes should evaluate fiscal dependence, energy lock-in, and land-use constraints over the full lifecycle of data center projects."
+    },
+    {
+      "title": "Strengthen Utility-Governance Coordination",
+      "recommendation": "Power, water, and infrastructure planning should be aligned with public oversight mechanisms before large-scale commitments are made."
+    },
+    {
+      "title": "Use IFB as a Diagnostic Tool",
+      "recommendation": "Policymakers should apply the IFB framework to identify structural vulnerabilities in data center siting decisions rather than treating spatial concentration as market inevitability."
+    }
+  ],
+  "governance_implications": [
+    "Data centers are high-capital, long-lived, and path-dependent infrastructures that can lock in energy generation and transmission pathways.",
+    "Large-scale data center deployments may create fiscal dependence on a narrow set of corporate actors.",
+    "Data center siting can constrain future land-use, environmental, and regulatory choices.",
+    "A structural trade-off exists between short-term feasibility and long-term adaptability when low-friction jurisdictions absorb high-lock-in infrastructure.",
+    "Institutional friction should be monitored as part of AI infrastructure governance, democratic accountability, and long-term infrastructure planning."
+  ],
+  "methodology": {
+    "approach": "Conceptual and diagnostic policy analysis based on publicly available information and institutional comparison.",
+    "scope": "United States data center siting and compute infrastructure governance.",
+    "limitations": "The brief does not provide a quantitative siting model, formal ranking of jurisdictions, or prescriptive approval decision. It uses IFB as a diagnostic framework for policy discussion."
+  },
+  "related_works": [
+    {
+      "citation": "Wu, Shaoyuan. (2026). From AI Capabilities to Structural Governance: Operationalizing the AI-Strategic Node Index (AI-SNI) for Practical AI Governance. Policy Brief No. EPINOVA–2026–PB–01.",
+      "relation": "Related EPINOVA policy brief on structural governance and AI infrastructure risk."
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). Why the South? Data Center Siting, Institutional Friction, and the Emerging Geography of AI Infrastructure.",
+      "relation": "Related working paper on data center siting and the spatial logic of AI infrastructure."
+    },
+    {
+      "citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not.",
+      "relation": "Related working paper on AI infrastructure, governance lock-in, and siting politics."
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu Shao-Yuan (2026), Where Data Centers Get Built? Institutional Friction and the Spatial Logic of Compute Infrastructure in the United States, Policy Brief No. EPINOVA–2026–PB–04, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18592482. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2026). Where data centers get built? Institutional friction and the spatial logic of compute infrastructure in the United States (Policy Brief No. EPINOVA–2026–PB–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18592482. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Where Data Centers Get Built?, EPINOVA–2026–PB–04.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "year": "2026"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is specified in the publication."
+  },
+  "software": [],
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
-    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records; updated using the publication PDF and early ORCID-derived metadata record.",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "pdf_used": "Where Data Centers Get Built.pdf",
+    "early_metadata_used": "metadata.json"
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "Crossref registration pending. After Crossref registration, EPINOVA publication landing pages are intended to serve as the primary DOI resolution interface.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18592482",
+    "crossref_doi_suffix": "epinova.pb.2026.004",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18592482",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Primary DOI follows the DOI printed in the PDF recommended citation. Earlier DOI from early metadata retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "205251164",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-10",
+    "notes": "Early ORCID-derived metadata lists DOI 10.5281/zenodo.18592481 and date 2026-02-10; PDF lists DOI 10.5281/zenodo.18592482 and date 2026-02-09."
   }
 }

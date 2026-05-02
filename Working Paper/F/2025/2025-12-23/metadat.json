@@ -1,11 +1,304 @@
 {
-"title": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
-"title_normalized": "a fiber-aware extension to the minimum viable, auditable (mva) framework for counter-uas assessment",
-"date": "2025-12-23",
-"doi": "10.5281/zenodo.18090017",
-"author": "Wu, Shaoyuan",
-"type": "working-paper",
-"category": "working-papers",
-"put_code": "201017675",
-"source": "ORCID Public API"
+  "epinova_id": "EPINOVA-WP-F-2025-005",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2025-005",
+  "title": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
+  "subtitle": "Link-Typed, Distance-Segmented, and Phase-Aware Evaluation under Mixed Fiber–EM Threat Conditions",
+  "title_normalized": "a fiber-aware extension to the minimum viable, auditable (mva) framework for counter-uas assessment",
+  "publication_date": "2025-12-23",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18090017",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18090017",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18090017",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI from early ORCID-derived metadata record"
+    },
+    {
+      "identifier": "201017675",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "MVA v2.1 Fiber-Aware Methodology Flowchart",
+      "scheme": "Figure identifier",
+      "description": "Figure title shown in the PDF visual flowchart"
+    }
+  ],
+  "description": "This working paper extends the Minimum Viable, Auditable (MVA) framework for counter-UAS assessment by introducing a fiber-aware, link-segmented threat regime. It addresses the structural limitation of EM-centric counter-UAS evaluation when fiber-guided or hybrid-link unmanned aerial systems bypass electromagnetic countermeasures within bounded operational envelopes. The extension preserves MVA's core outcome metrics while clarifying where EM measures remain relevant as phase-specific filtering layers.",
+  "abstract": "The Minimum Viable, Auditable (MVA) framework was developed to evaluate counter–unmanned aerial system (C-UAS) effectiveness under conditions of cost asymmetry, saturation, and mission-level endurance, with a primary analytical focus on electromagnetic (EM) countermeasures. The operational deployment of fiber-guided unmanned aerial systems (UAS), however, exposes a structural limitation in this assumption. Fiber guidance does not merely reduce the effectiveness of EM countermeasures; it effectively bypasses their applicability within bounded operational envelopes. This paper introduces a minimal, auditable extension to the MVA framework that accounts for fiber-guided and hybrid-link UAS without invalidating the original model. The extension formalizes a link-typed, distance-segmented, and phase-aware threat regime, replacing fixed range assumptions with an operational fiber feasibility envelope. Three distance–link scenarios—fiber-dominant, hybrid transition, and extended or relay-based—are defined, each associated with distinct defensive leverage points and cost dynamics. By repositioning EM measures from universal termination tools to stage-specific filtering layers, the proposed patch preserves MVA’s core outcome metrics, such as cost per loss avoided, key asset preservation, mission continuity, and cost endurance, while restoring analytical validity under mixed fiber–EM threat conditions. The resulting framework remains minimal, auditable, and extensible as control-link technologies evolve.",
+  "keywords": [
+    "Counter-UAS",
+    "C-UAS assessment",
+    "Minimum Viable Auditable framework",
+    "MVA framework",
+    "fiber-guided drones",
+    "fiber-guided UAS",
+    "hybrid-link unmanned systems",
+    "electromagnetic countermeasures",
+    "electronic warfare",
+    "EM countermeasures",
+    "distance–link segmented threat regime",
+    "operational fiber feasibility envelope",
+    "phase-aware attribution",
+    "cost per loss avoided",
+    "mission continuity",
+    "cost endurance",
+    "key asset preservation",
+    "Russia–Ukraine drone war",
+    "defense assessment",
+    "counter-drone operations"
+  ],
+  "subjects": [
+    "Defense Technology Assessment",
+    "Counter-UAS",
+    "Electronic Warfare",
+    "Drone Warfare",
+    "Military Innovation",
+    "Operational Assessment Methodology",
+    "Cost-Exchange Analysis",
+    "AI and Autonomous Systems"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-23",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-23",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-29",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-23/A%20Fiber-Aware%20Extension%20to%20the%20Minimum%20Viable%2C%20Auditable%20%28MVA%29%20Framework%20for%20Counter-UAS%20Assessment.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 6
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-23",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2025-005",
+    "series_description": "Working Paper F-Series develops applied analytical frameworks for conflict, defense technology, AI-enabled operations, and strategic assessment."
+  },
+  "methodology": {
+    "framework_name": "Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework",
+    "base_framework": "Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
+    "extension_type": "Minimal fiber-aware, phase-aware, link-segmented patch",
+    "core_problem": "EM-centric C-UAS evaluation assumes electromagnetic addressability, but fiber-guided UAS can bypass EM countermeasures within bounded operational envelopes.",
+    "core_metrics_preserved": [
+      "Cost per loss avoided (CPLA)",
+      "Key asset preservation",
+      "Mission continuity",
+      "Cost endurance"
+    ],
+    "new_structural_components": [
+      "Operational fiber feasibility envelope",
+      "Distance–link segmented threat regime",
+      "Fiber-dominant zone",
+      "Hybrid transition zone",
+      "Extended / relay-based zone",
+      "Phase-aware attribution of defensive effects",
+      "Repositioning of EM countermeasures as stage-specific filtering layers"
+    ],
+    "main_variables": [
+      {
+        "symbol": "D",
+        "name": "Mission distance",
+        "description": "Distance between the launch or control origin and the defended asset."
+      },
+      {
+        "symbol": "L_fiber,max^oper",
+        "name": "Operational fiber feasibility envelope",
+        "description": "Scenario-dependent maximum distance over which fiber-based control remains tactically viable for a given platform and mission configuration."
+      },
+      {
+        "symbol": "k",
+        "name": "Transition multiplier",
+        "description": "Scenario-dependent multiplier used for classifying hybrid transition regimes; not a fixed technological constant."
+      }
+    ],
+    "distance_link_regimes": [
+      {
+        "name": "Fiber-Dominant Zone",
+        "condition": "D ≤ L_fiber,max^oper",
+        "defensive_leverage": "Close-range kinetic engagement, corridor control, passive protection, decoys, and architectural resilience; EM measures have little direct leverage over the primary control loop."
+      },
+      {
+        "name": "Hybrid Transition Zone",
+        "condition": "L_fiber,max^oper < D ≤ k · L_fiber,max^oper",
+        "defensive_leverage": "Phase-synchronized EM effects regain localized relevance during control-link or navigation-mode transitions."
+      },
+      {
+        "name": "Extended / Relay-Based Zone",
+        "condition": "D > k · L_fiber,max^oper",
+        "defensive_leverage": "Defensive leverage shifts toward relay nodes, coordination links, synchronization mechanisms, and system-of-systems disruption."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Control-Link Type",
+      "code": "LinkType",
+      "description": "Distinguishes fiber-guided, electromagnetic, hybrid, and relay-based control configurations."
+    },
+    {
+      "name": "Threat Distance",
+      "code": "D",
+      "description": "Mission distance used to classify whether fiber guidance remains dominant, transitions to hybrid operation, or requires relay/extended packages."
+    },
+    {
+      "name": "Operational Fiber Feasibility Envelope",
+      "code": "L_fiber,max^oper",
+      "description": "Bounded operational envelope of tactically viable fiber control, conditioned by platform, terrain, maneuver demand, and environment."
+    },
+    {
+      "name": "Phase-Aware Defensive Attribution",
+      "code": "PAD-A",
+      "description": "Attribution of defensive effects according to where along the engagement sequence they reduce burden, filter threats, preserve assets, or avoid losses."
+    },
+    {
+      "name": "MVA Outcome Metrics",
+      "code": "MVA-Core",
+      "description": "Preserved outcome metrics including cost per loss avoided, key asset preservation, mission continuity, and cost endurance."
+    }
+  ],
+  "key_findings": [
+    "Fiber guidance does not merely degrade EM countermeasure effectiveness; it can remove EM applicability within bounded operational envelopes.",
+    "The MVA framework remains valid if control-link heterogeneity is modeled upstream of outcome metric calculation.",
+    "A fixed range assumption should be replaced by an operational fiber feasibility envelope conditioned by platform, terrain, maneuver, and environmental factors.",
+    "Fiber-dominant, hybrid transition, and extended / relay-based zones create different defensive leverage points and cost dynamics.",
+    "EM countermeasures should be evaluated as phase-specific filtering layers rather than universal termination tools under mixed fiber–EM threat conditions.",
+    "Preserving MVA metrics while adding link-typed and phase-aware threat classification restores analytical validity without wholesale framework replacement.",
+    "Failure to account for fiber-guided control regimes risks overstating defensive effectiveness, misallocating resources, and biasing procurement and doctrine development."
+  ],
+  "related_works": [
+    {
+      "title": "From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War",
+      "identifier": "10.5281/zenodo.18036790",
+      "relation": "References and extends prior EPINOVA research report on cost-exchange limits and MVA assessment logic",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Biddle, S., & Oelrich, I. (2016). Future warfare in the age of precision-guided munitions. International Security, 41(1), 7–48. https://doi.org/10.1162/ISEC_a_00258",
+    "Bureau of Industry and Security. (2023). Electronic warfare limitations in counter-UAS environments (Technical note). U.S. Department of Commerce.",
+    "Gady, F.-S. (2024). Ukraine’s adaptation cycle and the rise of non-jammable drones. International Institute for Strategic Studies. https://www.iiss.org",
+    "International Crisis Group. (2024). Technology adaptation and battlefield learning in Ukraine. https://www.crisisgroup.org",
+    "Kofman, M., & Lee, R. (2024). Not built for attrition: The limits of electronic warfare dominance in the Russia–Ukraine war. War on the Rocks. https://warontherocks.com",
+    "Payne, K. (2021). Artificial intelligence: A revolution in strategic affairs? Survival, 63(2), 7–32. https://doi.org/10.1080/00396338.2021.1905980",
+    "Schneider, J. (2019). The efficiency paradox: Cost imposition and military effectiveness. War on the Rocks. https://warontherocks.com",
+    "Watling, J., & Reynolds, N. (2023). Meatgrinder: Russian tactics in the second year of the Ukraine war. Royal United Services Institute. https://www.rusi.org",
+    "Wu, S.-Y. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2025). A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017",
+  "citation_apa": "Wu, S. (2025). A fiber-aware extension to the Minimum Viable, Auditable (MVA) framework for counter-UAS assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017",
+  "short_citation": "Wu (2025), Fiber-Aware Extension to the MVA Framework.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-23",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "MVA evaluation flow with the fiber-aware, link-segmented threat regime inserted upstream of outcome metric calculation",
+      "description": "Flowchart showing that core MVA metrics are preserved while a structural extension inserts the operational fiber feasibility envelope and distance–link segmented regime before mixed-threat scenario classification and metric calculation. The figure differentiates fiber-dominant, hybrid transition, and extended / relay zones and links them to phase-aware attribution and MVA outcome metrics.",
+      "source": "Author’s analysis based on the MVA framework",
+      "note": "The visual flowchart on page 5 labels the method as MVA v2.1 'Fiber-Aware' Methodology Flowchart."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper provides a methodological extension for analytical assessment and does not prescribe operational deployment or procurement choices.",
+  "metadata_source": {
+    "source_file": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text and visual inspection; early metadata used for DOI and ORCID put-code",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-04-25",
+    "last_updated": "2026-04-30",
+    "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, framework details, figure, conclusion, and references. Early metadata supplied DOI 10.5281/zenodo.18090017 and ORCID put-code 201017675. GitHub file path was inferred from the established EPINOVA repository convention and publication date."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite."
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18090017",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI provided by early ORCID-derived metadata record."
+  },
+  "orcid": {
+    "put_code": "201017675",
+    "source": "ORCID Public API",
+    "record_date": "2025-12-23"
+  }
 }

@@ -1,29 +1,364 @@
 {
-  "title": "Beyond Theater Effects: Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict",
-  "title_normalized": "beyond theater effects: perception-driven escalation and loss-of-control thresholds in ai-mediated conflict",
-  "date": "2026-04-24",
-  "doi": "10.5281/ZENODO.19734514",
-  "author": "Wu, Shaoyuan",
-  "type": "journal-article",
-  "category": "other",
-  "put_code": "212768196",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-WP-A-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper A-Series",
+  "series_code": "WP-A",
+  "series_number": "EPINOVA–WP–A–2026–02",
+  "title": "Beyond Theater Effects",
+  "subtitle": "Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict",
+  "title_normalized": "beyond theater effects perception-driven escalation and loss-of-control thresholds in ai-mediated conflict",
+  "publication_date": "2026-04-24",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19734514",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19734514",
+  "official_page": "https://doi.org/10.5281/zenodo.19734514",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19734514",
+      "scheme": "DOI",
+      "description": "Zenodo DOI landing page"
+    },
+    {
+      "identifier": "EPINOVA–WP–A–2026–02",
+      "scheme": "Local identifier",
+      "description": "EPINOVA Working Paper A-Series publication number"
+    }
+  ],
+  "description": "This working paper examines how AI-enabled information systems transform escalation dynamics by shifting conflict transmission from material interaction to perception-driven amplification. Grounded in the Multi-Layer Coupled Complexity Model (MCCM), it develops a mechanism-based account of theater effects, narrative amplification, perception–impact decoupling, and loss-of-control threshold (LoCT) compression across high-information conflict environments.",
+  "abstract": "This paper examines how artificial intelligence (AI) transforms escalation dynamics by shifting the primary transmission mechanism of conflict from material interaction to perception-driven amplification. Within the Multi-Layer Coupled Complexity Model (MCCM) framework, narrative systems operate as nonlinear multipliers that enable low-cost actions to generate disproportionate systemic effects. The study develops a mechanism-based account of theater effects and validates it across multiple conflict environments. It shows that perception–impact decoupling and loss-of-control threshold (LoCT) compression can emerge under conditions of high information density, even in the absence of major kinetic change. The findings suggest that escalation is no longer governed primarily by force, but by the interaction of information, perception, and institutional dynamics. Escalation should therefore be understood as a coupled system process rather than a linear function of material change.",
+  "keywords": [
+    "Artificial Intelligence",
+    "AI-mediated conflict",
+    "Escalation dynamics",
+    "Narrative amplification",
+    "Information warfare",
+    "Perception–impact decoupling",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Systemic risk",
+    "MCCM framework",
+    "Theater effects",
+    "Information System Amplification Index",
+    "ISAI",
+    "Decision friction",
+    "High-pressure systemic equilibrium",
+    "Conflict systems",
+    "Strategic signaling",
+    "Institutional instability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence governance",
+    "Conflict studies",
+    "International security",
+    "Strategic studies",
+    "Information warfare",
+    "Narrative systems",
+    "Complex systems",
+    "Political risk",
+    "Threshold dynamics",
+    "Decision-making under uncertainty",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-24",
+      "type": "Issued",
+      "description": "Publication date listed in the PDF."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302/Beyond%20Theater%20Effects%20Perception-Driven%20Escalation%20and%20Loss-of-Control%20Thresholds%20in%20AI-Mediated%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the EPINOVA working paper"
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "related_works": [
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary EPINOVA research repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19139977",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Referenced EPINOVA working paper on systemic escalation theory and the loss-of-control threshold"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19550886",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Referenced EPINOVA policy brief on the MCCM v2.0+ framework"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19645873",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "Referenced EPINOVA policy brief on high-pressure systemic equilibrium in the U.S.–Israel–Iran conflict"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.5281/zenodo.19118195",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "Referenced EPINOVA working paper on threshold competition and loss-of-control dynamics"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.1162/isec_a_00351",
+      "scheme": "DOI",
+      "resource_type": "Journal article",
+      "description": "Source cited for weaponized interdependence and networked coercion"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.1038/nature12047",
+      "scheme": "DOI",
+      "resource_type": "Journal article",
+      "description": "Source cited for globally networked risk and systemic response"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.9776/14308",
+      "scheme": "DOI",
+      "resource_type": "Conference paper",
+      "description": "Source cited for misinformation dynamics and platform-amplified rumor propagation"
+    }
+  ],
+  "references": [
+    "Allen, G. C., & Chan, T. (2017). Artificial intelligence and national security. Belfer Center for Science and International Affairs, Harvard Kennedy School.",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "Fearon, J. D. (1995). Rationalist explanations for war. International Organization, 49(3), 379–414. https://doi.org/10.1017/S0020818300033324",
+    "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51–59. https://doi.org/10.1038/nature12047",
+    "Horowitz, M. C., Kahn, L., & Mahoney, C. O. (2018). Artificial intelligence and international security. Center for a New American Security.",
+    "Jervis, R. (1976). Perception and misperception in international politics. Princeton University Press.",
+    "Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press.",
+    "Paul, C., & Matthews, M. (2016). The Russian ‘firehose of falsehood’ propaganda model. RAND Corporation.",
+    "Perrow, C. (1984). Normal accidents: Living with high-risk technologies. Princeton University Press.",
+    "Rid, T. (2020). Active measures: The secret history of disinformation and political warfare. Farrar, Straus and Giroux.",
+    "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
+    "Starbird, K., Maddock, J., Orand, M., Achterman, P., & Mason, R. M. (2014). Rumors, false flags, and digital vigilantes: Misinformation on Twitter after the 2013 Boston Marathon bombing. iConference 2014 Proceedings. https://doi.org/10.9776/14308",
+    "Wu, S. (2026a). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+    "Wu, S. (2026b). From cost monitoring to systemic escalation assessment: The MCCM v2.0+ framework (Policy Brief No. EPINOVA–2026–PB–29). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19550886",
+    "Wu, S. (2026c). Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict (Days 1–50) (Policy Brief No. EPINOVA–2026–PB–35). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+    "Wu, S. (2026d). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Beyond Theater Effects: Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict (EPINOVA Working Paper No. EPINOVA–WP–A–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19734514. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Beyond theater effects: Perception-driven escalation and loss-of-control thresholds in AI-mediated conflict (EPINOVA Working Paper No. EPINOVA–WP–A–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19734514. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Beyond Theater Effects, EPINOVA Working Paper A–2026–02",
+  "imprint": {
+    "title": "EPINOVA Working Paper A-Series",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "pagination": "13 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Theater Escalation Loop and LoCT Compression",
+      "description": "Diagram showing an AI-enabled theater escalation loop in which low-cost actions generate visibility, narrative construction, algorithmic amplification, affective and cognitive impact, decision friction, and system response under pressure. The figure also contrasts traditional escalation dynamics with AI-theater escalation dynamics, showing perceived pressure reaching the LoCT threshold earlier than actual pressure.",
+      "source": "Author’s analysis based on the MCCM framework",
+      "note": "Appears on page 3 of the PDF."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Low-Cost Actions, High-System Impact Across Cases",
+      "description": "Comparative visual synthesis of Russia–Ukraine information operations, Strait of Hormuz signaling and selective disruption, and Red Sea low-cost attacks. The figure highlights how limited kinetic or low-cost actions can produce disproportionate systemic disruption, including logistics shifts, market volatility, and signaling changes.",
+      "source": "Author’s analysis based on multi-source data, including OSINT, AIS shipping data, energy market indicators, and media-based narrative metrics",
+      "note": "Appears on page 6 of the PDF."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Validation of Theater Effects and LoCT Compression",
+      "description": "Time-series and event-window visualization linking narrative amplification, system-level stress, and proximity to LoCT across Russia–Ukraine, Red Sea, and Strait of Hormuz cases. It uses ISAI as a proxy for information amplification and illustrates how perceived pressure can rise faster than material change.",
+      "source": "Author’s analysis based on the MCCM framework, integrating narrative indicators, kinetic baselines, and systemic outcome measures",
+      "note": "Appears on page 7 of the PDF."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Appendix A",
+      "title": "MCCM Variable Definitions",
+      "description": "Definitions and interpretations for DFI, NPR, ISAI, IDI, SEG, EFLI, DRI, LUB, EET, SRS, and LoCT used in the MCCM-aligned escalation analysis.",
+      "source": "Author’s MCCM framework definitions"
+    },
+    {
+      "number": "Appendix B",
+      "title": "MCCM-Aligned Policy Action Matrix",
+      "description": "Policy action matrix mapping government, military, corporate, and platform actors to immediate and structural actions for restoring decision control, reducing narrative-driven escalation, limiting systemic shock exposure, and mitigating amplification of distortion and polarization.",
+      "source": "Author’s policy synthesis based on MCCM variables"
+    }
+  ],
+  "framework": {
+    "primary_framework": "Multi-Layer Coupled Complexity Model (MCCM)",
+    "secondary_frameworks": [
+      "Loss-of-Control Threshold (LoCT)",
+      "High-Pressure Systemic Equilibrium (HPSE)",
+      "Information System Amplification Index (ISAI)",
+      "Perception–impact decoupling",
+      "Theater amplification mechanism"
+    ],
+    "core_formula": "Theater Amplification = Narrative × Visibility × Algorithmic Reach",
+    "core_claim": "AI-mediated escalation is increasingly driven by information, perception, and institutional dynamics rather than by kinetic force alone.",
+    "cases": [
+      {
+        "case": "Russia–Ukraine War",
+        "case_type": "High-intensity, high-information-density environment",
+        "analytical_focus": "Narrative amplification, drone strike visibility, infrastructure attack reporting, decision friction, escalation gradients, and cross-domain transmission"
+      },
+      {
+        "case": "Strait of Hormuz",
+        "case_type": "Rule-driven escalation environment",
+        "analytical_focus": "Institutional contestation, signaling instability, rule degradation, shipping throughput, and energy price volatility"
+      },
+      {
+        "case": "Red Sea Crisis",
+        "case_type": "Low-cost, high-spillover environment",
+        "analytical_focus": "Low-cost UAV and missile incidents, rerouting decisions, insurance premium changes, commercial withdrawal, and logistics disruption"
+      }
+    ],
+    "mccm_variables": [
+      {
+        "code": "DFI",
+        "name": "Decision Friction Index"
+      },
+      {
+        "code": "NPR",
+        "name": "Narrative Polarization Ratio"
+      },
+      {
+        "code": "ISAI",
+        "name": "Information System Amplification Index"
+      },
+      {
+        "code": "IDI",
+        "name": "Information Distortion Index"
+      },
+      {
+        "code": "SEG",
+        "name": "Strategic Escalation Gradient"
+      },
+      {
+        "code": "EFLI",
+        "name": "Escalation Feedback Loop Intensity"
+      },
+      {
+        "code": "DRI",
+        "name": "De-risking & Restraint Index"
+      },
+      {
+        "code": "LUB",
+        "name": "Latent Uncertainty Band"
+      },
+      {
+        "code": "EET",
+        "name": "Energy & Economic Throughput"
+      },
+      {
+        "code": "SRS",
+        "name": "State Risk Signaling"
+      },
+      {
+        "code": "LoCT",
+        "name": "Loss-of-Control Threshold"
+      }
+    ]
+  },
+  "funding": {
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": {
+    "title": "",
+    "acronym": "",
+    "place": "",
+    "dates": "",
+    "session": "",
+    "part": "",
+    "website": ""
+  },
+  "journal": {
+    "title": "",
+    "issn": "",
+    "volume": "",
+    "issue": "",
+    "pages": ""
+  },
+  "thesis": {
+    "awarding_university": "",
+    "awarding_department": "",
+    "thesis_type": "",
+    "submission_date": "",
+    "defense_date": ""
+  },
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "created_date": "2026-04-30",
+    "last_updated": "2026-05-01",
+    "source_pdf": "Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf",
+    "notes": "The PDF sidebar short citation appears to list A–2026–01, but the document number, title page, running header, recommended citation, and DOI identify this record as EPINOVA–WP–A–2026–02. Metadata normalizes the short citation to A–2026–02."
+  },
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19734514",
+    "crossref_doi_suffix": "epinova.wp.a.2026.002",
+    "registration_status": "Pending / to be synchronized with EPINOVA publication landing page if Crossref registration is used"
+  },
+  "datacite": {
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "doi": "10.5281/zenodo.19734514",
+    "notes": "Zenodo DOI identified in the PDF; datasets, code, figures, or supplementary materials may receive separate DataCite DOIs if needed."
   }
 }

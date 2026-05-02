@@ -1,29 +1,338 @@
 {
-  "title": "The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater",
-  "title_normalized": "the global strategic chain reactions of the u.s.-iran war: east asia as the next plausible capability-revealing theater",
-  "date": "2026-03-06",
-  "doi": "10.5281/zenodo.18893891",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "207636372",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-003",
+  "title": "The Global Strategic Chain Reactions of the U.S.–Iran War",
+  "subtitle": "East Asia as the Next Plausible Capability-Revealing Theater",
+  "title_normalized": "the global strategic chain reactions of the u.s.-iran war: east asia as the next plausible capability-revealing theater",
+  "publication_date": "2026-03-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18893892",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18893892",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18893892",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18893891",
+      "scheme": "DOI",
+      "description": "DOI recorded in the early ORCID-derived metadata; retained as a discrepancy note for reconciliation"
+    },
+    {
+      "identifier": "207636372",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–WP–F–2026–03",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number shown in the PDF title page and running header"
+    },
+    {
+      "identifier": "The Global Strategic Chain Reactions of the U.S.–Iran War.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "The Global Strategic Chain Reactions of the U.S.–Iran War",
+      "scheme": "Short title",
+      "description": "Short form of the working paper title"
+    }
+  ],
+  "description": "This working paper analyzes how the U.S.–Iran war may generate cross-regional strategic chain reactions by consuming scarce U.S. assets, narrowing alliance decision space, and reshaping threat perceptions in East Asia. It argues that East Asia is the next plausible capability-revealing theater, with the most likely pathway being a Taiwan-centered coercive or blockade-like confrontation rather than immediate large-scale war, followed by a South China Sea limited clash with alliance spillover and a lower-probability but high-escalation Korean Peninsula scenario.",
+  "abstract": "Major-power capabilities are often misread in peacetime. Force structure, alliance reliability, industrial resilience, and escalation tolerance become fully visible only under operational stress. The Russia–Ukraine War and the ongoing U.S.–Iran war have already served as capability-revealing events, exposing the gap between peacetime expectations and wartime performance in the cases of both Russia and the United States. This paper argues that the strategic significance of the current Middle East war lies not only in its regional consequences, but also in its potential to generate cross-regional strategic strain by drawing on U.S. high-demand assets, increasing pressure on alliance coordination, and altering threat perceptions in the Western Pacific. The most plausible East Asian test is not a simple “China–Japan war,” but a broader crisis within the U.S.–China competitive system, most likely centered on Taiwan, secondarily on the South China Sea, and less likely though potentially more dangerous on the Korean Peninsula. Current indicators suggest that the most probable East Asian pathway is not immediate large-scale war, but a prolonged gray-zone or blockade-like confrontation that tests logistics, alliance cohesion, and escalation control. East Asia may therefore become the next major theater in which military capability, strategic endurance, and political resolve are revealed under real operational conditions.",
+  "keywords": [
+    "U.S.–Iran War",
+    "Strategic chain reactions",
+    "Cross-regional strategic strain",
+    "Middle East conflict",
+    "Russia–Ukraine War",
+    "East Asia",
+    "Taiwan contingency",
+    "South China Sea",
+    "Korean Peninsula",
+    "Alliance coordination",
+    "Blockade",
+    "Gray-zone confrontation",
+    "Capability-revealing theater",
+    "Strategic endurance",
+    "Force allocation",
+    "Escalation dynamics",
+    "Deterrence",
+    "Alliance cohesion",
+    "Multi-theater pressure",
+    "AI-mediated warfare"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "International Security",
+    "Middle East Security",
+    "East Asian Security",
+    "U.S.–China Strategic Competition",
+    "Taiwan Contingency Analysis",
+    "South China Sea Studies",
+    "Korean Peninsula Security",
+    "Alliance Politics",
+    "Escalation Dynamics",
+    "Military Capability Assessment",
+    "Policy Analysis",
+    "AI-Mediated Warfare"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-06",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-06",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "The Global Strategic Chain Reactions of the U.S.–Iran War.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9303/The%20Global%20Strategic%20Chain%20Reactions%20of%20the%20U.S.%E2%80%93Iran%20War.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 9
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9303",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9303",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-003",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Cross-Regional Strategic Strain and Capability-Revealing Theater Assessment",
+    "analytical_type": "Qualitative synthesis, scenario-based reasoning, and cross-regional strategic inference",
+    "core_problem": "A prolonged U.S.–Iran war may consume scarce U.S. military and political bandwidth, reducing strategic slack and reshaping regional actors’ perceptions in East Asia.",
+    "methodology_note": "The paper is based on qualitative synthesis of open-source materials rather than original fieldwork, proprietary datasets, or classified sources. Its evidence base includes official government assessments and policy documents, RAND/CSIS/AMTI policy research, Reuters reporting, and the author’s prior EPINOVA policy briefs on the U.S.–Iran war.",
+    "central_claims": [
+      "Major-power capabilities become legible under operational stress rather than through peacetime indicators alone.",
+      "The U.S.–Iran war may generate cross-regional strategic strain by absorbing high-demand assets, missile-defense capacity, ISR resources, maritime protection commitments, and political attention.",
+      "East Asia is the next plausible capability-revealing theater because it would test naval survivability, long-range strike coordination, distributed basing, alliance decision-making, logistics resilience, and escalation management.",
+      "The most likely East Asian risk pathway is a Taiwan-centered coercive or blockade-like confrontation rather than sudden all-out war.",
+      "A South China Sea clash involving China and the Philippines represents a secondary pathway with alliance spillover potential.",
+      "A Korean Peninsula crisis is lower probability but carries the highest immediate escalation risk once triggered."
+    ],
+    "scenario_assessment": {
+      "most_likely": {
+        "name": "Taiwan-centered coercive confrontation",
+        "description": "Quarantine, blockade, inspection regimes, missile demonstrations, cyber disruption, and information operations designed to test alliance decision-making and civilian resilience."
+      },
+      "second_most_likely": {
+        "name": "South China Sea limited clash with alliance spillover",
+        "description": "Localized maritime clash involving China and the Philippines around contested resupply, patrol, or law-enforcement operations, with U.S.–Japan–Philippines coordination raising spillover potential."
+      },
+      "lower_probability_highest_escalation": {
+        "name": "Korean Peninsula crisis",
+        "description": "Lower probability than Taiwan or South China Sea pathways, but highest immediate escalation risk due to compressed geography, militarization, and nuclear-shadowed deterrence dynamics."
+      }
+    },
+    "evidence_categories": [
+      "Official government assessments and policy documents",
+      "Institutionally reviewed policy research from RAND, CSIS, and AMTI",
+      "Current reporting from Reuters used to track rapidly evolving cross-regional developments",
+      "Author’s prior EPINOVA policy briefs on missile-exchange escalation, force-posture strain, and escalation-ladder dynamics in the U.S.–Iran war"
+    ],
+    "limitations": [
+      "The paper does not attempt econometric prediction or formal causal identification.",
+      "The analysis is not intended as a predictive model.",
+      "Judgments are provisional analytical assessments and remain subject to revision as new evidence emerges."
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Capability Revelation",
+      "code": "CR",
+      "description": "The process by which military capability, strategic endurance, alliance reliability, and industrial resilience become visible under operational stress."
+    },
+    {
+      "name": "Cross-Regional Strategic Strain",
+      "code": "CRSS",
+      "description": "A condition in which engagement in one theater narrows strategic slack and alters force allocation, alliance confidence, or threat perceptions in another theater."
+    },
+    {
+      "name": "High-Demand Asset Consumption",
+      "code": "HDAC",
+      "description": "Consumption or redeployment pressure on scarce assets such as missile-defense systems, interceptors, ISR, air-refueling, and maritime protection capacity."
+    },
+    {
+      "name": "Alliance Decision Space",
+      "code": "ADS",
+      "description": "The political and operational room available for allies to coordinate, grant access, and sustain support during cross-regional crisis pressure."
+    },
+    {
+      "name": "Taiwan-Centered Coercive Pathway",
+      "code": "TCCP",
+      "description": "A scenario pathway centered on quarantine, blockade-like pressure, cyber disruption, missile demonstrations, and layered coercive signaling short of immediate invasion."
+    },
+    {
+      "name": "South China Sea Spillover Pathway",
+      "code": "SCSSP",
+      "description": "A scenario pathway in which localized maritime incidents around contested features produce wider alliance signaling and operational effects."
+    },
+    {
+      "name": "Korean Peninsula Escalation Compression",
+      "code": "KPEC",
+      "description": "A lower-probability but high-severity pathway in which compressed geography and nuclear-shadowed deterrence create severe escalation risks."
+    },
+    {
+      "name": "Multi-Theater Strategic Coherence",
+      "code": "MTSC",
+      "description": "The capacity to sustain force allocation, logistics, alliance cohesion, and operational credibility under simultaneous regional pressure."
+    }
+  ],
+  "key_findings": [
+    "The U.S.–Iran war should not be treated as a self-contained Middle Eastern crisis because it may generate cross-regional strategic chain reactions.",
+    "Regional conflicts can reveal major-power capabilities by exposing operational endurance, alliance reliability, logistics resilience, and escalation tolerance under stress.",
+    "The current Middle East conflict may compress U.S. strategic slack by absorbing high-demand assets and political attention while altering perceptions in East Asia.",
+    "East Asia is the most plausible next capability-revealing theater because it combines high-end maritime and aerospace complexity with alliance coordination and escalation-control demands.",
+    "The most likely East Asian pathway is a Taiwan-centered coercive confrontation involving blockade-like or gray-zone measures rather than immediate large-scale war.",
+    "A limited South China Sea clash involving China and the Philippines is the second most likely pathway and could produce alliance spillover effects.",
+    "A Korean Peninsula crisis is less likely but would probably carry the highest immediate escalation risk because of militarization, compressed geography, and the nuclear shadow.",
+    "A stand-alone China–Japan war frame is analytically incomplete; East Asian security risks are better understood within the broader U.S.–China competitive system.",
+    "The central policy problem is preserving strategic coherence across multiple theaters rather than deterring any single contingency in isolation."
+  ],
+  "related_works": [
+    {
+      "title": "Escalation risk in protracted missile exchanges: Assessing low-probability, high-impact dynamics in the U.S.–Iran conflict based on IRGC Operation True Promise 4 (Waves 1–13)",
+      "identifier": "10.5281/zenodo.18843800",
+      "relation": "Prior EPINOVA policy brief used as related analytical foundation for U.S.–Iran missile-exchange escalation dynamics",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation dynamics in IRGC’s Operation True Promise: Interpreting the conflict through an escalation ladder framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Prior EPINOVA policy brief used as related analytical foundation for escalation-ladder interpretation",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Asia Maritime Transparency Initiative. (2025a, February 27). Dropping the act: China’s militia in 2024. Center for Strategic and International Studies. https://amti.csis.org/dropping-the-act-chinas-militia-in-2024/",
+    "Asia Maritime Transparency Initiative. (2025b, June 16). Holding the line: China’s expanding patrols around Scarborough Shoal. Center for Strategic and International Studies. https://amti.csis.org/holding-the-line-chinas-expanding-patrols-around-scarborough-shoal/",
+    "Asia Maritime Transparency Initiative. (2026a, January 29). Eyes on the prize: CCG patrols prioritize Scarborough in 2025. Center for Strategic and International Studies. https://amti.csis.org/eyes-on-the-prize-ccg-patrols-prioritize-scarborough-in-2025/",
+    "Asia Maritime Transparency Initiative. (2026b, February 23). All together now: China’s militia in 2025. Center for Strategic and International Studies. https://amti.csis.org/all-together-now-chinas-militia-in-2025/",
+    "Cancian, M. F., Cancian, M. F., & Heginbotham, E. (2025, July 31). Lights out? Wargaming a Chinese blockade of Taiwan. Center for Strategic and International Studies. https://www.csis.org/analysis/lights-out-wargaming-chinese-blockade-taiwan",
+    "Department of Defense. (2024, December 18). Military and security developments involving the People’s Republic of China 2024. U.S. Department of Defense. https://media.defense.gov/2024/Dec/18/2003615520/-1/-1/0/MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2024.PDF",
+    "Frederick, B., Gunness, K., Tarini, G., Stravers, A., Mazarr, M. J., Ellinger, E., Blank, J., Cochran, S., Hornung, J. W., Morris, L. J., Ernstsen, J., Grek, L., Wang, H., & Chao, L. N. (2023). Improving conflict-phase access: Identifying U.S. policy levers (RR-A1742-1). RAND Corporation. https://doi.org/10.7249/RRA1742-1",
+    "Kepe, M., & Harold, S. W. (2025). Building Taiwan’s resilience: Insights into Taiwan’s civilian resilience against acts of war (RR-A3388-1). RAND Corporation. https://doi.org/10.7249/RRA3388-1",
+    "Lee, S. (2026, January 21). The impact of the U.S. national security strategy’s blind spot on North Korea. 38 North. https://www.38north.org/2026/01/the-impact-of-the-us-national-security-strategys-blind-spot-on-north-korea/",
+    "Reuters. (2024, July 28). U.S. upgrades military command in Japan, warns of China threats. Reuters. https://www.reuters.com/business/aerospace-defense/us-announce-military-command-revamp-japan-official-says-2024-07-28/",
+    "Reuters. (2025, June 5). Philippines, U.S., hold joint maritime drills for seventh time. Reuters. https://www.reuters.com/world/china/philippines-us-hold-joint-maritime-drills-seventh-time-2025-06-05/",
+    "Reuters. (2026a, March 6). South Korea, U.S. militaries discuss moving Patriot missiles to Iran war, Seoul says. Reuters. https://www.reuters.com/world/asia-pacific/south-korea-us-militaries-discuss-moving-patriot-missiles-iran-war-seoul-says-2026-03-06/",
+    "Reuters. (2026b, March 5). Iran crisis could disrupt supply of key chipmaking materials, South Korea warns. Reuters. https://www.reuters.com/business/retail-consumer/south-korean-chip-industry-worried-iran-crisis-affect-middle-east-data-center-2026-03-05/",
+    "Reuters. (2026c, February 27). Philippines, Japan, U.S. hold joint military drills in South China Sea. Reuters. https://www.reuters.com/world/china/philippines-japan-us-hold-joint-military-drills-south-china-sea-2026-02-27/",
+    "Reuters. (2026d, January 30). South Korea, Japan defence ministers agree to upgrade cooperation. Reuters. https://www.reuters.com/world/asia-pacific/south-korea-japan-defence-ministers-agree-upgrade-cooperation-2026-01-30/",
+    "Reuters. (2026e, February 25). South Korea and the U.S. to conduct Freedom Shield military drills in March. Reuters. https://www.reuters.com/world/asia-pacific/south-korea-us-conduct-freedom-shield-military-drills-march-2026-02-25/",
+    "Reuters. (2026f, March 3). Trump’s Asian allies fear Iran war will sap defences against China. Reuters. https://www.reuters.com/world/china/trumps-asian-allies-fear-iran-war-will-sap-defences-against-china-2026-03-03/",
+    "Reuters. (2026g, February 25). North Korea’s Kim promises more nuclear weapons as Congress closes with military parade. Reuters. https://www.reuters.com/world/asia-pacific/north-koreas-kim-says-relations-with-us-depend-us-attitude-2026-02-25/",
+    "Reuters. (2026h, January 27). North Korea fires missiles into sea amid talks on U.S.–South Korea defence posture. Reuters. https://www.reuters.com/world/asia-pacific/north-korea-fires-projectile-towards-sea-south-koreas-military-says-2026-01-27/",
+    "Reuters. (2026i, March 5). China’s parliament rolls out economic, political blue-print; here’s what you need to know. Reuters. https://www.reuters.com/world/asia-pacific/chinas-parliament-rolls-out-economic-political-blue-print-heres-what-you-need-2026-03-05/",
+    "Schatz, H. J., Drezner, D. W., Grossman, D., Weber, T., & Flachsbart, C. (2025). Economic deterrence in a China contingency (RR-A4022-1). RAND Corporation. https://www.rand.org/pubs/research_reports/RRA4022-1.html",
+    "Wu, S. (2026a). Escalation risk in protracted missile exchanges: Assessing low-probability, high-impact dynamics in the U.S.–Iran conflict based on IRGC Operation True Promise 4 (Waves 1–13) (EPINOVA Policy Brief No. EPINOVA-2026-PB-08). EPINOVA LLC – Global AI Governance and Policy Research Center. https://doi.org/10.5281/zenodo.18843800",
+    "Wu, S. (2026b). Escalation dynamics in IRGC’s Operation True Promise: Interpreting the conflict through an escalation ladder framework (EPINOVA Policy Brief No. EPINOVA-2026-PB-09). EPINOVA LLC – Global AI Governance and Policy Research Center. https://doi.org/10.5281/zenodo.18869404",
+    "Xinhua. (2026a, March 5). 《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要 [Summary of the draft outline of the Fifteenth Five-Year Plan for National Economic and Social Development of the People’s Republic of China]. 新华社. https://app.xinhuanet.com/news/article.html?articleId=be1e54f908da3777c06cd3b68f2a4e57",
+    "Xinhua. (2026b, March 5). China’s top legislature opens annual session. Xinhua. https://english.news.cn/20260305/33ff72f90c8a4c989b1a86e4222bd478/c.html"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). The global strategic chain reactions of the U.S.–Iran war: East Asia as the next plausible capability-revealing theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), The Global Strategic Chain Reactions of the U.S.–Iran War.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-06",
+    "pagination": "9 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions. It does not constitute policy recommendations, predictive assessments, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "The Global Strategic Chain Reactions of the U.S.–Iran War.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, methodology note, conclusions, and references. Early metadata supplied DOI 10.5281/zenodo.18893891, ORCID put-code 207636372, and GitHub repository information. DOI discrepancy retained for reconciliation; PDF recommended citation DOI 10.5281/zenodo.18893892 is used as the main DOI."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. Crossref registration may be added later after membership approval.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18893892",
+    "crossref_doi_suffix": "epinova.wp.f.2026.003",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18893892",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI is taken from the PDF recommended citation. Early ORCID-derived metadata recorded 10.5281/zenodo.18893891 and is retained as an alternate identifier for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207636372",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-06"
   }
 }

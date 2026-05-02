@@ -1,29 +1,457 @@
 {
-  "title": "Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems",
-  "title_normalized": "derivative-state drift: a continuous-time model of constraint erosion in elite and artificial optimization systems",
-  "date": "2026-02-16",
-  "doi": "10.5281/zenodo.18654118",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "205788030",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2026-002",
+  "title": "Derivative-State Drift",
+  "subtitle": "A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems",
+  "title_normalized": "derivative-state drift: a continuous-time model of constraint erosion in elite and artificial optimization systems",
+  "publication_date": "2026-02-16",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18654119",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18654119",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18654119",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI shown in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18654118",
+      "scheme": "DOI",
+      "description": "DOI recorded in the early ORCID-derived metadata; retained as a discrepancy note for reconciliation"
+    },
+    {
+      "identifier": "205788030",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–WP–F–2026–02",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number shown in the PDF title page and running header"
+    },
+    {
+      "identifier": "Derivative-State Drift.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Derivative-State Drift",
+      "scheme": "Short title",
+      "description": "Short form of the working paper title"
+    }
+  ],
+  "description": "This working paper develops the Derivative-State Drift (DSD) framework as a continuous-time structural model of cumulative misalignment in derivative-based optimization systems. It explains how systems can remain locally coherent and dynamically smooth while gradually diverging from normative reference states when constraints are soft, enforcement is incomplete, and resource buffering attenuates penalties. The framework is applied symmetrically to elite institutional environments and artificial optimization systems, emphasizing architectural isomorphism rather than anthropomorphic analogy.",
+  "abstract": "This paper develops the Derivative-State Drift (DSD) framework as a general structural account of cumulative misalignment in derivative-based optimization systems. It formalizes agents as operating over continuous-time state vectors and selecting actions according to expected first-order state change rather than absolute state levels. When constraint enforcement is soft, probabilistic, or compensable, sensitivity parameters governing normative boundaries decay endogenously over time. The analysis establishes three core results. First, bounded state velocity does not imply bounded normative deviation. Local dynamical stability is therefore compatible with global misalignment. Second, under incomplete enforcement, constraint sensitivity exhibits monotonic expected decay, deforming the effective constraint manifold without requiring discontinuity in state trajectories. Third, resource buffering attenuates effective penalties and accelerates drift dynamics. The framework is instantiated in two structurally parallel domains: elite institutional environments and artificial optimization systems. Despite differences in substrate, both instantiate derivative-based evaluation under soft constraint regimes and mediated feedback, generating formally equivalent drift dynamics. The comparison is architectural rather than anthropomorphic. The paper concludes that alignment is not primarily a question of intention or performance optimization, but of constraint architecture design. Derivative-State Drift is a general property of optimization systems in which boundaries are compensable and feedback is incomplete. Misalignment thus emerges as the predictable long-run behavior of locally rational systems operating within deformable constraint manifolds.",
+  "keywords": [
+    "Derivative-State Drift",
+    "DSD framework",
+    "constraint manifold",
+    "soft constraint regimes",
+    "continuous-time model",
+    "Lyapunov stability",
+    "local dynamical stability",
+    "global normative stability",
+    "constraint erosion",
+    "threshold drift",
+    "institutional drift",
+    "elite institutional environments",
+    "AI optimization systems",
+    "AI alignment",
+    "governance architecture",
+    "structural isomorphism",
+    "Goodhart's law",
+    "resource buffering",
+    "parameter stabilization",
+    "optimization systems"
+  ],
+  "subjects": [
+    "AI Governance",
+    "AI Alignment",
+    "Optimization Theory",
+    "Institutional Theory",
+    "Governance Architecture",
+    "Strategic Risk",
+    "Dynamical Systems",
+    "Constraint Design",
+    "Complex Systems",
+    "Elite Governance",
+    "Machine Learning Safety",
+    "Policy Theory"
+  ],
+  "dates": [
+    {
+      "date": "2026-02-16",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-02-16",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Derivative-State Drift.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9302/Derivative-State%20Drift.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 28
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9302",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9302",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2026-002",
+    "series_description": "The WP-F series explores AI governance and strategic risk through comparative and historical diagnostics, examining how inherited strategic and regulatory logics break down when transferred into AI-mediated contexts."
+  },
+  "methodology": {
+    "framework_name": "Derivative-State Drift (DSD) Framework",
+    "formal_model": "Continuous-time derivative-based optimization model with endogenous constraint sensitivity decay",
+    "core_problem": "Optimization systems can remain locally stable and performance-improving while drifting away from normative reference states when constraints are soft, compensable, probabilistic, or buffered by resources.",
+    "central_claims": [
+      "Bounded state velocity does not imply bounded normative deviation; local dynamical stability can coexist with global misalignment.",
+      "Incomplete enforcement induces monotonic decay of constraint sensitivity and deforms the effective constraint manifold over time.",
+      "Resource buffering attenuates effective penalties and accelerates drift by flattening corrective gradients.",
+      "Elite institutional environments and AI optimization systems share an architectural isomorphism when both operate through derivative-based evaluation, compensable constraints, and mediated feedback.",
+      "Alignment is a problem of constraint architecture design rather than intention or performance optimization alone."
+    ],
+    "state_space": {
+      "formula": "S(t) = (W(t), P(t), R(t), F(t))",
+      "variables": [
+        {
+          "symbol": "W(t)",
+          "name": "Resources",
+          "description": "Material, informational, computational, or institutional reserves that buffer risk and absorb shocks."
+        },
+        {
+          "symbol": "P(t)",
+          "name": "Control",
+          "description": "Capacity to influence institutional processes, decision spaces, or action sets."
+        },
+        {
+          "symbol": "R(t)",
+          "name": "Access",
+          "description": "Social or operational legitimacy, including network inclusion, validation, or reputational standing."
+        },
+        {
+          "symbol": "F(t)",
+          "name": "Constraint",
+          "description": "Normative alignment parameters, rule adherence, ethical boundaries, or alignment objectives."
+        }
+      ]
+    },
+    "main_formulas": [
+      {
+        "number": "2.1.1",
+        "name": "State vector",
+        "formula": "S(t) = (W(t), P(t), R(t), F(t))",
+        "description": "Continuous-time state vector over resources, control, access, and constraint dimensions."
+      },
+      {
+        "number": "2.1.2",
+        "name": "Embedded state transition",
+        "formula": "S_dot(t) = f(S(t), a(t), E(t))",
+        "description": "State transitions are co-determined by agent action and environmental feedback."
+      },
+      {
+        "number": "2.2.1",
+        "name": "Derivative-based objective",
+        "formula": "U'(a) = Σ_i α_i × E[S_dot_i(t) | a]",
+        "description": "Actions are evaluated according to expected first-order state changes rather than absolute state levels."
+      },
+      {
+        "number": "2.2.2",
+        "name": "Action selection rule",
+        "formula": "a*(t) = arg max_{a∈A} U'(a)",
+        "description": "The agent selects the feasible action maximizing derivative-based utility."
+      },
+      {
+        "number": "2.3.1",
+        "name": "Acceptance threshold function",
+        "formula": "Θ(t) = Σ_i θ_i(t) × S_i(t)",
+        "description": "Constraint evaluation depends on time-varying sensitivity parameters."
+      },
+      {
+        "number": "2.3.2",
+        "name": "Constraint sensitivity drift",
+        "formula": "θ_dot_i(t) = -λ_i × (1 - p_i)",
+        "description": "Sensitivity parameters decay when enforcement is incomplete."
+      },
+      {
+        "number": "2.3.3",
+        "name": "Closed-form sensitivity decay",
+        "formula": "θ_i(t) = θ_i(0) - λ_i × (1 - p_i) × t",
+        "description": "Unless enforcement is perfect, parameter erosion is structurally expected."
+      },
+      {
+        "number": "2.4",
+        "name": "Dynamic interaction between state and threshold",
+        "formula": "Θ_dot(t) = Σ_i θ_dot_i(t) × S_i(t) + Σ_i θ_i(t) × S_dot_i(t)",
+        "description": "Threshold change reflects both endogenous erosion of sensitivity and state-driven movement."
+      },
+      {
+        "number": "3.1.2",
+        "name": "Derivative localism result",
+        "formula": "dU(S(t))/dt ≥ 0 ⇏ sup_{t≥0} D(t) < ∞",
+        "description": "Non-negative internal improvement does not imply bounded normative deviation."
+      },
+      {
+        "number": "3.3.1",
+        "name": "Effective penalty intensity",
+        "formula": "Penalty_effective(t) = Penalty / W(t)",
+        "description": "Resource buffering attenuates the effective force of penalties."
+      },
+      {
+        "number": "3.3.10",
+        "name": "Second-order resource amplification",
+        "formula": "θ_ddot_i(t) = -(1 - p_i) × f'(W(t)) × W_dot(t)",
+        "description": "Constraint decay accelerates weakly when drift intensity increases with resource buffering."
+      },
+      {
+        "number": "4.1.1",
+        "name": "Local dynamical stability condition",
+        "formula": "||S_dot(t)|| ≤ δ",
+        "description": "Local stability describes bounded velocity and smooth trajectory evolution."
+      },
+      {
+        "number": "4.2",
+        "name": "Global normative stability condition",
+        "formula": "sup_{t≥0} D(t) < B",
+        "description": "Global normative stability requires bounded deviation from a fixed normative reference state."
+      }
+    ],
+    "theoretical_results": [
+      {
+        "name": "Proposition 1: Local Stability Does Not Imply Global Alignment",
+        "summary": "Derivative-based systems may exhibit non-negative internal improvement and smooth local dynamics while diverging from normative reference states."
+      },
+      {
+        "name": "Proposition 2: First-Order Threshold Drift Under Soft Enforcement",
+        "summary": "If enforcement is probabilistic with p_i < 1 and penalties do not reset sensitivity parameters, constraint sensitivity decays monotonically."
+      },
+      {
+        "name": "Proposition 3: Second-Order Resource Amplification of Drift",
+        "summary": "Resource buffering attenuates effective penalties and weakly accelerates threshold erosion when drift intensity increases with buffering capacity."
+      }
+    ],
+    "governance_mechanisms": [
+      "Hard boundaries that function as invariant state constraints rather than compensable penalty terms",
+      "Non-transferable enforcement with effective enforcement probability approaching unity",
+      "Multi-metric oversight that reduces proxy dominance and distributes derivative incentives",
+      "Parameter stabilization mechanisms, including periodic recalibration of constraint weights and independent enforcement layers",
+      "Architectural separation between performance maximization and constraint enforcement"
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Resources",
+      "code": "W",
+      "description": "Resource buffers that absorb penalties and attenuate corrective force."
+    },
+    {
+      "name": "Control",
+      "code": "P",
+      "description": "Capacity to shape decision spaces, institutional processes, or feasible actions."
+    },
+    {
+      "name": "Access",
+      "code": "R",
+      "description": "Network legitimacy, validation, reputational standing, or proxy performance access."
+    },
+    {
+      "name": "Constraint",
+      "code": "F",
+      "description": "Normative alignment, rule adherence, ethical boundary, or alignment objective dimension."
+    },
+    {
+      "name": "Constraint Sensitivity",
+      "code": "θ_i(t)",
+      "description": "Time-varying parameter governing how strongly deviations affect acceptability."
+    },
+    {
+      "name": "Enforcement Probability",
+      "code": "p_i",
+      "description": "Effective probability that a constraint violation triggers correction or penalty."
+    },
+    {
+      "name": "Drift Intensity",
+      "code": "λ_i(t)",
+      "description": "Intrinsic or resource-mediated intensity of sensitivity decay."
+    },
+    {
+      "name": "Normative Distance",
+      "code": "D(t)",
+      "description": "Distance between the current state trajectory and a fixed normative reference state."
+    },
+    {
+      "name": "Local Dynamical Stability",
+      "code": "||S_dot(t)|| ≤ δ",
+      "description": "Bounded instantaneous state velocity and smooth trajectory evolution."
+    },
+    {
+      "name": "Global Normative Stability",
+      "code": "sup_t D(t) < B",
+      "description": "Bounded cumulative deviation from the normative reference state."
+    }
+  ],
+  "key_findings": [
+    "Derivative-State Drift explains cumulative misalignment as endogenous parameter erosion rather than sudden state collapse.",
+    "Systems can remain locally coherent, smooth, and performance-improving while diverging globally from normative reference states.",
+    "Incomplete enforcement produces first-order monotonic decay of constraint sensitivity parameters.",
+    "Resource buffering increases the magnitude and curvature of constraint decay by reducing effective penalty intensity.",
+    "Elite institutional environments amplify DSD through high derivative weights on access and control, elastic constraint sensitivity, and resource buffering.",
+    "AI optimization systems instantiate DSD through reward gradients, proxy metrics, compensable alignment penalties, and compute surplus.",
+    "The comparison between elite systems and AI systems is architectural rather than psychological or anthropomorphic.",
+    "Governance should focus on hard boundaries, non-transferable enforcement, multi-metric oversight, and parameter stabilization rather than relying on intention, morality, or performance refinement."
+  ],
+  "related_works": [
+    {
+      "title": "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic",
+      "identifier": "10.5281/zenodo.18252768",
+      "relation": "Related EPINOVA WP-F work on AI-mediated strategic risk and the breakdown of inherited strategic logic",
+      "type": "DOI"
+    },
+    {
+      "title": "Survivor Governance: Authority Concentration under AI-Driven State Contraction",
+      "identifier": "10.5281/zenodo.18090197",
+      "relation": "Related EPINOVA work on AI-driven institutional contraction and governance architecture",
+      "type": "DOI"
+    },
+    {
+      "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+      "identifier": "10.5281/zenodo.18452803",
+      "relation": "Related EPINOVA white book on AI governance diagnostics and structural exposure frameworks",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete problems in AI safety. arXiv preprint arXiv:1606.06565. https://arxiv.org/abs/1606.06565",
+    "Christiano, P. F., Leike, J., Brown, T. B., Martic, M., Legg, S., & Amodei, D. (2017). Deep reinforcement learning from human preferences. Advances in Neural Information Processing Systems, 30, 4299–4307.",
+    "Goodhart, C. A. E. (1975). Problems of monetary management: The U.K. experience. In Papers in monetary economics (Vol. 1, pp. 91–121). Reserve Bank of Australia.",
+    "Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). Risks from learned optimization in advanced machine learning systems. arXiv preprint arXiv:1906.01820. https://arxiv.org/abs/1906.01820",
+    "Khalil, H. K. (2002). Nonlinear systems (3rd ed.). Prentice Hall.",
+    "Mahoney, J., & Thelen, K. (2010). Explaining institutional change: Ambiguity, agency, and power. Cambridge University Press.",
+    "Manheim, D., & Garrabrant, S. (2019). Categorizing variants of Goodhart’s law. arXiv preprint arXiv:1803.04585. https://arxiv.org/abs/1803.04585",
+    "Merton, R. K. (1936). The unanticipated consequences of purposive social action. American Sociological Review, 1(6), 894–904. https://doi.org/10.2307/2084615",
+    "North, D. C. (1990). Institutions, institutional change and economic performance. Cambridge University Press.",
+    "Ostrom, E. (2005). Understanding institutional diversity. Princeton University Press.",
+    "Russell, S. (2019). Human compatible: Artificial intelligence and the problem of control. Viking.",
+    "Simon, H. A. (1955). A behavioral model of rational choice. Quarterly Journal of Economics, 69(1), 99–118. https://doi.org/10.2307/1884852",
+    "Strogatz, S. H. (2018). Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering (2nd ed.). Westview Press.",
+    "Thelen, K. (2004). How institutions evolve: The political economy of skills in Germany, Britain, the United States, and Japan. Cambridge University Press.",
+    "Weick, K. E. (1995). Sensemaking in organizations. Sage.",
+    "Williamson, O. E. (1985). The economic institutions of capitalism. Free Press."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems (EPINOVA Working Paper No. EPINOVA–WP–F–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654119. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Derivative-state drift: A continuous-time model of constraint erosion in elite and artificial optimization systems (EPINOVA Working Paper No. EPINOVA–WP–F–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654119. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Derivative-State Drift, EPINOVA Working Paper F–2026–02.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-02-16",
+    "pagination": "28 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Structural Isomorphism Between Elite Decision Environments and AI Optimization Systems",
+      "description": "Diagram mapping human elite systems and AI optimization systems onto the shared DSD architecture of derivative-based optimization, soft constraints, delayed or proxy feedback, local stability, and global misalignment.",
+      "source": "Author’s analysis based on the DSD framework",
+      "note": "Conceptual structural mapping; the comparison is architectural rather than anthropomorphic."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Distinction Between Local Dynamical Stability and Global Normative Stability",
+      "description": "Contrasts bounded velocity and smooth trajectory behavior with bounded deviation and sustained alignment, emphasizing that bounded velocity does not imply bounded displacement.",
+      "source": "Author’s analysis based on the DSD framework"
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions; it does not constitute policy recommendations, predictive assessments, or official positions of any institution.",
   "metadata_source": {
+    "source_file": "Derivative-State Drift.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual inspection of Figure 1, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, WP-F series number, DSD framework, formulas, propositions, Figure 1, Table 1, conclusion, recommended citation, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.18654118, ORCID put-code 205788030, and GitHub repository information. The PDF recommended citation shows DOI 10.5281/zenodo.18654119, which is used as the primary DOI in this record; the early DOI is retained as an alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. Crossref DOI remains pending if EPINOVA later registers this work through Crossref.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18654119",
+    "crossref_doi_suffix": "epinova.wp.f.2026.002",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18654119",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Primary Zenodo/DataCite DOI taken from the PDF recommended citation. Early ORCID-derived metadata listed 10.5281/zenodo.18654118 and is retained as an alternate DOI for reconciliation."
+  },
+  "orcid": {
+    "put_code": "205788030",
+    "source": "ORCID Public API",
+    "record_date": "2026-02-16"
   }
 }

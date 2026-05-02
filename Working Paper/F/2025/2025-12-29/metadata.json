@@ -1,29 +1,411 @@
 {
-  "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
-  "title_normalized": "permanent presence under uncertainty: a partially observable game-theoretic framework for unmanned systems, cost-frequency dynamics, and strategic stability",
-  "date": "2025-12-29",
-  "doi": "10.5281/zenodo.18081107",
-  "author": "Wu, Shaoyuan",
-  "type": "working-paper",
+  "epinova_id": "EPINOVA-WP-F-2025-006",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
   "category": "working-papers",
-  "put_code": "201017438",
-  "source": "ORCID Public API",
+  "publication_series": "EPINOVA Working Paper F-Series",
+  "series_code": "WP-F",
+  "series_number": "2025-006",
+  "title": "Permanent Presence under Uncertainty",
+  "subtitle": "A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+  "title_normalized": "permanent presence under uncertainty: a partially observable game-theoretic framework for unmanned systems, cost-frequency dynamics, and strategic stability",
+  "publication_date": "2025-12-29",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2025 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18081107",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.18081107",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18081107",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI from early ORCID-derived metadata record and recommended citation in the PDF"
+    },
+    {
+      "identifier": "201017438",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "Permanent Presence under Uncertainty.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Permanent Presence under Uncertainty",
+      "scheme": "Short title",
+      "description": "Short form of the working paper title"
+    }
+  ],
+  "description": "This working paper develops a partially observable game-theoretic framework for unmanned systems that reframes permanent presence as a strategic condition under uncertainty rather than a platform-centric capability. It formalizes permanent presence through a Partially Observable Stochastic Game (POSG), extends Cost–Distance–Frequency (CDF) logic by treating frequency as an adversary-facing random variable, and links observability, tempo, survivability, entropy, and verification to strategic stability and AI-enabled arms control.",
+  "abstract": "The operational advantage of unmanned systems is increasingly derived not from superior precision or predictive accuracy, but from their ability to sustain presence while resisting low-cost opponent inference. This paper develops a formal framework that conceptualizes permanent presence as a strategic condition rather than a platform-centric capability, reframing it as a portfolio under uncertainty. Building on a Partially Observable Stochastic Game (POSG) formulation, the analysis models the structural tension between observability, operational tempo, and survivability, and extends a Cost–Distance–Frequency (CDF) framework by treating frequency as an adversary-facing random variable rather than a controllable constant. The paper further explores the implications of this shift for strategic stability, verification, and AI-enabled arms control, arguing that uncertainty itself has become a central stabilizing—and destabilizing—factor in contemporary unmanned conflict.",
+  "keywords": [
+    "Permanent presence",
+    "Unmanned systems",
+    "Partially Observable Stochastic Game",
+    "POSG",
+    "Cost–Distance–Frequency framework",
+    "CDF framework",
+    "cost–frequency dynamics",
+    "strategic stability",
+    "adversarial inference",
+    "belief entropy",
+    "uncertainty management",
+    "operational tempo",
+    "survivability",
+    "AI-enabled arms control",
+    "verification under uncertainty",
+    "autonomous systems",
+    "unmanned conflict",
+    "presence efficiency",
+    "AI governance",
+    "audit-by-design"
+  ],
+  "subjects": [
+    "Strategic Studies",
+    "Unmanned Systems",
+    "AI-Enabled Conflict",
+    "Game Theory",
+    "Partially Observable Stochastic Games",
+    "Cost–Frequency Dynamics",
+    "Strategic Stability",
+    "Arms Control and Verification",
+    "AI Governance",
+    "Defense Modeling"
+  ],
+  "dates": [
+    {
+      "date": "2025-12-29",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2025-12-29",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Permanent Presence under Uncertainty.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-12-29/Permanent%20Presence%20under%20Uncertainty.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 8
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-29",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-12-29",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Working Paper F-Series",
+    "series_code": "WP-F",
+    "series_number": "2025-006",
+    "series_description": "Working Paper F-Series develops applied analytical frameworks for conflict, defense technology, AI-enabled operations, and strategic assessment."
+  },
+  "methodology": {
+    "framework_name": "Permanent Presence under Uncertainty Framework",
+    "formal_model": "Partially Observable Stochastic Game (POSG)",
+    "extension_to": "Cost–Distance–Frequency (CDF) framework",
+    "core_problem": "Permanent unmanned presence must resist low-cost adversarial inference; operational tempo and frequency should be modeled as adversary-facing random variables rather than controllable constants.",
+    "central_claims": [
+      "Survivability and effectiveness are increasingly governed by uncertainty management rather than precision maximization.",
+      "Frequency and tempo should be modeled as adversary-facing random variables.",
+      "Strategic stability and verification increasingly depend on information structure rather than platform counts or static deployment zones."
+    ],
+    "state_space": {
+      "formula": "S_t = (X_t, M_t, Θ_t, Ω_t)",
+      "variables": [
+        {
+          "symbol": "X_t",
+          "name": "Spatial state",
+          "description": "Location or distribution, partially hidden from the adversary."
+        },
+        {
+          "symbol": "M_t",
+          "name": "Mission or tempo state",
+          "description": "Activity level, operational windows, and rhythm."
+        },
+        {
+          "symbol": "Θ_t",
+          "name": "Adversary capability and intent state",
+          "description": "Threat intensity, strike timing, and resource levels."
+        },
+        {
+          "symbol": "Ω_t",
+          "name": "Environmental state",
+          "description": "Weather, terrain masking, spectrum background, and logistical constraints."
+        }
+      ]
+    },
+    "main_formulas": [
+      {
+        "number": "2.3",
+        "name": "Observation model",
+        "formula": "O_t ~ Z(S_t, a_t^Blue, a_t^Red)",
+        "description": "Observations are generated by a function that depends on both players' actions, making information quality endogenous to strategy."
+      },
+      {
+        "number": "2.4",
+        "name": "Adversarial belief state",
+        "formula": "b_t^Red(S) = P(S_t = S | O_{1:t}, a_{1:t-1})",
+        "description": "The adversary maintains a belief distribution over hidden system states."
+      },
+      {
+        "number": "2.4",
+        "name": "Belief entropy",
+        "formula": "H(b_t^Red) = -Σ_S b_t^Red(S) · log b_t^Red(S)",
+        "description": "Entropy is used as a model-agnostic proxy for adversarial uncertainty."
+      },
+      {
+        "number": "2.5",
+        "name": "Permanent presence portfolio",
+        "formula": "w = (w_1, w_2, w_3, w_4), Σ_i w_i = 1",
+        "description": "Presence is modeled as a weighted configuration over deterrent presence, survivable reserve, mobile uncertainty, and temporal randomization."
+      },
+      {
+        "number": "2.5",
+        "name": "Long-term survivability objective",
+        "formula": "max_{π^Blue} E[Σ_{t=1}^{T} γ^t · (U_t^Blue − λ · L_t^Blue)]",
+        "description": "Optimization objective prioritizing long-term survivability and sustained effects rather than single-episode payoff."
+      },
+      {
+        "number": "3.1",
+        "name": "Frequency as random variable",
+        "formula": "F_t ~ D(μ_t, σ_t; regime)",
+        "description": "Frequency is treated as a random variable from the opponent's perspective."
+      },
+      {
+        "number": "3.2",
+        "name": "Adversarial reconnaissance investment",
+        "formula": "σ_{t+1} = σ_t · e^{-κ r_t} + η",
+        "description": "Adversarial investment reduces uncertainty subject to an irreducible uncertainty floor."
+      },
+      {
+        "number": "3.3",
+        "name": "Operational value with belief entropy",
+        "formula": "Value = V(D, F) − C − α · Exposure + β · H(b_t^Red)",
+        "description": "Adversarial uncertainty becomes a positive strategic output."
+      },
+      {
+        "number": "3.4",
+        "name": "Presence efficiency",
+        "formula": "PE_t = g(w, Ω_t) ∈ [0,1]",
+        "description": "Presence efficiency as a function of the presence portfolio and environmental state."
+      },
+      {
+        "number": "3.4",
+        "name": "Capability constraint",
+        "formula": "K(w) ≤ K_max",
+        "description": "Constraint on portfolio configuration under available capability resources."
+      },
+      {
+        "number": "3.4",
+        "name": "Expected risk",
+        "formula": "ER_t = E[L_t | b_t^Red, F_t]",
+        "description": "Expected loss conditioned on adversarial belief and frequency regime."
+      }
+    ],
+    "presence_modes": [
+      {
+        "symbol": "w_1",
+        "name": "Deterrent presence",
+        "description": "Visible, expectation-shaping presence."
+      },
+      {
+        "symbol": "w_2",
+        "name": "Survivable reserve",
+        "description": "Hidden second-capability persistence."
+      },
+      {
+        "symbol": "w_3",
+        "name": "Mobile uncertainty",
+        "description": "Spatial ambiguity through movement or distributed positioning."
+      },
+      {
+        "symbol": "w_4",
+        "name": "Temporal randomization",
+        "description": "Rhythmic ambiguity that resists cheap timing inference."
+      }
+    ],
+    "governance_levers": [
+      "Risk-of-miscalculation controls",
+      "Assured human accountability through traceable responsibility chains",
+      "Signal management norms regulating manipulative informational behavior",
+      "Audit-by-design requirements embedded at the system-design stage"
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Spatial Ambiguity",
+      "code": "X_t",
+      "description": "Hidden or partially observable location/distribution of unmanned capabilities."
+    },
+    {
+      "name": "Tempo Uncertainty",
+      "code": "M_t / F_t",
+      "description": "Randomized activity level, frequency, and operational rhythm observed by the adversary as uncertain variables."
+    },
+    {
+      "name": "Adversarial Belief",
+      "code": "b_t^Red",
+      "description": "Opponent belief distribution over possible system states conditioned on observations and past actions."
+    },
+    {
+      "name": "Belief Entropy",
+      "code": "H(b_t^Red)",
+      "description": "Proxy for adversarial uncertainty and cost of inference."
+    },
+    {
+      "name": "Reconnaissance Investment",
+      "code": "r_t",
+      "description": "Adversarial resource expenditure to reduce uncertainty and improve localization/timing inference."
+    },
+    {
+      "name": "Structural Uncertainty Floor",
+      "code": "η",
+      "description": "Irreducible lower bound of uncertainty that remains despite adversarial investment."
+    },
+    {
+      "name": "Presence Portfolio",
+      "code": "w",
+      "description": "Weighted configuration of visible, latent, spatially ambiguous, and temporally randomized presence modes."
+    },
+    {
+      "name": "Presence Efficiency",
+      "code": "PE_t",
+      "description": "Effectiveness of a presence configuration under environmental and operational constraints."
+    },
+    {
+      "name": "Expected Risk",
+      "code": "ER_t",
+      "description": "Expected loss conditioned on adversarial belief state and frequency regime."
+    }
+  ],
+  "key_findings": [
+    "Unmanned system advantage increasingly derives from sustained presence and resistance to low-cost adversarial inference, not only from precision or predictive accuracy.",
+    "Permanent presence is not continuous activity or fixed deployment; it is credible persistence under adversarial observation where timing and location cannot be cheaply resolved.",
+    "Observability and coordination create a structural tradeoff: they improve short-term efficiency but increase exposure, while randomized tempo reduces efficiency but improves survivability.",
+    "A POSG formulation is more appropriate than a single-agent POMDP because uncertainty is strategically generated and manipulated by both sides.",
+    "Frequency should be modeled as an adversary-facing random variable, with variance becoming a strategic lever under cost–frequency dynamics.",
+    "Belief entropy converts adversarial uncertainty into a positive strategic output within operational value calculations.",
+    "Strategic stability becomes an information-structural problem involving persistence, verification difficulty, and misperception risk rather than a purely material balance problem.",
+    "AI governance and arms control must shift toward process-based compliance, traceable responsibility chains, signal-management norms, and audit-by-design."
+  ],
+  "related_works": [
+    {
+      "title": "Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal",
+      "identifier": "10.5281/zenodo.18095271",
+      "relation": "Related EPINOVA work developing CDF-based sustained presence and cost-frequency logic",
+      "type": "DOI"
+    },
+    {
+      "title": "A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment",
+      "identifier": "10.5281/zenodo.18090017",
+      "relation": "Related EPINOVA work on unmanned systems, C-UAS assessment, and auditable defense evaluation",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    "Acton, J. M. (2013). Reclaiming strategic stability. Carnegie Endowment for International Peace.",
+    "Cover, T. M., & Thomas, J. A. (2006). Elements of information theory (2nd ed.). Wiley.",
+    "Glaser, C. L. (1997). The security dilemma revisited. World Politics, 50(1), 171–201. https://doi.org/10.1017/S0043887100012843",
+    "Goldblat, J. (2002). Arms control: A guide to negotiations and agreements. SAGE Publications.",
+    "Hansen, E. A., Bernstein, D. S., & Zilberstein, S. (2004). Dynamic programming for partially observable stochastic games. In Proceedings of the AAAI Conference on Artificial Intelligence (pp. 709–715). AAAI Press.",
+    "Jervis, R. (1976). Perception and misperception in international politics. Princeton University Press.",
+    "Kaelbling, L. P., Littman, M. L., & Cassandra, A. R. (1998). Planning and acting in partially observable stochastic domains. Artificial Intelligence, 101(1–2), 99–134. https://doi.org/10.1016/S0004-3702(98)00023-X",
+    "Kroll, J. A., Huey, J., Barocas, S., Felten, E. W., Reidenberg, J. R., Robinson, D. G., & Yu, H. (2017). Accountable algorithms. University of Pennsylvania Law Review, 165(3), 633–705.",
+    "Osborne, M. J., & Rubinstein, A. (1994). A course in game theory. MIT Press.",
+    "Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 33–44). ACM. https://doi.org/10.1145/3351095.3372873",
+    "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
+    "Shapley, L. S. (1953). Stochastic games. Proceedings of the National Academy of Sciences, 39(10), 1095–1100. https://doi.org/10.1073/pnas.39.10.1095",
+    "Sims, C. A. (2003). Implications of rational inattention. Journal of Monetary Economics, 50(3), 665–690. https://doi.org/10.1016/S0304-3932(03)00029-1",
+    "Van Benthem, J. (2011). Logical dynamics of information and interaction. Cambridge University Press."
+  ],
+  "recommended_citation": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. EPINOVA. https://doi.org/10.5281/zenodo.18081107. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18081107. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2025), Permanent Presence under Uncertainty.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2025-12-29",
+    "pagination": "8 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper develops a formal analytical framework for unmanned systems, uncertainty management, and strategic stability; it does not prescribe operational deployment choices or provide tactical instructions.",
   "metadata_source": {
+    "source_file": "Permanent Presence under Uncertainty.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, formal POSG/CDF framework, formulas, conclusion, recommended citation, and references. Early metadata supplied DOI 10.5281/zenodo.18081107, ORCID put-code 201017438, and GitHub repository information."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18081107",
+    "crossref_doi_suffix": "epinova.wp.f.2025.006",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18081107",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "notes": "Zenodo/DataCite DOI provided by early ORCID-derived metadata and recommended citation in the PDF."
+  },
+  "orcid": {
+    "put_code": "201017438",
+    "source": "ORCID Public API",
+    "record_date": "2025-12-29"
   }
 }

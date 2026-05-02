@@ -1,0 +1,90 @@
+{
+  "epinova_id": "EPINOVA-ART-2025-permanent-presence-under-uncertainty",
+  "title": "Permanent Presence under Uncertainty:",
+  "full_title": "Permanent Presence under Uncertainty:",
+  "subtitle": "",
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "category": "articles",
+  "resource_type": "Text",
+  "publication_type": "Article",
+  "publication_date": "2025-12-29",
+  "version": "v1.0",
+  "status": "Archived from EPINOVA GoDaddy blog",
+  "language": "en",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "place": "Carrollton, Georgia, United States",
+  "doi": "To be assigned after Crossref registration",
+  "previous_doi": "",
+  "abstract": "A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+  "description": "A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability",
+  "keywords": [],
+  "subjects": [
+    "AI governance",
+    "Strategic systems analysis",
+    "Technology policy"
+  ],
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "copyright": "© 2025 EPINOVA LLC. All rights reserved.",
+  "recommended_citation": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty. DOI: To be assigned after Crossref membership approval.",
+  "original_page": "https://epinova.org/articles/f/permanent-presence-under-uncertainty",
+  "canonical_url": "",
+  "source_status": "archived_from_godaddy_blog_with_images",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Articles/2025-12-29_permanent-presence-under-uncertainty-a-partially-observable-game-theoretic-frame",
+  "official_page": "https://epinova.org/articles/f/permanent-presence-under-uncertainty",
+  "alternate_identifiers": [
+    {
+      "scheme": "URL",
+      "identifier": "https://epinova.org/articles/f/permanent-presence-under-uncertainty",
+      "description": "Original EPINOVA article page."
+    }
+  ],
+  "related_works": [],
+  "references": [],
+  "files": [
+    {
+      "filename": "article.html",
+      "content_type": "text/html",
+      "description": "Archived HTML copy of the original EPINOVA article, including locally preserved images."
+    },
+    {
+      "filename": "article.md",
+      "content_type": "text/markdown",
+      "description": "Markdown preservation copy of the article."
+    },
+    {
+      "filename": "article.txt",
+      "content_type": "text/plain",
+      "description": "Plain-text preservation copy of the article."
+    },
+    {
+      "filename": "assets/image-001.jpg",
+      "original_url": "https://img1.wsimg.com/isteam/stock/126960/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "content_type": "image/jpeg",
+      "description": "Locally archived image from the original EPINOVA article."
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "landing_page": "https://publications.epinova.org/epinova-art-2025-permanent-presence-under-uncertainty/",
+  "crossref": {
+    "crossref_url": "https://publications.epinova.org/epinova-art-2025-permanent-presence-under-uncertainty/",
+    "crossref_doi_suffix": "epinova.art.2025.permanent.presence.under.uncertainty",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2025-12-29",
+    "last_updated": "2026-05-01"
+  }
+}

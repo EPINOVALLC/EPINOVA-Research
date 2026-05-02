@@ -1,29 +1,390 @@
 {
-  "title": "Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance",
+  "epinova_id": "EPINOVA-PB-2026-040",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-040",
+  "title": "Dynamic Threshold Positioning in U.S.–China Competition",
+  "subtitle": "A Phase-Resolved Assessment of Structural Resilience and LoCT Distance",
   "title_normalized": "dynamic threshold positioning in u.s.-china competition: a phase-resolved assessment of structural resilience and loct distance",
-  "date": "2026-04-23",
-  "doi": "10.5281/ZENODO.19712135",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "212688561",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-23",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19712135",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19712135",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19712135",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "212688561",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–40",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Dynamic Threshold Positioning in U.S.–China Competition",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief applies an MCCM-based dynamic threshold positioning framework to U.S.–China competition, arguing that the decisive variable is not aggregate capability but each system’s distance from the loss-of-control threshold (LoCT) under sustained multi-domain pressure.",
+  "abstract": "This brief examines U.S.–China competition through the lens of dynamic threshold positioning, using an MCCM-based analytical framework. Rather than comparing aggregate power, it evaluates each system’s distance to the loss-of-control threshold (LoCT) under sustained multi-domain pressure. The analysis finds that the United States operates within a high-pressure, multi-theater configuration characterized by increasing systemic exposure and coupling, resulting in a progressive compression of LoCT distance. China, by contrast, maintains a lower-exposure, controlled configuration that preserves a more stable threshold buffer. The central implication is that strategic outcomes depend less on relative strength than on relative proximity to systemic breakdown. In this context, the decisive variable is not which actor advances faster, but which system approaches the threshold first.",
+  "keywords": [
+    "U.S.–China competition",
+    "dynamic threshold positioning",
+    "LoCT",
+    "loss-of-control threshold",
+    "MCCM",
+    "systemic resilience",
+    "structural resilience",
+    "threshold proximity",
+    "great-power competition",
+    "multi-domain pressure",
+    "systemic stress",
+    "transmission and coupling",
+    "adaptive capacity",
+    "high-pressure systemic equilibrium",
+    "HPSE",
+    "controlled exposure configuration",
+    "alliance coordination costs",
+    "cross-domain transmission",
+    "strategic risk",
+    "systemic fragility",
+    "threshold management",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "International relations",
+    "U.S.–China relations",
+    "Great-power competition",
+    "Security studies",
+    "Systems analysis",
+    "Risk governance",
+    "Escalation dynamics",
+    "Geopolitics",
+    "Threshold analysis",
+    "Conflict modeling",
+    "Policy analysis",
+    "AI-enabled strategic analysis",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-23",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-23",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-23",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-23",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40/Dynamic%20Threshold%20Positioning%20in%20U.S.%E2%80%93China%20Competition%20A%20Phase-Resolved%20Assessment%20of%20Structural%20Resilience%20and%20LoCT%20Distance.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-040",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, systemic escalation, information conflict, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "MCCM-Based Dynamic Threshold Positioning Framework",
+    "source_basis": "Conceptual Multi-Layer Coupled Complexity Model (MCCM) applied to U.S.–China competition and LoCT distance assessment",
+    "case_context": "U.S.–China strategic competition under sustained multi-domain pressure, multi-theater engagement, alliance coordination costs, and controlled exposure dynamics",
+    "core_problem": "Traditional metrics such as GDP, military expenditure, and technological output do not adequately capture systemic fragility, threshold proximity, or loss-of-control risk under sustained competitive pressure.",
+    "central_claims": [
+      "Threshold proximity rather than aggregate capability is the decisive variable in contemporary great-power competition.",
+      "The United States exhibits higher volatility and declining LoCT distance as a result of sustained multi-theater engagement and rising alliance coordination costs.",
+      "China maintains lower exposure and tighter internal control, resulting in greater short-term stability and a wider LoCT buffer.",
+      "High-pressure operation and controlled low-exposure management represent distinct strategic equilibria with different risk structures.",
+      "Latent stress accumulation within low-exposure systems may erode initial stability advantages over time."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "LoCT Distance",
+        "description": "Evaluates the relative buffer between a system’s current state and its loss-of-control threshold under sustained pressure."
+      },
+      {
+        "name": "Systemic Stress",
+        "description": "Captures the intensity of pressure across military, economic, political, alliance, and information domains."
+      },
+      {
+        "name": "Transmission and Coupling",
+        "description": "Assesses the extent to which shocks propagate across interconnected systems and domains."
+      },
+      {
+        "name": "Adaptive Capacity",
+        "description": "Evaluates whether a system can absorb, redistribute, and mitigate cumulative pressure before threshold compression becomes destabilizing."
+      },
+      {
+        "name": "Risk-Structure Comparison",
+        "description": "Compares volatility-driven dynamics in the U.S. configuration with accumulation-driven dynamics in the China configuration."
+      }
+    ],
+    "model_expression": "D_t ≈ f(S, T, A, Structure)",
+    "model_variables": [
+      {
+        "symbol": "D_t",
+        "name": "LoCT Distance",
+        "description": "Relative buffer between a system’s current state and the loss-of-control threshold."
+      },
+      {
+        "symbol": "S",
+        "name": "Systemic Stress",
+        "description": "Intensity of pressure across military, economic, political, and related domains."
+      },
+      {
+        "symbol": "T",
+        "name": "Transmission and Coupling",
+        "description": "Degree to which shocks propagate across interconnected domains and theaters."
+      },
+      {
+        "symbol": "A",
+        "name": "Adaptive Capacity",
+        "description": "Ability of the system to absorb, redistribute, and mitigate systemic pressure."
+      },
+      {
+        "symbol": "Structure",
+        "name": "System Configuration",
+        "description": "Institutional, alliance, geographic, and governance configuration shaping stress absorption and threshold behavior."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Systemic Stress",
+      "code": "S",
+      "description": "Intensity of pressure across military, economic, political, alliance, and information domains."
+    },
+    {
+      "name": "Transmission and Coupling",
+      "code": "T",
+      "description": "Extent to which shocks propagate across interconnected systems, domains, and theaters."
+    },
+    {
+      "name": "Adaptive Capacity",
+      "code": "A",
+      "description": "Ability of a system to absorb, redistribute, and mitigate pressures under sustained competition."
+    },
+    {
+      "name": "System Structure",
+      "code": "Structure",
+      "description": "The operating configuration that shapes stress distribution, threshold behavior, and resilience."
+    },
+    {
+      "name": "LoCT Distance",
+      "code": "D_t",
+      "description": "Relative buffer between current systemic state and the loss-of-control threshold."
+    }
+  ],
+  "key_findings": [
+    "Threshold proximity rather than aggregate capability is the decisive variable in contemporary U.S.–China competition.",
+    "The United States operates in a high-pressure systemic equilibrium characterized by sustained multi-theater engagement, higher volatility, and gradual LoCT distance compression.",
+    "China operates in a controlled exposure configuration that limits direct high-intensity involvement and preserves a wider short-term LoCT buffer.",
+    "The U.S. risk pattern is volatility-driven, shaped by oscillation, coupling, alliance friction, and shock amplification.",
+    "China’s risk pattern is accumulation-driven, with pressures concentrated and internalized in ways that may produce delayed nonlinear adjustment.",
+    "Strategic competition is asymmetric not only in capability but in the structure of systemic risk itself.",
+    "Maintaining distance from critical thresholds is more consequential than maximizing operational expansion under sustained pressure.",
+    "Apparent stability should not be equated with safety because latent vulnerabilities may emerge abruptly."
+  ],
+  "policy_recommendations": [
+    "Prioritize threshold management over expansion by maintaining distance from critical systemic thresholds.",
+    "Treat systemic coupling as a primary risk multiplier and manage cross-domain linkages alongside individual stressors.",
+    "Avoid equating stability with safety, especially in systems where latent stress accumulation may be concealed by low short-term volatility.",
+    "Assess strategic competition through dynamic resilience, adaptation, and LoCT distance rather than aggregate capability metrics alone."
+  ],
+  "related_works": [
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief developing the MCCM framework for systemic escalation assessment",
+      "type": "DOI"
+    },
+    {
+      "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+      "identifier": "10.5281/zenodo.19633889",
+      "relation": "Related EPINOVA policy brief applying MCCM to China’s structural exposure and threshold-coupling risk",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper developing the LoCT concept for networked conflict",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance, Policy Brief No. EPINOVA–2026–PB–40, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19712135. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Dynamic threshold positioning in U.S.–China competition: A phase-resolved assessment of structural resilience and LoCT distance (Policy Brief No. EPINOVA–2026–PB–40). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19712135. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Dynamic Threshold Positioning in U.S.–China Competition, EPINOVA–2026–PB–40.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-23",
+    "pagination": "5 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Dynamic LoCT Positioning in U.S.–China Competition (54-Day Observation Window)",
+      "page": 3,
+      "caption": "The central radar reports phase-averaged LoCT distance across five strategic stages, while the outer orbit tracks day-level trajectories. The U.S. trajectory reflects progressive threshold compression under sustained multi-theater pressure, whereas China maintains a comparatively stable LoCT distance consistent with a lower-exposure operating configuration.",
+      "source": "Author’s analysis based on the MCCM framework.",
+      "note": "This figure is conceptual and analytical. It is derived from structured assumptions regarding systemic stress, coupling intensity, and adaptive behavior, and does not represent a direct empirical measurement series."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Structural Comparison of U.S.–China Systemic Regimes",
+      "page": 4,
+      "caption": "Compares the United States and China across operating mode, stress profile, LoCT behavior, and risk structure, showing volatility-driven U.S. dynamics and accumulation-driven China dynamics.",
+      "source": "Author’s analysis based on the MCCM framework.",
+      "note": "LoCT = loss-of-control threshold. The figure summarizes contrasting systemic configurations described in Section 4."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Figure 2 / embedded comparison table",
+      "title": "Structural Comparison of U.S.–China Systemic Regimes",
+      "page": 4,
+      "description": "Visual table comparing U.S. and China systemic regimes by operating mode, stress profile, LoCT behavior, and risk structure.",
+      "columns": [
+        "Dimension",
+        "United States",
+        "China"
+      ],
+      "rows": [
+        {
+          "Dimension": "Operating Mode",
+          "United States": "High-pressure, outward-oriented; engaged across multiple theaters and domains with global reach and alliance commitments.",
+          "China": "Controlled, low-exposure; limits direct involvement and manages external engagement selectively."
+        },
+        {
+          "Dimension": "Stress Profile",
+          "United States": "Distributed across domains; stress spreads across military, economic, political, and alliance systems.",
+          "China": "Concentrated and internalized; stress is absorbed within internal systems and tightly managed."
+        },
+        {
+          "Dimension": "LoCT Behavior",
+          "United States": "Gradual compression over time; LoCT distance narrows steadily as stress and coupling intensify.",
+          "China": "Relative stability with wider buffer; LoCT distance remains more stable with a larger buffer."
+        },
+        {
+          "Dimension": "Risk Structure",
+          "United States": "Volatility-driven dynamics; higher volatility and oscillation increase risk of shock amplification and threshold compression.",
+          "China": "Accumulation-driven dynamics; risk builds gradually within the system and may emerge suddenly."
+        }
+      ],
+      "source": "Author’s analysis based on the MCCM framework."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual figure/table inspection, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, LoCT distance framework, MCCM model expression, U.S. and China trajectory analysis, policy implications, limitations, recommended citation, DOI, Figure 1, Figure 2, and disclaimer. Early metadata supplied DOI, ORCID put-code 212688561, GitHub PDF URL, repository folder, and repository URL. DOI 10.5281/zenodo.19712135 is used as the primary Zenodo/DataCite DOI."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19712135",
+    "crossref_doi_suffix": "epinova.pb.2026.040",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19712135",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "212688561",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-23"
   }
 }

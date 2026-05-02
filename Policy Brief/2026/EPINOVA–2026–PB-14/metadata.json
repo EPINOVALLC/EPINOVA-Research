@@ -1,29 +1,336 @@
 {
-  "title": "Post-Nodal Warfare: Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?",
+  "epinova_id": "EPINOVA-PB-2026-014",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-014",
+  "title": "Post-Nodal Warfare",
+  "subtitle": "Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?",
   "title_normalized": "post-nodal warfare: will distributed ai command replace human leadership in high-intensity conflict?",
-  "date": "2026-03-18",
-  "doi": "10.5281/zenodo.19104089",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "208929218",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-18",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19104090",
+  "previous_doi": "10.5281/zenodo.19104089",
+  "landing_page": "https://doi.org/10.5281/zenodo.19104090",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19104090",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19104089",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "208929218",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–14",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Post-Nodal Warfare Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Post-Nodal Warfare",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief introduces the concept of post-nodal warfare and examines how distributed AI command may transform high-intensity conflict by reducing reliance on singular leadership nodes while shifting vulnerability toward network continuity, data integrity, communications, compute infrastructure, energy supply, and system governability.",
+  "abstract": "Modern warfare is entering a phase in which the traditional logic of leadership targeting is being challenged by technological change. Improvements in ISR, precision strike, and AI-assisted targeting have made senior leaders and command centers more exposed than ever, while advances in distributed computing and AI-enabled coordination are making it possible to design command systems that do not depend on any single decision node. This policy brief defines post-nodal warfare as conflict in which command authority is distributed across interconnected systems rather than concentrated in identifiable leadership nodes. It argues that distributed AI command will not fully replace human leadership in the near term, but will fundamentally alter leadership from node-centric authority to system-level coordination, with major implications for resilience, systemic vulnerability, accountability, control, and escalation dynamics.",
+  "keywords": [
+    "Post-nodal warfare",
+    "Distributed AI command",
+    "AI-enabled warfare",
+    "Human-AI command",
+    "High-intensity conflict",
+    "Command and control",
+    "C2",
+    "C4ISR",
+    "Decapitation strategy",
+    "Leadership targeting",
+    "Distributed sensing",
+    "AI decision support",
+    "System resilience",
+    "Network continuity",
+    "Data integrity",
+    "Cybersecurity",
+    "Electromagnetic warfare",
+    "Compute infrastructure",
+    "Energy dependency",
+    "System governability",
+    "Auditability",
+    "Traceability",
+    "Human override",
+    "Escalation compression",
+    "Strategic stability",
+    "Information conflict",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI-enabled warfare",
+    "Strategic studies",
+    "Defense policy",
+    "Command and control",
+    "Military technology",
+    "Artificial intelligence governance",
+    "Security studies",
+    "Cybersecurity",
+    "Critical infrastructure",
+    "Systems resilience",
+    "Autonomous systems",
+    "Military ethics",
+    "Escalation risk",
+    "Information conflict"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-18",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-18",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-18",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Post-Nodal Warfare Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-14/Post-Nodal%20Warfare%20Will%20Distributed%20AI%20Command%20Replace%20Human%20Leadership%20in%20High-Intensity%20Conflict.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 5
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-14",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-14",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-014",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Post-Nodal Warfare and Distributed AI Command Assessment Framework",
+    "source_basis": "Conceptual policy analysis based on trends in ISR, precision strike, AI-assisted targeting, distributed computing, resilient communications, cybersecurity, and command-system design.",
+    "case_context": "High-intensity conflict, leadership targeting, distributed command architectures, AI-enabled decision support, and future military command resilience.",
+    "core_problem": "Traditional leadership decapitation logic assumes that command authority is concentrated in identifiable nodes; distributed AI command architectures may reduce singular node dependency while creating new systemic vulnerabilities across data, network, compute, energy, and governance layers.",
+    "central_claims": [
+      "Decapitation strategies are becoming structurally less decisive as distributed sensing, AI-enabled coordination, and resilient communications reduce reliance on singular leadership nodes.",
+      "Distributed AI command systems will not eliminate human leadership but will transform it from node-centric authority to system-level coordination.",
+      "Command resilience will increasingly depend on network continuity, data integrity, communications, compute infrastructure, and energy supply rather than leader survivability alone.",
+      "Vulnerability is shifting from people to systems, elevating the strategic importance of cyber, electromagnetic, informational, and infrastructure disruption.",
+      "Escalation risks may increase as distributed machine-assisted decision processes compress timelines, diffuse accountability, and transform control."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Declining Decisiveness of Decapitation",
+        "description": "Assesses how increased targetability, faster precision strike, and operational complexity weaken the assumption that removing leadership nodes produces systemic collapse."
+      },
+      {
+        "name": "Node-Centric to Post-Nodal Command",
+        "description": "Examines the transition from identifiable leadership and headquarters nodes toward distributed networks of human and machine agents."
+      },
+      {
+        "name": "Distributed AI Command Advantages",
+        "description": "Evaluates resilience to decapitation, machine-speed processing, parallel coordination, and scalable command across dispersed forces."
+      },
+      {
+        "name": "Systemic Vulnerability Shift",
+        "description": "Identifies how cyber penetration, data poisoning, communications fragility, compute-energy dependency, and alignment risks become central vulnerabilities."
+      },
+      {
+        "name": "Control and Escalation Governance",
+        "description": "Analyzes control dilution, opacity, attribution gaps, escalation compression, and adversarial manipulation in distributed AI command systems."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Leadership Node Dependency",
+      "code": "LND",
+      "description": "Degree to which command effectiveness depends on identifiable leaders, headquarters, or singular decision nodes."
+    },
+    {
+      "name": "Distributed Sensing and Data Fusion",
+      "code": "DSDF",
+      "description": "Extent to which ISR, sensor data, and battlefield information are distributed, fused, and made available across command layers."
+    },
+    {
+      "name": "AI-Enabled Decision Support",
+      "code": "AI-DS",
+      "description": "Use of AI systems to support planning, prioritization, coordination, and operational decision-making."
+    },
+    {
+      "name": "Network Continuity and Communications Resilience",
+      "code": "NCCR",
+      "description": "Ability of command networks to preserve connectivity through redundant, anti-jam, and multi-path communications under disruption."
+    },
+    {
+      "name": "Data Integrity and Adversarial Robustness",
+      "code": "DIAR",
+      "description": "Ability to protect command systems against spoofing, data poisoning, model manipulation, selective denial, and adversarial inputs."
+    },
+    {
+      "name": "Compute and Energy Survivability",
+      "code": "CES",
+      "description": "Resilience of compute infrastructure, edge processing capacity, data centers, power supply, and related logistics under attack or disruption."
+    },
+    {
+      "name": "System Governability",
+      "code": "SG",
+      "description": "Presence of auditability, traceability, override capacity, and operational constraint frameworks in distributed AI command architectures."
+    },
+    {
+      "name": "Escalation Compression Risk",
+      "code": "ECR",
+      "description": "Risk that accelerated, distributed, machine-assisted decision cycles reduce strategic pause and aggregate into unintended escalation."
+    }
+  ],
+  "key_findings": [
+    "Decapitation strategies are becoming less decisive because distributed sensing, resilient communications, and AI-enabled coordination reduce dependence on singular command nodes.",
+    "Distributed AI command will not eliminate human leadership in the near term, but it will transform leadership from direct node-centric command to system-level coordination and constraint-setting.",
+    "Command resilience will increasingly depend on continuity of sensing, communications, compute, energy, data integrity, and network cohesion rather than leader survivability alone.",
+    "Vulnerability is shifting from identifiable leaders to complex interdependent systems, especially cyber networks, data pipelines, communications infrastructure, compute assets, and energy supply.",
+    "System-level disruption may become more strategically valuable than leadership targeting as post-nodal command architectures mature.",
+    "Distributed AI command creates governance risks including control dilution, opacity, attribution gaps, escalation compression, and adversarial manipulation of decision processes.",
+    "Future command architectures should preserve human strategic authority while allowing AI-assisted planning, coordination, and constrained execution at operational and tactical levels.",
+    "Cyber compromise in post-nodal warfare should be treated as command compromise rather than a supporting-domain risk."
+  ],
+  "policy_recommendations": [
+    "Prioritize command system resilience across sensing, communications, compute, and energy layers.",
+    "Develop hybrid human-AI command models that preserve human-led strategic decision authority while integrating AI support at operational and tactical levels.",
+    "Embed governability into distributed command systems through auditability, traceability, override capacity, and predefined operational constraints.",
+    "Integrate cybersecurity as a core command function rather than a supporting technical domain.",
+    "Reframe targeting and deterrence strategies around system-critical functions, interdependencies, degradation thresholds, and systemic cost imposition rather than individual leadership loss alone."
+  ],
+  "related_works": [
+    {
+      "title": "When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic",
+      "identifier": "10.5281/zenodo.18252768",
+      "relation": "Related EPINOVA working paper on decapitation logic and AI-delegated execution.",
+      "type": "DOI"
+    },
+    {
+      "title": "Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA",
+      "identifier": "10.5281/zenodo.18089642",
+      "relation": "Related EPINOVA work on AI-enabled warfare and decision-cycle compression.",
+      "type": "DOI"
+    },
+    {
+      "title": "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective",
+      "identifier": "10.5281/zenodo.18088850",
+      "relation": "Related EPINOVA work on human role transformation under algorithmic warfare.",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Post-Nodal Warfare: Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict?, Policy Brief No. EPINOVA–2026–PB–14, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19104090. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict? (Policy Brief No. EPINOVA–2026–PB–14). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19104090. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Post-Nodal Warfare, EPINOVA–2026–PB–14.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-18",
+    "pagination": "5 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Post-Nodal Warfare Will Distributed AI Command Replace Human Leadership in High-Intensity Conflict.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, post-nodal warfare definition, sections on declining decisiveness of decapitation, distributed AI command, systemic vulnerabilities, control and escalation risks, policy implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19104089, ORCID put-code 208929218, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19104090 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19104090",
+    "crossref_doi_suffix": "epinova.pb.2026.014",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19104090",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "208929218",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-18"
   }
 }

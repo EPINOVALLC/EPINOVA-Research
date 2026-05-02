@@ -11,471 +11,59 @@
   <meta property="og:site_name" content="EPINOVA Publications">
 
   <style>
-:root {
-  --text: #202020;
-  --muted: #666;
-  --border: #d9d9d9;
-  --soft: #f7f7f7;
-  --soft2: #fbfbfb;
-  --link: #0b5cad;
-  --dark: #050505;
-  --dark2: #111;
-  --green: #2f7d32;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  background: #fff;
-}
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--text);
-  background: #fff;
-  line-height: 1.55;
-}
-
-a {
-  color: var(--link);
-  overflow-wrap: anywhere;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.topbar {
-  background: var(--dark);
-  color: #fff;
-  border-bottom: 1px solid #222;
-}
-
-.topbar-inner {
-  max-width: 1180px;
-  min-height: 96px;
-  margin: 0 auto;
-  padding: 12px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.logo-only-header {
-  justify-content: center;
-}
-
-.brand-logo-wrap {
-  width: 620px;
-  height: 88px;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.brand-logo {
-  width: 560px;
-  height: auto;
-  max-height: none;
-  object-fit: contain;
-  display: block;
-  transform: translateX(-18px) scale(1.05);
-  transform-origin: center center;
-}
-
-.publication-nav-bar {
-  width: 100%;
-  background: #f4f4f4;
-  border-top: 1px solid #d6d6d6;
-  border-bottom: 1px solid #d6d6d6;
-}
-
-.publication-nav {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 11px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 34px;
-}
-
-.publication-nav a {
-  color: #222222;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
-}
-
-.publication-nav a:hover {
-  color: #0b5cad;
-  text-decoration: none;
-}
-
-.container {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 32px 24px 48px;
-}
-
-.record-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 340px;
-  gap: 34px;
-  align-items: start;
-}
-
-.record-main {
-  min-width: 0;
-}
-
-.record-sidebar {
-  min-width: 0;
-}
-
-.record-info-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 18px;
-  align-items: center;
-  margin-bottom: 20px;
-  color: var(--muted);
-  font-size: 14px;
-}
-
-.label-group {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-
-.label {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  border: 1px solid var(--border);
-  background: #f1f1f1;
-  border-radius: 4px;
-  padding: 4px 8px;
-  font-size: 12px;
-  color: #333;
-}
-
-.label-open {
-  color: var(--green);
-  border-color: #b6d7b9;
-  background: #f5fbf5;
-}
-
-h1 {
-  font-size: 34px;
-  line-height: 1.22;
-  margin: 0 0 16px;
-  font-weight: 700;
-}
-
-h2 {
-  font-size: 22px;
-  line-height: 1.3;
-  margin: 32px 0 12px;
-}
-
-h3 {
-  font-size: 17px;
-  margin: 0 0 10px;
-}
-
-.record-section {
-  margin-top: 28px;
-}
-
-.creators {
-  margin-bottom: 22px;
-}
-
-.plain-list {
-  padding-left: 20px;
-}
-
-.muted {
-  color: var(--muted);
-}
-
-.rich-text {
-  word-wrap: break-word;
-  overflow-wrap: anywhere;
-}
-
-.panel {
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: #fff;
-  margin-top: 14px;
-  overflow: hidden;
-}
-
-.panel-heading {
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-  padding: 10px 14px;
-  font-weight: 700;
-}
-
-.file-preview {
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: #fff;
-  overflow: hidden;
-  margin: 14px 0;
-}
-
-.file-preview-title {
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-  padding: 10px 14px;
-  font-weight: 700;
-}
-
-.file-preview iframe {
-  width: 100%;
-  height: 620px;
-  border: 0;
-  background: #eee;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 14px;
-}
-
-th, td {
-  border-top: 1px solid var(--border);
-  padding: 9px 10px;
-  text-align: left;
-  vertical-align: top;
-}
-
-thead th {
-  background: var(--soft);
-  border-top: 0;
-}
-
-.file-table td.right {
-  text-align: right;
-  white-space: nowrap;
-}
-
-.button {
-  display: inline-block;
-  border: 1px solid #777;
-  border-radius: 4px;
-  padding: 7px 11px;
-  color: #111;
-  background: #fff;
-  text-decoration: none;
-}
-
-.button:hover {
-  border-color: #111;
-  text-decoration: none;
-}
-
-.button.small {
-  padding: 4px 8px;
-  font-size: 13px;
-}
-
-.sidebar-box {
-  border: 1px solid var(--border);
-  background: #fff;
-  border-radius: 4px;
-  margin-bottom: 18px;
-  overflow: hidden;
-}
-
-.sidebar-box h2 {
-  margin: 0;
-  font-size: 17px;
-  padding: 12px 14px;
-  background: var(--soft);
-  border-bottom: 1px solid var(--border);
-}
-
-.details-list {
-  margin: 0;
-  padding: 14px;
-}
-
-.details-list dt {
-  font-size: 12px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-top: 12px;
-  font-weight: 700;
-}
-
-.details-list dt:first-child {
-  margin-top: 0;
-}
-
-.details-list dd {
-  margin: 4px 0 0;
-  overflow-wrap: anywhere;
-}
-
-.sidebar-links {
-  margin: 0;
-  padding: 14px 14px 14px 32px;
-}
-
-.citation-text {
-  margin: 0;
-  padding: 14px;
-  font-size: 14px;
-  overflow-wrap: anywhere;
-}
-
-.references li {
-  margin-bottom: 8px;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
-  margin-top: 24px;
-}
-
-.card {
-  display: block;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 18px;
-  color: var(--text);
-  background: #fff;
-}
-
-.card:hover {
-  border-color: #111;
-  text-decoration: none;
-}
-
-.latest-list li,
-.category-list li {
-  margin-bottom: 10px;
-}
-
-.footer {
-  background: var(--dark);
-  color: #ccc;
-  margin-top: 48px;
-}
-
-.footer-inner {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 28px 24px;
-  display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
-  gap: 24px;
-  font-size: 14px;
-}
-
-.footer h2 {
-  color: #fff;
-  border: 0;
-  padding: 0;
-  margin: 0 0 10px;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.footer a {
-  color: #fff;
-}
-
-.footer-bottom {
-  border-top: 1px solid #222;
-  padding-top: 14px;
-  margin-top: 14px;
-  grid-column: 1 / -1;
-  color: #aaa;
-  font-size: 13px;
-}
-
-.small {
-  font-size: 13px;
-}
-
-@media (max-width: 900px) {
-  .record-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .topbar-inner {
-    max-width: 1180px;
-    min-height: 108px;
-    margin: 0 auto;
-    padding: 10px 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .logo-only-header {
-    justify-content: center;
-  }
-
-  .brand-logo-wrap {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: visible;
-  }
-
-  .brand-logo {
-    width: min(400px, 92vw);
-    height: auto;
-    max-height: 62px;
-    transform: none;
-  }
-
-  .publication-nav {
-    flex-wrap: wrap;
-    gap: 10px 20px;
-    padding: 10px 16px;
-  }
-
-  .publication-nav a {
-    font-size: 12px;
-    letter-spacing: 0.04em;
-  }
-
-  h1 {
-    font-size: 28px;
-  }
-
-  .file-preview iframe {
-    height: 460px;
-  }
-
-  .footer-inner {
-    grid-template-columns: 1fr;
-  }
-}
+:root { --text:#202020; --muted:#666; --border:#d9d9d9; --soft:#f7f7f7; --link:#0b5cad; --dark:#050505; --green:#2f7d32; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--text); background:#fff; line-height:1.55; }
+a { color:var(--link); overflow-wrap:anywhere; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.topbar { background:var(--dark); color:#fff; border-bottom:1px solid #222; }
+.topbar-inner { max-width:1180px; min-height:160px; margin:0 auto; padding:12px 24px; display:flex; align-items:center; justify-content:center; }
+.brand-logo-wrap { width:620px; height:100px; overflow:hidden; display:flex; align-items:center; justify-content:center; }
+.brand-logo { width:560px; height:auto; object-fit:contain; display:block; transform:translateX(-18px) scale(1.05); transform-origin:center center; }
+.publication-nav-bar { width:100%; background:#f4f4f4; border-top:1px solid #d6d6d6; border-bottom:1px solid #d6d6d6; }
+.publication-nav { max-width:1180px; margin:0 auto; padding:11px 24px; display:flex; align-items:center; justify-content:center; gap:34px; flex-wrap:wrap; }
+.publication-nav a { color:#222; font-size:13px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; white-space:nowrap; }
+.container { max-width:1180px; margin:0 auto; padding:32px 24px 48px; }
+.record-grid { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:34px; align-items:start; }
+.record-info-row { display:flex; justify-content:space-between; gap:18px; align-items:center; margin-bottom:20px; color:var(--muted); font-size:14px; }
+.label-group { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+.label { display:inline-flex; border:1px solid var(--border); background:#f1f1f1; border-radius:4px; padding:4px 8px; font-size:12px; color:#333; }
+.label-open { color:var(--green); border-color:#b6d7b9; background:#f5fbf5; }
+h1 { font-size:34px; line-height:1.22; margin:0 0 16px; font-weight:700; }
+h2 { font-size:22px; line-height:1.3; margin:32px 0 12px; }
+h3 { font-size:17px; margin:0 0 10px; }
+.record-section { margin-top:28px; }
+.plain-list { padding-left:20px; }
+.muted { color:var(--muted); }
+.panel, .file-preview, .sidebar-box { border:1px solid var(--border); border-radius:4px; background:#fff; overflow:hidden; margin-top:14px; }
+.panel-heading, .file-preview-title, .sidebar-box h2 { background:var(--soft); border-bottom:1px solid var(--border); padding:10px 14px; font-weight:700; }
+.file-preview iframe { width:100%; height:620px; border:0; background:#eee; }
+table { width:100%; border-collapse:collapse; font-size:14px; }
+th, td { border-top:1px solid var(--border); padding:9px 10px; text-align:left; vertical-align:top; }
+thead th { background:var(--soft); border-top:0; }
+.file-table td.right { text-align:right; white-space:nowrap; }
+.button { display:inline-block; border:1px solid #777; border-radius:4px; padding:7px 11px; color:#111; background:#fff; }
+.button.small { padding:4px 8px; font-size:13px; }
+.sidebar-box { margin-bottom:18px; }
+.sidebar-box h2 { margin:0; font-size:17px; }
+.details-list { margin:0; padding:14px; }
+.details-list dt { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; margin-top:12px; font-weight:700; }
+.details-list dt:first-child { margin-top:0; }
+.details-list dd { margin:4px 0 0; overflow-wrap:anywhere; }
+.sidebar-links { margin:0; padding:14px 14px 14px 32px; }
+.citation-text { margin:0; padding:14px; font-size:14px; overflow-wrap:anywhere; }
+.references li, .latest-list li, .category-list li { margin-bottom:10px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin-top:24px; }
+.card { display:block; border:1px solid var(--border); border-radius:6px; padding:18px; color:var(--text); background:#fff; }
+.latest-category-block, .year-block { margin-top:22px; }
+.subcategory-block { margin-top:34px; }
+.subcategory-block h2 { font-size:21px; margin:0 0 16px; padding-bottom:6px; border-bottom:1px solid var(--border); }
+.footer { background:var(--dark); color:#ccc; margin-top:48px; }
+.footer-inner { max-width:1180px; margin:0 auto; padding:28px 24px; display:grid; grid-template-columns:1.5fr 1fr 1fr; gap:24px; font-size:14px; }
+.footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
+.footer a { color:#fff; }
+.footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
+@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
 </style>
 
 </head>
@@ -483,75 +71,29 @@ thead th {
 
 <header class="topbar">
   <div class="topbar-inner logo-only-header">
-    <div class="brand-logo-wrap">
-      <img
-        class="brand-logo"
-        src="/assets/global-ai-governance-logo.png"
-        alt="Global AI Governance and Policy Research Center, EPINOVA LLC"
-      >
-    </div>
+    <div class="brand-logo-wrap"><img class="brand-logo" src="/assets/global-ai-governance-logo.png" alt="Global AI Governance and Policy Research Center, EPINOVA LLC"></div>
   </div>
 </header>
-
 <div class="publication-nav-bar">
   <nav class="publication-nav" aria-label="Publication navigation">
     <a href="/">Publications</a>
+    <a href="/articles/">Articles</a>
     <a href="/policy-briefs/">Policy Briefs</a>
     <a href="/working-papers/">Working Papers</a>
-    <a href="/reports/">Reports</a>
     <a href="/white-books/">White Books</a>
+    <a href="/research-reports/">Research Reports</a>
     <a href="https://epinova.org">EPINOVA</a>
   </nav>
 </div>
 
-
-<main class="container">
-  <p><a href="/">← EPINOVA Publications</a></p>
-  <h1>White Books</h1>
-  <p class="muted">2 publications</p>
-
-  <ul class="category-list">
-    
-<li>
-  <strong></strong> —
-  <a href="/survivor-governance-risk-index-sgri-conceptual-and-methodological-white-book/">Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book</a>
-  <br>
-  <span class="muted"> · </span>
-</li>
-
-<li>
-  <strong></strong> —
-  <a href="/ai-strategic-node-framework-ai-snf-conceptual-and-methodological-white-book/">AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book</a>
-  <br>
-  <span class="muted"> · </span>
-</li>
-
-  </ul>
-</main>
-
+<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>White Books</h1><p class='muted'>2 publications</p><div class='year-block'><h2>2026</h2><ul class='category-list'><li><strong>EPINOVA-IWB-2026-01</strong> — <a href='/epinova-iwb-2026-01/'>AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book: Version 0.1 Foundational Release</a><br><span class='muted'>White Book · 2026-01-31</span></li></ul></div><div class='year-block'><h2>2025</h2><ul class='category-list'><li><strong>EPINOVA-IWP-2025-001</strong> — <a href='/epinova-iwp-2025-001/'>Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book: Version 0.1 Foundational Release</a><br><span class='muted'>White Book · 2025-12-31</span></li></ul></div></main>
 
 <footer class="footer">
   <div class="footer-inner">
-    <div>
-      <h2>About</h2>
-      <p>Global AI Governance and Policy Research Center publishes structured open-access research outputs through EPINOVA LLC.</p>
-    </div>
-    <div>
-      <h2>Publications</h2>
-      <p><a href="/">Publication index</a><br>
-      <a href="/policy-briefs/">Policy Briefs</a><br>
-      <a href="/working-papers/">Working Papers</a><br>
-      <a href="/reports/">Reports</a><br>
-      <a href="/white-books/">White Books</a></p>
-    </div>
-    <div>
-      <h2>Links</h2>
-      <p><a href="https://epinova.org">EPINOVA main site</a><br>
-      <a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p>
-    </div>
-    <div class="footer-bottom">
-      Generated on 2026-04-29 from EPINOVA metadata records.
-    </div>
+    <div><h2>About</h2><p>Global AI Governance and Policy Research Center publishes structured open-access research outputs through EPINOVA LLC.</p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-books/">White Books</a></p></div>
+    <div><h2>Links</h2><p><a href="https://epinova.org">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
+    <div class="footer-bottom">Generated on 2026-05-01 from EPINOVA metadata records and archived Articles.</div>
   </div>
 </footer>
 

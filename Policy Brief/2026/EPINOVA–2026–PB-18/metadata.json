@@ -1,29 +1,325 @@
 {
-  "title": "Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China's Signaling System",
-  "title_normalized": "control vs. amplification: information system divergence in the u.s.-israel-iran conflict evidence from china's signaling system",
-  "date": "2026-03-26",
-  "doi": "10.5281/ZENODO.19238746",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "209815762",
-  "source": "ORCID Public API",
+  "epinova_id": "EPINOVA-PB-2026-018",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-018",
+  "title": "Control vs. Amplification",
+  "subtitle": "Information System Divergence in the U.S.–Israel–Iran Conflict: Evidence from China’s Signaling System",
+  "title_normalized": "control vs. amplification: information system divergence in the u.s.-israel-iran conflict: evidence from china's signaling system",
+  "publication_date": "2026-03-26",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19238746",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19238746",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19238746",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation and early ORCID-derived metadata"
+    },
+    {
+      "identifier": "209815762",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–18",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Control vs. Amplification Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Control vs. Amplification",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief develops an Amplification–Accumulation Divergence framework (AADF) to analyze information-system divergence in the U.S.–Israel–Iran conflict. Using China’s signaling system as the controlled-signaling case and external information environments as decentralized amplification systems, it argues that information instability is driven primarily by event amplification rather than by baseline narrative intensity.",
+  "abstract": "The U.S.–Israel–Iran conflict has produced not only military escalation, but also a structural divergence in how information is generated, transmitted, and amplified across different systems. This policy brief proposes an Amplification–Accumulation Divergence framework (AADF) to explain how information systems generate path-dependent divergence under asymmetric amplification dynamics. The analysis examines China’s information signaling system through a computational framework based on a baseline–event dual-layer model, operationalized using the Signaling Pressure Index (SPI) and the Event Amplification Ratio (EAR). The brief finds that China maintains a stable baseline narrative with controlled release patterns, whereas external information systems are dominated by event-driven amplification spikes linked to battlefield developments, economic disruptions, and political signaling. Divergence arises less from narrative volume than from amplification dynamics, especially when event-driven amplification temporarily exceeds baseline absorption capacity.",
+  "keywords": [
+    "information conflict",
+    "information system divergence",
+    "amplification dynamics",
+    "Amplification–Accumulation Divergence framework",
+    "AADF",
+    "Signaling Pressure Index",
+    "SPI",
+    "Event Amplification Ratio",
+    "EAR",
+    "baseline signaling",
+    "event-driven amplification",
+    "China signaling system",
+    "controlled signaling regime",
+    "decentralized amplification market",
+    "U.S.–Israel–Iran conflict",
+    "narrative stability",
+    "information escalation",
+    "amplification control",
+    "system absorption capacity",
+    "nonlinear escalation",
+    "strategic communication",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Information conflict",
+    "Strategic communication",
+    "Information systems",
+    "Conflict analysis",
+    "U.S.–Israel–Iran conflict",
+    "China studies",
+    "Media amplification",
+    "Narrative dynamics",
+    "Systems analysis",
+    "Geopolitics",
+    "Strategic competition",
+    "Policy analysis",
+    "Risk governance",
+    "Information escalation",
+    "Network effects"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-26",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-26",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-26",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Control vs. Amplification Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-18/Control%20vs.%20Amplification%20Information%20System%20Divergence%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20Evidence%20from%20China%E2%80%99s%20Signaling%20System.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-18",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-18",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-018",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, global security governance, and information conflict into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Amplification–Accumulation Divergence Framework (AADF)",
+    "source_basis": "Policy-facing computational and conceptual analysis based on a baseline–event dual-layer information model operationalized through the Signaling Pressure Index (SPI) and Event Amplification Ratio (EAR).",
+    "case_context": "Information-system divergence during the U.S.–Israel–Iran conflict, with China’s signaling system treated as a controlled-signaling regime and external information environments treated as decentralized amplification systems.",
+    "core_problem": "Conventional narrative comparison does not adequately explain why information systems diverge during high-intensity conflict. The central problem is how baseline-controlled signaling systems and event-driven amplification systems process shocks differently and generate nonlinear divergence.",
+    "central_claims": [
+      "China operates a baseline-controlled information signaling system characterized by stability, delayed responsiveness, and low amplification volatility.",
+      "External information environments function as decentralized, event-driven amplification systems that produce rapid and high-intensity signaling spikes.",
+      "Divergence between the two systems is structural rather than narrative, emerging from differences in information dynamics rather than content alone.",
+      "Information instability is driven primarily by event amplification rather than by variations in baseline narrative intensity.",
+      "The interaction between baseline control and event amplification produces a dual-layer signaling structure with nonlinear escalation patterns.",
+      "The central systemic risk lies not in narrative competition itself, but in the loss of amplification control during high-intensity events."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Baseline–Event Dual-Layer Model",
+        "description": "Separates continuous baseline signaling from discrete event-driven amplification spikes in order to identify the source of information pressure."
+      },
+      {
+        "name": "Amplification–Accumulation Divergence",
+        "description": "Explains divergence as a path-dependent process in which repeated amplification spikes exceed absorption capacity and create residual shifts across engagement cycles."
+      },
+      {
+        "name": "Control vs. Amplification System Logic",
+        "description": "Contrasts controlled signaling regimes with decentralized amplification markets to explain differences in stability, responsiveness, volatility, and escalation risk."
+      },
+      {
+        "name": "Threshold and Absorption Capacity",
+        "description": "Treats EAR greater than 1 as a potential threshold condition in which event-driven amplification exceeds baseline signaling capacity."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Baseline Signaling",
+      "code": "Baseline",
+      "description": "Stable, continuous narrative production associated with official discourse, policy positioning, and long-cycle communication strategies."
+    },
+    {
+      "name": "Event-Driven Amplification",
+      "code": "Event",
+      "description": "Short-term amplification spikes triggered by discrete developments such as military strikes, political statements, economic disruptions, and other high-intensity events."
+    },
+    {
+      "name": "Signaling Pressure Index",
+      "code": "SPI",
+      "description": "Measures total information intensity as the sum of baseline signaling and event-driven amplification: SPI = Baseline + Event."
+    },
+    {
+      "name": "Event Amplification Ratio",
+      "code": "EAR",
+      "description": "Captures the relative weight of event-driven spikes compared with baseline signaling: EAR = Event / Baseline. EAR greater than 1 indicates that amplification exceeds baseline signaling capacity."
+    },
+    {
+      "name": "System Absorption Capacity",
+      "code": "SAC",
+      "description": "Represents a threshold condition under which the system can absorb event-driven amplification without entering a divergence or regime-shift pattern."
+    }
+  ],
+  "key_findings": [
+    "China operates a baseline-controlled information signaling system characterized by stability, delayed responsiveness, and low amplification volatility.",
+    "External information environments operate as decentralized, event-driven amplification systems that generate rapid and high-intensity signaling spikes.",
+    "Divergence between China’s signaling system and external information systems is structural rather than merely narrative.",
+    "Information instability is driven primarily by event amplification rather than by ordinary variation in baseline narrative intensity.",
+    "The baseline–event interaction produces a dual-layer signaling structure with nonlinear escalation patterns.",
+    "Maximum divergence occurs when amplification becomes disproportionate relative to baseline stability, not necessarily when narratives are strongest.",
+    "Repeated amplification cycles may produce path-dependent divergence when event amplification exceeds system absorption capacity and leaves residual shifts across cycles.",
+    "The central systemic risk lies in the loss of amplification control during high-intensity events."
+  ],
+  "policy_recommendations": [
+    "Shift analysis of information competition from narrative-volume comparison toward amplification-dynamics assessment.",
+    "Monitor event-driven amplification indicators, including SPI and EAR, during high-intensity conflict events.",
+    "Assess whether amplification spikes exceed system absorption capacity and create threshold conditions for information divergence.",
+    "Differentiate between controlled signaling regimes and decentralized amplification markets when evaluating information escalation risks.",
+    "Treat amplification control, rather than narrative production alone, as a central variable in modern information competition."
+  ],
+  "related_works": [
+    {
+      "title": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War",
+      "identifier": "10.5281/zenodo.18904462",
+      "relation": "Related EPINOVA policy brief on narrative performance and communication dynamics during the same conflict",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief providing conflict context for the information-system analysis",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+      "identifier": "10.5281/zenodo.18869404",
+      "relation": "Related EPINOVA policy brief on escalation dynamics in the broader conflict sequence",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System, Policy Brief No. EPINOVA–2026–PB–18, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19238746. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Control vs. amplification: Information system divergence in the U.S.–Israel–Iran conflict: Evidence from China’s signaling system (Policy Brief No. EPINOVA–2026–PB–18). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19238746. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Control vs. Amplification, EPINOVA–2026–PB–18.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-26",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Two-Layer Information Structure: Main Narrative vs. Event Spikes",
+      "page": 3,
+      "description": "Line chart comparing baseline narrative intensity with event-driven amplification signals for Feb 28–Mar 23, 2026, China; the solid line represents baseline narrative intensity and the dashed line represents event spikes."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Amplification–Accumulation Divergence Mechanism",
+      "page": 4,
+      "description": "Mechanism diagram showing how amplification spikes can exceed system absorption capacity, trigger divergence initiation, generate cumulative cost–risk divergence, and carry residual shifts into subsequent engagement cycles."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Structural Comparison of Information Signaling Systems",
+      "page": 5,
+      "description": "Compares China as a controlled signaling regime with external systems as decentralized amplification markets across dimensions including core structure, baseline stability, amplification volatility, event responsiveness, release pattern, coherence, drivers, objectives, triggers, and risk profile."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Control vs. Amplification Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, rendered figure/table review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, AADF framework, SPI and EAR formulas, figures, table, strategic implications, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 209815762, GitHub PDF URL, repository folder, repository URL, and DOI in uppercase Zenodo form; DOI was normalized to lowercase as 10.5281/zenodo.19238746. The PDF is treated as the primary source for bibliographic and content fields, while the early ORCID-derived metadata is retained for repository and identifier reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated in the PDF or early metadata; the DOI is treated as a Zenodo/DataCite DOI.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19238746",
+    "crossref_doi_suffix": "epinova.pb.2026.018",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19238746",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF recommended citation and early ORCID-derived metadata."
+  },
+  "orcid": {
+    "put_code": "209815762",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-26"
   }
 }

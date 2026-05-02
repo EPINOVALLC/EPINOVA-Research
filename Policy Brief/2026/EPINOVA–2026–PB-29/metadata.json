@@ -1,29 +1,463 @@
 {
-  "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+  "epinova_id": "EPINOVA-PB-2026-029",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-029",
+  "title": "From Cost Monitoring to Systemic Escalation Assessment",
+  "subtitle": "The MCCM v2.0+ Framework",
   "title_normalized": "from cost monitoring to systemic escalation assessment: the mccm v2.0+ framework",
-  "date": "2026-04-13",
-  "doi": "10.5281/ZENODO.19550886",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211513484",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-13",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19550886",
+  "previous_doi": "",
+  "landing_page": "https://doi.org/10.5281/zenodo.19550886",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19550886",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/ZENODO.19550886",
+      "scheme": "DOI",
+      "description": "Uppercase DOI form from early ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211513484",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–29",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Cost Monitoring to Systemic Escalation Assessment The MCCM v2.0+ Framework.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "MCCM v2.0+ Framework",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief introduces the MCCM v2.0+ framework as a structured model for moving from cost-based conflict monitoring to systemic escalation assessment. It reframes escalation as a multi-layered, networked process shaped by transmission mechanisms, system coupling, threshold dynamics, uncertainty, and normative coherence.",
+  "abstract": "This policy brief introduces the MCCM v2.0+ framework, a structured analytical model designed to move beyond cost-based conflict monitoring toward systemic escalation assessment. While traditional approaches focus on direct expenditures and battlefield outcomes, MCCM v2.0+ conceptualizes escalation as a multi-layered, networked process shaped by interactions across military, informational, economic, and political domains. The framework operationalizes escalation dynamics through a 23-variable system organized into six functional layers, capturing how pressures accumulate, propagate, and interact across the system. It enables identification of escalation trajectories, structural vulnerabilities, and proximity to loss-of-control thresholds. MCCM v2.0+ is not a deterministic predictive model; rather, it provides a structured lens for interpreting escalation risk, supporting scenario analysis, and enabling early warning under conditions of uncertainty.",
+  "keywords": [
+    "MCCM",
+    "MCCM v2.0+",
+    "Middle East Conflict Cost Monitor",
+    "Systemic escalation assessment",
+    "Conflict monitoring",
+    "Escalation dynamics",
+    "Loss-of-Control Threshold",
+    "LoCT",
+    "Threshold dynamics",
+    "Networked conflict",
+    "Transmission mechanisms",
+    "Proxy warfare",
+    "Cyber escalation",
+    "Information amplification",
+    "Actor coupling",
+    "Strategic risk spillover",
+    "Decision friction",
+    "Hard threshold index",
+    "Normative coherence",
+    "Uncertainty bands",
+    "Strategic competition",
+    "AI-enabled warfare",
+    "Information conflict",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic studies",
+    "Conflict analysis",
+    "Escalation modeling",
+    "Security studies",
+    "Middle East conflict",
+    "Systems analysis",
+    "Policy intelligence",
+    "Risk assessment",
+    "Early warning",
+    "Networked warfare",
+    "Information conflict",
+    "Cyber operations",
+    "Military strategy",
+    "Crisis management",
+    "Global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-13",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-13",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-13",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-25",
+      "date_type": "Early ORCID-derived metadata created"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Early ORCID-derived metadata updated"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "From Cost Monitoring to Systemic Escalation Assessment The MCCM v2.0+ Framework.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-29/From%20Cost%20Monitoring%20to%20Systemic%20Escalation%20Assessment%20The%20MCCM%20v2.0%2B%20Framework.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-29",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "references": [],
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-29",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-029",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Middle East Conflict Cost Monitor v2.0+ (MCCM v2.0+) Systemic Escalation Assessment Framework",
+    "source_basis": "Policy-facing framework paper based on MCCM v2.0+ internal dataset and EPINOVA systemic escalation analysis.",
+    "case_context": "April 12, 2026 conflict snapshot and systemic escalation profile using a 23-variable normalized radar framework.",
+    "core_problem": "Traditional cost-based conflict monitoring captures expenditures, losses, and damage, but does not adequately identify how pressure accumulates, propagates, and approaches loss-of-control thresholds across interconnected military, informational, economic, and political domains.",
+    "central_claims": [
+      "Escalation is a systemic process rather than a cost-driven outcome.",
+      "Transmission dynamics across proxy, cyber, information, infrastructure, and actor-coupling domains are critical to understanding escalation pathways.",
+      "System coupling increases the risk of rapid, nonlinear escalation from localized shocks.",
+      "Loss-of-control risk is shaped by thresholds and decision friction rather than gradual cost accumulation alone.",
+      "Normative coherence, signaling ambiguity, legitimacy narratives, uncertainty bands, and de-escalatory efforts can amplify or dampen escalation independently of material conditions."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Systemic Escalation Rather Than Cost Accounting",
+        "description": "Reframes conflict assessment from direct cost monitoring toward pressure accumulation, transmission, and threshold proximity."
+      },
+      {
+        "name": "Cross-Domain Transmission",
+        "description": "Tracks how escalation propagates through proxy warfare, cyber escalation, infrastructure disruption, information amplification, and actor coupling."
+      },
+      {
+        "name": "Threshold-Oriented Risk Analysis",
+        "description": "Emphasizes decision friction, hard thresholds, and proximity to the Loss-of-Control Threshold as markers of potential nonlinear escalation."
+      },
+      {
+        "name": "System Resilience and Coupling",
+        "description": "Assesses how logistics capacity, network stability, energy and economic throughput, and structural cohesion absorb or transmit shocks."
+      },
+      {
+        "name": "Normative and Uncertainty Effects",
+        "description": "Incorporates legitimacy narratives, uncertainty bands, signaling ambiguity, strategic spillover, and de-escalatory dynamics as indirect drivers of escalation behavior."
+      }
+    ],
+    "data_scope": "Values in the April 12 case illustration are normalized to [0,1] with risk bands: Low 0.00–0.69, Medium 0.70–0.84, and High 0.85–1.00."
+  },
+  "dimensions": [
+    {
+      "name": "Situation & Perception",
+      "code": "Layer I",
+      "description": "Captures aggregate strategic stress, military situation deterioration, alliance cohesion, strategic escalation gradients, and narrative polarization."
+    },
+    {
+      "name": "Process & Transmission",
+      "code": "Layer II",
+      "description": "Represents the mechanisms through which escalation spreads, including proxy warfare, cyber operations, infrastructure disruption, information amplification, and actor coupling."
+    },
+    {
+      "name": "Capability & Mobilization",
+      "code": "Layer III",
+      "description": "Captures deployable capability, mobilization speed, temporal deployment intensity, and economic mobilization or adaptation capacity."
+    },
+    {
+      "name": "Structure & System Resilience",
+      "code": "Layer IV",
+      "description": "Reflects logistical capacity, network stability, energy and economic throughput, and the broader ability of systems to absorb shocks."
+    },
+    {
+      "name": "Loss-of-Control & Threshold",
+      "code": "Layer V",
+      "description": "Captures decision friction and proximity to hard thresholds associated with transitions from controlled interaction to systemic breakdown."
+    },
+    {
+      "name": "Normative, Uncertainty & Risk-Transmission Extension",
+      "code": "Layer VI",
+      "description": "Introduces variables shaping escalation indirectly, including legitimacy narratives, uncertainty bands, signaling ambiguity, strategic risk spillover, and de-escalatory efforts."
+    }
+  ],
+  "variables": [
+    {
+      "code": "ASSI",
+      "name": "Aggregate Strategic Stress Index",
+      "layer": "Situation & Perception"
+    },
+    {
+      "code": "MSDI",
+      "name": "Military Situation Deterioration Index",
+      "layer": "Situation & Perception"
+    },
+    {
+      "code": "ACF",
+      "name": "Alliance Cohesion Factor",
+      "layer": "Situation & Perception"
+    },
+    {
+      "code": "SEG",
+      "name": "Strategic Escalation Gradient",
+      "layer": "Situation & Perception"
+    },
+    {
+      "code": "NPR",
+      "name": "Narrative Polarization Rate",
+      "layer": "Situation & Perception"
+    },
+    {
+      "code": "PWPI",
+      "name": "Proxy Warfare Pressure Index",
+      "layer": "Process & Transmission"
+    },
+    {
+      "code": "CEI",
+      "name": "Cyber Escalation Index",
+      "layer": "Process & Transmission"
+    },
+    {
+      "code": "DPCP",
+      "name": "Disruption / pressure-coupling proxy variable",
+      "layer": "Process & Transmission"
+    },
+    {
+      "code": "ISAI",
+      "name": "Information / infrastructure shock amplification indicator",
+      "layer": "Process & Transmission"
+    },
+    {
+      "code": "ACI",
+      "name": "Asymmetric Cost Imposition",
+      "layer": "Process & Transmission"
+    },
+    {
+      "code": "NEC",
+      "name": "Net Effective Capability",
+      "layer": "Capability & Mobilization"
+    },
+    {
+      "code": "TDI",
+      "name": "Temporal Deployment Intensity",
+      "layer": "Capability & Mobilization"
+    },
+    {
+      "code": "EMAI",
+      "name": "Economic Mobilization & Adaptation Index",
+      "layer": "Capability & Mobilization"
+    },
+    {
+      "code": "LC",
+      "name": "Logistics Capacity",
+      "layer": "Structure & System Resilience"
+    },
+    {
+      "code": "NSI",
+      "name": "Network Stability Index",
+      "layer": "Structure & System Resilience"
+    },
+    {
+      "code": "EET",
+      "name": "Energy & Economic Throughput",
+      "layer": "Structure & System Resilience"
+    },
+    {
+      "code": "SCI",
+      "name": "System Coupling Indicator",
+      "layer": "Structure & System Resilience"
+    },
+    {
+      "code": "DFI",
+      "name": "Decision Friction Index",
+      "layer": "Loss-of-Control & Threshold"
+    },
+    {
+      "code": "HTI",
+      "name": "Hard Threshold Index",
+      "layer": "Loss-of-Control & Threshold"
+    },
+    {
+      "code": "WJC",
+      "name": "War Justification / normative coherence variable",
+      "layer": "Normative, Uncertainty & Risk-Transmission Extension"
+    },
+    {
+      "code": "LUB",
+      "name": "Legitimacy / uncertainty band variable",
+      "layer": "Normative, Uncertainty & Risk-Transmission Extension"
+    },
+    {
+      "code": "SRS",
+      "name": "Strategic Risk Spillover",
+      "layer": "Normative, Uncertainty & Risk-Transmission Extension"
+    },
+    {
+      "code": "DRI",
+      "name": "De-escalatory / de-risking indicator",
+      "layer": "Normative, Uncertainty & Risk-Transmission Extension"
+    }
+  ],
+  "key_findings": [
+    "MCCM v2.0+ shifts conflict monitoring from cost accounting toward systemic escalation assessment.",
+    "The framework uses a 23-variable system organized into six functional layers to capture pressure accumulation, transmission, resilience, threshold proximity, and uncertainty effects.",
+    "Escalation risk may rise before cost or force-level indicators fully register a change, especially when transmission mechanisms and system coupling intensify.",
+    "The April 12, 2026 conflict snapshot shows broad elevation across multiple layers, with several variables entering the high-risk band.",
+    "MSDI, ACI, and SRS emerge in the PDF as primary escalation drivers in the April 12 case profile.",
+    "The April 12 profile reflects strong coupling between perception shock and transmission dynamics, indicating a precursor to nonlinear escalation behavior.",
+    "Capability activation is elevated but not yet equivalent to full-spectrum mobilization, while structural resilience remains strained but intact.",
+    "The system is approaching the Loss-of-Control Threshold, but has not yet crossed into self-reinforcing systemic breakdown.",
+    "The framework is designed for structured interpretation, scenario comparison, and early warning rather than deterministic prediction."
+  ],
+  "policy_recommendations": [
+    "Use MCCM v2.0+ to supplement direct cost monitoring with cross-domain escalation assessment.",
+    "Track transmission mechanisms such as proxy pressure, cyber escalation, information amplification, infrastructure disruption, and actor coupling as early-warning indicators.",
+    "Monitor cross-layer imbalance between perception stress and transmission efficiency, as this configuration can precede nonlinear escalation.",
+    "Prioritize interventions that reduce transmission intensity, reinforce system resilience, or increase de-escalatory signaling.",
+    "Interpret high systemic stress as threshold proximity rather than as a deterministic forecast of escalation outcomes.",
+    "Maintain uncertainty bands and confidence-sensitive interpretation when using heterogeneous or proxy-based indicators."
+  ],
+  "related_works": [
+    {
+      "title": "China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk",
+      "identifier": "10.5281/zenodo.19633889",
+      "relation": "Later EPINOVA policy brief applying an MCCM v2.1 assessment to China’s structural exposure in the U.S.–Iran conflict.",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief extending systemic escalation analysis to high-pressure equilibrium dynamics.",
+      "type": "DOI"
+    },
+    {
+      "title": "A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict",
+      "identifier": "10.5281/zenodo.19139977",
+      "relation": "Related EPINOVA working paper developing the Loss-of-Control Threshold concept in networked conflict.",
+      "type": "DOI"
+    }
+  ],
+  "references": [
+    {
+      "citation": "MCCM v2.0+ internal dataset; EPINOVA analysis. Values normalized to [0–1]; risk thresholds: Low (0.00–0.69), Medium (0.70–0.84), High (0.85–1.00).",
+      "type": "Internal dataset source cited for Figure 2 in the policy brief",
+      "url": ""
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework, Policy Brief No. EPINOVA–2026–PB–29, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19550886. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From cost monitoring to systemic escalation assessment: The MCCM v2.0+ framework (Policy Brief No. EPINOVA–2026–PB–29). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19550886. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Cost Monitoring to Systemic Escalation Assessment, EPINOVA–2026–PB–29.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-13",
+    "pagination": "6 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "MCCM v2.0+ Systemic Escalation Architecture (23-Variable Framework)",
+      "page": 2,
+      "description": "Architecture diagram showing the system core / escalation field surrounded by six functional layers: Situation & Perception; Process & Transmission; Capability & Mobilization; Structure & Resilience; Threshold Dynamics; and Normative & Uncertainty variables."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Systemic Escalation Radar (MCCM v2.0+, 23 Variables) — Case: April 12, 2026",
+      "page": 5,
+      "description": "Radar chart of normalized MCCM v2.0+ variables for April 12, 2026, with low, medium, and high risk thresholds and functional layer grouping."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "From Cost Monitoring to Systemic Escalation Assessment The MCCM v2.0+ Framework.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, key judgments, MCCM v2.0+ framework description, 23-variable six-layer architecture, April 12 case snapshot, figures, scope and limitations, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 211513484, uppercase DOI form, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase as 10.5281/zenodo.19550886; the uppercase form is retained as an alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19550886",
+    "crossref_doi_suffix": "epinova.pb.2026.029",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19550886",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; uppercase DOI form from early ORCID-derived metadata retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "211513484",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-13"
   }
 }

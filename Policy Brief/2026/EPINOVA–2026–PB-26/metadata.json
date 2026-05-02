@@ -1,29 +1,342 @@
 {
-  "title": "Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment",
+  "epinova_id": "EPINOVA-PB-2026-026",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-026",
+  "title": "Ceasefire as Recovery Competition",
+  "subtitle": "Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment",
   "title_normalized": "ceasefire as recovery competition: rearmament, external support, and strategic regeneration in a non-enforcement environment",
-  "date": "2026-04-08",
-  "doi": "10.5281/zenodo.19464641",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "211015315",
-  "source": "ORCID Public API",
+  "publication_date": "2026-04-08",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.19464642",
+  "previous_doi": "10.5281/zenodo.19464641",
+  "landing_page": "https://doi.org/10.5281/zenodo.19464642",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19464642",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.19464641",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "211015315",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–26",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Ceasefire as Recovery Competition Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name from early metadata"
+    },
+    {
+      "identifier": "Ceasefire as Recovery Competition",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief interprets short-duration ceasefires under non-enforcement conditions as competitive intervals for recovery, reconstitution, and strategic repositioning. It argues that ceasefire redistributes time rather than risk, allowing actors to convert time into capability at unequal rates while networked deterrence structures are simultaneously degraded.",
+  "abstract": "Short-duration ceasefires in the current U.S.–Israel–Iran confrontation should not be interpreted as stabilizing mechanisms. Rather, they function as structured intervals for recovery, reconstitution, and strategic repositioning. In the absence of enforceable guarantees, ceasefire shifts competition from direct confrontation toward relative recovery performance. Actors use this period to repair capabilities, restore operational integration, and prepare for subsequent phases of engagement. Iran relies on externally enabled recovery supported by selective logistical inflows and political shielding; the United States emphasizes industrial regeneration and force sustainment, converting time into scalable long-term capacity; and Israel maintains continuous low-intensity pressure to prevent adversaries from achieving full recovery equilibrium. The brief argues that ceasefire creates a dual competitive dynamic of asymmetric recovery and network disruption, preventing stable equilibrium and increasing post-ceasefire escalation risk.",
+  "keywords": [
+    "Ceasefire",
+    "Recovery competition",
+    "Non-enforcement",
+    "Time arbitrage",
+    "Strategic regeneration",
+    "Rearmament",
+    "External support",
+    "U.S.–Iran conflict",
+    "U.S.–Israel–Iran conflict",
+    "Israel",
+    "Iran",
+    "United States",
+    "Asymmetric recovery",
+    "Capability restoration",
+    "Network disruption",
+    "Networked deterrence",
+    "Proxy warfare",
+    "Hezbollah",
+    "Houthi forces",
+    "Lebanon",
+    "Red Sea",
+    "Operational tempo",
+    "Force reconstitution",
+    "Industrial regeneration",
+    "Logistical inflows",
+    "Political shielding",
+    "Strategic instability",
+    "Post-ceasefire escalation",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Strategic competition",
+    "Ceasefire design",
+    "Conflict studies",
+    "Security studies",
+    "Middle East security",
+    "U.S.–Iran relations",
+    "Israel–Iran conflict",
+    "Military strategy",
+    "Escalation dynamics",
+    "Deterrence theory",
+    "Proxy warfare",
+    "Networked conflict",
+    "Logistics and sustainment",
+    "Defense industrial capacity",
+    "Policy analysis",
+    "International security",
+    "Geopolitical risk",
+    "Systems analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-04-08",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-04-08",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-04-08",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-04-08",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-05-01",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Ceasefire as Recovery Competition Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-26/Ceasefire%20as%20Recovery%20Competition%20Rearmament%2C%20External%20Support%2C%20and%20Strategic%20Regeneration%20in%20a%20Non-Enforcement%20Environment.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 10
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-26",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-26",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-026",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, escalation dynamics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Time–Recovery Competition Framework",
+    "source_basis": "Policy-facing structural analysis of ceasefire dynamics under non-enforcement conditions, focusing on asymmetric recovery, capability restoration, and degradation of networked deterrence in the U.S.–Israel–Iran confrontation.",
+    "case_context": "Short-duration ceasefire dynamics in the U.S.–Israel–Iran conflict environment, with attention to Iran, the United States, Israel, proxy theatres in Lebanon and Yemen, and the Red Sea domain.",
+    "core_problem": "Ceasefire under non-enforcement conditions may be misread as stabilizing when it actually creates a contested recovery interval in which actors convert time into capability at unequal rates while networked deterrence is degraded.",
+    "central_claims": [
+      "Ceasefire redistributes time rather than risk and creates a competitive interval for capability restoration and strategic repositioning.",
+      "Post-ceasefire balance depends more on recovery performance than on prior attrition alone.",
+      "Asymmetric recovery is driven by industrial capacity, external support, logistical access, political shielding, and operational constraints.",
+      "Israel's continuous disruption strategy targets the recovery processes and network coherence of adversaries rather than simply maximizing its own recovery curve.",
+      "Ceasefire can increase post-ceasefire escalation risk when recovery trajectories are asynchronous and networked deterrence becomes degraded."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Ceasefire as Competitive Interval",
+        "description": "Ceasefire is treated as a bounded window in which actors compete to convert time into operational readiness, logistical throughput, and future strategic positioning."
+      },
+      {
+        "name": "Asynchronous Recovery Dynamics",
+        "description": "Recovery unfolds unevenly across actors because of differences in industrial scalability, external support, force regeneration capacity, and operational constraints."
+      },
+      {
+        "name": "Capability Restoration",
+        "description": "The analysis tracks the ways actors repair, replenish, redeploy, and integrate military capabilities during the ceasefire window."
+      },
+      {
+        "name": "Network Disruption",
+        "description": "The brief examines how sustained pressure against proxy actors weakens coordination, fragments capability, and dilutes networked deterrence."
+      },
+      {
+        "name": "Time as Strategic Resource",
+        "description": "Time is framed as a convertible strategic asset with unequal exchange rates across actors depending on internal capacity and access to external support."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Ceasefire as Competitive Interval",
+      "code": "CCI",
+      "description": "Assesses how ceasefire redistributes operational tempo and creates a bounded window for actors to convert time into capability."
+    },
+    {
+      "name": "Asymmetric Recovery Dynamics",
+      "code": "ARD",
+      "description": "Captures differences in recovery speed, scale, sustainability, and integration across Iran, the United States, and Israel."
+    },
+    {
+      "name": "Capability Restoration Trajectory",
+      "code": "CRT",
+      "description": "Tracks recovery of force readiness, logistics, command integration, replenishment, and strategic positioning during ceasefire periods."
+    },
+    {
+      "name": "Network Disruption Trajectory",
+      "code": "NDT",
+      "description": "Assesses degradation of proxy coordination, deterrence coherence, and cross-theater synchronization under sustained pressure."
+    },
+    {
+      "name": "Post-Ceasefire Escalation Risk",
+      "code": "PCER",
+      "description": "Evaluates how asynchronous recovery and degraded network coherence may increase miscalculation and renewed confrontation risk."
+    }
+  ],
+  "key_findings": [
+    "Ceasefire redistributes time, not risk, by creating a competitive interval in which actors convert time into capability at unequal rates.",
+    "Post-ceasefire balance is determined by recovery performance, including speed, efficiency, scalability, and operational integration, rather than by prior attrition alone.",
+    "Iran's recovery model prioritizes rapid but partial restoration through external enablement, logistical inflows, dual-use channels, and political shielding.",
+    "The U.S. recovery model prioritizes delayed but scalable regeneration through industrial depth, precision munition replenishment, force rotation, personnel regeneration, and intelligence integration.",
+    "Israel's approach prioritizes continuous disruption designed to delay adversary regeneration and prevent recovery equilibrium.",
+    "Short-duration ceasefires can produce systemic instability when recovery pathways are asynchronous and no actor reaches synchronized full-spectrum recovery.",
+    "Escalation risk under asynchronous recovery is shaped by perception, miscalculation, and uneven information about relative readiness.",
+    "Pressure across proxy theatres can degrade networked deterrence by producing coordination lag, capability fragmentation, and deterrence dilution.",
+    "Policy analysis should shift from compliance-based ceasefire monitoring toward capability tracking, recovery denial, dual-use channel assessment, and network-level analysis."
+  ],
+  "policy_recommendations": [
+    "Shift from formal compliance monitoring to capability evolution tracking during ceasefire windows.",
+    "Monitor logistical flows, supply corridors, production and replenishment rates, and deployment or redeployment patterns.",
+    "Prioritize recovery denial by constraining logistics networks, repair nodes, reconstitution processes, and coordination systems that enable adversary regeneration.",
+    "Recognize the dual-use nature of humanitarian and civilian channels while avoiding blanket restrictions that could create humanitarian and political costs.",
+    "Avoid overestimating the stabilizing effects of short-duration ceasefires under asymmetric recovery and network-disruption conditions.",
+    "Treat ceasefire as a transitional reconfiguration interval requiring active management of recovery dynamics and network-level disruption effects."
+  ],
+  "related_works": [
+    {
+      "title": "Ceasefire Under Conditions of Non-Enforcement: Time Arbitrage, Negotiation Dynamics, and Controlled De-escalation in the U.S.–Iran Conflict with Israeli Structural Constraints",
+      "identifier": "10.5281/zenodo.19444571",
+      "relation": "Preceding EPINOVA policy brief on ceasefire design, time arbitrage, and the Six-Layer Lock Mechanism under non-enforcement conditions",
+      "type": "DOI"
+    },
+    {
+      "title": "Recovery during Ceasefire: A Structured Assessment of U.S., Israel, and Iran Force Reconstitution",
+      "identifier": "10.5281/zenodo.19692046",
+      "relation": "Later EPINOVA policy brief developing comparative recovery assessment for U.S., Israel, and Iran during ceasefire conditions",
+      "type": "DOI"
+    },
+    {
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "identifier": "10.5281/zenodo.19645873",
+      "relation": "Related EPINOVA policy brief on systemic escalation, equilibrium pressure, and threshold dynamics in the same conflict context",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Ceasefire as Recovery Competition: Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment, Policy Brief No. EPINOVA–2026–PB–26, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19464642. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Ceasefire as recovery competition: Rearmament, external support, and strategic regeneration in a non-enforcement environment (Policy Brief No. EPINOVA–2026–PB–26). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19464642. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Ceasefire as Recovery Competition, EPINOVA–2026–PB–26.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-04-08",
+    "pagination": "10 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Time–Recovery Competition Framework",
+      "page": 3,
+      "description": "Conceptual framework showing ceasefire as time, asymmetric recovery, dual competitive dynamics, capability restoration, network disruption, interaction effects, and systemic instability/no equilibrium."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Dual Competition Under Ceasefire: Divergent Recovery Trajectories and Degradation of Networked Deterrence",
+      "page": 4,
+      "description": "Line-chart style conceptual figure comparing Iran's rapid but partial recovery, the United States' delayed but scalable recovery, and gradual degradation of network coherence across the ceasefire window."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Ceasefire as Recovery Competition Rearmament, External Support, and Strategic Regeneration in a Non-Enforcement Environment.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction, visual-page review, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, why-this-matters section, conceptual framework, figures, recovery-pathway analysis, proxy-theatre dynamics, policy implications, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied DOI 10.5281/zenodo.19464641, ORCID put-code 211015315, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19464642 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.19464642",
+    "crossref_doi_suffix": "epinova.pb.2026.026",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.19464642",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "211015315",
+    "source": "ORCID Public API",
+    "record_date": "2026-04-08"
   }
 }

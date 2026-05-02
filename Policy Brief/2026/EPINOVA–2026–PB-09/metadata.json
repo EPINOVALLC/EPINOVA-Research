@@ -1,29 +1,342 @@
 {
-  "title": "Escalation Dynamics in IRGC's Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework",
+  "epinova_id": "EPINOVA-PB-2026-009",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-009",
+  "title": "Escalation Dynamics in IRGC’s Operation True Promise",
+  "subtitle": "Interpreting the Conflict through an Escalation Ladder Framework",
   "title_normalized": "escalation dynamics in irgc's operation true promise: interpreting the conflict through an escalation ladder framework",
-  "date": "2026-03-04",
-  "doi": "10.5281/zenodo.18869403",
-  "author": "Wu, Shaoyuan",
-  "type": "report",
-  "category": "reports",
-  "put_code": "207416476",
-  "source": "ORCID Public API",
+  "publication_date": "2026-03-04",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "10.5281/zenodo.18869404",
+  "previous_doi": "10.5281/zenodo.18869403",
+  "landing_page": "https://doi.org/10.5281/zenodo.18869404",
+  "official_page": "",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18869404",
+      "scheme": "DOI",
+      "description": "Zenodo/DataCite DOI stated in the PDF recommended citation"
+    },
+    {
+      "identifier": "10.5281/zenodo.18869403",
+      "scheme": "DOI",
+      "description": "Earlier DOI from ORCID-derived metadata record retained for reconciliation"
+    },
+    {
+      "identifier": "207416476",
+      "scheme": "ORCID put-code",
+      "description": "ORCID Public API record identifier from early metadata"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–09",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Escalation Dynamics in IRGC’s Operation True Promise Interpreting the Conflict through an Escalation Ladder Framework.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Escalation Dynamics in IRGC's Operation True Promise",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief interprets IRGC Operation True Promise through a nine-level escalation ladder framework. It links operational triggers, strategic meaning, and Middle East Conflict Cost Monitor (MCCM) variables to assess how missile-UAV exchanges, maritime spillover, joint campaign integration, and norm erosion can produce stepwise escalation dynamics in the U.S.–Israel–Iran conflict.",
+  "abstract": "The confrontation associated with Operation True Promise has evolved from limited retaliatory exchanges into a structurally unstable multi-domain confrontation. While the conflict remains below the threshold of large-scale war, the operational pattern increasingly resembles a stepwise escalation ladder in which successive phases broaden target sets, deepen operational coordination, and generate expanding geopolitical spillovers. This policy brief proposes a nine-level escalation framework to interpret the trajectory of the conflict. Each level corresponds to distinct operational triggers, strategic meaning, and observable cost variables within the Middle East Conflict Cost Monitor (MCCM) model. Current evidence suggests that the confrontation has moved beyond limited strike exchanges and now lies between Level 4 and Level 6, characterized by sustained missile-UAV exchanges, maritime spillover affecting global shipping routes, and increasing operational coordination among allied forces. If engagement norms erode and C4ISR infrastructure is systematically targeted, the conflict could approach Level 7, where escalation becomes more volatile and politically difficult to contain.",
+  "keywords": [
+    "Operation True Promise",
+    "IRGC",
+    "Escalation ladder",
+    "Escalation dynamics",
+    "U.S.–Israel–Iran conflict",
+    "Middle East Conflict Cost Monitor",
+    "MCCM",
+    "Missile-UAV exchanges",
+    "Maritime spillover",
+    "Strategic chokepoints",
+    "C4ISR",
+    "Joint campaign integration",
+    "Rules and norms erosion",
+    "Threshold-crossing events",
+    "Strategic nodes",
+    "Global shock indicators",
+    "War-risk insurance",
+    "Shipping rerouting",
+    "Energy market volatility",
+    "Crisis stability",
+    "Networked conflict",
+    "Policy brief",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Security studies",
+    "Strategic studies",
+    "Conflict escalation",
+    "Middle East security",
+    "Military operations",
+    "Missile warfare",
+    "UAV warfare",
+    "Maritime security",
+    "Crisis management",
+    "Geopolitical risk",
+    "Defense policy",
+    "Systems analysis",
+    "Cost monitoring",
+    "AI-enabled warfare and global security governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-03-04",
+      "date_type": "Issued"
+    },
+    {
+      "date": "2026-03-04",
+      "date_type": "Created"
+    },
+    {
+      "date": "2026-03-04",
+      "date_type": "Date printed in PDF"
+    },
+    {
+      "date": "2026-03-04",
+      "date_type": "Early ORCID-derived metadata date"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
+    },
+    {
+      "date": "2026-04-30",
+      "date_type": "Metadata updated to latest schema"
+    }
+  ],
+  "license": {
+    "id": "all-rights-reserved",
+    "name": "All rights reserved",
+    "url": ""
+  },
   "files": [
     {
       "label": "Download PDF",
       "filename": "Escalation Dynamics in IRGC’s Operation True Promise Interpreting the Conflict through an Escalation Ladder Framework.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-09/Escalation%20Dynamics%20in%20IRGC%E2%80%99s%20Operation%20True%20Promise%20Interpreting%20the%20Conflict%20through%20an%20Escalation%20Ladder%20Framework.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 6
     }
   ],
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-09",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-09",
+  "source_repository": "EPINOVALLC/EPINOVA-Research",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance",
+    "series_code": "PB",
+    "series_number": "2026-009",
+    "series_description": "Policy brief series translating EPINOVA research on AI-enabled warfare, defense sustainability, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Operation True Promise Escalation Ladder Framework",
+    "source_basis": "Policy-facing escalation analysis using open-source operational indicators and the Middle East Conflict Cost Monitor (MCCM) variable architecture.",
+    "case_context": "IRGC Operation True Promise and the U.S.–Israel–Iran conflict environment as of March 04, 2026.",
+    "core_problem": "Average strike intensity and aggregate launch volumes may understate escalation risk when conflicts move through stepwise operational thresholds and threshold-crossing events.",
+    "central_claims": [
+      "Modern regional conflicts often escalate through incremental operational thresholds rather than direct transitions to full-scale war.",
+      "Operation True Promise has moved beyond limited strike exchanges and appears to lie between Levels 4 and 6 of the proposed escalation ladder.",
+      "Escalation risk is driven by cumulative probability of threshold-crossing events rather than average strike intensity alone.",
+      "Maritime spillover and joint operational integration can increase escalation rigidity before full-scale war emerges.",
+      "If C4ISR targeting intensifies or engagement norms erode, the conflict may approach Level 7 dynamics, where containment becomes more difficult."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Stepwise Escalation",
+        "description": "The conflict is interpreted as movement across discrete levels of operational and political escalation rather than as a linear intensity curve."
+      },
+      {
+        "name": "Operational Trigger Mapping",
+        "description": "Each escalation level is linked to observable triggers such as missile-UAV exchanges, base area targeting, maritime spillover, and joint campaign integration."
+      },
+      {
+        "name": "MCCM Variable Linkage",
+        "description": "Each level is associated with cost, risk, and systemic stress variables within the Middle East Conflict Cost Monitor framework."
+      },
+      {
+        "name": "Threshold-Crossing Events",
+        "description": "Escalation is treated as potentially nonlinear, with major strategic effects triggered by single high-impact events."
+      },
+      {
+        "name": "Norm Erosion and De-escalation Rigidity",
+        "description": "Public weakening of engagement rules and coalition integration can narrow diplomatic exit options and increase institutional inertia."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Level 0 — Shadow Competition",
+      "code": "L0",
+      "description": "Reconnaissance, cyber operations, sabotage, covert disruption, and information warfare that remain plausibly deniable and politically controllable."
+    },
+    {
+      "name": "Level 1 — Limited Stand-off Strikes",
+      "code": "L1",
+      "description": "Small-scale air strikes, drone attacks, and limited missile launches against avoidable targets used to probe defenses and political tolerance."
+    },
+    {
+      "name": "Level 2 — Sustained Missile–UAV Exchanges",
+      "code": "L2",
+      "description": "Repeated waves of ballistic missiles and UAV attacks that generate consumption-based attrition pressure on air defense networks."
+    },
+    {
+      "name": "Level 3 — Base Area Targeting",
+      "code": "L3",
+      "description": "Systematic targeting of base infrastructure, radar systems, SATCOM nodes, antenna networks, and radomes, especially C4ISR infrastructure."
+    },
+    {
+      "name": "Level 4 — Maritime Spillover in Strategic Chokepoints",
+      "code": "L4",
+      "description": "Merchant vessel damage, convoy operations, naval escort missions, and maritime engagements affecting Hormuz, the Gulf of Oman, or other strategic chokepoints."
+    },
+    {
+      "name": "Level 5 — Deep Strike on Strategic Nodes",
+      "code": "L5",
+      "description": "Attacks on capital cities, ministries of defense, airports, strategic industrial facilities, or key command nodes that breach strategic depth."
+    },
+    {
+      "name": "Level 6 — Joint Campaign Integration",
+      "code": "L6",
+      "description": "Operational-zone or target-category division, coordination cells, and large-scale air-refueling or ISR integration involving allied support."
+    },
+    {
+      "name": "Level 7 — Rules and Norms Erosion",
+      "code": "L7",
+      "description": "Public declarations weakening engagement rules and expanding permissible target categories, increasing collateral risk and de-escalation difficulty."
+    },
+    {
+      "name": "Level 8 — Limited Ground Action",
+      "code": "L8",
+      "description": "Special forces incursions, short-duration ground operations, or seizure and rescue missions that cross the ground-engagement threshold."
+    },
+    {
+      "name": "Level 9 — Large-scale Ground War",
+      "code": "L9",
+      "description": "Major ground force deployment, occupation, or regime-change operations involving structural shifts in cost and political commitment."
+    }
+  ],
+  "key_findings": [
+    "The confrontation associated with Operation True Promise has evolved from limited retaliatory exchanges into a structurally unstable multi-domain confrontation.",
+    "The conflict remains below the threshold of large-scale war but increasingly resembles a stepwise escalation ladder.",
+    "The proposed framework identifies nine escalation levels, each with distinct operational triggers, strategic meaning, and MCCM cost variables.",
+    "Current evidence suggests that the confrontation lies between Levels 4 and 6, involving sustained missile-UAV exchanges, maritime spillover, and growing allied operational integration.",
+    "If engagement norms erode and C4ISR infrastructure is systematically targeted, the conflict could approach Level 7 dynamics.",
+    "Escalation risk arises less from average strike intensity than from cumulative probability of threshold-crossing events along the ladder.",
+    "Economic spillovers may emerge before full-scale war, especially through maritime risk premiums, freight volatility, shipping rerouting costs, and energy market volatility.",
+    "Joint operational integration can make de-escalation more difficult by creating coalition coordination and institutional inertia."
+  ],
+  "policy_recommendations": [
+    "Prioritize escalation monitoring around threshold indicators rather than average strike volumes.",
+    "Track maritime disruption, strategic node targeting, C4ISR degradation, and engagement-rule erosion as early-warning indicators.",
+    "Treat economic spillovers, including insurance premiums, rerouting costs, and freight volatility, as early signs of systemic escalation pressure.",
+    "Assess allied operational integration as both a capability multiplier and a source of escalation rigidity.",
+    "Preserve diplomatic channels and crisis-management mechanisms before the conflict approaches Level 7 dynamics."
+  ],
+  "related_works": [
+    {
+      "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)",
+      "identifier": "10.5281/zenodo.18843800",
+      "relation": "Related EPINOVA policy brief analyzing low-probability, high-impact escalation dynamics in the same conflict environment",
+      "type": "DOI"
+    },
+    {
+      "title": "The First Week of the U.S.–Israel–Iran War: Battlefield Assessment and Next-Phase Risks",
+      "identifier": "10.5281/zenodo.18896560",
+      "relation": "Related EPINOVA policy brief on early battlefield assessment and next-phase escalation risks",
+      "type": "DOI"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related framework publication explaining MCCM escalation assessment logic",
+      "type": "DOI"
+    }
+  ],
   "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), Escalation Dynamics in IRGC’s Operation True Promise: Interpreting the Conflict through an Escalation Ladder Framework, Policy Brief No. EPINOVA–2026–PB–09, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18869404. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Escalation dynamics in IRGC’s Operation True Promise: Interpreting the conflict through an escalation ladder framework (Policy Brief No. EPINOVA–2026–PB–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18869404. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Escalation Dynamics in IRGC’s Operation True Promise, EPINOVA–2026–PB–09.",
+  "imprint": {
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "date": "2026-03-04",
+    "pagination": "6 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF."
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF."
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
+    "source_file": "Escalation Dynamics in IRGC’s Operation True Promise Interpreting the Conflict through an Escalation Ladder Framework.pdf",
+    "source_type": "PDF + early ORCID-derived metadata record",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-29"
+    "last_updated": "2026-05-01",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, executive summary, escalation ladder levels, current escalation assessment, escalation risks, policy implications, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18869403, ORCID put-code 207416476, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18869404 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18869404",
+    "crossref_doi_suffix": "epinova.pb.2026.009",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "registered",
+    "doi": "10.5281/zenodo.18869404",
+    "deposit_ready": true,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "notes": "Zenodo/DataCite DOI stated in the PDF; earlier ORCID-derived DOI retained for reconciliation."
+  },
+  "orcid": {
+    "put_code": "207416476",
+    "source": "ORCID Public API",
+    "record_date": "2026-03-04"
   }
 }
