@@ -295,7 +295,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, key findings, policy challenge, AI-SNI diagnostic architecture, practical applications, safeguards, recommendations, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18453093, ORCID put-code 204371356, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18453094 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF date is February 01, 2026; the early ORCID-derived metadata date is February 02, 2026 and is retained separately."
   },
   "crossref": {

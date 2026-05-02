@@ -334,7 +334,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, conceptual framework, Recoverability Constraint, Debris-to-Evidence Conversion, Evidence-to-Power Conversion, Debris-to-Leverage Conversion, Visibility Gap, Startline Asymmetry, Leverage Inversion, strategic implications, limitations, recommended citation, DOI, tables, figure, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19432714, ORCID put-code 210780239, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19432715 is used as the primary DOI; the early DOI is retained as previous_doi for reconciliation. The PDF date is April 05, 2026; the early ORCID-derived metadata date is April 06, 2026 and is retained separately."
   },
   "crossref": {

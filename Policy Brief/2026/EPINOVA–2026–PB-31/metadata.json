@@ -361,7 +361,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, key judgments, methodology note, SHI and throughput figures, three-channel throughput model, Pakistan–Iran corridor discussion, threshold-delaying logistics concept box, policy implications, limitations, recommended citation, DOI, and disclaimer. Early metadata supplied uppercase DOI form, ORCID put-code, GitHub PDF URL, repository folder, and repository URL. The PDF DOI is normalized to lowercase as the primary DOI; the uppercase DOI form is retained as an alternate identifier for reconciliation."
   },
   "crossref": {

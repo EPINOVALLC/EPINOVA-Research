@@ -305,7 +305,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied the policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical framework, capability and sustainability rankings, figure, table, limitations, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI capitalization, ORCID put-code 212275412, GitHub PDF URL, repository folder, repository URL, and original report/category labels. The record has been normalized to the EPINOVA policy-brief schema; the Zenodo/DataCite DOI is used as the primary DOI."
   },
   "crossref": {

@@ -382,7 +382,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, formal POSG/CDF framework, formulas, conclusion, recommended citation, and references. Early metadata supplied DOI 10.5281/zenodo.18081107, ORCID put-code 201017438, and GitHub repository information."
   },
   "crossref": {

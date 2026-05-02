@@ -242,8 +242,8 @@
     "Watling, J., & Reynolds, N. (2023). Meatgrinder: Russian tactics in the second year of the Ukraine war. Royal United Services Institute. https://www.rusi.org",
     "Wu, S.-Y. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2025). A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017",
-  "citation_apa": "Wu, S. (2025). A fiber-aware extension to the Minimum Viable, Auditable (MVA) framework for counter-UAS assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017",
+  "recommended_citation": "Wu, Shaoyuan. (2025). A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2025). A fiber-aware extension to the Minimum Viable, Auditable (MVA) framework for counter-UAS assessment. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18090017. DOI: To be assigned after Crossref membership approval.",
   "short_citation": "Wu (2025), Fiber-Aware Extension to the MVA Framework.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -279,14 +279,18 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-04-30",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, framework details, figure, conclusion, and references. Early metadata supplied DOI 10.5281/zenodo.18090017 and ORCID put-code 201017675. GitHub file path was inferred from the established EPINOVA repository convention and publication date."
   },
   "crossref": {
     "status": "not_registered",
     "doi": "",
     "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite."
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
+    "crossref_url": "https://doi.org/10.5281/zenodo.18090017",
+    "crossref_doi_suffix": "epinova.wp.f.2025.005",
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending"
   },
   "datacite": {
     "status": "registered",

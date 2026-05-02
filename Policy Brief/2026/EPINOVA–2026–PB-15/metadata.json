@@ -324,7 +324,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, executive summary, strategic problem, U.S. and Iranian military-position assessments, domain-by-domain assessment, strategic options, scenario-based cost and loss estimates, distribution of burden, policy implications, conclusion, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19138941, ORCID put-code 209147270, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19138942 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF title uses 'Kharg Island'; the source filename and GitHub URL use 'Tarik Island'."
   },
   "crossref": {

@@ -296,7 +296,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, AADF framework, SPI and EAR formulas, figures, table, strategic implications, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 209815762, GitHub PDF URL, repository folder, repository URL, and DOI in uppercase Zenodo form; DOI was normalized to lowercase as 10.5281/zenodo.19238746. The PDF is treated as the primary source for bibliographic and content fields, while the early ORCID-derived metadata is retained for repository and identifier reconciliation."
   },
   "crossref": {

@@ -307,7 +307,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, post-nodal warfare definition, sections on declining decisiveness of decapitation, distributed AI command, systemic vulnerabilities, control and escalation risks, policy implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19104089, ORCID put-code 208929218, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19104090 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {

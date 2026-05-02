@@ -310,7 +310,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, executive summary, U.S. control sustainability analysis, Israeli coercive credibility analysis, Table 1 threshold-logics comparison, Iran cost-imposition strategy, Figure 1 strategic interaction triangle, likely near-term paths, policy implications, conclusion, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19223652, ORCID put-code 209674082, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19223653 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {

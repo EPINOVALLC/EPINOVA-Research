@@ -338,7 +338,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied the policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, why-this-matters section, analytical framework, Recovery Index formula, actor-level assessments, table, figure, policy implications, limitations, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied DOI 10.5281/ZENODO.19692046, ORCID put-code 212528235, GitHub PDF URL, repository folder, and repository URL. DOI capitalization was normalized to 10.5281/zenodo.19692046."
   },
   "crossref": {

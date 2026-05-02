@@ -315,7 +315,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-02-09",
-    "last_updated": "2026-05-01"
+    "last_updated": "2026-05-02"
   },
   "crossref": {
     "status": "ready_for_registration_or_update",

@@ -300,7 +300,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, author, affiliation, date, key judgments, executive summary, procurement estimates, tables, strategic implications, limitations, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI casing variant 10.5281/ZENODO.19520723, ORCID put-code 211424633, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19520723 is used as the primary DOI; the uppercase ORCID-derived DOI form is retained as an alternate identifier for reconciliation. The PDF title uses 'AI as the Foundation of Modern Warfare'; the PDF recommended citation and file name use 'AI and the Emerging Foundations of Modern Warfare', which is retained in the recommended citation and source file fields."
   },
   "crossref": {

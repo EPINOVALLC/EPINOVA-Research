@@ -529,7 +529,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, EESI formula, table and figure titles, policy implications, limitations, conclusion, recommended citation, and disclaimer. Earlier metadata supplied prior Zenodo DOI 10.5281/zenodo.19770272, EPINOVA landing page, official page, repository URLs, and reference list. The PDF states that the DOI is to be assigned after Crossref membership approval; therefore no primary DOI is set and the prior Zenodo DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {

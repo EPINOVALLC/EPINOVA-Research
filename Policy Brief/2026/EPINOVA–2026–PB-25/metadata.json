@@ -318,7 +318,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, series information, recommended citation, DOI, disclaimer, mediator assessment, time-arbitrage framework, SLLM architecture, operational model, policy implications, conclusion, Figure 1, Tables 1-2, and Annex A. Early ORCID-derived metadata supplied DOI 10.5281/zenodo.19444570, ORCID put-code 210863568, GitHub PDF URL, repository folder, repository URL, and early metadata dates. The PDF DOI 10.5281/zenodo.19444571 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {

@@ -320,7 +320,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, key judgments, why-this-matters section, executive summary, analytical distinction, legal escalation analysis, third-party deployment basis, operational models, diplomatic pathways, MCCM v2.0+ escalation-risk discussion, policy recommendations, limitations, conclusion, recommended citation, DOI, and disclaimer. Early ORCID-derived metadata supplied uppercase DOI form, ORCID put-code 211656502, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase for the primary doi field while the uppercase ORCID-derived DOI is retained as an alternate identifier."
   },
   "crossref": {

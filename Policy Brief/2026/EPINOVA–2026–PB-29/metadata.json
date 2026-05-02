@@ -434,7 +434,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, key judgments, MCCM v2.0+ framework description, 23-variable six-layer architecture, April 12 case snapshot, figures, scope and limitations, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 211513484, uppercase DOI form, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase as 10.5281/zenodo.19550886; the uppercase form is retained as an alternate identifier for reconciliation."
   },
   "crossref": {

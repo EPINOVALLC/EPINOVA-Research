@@ -317,7 +317,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, publication number, author, affiliation, date, executive summary, AI-SNI result, dimensional profile, policy implications, governance actions, recommended citation, DOI 10.5281/zenodo.18453986, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18453985, ORCID put-code 204378380, and GitHub repository information."
   },
   "crossref": {

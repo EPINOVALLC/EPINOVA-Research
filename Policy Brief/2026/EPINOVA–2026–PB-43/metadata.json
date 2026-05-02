@@ -549,7 +549,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-28",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, six designated routes, schematic map, 6+1+1+2 logistics architecture, capacity estimates, cargo categories, source-country assessment, Iran–Pakistan pipeline discussion, policy implications, limitations, conclusion, recommended citation, and disclaimer. Early metadata supplied official page URL, GitHub PDF URL, repository folder, repository URL, CC-BY license metadata, related works, references, and Crossref/DataCite placeholders. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {

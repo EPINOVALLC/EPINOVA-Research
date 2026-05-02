@@ -331,7 +331,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, blockade initiation timing, porous blockade concept, HPSE interpretation, policy implications, recommended citation, DOI, Figure 1, Table 1, and disclaimer. Early metadata supplied DOI 10.5281/ZENODO.19692504, ORCID put-code 212531167, GitHub PDF URL, repository folder, and repository URL. DOI capitalization was normalized to lowercase for DOI URL consistency."
   },
   "crossref": {

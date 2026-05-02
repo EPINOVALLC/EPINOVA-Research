@@ -361,7 +361,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, LoCT distance framework, MCCM model expression, U.S. and China trajectory analysis, policy implications, limitations, recommended citation, DOI, Figure 1, Figure 2, and disclaimer. Early metadata supplied DOI, ORCID put-code 212688561, GitHub PDF URL, repository folder, and repository URL. DOI 10.5281/zenodo.19712135 is used as the primary Zenodo/DataCite DOI."
   },
   "crossref": {

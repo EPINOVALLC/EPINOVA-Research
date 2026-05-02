@@ -363,7 +363,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, executive summary, key judgments, jurisdictional fragmentation analysis, China counter-extraterritoriality framework, policy outlook, Figure 1, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied ORCID put-code 211588567, uppercase DOI form, GitHub PDF URL, repository folder, and repository URL. The DOI is normalized to lowercase as 10.5281/zenodo.19560359; the uppercase form is retained as an alternate identifier for reconciliation."
   },
   "crossref": {

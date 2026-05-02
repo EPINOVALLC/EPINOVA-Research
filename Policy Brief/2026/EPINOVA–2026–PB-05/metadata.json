@@ -301,7 +301,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records; updated using the publication PDF and early ORCID-derived metadata record.",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "pdf_used": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East.pdf",
     "early_metadata_used": "metadata.json"
   },

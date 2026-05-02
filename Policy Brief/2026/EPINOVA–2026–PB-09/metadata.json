@@ -313,7 +313,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, executive summary, escalation ladder levels, current escalation assessment, escalation risks, policy implications, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18869403, ORCID put-code 207416476, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18869404 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {

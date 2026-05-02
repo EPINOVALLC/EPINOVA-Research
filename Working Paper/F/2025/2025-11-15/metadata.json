@@ -316,7 +316,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "generated_on": "2026-04-30",
     "notes": "Metadata fields were populated from the title page, abstract, body sections, formulas, conclusion, and references of the PDF, supplemented by the early ORCID-derived metadata record for DOI, ORCID put-code, GitHub file URL, and repository folder."
   },

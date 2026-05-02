@@ -299,7 +299,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, escalation bandwidth formula, Israel strategic options, U.S. resource competition analysis, Table 1, Figure 1, strategic implications, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19298296, ORCID put-code 210018490, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19298297 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
   },
   "crossref": {

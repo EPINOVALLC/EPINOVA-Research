@@ -349,7 +349,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied the title, working paper number, author, ORCID, affiliation, publication date, abstract, keywords, F-Series statement, recommended citation, Table 1, disclaimer, and references. Early metadata supplied ORCID put-code 202494938, GitHub repository information, and DOI 10.5281/zenodo.18252767. The PDF recommended citation lists 10.5281/zenodo.18252768; this record uses the PDF DOI as primary and retains the early DOI as an alternate identifier for reconciliation."
   },
   "crossref": {

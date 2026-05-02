@@ -437,7 +437,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, subtitle, policy brief number, author, affiliation, date, key judgments, why-this-matters statement, executive summary, MCCM v2.1 framework overview, China-focused variable assessment, policy implications, limitations, conclusion, figures, recommended citation, DOI, series information, and disclaimer. Early metadata supplied ORCID put-code 212046921, GitHub PDF URL, repository folder, repository URL, and ORCID-derived source fields. DOI normalization changed 10.5281/ZENODO.19633889 to 10.5281/zenodo.19633889."
   },
   "crossref": {

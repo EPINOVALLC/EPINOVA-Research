@@ -321,7 +321,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "notes": "PDF supplied title, policy brief number, author, affiliation, date, executive summary, Terminal Platform Nodes concept, dataset scope, platform distribution, narrative-frame distribution, content-format distribution, engagement dynamics, strategic implications, policy options, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19027187, ORCID put-code 208508720, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19027188 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {
