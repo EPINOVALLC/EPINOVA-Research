@@ -267,6 +267,7 @@ def copy_article_archive_files(article_records: list[dict]) -> None:
             folder_value = meta.get("_article_source_folder", "")
             folder_name = Path(folder_value).name if folder_value else meta.get("_article_folder_name", "")
 
+            # 永远只从仓库 Articles/<folder_name> 读取
             source_dir = source_root / folder_name
             target_dir = target_root / folder_name
 
