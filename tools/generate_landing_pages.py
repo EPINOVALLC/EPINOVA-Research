@@ -612,7 +612,8 @@ a:hover { text-decoration:underline; }
 .label-group { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
 .label { display:inline-flex; border:1px solid var(--border); background:#f1f1f1; border-radius:4px; padding:4px 8px; font-size:12px; color:#333; }
 .label-open { color:var(--green); border-color:#b6d7b9; background:#f5fbf5; }
-h1 { font-size:34px; line-height:1.22; margin:0 0 16px; font-weight:700; }
+h1 { font-size:34px; line-height:1.22; margin:0 0 8px; font-weight:700; }
+.record-subtitle { font-size:20px; line-height:1.35; margin:0 0 18px; color:#444; font-weight:500; }
 h2 { font-size:22px; line-height:1.3; margin:32px 0 12px; }
 h3 { font-size:17px; margin:0 0 10px; }
 .record-section { margin-top:28px; }
@@ -646,7 +647,7 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
+@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
 """
 
 
@@ -778,7 +779,7 @@ def html_doc(title: str, body: str, meta: dict | None = None) -> str:
 
 
 def render_record_page(meta: dict) -> str:
-    title = meta_value(meta, "title")
+    title, subtitle = display_title_parts(meta)
     publication_type = meta_value(meta, "publication_type")
     publication_date = meta_value(meta, "publication_date")
     version = meta_value(meta, "version")
@@ -792,7 +793,7 @@ def render_record_page(meta: dict) -> str:
   <div class="record-grid">
     <article class="record-main">
       <section class="record-info-row"><div><span>Published {h(publication_date)}</span><span class="muted"> | Version {h(version)}</span></div><div class="label-group"><span class="label">{h(publication_type)}</span><span class="label label-open">Open</span><span class="label">{h(status)}</span></div></section>
-      <section><h1>{h(title)}</h1><div class="creators">{creators_html(meta)}</div></section>
+      <section><h1>{h(title)}</h1>{f'<p class="record-subtitle">{h(subtitle)}</p>' if subtitle else ''}<div class="creators">{creators_html(meta)}</div></section>
       <section class="record-section rich-text"><h2>Description</h2><p>{h(description)}</p></section>
       <section class="record-section rich-text"><h2>Abstract</h2><p>{h(abstract)}</p></section>
       {file_preview_html(meta)}
@@ -808,7 +809,8 @@ def render_record_page(meta: dict) -> str:
   </div>
 </main>
 """
-    return html_doc(f"{title} | {SITE_TITLE}", body, meta)
+    page_title = full_display_title(meta) or title
+    return html_doc(f"{page_title} | {SITE_TITLE}", body, meta)
 
 
 def publication_year(meta: dict) -> str:
@@ -825,6 +827,29 @@ def full_display_title(meta: dict) -> str:
     title = meta.get("title", "") or ""
     subtitle = meta.get("subtitle", "") or ""
     return f"{title}: {subtitle}" if title and subtitle else title
+
+
+def display_title_parts(meta: dict) -> tuple[str, str]:
+    """
+    Return the main title and subtitle for the record page header.
+
+    This keeps the main title in <h1> and shows the subtitle directly below it.
+    It also supports metadata files that only have full_title/title_full by
+    splitting at the first colon when subtitle is missing.
+    """
+    title = meta.get("title", "") or ""
+    subtitle = meta.get("subtitle", "") or ""
+
+    if not subtitle:
+        full_title = meta.get("full_title", "") or meta.get("title_full", "") or ""
+        if full_title and full_title != title and full_title.startswith(title):
+            rest = full_title[len(title):].strip()
+            if rest.startswith(":"):
+                subtitle = rest[1:].strip()
+        elif not title and full_title:
+            title = full_title
+
+    return title, subtitle
 
 
 def working_paper_subcategory(meta: dict) -> tuple[str, str]:
