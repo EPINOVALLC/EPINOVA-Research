@@ -33,12 +33,14 @@ EPINOVA publications are organized into five primary publication types.
 | Working Paper | WP | Preliminary or developing research outputs released for scholarly discussion, methodological development, and policy analysis. |
 | Report | R | Extended analytical reports, research assessments, empirical findings, methodological documentation, and structured policy evaluations. |
 | Policy Brief | PB | Concise, evidence-based policy analysis for decision-makers, researchers, and public audiences. |
-| White Book | WB / IWB | Comprehensive white books presenting institutional frameworks, indicator systems, long-form research, and strategic policy architectures. |
+| White Paper | WHT | Comprehensive white papers presenting institutional frameworks, indicator systems, long-form research, and strategic policy architectures. |
+| Index Methodology Paper | IMP | Methodological papers dedicated to index construction, measurement frameworks, indicator design, normalization, weighting, classification, validation, and scoring systems. |
 
 Notes:
 
-- `IWB` may be used for major institutional white books or index-based white books.
-- `WB` may be used for general white books.
+- WHT is used for general and institutional white papers, including conceptual frameworks, policy architectures, strategic research, and official EPINOVA framework documents.
+- IMP is used for index-based methodology papers, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
+- For index projects, use IMP when the document is primarily methodological, and use WHT when the document is broader, more policy-facing, or intended as an institutional white paper.
 - The publication type used in `metadata.json` should match the public-facing category used on `publications.epinova.org`.
 
 ---
@@ -77,10 +79,8 @@ Examples:
 
 ```text
 EPINOVA-PB-2026-041
-EPINOVA-R-2026-003
-EPINOVA-A-2026-002
-EPINOVA-WB-2026-001
-EPINOVA-IWB-2026-001
+EPINOVA-WP-2026-001
+EPINOVA-IMP-2026-002
 ```
 
 ### 4.2 Working Paper Structure
@@ -256,7 +256,7 @@ EPINOVA-Research/
 ├── Policy Brief/
 ├── Working Paper/
 ├── Reports/
-├── Index White Book/
+├── Index White Paper/
 ├── assets/
 ├── tools/
 └── docs/
@@ -309,7 +309,7 @@ Crossref DOI registration is intended for EPINOVA-published:
 - Working Papers
 - Reports
 - Policy Briefs
-- White Books
+- White Papers
 - Methodology notes
 
 The Crossref DOI should resolve to the corresponding landing page on:

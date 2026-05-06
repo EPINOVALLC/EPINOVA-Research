@@ -499,7 +499,7 @@ def is_nav_line(line: str) -> bool:
     text = clean_text(line).lower()
     return text in {
         "home", "publications", "articles", "working paper", "working papers",
-        "reports", "policy brief", "policy briefs", "white books", "centers",
+        "reports", "policy brief", "policy briefs", "white papers", "centers",
         "global ai governance", "ai & societal evolution", "ai & emerging tech",
         "ai & human resilience", "maritime history & tech", "showcase", "about us",
         "contact us", "back to top",

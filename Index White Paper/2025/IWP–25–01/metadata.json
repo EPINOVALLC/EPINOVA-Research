@@ -2,12 +2,12 @@
   "epinova_id": "EPINOVA-IWP-2025-001",
   "record_type": "Publication",
   "resource_type": "Book",
-  "publication_type": "White Book",
-  "category": "white-books",
-  "publication_series": "EPINOVA Index White Book Series",
-  "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book",
+  "publication_type": "White Paper",
+  "category": "white-papers",
+  "publication_series": "EPINOVA Index White Paper Series",
+  "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper",
   "subtitle": "Version 0.1 Foundational Release",
-  "title_normalized": "survivor governance risk index sgri conceptual and methodological white book",
+  "title_normalized": "survivor governance risk index sgri conceptual and methodological white paper",
   "publication_date": "2025-12-31",
   "version": "v0.1",
   "language": "en",
@@ -35,7 +35,7 @@
     {
       "identifier": "IWP–25–01",
       "scheme": "EPINOVA internal publication number",
-      "description": "Internal EPINOVA Index White Book identifier"
+      "description": "Internal EPINOVA Index White Paper identifier"
     },
     {
       "identifier": "https://epinova.org/iwp2501",
@@ -48,8 +48,8 @@
       "description": "Zenodo/DataCite DOI landing page"
     }
   ],
-  "description": "This white book introduces the Survivor Governance Risk Index (SGRI), a conceptual and methodological framework for assessing structural political risk under AI-driven automation. It defines Survivor Governance, develops a three-dimensional indicator architecture, explains composite index construction and risk bands, provides an illustrative calculation, and outlines data sources, typologies, limitations, and future empirical upgrade pathways.",
-  "abstract": "The Survivor Governance Risk Index (SGRI) White Book develops a structural early-warning framework for assessing whether AI-driven automation may erode the socio-economic population base required for inclusive and effective political participation. Rather than measuring democratic quality, regime type, or national AI capability, SGRI evaluates whether political influence is becoming concentrated among structurally non-displaceable groups while automation-exposed populations retain formal rights but lose effective political agency. The framework operationalizes this risk through three dimensions: Material Survivorship, Political Participation Skew, and Corrective Capacity. It defines nine core indicators, specifies normalization and aggregation procedures, proposes a composite formula, introduces qualitative risk bands, and presents ideal-type risk configurations for comparative analysis. The white book emphasizes profile-based diagnosis rather than country ranking and positions SGRI as a modular risk layer for future global AI governance, digital transformation, sustainability, and competitiveness index systems.",
+  "description": "This white paper introduces the Survivor Governance Risk Index (SGRI), a conceptual and methodological framework for assessing structural political risk under AI-driven automation. It defines Survivor Governance, develops a three-dimensional indicator architecture, explains composite index construction and risk bands, provides an illustrative calculation, and outlines data sources, typologies, limitations, and future empirical upgrade pathways.",
+  "abstract": "The Survivor Governance Risk Index (SGRI) White Paper develops a structural early-warning framework for assessing whether AI-driven automation may erode the socio-economic population base required for inclusive and effective political participation. Rather than measuring democratic quality, regime type, or national AI capability, SGRI evaluates whether political influence is becoming concentrated among structurally non-displaceable groups while automation-exposed populations retain formal rights but lose effective political agency. The framework operationalizes this risk through three dimensions: Material Survivorship, Political Participation Skew, and Corrective Capacity. It defines nine core indicators, specifies normalization and aggregation procedures, proposes a composite formula, introduces qualitative risk bands, and presents ideal-type risk configurations for comparative analysis. The white paper emphasizes profile-based diagnosis rather than country ranking and positions SGRI as a modular risk layer for future global AI governance, digital transformation, sustainability, and competitiveness index systems.",
   "keywords": [
     "Survivor Governance Risk Index",
     "SGRI",
@@ -90,7 +90,7 @@
     {
       "date": "2025-12-31",
       "type": "Issued",
-      "description": "Initial public release of SGRI White Book v0.1."
+      "description": "Initial public release of SGRI White Paper v0.1."
     },
     {
       "date": "2025-12",
@@ -107,13 +107,13 @@
     {
       "label": "Download PDF",
       "filename": "Survivor Governance Risk Index Conceptual and Methodological White Book.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Book/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the SGRI conceptual and methodological white book"
+      "description": "Full-text PDF of the SGRI conceptual and methodological white paper"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2025/IWP%E2%80%9325%E2%80%9301",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301",
   "source_repository": {
     "platform": "GitHub",
     "organization": "EPINOVALLC",
@@ -139,8 +139,8 @@
       "relation": "IsIdenticalTo",
       "identifier": "https://doi.org/10.5281/zenodo.18050662",
       "scheme": "DOI",
-      "resource_type": "White Book",
-      "description": "Zenodo/DataCite DOI record for the SGRI White Book"
+      "resource_type": "White Paper",
+      "description": "Zenodo/DataCite DOI record for the SGRI White Paper"
     }
   ],
   "references": [
@@ -165,10 +165,10 @@
     "World Values Survey Association. (2023). World Values Survey wave 7: Documentation. https://www.worldvaluessurvey.org",
     "Wu, S.-Y. (2025). Survivor governance: Authority concentration under AI-driven state contraction. EPINOVA. https://epinova.org/publications/f/survivor-governance"
   ],
-  "recommended_citation": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Book (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Book (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Paper (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2025). Survivor Governance Risk Index (SGRI): Conceptual and methodological White Paper (IWP–25–01, v0.1). EPINOVA LLC. https://doi.org/10.5281/zenodo.18050662. DOI: To be assigned after Crossref membership approval.",
   "imprint": {
-    "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book",
+    "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper",
     "place": "United States",
     "publisher": "EPINOVA LLC",
     "edition": "Version 0.1 Foundational Release",
@@ -285,7 +285,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
-    "last_updated": "2026-05-02"
+    "last_updated": "2026-05-06"
   },
   "crossref": {
     "intended_registration_agency": "",

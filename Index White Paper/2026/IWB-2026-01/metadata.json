@@ -2,12 +2,12 @@
   "epinova_id": "EPINOVA-IWB-2026-01",
   "record_type": "Publication",
   "resource_type": "Book",
-  "publication_type": "White Book",
-  "category": "white-books",
-  "publication_series": "EPINOVA Index White Book Series",
-  "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+  "publication_type": "White Paper",
+  "category": "white-papers",
+  "publication_series": "EPINOVA Index White Paper Series",
+  "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper",
   "subtitle": "Version 0.1 Foundational Release",
-  "title_normalized": "ai strategic node framework ai snf conceptual and methodological white book",
+  "title_normalized": "ai strategic node framework ai snf conceptual and methodological white paper",
   "publication_date": "2026-01-31",
   "version": "v0.1",
   "language": "en",
@@ -35,7 +35,7 @@
     {
       "identifier": "IWB-2026-01",
       "scheme": "EPINOVA internal publication number",
-      "description": "Internal EPINOVA Index White Book identifier"
+      "description": "Internal EPINOVA Index White Paper identifier"
     },
     {
       "identifier": "AI-SNF v0.1",
@@ -58,8 +58,8 @@
       "description": "Zenodo/DataCite DOI landing page"
     }
   ],
-  "description": "This white book introduces the AI-Strategic Node Framework (AI-SNF) and its bounded composite diagnostic output, the AI-Strategic Node Index (AI-SNI) v0.1. It defines AI-strategic nodes as geographic, infrastructural, or institutional configurations whose position within AI-mediated perception, prediction, decision, governance, and resource-compute systems creates disproportionate strategic consequence. The white book specifies five dimensions, indicator logic, normalization and aggregation rules, exposure bands, diagnostic extensions, structural class attribution, typologies, uncertainty treatment, reporting templates, and interpretive guardrails.",
-  "abstract": "The AI-Strategic Node Framework (AI-SNF) White Book develops a governance-oriented analytical architecture for diagnosing structural leverage, fragility, control asymmetry, and systemic consequence within AI-mediated systems. Rather than ranking countries or measuring aggregate AI capacity, AI-SNF shifts the unit of analysis to strategic nodes: territories, corridors, facility clusters, chokepoints, and infrastructural configurations whose disruption, degradation, capture, or misgovernance may produce disproportionate effects across sensing, prediction, decision-making, governance, and long-horizon resource-data-compute coupling. The framework organizes assessment around five dimensions: Algorithmic Sensing and Early-Warning Centrality (D1), Predictive Model Leverage and Dependency (D2), Decision-Loop Temporal Advantage (D3), Infrastructure-Governance Asymmetry and Control (D4), and Resource-Data-Compute Coupling Potential (D5). It specifies AI-SNI as a bounded composite diagnostic output for visualization and pattern recognition, not as a predictive model, ranking mechanism, or decision-automation tool. It further introduces exposure tier bands, diagnostic extensions for governance fragility and weakest-link sensitivity, a non-computable Structural Class System (S/A/B/C), international node typologies, evidence grading, confidence treatment, and reporting templates. The foundational v0.1 release prioritizes conceptual coherence, auditability, interpretive restraint, and governance relevance before empirical scaling or operational application.",
+  "description": "This white paper introduces the AI-Strategic Node Framework (AI-SNF) and its bounded composite diagnostic output, the AI-Strategic Node Index (AI-SNI) v0.1. It defines AI-strategic nodes as geographic, infrastructural, or institutional configurations whose position within AI-mediated perception, prediction, decision, governance, and resource-compute systems creates disproportionate strategic consequence. The white paper specifies five dimensions, indicator logic, normalization and aggregation rules, exposure bands, diagnostic extensions, structural class attribution, typologies, uncertainty treatment, reporting templates, and interpretive guardrails.",
+  "abstract": "The AI-Strategic Node Framework (AI-SNF) White Paper develops a governance-oriented analytical architecture for diagnosing structural leverage, fragility, control asymmetry, and systemic consequence within AI-mediated systems. Rather than ranking countries or measuring aggregate AI capacity, AI-SNF shifts the unit of analysis to strategic nodes: territories, corridors, facility clusters, chokepoints, and infrastructural configurations whose disruption, degradation, capture, or misgovernance may produce disproportionate effects across sensing, prediction, decision-making, governance, and long-horizon resource-data-compute coupling. The framework organizes assessment around five dimensions: Algorithmic Sensing and Early-Warning Centrality (D1), Predictive Model Leverage and Dependency (D2), Decision-Loop Temporal Advantage (D3), Infrastructure-Governance Asymmetry and Control (D4), and Resource-Data-Compute Coupling Potential (D5). It specifies AI-SNI as a bounded composite diagnostic output for visualization and pattern recognition, not as a predictive model, ranking mechanism, or decision-automation tool. It further introduces exposure tier bands, diagnostic extensions for governance fragility and weakest-link sensitivity, a non-computable Structural Class System (S/A/B/C), international node typologies, evidence grading, confidence treatment, and reporting templates. The foundational v0.1 release prioritizes conceptual coherence, auditability, interpretive restraint, and governance relevance before empirical scaling or operational application.",
   "keywords": [
     "AI-Strategic Node Framework",
     "AI-SNF",
@@ -107,7 +107,7 @@
     {
       "date": "2026-01-31",
       "type": "Issued",
-      "description": "Initial public release of AI-SNF White Book v0.1. The PDF states January 2026; the metadata uses the last day of the month for a complete ISO date."
+      "description": "Initial public release of AI-SNF White Paper v0.1. The PDF states January 2026; the metadata uses the last day of the month for a complete ISO date."
     },
     {
       "date": "2026-01",
@@ -124,13 +124,13 @@
     {
       "label": "Download PDF",
       "filename": "AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Book/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the AI-SNF conceptual and methodological white book"
+      "description": "Full-text PDF of the AI-SNF conceptual and methodological white paper"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Book/2026/IWB-2026-01",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2026/IWB-2026-01",
   "source_repository": {
     "platform": "GitHub",
     "organization": "EPINOVALLC",
@@ -177,8 +177,8 @@
       "relation": "IsIdenticalTo",
       "identifier": "https://doi.org/10.5281/zenodo.18452803",
       "scheme": "DOI",
-      "resource_type": "White Book",
-      "description": "Zenodo/DataCite DOI record for the AI-SNF White Book"
+      "resource_type": "White Paper",
+      "description": "Zenodo/DataCite DOI record for the AI-SNF White Paper"
     }
   ],
   "references": [
@@ -211,10 +211,10 @@
     "World Economic Forum. (2023). Global risks report 2023. https://www.weforum.org/reports/global-risks-report-2023/",
     "Wu, Shao-Yuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA–WP–A–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165"
   ],
-  "recommended_citation": "Wu, Shao-Yuan. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book (v0.1). (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Book (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shao-Yuan. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803. DOI: To be assigned after Crossref membership approval.",
   "imprint": {
-    "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book",
+    "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper",
     "place": "United States",
     "publisher": "EPINOVA LLC",
     "edition": "Version 0.1 Foundational Release",
@@ -329,7 +329,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
-    "last_updated": "2026-05-02"
+    "last_updated": "2026-05-06"
   },
   "crossref": {
     "intended_registration_agency": "",
