@@ -96,18 +96,23 @@ After Crossref registration is completed, DOI fields and citation records will b
 ### White Papers
 
 - **EPINOVA-IWB-2026-01** (2026-01-31)  
-  **AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Book**  
+  **AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper**  
   Repository folder: [`Index White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2026/IWB-2026-01)  
   File: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
 - **EPINOVA-IWP-2025-001** (2025-12-31)  
-  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Book**  
+  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper**  
   Repository folder: [`Index White Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
   File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
 ---
 
 ### Policy Briefs
+
+- **EPINOVA-PB-2026-045** (2026-05-07)  
+  **China as a Stabilizing Network Node**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
+  File: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 - **EPINOVA-PB-2026-044** (2026-04-29)  
   **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike**  
@@ -128,11 +133,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Energy Endurance Under Systemic Shock**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-41/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41)  
   File: [`Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41/Energy%20Endurance%20Under%20Systemic%20Shock%20Divergent%20Survival%20Pathways%20in%20East%20Asia%20During%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
-
-- **EPINOVA-PB-2026-040** (2026-04-23)  
-  **Dynamic Threshold Positioning in U.S.–China Competition**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-40/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40)  
-  File: [`Dynamic Threshold Positioning in U.S.–China Competition A Phase-Resolved Assessment of Structural Resilience and LoCT Distance.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-40/Dynamic%20Threshold%20Positioning%20in%20U.S.%E2%80%93China%20Competition%20A%20Phase-Resolved%20Assessment%20of%20Structural%20Resilience%20and%20LoCT%20Distance.pdf)
 
 ---
 

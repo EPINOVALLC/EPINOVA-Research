@@ -1,7 +1,3 @@
-Index White Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
-Index White Paper/2025/IWP–25–01/metadata.json
-Index White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
-Index White Paper/2026/IWB-2026-01/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -554,10 +550,10 @@ Articles/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control-threshold/as
 Articles/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control-threshold/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
-Index White Book/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
-Index White Book/2025/IWP–25–01/metadata.json
-Index White Book/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
-Index White Book/2026/IWB-2026-01/metadata.json
+Index White Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
+Index White Paper/2025/IWP–25–01/metadata.json
+Index White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
+Index White Paper/2026/IWB-2026-01/metadata.json
 Policy Brief/2025/EPINOVA–2025–01–PB/From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf
 Policy Brief/2025/EPINOVA–2025–01–PB/metadata.json
 Policy Brief/2025/EPINOVA–2025–02–PB/Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf
@@ -652,6 +648,8 @@ Policy Brief/2026/EPINOVA–2026–PB-43/Transit of Goods through Territory of P
 Policy Brief/2026/EPINOVA–2026–PB-43/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-44/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
 Policy Brief/2026/EPINOVA–2026–PB-44/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-45/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-45/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1317,6 +1315,7 @@ docs/epinova-pb-2026-041/index.html
 docs/epinova-pb-2026-042/index.html
 docs/epinova-pb-2026-043/index.html
 docs/epinova-pb-2026-044/index.html
+docs/epinova-pb-2026-045/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-rr-2025-001/index.html
 docs/epinova-wp-2025-001-gray-zone-maritime-cdf/index.html
@@ -1415,6 +1414,7 @@ docs/files/epinova-pb-2026-041/Energy Endurance Under Systemic Shock Divergent S
 docs/files/epinova-pb-2026-042/Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf
 docs/files/epinova-pb-2026-043/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
 docs/files/epinova-pb-2026-044/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
+docs/files/epinova-pb-2026-045/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-wp-2025-001-gray-zone-maritime-cdf/Gray-Zone Maritime Rights-Protection Strategy.pdf
@@ -1543,6 +1543,7 @@ docs/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not-an-ai-sni-
 docs/when-decapitation-no-longer-matters-ai-delegated-execution-and-the-potential-failure-of-pr/index.html
 docs/where-data-centers-get-built-institutional-friction-and-the-spatial-logic-of-compute-infra/index.html
 docs/white-books/index.html
+docs/white-papers/index.html
 docs/who-is-ready-under-renewed-conflict-a-capability-sustainability-assessment-of-the-u-s-isra/index.html
 docs/who-loses-control-first-threshold-competition-in-the-2026-u-s-israel-iran-conflict/index.html
 docs/why-the-south-institutional-friction-and-the-spatial-reorganization-of-data-center-infrast/index.html
