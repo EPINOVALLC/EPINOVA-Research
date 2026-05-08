@@ -1,135 +1,598 @@
 {
   "epinova_id": "EPINOVA-IMP-2026-01",
   "record_type": "Publication",
-  "resource_type": "Text",
+  "resource_type": "Report",
   "publication_type": "Index Methodology Paper",
   "category": "index-methodology-papers",
+  "publication_series": "EPINOVA Index Methodology Paper Series",
+  "series_code": "IMP",
+  "series_number": "2026-01",
   "title": "Political Credit Index (PCI)",
   "subtitle": "Measuring Political Credibility as Strategic Intangible Capital",
-  "full_title": "Political Credit Index (PCI): Measuring Political Credibility as Strategic Intangible Capital",
+  "title_normalized": "political credit index (pci): measuring political credibility as strategic intangible capital",
+  "publication_date": "2026-05-08",
   "version": "v1.0",
-  "release_status": "Foundational Release",
+  "language": "en",
   "status": "Published",
   "visibility": "Public",
-  "language": "en",
-  "publication_date": "2026-05-08",
-  "place": "United States",
-  "doi": "To be assigned after Crossref membership approval",
-  "previous_doi": "",
   "creators": [
     {
-      "name": "Shao-Yuan Wu",
-      "given_name": "Shao-Yuan",
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
       "family_name": "Wu",
-      "orcid": "https://orcid.org/0009-0008-0660-8232",
-      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
     }
   ],
+  "contributors": [],
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
-  "description": "This Index Methodology Paper presents the foundational methodology for the Political Credit Index (PCI), a proposed framework for measuring political credibility as strategic intangible capital. It defines the conceptual basis of political credit, develops a seven-dimensional indicator architecture, introduces normalization and weighting procedures, proposes a classification and benchmarking framework, and outlines applications in governance analysis, crisis monitoring, sovereign-risk assessment, alliance credibility evaluation, and institutional self-assessment.",
-  "abstract": "Political systems do not operate only through law, coercion, administrative capacity, resources, ideology, or institutional design. They also depend on political credit: the accumulated credibility that allows political actors to convert future commitments into present cooperation. This Index Methodology Paper proposes the Political Credit Index (PCI) as a multidimensional framework for measuring political credibility as strategic intangible capital. The PCI integrates seven dimensions: commitment fulfillment, policy stability, institutional procedure, social trust, distributive fairness, external commitment credibility, and narrative consistency. It further links political credit to governance cost savings, risk-premium reduction, crisis-loss avoidance, and diplomatic or alliance leverage. Version 1.0 establishes the conceptual and methodological architecture of the index rather than a finalized empirical dataset or country ranking.",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-imp-2026-01/",
+  "official_page": "https://epinova.org/publications",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
+      "scheme": "URL",
+      "description": "EPINOVA publication landing page"
+    },
+    {
+      "identifier": "EPINOVA-IMP-2026-01",
+      "scheme": "EPINOVA index methodology paper number",
+      "description": "Index methodology paper number printed in the PDF"
+    },
+    {
+      "identifier": "Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Political Credit Index",
+      "scheme": "Short title",
+      "description": "Short form of the index methodology paper title"
+    },
+    {
+      "identifier": "PCI",
+      "scheme": "Acronym",
+      "description": "Acronym for Political Credit Index"
+    }
+  ],
+  "description": "This Index Methodology Paper introduces the Political Credit Index (PCI), a proposed framework for measuring political credibility as strategic intangible capital. It defines political credit, develops a seven-dimensional indicator architecture, provides normalization and weighting procedures, introduces valuation channels, proposes a dynamic model, and outlines applications in governance analysis, crisis monitoring, sovereign-risk assessment, alliance credibility evaluation, and institutional self-assessment.",
+  "abstract": "This Index Methodology Paper presents the foundational methodology for the Political Credit Index (PCI), a proposed framework for measuring political credibility as strategic intangible capital. The paper argues that political credit is the accumulated credibility that allows political actors to convert future commitments into present cooperation. It distinguishes political credit from reputation, legitimacy, popularity, trust, and formal authority, and develops a seven-dimensional indicator architecture covering commitment fulfillment, policy stability, institutional procedure, social trust, distributive fairness, external commitment credibility, and narrative consistency. The paper further introduces normalization and weighting methods, scenario-specific weighting templates, potential data sources and coding strategies, political-credit valuation channels, a dynamic credit-stock model, a classification and benchmarking framework, and a scenario-based illustrative calculation. Version 1.0 is presented as a foundational release intended to establish the conceptual and methodological architecture of the PCI rather than to provide a finalized empirical dataset or country ranking.",
   "keywords": [
     "Political Credit Index",
     "PCI",
+    "political credit",
     "political credibility",
     "strategic intangible capital",
-    "governance credibility",
-    "institutional trust",
+    "credibility capital",
+    "governance cost",
+    "risk premium",
+    "crisis resilience",
+    "commitment fulfillment",
     "policy stability",
+    "institutional procedure",
+    "social trust",
+    "distributive fairness",
     "external commitment credibility",
     "narrative consistency",
+    "political risk",
     "sovereign risk",
-    "crisis monitoring",
-    "index methodology"
+    "alliance credibility",
+    "deterrence credibility",
+    "governance indicators",
+    "composite index",
+    "MCCM",
+    "Political Credit Reserve",
+    "EPINOVA"
   ],
   "subjects": [
     "Political science",
-    "Governance studies",
+    "Public policy",
+    "Governance measurement",
     "International relations",
-    "Policy analysis",
+    "Political risk analysis",
+    "Sovereign-risk assessment",
+    "Crisis monitoring",
+    "Strategic studies",
+    "Institutional analysis",
     "Composite indicators",
-    "Political-risk assessment",
-    "Institutional credibility",
-    "Crisis resilience"
+    "AI-assisted policy analysis"
   ],
-  "classification": {
-    "primary_series": "Index Methodology Paper",
-    "series_code": "IMP",
-    "index_name": "Political Credit Index",
-    "index_acronym": "PCI",
-    "methodology_version": "1.0",
-    "framework_status": "Foundational methodology; not a finalized empirical dataset or country ranking"
+  "dates": [
+    {
+      "date": "2026-05-08",
+      "date_type": "Issued",
+      "description": "Foundational release date printed in the PDF"
+    },
+    {
+      "date": "2026-05-08",
+      "date_type": "Created",
+      "description": "PDF creation date and initial metadata creation date"
+    },
+    {
+      "date": "2026-05-08",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-05-08",
+      "date_type": "Metadata updated",
+      "description": "Metadata generated to EPINOVA publication schema"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "files": [
     {
-      "filename": "Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf",
       "label": "Download PDF",
+      "filename": "Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/EPINOVA-IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the Index Methodology Paper.",
-      "size_bytes": 1007138,
-      "sha256": "4a419e95a9272544c1081fec75848abba2f8a85284a10e19412f8caf745e1bf8",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf"
+      "format": "application/pdf",
+      "description": "Full-text PDF of the index methodology paper",
+      "pages": 60
     }
   ],
-  "landing_page": "https://publications.epinova.org/epinova-imp-2026-01/",
-  "official_page": "https://publications.epinova.org/epinova-imp-2026-01/",
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01",
-  "crossref": {
-    "intended_registration_agency": "Crossref",
-    "registration_status": "Pending",
-    "crossref_url": "https://publications.epinova.org/epinova-imp-2026-01/",
-    "crossref_doi_suffix": "epinova.imp.2026.01"
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/EPINOVA-IMP-2026-01",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
   },
-  "alternate_identifiers": [
+  "series_information": {
+    "series_name": "EPINOVA Index Methodology Paper Series",
+    "series_code": "IMP",
+    "series_number": "2026-01",
+    "series_description": "Index methodology paper series presenting EPINOVA conceptual and methodological architectures for measurement frameworks, indicator systems, benchmarking models, risk-assessment indices, and policy-facing analytical tools."
+  },
+  "methodology": {
+    "framework_name": "Political Credit Index (PCI)",
+    "version": "Version 1.0 - Foundational Release",
+    "source_basis": "Conceptual and methodological framework based on political credibility theory, composite index construction, governance indicators, institutional trust research, fragility and rule-of-law measurement, sovereign-risk analysis, and EPINOVA conflict-monitoring applications.",
+    "case_context": "The paper proposes a general framework rather than a country ranking. A hypothetical high-capacity but credit-stressed political system is used only to demonstrate calculation and interpretation.",
+    "core_problem": "Existing indices measure adjacent concepts such as governance quality, public trust, democracy, corruption, state fragility, and sovereign risk, but do not directly measure political credibility as a strategic capital stock that can be accumulated, depleted, repaired, priced, and converted across domestic and international arenas.",
+    "central_claims": [
+      "Political credit is a strategic intangible asset that allows political actors to convert future commitments into present cooperation.",
+      "Credit depletion raises governance friction before it necessarily produces institutional breakdown.",
+      "Domestic and international credibility are connected, because credibility loss at home may increase diplomatic, alliance, market, and deterrence costs abroad.",
+      "Narrative consistency is an undermeasured source of political credibility, especially during crisis.",
+      "Political credit is dynamic and can accumulate, deplete, collapse, and recover over time.",
+      "PCI should be interpreted as a diagnostic framework for credibility capital rather than as a moral ranking, regime-quality score, or deterministic prediction model."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Strategic Intangible Capital",
+        "description": "Treats political credibility as a capital stock that changes the cost of governance, coordination, reassurance, deterrence, and risk pricing."
+      },
+      {
+        "name": "Credibility Conversion",
+        "description": "Evaluates whether political authority, promises, warnings, reforms, and institutional signals are believed sufficiently to produce cooperation without excessive enforcement, compensation, or reassurance."
+      },
+      {
+        "name": "Seven-Dimensional Composite Index",
+        "description": "Aggregates commitment fulfillment, policy stability, institutional procedure, social trust, distributive fairness, external commitment credibility, and narrative consistency into a normalized composite score."
+      },
+      {
+        "name": "Scenario-Specific Weighting",
+        "description": "Allows weights to vary across domestic governance, international crisis, and market/sovereign-risk applications."
+      },
+      {
+        "name": "Political Credit Valuation",
+        "description": "Links political credit to governance cost savings, risk-premium reduction, crisis-loss avoidance, and diplomatic or alliance leverage."
+      },
+      {
+        "name": "Dynamic Credit-Stock Modeling",
+        "description": "Models political credit as a stock that changes through accumulation, depletion, and repair over time."
+      },
+      {
+        "name": "Political Credit Reserve",
+        "description": "Adapts PCI for conflict monitoring by subtracting crisis exposure from the available political-credit stock."
+      }
+    ],
+    "general_formula": "PCI = w1*Cc + w2*Cp + w3*Ci + w4*Cs + w5*Cd + w6*Ce + w7*Cn",
+    "baseline_equal_weight_formula": "PCI = (Cc + Cp + Ci + Cs + Cd + Ce + Cn) / 7",
+    "dynamic_model": "PCI(t+1) = PCI(t) + A(t) - D(t) + R(t)",
+    "event_decay_model": "PCI(t) = PCI(t-1) * (1 - rho*D(t)) + A(t) + R(t)",
+    "political_credit_reserve_formula": "PCR(t) = PCI(t) - E(t)"
+  },
+  "dimensions": [
     {
-      "scheme": "EPINOVA ID",
-      "identifier": "EPINOVA-IMP-2026-01",
-      "description": "EPINOVA internal publication identifier."
+      "name": "Commitment Fulfillment Credit",
+      "code": "Cc",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Are major promises fulfilled?",
+      "main_evidence_type": "Pledge records, treaty compliance, budget execution, crisis compensation records, and other major commitment-tracking evidence.",
+      "formula": "Cc = [sum(Fi * Ii) / sum(Ii)] * 100",
+      "interpretation": "Measures whether major promises, pledges, and obligations are fulfilled, with high-importance commitments weighted more heavily."
     },
     {
-      "scheme": "URL",
-      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
-      "description": "Official EPINOVA publication landing page."
+      "name": "Policy Stability Credit",
+      "code": "Cp",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Is policy direction predictable?",
+      "main_evidence_type": "Reversal rates, regulatory volatility, fiscal-continuity records, executive-legislative policy conflict, and long-term policy durability.",
+      "formula": "Cp = 100 - PRR; PRR = (Reversed or Abandoned Major Policies / Total Major Policies) * 100",
+      "interpretation": "Measures whether policy direction is stable, predictable, and durable, while recognizing that adaptive correction may be rational when credibly explained."
+    },
+    {
+      "name": "Institutional Procedure Credit",
+      "code": "Ci",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Are decisions rule-bound?",
+      "main_evidence_type": "Rule of law, transparency, accountability, regulatory quality, corruption control, institutional constraints, and participation measures.",
+      "formula": "Ci = (L + T + A + R + P) / 5",
+      "interpretation": "Measures whether political decisions follow stable, transparent, accountable, and rule-bound procedures."
+    },
+    {
+      "name": "Social Trust Credit",
+      "code": "Cs",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Does society cooperate voluntarily?",
+      "main_evidence_type": "Trust surveys, policy compliance, protest data, event datasets, public-opinion time series, and residual institutional participation.",
+      "formula": "Cs = alpha*Tr + beta*Cr + gamma*Ir - delta*Pr - epsilon*Hr",
+      "interpretation": "Measures whether society believes political authority and cooperates voluntarily, including residual institutional participation when generalized trust is low."
+    },
+    {
+      "name": "Distributive Fairness Credit",
+      "code": "Cd",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Are burdens perceived as fair?",
+      "main_evidence_type": "Inequality, regional grievance, inflation burden, unemployment pressure, welfare exclusion, and related distributive-stress measures.",
+      "formula": "Cd = 100 - DGS",
+      "interpretation": "Measures whether citizens and stakeholders believe that political costs and benefits are fairly allocated."
+    },
+    {
+      "name": "External Commitment Credit",
+      "code": "Ce",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Are external commitments believed?",
+      "main_evidence_type": "Treaty records, alliance behavior, deterrence signals, agreement continuity, coalition participation, and external commitment tests.",
+      "formula": "Ce = (TC + AR + DC + AC) / 4",
+      "interpretation": "Measures whether allies, adversaries, partners, and markets believe international commitments, warnings, guarantees, and agreements."
+    },
+    {
+      "name": "Narrative Consistency Credit",
+      "code": "Cn",
+      "indicator_type": "Credibility dimension",
+      "core_question": "Do official explanations match reality?",
+      "main_evidence_type": "Official statements, fact-check databases, media-content analysis, contradiction coding, expert assessments, and AI-assisted textual analysis.",
+      "formula": "Cn = 100 - NCI; NCI = lambda1*SCR + lambda2*DCG + lambda3*PERD + lambda4*SOC + lambda5*SGA",
+      "interpretation": "Measures whether official explanations remain coherent, credible, and aligned with observable reality, especially during crisis."
     }
+  ],
+  "classification_framework": [
+    {
+      "score_range": "85-100",
+      "classification_level": "High Political Credit",
+      "interpretation": "Political commitments are highly credible across major audiences; governance, crisis communication, alliance coordination, and market reassurance operate with relatively low credibility friction."
+    },
+    {
+      "score_range": "70-84",
+      "classification_level": "Stable Political Credit",
+      "interpretation": "Political credibility remains broadly robust, although some dimensions may display manageable vulnerabilities."
+    },
+    {
+      "score_range": "55-69",
+      "classification_level": "Moderate Political Credit",
+      "interpretation": "Political authority remains credible but no longer operates with low-friction acceptance; additional explanation, reassurance, coalition management, or compensation may be required."
+    },
+    {
+      "score_range": "40-54",
+      "classification_level": "Fragile Political Credit",
+      "interpretation": "Political commitments are substantially discounted by important audiences; formal authority may remain operational, but compliance and crisis management become more costly."
+    },
+    {
+      "score_range": "25-39",
+      "classification_level": "Political Credit Crisis",
+      "interpretation": "Credibility loss extends across multiple domains and audiences increasingly hedge against future commitments."
+    },
+    {
+      "score_range": "0-24",
+      "classification_level": "Political Credit Collapse",
+      "interpretation": "Political signals, promises, warnings, and official narratives lose most practical force, even if formal authority persists."
+    }
+  ],
+  "valuation_channels": [
+    {
+      "name": "Governance Cost Savings",
+      "code": "PCV1",
+      "formula": "PCV1 = C_low_credit - C_high_credit",
+      "description": "Value generated when political credit lowers policy implementation costs, enforcement costs, compensation needs, and administrative friction."
+    },
+    {
+      "name": "Risk Premium Reduction",
+      "code": "PCV2",
+      "formula": "PCV2 = (r_low_credit - r_high_credit) * D",
+      "description": "Value generated when political credit reduces sovereign, market, financing, investment, or project-risk premiums."
+    },
+    {
+      "name": "Crisis Loss Avoidance",
+      "code": "PCV3",
+      "formula": "PCV3 = EL_low_credit - EL_high_credit",
+      "description": "Expected losses avoided because political credit improves crisis absorption capacity and reduces panic, capital flight, disorderly reactions, and escalation probability."
+    },
+    {
+      "name": "Diplomatic and Alliance Leverage",
+      "code": "PCV4",
+      "formula": "PCV4 = V_credible_commitment - V_discounted_commitment",
+      "description": "Value generated by credible external commitments, warnings, alignment signals, alliance reassurance, and deterrence effects."
+    },
+    {
+      "name": "Total Political Credit Value",
+      "code": "PCV",
+      "formula": "PCV = lambda1*PCV1 + lambda2*PCV2 + lambda3*PCV3 + lambda4*PCV4",
+      "description": "Aggregate estimated value generated by political credit across selected valuation channels."
+    }
+  ],
+  "scenario_weighting_templates": [
+    {
+      "scenario": "Domestic Governance",
+      "weights": {
+        "Cc": 0.15,
+        "Cp": 0.15,
+        "Ci": 0.15,
+        "Cs": 0.2,
+        "Cd": 0.15,
+        "Ce": 0.05,
+        "Cn": 0.15
+      }
+    },
+    {
+      "scenario": "International Crisis",
+      "weights": {
+        "Cc": 0.1,
+        "Cp": 0.1,
+        "Ci": 0.1,
+        "Cs": 0.1,
+        "Cd": 0.1,
+        "Ce": 0.3,
+        "Cn": 0.2
+      }
+    },
+    {
+      "scenario": "Market and Sovereign Risk",
+      "weights": {
+        "Cc": 0.2,
+        "Cp": 0.2,
+        "Ci": 0.2,
+        "Cs": 0.1,
+        "Cd": 0.1,
+        "Ce": 0.1,
+        "Cn": 0.1
+      }
+    }
+  ],
+  "illustrative_example": {
+    "case_name": "Country A",
+    "case_description": "Hypothetical high-capacity but credit-stressed political system used for methodological demonstration only; not a formal empirical assessment of any real country.",
+    "sub_index_scores": {
+      "Cc": 62.67,
+      "Cp": 50.0,
+      "Ci": 68.0,
+      "Cs": 40.5,
+      "Cd": 51.0,
+      "Ce": 65.0,
+      "Cn": 41.6
+    },
+    "composite_pci": 54.11,
+    "classification": "Upper boundary of Fragile Political Credit",
+    "interpretation": "Political authority remains operational but increasingly costly to exercise. Formal institutions continue to function, while political signals produce less automatic compliance, policy promises are more heavily discounted, external commitments require additional reassurance, and official narratives face greater contestation."
+  },
+  "key_findings": [
+    "Political credit is a strategic asset that allows political actors to convert future commitments into present cooperation.",
+    "Credit depletion usually raises governance friction before it produces institutional breakdown.",
+    "Domestic and international credibility are connected, because loss of domestic credibility can raise diplomatic, alliance, market, and deterrence costs abroad.",
+    "Narrative consistency is an undermeasured source of political credibility and may erode quickly when official explanations diverge from observable reality or lived experience.",
+    "Political credit is dynamic: it accumulates through fulfilled commitments, credible procedure, burden sharing, external reliability, and transparent correction, and depletes through broken promises, arbitrary reversal, unequal sacrifice, abandoned commitments, and contradictory narratives."
+  ],
+  "policy_recommendations": [
+    "Use PCI as a diagnostic framework for measuring credibility capital rather than as a moral ranking or deterministic prediction model.",
+    "Report sub-index distributions, score trajectory, data-quality ratings, peer-group comparisons, and audience-specific credibility profiles rather than relying only on a composite score.",
+    "Apply scenario-specific weighting for domestic governance, international crisis, and market/sovereign-risk applications.",
+    "Validate PCI against external outcomes such as sovereign bond spreads, CDS spreads, policy compliance rates, protest intensity, capital flight, alliance contribution, and crisis escalation probability.",
+    "Develop an AI-assisted Narrative Contradiction Index with human validation to assess alignment between official narratives and observable outcomes.",
+    "Integrate PCI with the Multi-Layer Coupled Complexity Model as a Political Credit Reserve variable for conflict-monitoring and crisis-resilience analysis."
+  ],
+  "future_research": [
+    "Construct a full PCI dataset for selected countries, governments, alliances, and international organizations.",
+    "Develop a crisis-time PCI model with daily or event-based credit depletion and recovery functions.",
+    "Build an AI-assisted Narrative Contradiction Index for official-statement and outcome alignment analysis.",
+    "Develop a political credit valuation model linked to bond spreads, CDS spreads, investment flows, capital flight, and insurance pricing.",
+    "Create an alliance credibility sub-index measuring security commitment reliability, red-line enforcement, burden sharing, coalition durability, reassurance cost, and partner hedging.",
+    "Integrate PCI with MCCM as a Political Credit Reserve variable to model crisis-absorption capacity, alliance hedging, domestic shock sensitivity, and exit-bargaining cost."
   ],
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "EPINOVA Index Methodology Paper Series",
-      "scheme": "EPINOVA Series",
-      "resource_type": "Series",
-      "description": "Index methodology publications presenting measurement frameworks, normalization, weighting, classification, validation, and scoring systems."
+      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
+      "scheme": "URL",
+      "resource_type": "Publication landing page",
+      "description": "EPINOVA landing page for this Index Methodology Paper"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.1017/S0043887120000246",
+      "scheme": "DOI",
+      "resource_type": "Journal article",
+      "description": "Jervis, Yarhi-Milo, and Casler (2021) on reputation and credibility in international security"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.25522/manifesto.mpds.2025a",
+      "scheme": "DOI",
+      "resource_type": "Dataset",
+      "description": "Manifesto Data Collection, version 2025a"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.1787/9a20554b-en",
+      "scheme": "DOI",
+      "resource_type": "Report",
+      "description": "OECD Survey on Drivers of Trust in Public Institutions: 2024 Results"
+    },
+    {
+      "relation": "References",
+      "identifier": "https://doi.org/10.1787/0efd0bcd-en",
+      "scheme": "DOI",
+      "resource_type": "Report",
+      "description": "OECD Government at a Glance 2025"
     }
   ],
-  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
   "references": [
-    "Fund for Peace. (n.d.-a). Fragile States Index: Indicators. Fragile States Index. Retrieved May 6, 2026, from https://fragilestatesindex.org/indicators/",
+    "Fund for Peace. (n.d.-a). Fragile States Index: Indicators. Fragile States Index. Retrieved May 8, 2026, from https://fragilestatesindex.org/indicators/",
     "Fund for Peace. (n.d.-b). Fragile States Index: Methodology. Fragile States Index. Retrieved May 6, 2026, from https://fragilestatesindex.org/methodology/",
-    "Gallup. (n.d.). Confidence in institutions. Gallup Historical Trends. Retrieved May 6, 2026, from https://news.gallup.com/poll/1597/confidence-institutions.aspx",
-    "Jervis, R., Yarhi-Milo, K., & Casler, D. (2021). Redefining the debate over reputation and credibility in international security: Promises and limits of new scholarship. World Politics, 73(1), 167–203. https://doi.org/10.1017/S0043887120000246",
+    "Gallup. (n.d.). Confidence in institutions. Gallup Historical Trends. Retrieved May 8, 2026, from https://news.gallup.com/poll/1597/confidence-institutions.aspx",
+    "Jervis, R., Yarhi-Milo, K., & Casler, D. (2021). Redefining the debate over reputation and credibility in international security: Promises and limits of new scholarship. World Politics, 73(1), 167-203. https://doi.org/10.1017/S0043887120000246",
     "Lehmann, P., Franzmann, S., Al-Gaddooa, D., Burst, T., Ivanusch, C., Regel, S., Riethmüller, F., Volkens, A., Weßels, B., & Zehnter, L. (2025). The Manifesto Data Collection: Manifesto Project (MRG/CMP/MARPOR), version 2025a. Wissenschaftszentrum Berlin für Sozialforschung / Institut für Demokratieforschung. https://doi.org/10.25522/manifesto.mpds.2025a",
     "Nord, M., Good God, A., & Lindberg, S. I. (2026). Democracy report 2026: Unraveling the democratic era? V-Dem Institute. https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf",
     "OECD. (2024). OECD survey on drivers of trust in public institutions: 2024 results. OECD Publishing. https://doi.org/10.1787/9a20554b-en",
     "OECD. (2025). Government at a glance 2025. OECD Publishing. https://doi.org/10.1787/0efd0bcd-en",
-    "Pew Research Center. (2025, December 4). Public trust in government: 1958–2025. https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/",
+    "Pew Research Center. (2025, December 4). Public trust in government: 1958-2025. https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/",
     "World Bank. (2025a). Worldwide Governance Indicators. https://www.worldbank.org/en/publication/worldwide-governance-indicators",
     "World Bank. (2025b). The Worldwide Governance Indicators: 2025 methodology revision. https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202025%20Methodology%20Revision.pdf",
     "World Justice Project. (2025). WJP Rule of Law Index 2025. https://worldjusticeproject.org/rule-of-law-index/"
   ],
-  "version_history": [
+  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-01/",
+  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-01/",
+  "short_citation": "Wu (2026), Political Credit Index (PCI), EPINOVA-IMP-2026-01.",
+  "imprint": {
+    "title": "EPINOVA Index Methodology Paper Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "Version 1.0, Foundational Release",
+    "date": "2026-05-08",
+    "pagination": "60 pages"
+  },
+  "figures": [],
+  "tables": [
     {
-      "version": "Version 1.0",
-      "date": "2026-05-06",
-      "description": "Initial Index Methodology Paper proposing the Political Credit Index framework, including conceptual definition, seven-dimensional indicator architecture, normalization and weighting methods, classification standards, valuation logic, dynamic model, illustrative calculation, data-source strategy, application scenarios, and future research agenda."
+      "number": "Table 1",
+      "title": "Political Credit and Related Concepts",
+      "description": "Distinguishes political credit from reputation, legitimacy, popularity, trust, and formal authority.",
+      "source": "Author's framework",
+      "note": "Political credit is defined as usable credibility in future commitments rather than only past reputation, moral legitimacy, public approval, trust, or formal authority."
+    },
+    {
+      "number": "Table 2",
+      "title": "PCI Indicator Architecture Summary",
+      "description": "Summarizes the seven core dimensions of the Political Credit Index, their core questions, and main evidence types.",
+      "source": "Author's framework",
+      "note": "Each dimension is later operationalized through normalized sub-indicators and combined into a weighted composite index."
+    },
+    {
+      "number": "Table 3",
+      "title": "Scenario-Specific Weighting Templates for PCI",
+      "description": "Provides weighting templates for domestic governance, international crisis, and market/sovereign-risk applications.",
+      "source": "Author's framework",
+      "note": "Weights are scenario templates and should be adjusted through expert judgment, empirical validation, or sensitivity testing."
+    },
+    {
+      "number": "Table 4",
+      "title": "Potential Data Sources for PCI Construction",
+      "description": "Lists possible data sources for each PCI dimension, including manifesto data, treaty records, governance indicators, trust surveys, protest datasets, inequality data, and narrative-analysis sources.",
+      "source": "Author's framework, drawing on governance, democracy, trust, fragility, rule-of-law, and public-opinion data infrastructures",
+      "note": "Sources are illustrative rather than exhaustive; data availability varies across countries, regime types, crisis contexts, and time windows."
+    },
+    {
+      "number": "Table 5",
+      "title": "PCI Classification and International Benchmarking Framework",
+      "description": "Maps the 0-100 PCI score into six provisional interpretive categories: High Political Credit, Stable Political Credit, Moderate Political Credit, Fragile Political Credit, Political Credit Crisis, and Political Credit Collapse.",
+      "source": "Author's framework",
+      "note": "Threshold ranges are proposed for analytical interpretation and require empirical validation, sensitivity analysis, historical case comparison, and expert review."
+    },
+    {
+      "number": "Table 6",
+      "title": "Hypothetical Sub-Indicator Inputs for Country A",
+      "description": "Provides hypothetical sub-indicator inputs for a high-capacity but credit-stressed system used to demonstrate PCI calculation.",
+      "source": "Author's hypothetical scenario",
+      "note": "Scores are illustrative and do not represent a formal empirical assessment of any real country."
+    },
+    {
+      "number": "Table 7",
+      "title": "Distinction between PCI and Existing Measurement Frameworks",
+      "description": "Compares PCI with government trust surveys, Worldwide Governance Indicators, V-Dem, Fragile States Index, and sovereign-risk ratings.",
+      "source": "Author's framework",
+      "note": "PCI is complementary and reorganizes existing domains around credibility capital rather than governance quality, democracy, fragility, or market risk in isolation."
     }
   ],
-  "disclaimer": "This Index Methodology Paper presents a conceptual and methodological framework for measuring political credibility as strategic intangible capital. The Political Credit Index is proposed as an analytical and diagnostic tool and should not be interpreted as a moral ranking, deterministic prediction model, or final empirical dataset.",
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This Index Methodology Paper presents a conceptual and methodological framework for measuring political credibility as strategic intangible capital. The Political Credit Index is proposed as an analytical and diagnostic tool. It should not be interpreted as a moral ranking, deterministic prediction model, or final empirical dataset. All indicators, weights, thresholds, valuation channels, and dynamic assumptions require further validation through empirical testing, expert review, case comparison, and sensitivity analysis. The views expressed in this paper are those of the author and do not necessarily represent the position of any external institution, government, organization, or partner entity. The PCI framework is intended for research, policy analysis, risk assessment, and institutional self-evaluation. It should be applied with contextual caution, data transparency, and methodological review.",
   "metadata_source": {
+    "source_file": "Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, visual inspection of rendered page images, PDF embedded metadata extraction, and reconciliation with EPINOVA metadata schema",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-08",
-    "last_updated": "2026-05-08"
+    "last_updated": "2026-05-08",
+    "notes": "PDF supplied title, subtitle, version, release status, EPINOVA identifier, publication date, author and ORCID, institutional affiliation, executive summary, key findings, PCI indicator architecture, formulas, weighting templates, data-source strategy, valuation channels, dynamic model, classification framework, hypothetical calculation, applications, limitations, future research agenda, references, disclaimer, version history, and citation recommendation. No DOI is printed in the PDF; Crossref DOI remains pending unless later assigned."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-05-08T18:30:28-04:00",
+    "modification_date": "2026-05-08T18:30:28-04:00",
+    "pages": 60
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated in the PDF. The landing page is prepared as the intended DOI resolution interface once Crossref registration is available.",
+    "crossref_url": "https://publications.epinova.org/epinova-imp-2026-01/",
+    "crossref_doi_suffix": "epinova.imp.2026.001",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Index Methodology Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
   }
 }
