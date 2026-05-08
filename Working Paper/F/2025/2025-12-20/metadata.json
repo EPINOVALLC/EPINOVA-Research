@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2025-004",
+  "epinova_id": "EPINOVA-WP-F-2025-04",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -246,7 +246,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-07",
+    "last_updated": "2026-05-08",
     "notes": "PDF supplied title, author, ORCID, affiliation, publication date, abstract, structure, conceptual framework, key findings, conclusion, and references. Early metadata supplied DOI, ORCID put-code, repository URLs, and original ORCID Public API source information."
   },
   "crossref": {

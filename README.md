@@ -93,15 +93,29 @@ DOI: To be assigned after Crossref membership approval.
 
 After Crossref registration is completed, DOI fields and citation records will be updated accordingly.
 
+### Index Methodology Papers
+
+- **EPINOVA-IMP-2026-01** (2026-05-08)  
+  **Political Credit Index (PCI)**  
+  Repository folder: [`Index Methodology Paper/2026/IMP-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01)  
+  File: [`Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf)
+
+- **EPINOVA-IWP-2025-01** (2025-12-31)  
+  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper**  
+  Repository folder: [`Index Methodology Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
+  File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
+
+---
+
 ### White Papers
 
-- **EPINOVA-IWB-2026-01** (2026-01-31)  
-  **AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper**  
+- **IWB-2026-01** (2026)  
+  **AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book**  
   Repository folder: [`Index White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2026/IWB-2026-01)  
   File: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
-- **EPINOVA-IWP-2025-001** (2025-12-31)  
-  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper**  
+- **IWP–25–01** (2025)  
+  **Survivor Governance Risk Index Conceptual and Methodological White Book**  
   Repository folder: [`Index White Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
   File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
@@ -138,7 +152,7 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Reports
 
-- **EPINOVA-PR-2025-001** (2025-12-31)  
+- **EPINOVA-PR-2025-01** (2025-12-31)  
   **Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments**  
   Repository folder: [`Policy Report/2025/EPINOVA–2025–PR–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301)  
   File: [`Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301/Nonlinear%20Uncertainty%20in%20Drone%20Warfare%20Why%20Indeterminacy%20Outperforms%20Precision%20in%20Contested%20ISR%20Environments.pdf)
@@ -147,7 +161,7 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Research Reports
 
-- **EPINOVA-RR-2025-001** (2025-12-31)  
+- **EPINOVA-RR-2025-01** (2025-12-31)  
   **From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War**  
   Repository folder: [`Research Report/2025/EPINOVA–2025–01–RR/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR)  
   File: [`From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf)

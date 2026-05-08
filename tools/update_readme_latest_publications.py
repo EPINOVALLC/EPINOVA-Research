@@ -30,6 +30,7 @@ REPOSITORY_FILES_NAME = "repository_files.txt"
 LATEST_SECTION_TITLE = "## Latest Publications"
 
 CATEGORY_ORDER = [
+    "Index Methodology Paper",
     "Index White Paper",
     "Policy Brief",
     "Policy Report",
@@ -38,6 +39,7 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_LABELS = {
+    "Index Methodology Paper": "Index Methodology Papers",
     "Index White Paper": "White Papers",
     "Policy Brief": "Policy Briefs",
     "Policy Report": "Policy Reports",

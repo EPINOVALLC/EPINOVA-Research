@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-A-2026-001",
+  "epinova_id": "EPINOVA-WP-A-2026-01",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -246,7 +246,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
-    "last_updated": "2026-05-07",
+    "last_updated": "2026-05-08",
     "source_pdf": "Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf"
   },
   "crossref": {

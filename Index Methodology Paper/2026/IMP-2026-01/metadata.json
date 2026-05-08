@@ -1,0 +1,135 @@
+{
+  "epinova_id": "EPINOVA-IMP-2026-01",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "publication_type": "Index Methodology Paper",
+  "category": "index-methodology-papers",
+  "title": "Political Credit Index (PCI)",
+  "subtitle": "Measuring Political Credibility as Strategic Intangible Capital",
+  "full_title": "Political Credit Index (PCI): Measuring Political Credibility as Strategic Intangible Capital",
+  "version": "v1.0",
+  "release_status": "Foundational Release",
+  "status": "Published",
+  "visibility": "Public",
+  "language": "en",
+  "publication_date": "2026-05-08",
+  "place": "United States",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "",
+  "creators": [
+    {
+      "name": "Shao-Yuan Wu",
+      "given_name": "Shao-Yuan",
+      "family_name": "Wu",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "description": "This Index Methodology Paper presents the foundational methodology for the Political Credit Index (PCI), a proposed framework for measuring political credibility as strategic intangible capital. It defines the conceptual basis of political credit, develops a seven-dimensional indicator architecture, introduces normalization and weighting procedures, proposes a classification and benchmarking framework, and outlines applications in governance analysis, crisis monitoring, sovereign-risk assessment, alliance credibility evaluation, and institutional self-assessment.",
+  "abstract": "Political systems do not operate only through law, coercion, administrative capacity, resources, ideology, or institutional design. They also depend on political credit: the accumulated credibility that allows political actors to convert future commitments into present cooperation. This Index Methodology Paper proposes the Political Credit Index (PCI) as a multidimensional framework for measuring political credibility as strategic intangible capital. The PCI integrates seven dimensions: commitment fulfillment, policy stability, institutional procedure, social trust, distributive fairness, external commitment credibility, and narrative consistency. It further links political credit to governance cost savings, risk-premium reduction, crisis-loss avoidance, and diplomatic or alliance leverage. Version 1.0 establishes the conceptual and methodological architecture of the index rather than a finalized empirical dataset or country ranking.",
+  "keywords": [
+    "Political Credit Index",
+    "PCI",
+    "political credibility",
+    "strategic intangible capital",
+    "governance credibility",
+    "institutional trust",
+    "policy stability",
+    "external commitment credibility",
+    "narrative consistency",
+    "sovereign risk",
+    "crisis monitoring",
+    "index methodology"
+  ],
+  "subjects": [
+    "Political science",
+    "Governance studies",
+    "International relations",
+    "Policy analysis",
+    "Composite indicators",
+    "Political-risk assessment",
+    "Institutional credibility",
+    "Crisis resilience"
+  ],
+  "classification": {
+    "primary_series": "Index Methodology Paper",
+    "series_code": "IMP",
+    "index_name": "Political Credit Index",
+    "index_acronym": "PCI",
+    "methodology_version": "1.0",
+    "framework_status": "Foundational methodology; not a finalized empirical dataset or country ranking"
+  },
+  "files": [
+    {
+      "filename": "Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf",
+      "label": "Download PDF",
+      "content_type": "application/pdf",
+      "description": "Full-text PDF of the Index Methodology Paper.",
+      "size_bytes": 1007138,
+      "sha256": "4a419e95a9272544c1081fec75848abba2f8a85284a10e19412f8caf745e1bf8",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf"
+    }
+  ],
+  "landing_page": "https://publications.epinova.org/epinova-imp-2026-01/",
+  "official_page": "https://publications.epinova.org/epinova-imp-2026-01/",
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01",
+  "crossref": {
+    "intended_registration_agency": "Crossref",
+    "registration_status": "Pending",
+    "crossref_url": "https://publications.epinova.org/epinova-imp-2026-01/",
+    "crossref_doi_suffix": "epinova.imp.2026.01"
+  },
+  "alternate_identifiers": [
+    {
+      "scheme": "EPINOVA ID",
+      "identifier": "EPINOVA-IMP-2026-01",
+      "description": "EPINOVA internal publication identifier."
+    },
+    {
+      "scheme": "URL",
+      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
+      "description": "Official EPINOVA publication landing page."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "EPINOVA Index Methodology Paper Series",
+      "scheme": "EPINOVA Series",
+      "resource_type": "Series",
+      "description": "Index methodology publications presenting measurement frameworks, normalization, weighting, classification, validation, and scoring systems."
+    }
+  ],
+  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "references": [
+    "Fund for Peace. (n.d.-a). Fragile States Index: Indicators. Fragile States Index. Retrieved May 6, 2026, from https://fragilestatesindex.org/indicators/",
+    "Fund for Peace. (n.d.-b). Fragile States Index: Methodology. Fragile States Index. Retrieved May 6, 2026, from https://fragilestatesindex.org/methodology/",
+    "Gallup. (n.d.). Confidence in institutions. Gallup Historical Trends. Retrieved May 6, 2026, from https://news.gallup.com/poll/1597/confidence-institutions.aspx",
+    "Jervis, R., Yarhi-Milo, K., & Casler, D. (2021). Redefining the debate over reputation and credibility in international security: Promises and limits of new scholarship. World Politics, 73(1), 167–203. https://doi.org/10.1017/S0043887120000246",
+    "Lehmann, P., Franzmann, S., Al-Gaddooa, D., Burst, T., Ivanusch, C., Regel, S., Riethmüller, F., Volkens, A., Weßels, B., & Zehnter, L. (2025). The Manifesto Data Collection: Manifesto Project (MRG/CMP/MARPOR), version 2025a. Wissenschaftszentrum Berlin für Sozialforschung / Institut für Demokratieforschung. https://doi.org/10.25522/manifesto.mpds.2025a",
+    "Nord, M., Good God, A., & Lindberg, S. I. (2026). Democracy report 2026: Unraveling the democratic era? V-Dem Institute. https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf",
+    "OECD. (2024). OECD survey on drivers of trust in public institutions: 2024 results. OECD Publishing. https://doi.org/10.1787/9a20554b-en",
+    "OECD. (2025). Government at a glance 2025. OECD Publishing. https://doi.org/10.1787/0efd0bcd-en",
+    "Pew Research Center. (2025, December 4). Public trust in government: 1958–2025. https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/",
+    "World Bank. (2025a). Worldwide Governance Indicators. https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "World Bank. (2025b). The Worldwide Governance Indicators: 2025 methodology revision. https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202025%20Methodology%20Revision.pdf",
+    "World Justice Project. (2025). WJP Rule of Law Index 2025. https://worldjusticeproject.org/rule-of-law-index/"
+  ],
+  "version_history": [
+    {
+      "version": "Version 1.0",
+      "date": "2026-05-06",
+      "description": "Initial Index Methodology Paper proposing the Political Credit Index framework, including conceptual definition, seven-dimensional indicator architecture, normalization and weighting methods, classification standards, valuation logic, dynamic model, illustrative calculation, data-source strategy, application scenarios, and future research agenda."
+    }
+  ],
+  "disclaimer": "This Index Methodology Paper presents a conceptual and methodological framework for measuring political credibility as strategic intangible capital. The Political Credit Index is proposed as an analytical and diagnostic tool and should not be interpreted as a moral ranking, deterministic prediction model, or final empirical dataset.",
+  "metadata_source": {
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-05-08",
+    "last_updated": "2026-05-08"
+  }
+}

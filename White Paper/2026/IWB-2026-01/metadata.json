@@ -124,13 +124,13 @@
     {
       "label": "Download PDF",
       "filename": "AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
       "description": "Full-text PDF of the AI-SNF conceptual and methodological white paper"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2026/IWB-2026-01",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/White%20Paper/2026/IWB-2026-01",
   "source_repository": {
     "platform": "GitHub",
     "organization": "EPINOVALLC",
@@ -329,7 +329,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-05-08"
   },
   "crossref": {
     "intended_registration_agency": "",

@@ -58,6 +58,7 @@ CATEGORY_ORDER = [
     "policy-briefs",
     "working-papers",
     "white-papers",
+    "index-methodology-papers",
     "research-reports",
     "policy-reports",
 ]
@@ -67,6 +68,7 @@ CATEGORY_LABELS = {
     "policy-briefs": "Policy Briefs",
     "working-papers": "Working Papers",
     "white-papers": "White Papers",
+    "index-methodology-papers": "Index Methodology Papers",
     "research-reports": "Research Reports",
     "policy-reports": "Policy Reports",
     "reports": "Reports",
@@ -737,6 +739,7 @@ def site_header() -> str:
     <a href="/policy-briefs/">Policy Briefs</a>
     <a href="/working-papers/">Working Papers</a>
     <a href="/white-papers/">White Papers</a>
+    <a href="/index-methodology-papers/">Index Methodology Papers</a>
     <a href="/research-reports/">Research Reports</a>
     <a href="/policy-reports/">Policy Reports</a>
     <a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA</a>
@@ -750,7 +753,7 @@ def site_footer() -> str:
 <footer class="footer">
   <div class="footer-inner">
     <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
-    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a></p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
     <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
     <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
   </div>
@@ -901,8 +904,9 @@ def render_index_page(records: list[dict]) -> str:
         ("policy-briefs", "B. Policy Briefs"),
         ("working-papers", "C. Working Papers"),
         ("white-papers", "D. White Papers"),
-        ("policy-reports", "E. Policy Reports"),
-        ("research-reports", "F. Research Reports"),
+        ("index-methodology-papers", "E. Index Methodology Papers"),
+        ("policy-reports", "F. Policy Reports"),
+        ("research-reports", "G. Research Reports"),
     ]
     records_by_category = defaultdict(list)
     for meta in records:
@@ -962,7 +966,7 @@ def render_category_page(category: str, records: list[dict]) -> str:
         body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
         return html_doc(f"{label} | {SITE_TITLE}", body)
 
-    if category in {"articles", "policy-briefs", "white-papers", "research-reports", "policy-reports"}:
+    if category in {"articles", "policy-briefs", "white-papers", "index-methodology-papers", "research-reports", "policy-reports"}:
         records_by_year = defaultdict(list)
         for meta in records:
             records_by_year[publication_year(meta)].append(meta)

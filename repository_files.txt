@@ -1,3 +1,40 @@
+Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
+Index Methodology Paper/2025/IWP–25–01/metadata.json
+Index Methodology Paper/2026/IMP-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
+Index Methodology Paper/2026/IMP-2026-01/metadata.json
+White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
+White Paper/2026/IWB-2026-01/metadata.json
+docs/epinova-imp-2026-01/index.html
+docs/epinova-iwp-2025-01/index.html
+docs/epinova-pr-2025-01/index.html
+docs/epinova-rr-2025-01/index.html
+docs/epinova-wp-2025-01/index.html
+docs/epinova-wp-a-2026-01/index.html
+docs/epinova-wp-a-2026-02/index.html
+docs/epinova-wp-d-2026-01/index.html
+docs/epinova-wp-d-2026-02/index.html
+docs/epinova-wp-f-2025-01/index.html
+docs/epinova-wp-f-2025-02/index.html
+docs/epinova-wp-f-2025-03/index.html
+docs/epinova-wp-f-2025-04/index.html
+docs/epinova-wp-f-2025-05/index.html
+docs/epinova-wp-f-2025-06/index.html
+docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
+docs/files/epinova-iwp-2025-01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
+docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
+docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
+docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
+docs/files/epinova-wp-a-2026-01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
+docs/files/epinova-wp-a-2026-02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
+docs/files/epinova-wp-d-2026-01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
+docs/files/epinova-wp-d-2026-02/Why the South.pdf
+docs/files/epinova-wp-f-2025-01/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
+docs/files/epinova-wp-f-2025-02/Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf
+docs/files/epinova-wp-f-2025-03/Strategic Discontinuity in AI-Enabled Warfare.pdf
+docs/files/epinova-wp-f-2025-04/Survivor Governance.pdf
+docs/files/epinova-wp-f-2025-05/A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf
+docs/files/epinova-wp-f-2025-06/Permanent Presence under Uncertainty.pdf
+docs/index-methodology-papers/index.html
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md

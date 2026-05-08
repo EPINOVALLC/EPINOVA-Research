@@ -1,10 +1,10 @@
 {
-  "epinova_id": "EPINOVA-IWP-2025-001",
+  "epinova_id": "EPINOVA-IWP-2025-01",
   "record_type": "Publication",
   "resource_type": "Book",
-  "publication_type": "White Paper",
-  "category": "white-papers",
-  "publication_series": "EPINOVA Index White Paper Series",
+  "publication_type": "Index Methodology Paper",
+  "category": "index-methodology-papers",
+  "publication_series": "EPINOVA Index Methodology Paper Series",
   "title": "Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper",
   "subtitle": "Version 0.1 Foundational Release",
   "title_normalized": "survivor governance risk index sgri conceptual and methodological white paper",
@@ -107,13 +107,13 @@
     {
       "label": "Download PDF",
       "filename": "Survivor Governance Risk Index Conceptual and Methodological White Book.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf",
       "content_type": "application/pdf",
       "description": "Full-text PDF of the SGRI conceptual and methodological white paper"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301",
   "source_repository": {
     "platform": "GitHub",
     "organization": "EPINOVALLC",
@@ -285,7 +285,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
-    "last_updated": "2026-05-07"
+    "last_updated": "2026-05-08"
   },
   "crossref": {
     "intended_registration_agency": "",
