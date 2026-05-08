@@ -13,7 +13,7 @@ This repository serves as the research evidence layer for EPINOVA publications.
 It provides structured access to selected research outputs, including:
 
 - policy briefs, reports, and working papers;
-- conceptual frameworks and white papers;
+- conceptual frameworks, white papers, and index methodology papers;
 - metadata records and publication source files;
 - supporting materials for external dissemination and long-term reference.
 
@@ -55,7 +55,9 @@ Before Crossref DOI registration is completed, EPINOVA publication records may u
 
 ```text
 EPINOVA-Research/
-├── Index White Book/
+├── Articles/
+├── Index Methodology Paper/
+├── White Paper/
 ├── Policy Brief/
 ├── Policy Report/
 ├── Research Report/
@@ -73,9 +75,28 @@ publication.pdf
 metadata.json
 ```
 
-The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.
+The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.
 
----
+The `White Paper/` directory is used for broader institutional white papers, conceptual frameworks, policy architectures, and strategic framework documents.
+
+The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.
+## Publication Type Codes
+
+| Publication Type | Code | Use |
+|---|---:|---|
+| Index Methodology Paper | IMP | Index construction, measurement frameworks, indicator architecture, normalization, weighting, classification, validation, and scoring systems. |
+| White Paper | WHT | Institutional white papers presenting conceptual frameworks, policy architectures, strategic research, and official EPINOVA framework documents. |
+| Policy Brief | PB | Concise policy analysis, strategic assessment, crisis interpretation, and actionable recommendations. |
+| Policy Report | PR | Policy-facing reports with more detailed background, evidence, and institutional implications. |
+| Research Report | RR | Full research reports, case studies, empirical analysis, and extended analytical outputs. |
+| Working Paper | WP | Academic drafts, theoretical exploration, pre-publication research, and developing arguments. |
+
+Notes:
+
+- `WP` is reserved for Working Paper.
+- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.
+- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
+- For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.
 
 ## Latest Publications
 
@@ -96,12 +117,12 @@ After Crossref registration is completed, DOI fields and citation records will b
 ### Index Methodology Papers
 
 - **EPINOVA-IMP-2026-01** (2026-05-08)  
-  **Political Credit Index (PCI)**  
+  **Political Credit Index (PCI): Measuring Political Credibility as Strategic Intangible Capital**  
   Repository folder: [`Index Methodology Paper/2026/IMP-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01)  
   File: [`Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf)
 
 - **EPINOVA-IWP-2025-01** (2025-12-31)  
-  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper**  
+  **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper: Version 0.1 Foundational Release**  
   Repository folder: [`Index Methodology Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
   File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
@@ -109,42 +130,37 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### White Papers
 
-- **IWB-2026-01** (2026)  
-  **AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book**  
-  Repository folder: [`Index White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2026/IWB-2026-01)  
-  File: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
-
-- **IWP–25–01** (2025)  
-  **Survivor Governance Risk Index Conceptual and Methodological White Book**  
-  Repository folder: [`Index White Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
-  File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20White%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
+- **EPINOVA-IWB-2026-01** (2026-01-31)  
+  **AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper: Version 0.1 Foundational Release**  
+  Repository folder: [`White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/White%20Paper/2026/IWB-2026-01)  
+  File: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
 ---
 
 ### Policy Briefs
 
 - **EPINOVA-PB-2026-045** (2026-05-07)  
-  **China as a Stabilizing Network Node**  
+  **China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
   File: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 - **EPINOVA-PB-2026-044** (2026-04-29)  
-  **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike**  
+  **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike: Visible Vessel Contraction, Port-Rhythm Inversion, and Window-Based Logistics in the Caspian Corridor**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-44/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44)  
   File: [`Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44/Caspian%20Logistics%20Shock%20Monitoring%20Russia%E2%80%93Iran%20Supply%20Stress%20after%20the%20Anzali%20Strike.pdf)
 
 - **EPINOVA-PB-2026-043** (2026-04-28)  
-  **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure**  
+  **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-43/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43)  
   File: [`Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf)
 
 - **EPINOVA-PB-2026-042** (2026-04-28)  
-  **Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure**  
+  **Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-42/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42)  
   File: [`Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf)
 
 - **EPINOVA-PB-2026-041** (2026-04-25)  
-  **Energy Endurance Under Systemic Shock**  
+  **Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-41/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41)  
   File: [`Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41/Energy%20Endurance%20Under%20Systemic%20Shock%20Divergent%20Survival%20Pathways%20in%20East%20Asia%20During%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
@@ -176,22 +192,22 @@ After Crossref registration is completed, DOI fields and citation records will b
   File: [`A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309/A%20Systemic%20Theory%20of%20Escalation%20and%20the%20Loss-of-Control%20Threshold%20in%20Networked%20Conflict.pdf)
 
 - **EPINOVA-WP-F-2026-008** (2026-03-19)  
-  **Who Loses Control First?**  
+  **Who Loses Control First?: Threshold Competition in the 2026 U.S.–Israel–Iran Conflict**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–08/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308)  
   File: [`Who Loses Control First.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf)
 
 - **EPINOVA-WP-F-2026-007** (2026-03-17)  
-  **Systemic Warfare in the Networked Age**  
+  **Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
   File: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
 
 - **EPINOVA-WP-F-2026-006** (2026-03-11)  
-  **Industrial War and Network War**  
+  **Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–06/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306)  
   File: [`Industrial War vs Network War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf)
 
 - **EPINOVA-WP-F-2026-005** (2026-03-09)  
-  **Cloud Under Fire**  
+  **Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–05/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305)  
   File: [`Cloud Under Fire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf)
 ## Publication Metadata

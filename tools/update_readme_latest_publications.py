@@ -6,15 +6,19 @@ from urllib.parse import quote
 
 
 # =========================================================
-# EPINOVA README Latest Publications Auto-Updater
+# EPINOVA README Full Auto-Updater
 #
 # Functions:
-# - Run git ls-tree and generate repository_files.txt
+# - Run git ls-files and generate repository_files.txt
 # - Read repository file structure
 # - Group publications by category
 # - Select latest 5 publications per category
 # - Generate GitHub folder/file links
-# - Replace README.md Latest Publications section
+# - Auto-update README.md:
+#   1) Overview wording
+#   2) Repository Structure section
+#   3) Publication Type Codes section
+#   4) Latest Publications section
 #
 # Run from repository root:
 # python tools/update_readme_latest_publications.py
@@ -27,11 +31,14 @@ BRANCH = "main"
 README_NAME = "README.md"
 REPOSITORY_FILES_NAME = "repository_files.txt"
 
+REPOSITORY_STRUCTURE_TITLE = "## Repository Structure"
+PUBLICATION_TYPE_CODES_TITLE = "## Publication Type Codes"
 LATEST_SECTION_TITLE = "## Latest Publications"
 
+# These names must match the physical top-level folders in the repository.
 CATEGORY_ORDER = [
     "Index Methodology Paper",
-    "Index White Paper",
+    "White Paper",
     "Policy Brief",
     "Policy Report",
     "Research Report",
@@ -40,14 +47,55 @@ CATEGORY_ORDER = [
 
 CATEGORY_LABELS = {
     "Index Methodology Paper": "Index Methodology Papers",
-    "Index White Paper": "White Papers",
+    "White Paper": "White Papers",
     "Policy Brief": "Policy Briefs",
     "Policy Report": "Policy Reports",
     "Research Report": "Research Reports",
     "Working Paper": "Working Papers",
 }
 
+CATEGORY_CODES = {
+    "Index Methodology Paper": "IMP",
+    "White Paper": "WHT",
+    "Policy Brief": "PB",
+    "Policy Report": "PR",
+    "Research Report": "RR",
+    "Working Paper": "WP",
+}
+
+CATEGORY_DESCRIPTIONS = {
+    "Index Methodology Paper": (
+        "Index construction, measurement frameworks, indicator architecture, normalization, "
+        "weighting, classification, validation, and scoring systems."
+    ),
+    "White Paper": (
+        "Institutional white papers presenting conceptual frameworks, policy architectures, "
+        "strategic research, and official EPINOVA framework documents."
+    ),
+    "Policy Brief": (
+        "Concise policy analysis, strategic assessment, crisis interpretation, and actionable recommendations."
+    ),
+    "Policy Report": (
+        "Policy-facing reports with more detailed background, evidence, and institutional implications."
+    ),
+    "Research Report": (
+        "Full research reports, case studies, empirical analysis, and extended analytical outputs."
+    ),
+    "Working Paper": (
+        "Academic drafts, theoretical exploration, pre-publication research, and developing arguments."
+    ),
+}
+
 CATEGORY_PREFIXES = tuple(f"{category}/" for category in CATEGORY_ORDER)
+
+# Optional support directories to show in Repository Structure if they exist.
+SUPPORT_DIRS = [
+    "Articles",
+    "assets",
+    "doc",
+    "docs",
+    "tools",
+]
 
 
 def find_repo_root() -> Path:
@@ -71,6 +119,7 @@ REPOSITORY_FILES_PATH = ROOT / REPOSITORY_FILES_NAME
 def run_git_ls_files() -> list[str]:
     """
     Run git ls-files and write repository_files.txt.
+
     Includes tracked, staged, and untracked non-ignored files.
     Uses core.quotePath=false so non-ASCII paths are returned as UTF-8.
     """
@@ -91,7 +140,7 @@ def run_git_ls_files() -> list[str]:
         check=True,
     )
 
-    paths = [line.strip().strip('"') for line in result.stdout.splitlines() if line.strip()]
+    paths = [line.strip().strip('"').replace("\\", "/") for line in result.stdout.splitlines() if line.strip()]
 
     REPOSITORY_FILES_PATH.write_text(
         "\n".join(paths) + "\n",
@@ -123,18 +172,21 @@ def is_source_publication_pdf(path: str) -> bool:
     Keep only source publication PDFs under the main publication categories.
     Exclude generated docs/ PDFs.
     """
-    if not path.lower().endswith(".pdf"):
+    normalized = path.replace("\\", "/")
+
+    if not normalized.lower().endswith(".pdf"):
         return False
 
-    if path.startswith("docs/"):
+    if normalized.startswith("docs/"):
         return False
 
-    return path.startswith(CATEGORY_PREFIXES)
+    return normalized.startswith(CATEGORY_PREFIXES)
 
 
 def get_category(path: str) -> str | None:
+    normalized = path.replace("\\", "/")
     for category in CATEGORY_ORDER:
-        if path.startswith(f"{category}/"):
+        if normalized.startswith(f"{category}/"):
             return category
     return None
 
@@ -170,6 +222,22 @@ def clean_pdf_title(filename: str) -> str:
     return title
 
 
+def full_title_from_metadata(metadata: dict, fallback_title: str) -> str:
+    title = (
+        metadata.get("full_title")
+        or metadata.get("title_full")
+        or metadata.get("publication_title")
+        or metadata.get("title")
+        or fallback_title
+    )
+
+    subtitle = metadata.get("subtitle", "")
+    if subtitle and subtitle not in str(title):
+        return f"{title}: {subtitle}"
+
+    return str(title).strip()
+
+
 def extract_year(path: str) -> str:
     match = re.search(r"(20\d{2})", path)
     return match.group(1) if match else ""
@@ -199,12 +267,9 @@ def publication_record(pdf_path: str) -> dict:
     folder_rel = str(folder.relative_to(ROOT)).replace("\\", "/")
 
     metadata = read_metadata(folder)
+    fallback_title = clean_pdf_title(pdf.name)
 
-    title = (
-        metadata.get("title")
-        or metadata.get("publication_title")
-        or clean_pdf_title(pdf.name)
-    )
+    title = full_title_from_metadata(metadata, fallback_title)
 
     epinova_id = (
         metadata.get("epinova_id")
@@ -229,7 +294,7 @@ def publication_record(pdf_path: str) -> dict:
         "publication_date": str(publication_date).strip(),
         "folder": folder_rel,
         "filename": pdf.name,
-        "pdf_path": pdf_path,
+        "pdf_path": pdf_path.replace("\\", "/"),
         "rank_number": extract_numeric_rank(str(epinova_id) + " " + folder.name),
         "year": extract_year(pdf_path),
     }
@@ -247,6 +312,98 @@ def sort_key(record: dict):
         record.get("publication_date", ""),
         record.get("title", ""),
     )
+
+
+def detect_top_level_dirs(paths: list[str]) -> set[str]:
+    dirs = set()
+    for path in paths:
+        normalized = path.replace("\\", "/")
+        if "/" in normalized:
+            dirs.add(normalized.split("/", 1)[0])
+    return dirs
+
+
+def build_repository_structure_section(paths: list[str]) -> str:
+    """
+    Build README Repository Structure from actual repository folders.
+    """
+    existing_top_dirs = detect_top_level_dirs(paths)
+
+    ordered_dirs = []
+
+    # Put Articles first if present, then publication categories.
+    if "Articles" in existing_top_dirs or (ROOT / "Articles").exists():
+        ordered_dirs.append("Articles")
+
+    for dirname in CATEGORY_ORDER:
+        if dirname in existing_top_dirs or (ROOT / dirname).exists():
+            ordered_dirs.append(dirname)
+
+    for dirname in SUPPORT_DIRS:
+        if dirname not in ordered_dirs and (dirname in existing_top_dirs or (ROOT / dirname).exists()):
+            ordered_dirs.append(dirname)
+
+    if not ordered_dirs:
+        ordered_dirs = CATEGORY_ORDER + ["assets", "docs", "tools"]
+
+    tree_lines = ["EPINOVA-Research/"]
+    for index, dirname in enumerate(ordered_dirs):
+        connector = "└──" if index == len(ordered_dirs) - 1 else "├──"
+        tree_lines.append(f"{connector} {dirname}/")
+
+    body = [
+        REPOSITORY_STRUCTURE_TITLE,
+        "",
+        "```text",
+        *tree_lines,
+        "```",
+        "",
+        "Each publication folder typically contains:",
+        "",
+        "```text",
+        "publication.pdf",
+        "metadata.json",
+        "```",
+        "",
+        "The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.",
+        "",
+        "The `White Paper/` directory is used for broader institutional white papers, conceptual frameworks, policy architectures, and strategic framework documents.",
+        "",
+        "The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.",
+        "",
+    ]
+
+    return "\n".join(body).rstrip() + "\n"
+
+
+def build_publication_type_codes_section() -> str:
+    """
+    Build README Publication Type Codes section.
+    """
+    lines = [
+        PUBLICATION_TYPE_CODES_TITLE,
+        "",
+        "| Publication Type | Code | Use |",
+        "|---|---:|---|",
+    ]
+
+    for category in CATEGORY_ORDER:
+        lines.append(
+            f"| {category} | {CATEGORY_CODES[category]} | {CATEGORY_DESCRIPTIONS[category]} |"
+        )
+
+    lines.extend([
+        "",
+        "Notes:",
+        "",
+        "- `WP` is reserved for Working Paper.",
+        "- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.",
+        "- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.",
+        "- For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.",
+        "",
+    ])
+
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def build_latest_publications_section(records: list[dict], limit_per_category: int = 5) -> str:
@@ -304,7 +461,6 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
         lines.append("---")
         lines.append("")
 
-    # Remove final separator for cleaner README.
     while lines and lines[-1] == "":
         lines.pop()
 
@@ -314,10 +470,36 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
     return "\n".join(lines).rstrip() + "\n"
 
 
+def replace_level2_section(readme_text: str, heading: str, new_section: str, insert_before_heading: str | None = None) -> str:
+    """
+    Replace a Markdown level-2 section from heading to the next level-2 heading.
+    If the section does not exist, insert it before insert_before_heading if found; otherwise append it.
+    """
+    escaped_heading = re.escape(heading)
+    pattern = re.compile(
+        rf"{escaped_heading}(?:\s*\n).*?(?=\n## |\Z)",
+        re.DOTALL,
+    )
+
+    if pattern.search(readme_text):
+        return pattern.sub(new_section.rstrip(), readme_text)
+
+    if insert_before_heading:
+        marker = f"\n{insert_before_heading}"
+        if marker in readme_text:
+            return readme_text.replace(
+                marker,
+                "\n" + new_section.rstrip() + "\n" + marker,
+                1,
+            )
+
+    return readme_text.rstrip() + "\n\n" + new_section.rstrip() + "\n"
+
+
 def replace_latest_section(readme_text: str, latest_section: str) -> str:
     """
-    Replace from ## Latest Publications to the next ## heading.
-    If missing, insert before ## Publication Metadata, otherwise append.
+    Replace from ## Latest Publications or old ## Latest Publications and Repository Links
+    to the next ## heading.
     """
     pattern = re.compile(
         r"## Latest Publications(?: and Repository Links)?\n.*?(?=\n## |\Z)",
@@ -338,6 +520,81 @@ def replace_latest_section(readme_text: str, latest_section: str) -> str:
     return readme_text.rstrip() + "\n\n" + latest_section.rstrip() + "\n"
 
 
+def update_overview_text(readme_text: str) -> str:
+    """
+    Update common old wording without rewriting the full Overview.
+    """
+    replacements = {
+        "- conceptual frameworks and white papers;": "- conceptual frameworks, white papers, and index methodology papers;",
+        "- conceptual frameworks, white papers;": "- conceptual frameworks, white papers, and index methodology papers;",
+        "Index White Paper": "Index Methodology Paper",
+        "Index White Papers": "Index Methodology Papers",
+        "Index White Book": "Index Methodology Paper",
+        "Index White Books": "Index Methodology Papers",
+    }
+
+    updated = readme_text
+    for old, new in replacements.items():
+        updated = updated.replace(old, new)
+
+    return updated
+
+
+def update_readme(readme_text: str, paths: list[str], records: list[dict]) -> str:
+    """
+    Apply all README updates.
+    """
+    updated = update_overview_text(readme_text)
+
+    repository_structure = build_repository_structure_section(paths)
+    publication_type_codes = build_publication_type_codes_section()
+    latest_publications = build_latest_publications_section(records, limit_per_category=5)
+
+    updated = replace_level2_section(
+        updated,
+        REPOSITORY_STRUCTURE_TITLE,
+        repository_structure,
+        insert_before_heading=PUBLICATION_TYPE_CODES_TITLE,
+    )
+
+    updated = replace_level2_section(
+        updated,
+        PUBLICATION_TYPE_CODES_TITLE,
+        publication_type_codes,
+        insert_before_heading=LATEST_SECTION_TITLE,
+    )
+
+    updated = replace_latest_section(updated, latest_publications)
+
+    return updated.rstrip() + "\n"
+
+
+def print_debug_summary(records: list[dict]) -> None:
+    counts = {category: 0 for category in CATEGORY_ORDER}
+    for record in records:
+        category = record.get("category")
+        if category in counts:
+            counts[category] += 1
+
+    print("Publication category counts:")
+    for category in CATEGORY_ORDER:
+        print(f"  - {category}: {counts[category]}")
+
+    imp_records = [
+        record for record in records
+        if record.get("category") == "Index Methodology Paper"
+        or "IMP" in record.get("epinova_id", "")
+        or "Index Methodology Paper" in record.get("folder", "")
+    ]
+
+    if imp_records:
+        print("Index Methodology Paper records detected:")
+        for record in imp_records:
+            print(f"  - {record.get('epinova_id')} | {record.get('folder')}/ | {record.get('filename')}")
+    else:
+        print("Index Methodology Paper records detected: 0")
+
+
 def main() -> None:
     print(f"Repository root: {ROOT}")
 
@@ -352,13 +609,10 @@ def main() -> None:
 
     records = [publication_record(path) for path in pdf_paths]
 
-    latest_section = build_latest_publications_section(
-        records,
-        limit_per_category=5,
-    )
+    print_debug_summary(records)
 
     readme_text = README_PATH.read_text(encoding="utf-8")
-    updated_readme = replace_latest_section(readme_text, latest_section)
+    updated_readme = update_readme(readme_text, paths, records)
 
     README_PATH.write_text(updated_readme, encoding="utf-8")
 

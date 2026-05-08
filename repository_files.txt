@@ -1,40 +1,3 @@
-Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
-Index Methodology Paper/2025/IWP–25–01/metadata.json
-Index Methodology Paper/2026/IMP-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
-Index Methodology Paper/2026/IMP-2026-01/metadata.json
-White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
-White Paper/2026/IWB-2026-01/metadata.json
-docs/epinova-imp-2026-01/index.html
-docs/epinova-iwp-2025-01/index.html
-docs/epinova-pr-2025-01/index.html
-docs/epinova-rr-2025-01/index.html
-docs/epinova-wp-2025-01/index.html
-docs/epinova-wp-a-2026-01/index.html
-docs/epinova-wp-a-2026-02/index.html
-docs/epinova-wp-d-2026-01/index.html
-docs/epinova-wp-d-2026-02/index.html
-docs/epinova-wp-f-2025-01/index.html
-docs/epinova-wp-f-2025-02/index.html
-docs/epinova-wp-f-2025-03/index.html
-docs/epinova-wp-f-2025-04/index.html
-docs/epinova-wp-f-2025-05/index.html
-docs/epinova-wp-f-2025-06/index.html
-docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
-docs/files/epinova-iwp-2025-01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
-docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
-docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
-docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
-docs/files/epinova-wp-a-2026-01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
-docs/files/epinova-wp-a-2026-02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
-docs/files/epinova-wp-d-2026-01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
-docs/files/epinova-wp-d-2026-02/Why the South.pdf
-docs/files/epinova-wp-f-2025-01/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
-docs/files/epinova-wp-f-2025-02/Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf
-docs/files/epinova-wp-f-2025-03/Strategic Discontinuity in AI-Enabled Warfare.pdf
-docs/files/epinova-wp-f-2025-04/Survivor Governance.pdf
-docs/files/epinova-wp-f-2025-05/A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf
-docs/files/epinova-wp-f-2025-06/Permanent Presence under Uncertainty.pdf
-docs/index-methodology-papers/index.html
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -587,10 +550,10 @@ Articles/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control-threshold/as
 Articles/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control-threshold/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
-Index White Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
-Index White Paper/2025/IWP–25–01/metadata.json
-Index White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
-Index White Paper/2026/IWB-2026-01/metadata.json
+Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
+Index Methodology Paper/2025/IWP–25–01/metadata.json
+Index Methodology Paper/2026/IMP-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
+Index Methodology Paper/2026/IMP-2026-01/metadata.json
 Policy Brief/2025/EPINOVA–2025–01–PB/From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf
 Policy Brief/2025/EPINOVA–2025–01–PB/metadata.json
 Policy Brief/2025/EPINOVA–2025–02–PB/Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf
@@ -692,6 +655,8 @@ Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
 Research Report/2025/EPINOVA–2025–01–RR/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 Research Report/2025/EPINOVA–2025–01–RR/metadata.json
+White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
+White Paper/2026/IWB-2026-01/metadata.json
 Working Paper/A/2026/EPINOVA–WP–A–2026–01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
 Working Paper/A/2026/EPINOVA–WP–A–2026–01/metadata.json
 Working Paper/A/2026/EPINOVA–WP–A–2026–02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
@@ -1303,8 +1268,10 @@ docs/derivative-state-drift-a-continuous-time-model-of-constraint-erosion-in-eli
 docs/deterrence-under-cost-pressure-from-overmatch-to-cost-imposition-in-the-u-s-iran-conflict/index.html
 docs/divergent-war-aims-the-u-s-israel-and-the-strategic-logic-of-divergence-in-the-iran-confli/index.html
 docs/dynamic-threshold-positioning-in-u-s-china-competition-a-phase-resolved-assessment-of-stru/index.html
+docs/epinova-imp-2026-01/index.html
 docs/epinova-iwb-2026-01/index.html
 docs/epinova-iwp-2025-001/index.html
+docs/epinova-iwp-2025-01/index.html
 docs/epinova-pb-2025-001/index.html
 docs/epinova-pb-2025-002/index.html
 docs/epinova-pb-2025-003/index.html
@@ -1354,13 +1321,20 @@ docs/epinova-pb-2026-043/index.html
 docs/epinova-pb-2026-044/index.html
 docs/epinova-pb-2026-045/index.html
 docs/epinova-pr-2025-001/index.html
+docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
+docs/epinova-rr-2025-01/index.html
 docs/epinova-wp-2025-001-gray-zone-maritime-cdf/index.html
 docs/epinova-wp-2025-001/index.html
+docs/epinova-wp-2025-01/index.html
 docs/epinova-wp-a-2026-001/index.html
 docs/epinova-wp-a-2026-002/index.html
+docs/epinova-wp-a-2026-01/index.html
+docs/epinova-wp-a-2026-02/index.html
 docs/epinova-wp-d-2026-001/index.html
 docs/epinova-wp-d-2026-002/index.html
+docs/epinova-wp-d-2026-01/index.html
+docs/epinova-wp-d-2026-02/index.html
 docs/epinova-wp-f-2025-001-sfhaf-sfharf-mmc/index.html
 docs/epinova-wp-f-2025-001/index.html
 docs/epinova-wp-f-2025-002-unmanned-algorithmic-warfare/index.html
@@ -1371,6 +1345,12 @@ docs/epinova-wp-f-2025-004-survivor-governance/index.html
 docs/epinova-wp-f-2025-004/index.html
 docs/epinova-wp-f-2025-005/index.html
 docs/epinova-wp-f-2025-006/index.html
+docs/epinova-wp-f-2025-01/index.html
+docs/epinova-wp-f-2025-02/index.html
+docs/epinova-wp-f-2025-03/index.html
+docs/epinova-wp-f-2025-04/index.html
+docs/epinova-wp-f-2025-05/index.html
+docs/epinova-wp-f-2025-06/index.html
 docs/epinova-wp-f-2026-001/index.html
 docs/epinova-wp-f-2026-002/index.html
 docs/epinova-wp-f-2026-003/index.html
@@ -1402,8 +1382,10 @@ docs/files/dynamic-threshold-positioning-in-u-s-china-competition-a-phase-resolv
 docs/files/epinova-art-2026-mccm-v23plus-escalation-and-the-loss-of/article.html
 docs/files/epinova-art-2026-mccm-v23plus-escalation-and-the-loss-of/article.md
 docs/files/epinova-art-2026-mccm-v23plus-escalation-and-the-loss-of/article.txt
+docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
 docs/files/epinova-iwb-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
 docs/files/epinova-iwp-2025-001/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
+docs/files/epinova-iwp-2025-01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 docs/files/epinova-pb-2025-001/From Detection to Depletion Sustainability Constraints in Counter-Drone Defense.pdf
 docs/files/epinova-pb-2025-002/Artificial Intelligence as National Power Implications of the 2025 U.S. National Security Strategy.pdf
 docs/files/epinova-pb-2025-003/From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf
@@ -1453,13 +1435,20 @@ docs/files/epinova-pb-2026-043/Transit of Goods through Territory of Pakistan Or
 docs/files/epinova-pb-2026-044/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
 docs/files/epinova-pb-2026-045/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
+docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
+docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-wp-2025-001-gray-zone-maritime-cdf/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-2025-001/Gray-Zone Maritime Rights-Protection Strategy.pdf
+docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-a-2026-001/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
 docs/files/epinova-wp-a-2026-002/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
+docs/files/epinova-wp-a-2026-01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
+docs/files/epinova-wp-a-2026-02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
 docs/files/epinova-wp-d-2026-001/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
 docs/files/epinova-wp-d-2026-002/Why the South.pdf
+docs/files/epinova-wp-d-2026-01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
+docs/files/epinova-wp-d-2026-02/Why the South.pdf
 docs/files/epinova-wp-f-2025-001-sfhaf-sfharf-mmc/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
 docs/files/epinova-wp-f-2025-001/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
 docs/files/epinova-wp-f-2025-002-unmanned-algorithmic-warfare/Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf
@@ -1470,6 +1459,12 @@ docs/files/epinova-wp-f-2025-004-survivor-governance/Survivor Governance.pdf
 docs/files/epinova-wp-f-2025-004/Survivor Governance.pdf
 docs/files/epinova-wp-f-2025-005/A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf
 docs/files/epinova-wp-f-2025-006/Permanent Presence under Uncertainty.pdf
+docs/files/epinova-wp-f-2025-01/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
+docs/files/epinova-wp-f-2025-02/Unmanned Algorithmic Warfare and Human Role Reconfiguration.pdf
+docs/files/epinova-wp-f-2025-03/Strategic Discontinuity in AI-Enabled Warfare.pdf
+docs/files/epinova-wp-f-2025-04/Survivor Governance.pdf
+docs/files/epinova-wp-f-2025-05/A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf
+docs/files/epinova-wp-f-2025-06/Permanent Presence under Uncertainty.pdf
 docs/files/epinova-wp-f-2026-001/When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf
 docs/files/epinova-wp-f-2026-002/Derivative-State Drift.pdf
 docs/files/epinova-wp-f-2026-003/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
@@ -1545,6 +1540,7 @@ docs/governing-structural-centrality-greenland-as-an-ai-strategic-node-under-the
 docs/gray-zone-maritime-rights-protection-strategy-asymmetric-costs-and-sustainable-presence-a-/index.html
 docs/greenland-as-a-structural-ai-strategic-node-perception-integrity-temporal-dominance-and-th/index.html
 docs/if-the-united-states-suddenly-withdraws-systemic-shock-proxy-amplification-and-strategic-r/index.html
+docs/index-methodology-papers/index.html
 docs/index.html
 docs/industrial-war-and-network-war-operational-logics-in-the-russia-ukraine-war-and-the-u-s-is/index.html
 docs/israels-strategic-options-and-u-s-rebalancing-under-dual-theater-constraints/index.html
