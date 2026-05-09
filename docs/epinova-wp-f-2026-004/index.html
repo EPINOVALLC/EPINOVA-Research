@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.18903880", "name": "Losing the Narrative", "headline": "Losing the Narrative", "description": "This working paper examines why the United States appeared to underperform in the information environment during the first week of the 2026 U.S.–Israel–Iran war, even though battlefield outcomes remained contested. The paper argues that perceptions of narrative momentum were shaped less by kinetic developments alone than by structural differences in official disclosure tempo, narrative continuity, media-format compatibility, and expectation asymmetry across the principal actors. To explore these dynamics, the paper employs a best-effort cross-channel estimate of visible official communication outputs published between February 28, 2026, 00:00 and March 6, 2026, 22:00. Under this estimate, Iran generated approximately 342 official or officially attributed outputs, the United States approximately 200, and Israel approximately 165, for a combined total of roughly 707 items. These figures are used analytically as indicators of visible communication tempo rather than as a fully audited URL-level census. The analysis suggests that differences in communication rhythm and narrative architecture significantly shaped perception effects during the conflict’s first week. Actors whose messaging appeared more continuous, serially structured, and adapted to feed-based media environments were better positioned to influence how audiences interpreted the trajectory of the conflict. In conflicts characterized by strong asymmetries of capability, expectation asymmetry can further amplify these dynamics, as losses by the materially stronger side often receive disproportionate attention in the information environment. The United States did not necessarily lose militarily in the war’s first week. However, its official communication appeared less continuous, less serially structured, and less adapted to high-tempo digital information environments than that of Iran and Israel, contributing to the perception that it had lost narrative initiative during the early phase of the conflict.", "datePublished": "2026-03-07", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.18903880", "url": "https://publications.epinova.org/epinova-wp-f-2026-004/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf" title="Losing the Narrative.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf'>Losing the Narrative.pdf</a><br><span class='muted'>Full-text PDF of the working paper</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf'>Losing the Narrative.pdf</a><br><span class='muted'>Full-text PDF of the working paper</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-wp-f-2026-004/Losing%20the%20Narrative.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

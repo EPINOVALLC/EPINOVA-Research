@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.19411098", "name": "From Representative of the West to Primary Node", "headline": "From Representative of the West to Primary Node", "description": "This policy brief argues that the United States is not losing its centrality within the Western system, but is undergoing a functional transformation in how that centrality is exercised. In the postwar order, the United States operated as the institutional, security, and narrative representative of the West. That role is eroding under rising systemic costs, increasing divergence among allies, and growing complexity in networked conflict environments. The Western system is shifting toward a partially aligned network configuration in which coordination is situational, commitments are conditional, and strategic unity is increasingly difficult to sustain. Within this system, the United States remains the most capable and connected actor, but increasingly functions as a primary network node rather than the unified representative of Western interests. The brief further argues that under systemic stress the transatlantic system may evolve toward a dual-core configuration centered on the United States and Europe, with the principal systemic risk lying in declining coordination capacity and proximity to the Loss-of-Control Threshold (LoCT).", "datePublished": "2026-04-03", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.19411098", "url": "https://publications.epinova.org/epinova-pb-2026-022/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf" title="From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf'>From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf'>From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-022/From%20Representative%20of%20the%20West%20to%20Primary%20Node%20The%20Transformation%20of%20the%20United%20States%20in%20the%20Future%20Western%20and%20Transatlantic%20Political%20System.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

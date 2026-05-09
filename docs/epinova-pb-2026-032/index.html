@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.19568379", "name": "From Selective Restriction to Universal Blockade", "headline": "From Selective Restriction to Universal Blockade", "description": "This policy brief identifies a structurally decisive distinction between Iran's bounded selective restriction regime and the United States' system-wide port-access blockade in the Strait of Hormuz. It argues that the expansion from selective interference to universalized exclusion transforms the crisis from a bilateral confrontation into a systemic question of international maritime governance. The brief examines Iran's appeal to the United Nations, the legal basis for third-party naval deployment under transit passage and collective security frameworks, and the operational pathways available to external actors. It concludes that third-party involvement is legally defensible and strategically consequential only when framed as defensive maritime assurance, integrating escort operations, humanitarian support, and maritime domain awareness while avoiding enforcement behavior that could intensify cross-domain escalation.", "datePublished": "2026-04-14", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.19568379", "url": "https://publications.epinova.org/epinova-pb-2026-032/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf" title="From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf'>From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf'>From Selective Restriction to Universal Blockade Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-032/From%20Selective%20Restriction%20to%20Universal%20Blockade%20Legal%20Contestation%20and%20Third-Party%20Naval%20Intervention%20in%20the%20Strait%20of%20Hormuz.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

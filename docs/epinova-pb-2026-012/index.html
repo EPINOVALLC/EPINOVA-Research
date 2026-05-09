@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.18904462", "name": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War", "headline": "Narrative Underperformance in the First Week of the U.S.–Israel–Iran War", "description": "This policy brief analyzes how communication tempo, narrative continuity, media-format compatibility, and expectation asymmetry shaped perceptions of initiative during the first week of the 2026 U.S.–Israel–Iran war. It finds that U.S. messaging was active but structurally fragmented across multiple institutions and formats, while Iran and Israel benefited from communication architectures that produced more visible narrative progression. Using a best-effort cross-channel estimate for official public outputs released between February 28 and March 6, the brief approximates visible communication tempo at 1.2 : 1 : 2.1 for the United States, Israel, and Iran. It concludes that actors with continuous, serially structured, feed-compatible communication are more likely to shape perceptions of momentum in early conflict phases, even when battlefield outcomes remain uncertain.", "datePublished": "2026-03-07", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.18904462", "url": "https://publications.epinova.org/epinova-pb-2026-012/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf" title="Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf'>Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf'>Narrative Underperformance in the First Week of the U.S.–Israel–Iran War.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-012/Narrative%20Underperformance%20in%20the%20First%20Week%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20War.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://publications.epinova.org/epinova-pb-2026-042/", "name": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure", "headline": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure", "description": "Iran’s reported plan to develop ten distinct alternative trade corridors marks a shift in wartime logistics strategy from reliance on the Persian Gulf and Strait of Hormuz toward distributed friction management. Because Iran has not released a full corridor-by-corridor list, this policy brief reconstructs a plausible ten-corridor framework based on public reporting, geography, existing trade patterns, observed logistics behavior, Caspian and Persian Gulf monitoring indicators, and China–Central Asia rail activity through March 2026. The brief argues that the alternative corridor system is not a surge-capacity network and cannot replace Hormuz-centered throughput. Instead, it functions as a threshold-delaying sustainment system designed to preserve minimum viable flows of food, medicine, industrial inputs, selected exports, dual-use-relevant goods, and time-sensitive components. The brief further shows that Iran’s adaptation extends beyond the ten corridors: aviation provides a high-value, low-volume replenishment layer, while residual maritime movement through a degraded but not fully sealed Hormuz/Persian Gulf window preserves limited core flow. The conclusion is that Iran’s ten-corridor adaptation does not end the blockade problem; it turns it into a long-duration contest of logistics friction across ports, rail terminals, customs nodes, border crossings, insurance, finance, vessel availability, air cargo access, and transshipment reliability.", "datePublished": "2026-04-28", "version": "v1.0", "identifier": "https://publications.epinova.org/epinova-pb-2026-042/", "url": "https://publications.epinova.org/epinova-pb-2026-042/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}, "license": "https://creativecommons.org/licenses/by/4.0/"}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf" title="Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf'>Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf'>Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf</a><br><span class='muted'>Full-text PDF of the policy brief</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-042/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

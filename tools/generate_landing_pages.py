@@ -496,18 +496,27 @@ def file_preview_html(meta: dict) -> str:
         return """
 <section class="record-section"><h2>Files</h2><p class="muted">No files listed.</p></section>
 """
+
     preview = ""
     for item in files:
         if isinstance(item, dict) and is_pdf_filename(item.get("filename", "")):
             filename = item.get("filename", "")
             preview_url = local_file_url(meta, filename)
             preview = f"""
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="{h(preview_url)}" title="{h(filename)}"></iframe>
 </div>
+
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="{h(preview_url)}" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="{h(preview_url)}" download>Download PDF</a>
+</div>
 """
             break
+
     rows = []
     for file_entry in files:
         if not isinstance(file_entry, dict):
@@ -518,14 +527,23 @@ def file_preview_html(meta: dict) -> str:
         download_url = local_file_url(meta, fn) if fn else ""
         name_html = f"<a href='{h(download_url)}'>{h(fn)}</a>" if fn else ""
         action_html = f"<a class='button small' href='{h(download_url)}'>Download</a>" if fn else ""
-        rows.append(f"<tr><td>{name_html}<br><span class='muted'>{h(desc)}</span></td><td>{h(file_type)}</td><td class='right'>{action_html}</td></tr>")
+        rows.append(
+            f"<tr><td>{name_html}<br><span class='muted'>{h(desc)}</span></td>"
+            f"<td>{h(file_type)}</td><td class='right'>{action_html}</td></tr>"
+        )
+
     return f"""
 <section class="record-section">
   <h2>Files</h2>
   {preview}
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody>{''.join(rows)}</tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody>{''.join(rows)}</tbody>
+    </table>
   </div>
 </section>
 """
@@ -649,8 +667,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-"""
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}"""
 
 
 def head_meta(meta: dict | None = None, title: str = SITE_TITLE) -> str:
@@ -994,6 +1053,8 @@ def render_category_page(category: str, records: list[dict]) -> str:
 
 
 def clean_output_dir() -> None:
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 

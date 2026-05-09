@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.18592482", "name": "Where Data Centers Get Built?", "headline": "Where Data Centers Get Built?", "description": "Large-scale data center development in the United States is increasingly shaped not by purely technical or market-based considerations, but by differences in institutional feasibility across jurisdictions. While recent public discourse often describes a southward shift of data centers, this framing overstates relocation and obscures underlying structural drivers. The brief argues that current development patterns are better understood as institutional site selection: data centers are built where governance, permitting, and utility coordination allow rapid, low-friction deployment. It introduces the Infrastructure Friction Boundary (IFB), a diagnostic framework for identifying where hyperscale compute infrastructure can be accommodated with minimal procedural resistance. Understanding institutional friction is essential for anticipating the long-term governance consequences of AI- and compute-intensive infrastructure expansion.", "datePublished": "2026-02-09", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.18592482", "url": "https://publications.epinova.org/epinova-pb-2026-004/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance and Policy Research Center, EPINOVA LLC"}, "license": "https://creativecommons.org/licenses/by/4.0/"}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf" title="Where Data Centers Get Built.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf'>Where Data Centers Get Built.pdf</a><br><span class='muted'>Full-text PDF of the publication</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf'>Where Data Centers Get Built.pdf</a><br><span class='muted'>Full-text PDF of the publication</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-pb-2026-004/Where%20Data%20Centers%20Get%20Built.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 

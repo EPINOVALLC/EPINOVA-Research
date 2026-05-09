@@ -80,8 +80,49 @@ thead th { background:var(--soft); border-top:0; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
 .footer a { color:#fff; }
 .footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
-@media (max-width:900px){ .record-grid{grid-template-columns:1fr;} .topbar-inner{min-height:116px;} .brand-logo-wrap{width:660px;height:96px;overflow:visible;} .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);} h1{font-size:28px;} .record-subtitle{font-size:18px;} .file-preview iframe{height:460px;} .footer-inner{grid-template-columns:1fr;} }
-</style>
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview {
+    display:none;
+  }
+
+  .mobile-pdf-actions {
+    display:block;
+    margin-top:14px;
+    padding:14px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:#f7f7f7;
+  }
+
+  .mobile-pdf-title {
+    font-weight:700;
+    margin-bottom:6px;
+  }
+
+  .mobile-pdf-actions p {
+    margin:0 0 12px;
+  }
+
+  .mobile-pdf-button {
+    display:block;
+    width:100%;
+    text-align:center;
+    margin-top:8px;
+    padding:10px 12px;
+  }
+}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ScholarlyArticle", "@id": "https://doi.org/10.5281/zenodo.18036790", "name": "From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War", "headline": "From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War", "description": "This research report examines cost-exchange limits in the Russia–Ukraine drone war and argues that unmanned aerial systems have shifted from tactical supplements to system-level drivers of military sustainability. Using a Minimum Viable, Auditable analytical baseline grounded in public data and conservative proxies, the report reframes counter-drone effectiveness away from intercept or shoot-down rates and toward sustainability- and mission-outcome-oriented evaluation. It integrates five indicators: Cost Exchange Ratio (CER), Observational Loss Suppression Ratio (OLER), composite cost-loss indicator CER*obs, Cost per Loss Avoided (CPLAobs), and Key Asset Preservation Ratio/Score (KAPR/KAPS). Applied to 2023–2025 public data, the analysis finds that high interception performance can coexist with deteriorating cost sustainability; that attack scale and saturation make unit cost curves decisive; and that mission outcomes such as power continuity and fuel supply preservation provide a more meaningful measure of strategic effect than interception counts alone. The report concludes that counter-UAS capability should be treated as an endurance capability under sustained saturation, requiring low-cost terminal layers, multi-sensor fusion, magazine-depth planning, and governance attention to AI-assisted detection and automated engagement.", "datePublished": "2025-12-31", "version": "v1.0", "identifier": "https://doi.org/10.5281/zenodo.18036790", "url": "https://publications.epinova.org/epinova-rr-2025-01/", "author": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "creator": [{"@type": "Person", "name": "Wu, Shaoyuan"}], "publisher": {"@type": "Organization", "name": "Global AI Governance Research Center, EPINOVA LLC"}, "license": "https://creativecommons.org/licenses/by/4.0/"}</script>
 </head>
 <body>
@@ -117,14 +158,26 @@ thead th { background:var(--soft); border-top:0; }
 <section class="record-section">
   <h2>Files</h2>
   
-<div class="file-preview">
+<div class="file-preview desktop-pdf-preview">
   <div class="file-preview-title">PDF preview</div>
   <iframe src="/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf" title="From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf"></iframe>
 </div>
 
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">PDF preview</div>
+  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf" target="_blank" rel="noopener">Open PDF</a>
+  <a class="button mobile-pdf-button" href="/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf" download>Download PDF</a>
+</div>
+
   <div class="panel">
     <div class="panel-heading">Files</div>
-    <table class="file-table"><thead><tr><th>Name</th><th>Type</th><th></th></tr></thead><tbody><tr><td><a href='/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf'>From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf</a><br><span class='muted'>Full-text PDF of the publication</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf'>Download</a></td></tr></tbody></table>
+    <table class="file-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th></th></tr>
+      </thead>
+      <tbody><tr><td><a href='/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf'>From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf</a><br><span class='muted'>Full-text PDF of the publication</span></td><td>application/pdf</td><td class='right'><a class='button small' href='/files/epinova-rr-2025-01/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf'>Download</a></td></tr></tbody>
+    </table>
   </div>
 </section>
 
