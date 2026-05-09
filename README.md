@@ -97,7 +97,6 @@ Notes:
 - `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.
 - `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
 - For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.
-
 ## Latest Publications
 
 The links below point to the current GitHub repository structure. Folder names are preserved as they currently exist in the repository to avoid broken links.
@@ -139,6 +138,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-046** (2026-05-09)  
+  **From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface: Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
+  File: [`From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46/From%20Hormuz%20Pressure%20to%20Continental%20Redundancy%20China%E2%80%99s%20Landward%20Strategy%20across%20the%20Inner%20Eurasian%20Landward%20Interface.pdf)
+
 - **EPINOVA-PB-2026-045** (2026-05-07)  
   **China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
@@ -158,11 +162,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-42/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42)  
   File: [`Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf)
-
-- **EPINOVA-PB-2026-041** (2026-04-25)  
-  **Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-41/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41)  
-  File: [`Energy Endurance Under Systemic Shock Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-41/Energy%20Endurance%20Under%20Systemic%20Shock%20Divergent%20Survival%20Pathways%20in%20East%20Asia%20During%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 ---
 

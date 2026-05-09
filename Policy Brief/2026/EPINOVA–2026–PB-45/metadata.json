@@ -374,7 +374,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-07",
-    "last_updated": "2026-05-08",
+    "last_updated": "2026-05-09",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, domain-level benefit-risk assessment, policy implications, limitations, conclusion, recommended citation, DOI status, disclaimer, and Figure 1. Reference metadata supplied the target EPINOVA schema, repository structure, license convention, Crossref/DataCite placeholders, and creator identity conventions. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {
