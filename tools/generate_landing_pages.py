@@ -58,7 +58,6 @@ CATEGORY_ORDER = [
     "policy-briefs",
     "working-papers",
     "white-papers",
-    "index-methodology-papers",
     "research-reports",
     "policy-reports",
 ]
@@ -68,7 +67,6 @@ CATEGORY_LABELS = {
     "policy-briefs": "Policy Briefs",
     "working-papers": "Working Papers",
     "white-papers": "White Papers",
-    "index-methodology-papers": "Index Methodology Papers",
     "research-reports": "Research Reports",
     "policy-reports": "Policy Reports",
     "reports": "Reports",
@@ -77,6 +75,14 @@ CATEGORY_LABELS = {
 }
 
 HIDDEN_CATEGORIES = {"reports"}
+
+CATEGORY_ALIASES = {
+    "white-books": "white-papers",
+    "white-book": "white-papers",
+    "whitebook": "white-papers",
+    "whitepapers": "white-papers",
+}
+
 SKIP_PARTS = {"docs", "site", "generated", ".git", "__pycache__"}
 
 CREATOR = {
@@ -120,6 +126,11 @@ def normalize_slug(value: str) -> str:
     while "--" in value:
         value = value.replace("--", "-")
     return value.strip("-") or "untitled"
+
+
+def normalize_category(category: str) -> str:
+    category = normalize_slug(category or "uncategorized")
+    return CATEGORY_ALIASES.get(category, category)
 
 
 def get_slug(meta: dict) -> str:
@@ -170,6 +181,10 @@ def load_metadata_files() -> list[dict]:
         except Exception as exc:
             print(f"Warning: failed to read {path}: {exc}")
             continue
+        meta["category"] = normalize_category(meta.get("category", ""))
+        if str(meta.get("publication_type", "")).strip().lower() in {"white book", "whitebook"}:
+            meta["publication_type"] = "White Paper"
+
         meta["_metadata_path"] = str(path.relative_to(ROOT))
         meta["_metadata_abs_path"] = str(path)
         meta["_slug"] = get_slug(meta)
@@ -539,9 +554,7 @@ def file_preview_html(meta: dict) -> str:
   <div class="panel">
     <div class="panel-heading">Files</div>
     <table class="file-table">
-      <thead>
-        <tr><th>Name</th><th>Type</th><th></th></tr>
-      </thead>
+      <thead><tr><th>Name</th><th>Type</th><th></th></tr></thead>
       <tbody>{''.join(rows)}</tbody>
     </table>
   </div>
@@ -624,8 +637,21 @@ a:hover { text-decoration:underline; }
 .brand-logo-wrap { width:620px; height:100px; overflow:hidden; display:flex; align-items:center; justify-content:center; }
 .brand-logo { width:560px; height:auto; object-fit:contain; display:block; transform:translateX(-18px) scale(1.05); transform-origin:center center; }
 .publication-nav-bar { width:100%; background:#f4f4f4; border-top:1px solid #d6d6d6; border-bottom:1px solid #d6d6d6; }
-.publication-nav { max-width:1180px; margin:0 auto; padding:11px 24px; display:flex; align-items:center; justify-content:center; gap:34px; flex-wrap:wrap; }
-.publication-nav a { color:#222; font-size:13px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; white-space:nowrap; }
+.publication-nav { max-width:1180px; margin:0 auto; padding:10px 24px; display:flex; align-items:center; justify-content:space-between; gap:22px; }
+.nav-left, .nav-right { display:flex; align-items:center; gap:18px; flex:0 0 auto; }
+.nav-link, .nav-dropdown-button { color:#222; font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; white-space:nowrap; }
+.nav-link { display:inline-flex; align-items:center; }
+.nav-dropdown { position:relative; }
+.nav-dropdown-button { border:0; background:transparent; padding:8px 0; cursor:pointer; font-family:inherit; }
+.nav-dropdown-button::after { content:" ▼"; font-size:10px; letter-spacing:0; }
+.nav-dropdown-menu { display:none; position:absolute; top:100%; left:0; min-width:270px; background:#fff; border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,.12); padding:8px 0; z-index:1000; }
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu { display:block; }
+.nav-dropdown-menu a { display:block; padding:9px 14px; color:#222; font-size:13px; font-weight:600; letter-spacing:0; text-transform:none; white-space:nowrap; }
+.nav-dropdown-menu a:hover { background:#f4f4f4; text-decoration:none; }
+.site-search { flex:1 1 auto; max-width:420px; display:flex; align-items:center; gap:6px; }
+.site-search input { width:100%; border:1px solid var(--border); border-radius:4px; padding:7px 9px; font-size:13px; font-family:inherit; background:#fff; }
+.site-search button { border:1px solid #777; border-radius:4px; padding:7px 10px; background:#fff; color:#222; font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:.04em; cursor:pointer; }
+.site-search button:hover { background:#eee; }
 .container { max-width:1180px; margin:0 auto; padding:32px 24px 48px; }
 .record-grid { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:34px; align-items:start; }
 .record-info-row { display:flex; justify-content:space-between; gap:18px; align-items:center; margin-bottom:20px; color:var(--muted); font-size:14px; }
@@ -662,6 +688,9 @@ thead th { background:var(--soft); border-top:0; }
 .latest-category-block, .year-block { margin-top:22px; }
 .subcategory-block { margin-top:34px; }
 .subcategory-block h2 { font-size:21px; margin:0 0 16px; padding-bottom:6px; border-bottom:1px solid var(--border); }
+.search-page-box { display:flex; gap:8px; max-width:720px; margin:24px 0 12px; }
+.search-page-box input { flex:1 1 auto; border:1px solid var(--border); border-radius:4px; padding:10px 12px; font-size:15px; font-family:inherit; }
+.search-page-box button { border:1px solid #777; border-radius:4px; padding:10px 14px; background:#fff; color:#222; font-weight:700; cursor:pointer; }
 .footer { background:var(--dark); color:#ccc; margin-top:48px; }
 .footer-inner { max-width:1180px; margin:0 auto; padding:28px 24px; display:grid; grid-template-columns:1.5fr 1fr 1fr; gap:24px; font-size:14px; }
 .footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
@@ -670,6 +699,11 @@ thead th { background:var(--soft); border-top:0; }
 .mobile-pdf-actions { display:none; }
 
 @media (max-width:900px){
+  .publication-nav { padding:10px 16px; gap:12px; flex-wrap:wrap; }
+  .site-search { order:3; flex:1 0 100%; max-width:none; }
+  .nav-left, .nav-right { gap:14px; }
+  .nav-link, .nav-dropdown-button { font-size:12px; }
+  .nav-dropdown-menu { min-width:240px; }
   .record-grid{grid-template-columns:1fr;}
   .topbar-inner{min-height:116px;}
   .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
@@ -680,36 +714,15 @@ thead th { background:var(--soft); border-top:0; }
 }
 
 @media (max-width:700px){
-  .desktop-pdf-preview {
-    display:none;
-  }
-
-  .mobile-pdf-actions {
-    display:block;
-    margin-top:14px;
-    padding:14px;
-    border:1px solid var(--border);
-    border-radius:6px;
-    background:#f7f7f7;
-  }
-
-  .mobile-pdf-title {
-    font-weight:700;
-    margin-bottom:6px;
-  }
-
-  .mobile-pdf-actions p {
-    margin:0 0 12px;
-  }
-
-  .mobile-pdf-button {
-    display:block;
-    width:100%;
-    text-align:center;
-    margin-top:8px;
-    padding:10px 12px;
-  }
-}"""
+  .desktop-pdf-preview { display:none; }
+  .mobile-pdf-actions { display:block; margin-top:14px; padding:14px; border:1px solid var(--border); border-radius:6px; background:#f7f7f7; }
+  .mobile-pdf-title { font-weight:700; margin-bottom:6px; }
+  .mobile-pdf-actions p { margin:0 0 12px; }
+  .mobile-pdf-button { display:block; width:100%; text-align:center; margin-top:8px; padding:10px 12px; }
+  .search-page-box { flex-direction:column; }
+  .search-page-box button { width:100%; }
+}
+"""
 
 
 def head_meta(meta: dict | None = None, title: str = SITE_TITLE) -> str:
@@ -788,20 +801,38 @@ def site_header() -> str:
     return f"""
 <header class="topbar">
   <div class="topbar-inner logo-only-header">
-    <div class="brand-logo-wrap"><img class="brand-logo" src="/{h(OUTPUT_LOGO_PATH)}" alt="Global AI Governance and Policy Research Center, EPINOVA LLC"></div>
+    <div class="brand-logo-wrap">
+      <img class="brand-logo" src="/{h(OUTPUT_LOGO_PATH)}" alt="Global AI Governance and Policy Research Center, EPINOVA LLC">
+    </div>
   </div>
 </header>
+
 <div class="publication-nav-bar">
   <nav class="publication-nav" aria-label="Publication navigation">
-    <a href="/">Publications</a>
-    <a href="/articles/">Articles</a>
-    <a href="/policy-briefs/">Policy Briefs</a>
-    <a href="/working-papers/">Working Papers</a>
-    <a href="/white-papers/">White Papers</a>
-    <a href="/index-methodology-papers/">Index Methodology Papers</a>
-    <a href="/research-reports/">Research Reports</a>
-    <a href="/policy-reports/">Policy Reports</a>
-    <a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA</a>
+    <div class="nav-left">
+      <a class="nav-link" href="/">Main</a>
+      <div class="nav-dropdown">
+        <button class="nav-dropdown-button" type="button" aria-haspopup="true">Publications</button>
+        <div class="nav-dropdown-menu">
+          <a href="/articles/">Articles</a>
+          <a href="/policy-briefs/">Policy Briefs</a>
+          <a href="/working-papers/">Working Papers</a>
+          <a href="/white-papers/">White Papers</a>
+          <a href="/index-methodology-papers/">Index Methodology Papers</a>
+          <a href="/research-reports/">Research Reports</a>
+          <a href="/policy-reports/">Policy Reports</a>
+        </div>
+      </div>
+    </div>
+
+    <form class="site-search" action="/search/" method="get">
+      <input type="search" name="q" placeholder="Search publications..." aria-label="Search publications">
+      <button type="submit">Search</button>
+    </form>
+
+    <div class="nav-right">
+      <a class="nav-link" href="{h(EPINOVA_MAIN_SITE)}">EPINOVA</a>
+    </div>
   </nav>
 </div>
 """
@@ -812,7 +843,7 @@ def site_footer() -> str:
 <footer class="footer">
   <div class="footer-inner">
     <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
-    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a></p></div>
     <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
     <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
   </div>
@@ -937,6 +968,140 @@ def working_paper_subcategory(meta: dict) -> tuple[str, str]:
     return "Z", "Other Working Papers"
 
 
+
+def search_index_records(records: list[dict]) -> list[dict]:
+    out = []
+    for meta in records:
+        category = meta.get("category", "uncategorized") or "uncategorized"
+        if category in HIDDEN_CATEGORIES:
+            continue
+
+        keywords = meta.get("keywords", [])
+        keywords_text = " ".join(str(x) for x in keywords) if isinstance(keywords, list) else str(keywords or "")
+
+        subjects = meta.get("subjects", [])
+        subjects_text = " ".join(str(x) for x in subjects) if isinstance(subjects, list) else str(subjects or "")
+
+        title = full_display_title(meta)
+        category_label = CATEGORY_LABELS.get(category, category.replace("-", " ").title())
+        description = meta.get("abstract") or meta.get("description") or ""
+        out.append({
+            "title": title,
+            "epinova_id": meta.get("epinova_id", ""),
+            "publication_type": meta.get("publication_type", ""),
+            "category": category_label,
+            "publication_date": meta.get("publication_date", ""),
+            "href": record_href(meta),
+            "description": description,
+            "keywords": keywords_text,
+            "subjects": subjects_text,
+            "search_text": " ".join([
+                title,
+                meta.get("epinova_id", ""),
+                meta.get("publication_type", ""),
+                category_label,
+                meta.get("publication_date", ""),
+                meta.get("abstract") or "",
+                meta.get("description") or "",
+                keywords_text,
+                subjects_text,
+            ]).lower(),
+        })
+    return out
+
+
+def render_search_page(records: list[dict]) -> str:
+    search_data = json.dumps(search_index_records(records), ensure_ascii=False).replace("</", "<\/")
+
+    body = f"""
+<main class="container">
+  <p><a href="/">← EPINOVA Publications</a></p>
+  <h1>Search Publications</h1>
+  <p class="muted">Search EPINOVA publication records by title, identifier, publication type, keyword, subject, abstract, or date.</p>
+
+  <div class="search-page-box">
+    <input id="searchInput" type="search" placeholder="Enter keywords..." aria-label="Search publications">
+    <button id="searchButton" type="button">Search</button>
+  </div>
+
+  <p id="searchSummary" class="muted"></p>
+  <ul id="searchResults" class="category-list"></ul>
+
+  <script>
+    const SEARCH_DATA = {search_data};
+
+    const input = document.getElementById("searchInput");
+    const button = document.getElementById("searchButton");
+    const results = document.getElementById("searchResults");
+    const summary = document.getElementById("searchSummary");
+
+    function escapeHtml(value) {{
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }}
+
+    function getQuery() {{
+      const params = new URLSearchParams(window.location.search);
+      return params.get("q") || "";
+    }}
+
+    function runSearch(rawQuery) {{
+      const query = String(rawQuery || "").trim().toLowerCase();
+      results.innerHTML = "";
+
+      if (!query) {{
+        summary.textContent = "Enter one or more keywords to search the publication index.";
+        return;
+      }}
+
+      const terms = query.split(/\s+/).filter(Boolean);
+      const matches = SEARCH_DATA.filter(item =>
+        terms.every(term => item.search_text.includes(term))
+      );
+
+      summary.textContent = `${{matches.length}} result${{matches.length === 1 ? "" : "s"}} for “${{rawQuery}}”.`;
+
+      if (!matches.length) {{
+        results.innerHTML = "<li>No matching records found.</li>";
+        return;
+      }}
+
+      results.innerHTML = matches.map(item => {{
+        const id = item.epinova_id ? `<strong>${{escapeHtml(item.epinova_id)}}</strong> — ` : "";
+        const detail = [item.publication_type, item.category, item.publication_date].filter(Boolean).join(" · ");
+        const description = item.description || "";
+        const desc = description ? `<br><span class="muted">${{escapeHtml(description).slice(0, 260)}}${{description.length > 260 ? "..." : ""}}</span>` : "";
+        return `<li>${{id}}<a href="${{escapeHtml(item.href)}}">${{escapeHtml(item.title)}}</a><br><span class="muted">${{escapeHtml(detail)}}</span>${{desc}}</li>`;
+      }}).join("");
+    }}
+
+    button.addEventListener("click", () => {{
+      const q = input.value.trim();
+      const url = q ? `/search/?q=${{encodeURIComponent(q)}}` : "/search/";
+      window.history.replaceState(null, "", url);
+      runSearch(q);
+    }});
+
+    input.addEventListener("keydown", event => {{
+      if (event.key === "Enter") {{
+        event.preventDefault();
+        button.click();
+      }}
+    }});
+
+    const initialQuery = getQuery();
+    input.value = initialQuery;
+    runSearch(initialQuery);
+  </script>
+</main>
+"""
+    return html_doc(f"Search Publications | {SITE_TITLE}", body)
+
+
 def render_index_page(records: list[dict]) -> str:
     category_counts = defaultdict(int)
     for meta in records:
@@ -963,9 +1128,8 @@ def render_index_page(records: list[dict]) -> str:
         ("policy-briefs", "B. Policy Briefs"),
         ("working-papers", "C. Working Papers"),
         ("white-papers", "D. White Papers"),
-        ("index-methodology-papers", "E. Index Methodology Papers"),
-        ("policy-reports", "F. Policy Reports"),
-        ("research-reports", "G. Research Reports"),
+        ("policy-reports", "E. Policy Reports"),
+        ("research-reports", "F. Research Reports"),
     ]
     records_by_category = defaultdict(list)
     for meta in records:
@@ -1025,7 +1189,7 @@ def render_category_page(category: str, records: list[dict]) -> str:
         body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
         return html_doc(f"{label} | {SITE_TITLE}", body)
 
-    if category in {"articles", "policy-briefs", "white-papers", "index-methodology-papers", "research-reports", "policy-reports"}:
+    if category in {"articles", "policy-briefs", "white-papers", "research-reports", "policy-reports"}:
         records_by_year = defaultdict(list)
         for meta in records:
             records_by_year[publication_year(meta)].append(meta)
@@ -1053,8 +1217,6 @@ def render_category_page(category: str, records: list[dict]) -> str:
 
 
 def clean_output_dir() -> None:
-    if OUTPUT_DIR.exists():
-        shutil.rmtree(OUTPUT_DIR)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -1105,6 +1267,7 @@ def main() -> None:
         write_page(OUTPUT_DIR / slug / "index.html", render_record_page(meta))
 
     write_page(OUTPUT_DIR / "index.html", render_index_page(records))
+    write_page(OUTPUT_DIR / "search" / "index.html", render_search_page(records))
 
     category_groups = defaultdict(list)
     for meta in records:
