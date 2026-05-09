@@ -868,7 +868,7 @@ def render_record_page(meta: dict) -> str:
       <section class="record-section"><h2>Related works</h2>{related_works_html(meta)}</section>
       <section class="record-section"><h2>References</h2>{references_html(meta)}</section>
     </article>
-    <aside class="record-sidebar">{sidebar_details_html(meta)}{sidebar_rights_html(meta)}{sidebar_citation_html(meta)}{sidebar_export_html(meta)}</aside>
+    <aside class="record-sidebar">{sidebar_details_html(meta)}{sidebar_rights_html(meta)}{sidebar_citation_html(meta)}</aside>
   </div>
 </main>
 """
