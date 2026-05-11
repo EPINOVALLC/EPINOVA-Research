@@ -1,7 +1,8 @@
-Policy Brief/2026/EPINOVA–2026–PB-46/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
-Policy Brief/2026/EPINOVA–2026–PB-46/metadata.json
-docs/epinova-pb-2026-046/index.html
-docs/files/epinova-pb-2026-046/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
+Policy Brief/2026/EPINOVA–2026–PB-21/metadata.json
+Working Paper/A/2026/EPINOVA–WP–A–2026–03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
+Working Paper/A/2026/EPINOVA–WP–A–2026–03/metadata.json
+docs/epinova-wp-a-2026-03/index.html
+docs/files/epinova-wp-a-2026-03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -654,6 +655,8 @@ Policy Brief/2026/EPINOVA–2026–PB-44/Caspian Logistics Shock Monitoring Russ
 Policy Brief/2026/EPINOVA–2026–PB-44/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-45/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-45/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-46/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
+Policy Brief/2026/EPINOVA–2026–PB-46/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1307,6 +1310,7 @@ docs/epinova-pb-2026-042/index.html
 docs/epinova-pb-2026-043/index.html
 docs/epinova-pb-2026-044/index.html
 docs/epinova-pb-2026-045/index.html
+docs/epinova-pb-2026-046/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-01/index.html
 docs/epinova-wp-2025-01/index.html
@@ -1380,6 +1384,7 @@ docs/files/epinova-pb-2026-042/Beyond Hormuz Iran’s Ten-Corridor Logistics Ada
 docs/files/epinova-pb-2026-043/Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf
 docs/files/epinova-pb-2026-044/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
 docs/files/epinova-pb-2026-045/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
+docs/files/epinova-pb-2026-046/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
