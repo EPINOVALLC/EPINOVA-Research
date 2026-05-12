@@ -1,8 +1,5 @@
-Policy Brief/2026/EPINOVA–2026–PB-21/metadata.json
-Working Paper/A/2026/EPINOVA–WP–A–2026–03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
-Working Paper/A/2026/EPINOVA–WP–A–2026–03/metadata.json
-docs/epinova-wp-a-2026-03/index.html
-docs/files/epinova-wp-a-2026-03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
+Policy Brief/2026/EPINOVA–2026–PB-47/Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf
+Policy Brief/2026/EPINOVA–2026–PB-47/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -607,6 +604,7 @@ Policy Brief/2026/EPINOVA–2026–PB-19/From Compensation to Strategic Amplific
 Policy Brief/2026/EPINOVA–2026–PB-19/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-20/Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints.pdf
 Policy Brief/2026/EPINOVA–2026–PB-20/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-21/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-22/From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf
 Policy Brief/2026/EPINOVA–2026–PB-22/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-23/From Regional Power to Network Node Iran’s Post-War Trajectory and Strategic Positioning.pdf
@@ -668,6 +666,8 @@ Working Paper/A/2026/EPINOVA–WP–A–2026–01/Greenland as a Structural AI S
 Working Paper/A/2026/EPINOVA–WP–A–2026–01/metadata.json
 Working Paper/A/2026/EPINOVA–WP–A–2026–02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
 Working Paper/A/2026/EPINOVA–WP–A–2026–02/metadata.json
+Working Paper/A/2026/EPINOVA–WP–A–2026–03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
+Working Paper/A/2026/EPINOVA–WP–A–2026–03/metadata.json
 Working Paper/D/2026/EPINOVA–WP–D–2026–01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
 Working Paper/D/2026/EPINOVA–WP–D–2026–01/metadata.json
 Working Paper/D/2026/EPINOVA–WP–D–2026–02/Why the South.pdf
@@ -1316,6 +1316,7 @@ docs/epinova-rr-2025-01/index.html
 docs/epinova-wp-2025-01/index.html
 docs/epinova-wp-a-2026-01/index.html
 docs/epinova-wp-a-2026-02/index.html
+docs/epinova-wp-a-2026-03/index.html
 docs/epinova-wp-d-2026-01/index.html
 docs/epinova-wp-d-2026-02/index.html
 docs/epinova-wp-f-2025-01/index.html
@@ -1390,6 +1391,7 @@ docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits i
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-a-2026-01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
 docs/files/epinova-wp-a-2026-02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
+docs/files/epinova-wp-a-2026-03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
 docs/files/epinova-wp-d-2026-01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
 docs/files/epinova-wp-d-2026-02/Why the South.pdf
 docs/files/epinova-wp-f-2025-01/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf

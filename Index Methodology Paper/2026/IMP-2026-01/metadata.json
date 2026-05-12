@@ -557,7 +557,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-08",
-    "last_updated": "2026-05-11",
+    "last_updated": "2026-05-12",
     "notes": "PDF supplied title, subtitle, version, release status, EPINOVA identifier, publication date, author and ORCID, institutional affiliation, executive summary, key findings, PCI indicator architecture, formulas, weighting templates, data-source strategy, valuation channels, dynamic model, classification framework, hypothetical calculation, applications, limitations, future research agenda, references, disclaimer, version history, and citation recommendation. No DOI is printed in the PDF; Crossref DOI remains pending unless later assigned."
   },
   "pdf_metadata": {

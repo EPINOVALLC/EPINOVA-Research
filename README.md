@@ -138,6 +138,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-047** (2026-05-12)  
+  **Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
+  File: [`Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47/Shock-Responsive%20Resilience%20in%20the%20Caspian%20Logistics%20System%20Measuring%20Rebound%20Capacity%20after%20External%20Strikes.pdf)
+
 - **EPINOVA-PB-2026-046** (2026-05-09)  
   **From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface: Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
@@ -157,11 +162,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-43/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43)  
   File: [`Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf)
-
-- **EPINOVA-PB-2026-042** (2026-04-28)  
-  **Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-42/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42)  
-  File: [`Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-42/Beyond%20Hormuz%20Iran%E2%80%99s%20Ten-Corridor%20Logistics%20Adaptation%20under%20Blockade%20Pressure.pdf)
 
 ---
 
@@ -185,27 +185,27 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Working Papers
 
-- **EPINOVA-WP-F-2026-009** (2026-03-20)  
+- **EPINOVA-WP-F-2026-09** (2026-03-20)  
   **A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–09/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309)  
   File: [`A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309/A%20Systemic%20Theory%20of%20Escalation%20and%20the%20Loss-of-Control%20Threshold%20in%20Networked%20Conflict.pdf)
 
-- **EPINOVA-WP-F-2026-008** (2026-03-19)  
+- **EPINOVA-WP-F-2026-08** (2026-03-19)  
   **Who Loses Control First?: Threshold Competition in the 2026 U.S.–Israel–Iran Conflict**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–08/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308)  
   File: [`Who Loses Control First.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf)
 
-- **EPINOVA-WP-F-2026-007** (2026-03-17)  
+- **EPINOVA-WP-F-2026-07** (2026-03-17)  
   **Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
   File: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
 
-- **EPINOVA-WP-F-2026-006** (2026-03-11)  
+- **EPINOVA-WP-F-2026-06** (2026-03-11)  
   **Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–06/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306)  
   File: [`Industrial War vs Network War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf)
 
-- **EPINOVA-WP-F-2026-005** (2026-03-09)  
+- **EPINOVA-WP-F-2026-05** (2026-03-09)  
   **Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare**  
   Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–05/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305)  
   File: [`Cloud Under Fire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf)
