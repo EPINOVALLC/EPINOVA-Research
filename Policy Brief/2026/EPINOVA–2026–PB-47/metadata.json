@@ -429,7 +429,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-12",
-    "last_updated": "2026-05-12",
+    "last_updated": "2026-05-13",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, event timeline, CLRI framework, CLRI score, figures, tables, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {

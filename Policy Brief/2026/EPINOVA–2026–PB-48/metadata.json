@@ -1,0 +1,442 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-048",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-048",
+  "title": "From Transit Fees to a Chokepoint–Hydrocarbon Value System",
+  "subtitle": "Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz",
+  "title_normalized": "from transit fees to a chokepoint-hydrocarbon value system",
+  "publication_date": "2026-05-13",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "To be assigned after Crossref membership approval",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-048/",
+  "official_page": "https://epinova.org/policy-brief-2",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–48",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Chokepoint–Hydrocarbon Value System",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "CHVS",
+      "scheme": "Acronym",
+      "description": "Acronym for the Chokepoint–Hydrocarbon Value System framework"
+    }
+  ],
+  "description": "This policy brief analyzes the reported Hormuz transit-fee mechanism as a possible early-stage Chokepoint–Hydrocarbon Value System (CHVS), in which maritime access, hydrocarbon dependence, passage pricing, alternative settlement channels, sanctions exposure, and political alignment become linked inside a contested chokepoint environment.",
+  "abstract": "This policy brief proposes the Chokepoint–Hydrocarbon Value System (CHVS) as an analytical framework for interpreting the reported Hormuz transit-fee mechanism. It argues that the strategic issue is not only whether Iran has collected verified passage fees, but whether Tehran is attempting to reprice passage through the Strait of Hormuz by linking maritime uncertainty, hydrocarbon dependency, security risk, alternative settlement channels, and political alignment. The brief emphasizes that public evidence does not yet confirm a formal, state-recognized toll regime or verified payer list. Instead, it treats CHVS as an emerging, contested, and partially visible mechanism whose significance lies in the potential normalization of conditional passage, non-standard settlement, political sorting, sanctions friction, and regional value capture. It concludes that monitoring should shift from vessel movement alone toward financial, insurance, legal, commercial, and logistical indicators of passage-pricing behavior.",
+  "keywords": [
+    "Strait of Hormuz",
+    "Hormuz transit fees",
+    "Chokepoint–Hydrocarbon Value System",
+    "CHVS",
+    "chokepoint governance",
+    "hydrocarbon dependency",
+    "energy security",
+    "maritime security",
+    "passage pricing",
+    "transit fees",
+    "Iran",
+    "sanctions exposure",
+    "alternative settlement",
+    "yuan settlement",
+    "crypto payments",
+    "barter",
+    "offsets",
+    "maritime insurance",
+    "war-risk pricing",
+    "P&I clubs",
+    "shipping risk",
+    "regional leverage",
+    "value capture",
+    "political alignment",
+    "governance leverage",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Maritime security",
+    "Energy security",
+    "Public policy",
+    "Middle East security",
+    "Sanctions policy",
+    "Political economy",
+    "Strategic competition",
+    "Systemic risk",
+    "Chokepoint governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-05-13",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-05-13",
+      "date_type": "Created",
+      "description": "PDF date and metadata creation date"
+    },
+    {
+      "date": "2026-05-13",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-05-13",
+      "date_type": "Metadata updated",
+      "description": "Metadata generated according to the EPINOVA publication metadata schema"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 8
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-048",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, maritime security, energy security, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Chokepoint–Hydrocarbon Value System (CHVS)",
+    "source_basis": "Qualitative analytical framework based on public reporting on Hormuz toll pressure, OFAC sanctions guidance, shipping-company statements and denials, reported alternative settlement channels, maritime-risk behavior, and prior EPINOVA analysis of Hormuz friction management, threshold-delaying logistics, and alternative corridor adaptation.",
+    "case_context": "Reported Hormuz transit-fee pressure and Iran’s possible attempt to convert maritime passage uncertainty, hydrocarbon dependency, security risk, alternative settlement channels, and political alignment into regional value capture.",
+    "core_problem": "Vessel movement alone cannot determine whether passage through Hormuz has been priced, cleared, insured, politically negotiated, or financially intermediated.",
+    "central_claims": [
+      "Iran may be attempting to convert Hormuz passage uncertainty into a Chokepoint–Hydrocarbon Value System.",
+      "The reported toll mechanism should be understood not only as a revenue tool, but as a broader effort to link maritime access, hydrocarbon dependency, security risk, alternative settlement channels, and political alignment.",
+      "Public evidence does not yet confirm a stable, formal, state-recognized toll regime or verified payer list.",
+      "The strategic significance lies in repricing passage rather than only collecting fees.",
+      "Even limited or deniable payment arrangements could create precedent if repeated, normalized, or embedded in commercial risk calculations.",
+      "The enforcement problem is shifting from maritime tracking to financial, insurance, legal, commercial, and logistical verification.",
+      "A partial CHVS could complicate sanctions enforcement and regional maritime governance by reducing visibility inside dollar-centered enforcement mechanisms."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Passage-Pricing Analysis",
+        "description": "Examines whether maritime access through Hormuz is becoming conditional, priced, delayed, insured differently, or commercially internalized as a risk premium."
+      },
+      {
+        "name": "Hydrocarbon Dependency Exposure",
+        "description": "Assesses how oil, gas, LNG, LPG, refined fuels, and petrochemical flows convert chokepoint uncertainty into systemic exposure."
+      },
+      {
+        "name": "Alternative Settlement and Sanctions Friction",
+        "description": "Evaluates whether yuan, crypto assets, barter, swaps, offsets, in-kind arrangements, or third-party intermediaries reduce visibility in dollar-centered enforcement systems."
+      },
+      {
+        "name": "Political Sorting and Alignment Premium",
+        "description": "Interprets differentiated treatment of friendly and unfriendly vessels as a possible mechanism for embedding political alignment into logistics."
+      },
+      {
+        "name": "Evidence-Boundary Discipline",
+        "description": "Distinguishes a confirmed toll regime from an emerging, contested, and partially visible coercive-pricing environment."
+      }
+    ],
+    "formula": {
+      "name": "CHVS Value-Capture Components",
+      "expression": "VC_CHVS = T + RP + DC + SF + AP",
+      "parameters": [
+        {
+          "symbol": "T",
+          "name": "Direct toll or passage-related payment",
+          "description": "Direct fee or passage-related payment associated with transit through the contested chokepoint."
+        },
+        {
+          "symbol": "RP",
+          "name": "Risk premium",
+          "description": "Risk premium generated by insecurity, threat perception, insurance adjustment, or expected non-interference value."
+        },
+        {
+          "symbol": "DC",
+          "name": "Delay cost",
+          "description": "Cost imposed by uncertainty, inspection, waiting time, rerouting, convoying, or clearance delay."
+        },
+        {
+          "symbol": "SF",
+          "name": "Settlement-friction value",
+          "description": "Value generated through yuan, crypto, barter, swaps, offsets, in-kind compensation, or third-party channels."
+        },
+        {
+          "symbol": "AP",
+          "name": "Alignment premium",
+          "description": "Value generated by preferential treatment for politically acceptable actors or differentiated handling of friendly vessels."
+        }
+      ]
+    }
+  },
+  "dimensions": [
+    {
+      "name": "Geographic Control Layer",
+      "code": "GCL",
+      "function": "Uses Hormuz's chokepoint position as the foundation of leverage.",
+      "strategic_meaning": "Converts geography into bargaining power."
+    },
+    {
+      "name": "Hydrocarbon Dependency Layer",
+      "code": "HDL",
+      "function": "Links oil, gas, LNG, LPG, refined fuels, and petrochemical flows to passage risk.",
+      "strategic_meaning": "Turns hydrocarbon-linked energy dependence into systemic exposure."
+    },
+    {
+      "name": "Passage-Pricing Layer",
+      "code": "PPL",
+      "function": "Creates toll, clearance, escort, protection, or non-interference mechanisms.",
+      "strategic_meaning": "Monetizes maritime uncertainty."
+    },
+    {
+      "name": "Settlement and Evasion Layer",
+      "code": "SEL",
+      "function": "Uses yuan, crypto, barter, offsets, swaps, or third-party channels.",
+      "strategic_meaning": "Reduces dependence on dollar-based enforcement visibility."
+    },
+    {
+      "name": "Regional Order Layer",
+      "code": "ROL",
+      "function": "Differentiates actors by political alignment, compliance, or strategic utility.",
+      "strategic_meaning": "Converts logistics into hierarchy and influence."
+    }
+  ],
+  "key_findings": [
+    "The reported Hormuz transit-fee mechanism may represent an early attempt to transform chokepoint exposure into regional value capture.",
+    "The CHVS remains incomplete, contested, embryonic, and only partially visible.",
+    "Public evidence does not yet confirm a formalized toll regime or verified list of state, corporate, shipping, charterer, trader, or energy-sector payers.",
+    "The strategic issue is passage repricing, not only fee collection.",
+    "A partial passage-pricing system could become strategically significant if repeated or normalized.",
+    "AIS vessel movement cannot reveal whether passage was priced, cleared, insured, politically negotiated, or financially intermediated.",
+    "Monitoring should include sanctions advisories, company denials, insurance notices, charter-party disputes, customs documentation, alternative settlement references, differentiated treatment of friendly vessels, energy routing shifts, and war-risk pricing.",
+    "The CHVS model links geographic control, hydrocarbon dependency, passage pricing, settlement/evasion channels, and regional-order formation.",
+    "If passage through Hormuz becomes conditional, priced, politically differentiated, or financially intermediated, the strait becomes not only a maritime chokepoint but also a monetizable governance space."
+  ],
+  "policy_recommendations": [
+    "Treat Hormuz as more than a naval-access problem because the crisis also involves finance, insurance, law, logistics, and political economy.",
+    "Monitor intermediaries rather than only vessel owners, including charterers, cargo owners, traders, brokers, insurers, port agents, and third-party financial facilitators.",
+    "Account for non-standard settlement mechanisms such as yuan, crypto assets, barter, offsets, swaps, in-kind compensation, or charitable fronts.",
+    "Incorporate passage pricing into energy-security analysis by evaluating cost, delay, risk allocation, insurance exposure, and political dependence alongside physical volume.",
+    "Distinguish tactical leakage from strategic normalization, because a small number of paid passages could normalize the expectation that Iran can price access through the strait."
+  ],
+  "monitoring_indicators": [
+    {
+      "target": "OFAC designations and advisories",
+      "reason": "May reveal payment networks, intermediaries, sanctioned facilitators, or evasion channels."
+    },
+    {
+      "target": "Company statements and denials",
+      "reason": "Help identify which firms resist, deny, or potentially comply with passage-pricing pressure."
+    },
+    {
+      "target": "P&I club and marine-insurance notices",
+      "reason": "Show whether toll risk is being priced into coverage and liability structures."
+    },
+    {
+      "target": "Charter-party disputes",
+      "reason": "May reveal who bears payment responsibility: owner, charterer, cargo owner, trader, or intermediary."
+    },
+    {
+      "target": "Port-agent and customs documentation",
+      "reason": "Could expose clearance codes, guarantees, transit-linked payments, or documentation anomalies."
+    },
+    {
+      "target": "Yuan, crypto, barter, or offset references",
+      "reason": "Indicate movement toward non-dollar settlement or sanctions-evasion mechanisms."
+    },
+    {
+      "target": "Differentiated treatment of friendly vessels",
+      "reason": "Signals political sorting within the passage regime."
+    },
+    {
+      "target": "Energy-trade routing shifts",
+      "reason": "Shows whether oil, gas, LNG, LPG, or refined-product flows are adapting to conditional passage."
+    },
+    {
+      "target": "Insurance premiums and war-risk pricing",
+      "reason": "Indicates whether commercial markets are internalizing the passage-pricing regime."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-2",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "EPINOVA–2026–PB–42",
+      "scheme": "EPINOVA policy brief number",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on Iran's ten-corridor logistics adaptation under blockade pressure"
+    },
+    {
+      "relation": "References",
+      "identifier": "EPINOVA–2026–PB–47",
+      "scheme": "EPINOVA policy brief number",
+      "resource_type": "Policy Brief",
+      "description": "Related EPINOVA policy brief on shock-responsive resilience in the Caspian logistics system"
+    }
+  ],
+  "references": [
+    "OFAC guidance and advisories on sanctions risk related to Hormuz toll-payment mechanisms.",
+    "Public reporting on vessel-level toll pressure, shipping-company denials, alternative settlement channels, and Iran's claimed initial toll revenue.",
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+    "Wu, Shaoyuan. (2026). Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes. Policy Brief No. EPINOVA–2026–PB–47. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz. Policy Brief No. EPINOVA–2026–PB–48. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From transit fees to a chokepoint–hydrocarbon value system: Repricing passage, energy dependence, and regional leverage in the Strait of Hormuz. EPINOVA Policy Brief Series, EPINOVA-PB-2026-048. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Transit Fees to a Chokepoint–Hydrocarbon Value System, EPINOVA–2026–PB–48.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "edition": "v1.0",
+    "date": "2026-05-13",
+    "pagination": "8 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "CHVS Model",
+      "description": "Presents the Chokepoint–Hydrocarbon Value System as a five-layer model linking geographic control, hydrocarbon dependency, passage pricing, alternative settlement channels, and regional-order formation. It illustrates how maritime uncertainty around the Strait of Hormuz may be converted into regional value capture through revenue extraction, sanctions friction, political sorting, and governance leverage.",
+      "source": "Author’s analytical framework, building on EPINOVA’s prior analysis of Hormuz friction management, threshold-delaying logistics, and alternative corridor adaptation.",
+      "note": "CHVS is an analytical model describing an emerging mechanism, not a confirmed institutionalized system."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Key Monitoring Indicators for Hormuz Passage-Pricing and Value-Capture Dynamics",
+      "description": "Identifies maritime, financial, insurance, legal, commercial, and logistical indicators for assessing whether Hormuz passage is becoming priced, politically differentiated, financially intermediated, or embedded in broader sanctions-evasion and risk-allocation mechanisms.",
+      "source": "Author’s analytical framework, informed by OFAC guidance on Hormuz toll-payment sanctions risk, public reporting on vessel-level toll pressure, shipping-company denials, alternative settlement channels, and Iran’s claimed initial toll revenue.",
+      "note": "Indicators are designed to identify whether passage through Hormuz is becoming priced, politically differentiated, financially intermediated, or embedded in broader sanctions-evasion and risk-allocation mechanisms."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction and visual inspection of rendered page images",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodology note, CHVS conceptual framework, five-layer model, value-capture formula, evidence-boundary section, monitoring indicators, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "",
+    "creator": "",
+    "producer": "",
+    "creation_date": "",
+    "modification_date": "",
+    "pages": 8
+  },
+  "crossref": {
+    "status": "not_registered",
+    "doi": "",
+    "deposit_ready": false,
+    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-048/",
+    "crossref_doi_suffix": "epinova.pb.2026.048",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Pending"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}

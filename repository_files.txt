@@ -1,5 +1,7 @@
-Policy Brief/2026/EPINOVA–2026–PB-47/Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf
-Policy Brief/2026/EPINOVA–2026–PB-47/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-48/From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf
+Policy Brief/2026/EPINOVA–2026–PB-48/metadata.json
+docs/epinova-pb-2026-048/index.html
+docs/files/epinova-pb-2026-048/From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -655,6 +657,8 @@ Policy Brief/2026/EPINOVA–2026–PB-45/China as a Stabilizing Network Node Str
 Policy Brief/2026/EPINOVA–2026–PB-45/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-46/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
 Policy Brief/2026/EPINOVA–2026–PB-46/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-47/Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf
+Policy Brief/2026/EPINOVA–2026–PB-47/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1311,6 +1315,7 @@ docs/epinova-pb-2026-043/index.html
 docs/epinova-pb-2026-044/index.html
 docs/epinova-pb-2026-045/index.html
 docs/epinova-pb-2026-046/index.html
+docs/epinova-pb-2026-047/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-01/index.html
 docs/epinova-wp-2025-01/index.html
@@ -1334,6 +1339,15 @@ docs/epinova-wp-f-2026-006/index.html
 docs/epinova-wp-f-2026-007/index.html
 docs/epinova-wp-f-2026-008/index.html
 docs/epinova-wp-f-2026-009/index.html
+docs/epinova-wp-f-2026-01/index.html
+docs/epinova-wp-f-2026-02/index.html
+docs/epinova-wp-f-2026-03/index.html
+docs/epinova-wp-f-2026-04/index.html
+docs/epinova-wp-f-2026-05/index.html
+docs/epinova-wp-f-2026-06/index.html
+docs/epinova-wp-f-2026-07/index.html
+docs/epinova-wp-f-2026-08/index.html
+docs/epinova-wp-f-2026-09/index.html
 docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
 docs/files/epinova-iwb-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
 docs/files/epinova-iwp-2025-01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
@@ -1386,6 +1400,7 @@ docs/files/epinova-pb-2026-043/Transit of Goods through Territory of Pakistan Or
 docs/files/epinova-pb-2026-044/Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf
 docs/files/epinova-pb-2026-045/China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pb-2026-046/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
+docs/files/epinova-pb-2026-047/Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
@@ -1409,6 +1424,15 @@ docs/files/epinova-wp-f-2026-006/Industrial War vs Network War.pdf
 docs/files/epinova-wp-f-2026-007/Systemic Warfare in the Networked Age.pdf
 docs/files/epinova-wp-f-2026-008/Who Loses Control First.pdf
 docs/files/epinova-wp-f-2026-009/A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf
+docs/files/epinova-wp-f-2026-01/When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf
+docs/files/epinova-wp-f-2026-02/Derivative-State Drift.pdf
+docs/files/epinova-wp-f-2026-03/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
+docs/files/epinova-wp-f-2026-04/Losing the Narrative.pdf
+docs/files/epinova-wp-f-2026-05/Cloud Under Fire.pdf
+docs/files/epinova-wp-f-2026-06/Industrial War vs Network War.pdf
+docs/files/epinova-wp-f-2026-07/Systemic Warfare in the Networked Age.pdf
+docs/files/epinova-wp-f-2026-08/Who Loses Control First.pdf
+docs/files/epinova-wp-f-2026-09/A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf
 docs/index-methodology-papers/index.html
 docs/index.html
 docs/policy-briefs/index.html

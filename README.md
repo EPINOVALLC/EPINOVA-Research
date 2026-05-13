@@ -138,6 +138,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-048** (2026-05-13)  
+  **From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
+  File: [`From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf)
+
 - **EPINOVA-PB-2026-047** (2026-05-12)  
   **Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
@@ -157,11 +162,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike: Visible Vessel Contraction, Port-Rhythm Inversion, and Window-Based Logistics in the Caspian Corridor**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-44/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44)  
   File: [`Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44/Caspian%20Logistics%20Shock%20Monitoring%20Russia%E2%80%93Iran%20Supply%20Stress%20after%20the%20Anzali%20Strike.pdf)
-
-- **EPINOVA-PB-2026-043** (2026-04-28)  
-  **Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure: Gwadar, Taftan, Gabd, and the Multimodal Logic of Threshold-Delaying Supply**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-43/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43)  
-  File: [`Transit of Goods through Territory of Pakistan Order 2026 Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-43/Transit%20of%20Goods%20through%20Territory%20of%20Pakistan%20Order%202026%20Six%20Land%20Routes%2C%20Third-Country%20Goods%2C%20and%20the%20Southeastern%20Bypass%20of%20Hormuz%20Pressure.pdf)
 
 ---
 
