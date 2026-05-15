@@ -7,7 +7,7 @@
   "publication_series": "EPINOVA Policy Brief Series",
   "series_code": "PB",
   "series_number": "2026-044",
-  "title": "Caspian Logistics Shock: Monitoring Russia鈥揑ran Supply Stress after the Anzali Strike",
+  "title": "Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike",
   "subtitle": "Visible Vessel Contraction, Port-Rhythm Inversion, and Window-Based Logistics in the Caspian Corridor",
   "title_normalized": "caspian logistics shock: monitoring russia-iran supply stress after the anzali strike",
   "publication_date": "2026-04-29",
@@ -28,7 +28,7 @@
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright 漏 2026 Shaoyuan Wu",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-044/",
@@ -40,12 +40,12 @@
       "description": "Official EPINOVA publication page"
     },
     {
-      "identifier": "EPINOVA鈥?026鈥揚B鈥?4",
+      "identifier": "EPINOVA–2026–PB–34",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
     {
-      "identifier": "Caspian Logistics Shock Monitoring Russia鈥揑ran Supply Stress after the Anzali Strike.pdf",
+      "identifier": "Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
@@ -56,13 +56,13 @@
     }
   ],
   "description": "This policy brief assesses the Caspian logistics shock following the March 2026 Anzali strike by monitoring visible Russian vessel composition and Caspian port arrivals/departures from April 8 to April 29, 2026. It interprets cargo and tanker contraction, flow inversion, a short surge window, and late-April contraction as evidence of a higher-friction, window-based logistics mode rather than verified corridor closure or a confirmed second strike.",
-  "abstract": "This policy brief examines Russia鈥揑ran supply stress in the Caspian corridor after the March 2026 Israeli strike near Bandar Anzali. Using author-compiled indicators of visible Russian vessel composition and Caspian port arrivals/departures from April 8 to April 29, 2026, the brief identifies a structured disruption sequence: an April 18 flow inversion, an April 23 window-opening signal, an April 24 arrivals/departures surge, and an April 28 contraction. It argues that the Anzali strike did not sever the Caspian route but shifted it from routine low-visibility movement toward a higher-risk, window-based operating rhythm. The Caspian corridor remains strategically useful as a threshold-delaying route capable of preserving minimum viable flows, but it cannot replace the Persian Gulf or Strait of Hormuz system at scale. The brief concludes that the Caspian Sea has become a contested rear corridor whose value depends on continuity under constraint rather than surge-capacity substitution.",
+  "abstract": "This policy brief examines Russia–Iran supply stress in the Caspian corridor after the March 2026 Israeli strike near Bandar Anzali. Using author-compiled indicators of visible Russian vessel composition and Caspian port arrivals/departures from April 8 to April 29, 2026, the brief identifies a structured disruption sequence: an April 18 flow inversion, an April 23 window-opening signal, an April 24 arrivals/departures surge, and an April 28 contraction. It argues that the Anzali strike did not sever the Caspian route but shifted it from routine low-visibility movement toward a higher-risk, window-based operating rhythm. The Caspian corridor remains strategically useful as a threshold-delaying route capable of preserving minimum viable flows, but it cannot replace the Persian Gulf or Strait of Hormuz system at scale. The brief concludes that the Caspian Sea has become a contested rear corridor whose value depends on continuity under constraint rather than surge-capacity substitution.",
   "keywords": [
     "Caspian Sea",
     "Bandar Anzali",
     "Anzali strike",
-    "Russia鈥揑ran logistics",
-    "Russia鈥揑ran supply corridor",
+    "Russia–Iran logistics",
+    "Russia–Iran supply corridor",
     "Iran conflict",
     "Caspian corridor",
     "northern supply capacity",
@@ -149,8 +149,8 @@
   },
   "methodology": {
     "framework_name": "Caspian Logistics Shock and Port-Rhythm Monitoring Framework",
-    "source_basis": "Policy-facing analysis based on author-compiled visible Russian vessel-composition indicators and Caspian port arrivals/departures from April 8 to April 29, 2026, public reporting on the Anzali strike, and prior EPINOVA constrained-capacity analysis of Russia鈥揑ran northern supply.",
-    "case_context": "Russia鈥揑ran Caspian corridor stress after the March 2026 Israeli strike near Bandar Anzali, with emphasis on visible cargo and tanker contraction, special craft/tug stability, arrivals/departures inversion, surge-window behavior, and post-surge contraction.",
+    "source_basis": "Policy-facing analysis based on author-compiled visible Russian vessel-composition indicators and Caspian port arrivals/departures from April 8 to April 29, 2026, public reporting on the Anzali strike, and prior EPINOVA constrained-capacity analysis of Russia–Iran northern supply.",
+    "case_context": "Russia–Iran Caspian corridor stress after the March 2026 Israeli strike near Bandar Anzali, with emphasis on visible cargo and tanker contraction, special craft/tug stability, arrivals/departures inversion, surge-window behavior, and post-surge contraction.",
     "core_problem": "A Caspian corridor can remain physically open while becoming less reliable. The central analytical problem is therefore not whether the route is severed, but whether a strike or perceived strike risk changes vessel behavior, port rhythm, synchronization, cost, delay, and confidence in the northern logistics buffer.",
     "central_claims": [
       "The Anzali strike disrupted but did not sever the Caspian corridor.",
@@ -158,7 +158,7 @@
       "Caspian port activity shows a structured disruption sequence: April 18 flow inversion, April 23 short-window preparation, April 24 surge, and April 28 contraction.",
       "The late-April anomaly should be read as post-strike risk management or logistics shock, not as confirmed evidence of a new kinetic strike.",
       "The Caspian corridor remains a threshold-delaying route capable of preserving minimum viable flows, but it cannot provide Hormuz-scale replacement or stable surge capacity.",
-      "The strike鈥檚 strategic effect lies in confidence degradation, port scheduling friction, vessel risk perception, and the shift from routine low-visibility sustainment to window-based logistics."
+      "The strike’s strategic effect lies in confidence degradation, port scheduling friction, vessel risk perception, and the shift from routine low-visibility sustainment to window-based logistics."
     ],
     "analytical_lenses": [
       {
@@ -192,23 +192,23 @@
       "name": "Visible Russian Cargo Vessels",
       "code": "RVC",
       "indicator_type": "Vessel composition",
-      "period": "April 8鈥?9, 2026",
-      "observed_pattern": "Declines from roughly 18鈥?9 vessels early in the period to approximately 7鈥? by April 28.",
+      "period": "April 8”9, 2026",
+      "observed_pattern": "Declines from roughly 18”9 vessels early in the period to approximately 7” by April 28.",
       "interpretation": "Visible cargo contraction suggests reduced routine movement and a shift toward risk-induced lower-volume operation rather than complete corridor shutdown."
     },
     {
       "name": "Visible Russian Tankers",
       "code": "RVT",
       "indicator_type": "Vessel composition",
-      "period": "April 8鈥?9, 2026",
-      "observed_pattern": "Falls from about 5鈥? visible tankers to near zero by the end of the observation period.",
+      "period": "April 8”9, 2026",
+      "observed_pattern": "Falls from about 5” visible tankers to near zero by the end of the observation period.",
       "interpretation": "Tanker contraction indicates heightened sensitivity to insurance risk, sanctions exposure, port security concerns, and interdiction pressure."
     },
     {
       "name": "Special Craft and Tug Activity",
       "code": "SCTA",
       "indicator_type": "Maritime support composition",
-      "period": "April 8鈥?9, 2026",
+      "period": "April 8”9, 2026",
       "observed_pattern": "Remains broadly stable around three vessels.",
       "interpretation": "Support activity persists even as normal cargo and tanker circulation contracts, suggesting a support-heavy lower-visibility operating pattern."
     },
@@ -216,7 +216,7 @@
       "name": "Caspian Port Departures",
       "code": "CPD",
       "indicator_type": "Port rhythm",
-      "period": "April 8鈥?9, 2026",
+      "period": "April 8”9, 2026",
       "observed_pattern": "Departures rise during flow-inversion moments around April 18 and April 23, and surge together with arrivals around April 24.",
       "interpretation": "Departure behavior supports an interpretation of clearance, berth preparation, short-window movement, and concentrated processing."
     },
@@ -224,7 +224,7 @@
       "name": "Caspian Port Arrivals",
       "code": "CPA",
       "indicator_type": "Port rhythm",
-      "period": "April 8鈥?9, 2026",
+      "period": "April 8”9, 2026",
       "observed_pattern": "Arrivals weaken during the April 18 inversion, lag around April 23, surge around April 24, and contract by April 28.",
       "interpretation": "Arrival behavior indicates inbound caution, short-window entry, compensatory movement, and post-surge risk-control contraction."
     }
@@ -256,16 +256,16 @@
     }
   ],
   "capacity_summary": {
-    "prior_northern_capacity_estimate": "3,800鈥?9,000 tons per day",
-    "realistic_constrained_working_range": "10,000鈥?5,000 tons per day",
+    "prior_northern_capacity_estimate": "3,800”9,000 tons per day",
+    "realistic_constrained_working_range": "10,000”5,000 tons per day",
     "strategic_meaning": "Meaningful for continuity and threshold delay, but insufficient for Persian Gulf-scale replacement or major wartime surge.",
-    "method_note": "The capacity figures are drawn from prior EPINOVA Russia鈥揑ran northern supply analysis cited in the PDF. The present brief focuses on observed system behavior and does not independently audit cargo content or final destination."
+    "method_note": "The capacity figures are drawn from prior EPINOVA Russia–Iran northern supply analysis cited in the PDF. The present brief focuses on observed system behavior and does not independently audit cargo content or final destination."
   },
   "key_findings": [
-    "The March 2026 Anzali strike disrupted, but did not sever, the Russia鈥揑ran Caspian corridor.",
+    "The March 2026 Anzali strike disrupted, but did not sever, the Russia–Iran Caspian corridor.",
     "The Caspian route shifted from routine low-visibility sustainment toward a higher-risk operating rhythm after the strike.",
-    "Visible Russian cargo vessels declined from roughly 18鈥?9 early in the observation period to approximately 7鈥? by April 28.",
-    "Visible Russian tanker activity declined from about 5鈥? vessels to near zero by the end of the observation period.",
+    "Visible Russian cargo vessels declined from roughly 18”9 early in the observation period to approximately 7” by April 28.",
+    "Visible Russian tanker activity declined from about 5” vessels to near zero by the end of the observation period.",
     "Special craft and tug activity remained broadly stable, suggesting that the maritime support environment persisted while normal cargo and tanker circulation contracted.",
     "Caspian port data show a structured sequence of flow inversion, short-window preparation, surge processing, and contraction between April 18 and April 28.",
     "The late-April anomaly is best interpreted as post-strike risk management or a logistics shock, not as confirmed evidence of a second late-April kinetic strike.",
@@ -308,40 +308,40 @@
       "identifier": "Xinhua, 2026, Russia Condemns Attack on Bandar Anzali and Warns against Expanding Conflict into the Caspian Region",
       "scheme": "Bibliographic citation",
       "resource_type": "News report",
-      "description": "Xinhua report cited for Russia鈥檚 condemnation of the Bandar Anzali attack and warning about conflict expansion into the Caspian region"
+      "description": "Xinhua report cited for Russia’s condemnation of the Bandar Anzali attack and warning about conflict expansion into the Caspian region"
     },
     {
       "relation": "References",
       "identifier": "Wall Street Journal, 2026, Israel Hits Russian-Iranian Weapons-Smuggling Route in the Caspian Sea",
       "scheme": "Bibliographic citation",
       "resource_type": "News report",
-      "description": "Wall Street Journal report cited for framing the strike as targeting a Russia鈥揑ran weapons-smuggling route"
+      "description": "Wall Street Journal report cited for framing the strike as targeting a Russia–Iran weapons-smuggling route"
     },
     {
       "relation": "References",
       "identifier": "https://doi.org/10.5281/zenodo.19476666",
       "scheme": "DOI",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on Russia鈥揑ran northern supply capacity and constrained throughput methodology"
+      "description": "Related EPINOVA policy brief on Russia–Iran northern supply capacity and constrained throughput methodology"
     },
     {
       "relation": "References",
       "identifier": "https://publications.epinova.org/epinova-pb-2026-042/",
       "scheme": "URL",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on Iran鈥檚 ten-corridor logistics adaptation under blockade pressure"
+      "description": "Related EPINOVA policy brief on Iran’s ten-corridor logistics adaptation under blockade pressure"
     }
   ],
   "references": [
     "Reuters. (2026, March 19). Israeli military carried out strikes against Iran in Caspian Sea, spokesperson says.",
     "Xinhua. (2026, March). Russia condemns attack on Bandar Anzali and warns against expanding conflict into the Caspian region.",
     "Wall Street Journal. (2026, March 25). Israel hits Russian-Iranian weapons-smuggling route in the Caspian Sea.",
-    "Wu, Shaoyuan. (2026). Russia鈥揑ran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
-    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+    "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Caspian Logistics Shock: Monitoring Russia鈥揑ran Supply Stress after the Anzali Strike. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?4. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Caspian logistics shock: Monitoring Russia鈥揑ran supply stress after the Anzali strike. EPINOVA Policy Brief Series, EPINOVA-PB-2026-044. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Caspian Logistics Shock, EPINOVA鈥?026鈥揚B鈥?4.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike. Policy Brief No. EPINOVA–2026–PB–34. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Caspian logistics shock: Monitoring Russia–Iran supply stress after the Anzali strike. EPINOVA Policy Brief Series, EPINOVA-PB-2026-044. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Caspian Logistics Shock, EPINOVA–2026–PB–34.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -355,25 +355,25 @@
   "figures": [
     {
       "number": "Figure 1",
-      "title": "Russian Vessels in the Caspian Sea, April 8鈥?9, 2026",
-      "description": "Tracks visible Russian cargo vessels, tankers, and special craft/tugs in the Caspian Sea. Cargo vessels decline from roughly 18鈥?9 vessels early in the period to approximately 7鈥? by April 28; tankers fall from about 5鈥? to near zero; special craft and tug activity remains broadly stable around three vessels.",
-      "source": "Author鈥檚 Caspian vessel-monitoring dataset",
+      "title": "Russian Vessels in the Caspian Sea, April 8”9, 2026",
+      "description": "Tracks visible Russian cargo vessels, tankers, and special craft/tugs in the Caspian Sea. Cargo vessels decline from roughly 18”9 vessels early in the period to approximately 7” by April 28; tankers fall from about 5” to near zero; special craft and tug activity remains broadly stable around three vessels.",
+      "source": "Author’s Caspian vessel-monitoring dataset",
       "note": "Visible vessel counts only; AIS gaps and classification limits may affect totals."
     },
     {
       "number": "Figure 2",
-      "title": "Caspian Port System Monitor: Arrivals and Departures, April 8鈥?9, 2026",
+      "title": "Caspian Port System Monitor: Arrivals and Departures, April 8”9, 2026",
       "description": "Compares Caspian port departures and arrivals, showing a flow inversion around April 18, a second window-opening signal around April 23, a sharp arrivals/departures surge around April 24, and a rapid contraction by April 28.",
-      "source": "Author鈥檚 Caspian port-monitoring dataset",
+      "source": "Author’s Caspian port-monitoring dataset",
       "note": "Arrivals and departures are system-rhythm indicators, not direct cargo-composition evidence."
     }
   ],
   "tables": [
     {
       "number": "Table 1",
-      "title": "Four-Phase Mechanism of the Caspian Logistics Shock, April 18鈥?8, 2026",
+      "title": "Four-Phase Mechanism of the Caspian Logistics Shock, April 18”8, 2026",
       "description": "Summarizes the four observed phases of the Caspian logistics shock: April 18 clearance/risk reconfiguration, April 23 short-window preparation, April 24 concentrated processing surge, and April 28 post-surge contraction or risk-control phase.",
-      "source": "Author鈥檚 Caspian port-monitoring and vessel-composition dataset, April 8鈥?9, 2026",
+      "source": "Author’s Caspian port-monitoring and vessel-composition dataset, April 8”9, 2026",
       "note": "The table summarizes observed system-level movement patterns rather than verified operational intent. Dates are approximate and based on visible arrivals, departures, and vessel-composition indicators. The sequence supports a logistics-shock interpretation but does not independently confirm a new late-April kinetic strike."
     }
   ],
@@ -394,7 +394,7 @@
   "thesis": null,
   "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
   "metadata_source": {
-    "source_file": "Caspian Logistics Shock Monitoring Russia鈥揑ran Supply Stress after the Anzali Strike.pdf",
+    "source_file": "Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf",
     "source_type": "PDF + early metadata record",
     "extraction_method": "PDF text extraction, visual inspection of rendered page images, PDF embedded metadata extraction, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
@@ -406,8 +406,8 @@
   "pdf_metadata": {
     "title": "",
     "author": "SY Wu",
-    "creator": "Microsoft庐 PowerPoint庐 2024",
-    "producer": "Microsoft庐 PowerPoint庐 2024",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
     "creation_date": "2026-04-29T18:17:32-04:00",
     "modification_date": "2026-04-29T18:17:32-04:00",
     "pages": 6
