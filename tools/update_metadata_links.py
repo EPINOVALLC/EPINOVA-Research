@@ -284,7 +284,7 @@ def ensure_metadata_source(data: dict) -> None:
 def update_metadata(metadata_path: Path) -> None:
     folder = metadata_path.parent
 
-    with metadata_path.open("r", encoding="utf-8-sig") as f:
+    with metadata_path.open("r", encoding="utf-8") as f:
         data = json.load(f)
 
     update_file_links(data, folder, metadata_path)
