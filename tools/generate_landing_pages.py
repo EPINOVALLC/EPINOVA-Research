@@ -1130,6 +1130,7 @@ def render_index_page(records: list[dict]) -> str:
         ("white-papers", "D. White Papers"),
         ("policy-reports", "E. Policy Reports"),
         ("research-reports", "F. Research Reports"),
+        ("index-methodology-papers/", "G. Index Methodology Papers"),   
     ]
     records_by_category = defaultdict(list)
     for meta in records:
