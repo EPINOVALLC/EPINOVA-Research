@@ -65,46 +65,54 @@
       "description": "Short form of the policy brief title"
     }
   ],
-  "description": "This policy brief analyzes a counterfactual scenario in which the United States suddenly withdraws from the ongoing Middle East conflict. It argues that withdrawal would not terminate hostilities, but would function as a systemic trigger that removes the primary escalation-regulating actor, activates proxy amplification dynamics, and accelerates strategic realignment across regional and global security systems.",
-  "abstract": "A sudden U.S. withdrawal from the ongoing Middle East conflict would not terminate hostilities but instead initiate a structural transformation of the conflict system. Rather than producing de-escalation, withdrawal would trigger a systemic shock by removing the primary mechanism of escalation regulation, thereby redistributing pressure across actors and domains. This shock would activate proxy amplification, transforming the conflict into a distributed and persistent network. Over time, these dynamics would consolidate into strategic realignment characterized by pluralized influence structures, alliance fragmentation, and increased uncertainty in global security commitments. The brief concludes that withdrawal functions not as an endpoint, but as a systemic inflection point with enduring implications for regional order and global power perception.",
+  "description": "This policy brief analyzes a counterfactual scenario in which a sudden U.S. withdrawal from the Middle East conflict functions as a systemic trigger rather than a conflict-ending event. It argues that withdrawal would remove the primary escalation-regulating actor, activate proxy amplification dynamics, and accelerate strategic realignment across regional and global security systems.",
+  "abstract": "A sudden U.S. withdrawal from the ongoing Middle East conflict would not terminate hostilities but instead initiate a structural transformation of the conflict system. Rather than producing de-escalation, withdrawal would trigger a systemic shock by removing the primary mechanism of escalation regulation and redistributing pressure across actors and domains. This shock would activate proxy amplification, in which geographically embedded armed groups expand operational activity under reduced constraint, transforming the conflict into a distributed and persistent network. Over time, these dynamics would consolidate into strategic realignment characterized by pluralized influence structures, alliance fragmentation, and increased uncertainty in global security commitments. The brief further argues that withdrawal would generate a domestic political reckoning within the United States, feeding back into future strategic constraints and raising the threshold for intervention.",
   "keywords": [
     "U.S. withdrawal",
     "Middle East conflict",
+    "U.S.–Israel–Iran conflict",
     "Systemic shock",
     "Proxy amplification",
     "Strategic realignment",
-    "Shock-Amplification-Realignment framework",
+    "Shock–Amplification–Realignment framework",
     "SAR framework",
-    "Middle East Conflict Cost Monitor",
     "MCCM",
+    "Middle East Conflict Cost Monitor",
     "Loss-of-Control Threshold",
     "LoCT",
-    "Networked conflict",
     "Escalation regulation",
     "Cost diffusion",
-    "Global shock cost",
+    "Networked conflict",
+    "Distributed escalation",
+    "Proxy actors",
+    "Hezbollah",
+    "Houthis",
+    "Iraq militias",
+    "Syria militias",
     "Alliance spillover",
-    "Cross-theater effects",
-    "Strategic credibility",
+    "NATO cohesion",
+    "Ukraine conflict",
+    "Indo-Pacific credibility",
     "Information dynamics",
-    "Policy brief",
+    "Strategic credibility",
     "EPINOVA"
   ],
   "subjects": [
-    "International relations",
-    "Security studies",
-    "Middle East conflict",
     "Strategic studies",
-    "Conflict escalation",
+    "Middle East security",
+    "U.S. foreign policy",
+    "Conflict systems analysis",
+    "Escalation dynamics",
     "Proxy warfare",
     "Alliance politics",
-    "NATO cohesion",
-    "Indo-Pacific security",
-    "Conflict economics",
+    "International security",
+    "Geopolitics",
+    "Networked conflict",
     "Information conflict",
-    "Systemic warfare",
-    "Policy analysis",
-    "AI-enabled warfare and governance"
+    "Risk governance",
+    "Defense policy",
+    "Global security governance",
+    "Systems analysis"
   ],
   "dates": [
     {
@@ -120,11 +128,11 @@
       "date_type": "Date printed in PDF"
     },
     {
-      "date": "2026-04-25",
-      "date_type": "Early ORCID-derived metadata record created"
+      "date": "2026-04-30",
+      "date_type": "Metadata record updated in early ORCID-derived metadata"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-01",
       "date_type": "Metadata updated to latest schema"
     }
   ],
@@ -151,119 +159,132 @@
     "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
     "series_code": "PB",
     "series_number": "2026-021",
-    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, systemic conflict dynamics, and information conflict into concise policy-facing analysis."
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic escalation, and global security governance into concise policy-facing analysis."
   },
   "methodology": {
-    "framework_name": "Shock-Amplification-Realignment (SAR) Framework with MCCM-Based Cost-Shock Integration",
-    "source_basis": "Counterfactual policy analysis integrating the Shock-Amplification-Realignment framework with the Middle East Conflict Cost Monitor (MCCM) and Loss-of-Control Threshold (LoCT) boundary condition.",
-    "case_context": "A sudden U.S. withdrawal from the ongoing Middle East conflict and its effects on escalation regulation, proxy dynamics, Israel’s strategic constraint environment, alliance spillover, and global power perception.",
-    "core_problem": "Conventional interpretations of withdrawal as de-escalation overlook its systemic effects when the withdrawn actor functions as the primary escalation-regulating node.",
+    "framework_name": "Shock–Amplification–Realignment Framework with MCCM-Based Cost–Shock Integration",
+    "source_basis": "Counterfactual policy analysis using the Shock–Amplification–Realignment (SAR) framework, the Middle East Conflict Cost Monitor (MCCM), and Loss-of-Control Threshold (LoCT) concepts developed in the EPINOVA policy brief series.",
+    "case_context": "Potential sudden U.S. withdrawal from the U.S.–Israel–Iran/Middle East conflict environment and its regional, alliance, domestic, and information-system consequences.",
+    "core_problem": "A sudden U.S. withdrawal may be misread as a de-escalatory endpoint, while the brief argues that it would more likely remove the primary escalation-regulating node and convert the conflict into a more distributed, volatile, and less governable system.",
     "central_claims": [
-      "Withdrawal should be treated as a structural trigger rather than a terminal act of conflict policy.",
-      "Removal of U.S. escalation regulation would generate systemic shock by fragmenting signaling, expectations, and control mechanisms.",
-      "Systemic shock would activate proxy amplification across geographically embedded and semi-autonomous actors.",
-      "The conflict would shift from centralized regulation to distributed network dynamics, increasing volatility and reducing controllability.",
-      "Strategic realignment would produce fragmented and pluralized influence structures rather than a clear hegemonic replacement.",
-      "Domestic political reckoning in the United States would feed back into future intervention thresholds and strategic flexibility."
+      "Withdrawal functions as a systemic trigger rather than a conflict-ending event.",
+      "Removing the primary escalation-regulating actor collapses part of the conflict control architecture and increases uncertainty across actors.",
+      "Proxy amplification would redistribute escalation pressure across geographically embedded and semi-autonomous actors.",
+      "The conflict would transition from centralized control to distributed network dynamics, increasing volatility and reducing controllability.",
+      "Strategic realignment would fragment influence without producing a clear hegemonic replacement.",
+      "Withdrawal would generate cross-theater spillovers affecting NATO cohesion, Ukraine dynamics, and Indo-Pacific perceptions of U.S. credibility.",
+      "Domestic political reckoning inside the United States would feed back into future intervention thresholds and strategic flexibility."
     ],
     "analytical_lenses": [
       {
-        "name": "Systemic Shock",
-        "description": "Examines how the removal of the primary escalation-regulating actor disrupts deterrence signaling, alliance coordination, and escalation-management capacity."
+        "name": "Withdrawal as Systemic Trigger",
+        "description": "Treats U.S. withdrawal as a structural intervention that reconfigures the rules of interaction rather than as a simple exit from conflict."
       },
       {
-        "name": "Proxy Amplification",
-        "description": "Analyzes how semi-autonomous actors such as Hezbollah, the Houthis, and militias in Iraq and Syria may expand operational activity when central constraints weaken."
+        "name": "Shock–Amplification–Realignment (SAR)",
+        "description": "Conceptualizes the potential trajectory as systemic shock, proxy-driven amplification, and strategic realignment."
       },
       {
-        "name": "Strategic Realignment",
-        "description": "Evaluates how regional and external actors may reorganize influence through modular, non-hegemonic, and multi-vector strategies."
+        "name": "MCCM-Based Cost–Shock Integration",
+        "description": "Uses Direct War Cost, Global Shock Cost, and Combined Exposure as reference structures for analyzing cost redistribution and systemic burden."
       },
       {
-        "name": "MCCM Cost-Shock Integration",
-        "description": "Uses DWC, GSC, and CE concepts to frame withdrawal as a redistribution of system cost from concentration to network-diffused burden."
+        "name": "Loss-of-Control Threshold (LoCT)",
+        "description": "Positions LoCT as the boundary condition at which cost diffusion, signaling fragmentation, and semi-autonomous actor proliferation exceed regulatory capacity."
       },
       {
-        "name": "Loss-of-Control Threshold",
-        "description": "Uses LoCT as a boundary condition at which cost diffusion, signaling fragmentation, and semi-autonomous actor proliferation exceed regulatory capacity."
+        "name": "Proxy Amplification and Tail-Whip Effect",
+        "description": "Explains how peripheral actors may generate disproportionate systemic effects relative to individual capabilities under reduced central constraint."
       },
       {
-        "name": "Cross-Theater Spillover",
-        "description": "Assesses the effect of withdrawal on NATO cohesion, Ukraine dynamics, Indo-Pacific perceptions, and broader U.S. strategic credibility."
+        "name": "Alliance Spillover and Perception Chains",
+        "description": "Assesses how regional withdrawal may alter expectations across NATO, Ukraine, and Indo-Pacific partners."
       },
       {
-        "name": "Domestic Political Feedback",
-        "description": "Analyzes how accountability debates within the United States may raise thresholds for future intervention while constraining crisis-response flexibility."
+        "name": "Information Exposure Dynamics",
+        "description": "Analyzes how withdrawal weakens coordinated narrative framing and increases vulnerability to event-driven amplification."
       }
     ]
   },
   "dimensions": [
     {
       "name": "Systemic Shock",
-      "code": "SS",
-      "description": "Immediate disruption of escalation regulation after the removal of the primary regulatory node."
+      "code": "SAR-S",
+      "description": "Removal of the primary escalation-regulating actor, producing fragmented signaling, expectation divergence, and a broader range of possible escalation trajectories."
     },
     {
       "name": "Proxy Amplification",
-      "code": "PA",
-      "description": "Expansion of conflict activity by semi-autonomous armed actors under reduced central constraint."
+      "code": "SAR-A",
+      "description": "Diffusion of escalation pressure toward geographically embedded and semi-autonomous armed actors whose activity can generate persistent network effects."
     },
     {
       "name": "Strategic Realignment",
-      "code": "SR",
-      "description": "Fragmentation and reconfiguration of regional and external influence without a single replacement hegemon."
+      "code": "SAR-R",
+      "description": "Fragmentation and reconfiguration of regional influence without a single replacement hegemon, producing multi-vector alignment and coordination complexity."
     },
     {
-      "name": "Direct War Cost",
+      "name": "MCCM Direct War Cost",
       "code": "DWC",
-      "description": "Immediate military expenditure and operational losses in the MCCM framework."
+      "description": "Immediate military expenditure and operational losses used as one component of the MCCM cost-distribution structure."
     },
     {
-      "name": "Global Shock Cost",
+      "name": "MCCM Global Shock Cost",
       "code": "GSC",
-      "description": "Systemic spillover costs such as energy disruption, trade instability, and financial volatility."
+      "description": "Systemic spillover effects, including energy disruption, trade instability, and financial volatility."
     },
     {
       "name": "Combined Exposure",
       "code": "CE",
-      "description": "Heuristic aggregation representing total systemic burden under MCCM."
+      "description": "Heuristic aggregation of direct and systemic burden used to evaluate total conflict exposure."
     },
     {
       "name": "Loss-of-Control Threshold",
       "code": "LoCT",
-      "description": "Critical transition point at which cost diffusion, signaling fragmentation, and semi-autonomous actor proliferation exceed regulatory capacity."
+      "description": "Systemic tipping point at which cost diffusion, fragmented signaling, and proliferating semi-autonomous actors exceed regulatory capacity."
     }
   ],
   "key_findings": [
-    "A sudden U.S. withdrawal would generate an immediate systemic shock by removing the primary escalation-regulating actor.",
-    "The shock would activate proxy amplification dynamics across geographically embedded and semi-autonomous actors.",
+    "A sudden U.S. withdrawal would generate systemic shock by removing the primary escalation-regulating actor and destabilizing the existing control architecture.",
+    "Withdrawal would activate proxy amplification dynamics, expanding conflict activity across geographically embedded and semi-autonomous actors.",
     "Escalation pressure would diffuse from centralized control into distributed network dynamics, increasing volatility and reducing controllability.",
-    "Israel’s strategic environment would shift from capability dominance toward constraint accumulation, multi-front pressure, and domestic political vulnerability.",
-    "Non-Western actors would likely expand influence through modular and non-hegemonic strategies, accelerating fragmentation without producing a clear replacement order.",
-    "Cross-theater spillover would affect NATO cohesion, Ukraine dynamics, and Indo-Pacific perceptions of U.S. credibility.",
-    "The United States would face domestic political reckoning that raises future intervention thresholds and constrains strategic flexibility.",
-    "Withdrawal should be interpreted as a systemic inflection point rather than an endpoint of conflict."
+    "Israel’s strategic environment would shift from capability dominance to constraint accumulation, increasing multi-front pressure and domestic political risk.",
+    "Non-Western actors would likely expand influence through modular, non-hegemonic strategies, accelerating fragmentation without creating a clear systemic replacement.",
+    "Cross-theater spillover would affect NATO cohesion, Ukraine dynamics, and Indo-Pacific perceptions of U.S. strategic credibility.",
+    "Withdrawal would produce domestic political feedback inside the United States, raising the threshold for future intervention and constraining strategic flexibility.",
+    "Information dynamics would shift from managed framing toward exposure to event-driven amplification and perception volatility."
   ],
   "policy_recommendations": [
-    "Analyze withdrawal scenarios as systemic transformations rather than as simple de-escalation events.",
-    "Monitor proxy-activation indicators, decentralized engagement frequency, and signaling fragmentation as early-warning markers of approaching LoCT.",
-    "Assess Israeli strategic compression not only through capability metrics but through cumulative multi-front, political, informational, and legitimacy pressures.",
-    "Track alliance-perception chains across NATO, Ukraine, and Indo-Pacific partners when evaluating the strategic credibility effects of U.S. withdrawal.",
-    "Integrate domestic political feedback into intervention and withdrawal planning, because post-withdrawal accountability dynamics may constrain future strategic options.",
-    "Use MCCM-style cost-distribution analysis to distinguish between apparent cost reduction and systemic cost diffusion."
+    "Treat withdrawal planning as a systemic-risk management problem rather than as a narrow force-posture decision.",
+    "Assess proxy-amplification pathways before any major reduction of U.S. escalation-regulating functions.",
+    "Use MCCM-style cost-distribution monitoring to distinguish apparent de-escalation from cost diffusion and global shock accumulation.",
+    "Preserve signaling coherence with allies and partners to reduce cross-theater credibility shocks.",
+    "Anticipate domestic political feedback loops that may constrain future crisis-response flexibility.",
+    "Develop information-stability measures to manage event-driven amplification after withdrawal or partial decoupling."
   ],
   "related_works": [
     {
-      "title": "Middle East Conflict Cost Monitor (MCCM) framework publications in the EPINOVA Policy Brief Series",
-      "identifier": "",
-      "relation": "Provides the cost-distribution and systemic burden context referenced by this brief.",
-      "type": "Related publication series"
+      "title": "Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints",
+      "identifier": "10.5281/zenodo.19298297",
+      "relation": "Prior EPINOVA policy brief on U.S. allocation constraints and dual-theater pressure preceding the withdrawal scenario analysis.",
+      "type": "DOI"
     },
     {
-      "title": "MCCM Daily Direct War Cost by Actor: Feb 28–Apr 1, 2026",
-      "identifier": "",
-      "relation": "Provides the daily direct war cost visualization used in Figure 1.",
-      "type": "Related analytical output"
+      "title": "From Compensation to Strategic Amplification: Iran’s Reparations Claims in the U.S.–Israel–Iran Conflict",
+      "identifier": "10.5281/zenodo.19261832",
+      "relation": "Related EPINOVA policy brief on cost reassignment and strategic leverage in the same conflict series.",
+      "type": "DOI"
+    },
+    {
+      "title": "Control vs. Amplification: Information System Divergence in the U.S.–Israel–Iran Conflict Evidence from China’s Signaling System",
+      "identifier": "10.5281/zenodo.19238746",
+      "relation": "Related EPINOVA policy brief on information amplification dynamics relevant to the withdrawal scenario.",
+      "type": "DOI"
+    },
+    {
+      "title": "From Cost Monitoring to Systemic Escalation Assessment: The MCCM v2.0+ Framework",
+      "identifier": "10.5281/zenodo.19550886",
+      "relation": "Related EPINOVA policy brief presenting the MCCM framework used as a conceptual reference structure.",
+      "type": "DOI"
     }
   ],
   "references": [],
@@ -278,18 +299,16 @@
   },
   "figures": [
     {
-      "number": "Figure 1",
+      "label": "Figure 1",
       "title": "2026 Middle East Conflict Cost Monitor (MCCM): Daily Direct War Cost by Actor — Low / Mid / High (Feb 28–Apr 1, 2026)",
       "page": 3,
-      "description": "Shows low, mid, and high daily direct war cost estimates for the United States, Israel, Iran, and Others from Feb 28 to Apr 1, 2026.",
-      "note": "United States, Israel, and Others are disaggregated from the U.S. & Allies bloc using phase-based allocation shares. Global shock components are excluded."
+      "description": "Four-panel chart showing low, mid, and high daily direct war cost estimates for the United States, Israel, Iran, and Others. Global shock components are excluded and the chart represents direct war cost only."
     },
     {
-      "number": "Figure 2",
+      "label": "Figure 2",
       "title": "Centralized-to-Networked Transition and the Loss-of-Control Threshold (LoCT)",
       "page": 4,
-      "description": "Conceptual flow diagram mapping the transition from centralized control to control removal, networked conflict, LoCT, and cost diffusion.",
-      "note": "Figure 2 visualizes withdrawal as a transition from centralized cost concentration and regulation toward networked pressure accumulation and cost diffusion."
+      "description": "Flow diagram showing transition from centralized control to control removal, rising systemic pressure, networked conflict, LoCT, and a shift from cost concentration to cost diffusion."
     }
   ],
   "tables": [],
@@ -307,12 +326,12 @@
   "metadata_source": {
     "source_file": "If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf",
     "source_type": "PDF + early ORCID-derived metadata record",
-    "extraction_method": "PDF text extraction, embedded figure review, and early metadata reconciliation",
+    "extraction_method": "PDF text extraction and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
     "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, SAR framework, MCCM cost-shock integration, LoCT boundary condition, Figure 1, Figure 2, final analytical statement, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19375571, ORCID put-code 210471471, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19375572 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, SAR framework, MCCM cost-shock integration, LoCT discussion, figures, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19375571, ORCID put-code 210471471, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19375572 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' based on the PDF series and policy brief number."
   },
   "crossref": {
     "status": "not_registered",
@@ -335,6 +354,6 @@
   "orcid": {
     "put_code": "210471471",
     "source": "ORCID Public API",
-    "record_date": "2026-04-25"
+    "record_date": "2026-04-01"
   }
 }
