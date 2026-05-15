@@ -1,5 +1,3 @@
-Policy Brief/2026/EPINOVA–2026–PB-49/Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf
-Policy Brief/2026/EPINOVA–2026–PB-49/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -562,8 +560,6 @@ Policy Brief/2025/EPINOVA–2025–02–PB/Artificial Intelligence as National P
 Policy Brief/2025/EPINOVA–2025–02–PB/metadata.json
 Policy Brief/2025/EPINOVA–2025–PB-03/From predictive control to robustness Why indeterminacy outperforms precision in contested ISR environments.pdf
 Policy Brief/2025/EPINOVA–2025–PB-03/metadata.json
-Policy Brief/2026/EPINOVA-2026-PB-21/If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf
-Policy Brief/2026/EPINOVA-2026-PB-21/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-01/From AI Capabilities to Structural Governance.pdf
 Policy Brief/2026/EPINOVA–2026–PB-01/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-02/Governing Structural Centrality.pdf
@@ -604,6 +600,7 @@ Policy Brief/2026/EPINOVA–2026–PB-19/From Compensation to Strategic Amplific
 Policy Brief/2026/EPINOVA–2026–PB-19/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-20/Israel’s Strategic Options and U.S. Rebalancing under Dual-Theater Constraints.pdf
 Policy Brief/2026/EPINOVA–2026–PB-20/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-21/If the United States Suddenly Withdraws Systemic Shock, Proxy Amplification, and Strategic Realignment in the Middle East Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-21/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-22/From Representative of the West to Primary Node The Transformation of the United States in the Future Western and Transatlantic Political System.pdf
 Policy Brief/2026/EPINOVA–2026–PB-22/metadata.json
@@ -659,6 +656,8 @@ Policy Brief/2026/EPINOVA–2026–PB-47/Shock-Responsive Resilience in the Casp
 Policy Brief/2026/EPINOVA–2026–PB-47/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-48/From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf
 Policy Brief/2026/EPINOVA–2026–PB-48/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-49/Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf
+Policy Brief/2026/EPINOVA–2026–PB-49/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1317,6 +1316,7 @@ docs/epinova-pb-2026-045/index.html
 docs/epinova-pb-2026-046/index.html
 docs/epinova-pb-2026-047/index.html
 docs/epinova-pb-2026-048/index.html
+docs/epinova-pb-2026-049/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-01/index.html
 docs/epinova-wp-2025-01/index.html
@@ -1403,6 +1403,7 @@ docs/files/epinova-pb-2026-045/China as a Stabilizing Network Node Strategic Pos
 docs/files/epinova-pb-2026-046/From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf
 docs/files/epinova-pb-2026-047/Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf
 docs/files/epinova-pb-2026-048/From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf
+docs/files/epinova-pb-2026-049/Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
@@ -1444,6 +1445,8 @@ docs/search/index.html
 docs/white-papers/index.html
 docs/working-papers/index.html
 repository_files.txt
+tools/checklist.txt
+tools/fix_all_mojibake.py
 tools/generate_landing_pages.py
 tools/import_epinova_articles.py
 tools/update_metadata_links.py
