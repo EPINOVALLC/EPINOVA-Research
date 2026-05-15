@@ -7,9 +7,9 @@
   "publication_series": "EPINOVA Policy Brief Series",
   "series_code": "PB",
   "series_number": "2026-042",
-  "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure",
+  "title": "Beyond Hormuz: Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure",
   "subtitle": "Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply",
-  "title_normalized": "beyond hormuz: iran’s ten-corridor logistics adaptation under blockade pressure: caspian shipping, central asian rail, and the multi-domain logic of threshold-delaying supply",
+  "title_normalized": "beyond hormuz: iran鈥檚 ten-corridor logistics adaptation under blockade pressure: caspian shipping, central asian rail, and the multi-domain logic of threshold-delaying supply",
   "publication_date": "2026-04-28",
   "version": "v1.0",
   "language": "en",
@@ -28,24 +28,24 @@
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "copyright": "Copyright 漏 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-042/",
-  "official_page": "https://epinova.org/policy-brief-2",
+  "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "description": "Official EPINOVA publication page from early metadata"
     },
     {
-      "identifier": "EPINOVA–2026–PB–42",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?2",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
     {
-      "identifier": "Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf",
+      "identifier": "Beyond Hormuz Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
@@ -55,15 +55,15 @@
       "description": "Short form of the policy brief title"
     }
   ],
-  "description": "This policy brief analyzes Iran’s reported ten-corridor logistics adaptation under blockade pressure. It evaluates how plausible land-sea corridors, Caspian shipping, Central Asian rail connectivity, air replenishment, and residual Hormuz/Persian Gulf movement combine into a multi-domain, threshold-delaying supply system that preserves minimum viable flow without replacing Hormuz-centered maritime scale.",
-  "abstract": "Iran’s reported plan to develop ten distinct alternative trade corridors marks a shift in wartime logistics strategy from reliance on the Persian Gulf and Strait of Hormuz toward distributed friction management. Because Iran has not released a full corridor-by-corridor list, this policy brief reconstructs a plausible ten-corridor framework based on public reporting, geography, existing trade patterns, observed logistics behavior, Caspian and Persian Gulf monitoring indicators, and China–Central Asia rail activity through March 2026. The brief argues that the alternative corridor system is not a surge-capacity network and cannot replace Hormuz-centered throughput. Instead, it functions as a threshold-delaying sustainment system designed to preserve minimum viable flows of food, medicine, industrial inputs, selected exports, dual-use-relevant goods, and time-sensitive components. The brief further shows that Iran’s adaptation extends beyond the ten corridors: aviation provides a high-value, low-volume replenishment layer, while residual maritime movement through a degraded but not fully sealed Hormuz/Persian Gulf window preserves limited core flow. The conclusion is that Iran’s ten-corridor adaptation does not end the blockade problem; it turns it into a long-duration contest of logistics friction across ports, rail terminals, customs nodes, border crossings, insurance, finance, vessel availability, air cargo access, and transshipment reliability.",
+  "description": "This policy brief analyzes Iran鈥檚 reported ten-corridor logistics adaptation under blockade pressure. It evaluates how plausible land-sea corridors, Caspian shipping, Central Asian rail connectivity, air replenishment, and residual Hormuz/Persian Gulf movement combine into a multi-domain, threshold-delaying supply system that preserves minimum viable flow without replacing Hormuz-centered maritime scale.",
+  "abstract": "Iran鈥檚 reported plan to develop ten distinct alternative trade corridors marks a shift in wartime logistics strategy from reliance on the Persian Gulf and Strait of Hormuz toward distributed friction management. Because Iran has not released a full corridor-by-corridor list, this policy brief reconstructs a plausible ten-corridor framework based on public reporting, geography, existing trade patterns, observed logistics behavior, Caspian and Persian Gulf monitoring indicators, and China鈥揅entral Asia rail activity through March 2026. The brief argues that the alternative corridor system is not a surge-capacity network and cannot replace Hormuz-centered throughput. Instead, it functions as a threshold-delaying sustainment system designed to preserve minimum viable flows of food, medicine, industrial inputs, selected exports, dual-use-relevant goods, and time-sensitive components. The brief further shows that Iran鈥檚 adaptation extends beyond the ten corridors: aviation provides a high-value, low-volume replenishment layer, while residual maritime movement through a degraded but not fully sealed Hormuz/Persian Gulf window preserves limited core flow. The conclusion is that Iran鈥檚 ten-corridor adaptation does not end the blockade problem; it turns it into a long-duration contest of logistics friction across ports, rail terminals, customs nodes, border crossings, insurance, finance, vessel availability, air cargo access, and transshipment reliability.",
   "keywords": [
     "Iran",
     "Strait of Hormuz",
     "Persian Gulf",
     "Caspian Sea",
     "Central Asian rail",
-    "China–Central Asia rail",
+    "China鈥揅entral Asia rail",
     "China Railway Express",
     "logistics adaptation",
     "trade corridors",
@@ -149,11 +149,11 @@
   },
   "methodology": {
     "framework_name": "Ten-Corridor Logistics Adaptation and Threshold-Delaying Supply Framework",
-    "source_basis": "Analytical reconstruction based on public reporting on Iran’s alternative-corridor planning, regional trade geography, observed Caspian and Persian Gulf logistics behavior, the author’s monitoring datasets, China–Central Asia rail data through March 2026, and related EPINOVA work on threshold-delaying logistics and systemic escalation.",
-    "case_context": "Iran’s logistics adaptation under blockade pressure during the U.S.–Israel–Iran conflict, with attention to the Strait of Hormuz, Persian Gulf, Caspian Sea, Central Asian rail, air replenishment, and regional border corridors.",
+    "source_basis": "Analytical reconstruction based on public reporting on Iran鈥檚 alternative-corridor planning, regional trade geography, observed Caspian and Persian Gulf logistics behavior, the author鈥檚 monitoring datasets, China鈥揅entral Asia rail data through March 2026, and related EPINOVA work on threshold-delaying logistics and systemic escalation.",
+    "case_context": "Iran鈥檚 logistics adaptation under blockade pressure during the U.S.鈥揑srael鈥揑ran conflict, with attention to the Strait of Hormuz, Persian Gulf, Caspian Sea, Central Asian rail, air replenishment, and regional border corridors.",
     "core_problem": "Iran has publicly discussed alternative trade corridors but has not released a complete official route list. Analysts therefore need a cautious framework for distinguishing confirmed routes, plausible corridors, corridor readiness, residual flow, and threshold-delaying sustainment from claims of full logistical replacement.",
     "central_claims": [
-      "Iran’s ten-corridor plan is announced but undisclosed; the full official list has not been released.",
+      "Iran鈥檚 ten-corridor plan is announced but undisclosed; the full official list has not been released.",
       "Alternative corridors diversify logistics but do not replace the Persian Gulf and Strait of Hormuz system.",
       "The reconstructed corridor system is a threshold-delaying sustainment architecture, not a surge-capacity network.",
       "Caspian shipping provides the clearest observable northern buffer, but its role is threshold delay rather than Persian Gulf-scale replacement.",
@@ -165,7 +165,7 @@
     "analytical_lenses": [
       {
         "name": "Announced but Undisclosed Corridor Planning",
-        "description": "Treats Iran’s reported ten-corridor plan as a public strategic claim requiring analytical reconstruction rather than as a disclosed official map."
+        "description": "Treats Iran鈥檚 reported ten-corridor plan as a public strategic claim requiring analytical reconstruction rather than as a disclosed official map."
       },
       {
         "name": "Distributed Sustainment Architecture",
@@ -191,7 +191,7 @@
   },
   "dimensions": [
     {
-      "name": "Russia–Caspian Sea–Northern Iran",
+      "name": "Russia鈥揅aspian Sea鈥揘orthern Iran",
       "code": "C1",
       "type": "Maritime",
       "primary_function": "Bulk goods, grain, industrial inputs, and selected dual-use-relevant inputs",
@@ -200,7 +200,7 @@
       "confidence": "High"
     },
     {
-      "name": "Kazakhstan–Caspian Sea–Iran",
+      "name": "Kazakhstan鈥揅aspian Sea鈥揑ran",
       "code": "C2",
       "type": "Maritime / multimodal",
       "primary_function": "Grain, raw materials, bulk cargo, and transshipment",
@@ -209,16 +209,16 @@
       "confidence": "Medium"
     },
     {
-      "name": "Turkmenistan–Iran Northeast",
+      "name": "Turkmenistan鈥揑ran Northeast",
       "code": "C3",
       "type": "Rail / road",
       "primary_function": "Central Asian access, border trade, and basic goods",
-      "capacity": "Low–Medium",
+      "capacity": "Low鈥揗edium",
       "strategic_effect": "Regional continuity channel",
       "confidence": "Medium"
     },
     {
-      "name": "Kazakhstan–Turkmenistan–Iran railway",
+      "name": "Kazakhstan鈥揟urkmenistan鈥揑ran railway",
       "code": "C4",
       "type": "Rail",
       "primary_function": "Containerized and bulk cargo",
@@ -227,16 +227,16 @@
       "confidence": "Medium"
     },
     {
-      "name": "China–Central Asia–Iran rail-linked route",
+      "name": "China鈥揅entral Asia鈥揑ran rail-linked route",
       "code": "C5",
       "type": "Rail / multimodal",
       "primary_function": "Components, machinery parts, and containerized cargo",
-      "capacity": "Low–Medium",
+      "capacity": "Low鈥揗edium",
       "strategic_effect": "Enables selective supply continuity",
       "confidence": "Medium"
     },
     {
-      "name": "Turkey–Iran western corridor",
+      "name": "Turkey鈥揑ran western corridor",
       "code": "C6",
       "type": "Road / rail",
       "primary_function": "Imports, exports, and rerouting",
@@ -245,25 +245,25 @@
       "confidence": "Medium"
     },
     {
-      "name": "Iraq–Iran western border corridor",
+      "name": "Iraq鈥揑ran western border corridor",
       "code": "C7",
       "type": "Road",
       "primary_function": "Regional trade, informal flows, and transshipment",
-      "capacity": "Low–Medium",
+      "capacity": "Low鈥揗edium",
       "strategic_effect": "Local resilience and informal-network risk",
       "confidence": "Medium"
     },
     {
-      "name": "Pakistan–Iran southeastern corridor",
+      "name": "Pakistan鈥揑ran southeastern corridor",
       "code": "C8",
       "type": "Road / rail potential",
       "primary_function": "Food, agricultural goods, and basic commodities",
-      "capacity": "Low–Medium",
+      "capacity": "Low鈥揗edium",
       "strategic_effect": "Emergency commodity support",
       "confidence": "Medium"
     },
     {
-      "name": "Chabahar–Oman Gulf / Indian Ocean route",
+      "name": "Chabahar鈥揙man Gulf / Indian Ocean route",
       "code": "C9",
       "type": "Maritime / land-sea",
       "primary_function": "Southeast maritime alternative",
@@ -272,38 +272,38 @@
       "confidence": "Medium"
     },
     {
-      "name": "Afghanistan–Iran eastern corridor",
+      "name": "Afghanistan鈥揑ran eastern corridor",
       "code": "C10",
       "type": "Road / rail potential",
       "primary_function": "Border trade, low-cost flows, and Central Asia linkage",
       "capacity": "Low",
       "strategic_effect": "Auxiliary continuity route",
-      "confidence": "Low–Medium"
+      "confidence": "Low鈥揗edium"
     }
   ],
   "key_findings": [
-    "Iran’s ten-corridor plan has been publicly discussed, but the full official corridor list has not been released.",
+    "Iran鈥檚 ten-corridor plan has been publicly discussed, but the full official corridor list has not been released.",
     "The brief therefore provides an analytical reconstruction rather than a confirmed official corridor map.",
-    "The ten-corridor system diversifies Iran’s logistics options but does not replace the Persian Gulf and Strait of Hormuz system.",
+    "The ten-corridor system diversifies Iran鈥檚 logistics options but does not replace the Persian Gulf and Strait of Hormuz system.",
     "Alternative routes can preserve minimum viable flows but cannot reproduce Persian Gulf-scale throughput.",
-    "The Caspian Sea is the clearest northern buffer and the strongest observable evidence of Iran’s alternative logistics adaptation.",
+    "The Caspian Sea is the clearest northern buffer and the strongest observable evidence of Iran鈥檚 alternative logistics adaptation.",
     "Caspian shipping supports a threshold-delaying role rather than surge capacity because of port, vessel, depth, cargo-handling, and security constraints.",
     "Central Asian rail activity shows usable regional capacity and overland readiness, but does not confirm final Iran-bound cargo destination.",
     "Air connectivity matters as a high-value, low-volume replenishment layer for time-sensitive goods rather than bulk trade.",
     "Hormuz should be treated as degraded but not sealed; residual movement shifts the blockade from total denial to friction, delay, risk, and selective permeability.",
-    "Iran’s adaptation changes the form of pressure rather than eliminating it, turning blockade dynamics into a distributed contest over network degradation.",
+    "Iran鈥檚 adaptation changes the form of pressure rather than eliminating it, turning blockade dynamics into a distributed contest over network degradation.",
     "The strategic contest extends beyond chokepoint control to ports, rail terminals, customs interfaces, border crossings, insurance, finance, vessel availability, air cargo access, and transshipment reliability."
   ],
   "policy_recommendations": [
     "Shift monitoring from individual ships to system-level indicators, including port output, vessel mix, rail activity, border flows, air-route restoration, customs delays, cargo prioritization, and regional price signals.",
-    "Prioritize Caspian nodes as key indicators of Iran’s resilience, including northern Iranian ports, Russian Caspian cargo flows, Kazakh and Turkmen transshipment routes, and Caspian vessel availability.",
+    "Prioritize Caspian nodes as key indicators of Iran鈥檚 resilience, including northern Iranian ports, Russian Caspian cargo flows, Kazakh and Turkmen transshipment routes, and Caspian vessel availability.",
     "Interpret rail and air data carefully: Central Asian rail activity indicates corridor readiness rather than confirmed Iran-bound cargo, while air routes indicate selective high-value replenishment capacity rather than bulk trade recovery.",
     "Focus pressure analysis on bottlenecks rather than whole corridors, including port berths, rail terminals, customs interfaces, border crossings, fuel access, and aviation scheduling nodes.",
     "Avoid treating porous blockade conditions as ineffective; residual Hormuz movement and alternative flows can coexist with effective blockade pressure if throughput falls, costs rise, delivery slows, and inefficient route substitution increases."
   ],
   "related_works": [
     {
-      "title": "Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
+      "title": "Russia鈥揑ran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint",
       "identifier": "10.5281/zenodo.19476666",
       "relation": "Related EPINOVA policy brief on northern supply capacity and threshold-delaying sustainment",
       "type": "DOI"
@@ -311,7 +311,7 @@
     {
       "title": "Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint",
       "identifier": "10.5281/zenodo.19562154",
-      "relation": "Related EPINOVA policy brief on Iran’s three-channel logistics system",
+      "relation": "Related EPINOVA policy brief on Iran鈥檚 three-channel logistics system",
       "type": "DOI"
     },
     {
@@ -321,13 +321,13 @@
       "type": "DOI"
     },
     {
-      "title": "From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis",
+      "title": "From Beneficiary to Burden Carrier: China鈥檚 Structural Exposure in the Strait of Hormuz Crisis",
       "identifier": "10.5281/zenodo.19632808",
-      "relation": "Related EPINOVA policy brief on China’s structural exposure to the Hormuz crisis",
+      "relation": "Related EPINOVA policy brief on China鈥檚 structural exposure to the Hormuz crisis",
       "type": "DOI"
     },
     {
-      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50",
+      "title": "Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.鈥揑srael鈥揑ran Conflict, Days 1鈥?0",
       "identifier": "10.5281/zenodo.19645873",
       "relation": "Related EPINOVA policy brief providing the HPSE framing used in the broader conflict series",
       "type": "DOI"
@@ -345,57 +345,57 @@
       "type": "DOI"
     },
     {
-      "title": "China–Europe Railway Express Portal",
+      "title": "China鈥揈urope Railway Express Portal",
       "identifier": "https://www.crexpress.cn/zoblmenu/single-news",
-      "relation": "Data source used for China–Central Asia rail activity indicators",
+      "relation": "Data source used for China鈥揅entral Asia rail activity indicators",
       "type": "URL"
     }
   ],
   "references": [
     {
-      "citation": "China Railway Express. (2026). China–Europe Railway Express Portal: Single news data page. https://www.crexpress.cn/zoblmenu/single-news",
+      "citation": "China Railway Express. (2026). China鈥揈urope Railway Express Portal: Single news data page. https://www.crexpress.cn/zoblmenu/single-news",
       "type": "Data source",
       "url": "https://www.crexpress.cn/zoblmenu/single-news"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+      "citation": "Wu, Shaoyuan. (2026). Russia鈥揑ran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19476666"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint. Policy Brief No. EPINOVA–2026–PB–31. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19562154",
+      "citation": "Wu, Shaoyuan. (2026). Beyond the Gulf: The Emergence of a Three-Channel, Threshold-Delaying Logistics System in Iran under Sustained Geopolitical Constraint. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?1. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19562154",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19562154"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz. Policy Brief No. EPINOVA–2026–PB–32. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
+      "citation": "Wu, Shaoyuan. (2026). From Selective Restriction to Universal Blockade: Legal Contestation and Third-Party Naval Intervention in the Strait of Hormuz. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19568379"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis. Policy Brief No. EPINOVA–2026–PB–33. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808",
+      "citation": "Wu, Shaoyuan. (2026). From Beneficiary to Burden Carrier: China鈥檚 Structural Exposure in the Strait of Hormuz Crisis. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?3. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19632808"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.–Israel–Iran Conflict, Days 1–50. Policy Brief No. EPINOVA–2026–PB–35. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+      "citation": "Wu, Shaoyuan. (2026). Escalation Without Collapse: High-Pressure Systemic Equilibrium in the U.S.鈥揑srael鈥揑ran Conflict, Days 1鈥?0. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?5. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19645873"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network. Policy Brief No. EPINOVA–2026–PB–37. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19681411",
+      "citation": "Wu, Shaoyuan. (2026). Beyond the Battlefield: From Strike to System Disruption in the Caspian Logistics Network. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19681411",
       "type": "Related EPINOVA publication",
       "url": "https://doi.org/10.5281/zenodo.19681411"
     },
     {
-      "citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict. EPINOVA Working Paper No. EPINOVA–WP–F–2026–09. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+      "citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict. EPINOVA Working Paper No. EPINOVA鈥揥P鈥揊鈥?026鈥?9. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
       "type": "Related EPINOVA working paper",
       "url": "https://doi.org/10.5281/zenodo.19139977"
     }
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure, Policy Brief No. EPINOVA–2026–PB–42, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Beyond Hormuz: Iran’s ten-corridor logistics adaptation under blockade pressure: Caspian shipping, Central Asian rail, and the multi-domain logic of threshold-delaying supply (Policy Brief No. EPINOVA–2026–PB–42). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Beyond Hormuz, EPINOVA–2026–PB–42.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Beyond Hormuz: Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure, Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Beyond Hormuz: Iran鈥檚 ten-corridor logistics adaptation under blockade pressure: Caspian shipping, Central Asian rail, and the multi-domain logic of threshold-delaying supply (Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Beyond Hormuz, EPINOVA鈥?026鈥揚B鈥?2.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
@@ -405,29 +405,29 @@
   "figures": [
     {
       "number": "Figure 1",
-      "title": "Regional System Health Index by Time, April 10–28, 2026",
+      "title": "Regional System Health Index by Time, April 10鈥?8, 2026",
       "page": 7,
       "caption": "The figure compares the time-varying SHI of the Caspian System and the Persian Gulf System from April 10 to April 28, 2026, using Iran time (UTC +3:30), with a reference average of 55.",
       "description": "Time-series comparison showing the Caspian System and Persian Gulf System SHI, with a dashed reference average line at 55.",
-      "source": "Author’s monitoring dataset, based on compiled time-series observations of the Caspian System and Persian Gulf System.",
+      "source": "Author鈥檚 monitoring dataset, based on compiled time-series observations of the Caspian System and Persian Gulf System.",
       "note": "SHI is a composite indicator of regional logistics-system health. Higher values indicate stronger system performance and resilience."
     },
     {
       "number": "Figure 2",
-      "title": "China–Central Asia Rail Activity, January–March 2025/2026 (TEU)",
+      "title": "China鈥揅entral Asia Rail Activity, January鈥揗arch 2025/2026 (TEU)",
       "page": 8,
-      "caption": "The figure compares monthly outbound TEU totals for January–March 2025 and 2026, showing that China–Central Asia rail activity remained robust in early 2026.",
+      "caption": "The figure compares monthly outbound TEU totals for January鈥揗arch 2025 and 2026, showing that China鈥揅entral Asia rail activity remained robust in early 2026.",
       "description": "Line chart comparing 2025 and 2026 outbound TEU totals for January, February, and March.",
-      "source": "Author’s compilation based on China Railway Express data, China–Europe Railway Express Portal.",
+      "source": "Author鈥檚 compilation based on China Railway Express data, China鈥揈urope Railway Express Portal.",
       "note": "TEU totals indicate corridor scale and overland logistics readiness, not direct evidence of Iran-bound cargo or final destination."
     },
     {
       "number": "Figure 3",
-      "title": "Persian Gulf System Monitor, April 9–26, 2026",
+      "title": "Persian Gulf System Monitor, April 9鈥?6, 2026",
       "page": 9,
       "caption": "The figure compares estimated daily baseline output in the Persian Gulf system against a historical baseline, showing that Gulf-side throughput remained far larger than northern or overland alternatives despite disruption and volatility.",
       "description": "Time-series monitor of estimated Persian Gulf baseline output against a historical baseline from April 9 to April 26, 2026.",
-      "source": "Author’s Persian Gulf System Monitor dataset.",
+      "source": "Author鈥檚 Persian Gulf System Monitor dataset.",
       "note": "Baseline output is estimated from observed daily departures using a standardized tons-per-departure assumption. The historical baseline is used as a reference level for comparison, not as a real-time throughput measure."
     }
   ],
@@ -437,15 +437,15 @@
       "title": "Plausible Ten-Corridor Framework under Blockade Pressure",
       "page": 3,
       "description": "Analytical reconstruction of ten possible alternative corridors, including type, primary function, capacity, strategic effect, and confidence level.",
-      "source": "Author’s reconstruction based on public reporting on Iran’s alternative-corridor planning, regional trade geography, the author’s Caspian/Persian Gulf monitoring dataset, and China Railway Express data through March 2026.",
+      "source": "Author鈥檚 reconstruction based on public reporting on Iran鈥檚 alternative-corridor planning, regional trade geography, the author鈥檚 Caspian/Persian Gulf monitoring dataset, and China Railway Express data through March 2026.",
       "note": "This is not an official Iranian list. The table reconstructs plausible corridors and assesses their likely roles, capacity, and strategic effects under blockade pressure."
     },
     {
       "number": "Table 2",
-      "title": "Iran’s Multi-Domain Logistics Adaptation System",
+      "title": "Iran鈥檚 Multi-Domain Logistics Adaptation System",
       "page": 6,
-      "description": "Three-layer analytical framework grouping Iran’s adaptation into ten land-sea alternative corridors, air replenishment routes, and residual Hormuz/Persian Gulf flow.",
-      "source": "Author’s analysis based on the reconstructed corridor framework in Table 1 and observed logistics indicators.",
+      "description": "Three-layer analytical framework grouping Iran鈥檚 adaptation into ten land-sea alternative corridors, air replenishment routes, and residual Hormuz/Persian Gulf flow.",
+      "source": "Author鈥檚 analysis based on the reconstructed corridor framework in Table 1 and observed logistics indicators.",
       "note": "The three-layer model is an analytical framework and should not be read as an official Iranian classification."
     }
   ],
@@ -466,7 +466,7 @@
   "thesis": null,
   "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and does not represent the official positions of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, or operational advice.",
   "metadata_source": {
-    "source_file": "Beyond Hormuz Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf",
+    "source_file": "Beyond Hormuz Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure.pdf",
     "source_type": "PDF + early metadata record",
     "extraction_method": "PDF text extraction, visual inspection of rendered page images, and early metadata reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
@@ -478,8 +478,8 @@
   "pdf_metadata": {
     "title": "",
     "author": "SY Wu",
-    "creator": "Microsoft® PowerPoint® 2024",
-    "producer": "Microsoft® PowerPoint® 2024",
+    "creator": "Microsoft庐 PowerPoint庐 2024",
+    "producer": "Microsoft庐 PowerPoint庐 2024",
     "creation_date": "2026-04-28T01:37:45-04:00",
     "modification_date": "2026-04-28T01:37:45-04:00",
     "pages": 10

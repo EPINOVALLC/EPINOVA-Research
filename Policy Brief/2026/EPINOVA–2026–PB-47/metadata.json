@@ -28,19 +28,19 @@
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "copyright": "Copyright 漏 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-047/",
-  "official_page": "https://epinova.org/policy-brief-2",
+  "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "description": "Official EPINOVA publication page"
     },
     {
-      "identifier": "EPINOVA–2026–PB–47",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?7",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
@@ -55,8 +55,8 @@
       "description": "Short form of the policy brief title"
     }
   ],
-  "description": "This policy brief introduces shock-responsive resilience as a way to describe post-strike rebound behavior in the Caspian logistics system. It proposes and applies a preliminary Caspian Logistics Resilience Index (CLRI) based on rebound amplitude, recovery speed, persistence duration, flow quality, and volatility cost. Using the May 7–12, 2026 rebound window, the brief estimates a preliminary CLRI score of 61/100, placing the Caspian corridor in the shock-responsive resilience category.",
-  "abstract": "This policy brief assesses the Caspian Sea as a contested and shock-sensitive corridor within the Russia-Iran supply architecture. It argues that after external strike or threat events, the Caspian logistics system often rebounds rather than collapses, with SHI, port output, vessel counts, departures, and arrivals increasing during compressed recovery windows. The brief introduces the Caspian Logistics Resilience Index (CLRI) to distinguish durable recovery from stress surge. Its preliminary assessment for the May 7–12, 2026 rebound window produces a CLRI score of 61/100, indicating meaningful rebound capacity but not stable normalization. The corridor remains strategically useful for preserving selected flows under Hormuz pressure, yet its recovery is volatile, uneven, and increasingly dependent on window-based logistics.",
+  "description": "This policy brief introduces shock-responsive resilience as a way to describe post-strike rebound behavior in the Caspian logistics system. It proposes and applies a preliminary Caspian Logistics Resilience Index (CLRI) based on rebound amplitude, recovery speed, persistence duration, flow quality, and volatility cost. Using the May 7鈥?2, 2026 rebound window, the brief estimates a preliminary CLRI score of 61/100, placing the Caspian corridor in the shock-responsive resilience category.",
+  "abstract": "This policy brief assesses the Caspian Sea as a contested and shock-sensitive corridor within the Russia-Iran supply architecture. It argues that after external strike or threat events, the Caspian logistics system often rebounds rather than collapses, with SHI, port output, vessel counts, departures, and arrivals increasing during compressed recovery windows. The brief introduces the Caspian Logistics Resilience Index (CLRI) to distinguish durable recovery from stress surge. Its preliminary assessment for the May 7鈥?2, 2026 rebound window produces a CLRI score of 61/100, indicating meaningful rebound capacity but not stable normalization. The corridor remains strategically useful for preserving selected flows under Hormuz pressure, yet its recovery is volatile, uneven, and increasingly dependent on window-based logistics.",
   "keywords": [
     "Caspian Sea",
     "Caspian logistics",
@@ -152,13 +152,13 @@
   },
   "methodology": {
     "framework_name": "Caspian Logistics Resilience Index (CLRI) and Shock-Responsive Resilience Framework",
-    "source_basis": "Policy-facing analysis based on open-source strike reporting, author-compiled Caspian port and vessel-monitoring indicators, System Health Index observations, port-output indicators, arrivals/departures data, total vessel counts, and vessel-composition patterns during the May 7–12, 2026 rebound window.",
+    "source_basis": "Policy-facing analysis based on open-source strike reporting, author-compiled Caspian port and vessel-monitoring indicators, System Health Index observations, port-output indicators, arrivals/departures data, total vessel counts, and vessel-composition patterns during the May 7鈥?2, 2026 rebound window.",
     "case_context": "Caspian logistics-system behavior after reported external strikes and Caspian-relevant shock points affecting Russian Caspian-linked vessels, energy infrastructure, naval assets, and the Russia-Iran northern supply architecture.",
     "core_problem": "A logistics corridor can survive disruption while becoming less reliable. The central analytical problem is therefore not only whether the Caspian corridor remains open, but whether post-shock rebound reflects durable recovery or compressed stress surge under elevated threat conditions.",
     "central_claims": [
       "The Caspian logistics system shows shock-responsive rather than stable resilience.",
       "After external strikes or threat events, the system often rebounds sharply instead of collapsing.",
-      "The preliminary CLRI score for the May 7–12 rebound window is 61/100, placing the corridor in the shock-responsive resilience category.",
+      "The preliminary CLRI score for the May 7鈥?2 rebound window is 61/100, placing the corridor in the shock-responsive resilience category.",
       "Rebound does not equal normalization; post-strike surges may reflect backlog clearance, accelerated handling, and risk-managed movement.",
       "Cargo-vessel recovery is stronger than tanker recovery, indicating compositionally uneven rebound.",
       "The corridor remains strategically useful but structurally stressed, operating through compressed, volatile, and window-based logistics."
@@ -195,7 +195,7 @@
       "name": "Rebound Amplitude",
       "code": "RA",
       "indicator_type": "CLRI component",
-      "period": "May 7–12, 2026 rebound window",
+      "period": "May 7鈥?2, 2026 rebound window",
       "observed_pattern": "Preliminary score of 90.",
       "interpretation": "Strong rebound in SHI, port output, and vessel activity indicates immediate adaptive capacity after shock."
     },
@@ -203,7 +203,7 @@
       "name": "Recovery Speed",
       "code": "RS",
       "indicator_type": "CLRI component",
-      "period": "May 7–12, 2026 rebound window",
+      "period": "May 7鈥?2, 2026 rebound window",
       "observed_pattern": "Preliminary score of 85.",
       "interpretation": "Rapid recovery after the prior compression period indicates fast operational responsiveness."
     },
@@ -211,7 +211,7 @@
       "name": "Persistence Duration",
       "code": "PD",
       "indicator_type": "CLRI component",
-      "period": "May 7–12, 2026 rebound window",
+      "period": "May 7鈥?2, 2026 rebound window",
       "observed_pattern": "Preliminary score of 60.",
       "interpretation": "Rebound persists but remains short-window rather than durable."
     },
@@ -219,7 +219,7 @@
       "name": "Flow Quality",
       "code": "FQ",
       "indicator_type": "CLRI component",
-      "period": "May 7–12, 2026 rebound window",
+      "period": "May 7鈥?2, 2026 rebound window",
       "observed_pattern": "Preliminary score of 62.",
       "interpretation": "Cargo vessels recover more strongly than tankers while support craft remain stable, indicating uneven system-wide recovery."
     },
@@ -227,7 +227,7 @@
       "name": "Volatility Cost",
       "code": "VC",
       "indicator_type": "CLRI penalty component",
-      "period": "May 7–12, 2026 rebound window",
+      "period": "May 7鈥?2, 2026 rebound window",
       "observed_pattern": "Preliminary score of 70 and subtracted in the CLRI formula.",
       "interpretation": "High surge-contraction volatility reduces true resilience and suggests stress-responsive rather than stable recovery."
     }
@@ -267,7 +267,7 @@
   "capacity_summary": {
     "preliminary_clri_score": "61/100",
     "resilience_category": "Shock-responsive resilience",
-    "primary_observation_window": "May 7–12, 2026",
+    "primary_observation_window": "May 7鈥?2, 2026",
     "strategic_meaning": "Meaningful rebound capacity under pressure, but recovery remains volatile, uneven, and window-based rather than stable systemic normalization.",
     "method_note": "The CLRI score is a preliminary ordinal assessment based on observed system behavior and does not independently audit cargo content, ownership, operational intent, or final destination."
   },
@@ -275,7 +275,7 @@
     "The Caspian system shows shock-responsive, not stable, resilience.",
     "The preliminary CLRI score is 61/100, placing the corridor in the shock-responsive resilience category.",
     "Post-strike rebound does not imply normalization; it may reflect compressed logistics windows, backlog clearance, accelerated handling, and risk-managed movement.",
-    "Ukraine’s reported strikes have made the Caspian theater strategically visible.",
+    "Ukraine鈥檚 reported strikes have made the Caspian theater strategically visible.",
     "Russian Caspian-linked vessels, energy infrastructure, and naval assets are exposed to long-range pressure.",
     "The Caspian corridor is adaptive but structurally stressed and cannot replace Gulf-scale logistics.",
     "Cargo-vessel recovery is stronger than tanker recovery, while support craft and tugs remain comparatively stable.",
@@ -291,7 +291,7 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "resource_type": "Publication series",
       "description": "EPINOVA Policy Brief Series"
@@ -305,21 +305,21 @@
     },
     {
       "relation": "References",
-      "identifier": "EPINOVA–2026–PB–27",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?7",
       "scheme": "EPINOVA publication number",
       "resource_type": "Policy Brief",
       "description": "Related EPINOVA policy brief on Russia-Iran northern supply capacity and constrained throughput methodology"
     },
     {
       "relation": "References",
-      "identifier": "EPINOVA–2026–PB–42",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?2",
       "scheme": "EPINOVA publication number",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief identifying the Caspian corridor as Iran’s clearest northern buffer under blockade pressure"
+      "description": "Related EPINOVA policy brief identifying the Caspian corridor as Iran鈥檚 clearest northern buffer under blockade pressure"
     },
     {
       "relation": "References",
-      "identifier": "EPINOVA–2026–PB–44",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?4",
       "scheme": "EPINOVA publication number",
       "resource_type": "Policy Brief",
       "description": "Related EPINOVA policy brief on Caspian logistics shock, flow inversion, surge, contraction, and window-based operations"
@@ -333,16 +333,16 @@
     }
   ],
   "references": [
-    "Reuters. (2025–2026). Reporting on claimed Ukrainian strikes against Russian Caspian-linked vessels and oil infrastructure.",
+    "Reuters. (2025鈥?026). Reporting on claimed Ukrainian strikes against Russian Caspian-linked vessels and oil infrastructure.",
     "Kyiv Independent. (2026). Reporting on Ukrainian strikes on offshore platforms in the northern Caspian.",
     "The Guardian. (2026). Reporting on a claimed strike near Kaspiysk on Russian Caspian Sea assets.",
-    "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC.",
-    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike. Policy Brief No. EPINOVA–2026–PB–44. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+    "Wu, Shaoyuan. (2026). Russia鈥揑ran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7. Global AI Governance and Policy Research Center, EPINOVA LLC.",
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+    "Wu, Shaoyuan. (2026). Caspian Logistics Shock: Monitoring Russia鈥揑ran Supply Stress after the Anzali Strike. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?4. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes, Policy Brief No. EPINOVA–2026–PB–47, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes, Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
   "citation_apa": "Wu, S. (2026). Shock-responsive resilience in the Caspian logistics system: Measuring rebound capacity after external strikes. EPINOVA Policy Brief Series, EPINOVA-PB-2026-047. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Shock-Responsive Resilience in the Caspian Logistics System, EPINOVA–2026–PB–47.",
+  "short_citation": "Wu (2026), Shock-Responsive Resilience in the Caspian Logistics System, EPINOVA鈥?026鈥揚B鈥?7.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -358,28 +358,28 @@
       "number": "Figure 1",
       "title": "Evolution of the Caspian Logistics System under External Strike Pressure",
       "description": "Links reported Ukrainian strikes on Russian Caspian-linked military, maritime, and energy assets with subsequent disruption, compression, and rebound phases from December 2025 to May 2026.",
-      "source": "Author’s reconstruction based on Reuters, Kyiv Independent, The Guardian, and the author’s Caspian monitoring dataset developed in EPINOVA–2026–PB–42 and EPINOVA–2026–PB–44.",
+      "source": "Author鈥檚 reconstruction based on Reuters, Kyiv Independent, The Guardian, and the author鈥檚 Caspian monitoring dataset developed in EPINOVA鈥?026鈥揚B鈥?2 and EPINOVA鈥?026鈥揚B鈥?4.",
       "note": "Rebound refers to observed post-shock increases in SHI, vessel activity, arrivals, departures, and port throughput; it does not imply full normalization."
     },
     {
       "number": "Figure 2",
       "title": "Regional System Health Index (SHI) by Time",
       "description": "Shows Caspian SHI trends between April and May 2026, including rebound into the mid-80 range after earlier compression.",
-      "source": "Author’s Caspian logistics monitoring dataset and SHI framework developed through EPINOVA logistics-system assessments, including EPINOVA–2026–PB–27 and EPINOVA–2026–PB–44.",
+      "source": "Author鈥檚 Caspian logistics monitoring dataset and SHI framework developed through EPINOVA logistics-system assessments, including EPINOVA鈥?026鈥揚B鈥?7 and EPINOVA鈥?026鈥揚B鈥?4.",
       "note": "Temporary SHI increases may reflect compressed recovery windows, accelerated port processing, or backlog-clearance surges rather than full normalization."
     },
     {
       "number": "Figure 3",
       "title": "Caspian Port Output versus Historical Baseline",
       "description": "Compares observed Caspian port output with a historical baseline between April and May 2026, showing surge-contraction cycles and post-shock spikes.",
-      "source": "Author’s Caspian port monitoring dataset, throughput estimates, and analytical reconstruction based on vessel activity, arrivals, departures, and selected port observations.",
+      "source": "Author鈥檚 Caspian port monitoring dataset, throughput estimates, and analytical reconstruction based on vessel activity, arrivals, departures, and selected port observations.",
       "note": "The historical baseline is an analytical reference, not official port statistics."
     },
     {
       "number": "Figure 4",
       "title": "Russian Vessels in the Caspian Sea by Type",
       "description": "Tracks Russian-linked cargo vessels, tankers, and special craft or tugs in the Caspian Sea between April and May 2026, showing uneven category recovery.",
-      "source": "Author’s vessel-monitoring dataset and analytical classification of Caspian maritime traffic patterns compiled through AIS-based observation and EPINOVA Caspian logistics monitoring.",
+      "source": "Author鈥檚 vessel-monitoring dataset and analytical classification of Caspian maritime traffic patterns compiled through AIS-based observation and EPINOVA Caspian logistics monitoring.",
       "note": "Vessel categories are analytical classifications and should not be read as definitive cargo, ownership, mission, or destination verification."
     }
   ],
@@ -388,22 +388,22 @@
       "number": "Table 1",
       "title": "Reported External Strikes and Caspian-Relevant Logistics Signals",
       "description": "Summarizes open-source strike reports and Caspian-relevant logistics signals from December 2025 to May 2026.",
-      "source": "Author’s synthesis based on Reuters, Kyiv Independent, The Guardian, and EPINOVA Caspian monitoring indicators.",
+      "source": "Author鈥檚 synthesis based on Reuters, Kyiv Independent, The Guardian, and EPINOVA Caspian monitoring indicators.",
       "note": "Reported strikes should be treated as open-source claims or media-reported events rather than independently verified battlefield assessments."
     },
     {
       "number": "Table 2",
       "title": "CLRI Interpretation Benchmark",
       "description": "Presents ordinal interpretation ranges for the Caspian Logistics Resilience Index from low resilience to high systemic resilience.",
-      "source": "Author’s analytical framework.",
+      "source": "Author鈥檚 analytical framework.",
       "note": "The benchmark is an ordinal interpretation scale for comparative logistics-resilience assessment and should not be read as a universal engineering standard."
     },
     {
       "number": "Table 3",
-      "title": "Preliminary CLRI Component Assessment for the May 7–12 Rebound Window",
+      "title": "Preliminary CLRI Component Assessment for the May 7鈥?2 Rebound Window",
       "description": "Scores RA, RS, PD, FQ, and VC to calculate the preliminary CLRI value of 61/100.",
-      "source": "Author’s preliminary scoring based on Caspian logistics monitoring dataset, SHI observations, port-output indicators, arrivals/departures data, total vessel counts, and vessel-composition patterns.",
-      "note": "Scores are preliminary ordinal estimates on a 0–100 scale; VC is subtracted because higher volatility reduces true resilience."
+      "source": "Author鈥檚 preliminary scoring based on Caspian logistics monitoring dataset, SHI observations, port-output indicators, arrivals/departures data, total vessel counts, and vessel-composition patterns.",
+      "note": "Scores are preliminary ordinal estimates on a 0鈥?00 scale; VC is subtracted because higher volatility reduces true resilience."
     }
   ],
   "appendices": [],
@@ -435,8 +435,8 @@
   "pdf_metadata": {
     "title": "",
     "author": "SY Wu",
-    "creator": "Microsoft® PowerPoint® 2024",
-    "producer": "Microsoft® PowerPoint® 2024",
+    "creator": "Microsoft庐 PowerPoint庐 2024",
+    "producer": "Microsoft庐 PowerPoint庐 2024",
     "creation_date": "2026-05-12T08:40:55-04:00",
     "modification_date": "2026-05-12T08:40:55-04:00",
     "pages": 10

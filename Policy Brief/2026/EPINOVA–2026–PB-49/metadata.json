@@ -8,7 +8,7 @@
   "series_code": "PB",
   "series_number": "2026-049",
   "title": "Signaling Without Settlement",
-  "subtitle": "An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition",
+  "subtitle": "An Assessment of Trump鈥檚 Beijing Visit and the Politics of Managed U.S.鈥揅hina Competition",
   "title_normalized": "signaling without settlement",
   "publication_date": "2026-05-15",
   "version": "v1.0",
@@ -28,11 +28,11 @@
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "copyright": "Copyright 漏 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-049/",
-  "official_page": "https://epinova.org/policy-brief-2",
+  "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
       "identifier": "https://publications.epinova.org/epinova-pb-2026-049/",
@@ -40,12 +40,12 @@
       "description": "Official EPINOVA publication page"
     },
     {
-      "identifier": "EPINOVA–2026–PB–49",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?9",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
     {
-      "identifier": "Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf",
+      "identifier": "Signaling Without Settlement An Assessment of Trump鈥檚 Beijing Visit and the Politics of Managed U.S.鈥揅hina Competition.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
@@ -55,10 +55,10 @@
       "description": "Short form of the policy brief title"
     }
   ],
-  "description": "This policy brief assesses President Trump’s May 2026 Beijing visit as a high-optics but low-text summit that stabilized the appearance of U.S.–China competition without producing a codified settlement. It argues that the visit generated managed ambiguity, managed optionality, and controlled access across political framing, commerce, strategic technology, rare earths, energy, and Hormuz-related issues.",
-  "abstract": "This policy brief evaluates President Trump’s Beijing visit and its implications for managed U.S.–China competition. It argues that the summit produced strong political performance but limited substantive delivery: Beijing gained the diplomatic language of constructive strategic stability, while Washington gained transactional narratives around aircraft, agriculture, energy, finance, and technology. The brief distinguishes political signaling from verified execution across Boeing aircraft purchases, soybean and beef access, financial-services narratives, Nvidia H200 chip licensing, rare-earth discussions, and Hormuz-related energy-security convergence. It concludes that the summit did not reset U.S.–China competition. Instead, it stabilized the optics of competition through managed ambiguity and reversible openings while leaving structural disputes unresolved, including Taiwan, export controls, tariffs, supply-chain security, financial access, Iran-related risk, and military crisis-management gaps.",
+  "description": "This policy brief assesses President Trump鈥檚 May 2026 Beijing visit as a high-optics but low-text summit that stabilized the appearance of U.S.鈥揅hina competition without producing a codified settlement. It argues that the visit generated managed ambiguity, managed optionality, and controlled access across political framing, commerce, strategic technology, rare earths, energy, and Hormuz-related issues.",
+  "abstract": "This policy brief evaluates President Trump鈥檚 Beijing visit and its implications for managed U.S.鈥揅hina competition. It argues that the summit produced strong political performance but limited substantive delivery: Beijing gained the diplomatic language of constructive strategic stability, while Washington gained transactional narratives around aircraft, agriculture, energy, finance, and technology. The brief distinguishes political signaling from verified execution across Boeing aircraft purchases, soybean and beef access, financial-services narratives, Nvidia H200 chip licensing, rare-earth discussions, and Hormuz-related energy-security convergence. It concludes that the summit did not reset U.S.鈥揅hina competition. Instead, it stabilized the optics of competition through managed ambiguity and reversible openings while leaving structural disputes unresolved, including Taiwan, export controls, tariffs, supply-chain security, financial access, Iran-related risk, and military crisis-management gaps.",
   "keywords": [
-    "U.S.–China relations",
+    "U.S.鈥揅hina relations",
     "Trump Beijing visit",
     "managed competition",
     "managed ambiguity",
@@ -85,7 +85,7 @@
   ],
   "subjects": [
     "International relations",
-    "U.S.–China relations",
+    "U.S.鈥揅hina relations",
     "Strategic competition",
     "Public policy",
     "Technology policy",
@@ -151,13 +151,13 @@
   "methodology": {
     "framework_name": "Managed Ambiguity, Managed Optionality, and Controlled Access Assessment Framework",
     "source_basis": "Policy-facing assessment based on official Chinese and U.S. readouts, public reporting on summit-related commercial and technology issues, market reactions, and follow-on verification indicators as of May 15, 2026.",
-    "case_context": "President Trump’s May 2026 Beijing visit and the politics of managed U.S.–China competition across diplomacy, commerce, technology, strategic resources, energy, and maritime-security issues.",
+    "case_context": "President Trump鈥檚 May 2026 Beijing visit and the politics of managed U.S.鈥揅hina competition across diplomacy, commerce, technology, strategic resources, energy, and maritime-security issues.",
     "core_problem": "The central analytical problem is whether summit signals moved beyond optics into codified policy, binding contracts, verified shipments, durable licenses, or institutional mechanisms.",
     "central_claims": [
       "The summit produced a political framework rather than a codified settlement.",
       "Beijing gained strategic optics and the language of constructive strategic stability, while Washington gained transactional talking points.",
       "Commercial signals were broad but unevenly executed, with Boeing serving as the clearest under-delivery test.",
-      "Reported H200 access indicates controlled technology access rather than technology détente.",
+      "Reported H200 access indicates controlled technology access rather than technology d茅tente.",
       "AI chips and rare earths operate as reciprocal strategic chokepoints.",
       "Hormuz revealed limited strategic convergence between Washington and Beijing, not operational cooperation.",
       "The visit stabilized the optics of competition without resolving its underlying structure."
@@ -165,7 +165,7 @@
     "analytical_lenses": [
       {
         "name": "Managed Ambiguity",
-        "description": "Interprets the summit’s diplomatic form as a structure that allowed both governments to claim success without a detailed joint text."
+        "description": "Interprets the summit鈥檚 diplomatic form as a structure that allowed both governments to claim success without a detailed joint text."
       },
       {
         "name": "Managed Optionality",
@@ -181,7 +181,7 @@
       },
       {
         "name": "Reciprocal Chokepoint Analysis",
-        "description": "Compares U.S. leverage over advanced compute access with China’s leverage over rare earths and critical mineral inputs."
+        "description": "Compares U.S. leverage over advanced compute access with China鈥檚 leverage over rare earths and critical mineral inputs."
       }
     ]
   },
@@ -219,7 +219,7 @@
       "code": "H200",
       "indicator_type": "Strategic technology access",
       "observed_pattern": "Reported clearance for around 10 Chinese firms and a per-customer cap occurred without verified shipments or durable license framework.",
-      "interpretation": "Controlled access, not technology détente."
+      "interpretation": "Controlled access, not technology d茅tente."
     },
     {
       "name": "Rare Earths",
@@ -243,7 +243,7 @@
     "Boeing was the clearest commercial stress test and suggested under-delivery relative to expectations.",
     "Agricultural outcomes were mixed, with soybean continuity and more concrete but still purchase-unverified beef license renewals.",
     "The reported H200 arrangement should be treated as controlled access rather than a rollback of export controls.",
-    "Rare earths and AI chips remain reciprocal strategic chokepoints in U.S.–China competition.",
+    "Rare earths and AI chips remain reciprocal strategic chokepoints in U.S.鈥揅hina competition.",
     "The summit showed strategic convergence on Hormuz openness but did not produce operational cooperation.",
     "The overall result was managed ambiguity and managed optionality, not reconciliation or structural reset."
   ],
@@ -252,11 +252,11 @@
     "Avoid treating political signals as durable commercial or technology-policy outcomes without implementation evidence.",
     "Track Boeing order details, Chinese buyer allocation, agricultural shipment data, H200 deliveries, rare-earth export-license normalization, and payment-network approvals over the next 30 to 90 days.",
     "Distinguish limited strategic convergence from operational cooperation on Hormuz and energy-security issues.",
-    "Treat managed optionality as a stabilizing but reversible condition rather than a settlement of U.S.–China structural competition."
+    "Treat managed optionality as a stabilizing but reversible condition rather than a settlement of U.S.鈥揅hina structural competition."
   ],
   "watchpoints": [
     {
-      "timeframe": "1–2 weeks",
+      "timeframe": "1鈥? weeks",
       "indicator": "Joint or departmental follow-up documents",
       "analytical_purpose": "Shows whether broad summit language becomes codified."
     },
@@ -266,32 +266,32 @@
       "analytical_purpose": "Clarifies whether the 200-aircraft announcement is binding."
     },
     {
-      "timeframe": "30–60 days",
+      "timeframe": "30鈥?0 days",
       "indicator": "Chinese buyer allocation for Boeing aircraft",
       "analytical_purpose": "Tests commercial execution."
     },
     {
-      "timeframe": "30–90 days",
+      "timeframe": "30鈥?0 days",
       "indicator": "Agricultural purchase and shipment data",
       "analytical_purpose": "Tests whether farm-state promises become trade flows."
     },
     {
-      "timeframe": "30–90 days",
+      "timeframe": "30鈥?0 days",
       "indicator": "Energy purchase data or LNG/oil contracts",
       "analytical_purpose": "Tests whether energy discussions become transactions."
     },
     {
-      "timeframe": "30–90 days",
+      "timeframe": "30鈥?0 days",
       "indicator": "H200 shipment approvals and actual deliveries",
       "analytical_purpose": "Distinguishes licensing from execution."
     },
     {
-      "timeframe": "30–90 days",
+      "timeframe": "30鈥?0 days",
       "indicator": "Rare-earth export-license normalization",
       "analytical_purpose": "Tests whether the truce reduces supply-chain pressure."
     },
     {
-      "timeframe": "60–90 days",
+      "timeframe": "60鈥?0 days",
       "indicator": "Visa, Mastercard, Citi, or payment-network approvals",
       "analytical_purpose": "Tests financial-access claims."
     },
@@ -304,7 +304,7 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "resource_type": "Publication series",
       "description": "EPINOVA Policy Brief Series"
@@ -353,23 +353,23 @@
     }
   ],
   "references": [
-    "Cao, E., & Jackson, L. (2026, May 14). US’s Bessent says soybeans “all taken care of,” cooling expectations for fresh Chinese buying. Reuters. https://www.reuters.com/world/us/uss-bessent-says-soybeans-all-taken-care-of-cooling-expectations-fresh-chinese-2026-05-14/",
+    "Cao, E., & Jackson, L. (2026, May 14). US鈥檚 Bessent says soybeans 鈥渁ll taken care of,鈥?cooling expectations for fresh Chinese buying. Reuters. https://www.reuters.com/world/us/uss-bessent-says-soybeans-all-taken-care-of-cooling-expectations-fresh-chinese-2026-05-14/",
     "Cao, E., Polansek, T., Zhang, D., & Jackson, L. (2026, May 8). US beef producers hope China access is on Trump-Xi summit menu. Reuters. https://www.reuters.com/world/china/us-beef-producers-hope-china-access-is-trump-xi-summit-menu-2026-05-08/",
-    "China News Service. (2026, May 15). 美企业家对中国经济充满期待 希望加强对华合作 [U.S. entrepreneurs are full of expectations for China’s economy and hope to strengthen cooperation with China]. https://www.chinanews.com.cn/cj/2026/05-15/10621475.shtml",
-    "Jackson, L., Martina, M., & Chen, L. (2026, May 13). Trump, Xi to weigh rare earth truce extension, but China’s curbs still bite. Reuters, via Investing.com. https://www.investing.com/news/commodities-news/trump-xi-to-weigh-rare-earth-truce-extension-but-chinas-curbs-still-bite-4683132",
+    "China News Service. (2026, May 15). 缇庝紒涓氬瀵逛腑鍥界粡娴庡厖婊℃湡寰?甯屾湜鍔犲己瀵瑰崕鍚堜綔 [U.S. entrepreneurs are full of expectations for China鈥檚 economy and hope to strengthen cooperation with China]. https://www.chinanews.com.cn/cj/2026/05-15/10621475.shtml",
+    "Jackson, L., Martina, M., & Chen, L. (2026, May 13). Trump, Xi to weigh rare earth truce extension, but China鈥檚 curbs still bite. Reuters, via Investing.com. https://www.investing.com/news/commodities-news/trump-xi-to-weigh-rare-earth-truce-extension-but-chinas-curbs-still-bite-4683132",
     "Lawder, D., & Shepardson, D. (2026, May 14). Boeing shares drop 4% after Trump announces China orders just 200 jets. Reuters. https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
     "Lee, L., & Lawder, D. (2026, May 15). China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News. Reuters. https://www.reuters.com/world/china/china-wants-strait-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-2026-05-15/",
     "Madhani, A., Weissert, W., & Mistreanu, S. (2026, May 15). Trump wraps up his Beijing visit. AP News. https://apnews.com/article/trump-xi-taiwan-iran-trade-e7a3cdf161c608de152ac1c6e5755452",
-    "MarketWatch. (2026, May 14). Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them. https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa",
-    "Reuters. (2026, May 11). Apple, Boeing, Citi, Tesla, Meta executives to join Trump’s China trip. Reuters, via Investing.com. https://www.investing.com/news/stock-market-news/apple-boeing-citi-tesla-meta-executives-to-join-trumps-china-trip-4677402",
-    "Sharecast News. (2026, May 14). US clears sales of Nvidia H200 chips to some Chinese firms—report. London South East. https://www.lse.co.uk/news/us-clears-sales-of-nvidia-h200-chips-to-some-chinese-firms-report-61vbhm0w2iy26f6.html",
-    "Xinhua. (2026a, May 15). Chinese, U.S. presidents agree on new vision for bilateral ties in Beijing talks. The State Council of the People’s Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a0679c9c6d00ca5f9a0afa9.html",
-    "Xinhua. (2026b, May 15). Xi, Trump reach series of new common understandings: China’s foreign ministry. The State Council of the People’s Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a069dc0c6d00ca5f9a0afad.html",
+    "MarketWatch. (2026, May 14). Trump鈥檚 big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them. https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa",
+    "Reuters. (2026, May 11). Apple, Boeing, Citi, Tesla, Meta executives to join Trump鈥檚 China trip. Reuters, via Investing.com. https://www.investing.com/news/stock-market-news/apple-boeing-citi-tesla-meta-executives-to-join-trumps-china-trip-4677402",
+    "Sharecast News. (2026, May 14). US clears sales of Nvidia H200 chips to some Chinese firms鈥攔eport. London South East. https://www.lse.co.uk/news/us-clears-sales-of-nvidia-h200-chips-to-some-chinese-firms-report-61vbhm0w2iy26f6.html",
+    "Xinhua. (2026a, May 15). Chinese, U.S. presidents agree on new vision for bilateral ties in Beijing talks. The State Council of the People鈥檚 Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a0679c9c6d00ca5f9a0afa9.html",
+    "Xinhua. (2026b, May 15). Xi, Trump reach series of new common understandings: China鈥檚 foreign ministry. The State Council of the People鈥檚 Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a069dc0c6d00ca5f9a0afad.html",
     "Zhang, D., Jackson, L., & Cao, E. (2026, May 14). China renews licences for hundreds of US beef exporters amid Trump-Xi summit. Reuters, via Investing.com. https://www.investing.com/news/stock-market-news/china-renews-licences-for-hundreds-of-us-beef-exporters-amid-trumpxi-summit-4687099"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition. Policy Brief No. EPINOVA–2026–PB–49. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Signaling without settlement: An assessment of Trump’s Beijing visit and the politics of managed U.S.–China competition. EPINOVA Policy Brief Series, EPINOVA-PB-2026-049. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Signaling Without Settlement, EPINOVA–2026–PB–49.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump鈥檚 Beijing Visit and the Politics of Managed U.S.鈥揅hina Competition. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?9. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Signaling without settlement: An assessment of Trump鈥檚 Beijing visit and the politics of managed U.S.鈥揅hina competition. EPINOVA Policy Brief Series, EPINOVA-PB-2026-049. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Signaling Without Settlement, EPINOVA鈥?026鈥揚B鈥?9.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -385,22 +385,22 @@
     {
       "number": "Table 1",
       "title": "Cross-Domain Evidence Map of the Beijing Visit",
-      "description": "Summarizes the brief’s cross-domain assessment across political framing, Boeing, agriculture, financial services, corporate confidence, H200/AI chips, rare earths, Hormuz/energy, and overall summit outcome.",
-      "source": "Author’s assessment based on official Chinese and U.S. readouts, public reporting on summit-related commercial and technology issues, sector-specific market reactions, and follow-on verification indicators.",
+      "description": "Summarizes the brief鈥檚 cross-domain assessment across political framing, Boeing, agriculture, financial services, corporate confidence, H200/AI chips, rare earths, Hormuz/energy, and overall summit outcome.",
+      "source": "Author鈥檚 assessment based on official Chinese and U.S. readouts, public reporting on summit-related commercial and technology issues, sector-specific market reactions, and follow-on verification indicators.",
       "note": "This table is not a list of confirmed summit outcomes; it distinguishes public signals, market reactions, and reported policy openings from verified delivery."
     },
     {
       "number": "Table 2",
       "title": "Post-Summit Watchpoints for Testing Whether the Beijing Visit Moves Beyond Optics",
       "description": "Lists time-bound verification indicators for assessing whether summit signals become codified policy changes, binding contracts, actual shipments, licenses, or institutional mechanisms.",
-      "source": "Author’s assessment based on official Chinese and U.S. readouts, Reuters and MarketWatch reporting on Boeing, Reuters reporting on soybeans and beef export-license renewals, public reporting on Nvidia H200 licensing, Reuters reporting on rare earths and Hormuz, sector-level equity-market reactions, and follow-on verification indicators.",
+      "source": "Author鈥檚 assessment based on official Chinese and U.S. readouts, Reuters and MarketWatch reporting on Boeing, Reuters reporting on soybeans and beef export-license renewals, public reporting on Nvidia H200 licensing, Reuters reporting on rare earths and Hormuz, sector-level equity-market reactions, and follow-on verification indicators.",
       "note": "The listed indicators are proposed verification points rather than confirmed outcomes of the summit."
     },
     {
       "number": "Appendix Table A1",
       "title": "Full Cross-Domain Comparison of Public Framing, Reported Signals, Verification Gaps, and Analytical Assessments",
       "description": "Provides a fuller comparison of Chinese public framing, U.S. public framing, reported or market signals, verification gaps, and analytical assessments across summit domains.",
-      "source": "Author’s assessment based on Chinese official readouts, Chinese state-linked reporting on U.S. executive statements, AP reporting, Reuters reporting, Sharecast News, MarketWatch, sector-specific equity-market reactions, and follow-on verification indicators.",
+      "source": "Author鈥檚 assessment based on Chinese official readouts, Chinese state-linked reporting on U.S. executive statements, AP reporting, Reuters reporting, Sharecast News, MarketWatch, sector-specific equity-market reactions, and follow-on verification indicators.",
       "note": "The table compares public framing, reported signals, and verification gaps and does not treat reported announcements as confirmed outcomes."
     }
   ],
@@ -427,7 +427,7 @@
   "thesis": null,
   "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
   "metadata_source": {
-    "source_file": "Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf",
+    "source_file": "Signaling Without Settlement An Assessment of Trump鈥檚 Beijing Visit and the Politics of Managed U.S.鈥揅hina Competition.pdf",
     "source_type": "PDF",
     "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
@@ -439,8 +439,8 @@
   "pdf_metadata": {
     "title": "",
     "author": "SY Wu",
-    "creator": "Microsoft® PowerPoint® 2024",
-    "producer": "Microsoft® PowerPoint® 2024",
+    "creator": "Microsoft庐 PowerPoint庐 2024",
+    "producer": "Microsoft庐 PowerPoint庐 2024",
     "creation_date": "2026-05-15T06:30:27-04:00",
     "modification_date": "2026-05-15T06:30:27-04:00",
     "pages": 12

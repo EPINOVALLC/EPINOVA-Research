@@ -7,9 +7,9 @@
   "publication_series": "EPINOVA Policy Brief Series",
   "series_code": "PB",
   "series_number": "2026-046",
-  "title": "From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface",
-  "subtitle": "Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity",
-  "title_normalized": "from hormuz pressure to continental redundancy: china’s landward strategy across the inner eurasian landward interface",
+  "title": "From Hormuz Pressure to Continental Redundancy: China鈥檚 Landward Strategy across the Inner Eurasian Landward Interface",
+  "subtitle": "Iran鈥檚 Alternative Corridors, Pakistan鈥檚 Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity",
+  "title_normalized": "from hormuz pressure to continental redundancy: china鈥檚 landward strategy across the inner eurasian landward interface",
   "publication_date": "2026-05-09",
   "version": "v1.0",
   "language": "en",
@@ -28,24 +28,24 @@
   "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "copyright": "Copyright 漏 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-046/",
-  "official_page": "https://epinova.org/policy-brief-2",
+  "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "description": "Official EPINOVA publication page"
     },
     {
-      "identifier": "EPINOVA–2026–PB–46",
+      "identifier": "EPINOVA鈥?026鈥揚B鈥?6",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
     {
-      "identifier": "From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf",
+      "identifier": "From Hormuz Pressure to Continental Redundancy China鈥檚 Landward Strategy across the Inner Eurasian Landward Interface.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
@@ -57,11 +57,11 @@
     {
       "identifier": "Continental Redundancy",
       "scheme": "Short analytical concept",
-      "description": "Short form of the brief’s core strategic argument"
+      "description": "Short form of the brief鈥檚 core strategic argument"
     }
   ],
-  "description": "This policy brief analyzes China’s emerging landward strategy under Hormuz-related maritime disruption by introducing the Inner Eurasian Landward Interface as a functional strategic geography linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean port approaches. It argues that China’s advantage lies not in one decisive corridor, but in layered continental redundancy across northern, northeastern, southeastern, and reserve route options.",
-  "abstract": "This policy brief examines how maritime disruption around the Strait of Hormuz is increasing the strategic value of landward redundancy across Eurasia. It introduces the Inner Eurasian Landward Interface as an analytical geography connecting western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean approaches. The brief argues that China’s westward posture should not be read as a search for one decisive corridor, but as a continental redundancy strategy built around multiple imperfect, partially overlapping, and conditionally usable routes. Iran’s alternative-corridor adaptation creates demand for China-linked overland options; Pakistan’s third-country transit opening adds a southeastern sea–land access layer; Central Asian and Caspian routes provide stability and threshold-delay capacity; and Afghanistan/Wakhan remains a strategic reserve rather than a current operational priority. The brief concludes that under maritime pressure, the most valuable corridor is not necessarily the shortest route, but the route that can still operate.",
+  "description": "This policy brief analyzes China鈥檚 emerging landward strategy under Hormuz-related maritime disruption by introducing the Inner Eurasian Landward Interface as a functional strategic geography linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean port approaches. It argues that China鈥檚 advantage lies not in one decisive corridor, but in layered continental redundancy across northern, northeastern, southeastern, and reserve route options.",
+  "abstract": "This policy brief examines how maritime disruption around the Strait of Hormuz is increasing the strategic value of landward redundancy across Eurasia. It introduces the Inner Eurasian Landward Interface as an analytical geography connecting western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean approaches. The brief argues that China鈥檚 westward posture should not be read as a search for one decisive corridor, but as a continental redundancy strategy built around multiple imperfect, partially overlapping, and conditionally usable routes. Iran鈥檚 alternative-corridor adaptation creates demand for China-linked overland options; Pakistan鈥檚 third-country transit opening adds a southeastern sea鈥搇and access layer; Central Asian and Caspian routes provide stability and threshold-delay capacity; and Afghanistan/Wakhan remains a strategic reserve rather than a current operational priority. The brief concludes that under maritime pressure, the most valuable corridor is not necessarily the shortest route, but the route that can still operate.",
   "keywords": [
     "China",
     "Inner Eurasian Landward Interface",
@@ -71,8 +71,8 @@
     "Eurasian connectivity",
     "landward strategy",
     "corridor operability",
-    "China–Central Asia connectivity",
-    "China–Pakistan–Iran corridor",
+    "China鈥揅entral Asia connectivity",
+    "China鈥揚akistan鈥揑ran corridor",
     "Pakistan third-country transit",
     "Gwadar",
     "Karachi",
@@ -81,9 +81,9 @@
     "Taftan",
     "Iran alternative corridors",
     "Caspian corridor",
-    "Russia–Iran northern supply",
+    "Russia鈥揑ran northern supply",
     "Central Asian rail",
-    "Turkmenistan–Iran access",
+    "Turkmenistan鈥揑ran access",
     "Wakhan Corridor",
     "Afghanistan logistics",
     "threshold-delaying corridor",
@@ -106,7 +106,7 @@
     "China foreign policy",
     "Middle East security",
     "Central Asian security",
-    "Pakistan–Iran transit",
+    "Pakistan鈥揑ran transit",
     "Systemic risk",
     "Infrastructure strategy"
   ],
@@ -165,16 +165,16 @@
   },
   "methodology": {
     "framework_name": "Inner Eurasian Landward Interface and Continental Redundancy Framework",
-    "source_basis": "Policy-facing qualitative analysis based on prior EPINOVA assessments of Russia–Iran northern supply capacity, Iran’s ten-corridor logistics adaptation under blockade pressure, Pakistan’s 2026 third-country transit opening, China’s risk-adjusted network-node position under Hormuz pressure, and publicly available reporting and scenario-based analytical estimates.",
-    "case_context": "China’s westward landward positioning under maritime disruption around the Strait of Hormuz, with emphasis on China-linked overland logistics, Iran-bound alternative corridors, Pakistan-based third-country transit, Central Asian rail and Caspian connectivity, and Afghanistan/Wakhan as a reserve option.",
+    "source_basis": "Policy-facing qualitative analysis based on prior EPINOVA assessments of Russia鈥揑ran northern supply capacity, Iran鈥檚 ten-corridor logistics adaptation under blockade pressure, Pakistan鈥檚 2026 third-country transit opening, China鈥檚 risk-adjusted network-node position under Hormuz pressure, and publicly available reporting and scenario-based analytical estimates.",
+    "case_context": "China鈥檚 westward landward positioning under maritime disruption around the Strait of Hormuz, with emphasis on China-linked overland logistics, Iran-bound alternative corridors, Pakistan-based third-country transit, Central Asian rail and Caspian connectivity, and Afghanistan/Wakhan as a reserve option.",
     "core_problem": "The analytical problem is not whether one land corridor can replace Hormuz-scale maritime trade, but whether multiple partially usable routes can preserve minimum connectivity, delay depletion, reduce single-point chokepoint exposure, and expand strategic optionality under maritime disruption.",
     "central_claims": [
-      "China’s emerging landward positioning is moving from corridor symbolism toward corridor operability.",
+      "China鈥檚 emerging landward positioning is moving from corridor symbolism toward corridor operability.",
       "The Inner Eurasian Landward Interface is a functional strategic geography rather than a formal administrative region.",
-      "Iran’s alternative-corridor adaptation creates demand for China-linked overland and multimodal options, but cannot replace Persian Gulf or Hormuz-scale throughput.",
-      "Pakistan’s 2026 third-country transit opening creates a southeastern sea–land logistics switchboard for Iran-bound goods through Karachi, Port Qasim, Gwadar, Gabd, and Taftan.",
+      "Iran鈥檚 alternative-corridor adaptation creates demand for China-linked overland and multimodal options, but cannot replace Persian Gulf or Hormuz-scale throughput.",
+      "Pakistan鈥檚 2026 third-country transit opening creates a southeastern sea鈥搇and logistics switchboard for Iran-bound goods through Karachi, Port Qasim, Gwadar, Gabd, and Taftan.",
       "Central Asia provides relative stability and threshold-delay capacity; Pakistan provides speed and port intake; Afghanistan/Wakhan provides strategic optionality but weak current operability.",
-      "China’s advantage lies in network positioning, multiple usable options, and continental redundancy rather than direct crisis entry or control of every corridor."
+      "China鈥檚 advantage lies in network positioning, multiple usable options, and continental redundancy rather than direct crisis entry or control of every corridor."
     ],
     "analytical_lenses": [
       {
@@ -183,7 +183,7 @@
       },
       {
         "name": "Continental Redundancy Strategy",
-        "description": "Interprets China’s landward posture as a layered system of imperfect but usable routes designed to preserve minimum connectivity and avoid single-point maritime dependence."
+        "description": "Interprets China鈥檚 landward posture as a layered system of imperfect but usable routes designed to preserve minimum connectivity and avoid single-point maritime dependence."
       },
       {
         "name": "Threshold-Delaying Logistics",
@@ -195,35 +195,35 @@
       },
       {
         "name": "Network-Node Positioning",
-        "description": "Analyzes China’s benefit as preserving optionality, enabling logistics choices, and strengthening stabilizing network-node relevance without direct conflict entry."
+        "description": "Analyzes China鈥檚 benefit as preserving optionality, enabling logistics choices, and strengthening stabilizing network-node relevance without direct conflict entry."
       }
     ]
   },
   "dimensions": [
     {
       "name": "Northern Layer",
-      "route_logic": "China–Central Asia–Caspian–Iran",
+      "route_logic": "China鈥揅entral Asia鈥揅aspian鈥揑ran",
       "main_function": "Slow but stable connectivity",
       "strategic_value": "Threshold delay and strategic depth",
       "interpretation": "Provides continuity and resilience through Central Asian and Caspian-facing connectivity, but remains slower, more complex, and capacity-constrained."
     },
     {
       "name": "Northeastern Iran Layer",
-      "route_logic": "China–Central Asia–Turkmenistan–Iran",
+      "route_logic": "China鈥揅entral Asia鈥揟urkmenistan鈥揑ran",
       "main_function": "Land continuity and border access",
       "strategic_value": "Regional redundancy",
       "interpretation": "Offers landward continuity into Iran through Central Asian and Turkmenistan-linked access, increasing redundancy without replacing maritime scale."
     },
     {
       "name": "Southeastern Layer",
-      "route_logic": "China–Pakistan–Iran",
-      "main_function": "Sea–land and road-based access",
+      "route_logic": "China鈥揚akistan鈥揑ran",
+      "main_function": "Sea鈥搇and and road-based access",
       "strategic_value": "Speed, port intake, third-country transit",
-      "interpretation": "Uses Pakistani ports, roads, and Iran-facing border exits as a pressure-release valve enabled by Pakistan’s third-country transit framework."
+      "interpretation": "Uses Pakistani ports, roads, and Iran-facing border exits as a pressure-release valve enabled by Pakistan鈥檚 third-country transit framework."
     },
     {
       "name": "Reserve Layer",
-      "route_logic": "China–Wakhan–Afghanistan",
+      "route_logic": "China鈥揥akhan鈥揂fghanistan",
       "main_function": "Symbolic and potential directness",
       "strategic_value": "Long-term optionality, weak current operability",
       "interpretation": "Retains long-term strategic value but is currently downgraded by security, governance, border, customs, and infrastructure limitations."
@@ -232,44 +232,44 @@
   "corridor_architecture": [
     {
       "layer": "Northern layer",
-      "route_logic": "China–Central Asia–Caspian–Iran",
+      "route_logic": "China鈥揅entral Asia鈥揅aspian鈥揑ran",
       "function": "Threshold delay and strategic depth",
       "operability_assessment": "Relatively stable but slower, more complex, and capacity-bounded."
     },
     {
       "layer": "Northeastern Iran layer",
-      "route_logic": "China–Central Asia–Turkmenistan–Iran",
+      "route_logic": "China鈥揅entral Asia鈥揟urkmenistan鈥揑ran",
       "function": "Regional redundancy and land continuity",
       "operability_assessment": "Useful for land-border access, subject to cross-border coordination and infrastructure limits."
     },
     {
       "layer": "Southeastern layer",
-      "route_logic": "China–Pakistan–Iran",
-      "function": "Port-based intake, sea–land access, and third-country transit",
+      "route_logic": "China鈥揚akistan鈥揑ran",
+      "function": "Port-based intake, sea鈥搇and access, and third-country transit",
       "operability_assessment": "More immediately usable than Wakhan-linked routes, but constrained by Balochistan security, road capacity, border processing, sanctions exposure, insurance, banking, and implementation."
     },
     {
       "layer": "Reserve layer",
-      "route_logic": "China–Wakhan–Afghanistan",
+      "route_logic": "China鈥揥akhan鈥揂fghanistan",
       "function": "Strategic reserve and long-term optionality",
       "operability_assessment": "Geographically symbolic but presently weak as a high-frequency crisis logistics corridor."
     }
   ],
   "capacity_summary": {
     "central_claim": "Landward corridors cannot replace Persian Gulf or Strait of Hormuz maritime trade at scale, but can preserve minimum flows, support selective replenishment, reduce chokepoint dependence, and delay systemic pressure.",
-    "northern_capacity_reference": "Prior EPINOVA analysis of Russia–Iran northern supply assessed a realistic constrained working range of roughly 10,000–15,000 tons per day under constrained conditions.",
+    "northern_capacity_reference": "Prior EPINOVA analysis of Russia鈥揑ran northern supply assessed a realistic constrained working range of roughly 10,000鈥?5,000 tons per day under constrained conditions.",
     "strategic_meaning": "The value of continental redundancy lies in continuity, optionality, and pressure delay rather than surge-capacity substitution.",
     "method_note": "Capacity and route claims are used as policy-facing analytical estimates. The brief does not independently verify actual throughput, cargo composition, sanctions compliance, or operational routing."
   },
   "key_findings": [
-    "China’s emerging landward positioning is moving from corridor symbolism toward corridor operability.",
+    "China鈥檚 emerging landward positioning is moving from corridor symbolism toward corridor operability.",
     "The Inner Eurasian Landward Interface is emerging as a functional strategic geography linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean approaches.",
-    "China’s westward posture is better understood as a continental redundancy strategy rather than a search for a single decisive corridor.",
-    "Iran’s alternative-corridor strategy creates demand for China-linked overland options while preserving minimum viable flows rather than replacing Hormuz-scale logistics.",
-    "Pakistan’s third-country transit opening creates a southeastern option through Karachi, Port Qasim, Gwadar, Gabd, and Taftan without requiring a direct China–Iran corridor.",
+    "China鈥檚 westward posture is better understood as a continental redundancy strategy rather than a search for a single decisive corridor.",
+    "Iran鈥檚 alternative-corridor strategy creates demand for China-linked overland options while preserving minimum viable flows rather than replacing Hormuz-scale logistics.",
+    "Pakistan鈥檚 third-country transit opening creates a southeastern option through Karachi, Port Qasim, Gwadar, Gabd, and Taftan without requiring a direct China鈥揑ran corridor.",
     "Central Asia provides stability and strategic depth; Pakistan provides relative speed and port access; Afghanistan/Wakhan provides optionality but weak current operability.",
     "Corridor operability matters more than corridor geography; legally cleared, institutionally coordinated, repeatable, and crisis-activatable routes are more valuable than symbolic directness.",
-    "China’s advantage lies in preserving multiple landward options and preventing maritime chokepoint pressure from becoming continental paralysis.",
+    "China鈥檚 advantage lies in preserving multiple landward options and preventing maritime chokepoint pressure from becoming continental paralysis.",
     "The current rebalancing does not replace maritime trade, but increases the strategic value of layered landward redundancy.",
     "Under maritime pressure, the most valuable corridor is not necessarily the shortest route, but the route that can still operate."
   ],
@@ -284,7 +284,7 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "resource_type": "Publication series",
       "description": "EPINOVA Policy Brief Series"
@@ -301,39 +301,39 @@
       "identifier": "https://doi.org/10.5281/zenodo.19476666",
       "scheme": "DOI",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on Russia–Iran northern supply capacity and constrained throughput methodology"
+      "description": "Related EPINOVA policy brief on Russia鈥揑ran northern supply capacity and constrained throughput methodology"
     },
     {
       "relation": "References",
       "identifier": "https://publications.epinova.org/epinova-pb-2026-042/",
       "scheme": "URL",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on Iran’s ten-corridor logistics adaptation under blockade pressure"
+      "description": "Related EPINOVA policy brief on Iran鈥檚 ten-corridor logistics adaptation under blockade pressure"
     },
     {
       "relation": "References",
       "identifier": "https://publications.epinova.org/epinova-pb-2026-043/",
       "scheme": "URL",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on Pakistan’s 2026 third-country transit opening and southeastern bypass of Hormuz pressure"
+      "description": "Related EPINOVA policy brief on Pakistan鈥檚 2026 third-country transit opening and southeastern bypass of Hormuz pressure"
     },
     {
       "relation": "References",
       "identifier": "https://publications.epinova.org/epinova-pb-2026-045/",
       "scheme": "URL",
       "resource_type": "Policy Brief",
-      "description": "Related EPINOVA policy brief on China as a stabilizing network node in the U.S.–Israel–Iran conflict"
+      "description": "Related EPINOVA policy brief on China as a stabilizing network node in the U.S.鈥揑srael鈥揑ran conflict"
     }
   ],
   "references": [
-    "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
-    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure. Policy Brief No. EPINOVA–2026–PB–43. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict. Policy Brief No. EPINOVA–2026–PB–45. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+    "Wu, Shaoyuan. (2026). Russia鈥揑ran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?7. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran鈥檚 Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?2. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+    "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?3. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+    "Wu, Shaoyuan. (2026). China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.鈥揑srael鈥揑ran Conflict. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?5. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface. Policy Brief No. EPINOVA–2026–PB–46. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From Hormuz pressure to continental redundancy: China’s landward strategy across the Inner Eurasian Landward Interface. EPINOVA Policy Brief Series, EPINOVA-PB-2026-046. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), From Hormuz Pressure to Continental Redundancy, EPINOVA–2026–PB–46.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). From Hormuz Pressure to Continental Redundancy: China鈥檚 Landward Strategy across the Inner Eurasian Landward Interface. Policy Brief No. EPINOVA鈥?026鈥揚B鈥?6. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). From Hormuz pressure to continental redundancy: China鈥檚 landward strategy across the Inner Eurasian Landward Interface. EPINOVA Policy Brief Series, EPINOVA-PB-2026-046. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), From Hormuz Pressure to Continental Redundancy, EPINOVA鈥?026鈥揚B鈥?6.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -347,18 +347,18 @@
   "figures": [
     {
       "number": "Figure 1",
-      "title": "Inner Eurasian Landward Interface: China’s Layered Continental Redundancy Network",
-      "description": "Maps the Inner Eurasian Landward Interface as a functional strategic-geographic zone linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean port approaches. The figure identifies four route layers: northern China–Central Asia–Caspian–Iran, northeastern China–Central Asia–Turkmenistan–Iran, southeastern China–Pakistan–Iran, and reserve China–Wakhan–Afghanistan.",
-      "source": "Author’s reconstruction based on EPINOVA’s Russia–Iran northern supply-capacity assessment, Iran ten-corridor logistics framework, Pakistan transit-order analysis, and China risk-adjusted network-node assessment",
+      "title": "Inner Eurasian Landward Interface: China鈥檚 Layered Continental Redundancy Network",
+      "description": "Maps the Inner Eurasian Landward Interface as a functional strategic-geographic zone linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean port approaches. The figure identifies four route layers: northern China鈥揅entral Asia鈥揅aspian鈥揑ran, northeastern China鈥揅entral Asia鈥揟urkmenistan鈥揑ran, southeastern China鈥揚akistan鈥揑ran, and reserve China鈥揥akhan鈥揂fghanistan.",
+      "source": "Author鈥檚 reconstruction based on EPINOVA鈥檚 Russia鈥揑ran northern supply-capacity assessment, Iran ten-corridor logistics framework, Pakistan transit-order analysis, and China risk-adjusted network-node assessment",
       "note": "Analytical schematic, not a formal administrative map or operational routing guide. Boundaries, routes, and designations are approximate and do not imply recognition of territorial claims or official corridor status. Route layers represent functional connectivity logic rather than confirmed continuous high-capacity freight operations."
     }
   ],
   "tables": [
     {
       "number": "Table 1",
-      "title": "China’s Continental Redundancy Architecture across the Inner Eurasian Landward Interface",
-      "description": "Summarizes the four-layer architecture of China’s landward strategy: northern China–Central Asia–Caspian–Iran, northeastern China–Central Asia–Turkmenistan–Iran, southeastern China–Pakistan–Iran, and reserve China–Wakhan–Afghanistan layers, including route logic, main function, and strategic value.",
-      "source": "Author’s analytical framework based on prior EPINOVA assessments of Russia–Iran northern supply capacity, Iran’s ten-corridor logistics adaptation, Pakistan’s 2026 third-country transit opening, and China’s risk-adjusted network position under Hormuz pressure",
+      "title": "China鈥檚 Continental Redundancy Architecture across the Inner Eurasian Landward Interface",
+      "description": "Summarizes the four-layer architecture of China鈥檚 landward strategy: northern China鈥揅entral Asia鈥揅aspian鈥揑ran, northeastern China鈥揅entral Asia鈥揟urkmenistan鈥揑ran, southeastern China鈥揚akistan鈥揑ran, and reserve China鈥揥akhan鈥揂fghanistan layers, including route logic, main function, and strategic value.",
+      "source": "Author鈥檚 analytical framework based on prior EPINOVA assessments of Russia鈥揑ran northern supply capacity, Iran鈥檚 ten-corridor logistics adaptation, Pakistan鈥檚 2026 third-country transit opening, and China鈥檚 risk-adjusted network position under Hormuz pressure",
       "note": "Analytical architecture, not an official Chinese, Iranian, Pakistani, or Central Asian corridor classification. Layers should not be interpreted as equal in capacity, maturity, or political reliability."
     }
   ],
@@ -379,7 +379,7 @@
   "thesis": null,
   "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
   "metadata_source": {
-    "source_file": "From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf",
+    "source_file": "From Hormuz Pressure to Continental Redundancy China鈥檚 Landward Strategy across the Inner Eurasian Landward Interface.pdf",
     "source_type": "PDF",
     "extraction_method": "PDF text extraction, visual inspection of rendered page image for the map/table page, PDF embedded metadata extraction, and EPINOVA metadata schema reconciliation",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
@@ -391,8 +391,8 @@
   "pdf_metadata": {
     "title": "",
     "author": "SY Wu",
-    "creator": "Microsoft® PowerPoint® 2024",
-    "producer": "Microsoft® PowerPoint® 2024",
+    "creator": "Microsoft庐 PowerPoint庐 2024",
+    "producer": "Microsoft庐 PowerPoint庐 2024",
     "creation_date": "2026-05-09T05:46:45-04:00",
     "modification_date": "2026-05-09T05:46:45-04:00",
     "pages": 9

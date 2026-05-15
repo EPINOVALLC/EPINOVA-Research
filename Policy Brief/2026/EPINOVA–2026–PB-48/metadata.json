@@ -32,10 +32,10 @@
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-048/",
-  "official_page": "https://epinova.org/policy-brief-2",
+  "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "description": "Official EPINOVA publication page"
     },
@@ -314,7 +314,7 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://epinova.org/policy-brief-2",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "resource_type": "Publication series",
       "description": "EPINOVA Policy Brief Series"
