@@ -401,7 +401,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-13",
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-15",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodology note, CHVS conceptual framework, five-layer model, value-capture formula, evidence-boundary section, monitoring indicators, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {

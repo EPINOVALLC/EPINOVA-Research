@@ -427,7 +427,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-11",
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-15",
     "notes": "PDF supplied working paper number, title, author, ORCID, affiliation, date, abstract, keywords, A-Series information, recommended citation, DOI status, disclaimer, conceptual sections, table, figures, references, and conclusion. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {

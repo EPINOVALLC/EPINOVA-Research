@@ -138,6 +138,11 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-049** (2026-05-15)  
+  **Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition**  
+  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-49/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49)  
+  File: [`Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49/Signaling%20Without%20Settlement%20An%20Assessment%20of%20Trump%E2%80%99s%20Beijing%20Visit%20and%20the%20Politics%20of%20Managed%20U.S.%E2%80%93China%20Competition.pdf)
+
 - **EPINOVA-PB-2026-048** (2026-05-13)  
   **From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
@@ -157,11 +162,6 @@ After Crossref registration is completed, DOI fields and citation records will b
   **China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict**  
   Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
   File: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
-
-- **EPINOVA-PB-2026-044** (2026-04-29)  
-  **Caspian Logistics Shock: Monitoring Russia–Iran Supply Stress after the Anzali Strike: Visible Vessel Contraction, Port-Rhythm Inversion, and Window-Based Logistics in the Caspian Corridor**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-44/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44)  
-  File: [`Caspian Logistics Shock Monitoring Russia–Iran Supply Stress after the Anzali Strike.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-44/Caspian%20Logistics%20Shock%20Monitoring%20Russia%E2%80%93Iran%20Supply%20Stress%20after%20the%20Anzali%20Strike.pdf)
 
 ---
 
