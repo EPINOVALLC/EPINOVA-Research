@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18893892",
+  "doi": "https://doi.org/10.5281/zenodo.18893892",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18893892",
   "official_page": "",
@@ -280,14 +280,16 @@
     "Xinhua. (2026a, March 5). 《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要 [Summary of the draft outline of the Fifteenth Five-Year Plan for National Economic and Social Development of the People’s Republic of China]. 新华社. https://app.xinhuanet.com/news/article.html?articleId=be1e54f908da3777c06cd3b68f2a4e57",
     "Xinhua. (2026b, March 5). China’s top legislature opens annual session. Xinhua. https://english.news.cn/20260305/33ff72f90c8a4c989b1a86e4222bd478/c.html"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). The global strategic chain reactions of the U.S.–Iran war: East Asia as the next plausible capability-revealing theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18893892.",
+  "citation_apa": "Wu, S. (2026). The global strategic chain reactions of the U.S.–Iran war: East Asia as the next plausible capability-revealing theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892.",
   "short_citation": "Wu (2026), The Global Strategic Chain Reactions of the U.S.–Iran War.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-06",
-    "pagination": "9 pages"
+    "pagination": "9 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -309,18 +311,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, methodology note, conclusions, and references. Early metadata supplied DOI 10.5281/zenodo.18893891, ORCID put-code 207636372, and GitHub repository information. DOI discrepancy retained for reconciliation; PDF recommended citation DOI 10.5281/zenodo.18893892 is used as the main DOI."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18893892."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18893892",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. Crossref registration may be added later after membership approval.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18893892",
     "crossref_doi_suffix": "epinova.wp.f.2026.003",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -334,5 +337,9 @@
     "put_code": "207636372",
     "source": "ORCID Public API",
     "record_date": "2026-03-06"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "The Global Strategic Chain Reactions of the U.S.–Iran War: East Asia as the Next Plausible Capability-Revealing Theater"
   }
 }

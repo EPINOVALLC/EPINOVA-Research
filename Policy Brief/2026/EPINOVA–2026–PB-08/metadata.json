@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18843800",
+  "doi": "https://doi.org/10.5281/zenodo.18843800",
   "previous_doi": "10.5281/zenodo.18843799",
   "landing_page": "https://doi.org/10.5281/zenodo.18843800",
   "official_page": "",
@@ -315,14 +315,16 @@
       "url": ""
     }
   ],
-  "recommended_citation": "EPINOVA (2026), Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13), Policy Brief No. EPINOVA–2026–PB–08, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18843800. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Escalation risk in protracted missile exchanges: Assessing low-probability, high-impact dynamics in the U.S.–Israel–Iran conflict based on IRGC Operation True Promise 4 (Waves 1–13) (Policy Brief No. EPINOVA–2026–PB–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18843800. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "EPINOVA (2026), Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13), Policy Brief No. EPINOVA–2026–PB–08, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.18843800.",
+  "citation_apa": "Wu, S. (2026). Escalation risk in protracted missile exchanges: Assessing low-probability, high-impact dynamics in the U.S.–Israel–Iran conflict based on IRGC Operation True Promise 4 (Waves 1–13) (Policy Brief No. EPINOVA–2026–PB–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18843800.",
   "short_citation": "EPINOVA (2026), Escalation Risk in Protracted Missile Exchanges, EPINOVA–2026–PB–08.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-03",
-    "pagination": "6 pages"
+    "pagination": "6 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -359,18 +361,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key findings, operational assessment, cost figures, methodological note, escalation scenarios, threshold indicators, policy considerations, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18843799, ORCID put-code 207209462, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18843800 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18843800."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18843800",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18843800",
     "crossref_doi_suffix": "epinova.pb.2026.008",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -384,5 +387,9 @@
     "put_code": "207209462",
     "source": "ORCID Public API",
     "record_date": "2026-03-03"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Escalation Risk in Protracted Missile Exchanges: Assessing Low-Probability, High-Impact Dynamics in the U.S.–Israel–Iran Conflict Based on IRGC Operation True Promise 4 (Waves 1–13)"
   }
 }

@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18252768",
+  "doi": "https://doi.org/10.5281/zenodo.18252768",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18252768",
   "official_page": "",
@@ -312,14 +312,16 @@
     "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
     "Snyder, G. H. (1961). Deterrence and defense: Toward a theory of national security. Princeton University Press."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18252768.",
+  "citation_apa": "Wu, S. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768.",
   "short_citation": "Wu (2026), When Decapitation No Longer Matters.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-01-15",
-    "pagination": "18 pages"
+    "pagination": "18 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [
@@ -349,18 +351,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied the title, working paper number, author, ORCID, affiliation, publication date, abstract, keywords, F-Series statement, recommended citation, Table 1, disclaimer, and references. Early metadata supplied ORCID put-code 202494938, GitHub repository information, and DOI 10.5281/zenodo.18252767. The PDF recommended citation lists 10.5281/zenodo.18252768; this record uses the PDF DOI as primary and retains the early DOI as an alternate identifier for reconciliation."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18252768."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18252768",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. The recommended citation states that Crossref DOI is to be assigned after Crossref membership approval.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18252768",
     "crossref_doi_suffix": "epinova.wp.f.2026.001",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -375,5 +378,9 @@
     "source": "ORCID Public API",
     "record_date": "2026-01-15",
     "doi_in_early_metadata": "10.5281/zenodo.18252767"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic"
   }
 }

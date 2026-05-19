@@ -25,7 +25,7 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
@@ -336,10 +336,11 @@
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
     "edition": "v1.0",
     "date": "2026-05-07",
-    "pagination": "7 pages"
+    "pagination": "7 pages",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -374,11 +375,11 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-07",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, domain-level benefit-risk assessment, policy implications, limitations, conclusion, recommended citation, DOI status, disclaimer, and Figure 1. Reference metadata supplied the target EPINOVA schema, repository structure, license convention, Crossref/DataCite placeholders, and creator identity conventions. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {
-    "title": "",
+    "title": "China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict",
     "author": "SY Wu",
     "creator": "Microsoft® PowerPoint® 2024",
     "producer": "Microsoft® PowerPoint® 2024",
@@ -411,5 +412,6 @@
     "put_code": "",
     "source": "",
     "record_date": ""
-  }
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center"
 }

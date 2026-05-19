@@ -25,7 +25,7 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
@@ -348,10 +348,11 @@
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
     "edition": "v1.0",
     "date": "2026-05-12",
-    "pagination": "10 pages"
+    "pagination": "10 pages",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -429,11 +430,11 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-12",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, event timeline, CLRI framework, CLRI score, figures, tables, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {
-    "title": "",
+    "title": "Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes",
     "author": "SY Wu",
     "creator": "Microsoft® PowerPoint® 2024",
     "producer": "Microsoft® PowerPoint® 2024",
@@ -466,5 +467,6 @@
     "put_code": "",
     "source": "",
     "record_date": ""
-  }
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center"
 }

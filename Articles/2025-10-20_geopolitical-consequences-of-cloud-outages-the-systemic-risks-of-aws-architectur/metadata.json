@@ -17,7 +17,7 @@
   "version": "v1.0",
   "status": "Archived from EPINOVA GoDaddy blog",
   "language": "en",
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "place": "Carrollton, Georgia, United States",
   "doi": "To be assigned after Crossref registration",
   "previous_doi": "",
@@ -79,12 +79,18 @@
     "crossref_url": "https://publications.epinova.org/epinova-art-2025-geopolitical-consequences-of-cloud-outag/",
     "crossref_doi_suffix": "epinova.art.2025.geopolitical.consequences.of.cloud.outag",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "journal-article"
   },
   "metadata_source": {
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2025-10-20",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. DOI remains pending."
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Geopolitical Consequences of Cloud Outages:"
   }
 }

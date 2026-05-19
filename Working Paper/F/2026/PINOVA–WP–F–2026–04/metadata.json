@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18903880",
+  "doi": "https://doi.org/10.5281/zenodo.18903880",
   "previous_doi": "10.5281/zenodo.18903879",
   "landing_page": "https://doi.org/10.5281/zenodo.18903880",
   "official_page": "",
@@ -310,14 +310,16 @@
     "U.S. Department of Defense. (2026a, March 2). Hegseth says ‘Epic Fury’ goals in Iran are ‘laser-focused.’ https://www.defense.gov/News/News-Stories/Article/Article/4418826/hegseth-says-epic-fury-goals-in-iran-are-laser-focused/",
     "U.S. Department of Defense. (2026b, March 4). DOD identifies Army casualty. https://www.defense.gov/News/Releases/Release/Article/4421430/dod-identifies-army-casualty/"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18903880.",
+  "citation_apa": "Wu, S. (2026). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880.",
   "short_citation": "Wu (2026), Losing the Narrative, EPINOVA Working Paper F–2026–04.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-07",
-    "pagination": "8 pages"
+    "pagination": "8 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -362,18 +364,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, disclaimer, Table 1, Figure 1, Figure 2, conclusion, and references. Early metadata supplied DOI 10.5281/zenodo.18903879, ORCID put-code 207711774, and GitHub repository information. PDF recommended citation lists DOI 10.5281/zenodo.18903880, which is used as the primary DOI in this metadata record."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18903880."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18903880",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. Crossref DOI remains pending if later registered separately.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18903880",
     "crossref_doi_suffix": "epinova.wp.f.2026.004",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -387,5 +390,9 @@
     "put_code": "207711774",
     "source": "ORCID Public API",
     "record_date": "2026-03-07"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War"
   }
 }

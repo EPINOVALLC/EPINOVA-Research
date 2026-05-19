@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2025 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18063602",
+  "doi": "https://doi.org/10.5281/zenodo.18063602",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18063602",
   "official_page": "",
@@ -252,14 +252,16 @@
   "references": [
     "White House. (2025). National Security Strategy of the United States of America (November 2025). Washington, DC."
   ],
-  "recommended_citation": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (EPINOVA-2025-02-PB). EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance. Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18063602. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (Policy Brief No. EPINOVA-2025-02-PB). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18063602. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (EPINOVA-2025-02-PB). EPINOVA Policy Brief Series on AI-Enabled Warfare, Sustainability, and Global Security Governance. Global AI Governance Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18063602.",
+  "citation_apa": "Wu, S.-Y. (2025). Artificial intelligence as national power: Implications of the 2025 U.S. National Security Strategy (Policy Brief No. EPINOVA-2025-02-PB). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18063602.",
   "short_citation": "Wu (2025), Artificial Intelligence as National Power, EPINOVA-2025-02-PB.",
   "imprint": {
     "institution": "Global AI Governance Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2025-12-26",
-    "pagination": "3 pages"
+    "pagination": "3 pages",
+    "publisher": "Global AI Governance Research Center, EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -281,18 +283,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, policy brief number, author, affiliation, date, series information, recommended citation, DOI, key findings, analytical sections, disclaimer, reference, and page count. Early metadata supplied DOI 10.5281/zenodo.18063602, ORCID put-code 201017536, GitHub PDF URL, and repository information."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18063602."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18063602",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18063602",
     "crossref_doi_suffix": "epinova.pb.2025.002",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -306,5 +309,8 @@
     "put_code": "201017536",
     "source": "ORCID Public API",
     "record_date": "2025-12-26"
+  },
+  "pdf_metadata": {
+    "title": "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy"
   }
 }

@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19665929",
+  "doi": "https://doi.org/10.5281/zenodo.19665929",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.19665929",
   "official_page": "",
@@ -258,14 +258,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–36, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19665929. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–36). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19665929. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Who Is Ready Under Renewed Conflict? A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–36, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19665929.",
+  "citation_apa": "Wu, S. (2026). Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–36). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19665929.",
   "short_citation": "Wu (2026), Who Is Ready Under Renewed Conflict?, EPINOVA–2026–PB–36.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-20",
-    "pagination": "6 pages"
+    "pagination": "6 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -305,18 +307,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied the policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical framework, capability and sustainability rankings, figure, table, limitations, conclusion, recommended citation, DOI, and disclaimer. Early metadata supplied DOI capitalization, ORCID put-code 212275412, GitHub PDF URL, repository folder, repository URL, and original report/category labels. The record has been normalized to the EPINOVA policy-brief schema; the Zenodo/DataCite DOI is used as the primary DOI."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19665929."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19665929",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19665929",
     "crossref_doi_suffix": "epinova.pb.2026.036",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -330,5 +333,9 @@
     "put_code": "212275412",
     "source": "ORCID Public API",
     "record_date": "2026-04-20"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Who Is Ready Under Renewed Conflict?: A Capability–Sustainability Assessment of the U.S.–Israel–Iran Conflict"
   }
 }

@@ -28,11 +28,11 @@
   ],
   "author": "Wu, Shaoyuan",
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2025 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18089642",
+  "doi": "https://doi.org/10.5281/zenodo.18089642",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18089642",
   "official_page": "https://doi.org/10.5281/zenodo.18089642",
@@ -257,13 +257,15 @@
     "United Nations Convention on Certain Conventional Weapons. (2021). Report of the Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems (LAWS). United Nations Office at Geneva.",
     "Wong, W., & Scharre, P. (2023). The speed of war: Stability, decision time, and technological acceleration in military conflict. Center for a New American Security (CNAS)."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2025). Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18089642. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2025). Strategic discontinuity in AI-enabled warfare: Machine-speed vs human-speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18089642. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2025). Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18089642.",
+  "citation_apa": "Wu, S. (2025). Strategic discontinuity in AI-enabled warfare: Machine-speed vs human-speed OODA. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18089642.",
   "short_citation": "Wu (2025), Strategic Discontinuity in AI-Enabled Warfare.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
-    "date": "2025-12-12"
+    "date": "2025-12-12",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "funding": {
     "statement": "No external funding information is provided in the PDF."
@@ -283,18 +285,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, author, ORCID, affiliation, publication date, abstract, table, case studies, governance framework, conclusion, and references. Early metadata supplied DOI, ORCID put-code, repository URL, repository folder, and GitHub PDF URL."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18089642."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18089642",
     "deposit_ready": false,
     "notes": "No Crossref DOI information is provided. Zenodo DOI is treated as DataCite DOI.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18089642",
     "crossref_doi_suffix": "epinova.wp.f.2025.003.strategic.discontinuity.ai.warfare",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -303,5 +306,9 @@
     "resource_type_general": "Text",
     "resource_type": "Working Paper",
     "notes": "DOI is supplied by the early ORCID-derived metadata record and points to a Zenodo/DataCite DOI."
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Strategic Discontinuity in AI-Enabled Warfare: Machine-Speed vs Human-Speed OODA"
   }
 }

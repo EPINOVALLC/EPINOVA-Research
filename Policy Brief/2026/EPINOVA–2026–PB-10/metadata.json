@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18894858",
+  "doi": "https://doi.org/10.5281/zenodo.18894858",
   "previous_doi": "10.5281/zenodo.18894857",
   "landing_page": "https://doi.org/10.5281/zenodo.18894858",
   "official_page": "",
@@ -277,14 +277,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific, Policy Brief No. EPINOVA–2026–PB–10, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18894858. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific, Policy Brief No. EPINOVA–2026–PB–10, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.18894858.",
+  "citation_apa": "Wu, S. (2026). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858.",
   "short_citation": "Wu (2026), The U.S.–Iran War and East Asia’s Next Strategic Test, EPINOVA–2026–PB–10.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-06",
-    "pagination": "3 pages"
+    "pagination": "3 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -306,18 +308,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, executive summary, key judgments, policy implications, watch indicators, bottom line, recommended citation, DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18894857, ORCID put-code 207645361, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.18894858 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18894858."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18894858",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18894858",
     "crossref_doi_suffix": "epinova.pb.2026.010",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -331,5 +334,9 @@
     "put_code": "207645361",
     "source": "ORCID Public API",
     "record_date": "2026-03-06"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "The U.S.–Iran War and East Asia’s Next Strategic Test: Why the Middle East Conflict May Reshape Risk in the Western Pacific"
   }
 }

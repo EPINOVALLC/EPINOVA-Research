@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19138942",
+  "doi": "https://doi.org/10.5281/zenodo.19138942",
   "previous_doi": "10.5281/zenodo.19104089",
   "landing_page": "https://doi.org/10.5281/zenodo.19138942",
   "official_page": "",
@@ -295,14 +295,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold, Policy Brief No. EPINOVA–2026–PB–15, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19138942. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Seizing Kharg Island: U.S. operational superiority and the risk of crossing the loss-of-control threshold (Policy Brief No. EPINOVA–2026–PB–15). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19138942. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold, Policy Brief No. EPINOVA–2026–PB–15, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19138942.",
+  "citation_apa": "Wu, S. (2026). Seizing Kharg Island: U.S. operational superiority and the risk of crossing the loss-of-control threshold (Policy Brief No. EPINOVA–2026–PB–15). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19138942.",
   "short_citation": "Wu (2026), Seizing Kharg Island, EPINOVA–2026–PB–15.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-20",
-    "pagination": "5 pages"
+    "pagination": "5 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -324,18 +326,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, publication date, key judgments, executive summary, strategic problem, U.S. and Iranian military-position assessments, domain-by-domain assessment, strategic options, scenario-based cost and loss estimates, distribution of burden, policy implications, conclusion, recommended citation, primary DOI, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19138941, ORCID put-code 209147270, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19138942 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The PDF title uses 'Kharg Island'; the source filename and GitHub URL use 'Tarik Island'."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19138942."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19138942",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19138942",
     "crossref_doi_suffix": "epinova.pb.2026.015",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -349,5 +352,9 @@
     "put_code": "208929218",
     "source": "ORCID Public API",
     "record_date": "2026-03-20"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Seizing Kharg Island: U.S. Operational Superiority and the Risk of Crossing the Loss-of-Control Threshold"
   }
 }

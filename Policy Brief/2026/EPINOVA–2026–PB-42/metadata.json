@@ -25,7 +25,7 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
@@ -400,7 +400,9 @@
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-28",
-    "pagination": "10 pages"
+    "pagination": "10 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -472,11 +474,11 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-28",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, ten-corridor reconstruction, three-layer logistics model, figures, tables, policy implications, limitations, conclusion, recommended citation, and disclaimer. Early metadata supplied official page URL, GitHub PDF URL, repository folder, repository URL, CC-BY license metadata, related works, references, and Crossref/DataCite placeholders. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
   },
   "pdf_metadata": {
-    "title": "",
+    "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply",
     "author": "SY Wu",
     "creator": "Microsoft® PowerPoint® 2024",
     "producer": "Microsoft® PowerPoint® 2024",
@@ -509,5 +511,6 @@
     "put_code": "",
     "source": "",
     "record_date": ""
-  }
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center"
 }

@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19432715",
+  "doi": "https://doi.org/10.5281/zenodo.19432715",
   "previous_doi": "10.5281/zenodo.19420590",
   "landing_page": "https://doi.org/10.5281/zenodo.19432715",
   "official_page": "",
@@ -274,14 +274,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield, Policy Brief No. EPINOVA–2026–PB–24, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19432715. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). What cannot be recovered cannot be leveraged: Debris, evidence, and power in the Iran battlefield (Policy Brief No. EPINOVA–2026–PB–24). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19432715. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield, Policy Brief No. EPINOVA–2026–PB–24, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19432715.",
+  "citation_apa": "Wu, S. (2026). What cannot be recovered cannot be leveraged: Debris, evidence, and power in the Iran battlefield (Policy Brief No. EPINOVA–2026–PB–24). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19432715.",
   "short_citation": "Wu (2026), What Cannot Be Recovered Cannot Be Leveraged, EPINOVA–2026–PB–24.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-05",
-    "pagination": "9 pages"
+    "pagination": "9 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -334,18 +336,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, executive summary, conceptual framework, Recoverability Constraint, Debris-to-Evidence Conversion, Evidence-to-Power Conversion, Debris-to-Leverage Conversion, Visibility Gap, Startline Asymmetry, Leverage Inversion, strategic implications, limitations, recommended citation, DOI, tables, figure, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19432714, ORCID put-code 210780239, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19432715 is used as the primary DOI; the early DOI is retained as previous_doi for reconciliation. The PDF date is April 05, 2026; the early ORCID-derived metadata date is April 06, 2026 and is retained separately."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19432715."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19432715",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19432715",
     "crossref_doi_suffix": "epinova.pb.2026.024",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -359,5 +362,9 @@
     "put_code": "210720887",
     "source": "ORCID Public API",
     "record_date": "2026-04-04"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "What Cannot Be Recovered Cannot Be Leveraged: Debris, Evidence, and Power in the Iran Battlefield"
   }
 }

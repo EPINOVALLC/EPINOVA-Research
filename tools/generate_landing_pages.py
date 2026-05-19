@@ -1013,7 +1013,7 @@ def search_index_records(records: list[dict]) -> list[dict]:
 
 
 def render_search_page(records: list[dict]) -> str:
-    search_data = json.dumps(search_index_records(records), ensure_ascii=False).replace("</", "<\/")
+    search_data = json.dumps(search_index_records(records), ensure_ascii=False).replace("</", "<\\/")
 
     body = f"""
 <main class="container">
@@ -1060,7 +1060,7 @@ def render_search_page(records: list[dict]) -> str:
         return;
       }}
 
-      const terms = query.split(/\s+/).filter(Boolean);
+      const terms = query.split(/\\s+/).filter(Boolean);
       const matches = SEARCH_DATA.filter(item =>
         terms.every(term => item.search_text.includes(term))
       );

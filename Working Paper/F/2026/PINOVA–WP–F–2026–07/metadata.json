@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19078936",
+  "doi": "https://doi.org/10.5281/zenodo.19078936",
   "previous_doi": "10.5281/zenodo.19078935",
   "landing_page": "https://doi.org/10.5281/zenodo.19078936",
   "official_page": "",
@@ -464,14 +464,16 @@
     "Wu, S. (2026a). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (v1.0). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
     "Wu, S. (2026b). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19078936.",
+  "citation_apa": "Wu, S. (2026). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936.",
   "short_citation": "Wu (2026), Systemic Warfare in the Networked Age, EPINOVA Working Paper F–2026–07.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-17",
-    "pagination": "19 pages"
+    "pagination": "19 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -536,18 +538,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation DOI 10.5281/zenodo.19078936, formulas, figures, table, disclaimer, methodology content, and references. Early metadata supplied DOI 10.5281/zenodo.19078935, ORCID put-code 208799838, and GitHub repository information."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19078936."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19078936",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. The PDF includes a note that Crossref DOI is to be assigned after Crossref membership approval.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19078936",
     "crossref_doi_suffix": "epinova.wp.f.2026.007",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -561,5 +564,9 @@
     "put_code": "208799838",
     "source": "ORCID Public API",
     "record_date": "2026-03-17"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure"
   }
 }

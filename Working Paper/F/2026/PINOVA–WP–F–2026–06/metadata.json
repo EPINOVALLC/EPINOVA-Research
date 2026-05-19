@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18972327",
+  "doi": "https://doi.org/10.5281/zenodo.18972327",
   "previous_doi": "10.5281/zenodo.18972326",
   "landing_page": "https://doi.org/10.5281/zenodo.18972327",
   "official_page": "",
@@ -315,14 +315,16 @@
     "Wu, S.-Y. (2026a). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran war (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880",
     "Wu, S.-Y. (2026b). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18972327.",
+  "citation_apa": "Wu, S. (2026). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327.",
   "short_citation": "Wu (2026), Industrial War and Network War, EPINOVA Working Paper F–2026–06.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-11",
-    "pagination": "8 pages"
+    "pagination": "8 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -373,18 +375,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, EPINOVA working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, figures, tables, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.18972326, ORCID put-code 208188264, and GitHub repository information. PDF recommended citation shows DOI 10.5281/zenodo.18972327 and is treated as the main DOI."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18972327."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18972327",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. PDF includes statement 'DOI: To be assigned after Crossref membership approval' in citation-style metadata.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18972327",
     "crossref_doi_suffix": "epinova.wp.f.2026.006",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -398,5 +401,9 @@
     "put_code": "208188264",
     "source": "ORCID Public API",
     "record_date": "2026-03-11"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict"
   }
 }

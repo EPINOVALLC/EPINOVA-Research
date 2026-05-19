@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19632808",
+  "doi": "https://doi.org/10.5281/zenodo.19632808",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.19632808",
   "official_page": "",
@@ -267,14 +267,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis, Policy Brief No. EPINOVA–2026–PB–33, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19632808. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From beneficiary to burden carrier: China’s structural exposure in the Strait of Hormuz crisis (Policy Brief No. EPINOVA–2026–PB–33). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis, Policy Brief No. EPINOVA–2026–PB–33, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19632808.",
+  "citation_apa": "Wu, S. (2026). From beneficiary to burden carrier: China’s structural exposure in the Strait of Hormuz crisis (Policy Brief No. EPINOVA–2026–PB–33). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808.",
   "short_citation": "Wu (2026), From Beneficiary to Burden Carrier, EPINOVA–2026–PB–33.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-17",
-    "pagination": "6 pages"
+    "pagination": "6 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [
@@ -303,18 +305,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, policy brief number, author, affiliation, date, key judgments, why-this-matters statement, executive summary, analytical sections, policy implications, limitations, conclusion, table information, recommended citation, DOI, series information, and disclaimer. Early metadata supplied ORCID put-code 212033596, GitHub PDF URL, repository folder, repository URL, and ORCID-derived source fields. DOI normalization changed 10.5281/ZENODO.19632808 to 10.5281/zenodo.19632808."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19632808."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19632808",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19632808",
     "crossref_doi_suffix": "epinova.pb.2026.033",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -328,5 +331,9 @@
     "put_code": "212033596",
     "source": "ORCID Public API",
     "record_date": "2026-04-17"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "From Beneficiary to Burden Carrier: China’s Structural Exposure in the Strait of Hormuz Crisis"
   }
 }

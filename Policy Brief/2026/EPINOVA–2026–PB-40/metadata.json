@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19712135",
+  "doi": "https://doi.org/10.5281/zenodo.19712135",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.19712135",
   "official_page": "",
@@ -280,14 +280,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance, Policy Brief No. EPINOVA–2026–PB–40, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19712135. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Dynamic threshold positioning in U.S.–China competition: A phase-resolved assessment of structural resilience and LoCT distance (Policy Brief No. EPINOVA–2026–PB–40). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19712135. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance, Policy Brief No. EPINOVA–2026–PB–40, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19712135.",
+  "citation_apa": "Wu, S. (2026). Dynamic threshold positioning in U.S.–China competition: A phase-resolved assessment of structural resilience and LoCT distance (Policy Brief No. EPINOVA–2026–PB–40). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19712135.",
   "short_citation": "Wu (2026), Dynamic Threshold Positioning in U.S.–China Competition, EPINOVA–2026–PB–40.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-23",
-    "pagination": "5 pages"
+    "pagination": "5 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -361,18 +363,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, LoCT distance framework, MCCM model expression, U.S. and China trajectory analysis, policy implications, limitations, recommended citation, DOI, Figure 1, Figure 2, and disclaimer. Early metadata supplied DOI, ORCID put-code 212688561, GitHub PDF URL, repository folder, and repository URL. DOI 10.5281/zenodo.19712135 is used as the primary Zenodo/DataCite DOI."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19712135."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19712135",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19712135",
     "crossref_doi_suffix": "epinova.pb.2026.040",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -386,5 +389,9 @@
     "put_code": "212688561",
     "source": "ORCID Public API",
     "record_date": "2026-04-23"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Dynamic Threshold Positioning in U.S.–China Competition: A Phase-Resolved Assessment of Structural Resilience and LoCT Distance"
   }
 }

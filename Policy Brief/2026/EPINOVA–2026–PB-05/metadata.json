@@ -23,11 +23,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18654021",
+  "doi": "https://doi.org/10.5281/zenodo.18654021",
   "previous_doi": "10.5281/zenodo.18654020",
   "landing_page": "https://doi.org/10.5281/zenodo.18654021",
   "official_page": "",
@@ -117,7 +117,8 @@
       "filename": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-05/The%20Fiscal%20Implications%20of%20Recent%20U.S.%20Force%20Posture%20Adjustments%20in%20the%20Middle%20East.pdf",
       "content_type": "application/pdf",
-      "description": "Full-text PDF of the publication"
+      "description": "Full-text PDF of the publication",
+      "format": "application/pdf"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
@@ -250,13 +251,15 @@
     }
   ],
   "references": [],
-  "recommended_citation": "EPINOVA (2026), The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026), Policy Brief No. EPINOVA–2026–PB–05, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.18654021. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S.-Y. (2026). The fiscal implications of recent U.S. force posture adjustments in the Middle East: An event-driven estimate (Jan 26-Feb 15, 2026) (Policy Brief No. EPINOVA–2026–PB–05). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654021. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "EPINOVA (2026), The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026), Policy Brief No. EPINOVA–2026–PB–05, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.18654021.",
+  "citation_apa": "Wu, S.-Y. (2026). The fiscal implications of recent U.S. force posture adjustments in the Middle East: An event-driven estimate (Jan 26-Feb 15, 2026) (Policy Brief No. EPINOVA–2026–PB–05). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654021.",
   "short_citation": "Wu (2026), The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East, EPINOVA–2026–PB–05.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
-    "year": "2026"
+    "year": "2026",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -301,19 +304,21 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records; updated using the publication PDF and early ORCID-derived metadata record.",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "pdf_used": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East.pdf",
-    "early_metadata_used": "metadata.json"
+    "early_metadata_used": "metadata.json",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18654021."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18654021",
     "deposit_ready": false,
     "notes": "Crossref registration pending. After Crossref registration, EPINOVA publication landing pages are intended to serve as the primary DOI resolution interface.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18654021",
     "crossref_doi_suffix": "epinova.pb.2026.005",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -328,5 +333,9 @@
     "source": "ORCID Public API",
     "record_date": "2026-02-16",
     "notes": "Early ORCID-derived metadata lists DOI 10.5281/zenodo.18654020; PDF lists DOI 10.5281/zenodo.18654021."
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "The Fiscal Implications of Recent U.S. Force Posture Adjustments in the Middle East: An Event-Driven Estimate (Jan 26 – Feb 15, 2026)"
   }
 }

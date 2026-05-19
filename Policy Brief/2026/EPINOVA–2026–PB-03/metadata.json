@@ -23,11 +23,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18454250",
+  "doi": "https://doi.org/10.5281/zenodo.18454250",
   "previous_doi": "10.5281/zenodo.18454249",
   "landing_page": "https://doi.org/10.5281/zenodo.18454250",
   "official_page": "",
@@ -139,7 +139,8 @@
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-03/Managing%20Structural%20Exposure%20in%20the%20Arctic.pdf",
       "content_type": "application/pdf",
       "description": "Full-text PDF of the publication",
-      "pages": 4
+      "pages": 4,
+      "format": "application/pdf"
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
@@ -269,15 +270,17 @@
     }
   ],
   "references": [],
-  "recommended_citation": "EPINOVA. (2026). Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction. Policy Brief No. EPINOVA–2026–PB–03. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18454250. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "EPINOVA. (2026). Managing structural exposure in the Arctic: Greenland as an AI-strategic node in great-power interaction (Policy Brief No. EPINOVA–2026–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18454250. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "EPINOVA. (2026). Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction. Policy Brief No. EPINOVA–2026–PB–03. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18454250.",
+  "citation_apa": "EPINOVA. (2026). Managing structural exposure in the Arctic: Greenland as an AI-strategic node in great-power interaction (Policy Brief No. EPINOVA–2026–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18454250.",
   "short_citation": "EPINOVA (2026), Managing Structural Exposure in the Arctic, EPINOVA–2026–PB–03.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
     "edition": "v1.0",
-    "pagination": "4 pages"
+    "pagination": "4 pages",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [
@@ -341,8 +344,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, publication number, author, affiliation, date, executive summary, AI-SNI framework, Track-2 analytical scope, Tier 3 interpretation, governance trajectories, recommended citation, DOI 10.5281/zenodo.18454250, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.18454249, ORCID put-code 204381118, and GitHub repository information."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18454250."
   },
   "crossref": {
     "intended_registration_agency": "Crossref",
@@ -350,7 +353,10 @@
     "crossref_url": "https://doi.org/10.5281/zenodo.18454250",
     "crossref_doi_suffix": "epinova.pb.2026.003",
     "registration_status": "Pending",
-    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite unless later registered with Crossref."
+    "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite unless later registered with Crossref.",
+    "doi": "10.5281/zenodo.18454250",
+    "deposit_ready": true,
+    "status": "assigned_pending_deposit"
   },
   "datacite": {
     "status": "registered",
@@ -365,5 +371,9 @@
     "put_code": "204381118",
     "source": "ORCID Public API",
     "record_date": "2026-02-02"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Managing Structural Exposure in the Arctic: Greenland as an AI-Strategic Node in Great-Power Interaction"
   }
 }

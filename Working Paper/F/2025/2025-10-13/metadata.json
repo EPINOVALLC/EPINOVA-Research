@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2025 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18095271",
+  "doi": "https://doi.org/10.5281/zenodo.18095271",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18095271",
   "official_page": "https://doi.org/10.5281/zenodo.18095271",
@@ -217,13 +217,15 @@
     "Sullivan, P. L. (2012). War aims and war outcomes: Why powerful states lose limited wars. Journal of Conflict Resolution, 56(3), 496–524. https://doi.org/10.1177/0022002712445730",
     "Watts, B. D. (2004). Six decades of guided munitions and battle networks. Center for Strategic and Budgetary Assessments."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18095271. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18095271. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18095271.",
+  "citation_apa": "Wu, S. (2025). Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18095271.",
   "short_citation": "Wu (2025), Gray-Zone Maritime Rights-Protection Strategy.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -250,11 +252,11 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "source_file": "Gray-Zone Maritime Rights-Protection Strategy.pdf",
     "source_type": "PDF + earliest ORCID-derived metadata record",
     "extraction_method": "PDF text and visual inspection, supplemented by the earliest metadata record supplied by the user",
-    "notes": "Latest PDF-derived metadata was updated with the earliest record's Zenodo DOI, ORCID put-code, repository URL, repository folder, and downloadable PDF URL. References and framework fields remain populated from the PDF."
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18095271."
   },
   "crossref": {
     "status": "not_registered",
@@ -264,7 +266,8 @@
     "crossref_url": "https://doi.org/10.5281/zenodo.18095271",
     "crossref_doi_suffix": "epinova.wp.2025.001.gray.zone.maritime.cdf",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -275,5 +278,9 @@
     "notes": "Zenodo DOI recovered from the earliest ORCID-derived metadata record supplied by the user."
   },
   "put_code": "201033348",
-  "source": "ORCID Public API"
+  "source": "ORCID Public API",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal"
+  }
 }

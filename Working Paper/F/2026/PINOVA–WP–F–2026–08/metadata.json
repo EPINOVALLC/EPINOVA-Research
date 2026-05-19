@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19118195",
+  "doi": "https://doi.org/10.5281/zenodo.19118195",
   "previous_doi": "10.5281/zenodo.19118194",
   "landing_page": "https://doi.org/10.5281/zenodo.19118195",
   "official_page": "",
@@ -287,14 +287,16 @@
     "Wu, S. (2026c). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188",
     "Wu, S. (2026d). Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict? (Policy Brief No. EPINOVA–2026–PB–14). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19104090"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19118195.",
+  "citation_apa": "Wu, S. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195.",
   "short_citation": "Wu (2026), Who Loses Control First?, EPINOVA Working Paper F–2026–08.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-03-19",
-    "pagination": "5 pages"
+    "pagination": "5 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [
@@ -324,18 +326,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, working paper number, author, ORCID, affiliation, date, abstract, keywords, F-Series information, recommended citation, Table 1, disclaimer, and references. Early metadata supplied DOI 10.5281/zenodo.19118194, ORCID put-code 209031462, and GitHub repository information. PDF recommended citation supplied DOI 10.5281/zenodo.19118195, which is used as the primary DOI in this record."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19118195."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19118195",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite. PDF recommended citation DOI is used as the primary DOI.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19118195",
     "crossref_doi_suffix": "epinova.wp.f.2026.008",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -349,5 +352,9 @@
     "put_code": "209031462",
     "source": "ORCID Public API",
     "record_date": "2026-03-19"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Who Loses Control First?: Threshold Competition in the 2026 U.S.–Israel–Iran Conflict"
   }
 }

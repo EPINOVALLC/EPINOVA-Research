@@ -25,7 +25,7 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
@@ -359,7 +359,9 @@
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-25",
-    "pagination": "7 pages"
+    "pagination": "7 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -529,7 +531,7 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-18",
     "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, EESI formula, table and figure titles, policy implications, limitations, conclusion, recommended citation, and disclaimer. Earlier metadata supplied prior Zenodo DOI 10.5281/zenodo.19770272, EPINOVA landing page, official page, repository URLs, and reference list. The PDF states that the DOI is to be assigned after Crossref membership approval; therefore no primary DOI is set and the prior Zenodo DOI is retained as previous_doi and alternate identifier for reconciliation."
   },
   "crossref": {
@@ -540,7 +542,8 @@
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-041/",
     "crossref_doi_suffix": "epinova.pb.2026.041",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "previous_or_reserved",
@@ -554,5 +557,9 @@
     "put_code": "",
     "source": "",
     "record_date": ""
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict"
   }
 }

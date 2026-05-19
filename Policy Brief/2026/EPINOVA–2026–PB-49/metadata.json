@@ -25,17 +25,17 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
-  "publisher_short": "EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.049",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-049/",
   "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
-      "identifier": "https://publications.epinova.org/epinova-pb-2026-049/",
+      "identifier": "https://epinova.org/policy-brief-1",
       "scheme": "URL",
       "description": "Official EPINOVA publication page"
     },
@@ -112,9 +112,9 @@
       "description": "Date displayed on the title page"
     },
     {
-      "date": "2026-05-15",
+      "date": "2026-05-18",
       "date_type": "Metadata updated",
-      "description": "Metadata updated to latest EPINOVA schema"
+      "description": "Metadata updated after Crossref membership approval and DOI assignment under EPINOVA LLC prefix 10.67037"
     }
   ],
   "license": {
@@ -256,7 +256,7 @@
   ],
   "watchpoints": [
     {
-      "timeframe": "1” weeks",
+      "timeframe": "1–2 weeks",
       "indicator": "Joint or departmental follow-up documents",
       "analytical_purpose": "Shows whether broad summit language becomes codified."
     },
@@ -266,7 +266,7 @@
       "analytical_purpose": "Clarifies whether the 200-aircraft announcement is binding."
     },
     {
-      "timeframe": "30–90 days",
+      "timeframe": "30–60 days",
       "indicator": "Chinese buyer allocation for Boeing aircraft",
       "analytical_purpose": "Tests commercial execution."
     },
@@ -353,7 +353,7 @@
     }
   ],
   "references": [
-    "Cao, E., & Jackson, L. (2026, May 14). US’s Bessent says soybeans “all taken care of,”cooling expectations for fresh Chinese buying. Reuters. https://www.reuters.com/world/us/uss-bessent-says-soybeans-all-taken-care-of-cooling-expectations-fresh-chinese-2026-05-14/",
+    "Cao, E., & Jackson, L. (2026, May 14). US’s Bessent says soybeans “all taken care of,” cooling expectations for fresh Chinese buying. Reuters. https://www.reuters.com/world/us/uss-bessent-says-soybeans-all-taken-care-of-cooling-expectations-fresh-chinese-2026-05-14/",
     "Cao, E., Polansek, T., Zhang, D., & Jackson, L. (2026, May 8). US beef producers hope China access is on Trump-Xi summit menu. Reuters. https://www.reuters.com/world/china/us-beef-producers-hope-china-access-is-trump-xi-summit-menu-2026-05-08/",
     "China News Service. (2026, May 15). 美企业家对中国经济充满期待 希望加强对华合作 [U.S. entrepreneurs are full of expectations for China’s economy and hope to strengthen cooperation with China]. https://www.chinanews.com.cn/cj/2026/05-15/10621475.shtml",
     "Jackson, L., Martina, M., & Chen, L. (2026, May 13). Trump, Xi to weigh rare earth truce extension, but China’s curbs still bite. Reuters, via Investing.com. https://www.investing.com/news/commodities-news/trump-xi-to-weigh-rare-earth-truce-extension-but-chinas-curbs-still-bite-4683132",
@@ -362,20 +362,21 @@
     "Madhani, A., Weissert, W., & Mistreanu, S. (2026, May 15). Trump wraps up his Beijing visit. AP News. https://apnews.com/article/trump-xi-taiwan-iran-trade-e7a3cdf161c608de152ac1c6e5755452",
     "MarketWatch. (2026, May 14). Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them. https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa",
     "Reuters. (2026, May 11). Apple, Boeing, Citi, Tesla, Meta executives to join Trump’s China trip. Reuters, via Investing.com. https://www.investing.com/news/stock-market-news/apple-boeing-citi-tesla-meta-executives-to-join-trumps-china-trip-4677402",
-    "Sharecast News. (2026, May 14). US clears sales of Nvidia H200 chips to some Chinese firms’攔eport. London South East. https://www.lse.co.uk/news/us-clears-sales-of-nvidia-h200-chips-to-some-chinese-firms-report-61vbhm0w2iy26f6.html",
+    "Sharecast News. (2026, May 14). US clears sales of Nvidia H200 chips to some Chinese firms—report. London South East. https://www.lse.co.uk/news/us-clears-sales-of-nvidia-h200-chips-to-some-chinese-firms-report-61vbhm0w2iy26f6.html",
     "Xinhua. (2026a, May 15). Chinese, U.S. presidents agree on new vision for bilateral ties in Beijing talks. The State Council of the People’s Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a0679c9c6d00ca5f9a0afa9.html",
     "Xinhua. (2026b, May 15). Xi, Trump reach series of new common understandings: China’s foreign ministry. The State Council of the People’s Republic of China. https://english.www.gov.cn/news/202605/15/content_WS6a069dc0c6d00ca5f9a0afad.html",
     "Zhang, D., Jackson, L., & Cao, E. (2026, May 14). China renews licences for hundreds of US beef exporters amid Trump-Xi summit. Reuters, via Investing.com. https://www.investing.com/news/stock-market-news/china-renews-licences-for-hundreds-of-us-beef-exporters-amid-trumpxi-summit-4687099"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition. Policy Brief No. EPINOVA–2026–PB–49. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Signaling without settlement: An assessment of Trump’s Beijing visit and the politics of managed U.S.–China competition. EPINOVA Policy Brief Series, EPINOVA-PB-2026-049. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition. Policy Brief No. EPINOVA–2026–PB–49. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.67037/epinova.pb.2026.049.",
+  "citation_apa": "Wu, S. (2026). Signaling without settlement: An assessment of Trump’s Beijing visit and the politics of managed U.S.–China competition. EPINOVA Policy Brief Series, EPINOVA-PB-2026-049. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.049.",
   "short_citation": "Wu (2026), Signaling Without Settlement, EPINOVA–2026–PB–49.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "place": "United States",
-    "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
     "edition": "v1.0",
     "date": "2026-05-15",
     "pagination": "12 pages"
@@ -433,11 +434,11 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-15",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, core judgment, key judgments, executive summary, why-this-matters section, methodological note, cross-domain evidence map, post-summit watchpoints, final assessment, appendix table, references, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI registered under EPINOVA LLC prefix 10.67037: https://doi.org/10.67037/epinova.pb.2026.049."
   },
   "pdf_metadata": {
-    "title": "",
+    "title": "Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition",
     "author": "SY Wu",
     "creator": "Microsoft® PowerPoint® 2024",
     "producer": "Microsoft® PowerPoint® 2024",
@@ -446,15 +447,15 @@
     "pages": 12
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.049",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-049/",
     "crossref_doi_suffix": "epinova.pb.2026.049",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",

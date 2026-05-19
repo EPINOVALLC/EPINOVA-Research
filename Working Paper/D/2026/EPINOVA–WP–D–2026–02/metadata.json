@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18572133",
+  "doi": "https://doi.org/10.5281/zenodo.18572133",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18572133",
   "official_page": "https://doi.org/10.5281/zenodo.18572133",
@@ -220,15 +220,17 @@
     "Pierson, P. (2000). Increasing returns, path dependence, and the study of politics. American Political Science Review, 94(2), 251–267. https://doi.org/10.2307/2586011",
     "Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817–830. https://doi.org/10.1016/S0301-4215(00)00070-7"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Why the South? Institutional friction and the spatial reorganization of data center infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18572133.",
+  "citation_apa": "Wu, S. (2026). Why the South? Institutional friction and the spatial reorganization of data center infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133.",
   "short_citation": "Wu (2026), Why the South?, EPINOVA Working Paper D–2026–02.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "series": "EPINOVA Working Paper D-Series",
     "publication_number": "EPINOVA–WP–D–2026–02",
     "location": "United States",
-    "date": "February 09, 2026"
+    "date": "February 09, 2026",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [
     {
@@ -315,7 +317,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-02-09",
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18572133."
   },
   "crossref": {
     "status": "ready_for_registration_or_update",
@@ -328,7 +331,9 @@
     "crossref_url": "https://doi.org/10.5281/zenodo.18572133",
     "crossref_doi_suffix": "epinova.wp.d.2026.002",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report",
+    "deposit_ready": true
   },
   "datacite": {
     "resourceType": "Working Paper",
@@ -347,5 +352,9 @@
     ]
   },
   "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302",
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Why the South?: Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States"
+  }
 }

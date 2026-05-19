@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2025 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.18081107",
+  "doi": "https://doi.org/10.5281/zenodo.18081107",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18081107",
   "official_page": "",
@@ -353,14 +353,16 @@
     "Sims, C. A. (2003). Implications of rational inattention. Journal of Monetary Economics, 50(3), 665–690. https://doi.org/10.1016/S0304-3932(03)00029-1",
     "Van Benthem, J. (2011). Logical dynamics of information and interaction. Cambridge University Press."
   ],
-  "recommended_citation": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. EPINOVA. https://doi.org/10.5281/zenodo.18081107. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18081107. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. EPINOVA. DOI: https://doi.org/10.5281/zenodo.18081107.",
+  "citation_apa": "Wu, S.-Y. (2025). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18081107.",
   "short_citation": "Wu (2025), Permanent Presence under Uncertainty.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2025-12-29",
-    "pagination": "8 pages"
+    "pagination": "8 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -382,18 +384,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied title, author, ORCID, affiliation, date, abstract, formal POSG/CDF framework, formulas, conclusion, recommended citation, and references. Early metadata supplied DOI 10.5281/zenodo.18081107, ORCID put-code 201017438, and GitHub repository information."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18081107."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.18081107",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.18081107",
     "crossref_doi_suffix": "epinova.wp.f.2025.006",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -407,5 +410,9 @@
     "put_code": "201017438",
     "source": "ORCID Public API",
     "record_date": "2025-12-29"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability"
   }
 }

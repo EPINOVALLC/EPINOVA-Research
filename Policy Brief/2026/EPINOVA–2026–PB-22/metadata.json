@@ -25,11 +25,11 @@
     }
   ],
   "contributors": [],
-  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "10.5281/zenodo.19411098",
+  "doi": "https://doi.org/10.5281/zenodo.19411098",
   "previous_doi": "10.5281/zenodo.19411097",
   "landing_page": "https://doi.org/10.5281/zenodo.19411098",
   "official_page": "",
@@ -257,14 +257,16 @@
     }
   ],
   "references": [],
-  "recommended_citation": "Wu, Shaoyuan (2026), From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System, Policy Brief No. EPINOVA–2026–PB–22, Global AI Governance and Policy Research Center, EPINOVA LLC, https://doi.org/10.5281/zenodo.19411098. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From representative of the West to primary node: The transformation of the United States in the future Western and transatlantic political system (Policy Brief No. EPINOVA–2026–PB–22). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19411098. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan (2026), From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System, Policy Brief No. EPINOVA–2026–PB–22, Global AI Governance and Policy Research Center, EPINOVA LLC,. DOI: https://doi.org/10.5281/zenodo.19411098.",
+  "citation_apa": "Wu, S. (2026). From representative of the West to primary node: The transformation of the United States in the future Western and transatlantic political system (Policy Brief No. EPINOVA–2026–PB–22). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19411098.",
   "short_citation": "Wu (2026), From Representative of the West to Primary Node, EPINOVA–2026–PB–22.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "date": "2026-04-03",
-    "pagination": "4 pages"
+    "pagination": "4 pages",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [],
@@ -286,18 +288,19 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-15",
-    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, analytical sections, LoCT proposition, final statement, recommended citation, DOI, series information, and disclaimer. Early metadata supplied DOI 10.5281/zenodo.19411097, ORCID put-code 210680127, GitHub PDF URL, repository folder, and repository URL. The PDF DOI 10.5281/zenodo.19411098 is used as the primary DOI; the early DOI is retained as previous_doi and alternate identifier for reconciliation. The early metadata category 'reports' was corrected to 'policy-briefs' according to the PDF series and policy brief number."
+    "last_updated": "2026-05-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.19411098."
   },
   "crossref": {
     "status": "not_registered",
-    "doi": "",
+    "doi": "10.5281/zenodo.19411098",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated; DOI is treated as Zenodo/DataCite.",
     "crossref_url": "https://doi.org/10.5281/zenodo.19411098",
     "crossref_doi_suffix": "epinova.pb.2026.022",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending"
+    "registration_status": "Pending",
+    "record_type": "report"
   },
   "datacite": {
     "status": "registered",
@@ -311,5 +314,9 @@
     "put_code": "210680127",
     "source": "ORCID Public API",
     "record_date": "2026-04-30"
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "pdf_metadata": {
+    "title": "From Representative of the West to Primary Node: The Transformation of the United States in the Future Western and Transatlantic Political System"
   }
 }
