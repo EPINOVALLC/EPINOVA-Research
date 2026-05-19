@@ -1,12 +1,12 @@
 {
-  "epinova_id": "EPINOVA-WP-D-2026-01",
+  "epinova_id": "EPINOVA-WP-D-2026-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
   "category": "working-papers",
   "publication_series": "EPINOVA Working Paper D-Series",
   "series_code": "WP-D",
-  "series_number": "EPINOVA–WP–D–2026–01",
+  "series_number": "EPINOVA-WP-D-2026-001",
   "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not",
   "subtitle": "An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal",
   "title_normalized": "when ai infrastructure is optional but governance lock-in is not: an ai-sni local governance diagnostic of the temple (ga) data center proposal",
@@ -40,7 +40,7 @@
       "description": "Zenodo DOI landing page"
     },
     {
-      "identifier": "EPINOVA–WP–D–2026–01",
+      "identifier": "EPINOVA-WP-D-2026-001",
       "scheme": "Local identifier",
       "description": "EPINOVA Working Paper D-Series publication number"
     }
@@ -105,7 +105,7 @@
     "series": "EPINOVA Working Paper D-Series",
     "series_code": "WP-D",
     "series_description": "WP-D examines governance mechanisms and institutional design in AI-mediated systems, focusing on how infrastructure, authority, and decision processes generate lock-in, coordination burden, and failure risk and how such risks can be structurally contained.",
-    "paper_number": "EPINOVA–WP–D–2026–01"
+    "paper_number": "EPINOVA-WP-D-2026-001"
   },
   "methodology": {
     "framework": "AI-Strategic Node Index (AI-SNI)",
@@ -191,14 +191,14 @@
     }
   ],
   "references": [
-    "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological white book (Version 0.1; EPINOVA-IWB-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803",
+    "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological white book (Version 0.1; EPINOVA-IWB-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803",
     "Georgia Department of Community Affairs. (2026). Development of regional impact (DRI) application summary: Project Bus (DRI #4606). State of Georgia. https://apps.dca.ga.gov/DRI/",
     "Organisation for Economic Co-operation and Development. (2019). Artificial intelligence in society. OECD Publishing. https://doi.org/10.1787/eedfee77-en",
     "National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1",
     "UNESCO. (2021). Recommendation on the ethics of artificial intelligence. United Nations Educational, Scientific and Cultural Organization. https://unesdoc.unesco.org/ark:/48223/pf0000381137"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal (EPINOVA Working Paper No. EPINOVA–WP–D–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18463740.",
-  "citation_apa": "Wu, S. (2026). When AI infrastructure is optional but governance lock-in is not: An AI-SNI local governance diagnostic of the Temple (GA) data center proposal (EPINOVA Working Paper No. EPINOVA–WP–D–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18463740.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal (EPINOVA Working Paper No. EPINOVA-WP-D-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18463740.",
+  "citation_apa": "Wu, S. (2026). When AI infrastructure is optional but governance lock-in is not: An AI-SNI local governance diagnostic of the Temple (GA) data center proposal (EPINOVA Working Paper No. EPINOVA-WP-D-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18463740.",
   "short_citation": "Wu (2026), When AI Infrastructure Is Optional but Governance Lock-In Is Not, EPINOVA Working Paper D–2026–01.",
   "imprint": {
     "title": "EPINOVA Working Paper D-Series",

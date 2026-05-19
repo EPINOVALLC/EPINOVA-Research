@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-08",
+  "epinova_id": "EPINOVA-WP-F-2026-008",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -35,7 +35,7 @@
   "official_page": "",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–F–2026–08",
+      "identifier": "EPINOVA-WP-F-2026-008",
       "scheme": "EPINOVA Working Paper Number",
       "description": "Working paper number shown in the PDF"
     },
@@ -282,13 +282,13 @@
     "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
     "Tabatabai, A. M. (2020). No confrontation: Iran’s national security strategy. Oxford University Press.",
     "The Guardian. (2026, March 18). Trump, Iran war, and domestic political tensions in the U.S. https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
-    "Wu, S. (2026a). Industrial War and Network War: Operational logics in the Russia–Ukraine War and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
-    "Wu, S. (2026b). Systemic Warfare in the Networked Age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026a). Industrial War and Network War: Operational logics in the Russia–Ukraine War and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-006). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026b). Systemic Warfare in the Networked Age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA-WP-F-2026-007). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
     "Wu, S. (2026c). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188",
     "Wu, S. (2026d). Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict? (Policy Brief No. EPINOVA–2026–PB–14). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19104090"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19118195.",
-  "citation_apa": "Wu, S. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–08). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-008). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19118195.",
+  "citation_apa": "Wu, S. (2026). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-008). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195.",
   "short_citation": "Wu (2026), Who Loses Control First?, EPINOVA Working Paper F–2026–08.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",

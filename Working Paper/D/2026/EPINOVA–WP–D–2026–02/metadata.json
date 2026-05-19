@@ -1,12 +1,12 @@
 {
-  "epinova_id": "EPINOVA-WP-D-2026-02",
+  "epinova_id": "EPINOVA-WP-D-2026-002",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
   "category": "working-papers",
   "publication_series": "EPINOVA Working Paper D-Series",
   "series_code": "WP-D",
-  "series_number": "EPINOVA–WP–D–2026–02",
+  "series_number": "EPINOVA-WP-D-2026-002",
   "title": "Why the South?",
   "subtitle": "Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States",
   "title_normalized": "why the south? institutional friction and the spatial reorganization of data center infrastructure in the united states",
@@ -40,7 +40,7 @@
       "description": "Zenodo DOI landing page"
     },
     {
-      "identifier": "EPINOVA–WP–D–2026–02",
+      "identifier": "EPINOVA-WP-D-2026-002",
       "scheme": "Local identifier",
       "description": "EPINOVA Working Paper D-Series publication number"
     }
@@ -117,7 +117,7 @@
     "series_name": "EPINOVA Working Paper D-Series",
     "series_code": "WP-D",
     "series_scope": "WP-D examines governance mechanisms and institutional design in AI-mediated systems, focusing on how infrastructure, authority, and decision processes generate lock-in, coordination burden, and failure risk and how such risks can be structurally contained.",
-    "publication_number": "EPINOVA–WP–D–2026–02"
+    "publication_number": "EPINOVA-WP-D-2026-002"
   },
   "methodology": {
     "approach": "Conceptual and comparative structural analysis using a three-axis feasibility framework and structural belt model.",
@@ -206,7 +206,7 @@
   ],
   "related_works": [
     {
-      "citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal. EPINOVA Working Paper No. EPINOVA–WP–D–2026–01.",
+      "citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal. EPINOVA Working Paper No. EPINOVA-WP-D-2026-001.",
       "relationship": "Related EPINOVA Working Paper D-Series analysis of AI infrastructure governance, local approval risk, and infrastructure lock-in."
     }
   ],
@@ -220,13 +220,13 @@
     "Pierson, P. (2000). Increasing returns, path dependence, and the study of politics. American Political Science Review, 94(2), 251–267. https://doi.org/10.2307/2586011",
     "Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817–830. https://doi.org/10.1016/S0301-4215(00)00070-7"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18572133.",
-  "citation_apa": "Wu, S. (2026). Why the South? Institutional friction and the spatial reorganization of data center infrastructure in the United States (EPINOVA Working Paper No. EPINOVA–WP–D–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Why the South? Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States (EPINOVA Working Paper No. EPINOVA-WP-D-2026-002). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18572133.",
+  "citation_apa": "Wu, S. (2026). Why the South? Institutional friction and the spatial reorganization of data center infrastructure in the United States (EPINOVA Working Paper No. EPINOVA-WP-D-2026-002). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18572133.",
   "short_citation": "Wu (2026), Why the South?, EPINOVA Working Paper D–2026–02.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "series": "EPINOVA Working Paper D-Series",
-    "publication_number": "EPINOVA–WP–D–2026–02",
+    "publication_number": "EPINOVA-WP-D-2026-002",
     "location": "United States",
     "date": "February 09, 2026",
     "publisher": "EPINOVA LLC",

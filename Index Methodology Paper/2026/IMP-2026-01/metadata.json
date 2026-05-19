@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-IMP-2026-01",
+  "epinova_id": "EPINOVA-IMP-2026-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Index Methodology Paper",
@@ -31,16 +31,16 @@
   "copyright": "Copyright © 2026 Shaoyuan Wu",
   "doi": "To be assigned after Crossref membership approval",
   "previous_doi": "",
-  "landing_page": "https://publications.epinova.org/epinova-imp-2026-01/",
+  "landing_page": "https://publications.epinova.org/epinova-imp-2026-001/",
   "official_page": "https://epinova.org/publications",
   "alternate_identifiers": [
     {
-      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
+      "identifier": "https://publications.epinova.org/epinova-imp-2026-001/",
       "scheme": "URL",
       "description": "EPINOVA publication landing page"
     },
     {
-      "identifier": "EPINOVA-IMP-2026-01",
+      "identifier": "EPINOVA-IMP-2026-001",
       "scheme": "EPINOVA index methodology paper number",
       "description": "Index methodology paper number printed in the PDF"
     },
@@ -414,7 +414,7 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://publications.epinova.org/epinova-imp-2026-01/",
+      "identifier": "https://publications.epinova.org/epinova-imp-2026-001/",
       "scheme": "URL",
       "resource_type": "Publication landing page",
       "description": "EPINOVA landing page for this Index Methodology Paper"
@@ -469,9 +469,9 @@
     "World Bank. (2025b). The Worldwide Governance Indicators: 2025 methodology revision. https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202025%20Methodology%20Revision.pdf",
     "World Justice Project. (2025). WJP Rule of Law Index 2025. https://worldjusticeproject.org/rule-of-law-index/"
   ],
-  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-01/. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-01/. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Political Credit Index (PCI), EPINOVA-IMP-2026-01.",
+  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-001/. DOI: To be assigned after Crossref membership approval.",
+  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-001/. DOI: To be assigned after Crossref membership approval.",
+  "short_citation": "Wu (2026), Political Credit Index (PCI), EPINOVA-IMP-2026-001.",
   "imprint": {
     "title": "EPINOVA Index Methodology Paper Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -575,7 +575,7 @@
     "doi": "",
     "deposit_ready": false,
     "notes": "No Crossref DOI is indicated in the PDF. The landing page is prepared as the intended DOI resolution interface once Crossref registration is available.",
-    "crossref_url": "https://publications.epinova.org/epinova-imp-2026-01/",
+    "crossref_url": "https://publications.epinova.org/epinova-imp-2026-001/",
     "crossref_doi_suffix": "epinova.imp.2026.001",
     "intended_registration_agency": "Crossref",
     "record_type": "report",

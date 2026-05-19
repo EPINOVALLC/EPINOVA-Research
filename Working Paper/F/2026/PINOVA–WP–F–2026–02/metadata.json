@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-02",
+  "epinova_id": "EPINOVA-WP-F-2026-002",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -50,7 +50,7 @@
       "description": "ORCID Public API record identifier from early metadata"
     },
     {
-      "identifier": "EPINOVA–WP–F–2026–02",
+      "identifier": "EPINOVA-WP-F-2026-002",
       "scheme": "EPINOVA working paper number",
       "description": "Working paper number shown in the PDF title page and running header"
     },
@@ -384,8 +384,8 @@
     "Weick, K. E. (1995). Sensemaking in organizations. Sage.",
     "Williamson, O. E. (1985). The economic institutions of capitalism. Free Press."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems (EPINOVA Working Paper No. EPINOVA–WP–F–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18654119.",
-  "citation_apa": "Wu, S. (2026). Derivative-state drift: A continuous-time model of constraint erosion in elite and artificial optimization systems (EPINOVA Working Paper No. EPINOVA–WP–F–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654119.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Derivative-State Drift: A Continuous-Time Model of Constraint Erosion in Elite and Artificial Optimization Systems (EPINOVA Working Paper No. EPINOVA-WP-F-2026-002). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18654119.",
+  "citation_apa": "Wu, S. (2026). Derivative-state drift: A continuous-time model of constraint erosion in elite and artificial optimization systems (EPINOVA Working Paper No. EPINOVA-WP-F-2026-002). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18654119.",
   "short_citation": "Wu (2026), Derivative-State Drift, EPINOVA Working Paper F–2026–02.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",

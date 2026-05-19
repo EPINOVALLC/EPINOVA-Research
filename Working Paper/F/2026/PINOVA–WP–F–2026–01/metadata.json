@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-01",
+  "epinova_id": "EPINOVA-WP-F-2026-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -50,12 +50,12 @@
       "description": "ORCID Public API record identifier from early metadata"
     },
     {
-      "identifier": "EPINOVA–WP–F–2026–01",
+      "identifier": "EPINOVA-WP-F-2026-001",
       "scheme": "EPINOVA working paper number",
       "description": "Working paper number shown in the PDF title page and running header"
     },
     {
-      "identifier": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+      "identifier": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA-WP-F-2026-001）.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
@@ -127,7 +127,7 @@
   "files": [
     {
       "label": "Download PDF",
-      "filename": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+      "filename": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA-WP-F-2026-001）.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301/When%20Decapitation%20No%20Longer%20Matters%20AI-Delegated%20Execution%20and%20the%20Potential%20Failure%20of%20Preemptive%20Strike%20Logic%EF%BC%88EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9301%EF%BC%89.pdf",
       "content_type": "application/pdf",
       "format": "application/pdf",
@@ -312,8 +312,8 @@
     "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
     "Snyder, G. H. (1961). Deterrence and defense: Toward a theory of national security. Princeton University Press."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18252768.",
-  "citation_apa": "Wu, S. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA–WP–F–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA-WP-F-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18252768.",
+  "citation_apa": "Wu, S. (2026). When decapitation no longer matters: AI-delegated execution and the potential failure of preemptive strike logic (EPINOVA Working Paper No. EPINOVA-WP-F-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18252768.",
   "short_citation": "Wu (2026), When Decapitation No Longer Matters.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -345,7 +345,7 @@
   "thesis": null,
   "disclaimer": "This metadata record is generated from the uploaded PDF and early ORCID-derived metadata. The working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated conditions; it does not constitute policy recommendations, predictive assessments, operational guidance, or official positions of any institution.",
   "metadata_source": {
-    "source_file": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf",
+    "source_file": "When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA-WP-F-2026-001）.pdf",
     "source_type": "PDF + early ORCID-derived metadata record",
     "extraction_method": "PDF text extraction and early metadata reconciliation using the latest EPINOVA metadata schema",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",

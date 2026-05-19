@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-04",
+  "epinova_id": "EPINOVA-WP-F-2026-004",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -35,7 +35,7 @@
   "official_page": "",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–F–2026–04",
+      "identifier": "EPINOVA-WP-F-2026-004",
       "scheme": "EPINOVA Working Paper Number",
       "description": "Working paper number shown in the PDF"
     },
@@ -310,8 +310,8 @@
     "U.S. Department of Defense. (2026a, March 2). Hegseth says ‘Epic Fury’ goals in Iran are ‘laser-focused.’ https://www.defense.gov/News/News-Stories/Article/Article/4418826/hegseth-says-epic-fury-goals-in-iran-are-laser-focused/",
     "U.S. Department of Defense. (2026b, March 4). DOD identifies Army casualty. https://www.defense.gov/News/Releases/Release/Article/4421430/dod-identifies-army-casualty/"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18903880.",
-  "citation_apa": "Wu, S. (2026). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Losing the Narrative: Communication Tempo, Expectation Asymmetry, and Perception Effects in the First Week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA-WP-F-2026-004). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18903880.",
+  "citation_apa": "Wu, S. (2026). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran War (EPINOVA Working Paper No. EPINOVA-WP-F-2026-004). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880.",
   "short_citation": "Wu (2026), Losing the Narrative, EPINOVA Working Paper F–2026–04.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",

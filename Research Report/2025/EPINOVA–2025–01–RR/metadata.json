@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-RR-2025-01",
+  "epinova_id": "EPINOVA-RR-2025-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Research Report",
@@ -38,7 +38,7 @@
       "description": "Zenodo DOI landing page"
     },
     {
-      "identifier": "EPINOVA–2025–01–RR",
+      "identifier": "EPINOVA-RR-2025-001",
       "scheme": "EPINOVA report number",
       "description": "Internal EPINOVA research report identifier"
     }
@@ -213,8 +213,8 @@
     "U.S. Army. (2025). FM 3-01: U.S. Army air and missile defense operations. https://rdl.train.army.mil/catalog-ws/view/100.ATSC/C01CC9C1-DA1C-4D5E-A6EB-5FCFAE218DCD-1398170439966/FM_3_01wc1.pdf",
     "World Bank Open Knowledge Repository. (2024–2025). Ukraine rapid damage and needs assessments (RDNA3–RDNA4). https://openknowledge.worldbank.org"
   ],
-  "recommended_citation": "Wu, S. (2025). From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War (Research Report). EPINOVA–2025–01–RR. Global AI Governance Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18036790.",
-  "citation_apa": "Wu, S. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790.",
+  "recommended_citation": "Wu, S. (2025). From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War (Research Report). EPINOVA-RR-2025-001. Global AI Governance Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18036790.",
+  "citation_apa": "Wu, S. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA-RR-2025-001). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790.",
   "imprint": {
     "title": "EPINOVA Research Report Series",
     "place": "United States",

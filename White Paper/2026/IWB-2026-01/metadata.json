@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-IWB-2026-01",
+  "epinova_id": "EPINOVA-IWB-2026-001",
   "record_type": "Publication",
   "resource_type": "Book",
   "publication_type": "White Paper",
@@ -15,8 +15,8 @@
   "visibility": "Public",
   "creators": [
     {
-      "name": "Wu, Shao-Yuan",
-      "given_name": "Shao-Yuan",
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
       "family_name": "Wu",
       "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
       "orcid": "https://orcid.org/0009-0008-0660-8232"
@@ -26,7 +26,7 @@
   "publisher": "EPINOVA LLC",
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shao-Yuan Wu",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
   "doi": "https://doi.org/10.5281/zenodo.18452803",
   "previous_doi": "",
   "landing_page": "https://doi.org/10.5281/zenodo.18452803",
@@ -210,10 +210,10 @@
     "Weick, K. E. (1988). Enacted sensemaking in crisis situations. Journal of Management Studies, 25(4), 305–317.",
     "World Economic Forum. (2020). Global technology governance: AI, data, and digital infrastructure. WEF Publications.",
     "World Economic Forum. (2023). Global risks report 2023. https://www.weforum.org/reports/global-risks-report-2023/",
-    "Wu, Shao-Yuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA–WP–A–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165"
+    "Wu, Shaoyuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA-WP-A-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165"
   ],
-  "recommended_citation": "Wu, Shao-Yuan. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18452803.",
-  "citation_apa": "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-01). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-001). EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18452803.",
+  "citation_apa": "Wu, S.-Y. (2026). AI-Strategic Node Framework (AI-SNF): Conceptual and methodological White Paper (v0.1) (EPINOVA-IWB-2026-001). EPINOVA LLC. https://doi.org/10.5281/zenodo.18452803.",
   "imprint": {
     "title": "AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper",
     "place": "United States",

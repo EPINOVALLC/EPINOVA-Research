@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-PR-2025-01",
+  "epinova_id": "EPINOVA-PR-2025-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Policy Report",
@@ -38,7 +38,7 @@
       "description": "Zenodo DOI record for the policy report"
     },
     {
-      "identifier": "EPINOVA–2025–PR–01",
+      "identifier": "EPINOVA-PR-2025-001",
       "scheme": "Local identifier",
       "description": "EPINOVA policy report number"
     }
@@ -200,12 +200,12 @@
     "Van Creveld, M. (1985). Command in war. Harvard University Press.",
     "Watling, J., & Reynolds, N. (2023). Meatgrinder: Russian tactics in the second year of the Ukraine war. Royal United Services Institute.",
     "Watts, B. (2004). Six decades of guided munitions and battle networks. Center for Strategic and Budgetary Assessments.",
-    "Wu, S.-Y. (2025a). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790",
+    "Wu, S.-Y. (2025a). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA-RR-2025-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790",
     "Wu, S.-Y. (2025b). Permanent presence under uncertainty: A partially observable game-theoretic framework for unmanned systems, cost–frequency dynamics, and strategic stability. EPINOVA. https://doi.org/10.5281/zenodo.18081107",
     "Wu, S.-Y. (2025). From predictive control to robustness: Why indeterminacy outperforms precision in contested ISR environments (Policy Brief No. EPINOVA–2025–PB–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18110856"
   ],
-  "recommended_citation": "Wu, S.-Y. (2025). Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments (Policy Report No. EPINOVA–2025–PR–01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18111066.",
-  "citation_apa": "Wu, S.-Y. (2025). Nonlinear uncertainty in drone warfare: Why indeterminacy outperforms precision in contested ISR environments (Policy Report No. EPINOVA–2025–PR–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18111066.",
+  "recommended_citation": "Wu, S.-Y. (2025). Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments (Policy Report No. EPINOVA-PR-2025-001). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18111066.",
+  "citation_apa": "Wu, S.-Y. (2025). Nonlinear uncertainty in drone warfare: Why indeterminacy outperforms precision in contested ISR environments (Policy Report No. EPINOVA-PR-2025-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18111066.",
   "imprint": {
     "title": "EPINOVA Policy Report Series",
     "place": "United States",

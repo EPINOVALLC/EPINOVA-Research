@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-09",
+  "epinova_id": "EPINOVA-WP-F-2026-009",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -35,7 +35,7 @@
   "official_page": "",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–F–2026–09",
+      "identifier": "EPINOVA-WP-F-2026-009",
       "scheme": "EPINOVA Working Paper Number",
       "description": "Working paper number printed in the PDF"
     },
@@ -397,14 +397,14 @@
     "Reuters. (2026c, March 17). Iran blames Israel for gas field attack, fires missiles at Qatar as Trump criticises allies over Hormuz request. https://www.reuters.com/world/china/trump-criticises-allies-over-rejection-hormuz-request-iran-israel-trade-2026-03-17/",
     "Rinaldi, S. M., Peerenboom, J. P., & Kelly, T. K. (2001). Identifying, understanding, and analyzing critical infrastructure interdependencies. IEEE Control Systems Magazine, 21(6), 11–25.",
     "Schelling, T. C. (1966). Arms and influence. Yale University Press.",
-    "Wu, S. (2026a). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
-    "Wu, S. (2026b). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026a). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-006). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026b). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA-WP-F-2026-007). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
     "Wu, S. (2026c). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188",
     "Wu, S. (2026d). Post-nodal warfare: Will distributed AI command replace human leadership in high-intensity conflict? (Policy Brief No. EPINOVA–2026–PB–14). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19104090",
-    "Wu, S. (2026e). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195"
+    "Wu, S. (2026e). Who loses control first? Threshold competition in the 2026 U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-009). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19118195"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19139977.",
-  "citation_apa": "Wu, S. (2026). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-009). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19139977.",
+  "citation_apa": "Wu, S. (2026). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-009). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977.",
   "short_citation": "Wu (2026), A Systemic Theory of Escalation and the Loss-of-Control Threshold.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",

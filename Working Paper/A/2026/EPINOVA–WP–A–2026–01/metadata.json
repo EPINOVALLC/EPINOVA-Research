@@ -1,12 +1,12 @@
 {
-  "epinova_id": "EPINOVA-WP-A-2026-01",
+  "epinova_id": "EPINOVA-WP-A-2026-001",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
   "category": "working-papers",
   "publication_series": "EPINOVA Working Paper A-Series",
   "series_code": "WP-A",
-  "series_number": "EPINOVA–WP–A–2026–01",
+  "series_number": "EPINOVA-WP-A-2026-001",
   "title": "Greenland as a Structural AI Strategic Node",
   "subtitle": "Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power",
   "title_normalized": "greenland as a structural ai strategic node perception integrity temporal dominance and the arctic reconfiguration of algorithmic power",
@@ -40,7 +40,7 @@
       "description": "Zenodo DOI landing page"
     },
     {
-      "identifier": "EPINOVA–WP–A–2026–01",
+      "identifier": "EPINOVA-WP-A-2026-001",
       "scheme": "Local identifier",
       "description": "EPINOVA Working Paper A-Series publication number"
     }
@@ -98,7 +98,7 @@
   "files": [
     {
       "label": "Download PDF",
-      "filename": "Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf",
+      "filename": "Greenland as a Structural AI Strategic Node（EPINOVA-WP-A-2026-001）.pdf",
       "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9301/Greenland%20as%20a%20Structural%20AI%20Strategic%20Node%EF%BC%88EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9301%EF%BC%89.pdf",
       "content_type": "application/pdf",
       "description": "Full-text PDF of the EPINOVA working paper",
@@ -165,8 +165,8 @@
     "Scharre, P. (2018). Army of none: Autonomous weapons and the future of war. W. W. Norton & Company.",
     "Weeden, B., & Samson, V. (2019). Global counterspace capabilities: An open source assessment. Secure World Foundation."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA–WP–A–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18261165.",
-  "citation_apa": "Wu, S. (2026). Greenland as a structural AI strategic node: Perception integrity, temporal dominance, and the Arctic reconfiguration of algorithmic power (EPINOVA Working Paper No. EPINOVA–WP–A–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power (EPINOVA Working Paper No. EPINOVA-WP-A-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18261165.",
+  "citation_apa": "Wu, S. (2026). Greenland as a structural AI strategic node: Perception integrity, temporal dominance, and the Arctic reconfiguration of algorithmic power (EPINOVA Working Paper No. EPINOVA-WP-A-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18261165.",
   "imprint": {
     "title": "EPINOVA Working Paper A-Series",
     "place": "United States",
@@ -250,7 +250,7 @@
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-30",
     "last_updated": "2026-05-18",
-    "source_pdf": "Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf",
+    "source_pdf": "Greenland as a Structural AI Strategic Node（EPINOVA-WP-A-2026-001）.pdf",
     "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. Crossref DOI assigned under EPINOVA LLC prefix 10.67037: https://doi.org/10.5281/zenodo.18261165."
   },
   "crossref": {

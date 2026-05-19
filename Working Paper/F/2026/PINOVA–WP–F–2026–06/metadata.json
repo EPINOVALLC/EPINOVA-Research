@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-06",
+  "epinova_id": "EPINOVA-WP-F-2026-006",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -35,7 +35,7 @@
   "official_page": "",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–F–2026–06",
+      "identifier": "EPINOVA-WP-F-2026-006",
       "scheme": "EPINOVA Working Paper Number",
       "description": "Working paper number shown in the PDF"
     },
@@ -311,12 +311,12 @@
     "Jane’s Defence Weekly. (2026). Missile exchanges intensify in the Gulf region as conflict escalates. https://www.janes.com/defence-news",
     "Posen, B. R. (1984). The sources of military doctrine: France, Britain, and Germany between the world wars. Cornell University Press. https://cornellpress.cornell.edu/book/9780801491863/the-sources-of-military-doctrine",
     "Reuters. (2026). Iran launches missile attacks after U.S.–Israeli strikes on Iranian facilities. https://www.reuters.com/world/middle-east/",
-    "Wu, S.-Y. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA–2025–01–RR). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790",
-    "Wu, S.-Y. (2026a). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran war (EPINOVA Working Paper No. EPINOVA–WP–F–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880",
+    "Wu, S.-Y. (2025). From detection to depletion: Cost-exchange limits in the Russia–Ukraine drone war (Research Report No. EPINOVA-RR-2025-001). Global AI Governance Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18036790",
+    "Wu, S.-Y. (2026a). Losing the narrative: Communication tempo, expectation asymmetry, and perception effects in the first week of the 2026 U.S.–Israel–Iran war (EPINOVA Working Paper No. EPINOVA-WP-F-2026-004). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18903880",
     "Wu, S.-Y. (2026b). The U.S.–Iran war and East Asia’s next strategic test: Why the Middle East conflict may reshape risk in the Western Pacific (Policy Brief No. EPINOVA–2026–PB–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18894858"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18972327.",
-  "citation_apa": "Wu, S. (2026). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-006). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.18972327.",
+  "citation_apa": "Wu, S. (2026). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA-WP-F-2026-006). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327.",
   "short_citation": "Wu (2026), Industrial War and Network War, EPINOVA Working Paper F–2026–06.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",

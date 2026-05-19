@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-F-2026-07",
+  "epinova_id": "EPINOVA-WP-F-2026-007",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -35,7 +35,7 @@
   "official_page": "",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–F–2026–07",
+      "identifier": "EPINOVA-WP-F-2026-007",
       "scheme": "EPINOVA Working Paper Number",
       "description": "Working paper number shown in the PDF"
     },
@@ -464,8 +464,8 @@
     "Wu, S. (2026a). Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict (v1.0). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
     "Wu, S. (2026b). Terminal platform nodes and narrative competition in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–13). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19027188"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19078936.",
-  "citation_apa": "Wu, S. (2026). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure (EPINOVA Working Paper No. EPINOVA-WP-F-2026-007). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: https://doi.org/10.5281/zenodo.19078936.",
+  "citation_apa": "Wu, S. (2026). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA-WP-F-2026-007). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936.",
   "short_citation": "Wu (2026), Systemic Warfare in the Networked Age, EPINOVA Working Paper F–2026–07.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
