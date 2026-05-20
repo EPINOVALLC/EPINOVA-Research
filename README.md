@@ -68,12 +68,14 @@ EPINOVA-Research/
 └── tools/
 ```
 
-Each publication folder typically contains:
+Each publication source folder typically contains:
 
 ```text
 publication.pdf
 metadata.json
 ```
+
+The repository is the source and version-traceability layer for EPINOVA publications. The primary public access layer is the EPINOVA publication landing-page system, while DOI metadata is registered through Crossref when available.
 
 The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.
 
@@ -99,40 +101,46 @@ Notes:
 - For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.
 ## Latest Publications
 
-The links below point to the current GitHub repository structure. Folder names are preserved as they currently exist in the repository to avoid broken links.
+The links below prioritize EPINOVA publication landing pages where available. GitHub links are retained as source-folder and source-file references for transparency, preservation, and version traceability.
 
-### DOI Status Notice
+### DOI and Access Notice
 
-Zenodo is currently not used as the primary publication access layer for this repository. Some previous EPINOVA records may have Zenodo archival identifiers, but the current repository and publication workflow is organized around GitHub source folders, EPINOVA publication landing pages, and pending Crossref DOI registration.
+EPINOVA publication landing pages serve as the primary public access layer for current publication records. Crossref DOI records are used as the formal DOI registration layer when available.
 
-Until Crossref membership approval and DOI prefix assignment are completed, newly prepared EPINOVA publication records should use the following DOI status statement:
+During the Crossref migration period, existing Zenodo/DataCite DOI records may be displayed as temporary archival DOI links. These identifiers are retained for continuity, citation traceability, and archival access, but they may later be superseded by Crossref DOI records.
+
+For newly prepared records that have not yet completed Crossref registration and do not have a temporary archival DOI, use the following temporary status statement:
 
 ```text
-DOI: To be assigned after Crossref membership approval.
+DOI: Temporary archival DOI shown when available; otherwise to be assigned or updated after Crossref registration.
 ```
-
-After Crossref registration is completed, DOI fields and citation records will be updated accordingly.
 
 ### Index Methodology Papers
 
-- **EPINOVA-IMP-2026-01** (2026-05-08)  
+- **EPINOVA-IMP-2026-001** (2026-05-08)  
   **Political Credit Index (PCI): Measuring Political Credibility as Strategic Intangible Capital**  
-  Repository folder: [`Index Methodology Paper/2026/IMP-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01)  
-  File: [`Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf)
+  Publication page: [https://epinova.org/publications](https://epinova.org/publications)  
+  DOI: [10.67037/epinova.imp.2026.001](https://doi.org/10.67037/epinova.imp.2026.001)  
+  Source folder: [`Index Methodology Paper/2026/IMP-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2026/IMP-2026-01)  
+  Source PDF: [`Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2026/IMP-2026-01/Political%20Credit%20Index%20%28PCI%29%20Measuring%20Political%20Credibility%20as%20Strategic%20Intangible%20Capital.pdf)
 
-- **EPINOVA-IWP-2025-01** (2025-12-31)  
+- **EPINOVA-IMP-2025-001** (2025-12-31)  
   **Survivor Governance Risk Index (SGRI): Conceptual and Methodological White Paper: Version 0.1 Foundational Release**  
-  Repository folder: [`Index Methodology Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
-  File: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
+  Publication page: [https://publications.epinova.org/epinova-imp-2025-001/](https://publications.epinova.org/epinova-imp-2025-001/)  
+  Temporary archival DOI: [10.5281/zenodo.18050662](https://doi.org/10.5281/zenodo.18050662)  
+  Source folder: [`Index Methodology Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
+  Source PDF: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
 ---
 
 ### White Papers
 
-- **EPINOVA-IWB-2026-01** (2026-01-31)  
+- **EPINOVA-IWB-2026-001** (2026-01-31)  
   **AI-Strategic Node Framework (AI-SNF): Conceptual and Methodological White Paper: Version 0.1 Foundational Release**  
-  Repository folder: [`White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/White%20Paper/2026/IWB-2026-01)  
-  File: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
+  Publication page: [https://epinova.org/iwb2601](https://epinova.org/iwb2601)  
+  Temporary archival DOI: [10.5281/zenodo.18452803](https://doi.org/10.5281/zenodo.18452803)  
+  Source folder: [`White Paper/2026/IWB-2026-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/White%20Paper/2026/IWB-2026-01)  
+  Source PDF: [`AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/White%20Paper/2026/IWB-2026-01/AI-Strategic%20Node%20Framework%20%28AI-SNF%29%20Conceptual%20and%20Methodological%20White%20Book.pdf)
 
 ---
 
@@ -140,75 +148,99 @@ After Crossref registration is completed, DOI fields and citation records will b
 
 - **EPINOVA-PB-2026-049** (2026-05-15)  
   **Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-49/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49)  
-  File: [`Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49/Signaling%20Without%20Settlement%20An%20Assessment%20of%20Trump%E2%80%99s%20Beijing%20Visit%20and%20the%20Politics%20of%20Managed%20U.S.%E2%80%93China%20Competition.pdf)
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.049](https://doi.org/10.67037/epinova.pb.2026.049)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-49/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49)  
+  Source PDF: [`Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49/Signaling%20Without%20Settlement%20An%20Assessment%20of%20Trump%E2%80%99s%20Beijing%20Visit%20and%20the%20Politics%20of%20Managed%20U.S.%E2%80%93China%20Competition.pdf)
 
 - **EPINOVA-PB-2026-048** (2026-05-13)  
   **From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
-  File: [`From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf)
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.048](https://doi.org/10.67037/epinova.pb.2026.048)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
+  Source PDF: [`From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf)
 
 - **EPINOVA-PB-2026-047** (2026-05-12)  
   **Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
-  File: [`Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47/Shock-Responsive%20Resilience%20in%20the%20Caspian%20Logistics%20System%20Measuring%20Rebound%20Capacity%20after%20External%20Strikes.pdf)
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.047](https://doi.org/10.67037/epinova.pb.2026.047)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
+  Source PDF: [`Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47/Shock-Responsive%20Resilience%20in%20the%20Caspian%20Logistics%20System%20Measuring%20Rebound%20Capacity%20after%20External%20Strikes.pdf)
 
 - **EPINOVA-PB-2026-046** (2026-05-09)  
   **From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface: Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
-  File: [`From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46/From%20Hormuz%20Pressure%20to%20Continental%20Redundancy%20China%E2%80%99s%20Landward%20Strategy%20across%20the%20Inner%20Eurasian%20Landward%20Interface.pdf)
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.046](https://doi.org/10.67037/epinova.pb.2026.046)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
+  Source PDF: [`From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46/From%20Hormuz%20Pressure%20to%20Continental%20Redundancy%20China%E2%80%99s%20Landward%20Strategy%20across%20the%20Inner%20Eurasian%20Landward%20Interface.pdf)
 
 - **EPINOVA-PB-2026-045** (2026-05-07)  
   **China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict**  
-  Repository folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
-  File: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.045](https://doi.org/10.67037/epinova.pb.2026.045)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
+  Source PDF: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 ---
 
 ### Policy Reports
 
-- **EPINOVA-PR-2025-01** (2025-12-31)  
+- **EPINOVA-PR-2025-001** (2025-12-31)  
   **Nonlinear Uncertainty in Drone Warfare: Why Indeterminacy Outperforms Precision in Contested ISR Environments**  
-  Repository folder: [`Policy Report/2025/EPINOVA–2025–PR–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301)  
-  File: [`Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301/Nonlinear%20Uncertainty%20in%20Drone%20Warfare%20Why%20Indeterminacy%20Outperforms%20Precision%20in%20Contested%20ISR%20Environments.pdf)
+  Publication page: [https://epinova.org/publications](https://epinova.org/publications)  
+  Temporary archival DOI: [10.5281/zenodo.18111066](https://doi.org/10.5281/zenodo.18111066)  
+  Source folder: [`Policy Report/2025/EPINOVA–2025–PR–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301)  
+  Source PDF: [`Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Report/2025/EPINOVA%E2%80%932025%E2%80%93PR%E2%80%9301/Nonlinear%20Uncertainty%20in%20Drone%20Warfare%20Why%20Indeterminacy%20Outperforms%20Precision%20in%20Contested%20ISR%20Environments.pdf)
 
 ---
 
 ### Research Reports
 
-- **EPINOVA-RR-2025-01** (2025-12-31)  
+- **EPINOVA-RR-2025-001** (2025-12-31)  
   **From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War**  
-  Repository folder: [`Research Report/2025/EPINOVA–2025–01–RR/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR)  
-  File: [`From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf)
+  Publication page: [https://epinova.org/publications](https://epinova.org/publications)  
+  Temporary archival DOI: [10.5281/zenodo.18036790](https://doi.org/10.5281/zenodo.18036790)  
+  Source folder: [`Research Report/2025/EPINOVA–2025–01–RR/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR)  
+  Source PDF: [`From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2025/EPINOVA%E2%80%932025%E2%80%9301%E2%80%93RR/From%20Detection%20to%20Depletion%20Cost-Exchange%20Limits%20in%20the%20Russia%E2%80%93Ukraine%20Drone%20War.pdf)
 
 ---
 
 ### Working Papers
 
-- **EPINOVA-WP-F-2026-09** (2026-03-20)  
+- **EPINOVA-WP-F-2026-009** (2026-03-20)  
   **A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict**  
-  Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–09/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309)  
-  File: [`A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309/A%20Systemic%20Theory%20of%20Escalation%20and%20the%20Loss-of-Control%20Threshold%20in%20Networked%20Conflict.pdf)
+  Publication page: [https://doi.org/10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
+  Temporary archival DOI: [10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–09/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309)  
+  Source PDF: [`A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309/A%20Systemic%20Theory%20of%20Escalation%20and%20the%20Loss-of-Control%20Threshold%20in%20Networked%20Conflict.pdf)
 
-- **EPINOVA-WP-F-2026-08** (2026-03-19)  
+- **EPINOVA-WP-F-2026-008** (2026-03-19)  
   **Who Loses Control First?: Threshold Competition in the 2026 U.S.–Israel–Iran Conflict**  
-  Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–08/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308)  
-  File: [`Who Loses Control First.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf)
+  Publication page: [https://doi.org/10.5281/zenodo.19118195](https://doi.org/10.5281/zenodo.19118195)  
+  Temporary archival DOI: [10.5281/zenodo.19118195](https://doi.org/10.5281/zenodo.19118195)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–08/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308)  
+  Source PDF: [`Who Loses Control First.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf)
 
-- **EPINOVA-WP-F-2026-07** (2026-03-17)  
+- **EPINOVA-WP-F-2026-007** (2026-03-17)  
   **Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure**  
-  Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
-  File: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
+  Publication page: [https://doi.org/10.5281/zenodo.19078936](https://doi.org/10.5281/zenodo.19078936)  
+  Temporary archival DOI: [10.5281/zenodo.19078936](https://doi.org/10.5281/zenodo.19078936)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
+  Source PDF: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
 
-- **EPINOVA-WP-F-2026-06** (2026-03-11)  
+- **EPINOVA-WP-F-2026-006** (2026-03-11)  
   **Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict**  
-  Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–06/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306)  
-  File: [`Industrial War vs Network War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf)
+  Publication page: [https://doi.org/10.5281/zenodo.18972327](https://doi.org/10.5281/zenodo.18972327)  
+  Temporary archival DOI: [10.5281/zenodo.18972327](https://doi.org/10.5281/zenodo.18972327)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–06/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306)  
+  Source PDF: [`Industrial War vs Network War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf)
 
-- **EPINOVA-WP-F-2026-05** (2026-03-09)  
+- **EPINOVA-WP-F-2026-005** (2026-03-09)  
   **Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare**  
-  Repository folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–05/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305)  
-  File: [`Cloud Under Fire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf)
+  Publication page: [https://doi.org/10.5281/zenodo.18923621](https://doi.org/10.5281/zenodo.18923621)  
+  Temporary archival DOI: [10.5281/zenodo.18923621](https://doi.org/10.5281/zenodo.18923621)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–05/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305)  
+  Source PDF: [`Cloud Under Fire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf)
 ## Publication Metadata
 
 EPINOVA publication records use structured `metadata.json` files. These records support:

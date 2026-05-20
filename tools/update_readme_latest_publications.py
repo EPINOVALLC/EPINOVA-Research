@@ -8,12 +8,19 @@ from urllib.parse import quote
 # =========================================================
 # EPINOVA README Full Auto-Updater
 #
+# Current publication workflow:
+# - EPINOVA publication landing pages are the primary public access layer.
+# - Crossref DOI records are the formal DOI registration layer when available.
+# - During the Crossref migration period, Zenodo/DataCite DOIs may be displayed
+#   as temporary archival DOI links.
+# - GitHub source folders/files remain transparency and version-traceability references.
+#
 # Functions:
 # - Run git ls-files and generate repository_files.txt
 # - Read repository file structure
 # - Group publications by category
 # - Select latest 5 publications per category
-# - Generate GitHub folder/file links
+# - Generate publication landing page, DOI, GitHub folder, and source PDF links
 # - Auto-update README.md:
 #   1) Overview wording
 #   2) Repository Structure section
@@ -24,9 +31,12 @@ from urllib.parse import quote
 # python tools/update_readme_latest_publications.py
 # =========================================================
 
+
 REPO_OWNER = "EPINOVALLC"
 REPO_NAME = "EPINOVA-Research"
 BRANCH = "main"
+
+PUBLICATIONS_SITE_BASE = "https://publications.epinova.org"
 
 README_NAME = "README.md"
 REPOSITORY_FILES_NAME = "repository_files.txt"
@@ -34,6 +44,7 @@ REPOSITORY_FILES_NAME = "repository_files.txt"
 REPOSITORY_STRUCTURE_TITLE = "## Repository Structure"
 PUBLICATION_TYPE_CODES_TITLE = "## Publication Type Codes"
 LATEST_SECTION_TITLE = "## Latest Publications"
+
 
 # These names must match the physical top-level folders in the repository.
 CATEGORY_ORDER = [
@@ -45,6 +56,7 @@ CATEGORY_ORDER = [
     "Working Paper",
 ]
 
+
 CATEGORY_LABELS = {
     "Index Methodology Paper": "Index Methodology Papers",
     "White Paper": "White Papers",
@@ -54,6 +66,7 @@ CATEGORY_LABELS = {
     "Working Paper": "Working Papers",
 }
 
+
 CATEGORY_CODES = {
     "Index Methodology Paper": "IMP",
     "White Paper": "WHT",
@@ -62,6 +75,7 @@ CATEGORY_CODES = {
     "Research Report": "RR",
     "Working Paper": "WP",
 }
+
 
 CATEGORY_DESCRIPTIONS = {
     "Index Methodology Paper": (
@@ -86,7 +100,9 @@ CATEGORY_DESCRIPTIONS = {
     ),
 }
 
+
 CATEGORY_PREFIXES = tuple(f"{category}/" for category in CATEGORY_ORDER)
+
 
 # Optional support directories to show in Repository Structure if they exist.
 SUPPORT_DIRS = [
@@ -95,6 +111,61 @@ SUPPORT_DIRS = [
     "doc",
     "docs",
     "tools",
+]
+
+
+# Metadata field aliases.
+TITLE_FIELDS = [
+    "full_title",
+    "title_full",
+    "publication_title",
+    "title",
+]
+
+
+SUBTITLE_FIELDS = [
+    "subtitle",
+    "sub_title",
+]
+
+
+IDENTIFIER_FIELDS = [
+    "epinova_id",
+    "publication_id",
+    "identifier",
+    "id",
+]
+
+
+DATE_FIELDS = [
+    "publication_date",
+    "date",
+    "issued",
+    "published_date",
+]
+
+
+LANDING_PAGE_FIELDS = [
+    "official_page",
+    "publication_url",
+    "landing_page",
+    "canonical_url",
+    "url",
+    "html_url",
+]
+
+
+DOI_FIELDS = [
+    "doi",
+    "crossref_doi",
+    "crossref",
+]
+
+
+LEGACY_DOI_FIELDS = [
+    "zenodo_doi",
+    "datacite_doi",
+    "legacy_doi",
 ]
 
 
@@ -126,7 +197,8 @@ def run_git_ls_files() -> list[str]:
     result = subprocess.run(
         [
             "git",
-            "-c", "core.quotePath=false",
+            "-c",
+            "core.quotePath=false",
             "ls-files",
             "--cached",
             "--others",
@@ -140,7 +212,11 @@ def run_git_ls_files() -> list[str]:
         check=True,
     )
 
-    paths = [line.strip().strip('"').replace("\\", "/") for line in result.stdout.splitlines() if line.strip()]
+    paths = [
+        line.strip().strip('"').replace("\\", "/")
+        for line in result.stdout.splitlines()
+        if line.strip()
+    ]
 
     REPOSITORY_FILES_PATH.write_text(
         "\n".join(paths) + "\n",
@@ -167,12 +243,83 @@ def github_tree_url(relative_folder: str) -> str:
     )
 
 
+def normalize_path(path: str) -> str:
+    return path.replace("\\", "/")
+
+
+def normalize_doi(value: str | None) -> str:
+    """
+    Normalize DOI values.
+
+    Accepts:
+    - 10.xxxx/xxxx
+    - https://doi.org/10.xxxx/xxxx
+    - http://doi.org/10.xxxx/xxxx
+    - DOI: 10.xxxx/xxxx
+    - doi:10.xxxx/xxxx
+    """
+    if not value:
+        return ""
+
+    text = str(value).strip()
+    if not text:
+        return ""
+
+    text = text.replace("DOI:", "").replace("doi:", "").strip()
+
+    if text.startswith("https://doi.org/"):
+        text = text.replace("https://doi.org/", "", 1).strip()
+
+    if text.startswith("http://doi.org/"):
+        text = text.replace("http://doi.org/", "", 1).strip()
+
+    return text
+
+
+def doi_url(doi: str) -> str:
+    normalized = normalize_doi(doi)
+    return f"https://doi.org/{normalized}" if normalized else ""
+
+
+def first_metadata_value(metadata: dict, fields: list[str]) -> str:
+    """
+    Return the first non-empty metadata value from a list of possible field names.
+    """
+    for field in fields:
+        value = metadata.get(field)
+        if value is not None and str(value).strip():
+            return str(value).strip()
+    return ""
+
+
+def is_zenodo_or_datacite_doi(doi: str) -> bool:
+    """
+    EPINOVA previously used Zenodo/DataCite DOIs, usually 10.5281/zenodo...
+    These may be displayed temporarily as archival DOI links during Crossref migration.
+    """
+    normalized = normalize_doi(doi).lower()
+    return normalized.startswith("10.5281/zenodo")
+
+
+def is_crossref_like_doi(doi: str) -> bool:
+    """
+    Treat non-Zenodo DOI as current DOI candidate.
+    For EPINOVA Crossref records, this will normally include the Crossref prefix.
+    """
+    normalized = normalize_doi(doi)
+    if not normalized:
+        return False
+    if is_zenodo_or_datacite_doi(normalized):
+        return False
+    return normalized.startswith("10.")
+
+
 def is_source_publication_pdf(path: str) -> bool:
     """
     Keep only source publication PDFs under the main publication categories.
     Exclude generated docs/ PDFs.
     """
-    normalized = path.replace("\\", "/")
+    normalized = normalize_path(path)
 
     if not normalized.lower().endswith(".pdf"):
         return False
@@ -184,7 +331,7 @@ def is_source_publication_pdf(path: str) -> bool:
 
 
 def get_category(path: str) -> str | None:
-    normalized = path.replace("\\", "/")
+    normalized = normalize_path(path)
     for category in CATEGORY_ORDER:
         if normalized.startswith(f"{category}/"):
             return category
@@ -223,19 +370,16 @@ def clean_pdf_title(filename: str) -> str:
 
 
 def full_title_from_metadata(metadata: dict, fallback_title: str) -> str:
-    title = (
-        metadata.get("full_title")
-        or metadata.get("title_full")
-        or metadata.get("publication_title")
-        or metadata.get("title")
-        or fallback_title
-    )
+    title = first_metadata_value(metadata, TITLE_FIELDS) or fallback_title
+    subtitle = first_metadata_value(metadata, SUBTITLE_FIELDS)
 
-    subtitle = metadata.get("subtitle", "")
-    if subtitle and subtitle not in str(title):
+    title = str(title).strip()
+    subtitle = str(subtitle).strip()
+
+    if subtitle and subtitle not in title:
         return f"{title}: {subtitle}"
 
-    return str(title).strip()
+    return title
 
 
 def extract_year(path: str) -> str:
@@ -261,6 +405,64 @@ def extract_numeric_rank(text: str) -> int:
     return int(nums[-1])
 
 
+def normalize_url(value: str | None) -> str:
+    if not value:
+        return ""
+
+    text = str(value).strip()
+    if not text:
+        return ""
+
+    if text.startswith("http://") or text.startswith("https://"):
+        return text
+
+    if text.startswith("/"):
+        return PUBLICATIONS_SITE_BASE.rstrip("/") + text
+
+    return text
+
+
+def publication_page_from_metadata(metadata: dict) -> str:
+    return normalize_url(first_metadata_value(metadata, LANDING_PAGE_FIELDS))
+
+
+def current_doi_from_metadata(metadata: dict) -> str:
+    """
+    Prefer Crossref/current DOI fields.
+    If only a DOI field exists but it is a Zenodo/DataCite DOI, do not treat it
+    as the current DOI.
+    """
+    for field in DOI_FIELDS:
+        raw_value = metadata.get(field)
+        if raw_value is None:
+            continue
+
+        normalized = normalize_doi(str(raw_value))
+        if is_crossref_like_doi(normalized):
+            return normalized
+
+    return ""
+
+
+def legacy_doi_from_metadata(metadata: dict) -> str:
+    """
+    Capture Zenodo/DataCite/legacy DOI if present.
+
+    This function also checks the normal DOI fields because older records may store
+    Zenodo DOI directly under "doi".
+    """
+    for field in LEGACY_DOI_FIELDS + DOI_FIELDS:
+        raw_value = metadata.get(field)
+        if raw_value is None:
+            continue
+
+        normalized = normalize_doi(str(raw_value))
+        if is_zenodo_or_datacite_doi(normalized):
+            return normalized
+
+    return ""
+
+
 def publication_record(pdf_path: str) -> dict:
     pdf = ROOT / pdf_path
     folder = pdf.parent
@@ -272,19 +474,28 @@ def publication_record(pdf_path: str) -> dict:
     title = full_title_from_metadata(metadata, fallback_title)
 
     epinova_id = (
-        metadata.get("epinova_id")
-        or metadata.get("identifier")
+        first_metadata_value(metadata, IDENTIFIER_FIELDS)
         or folder.name
     )
 
     publication_date = (
-        metadata.get("publication_date")
-        or metadata.get("date")
+        first_metadata_value(metadata, DATE_FIELDS)
         or extract_date(pdf_path)
         or extract_year(pdf_path)
     )
 
     category = get_category(pdf_path)
+
+    current_doi = current_doi_from_metadata(metadata)
+    legacy_doi = legacy_doi_from_metadata(metadata)
+    publication_page = publication_page_from_metadata(metadata)
+
+    # Transitional DOI display rule:
+    # - Prefer Crossref/current DOI if available.
+    # - If not available, temporarily display Zenodo/DataCite DOI.
+    # - Mark whether the displayed DOI is current or temporary archival.
+    display_doi = current_doi or legacy_doi
+    display_doi_status = "current" if current_doi else ("legacy" if legacy_doi else "missing")
 
     return {
         "category": category,
@@ -297,6 +508,12 @@ def publication_record(pdf_path: str) -> dict:
         "pdf_path": pdf_path.replace("\\", "/"),
         "rank_number": extract_numeric_rank(str(epinova_id) + " " + folder.name),
         "year": extract_year(pdf_path),
+        "publication_page": publication_page,
+        "doi": current_doi,
+        "legacy_doi": legacy_doi,
+        "display_doi": display_doi,
+        "display_doi_status": display_doi_status,
+        "metadata": metadata,
     }
 
 
@@ -317,7 +534,7 @@ def sort_key(record: dict):
 def detect_top_level_dirs(paths: list[str]) -> set[str]:
     dirs = set()
     for path in paths:
-        normalized = path.replace("\\", "/")
+        normalized = normalize_path(path)
         if "/" in normalized:
             dirs.add(normalized.split("/", 1)[0])
     return dirs
@@ -331,7 +548,6 @@ def build_repository_structure_section(paths: list[str]) -> str:
 
     ordered_dirs = []
 
-    # Put Articles first if present, then publication categories.
     if "Articles" in existing_top_dirs or (ROOT / "Articles").exists():
         ordered_dirs.append("Articles")
 
@@ -340,7 +556,9 @@ def build_repository_structure_section(paths: list[str]) -> str:
             ordered_dirs.append(dirname)
 
     for dirname in SUPPORT_DIRS:
-        if dirname not in ordered_dirs and (dirname in existing_top_dirs or (ROOT / dirname).exists()):
+        if dirname not in ordered_dirs and (
+            dirname in existing_top_dirs or (ROOT / dirname).exists()
+        ):
             ordered_dirs.append(dirname)
 
     if not ordered_dirs:
@@ -358,12 +576,15 @@ def build_repository_structure_section(paths: list[str]) -> str:
         *tree_lines,
         "```",
         "",
-        "Each publication folder typically contains:",
+        "Each publication source folder typically contains:",
         "",
         "```text",
         "publication.pdf",
         "metadata.json",
         "```",
+        "",
+        "The repository is the source and version-traceability layer for EPINOVA publications. "
+        "The primary public access layer is the EPINOVA publication landing-page system, while DOI metadata is registered through Crossref when available.",
         "",
         "The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.",
         "",
@@ -392,18 +613,72 @@ def build_publication_type_codes_section() -> str:
             f"| {category} | {CATEGORY_CODES[category]} | {CATEGORY_DESCRIPTIONS[category]} |"
         )
 
-    lines.extend([
-        "",
-        "Notes:",
-        "",
-        "- `WP` is reserved for Working Paper.",
-        "- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.",
-        "- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.",
-        "- For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.",
-        "",
-    ])
+    lines.extend(
+        [
+            "",
+            "Notes:",
+            "",
+            "- `WP` is reserved for Working Paper.",
+            "- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.",
+            "- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.",
+            "- For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.",
+            "",
+        ]
+    )
 
     return "\n".join(lines).rstrip() + "\n"
+
+
+def markdown_link(label: str, url: str) -> str:
+    if not url:
+        return ""
+    return f"[{label}]({url})"
+
+
+def build_publication_item_lines(item: dict) -> list[str]:
+    date_text = f" ({item['publication_date']})" if item.get("publication_date") else ""
+
+    publication_page = item.get("publication_page", "")
+    display_doi = item.get("display_doi", "")
+    display_doi_status = item.get("display_doi_status", "missing")
+
+    lines = [
+        f"- **{item['epinova_id']}**{date_text}  ",
+        f"  **{item['title']}**  ",
+    ]
+
+    if publication_page:
+        lines.append(
+            f"  Publication page: {markdown_link(publication_page, publication_page)}  "
+        )
+    else:
+        lines.append(
+            "  Publication page: Not listed in metadata.  "
+        )
+
+    if display_doi:
+        if display_doi_status == "current":
+            lines.append(
+                f"  DOI: {markdown_link(display_doi, doi_url(display_doi))}  "
+            )
+        else:
+            lines.append(
+                f"  Temporary archival DOI: {markdown_link(display_doi, doi_url(display_doi))}  "
+            )
+    else:
+        lines.append(
+            "  DOI: To be assigned or updated after Crossref registration.  "
+        )
+
+    lines.extend(
+        [
+            f"  Source folder: [`{item['folder']}/`]({github_tree_url(item['folder'])})  ",
+            f"  Source PDF: [`{item['filename']}`]({github_blob_url(item['pdf_path'])})",
+            "",
+        ]
+    )
+
+    return lines
 
 
 def build_latest_publications_section(records: list[dict], limit_per_category: int = 5) -> str:
@@ -417,24 +692,22 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
     lines = [
         LATEST_SECTION_TITLE,
         "",
-        "The links below point to the current GitHub repository structure. "
-        "Folder names are preserved as they currently exist in the repository to avoid broken links.",
+        "The links below prioritize EPINOVA publication landing pages where available. "
+        "GitHub links are retained as source-folder and source-file references for transparency, preservation, and version traceability.",
         "",
-        "### DOI Status Notice",
+        "### DOI and Access Notice",
         "",
-        "Zenodo is currently not used as the primary publication access layer for this repository. "
-        "Some previous EPINOVA records may have Zenodo archival identifiers, but the current repository "
-        "and publication workflow is organized around GitHub source folders, EPINOVA publication landing pages, "
-        "and pending Crossref DOI registration.",
+        "EPINOVA publication landing pages serve as the primary public access layer for current publication records. "
+        "Crossref DOI records are used as the formal DOI registration layer when available.",
         "",
-        "Until Crossref membership approval and DOI prefix assignment are completed, newly prepared EPINOVA "
-        "publication records should use the following DOI status statement:",
+        "During the Crossref migration period, existing Zenodo/DataCite DOI records may be displayed as temporary archival DOI links. "
+        "These identifiers are retained for continuity, citation traceability, and archival access, but they may later be superseded by Crossref DOI records.",
+        "",
+        "For newly prepared records that have not yet completed Crossref registration and do not have a temporary archival DOI, use the following temporary status statement:",
         "",
         "```text",
-        "DOI: To be assigned after Crossref membership approval.",
+        "DOI: Temporary archival DOI shown when available; otherwise to be assigned or updated after Crossref registration.",
         "```",
-        "",
-        "After Crossref registration is completed, DOI fields and citation records will be updated accordingly.",
         "",
     ]
 
@@ -448,15 +721,7 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
         lines.append("")
 
         for item in items:
-            date_text = f" ({item['publication_date']})" if item.get("publication_date") else ""
-
-            lines.extend([
-                f"- **{item['epinova_id']}**{date_text}  ",
-                f"  **{item['title']}**  ",
-                f"  Repository folder: [`{item['folder']}/`]({github_tree_url(item['folder'])})  ",
-                f"  File: [`{item['filename']}`]({github_blob_url(item['pdf_path'])})",
-                "",
-            ])
+            lines.extend(build_publication_item_lines(item))
 
         lines.append("---")
         lines.append("")
@@ -470,7 +735,12 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
     return "\n".join(lines).rstrip() + "\n"
 
 
-def replace_level2_section(readme_text: str, heading: str, new_section: str, insert_before_heading: str | None = None) -> str:
+def replace_level2_section(
+    readme_text: str,
+    heading: str,
+    new_section: str,
+    insert_before_heading: str | None = None,
+) -> str:
     """
     Replace a Markdown level-2 section from heading to the next level-2 heading.
     If the section does not exist, insert it before insert_before_heading if found; otherwise append it.
@@ -531,6 +801,11 @@ def update_overview_text(readme_text: str) -> str:
         "Index White Papers": "Index Methodology Papers",
         "Index White Book": "Index Methodology Paper",
         "Index White Books": "Index Methodology Papers",
+        "Zenodo is currently not used as the primary publication access layer": "Zenodo/DataCite records may be displayed as temporary archival DOI links during Crossref migration",
+        "pending Crossref DOI registration": "Crossref DOI registration when available",
+        "pending Crossref membership approval": "Crossref registration",
+        "DOI: To be assigned after Crossref membership approval.": "DOI: Temporary archival DOI shown when available; otherwise to be assigned or updated after Crossref registration.",
+        "DOI: To be assigned or updated after Crossref registration.": "DOI: Temporary archival DOI shown when available; otherwise to be assigned or updated after Crossref registration.",
     }
 
     updated = readme_text
@@ -571,17 +846,41 @@ def update_readme(readme_text: str, paths: list[str], records: list[dict]) -> st
 
 def print_debug_summary(records: list[dict]) -> None:
     counts = {category: 0 for category in CATEGORY_ORDER}
+    landing_count = 0
+    current_doi_count = 0
+    legacy_doi_count = 0
+    display_doi_count = 0
+
     for record in records:
         category = record.get("category")
         if category in counts:
             counts[category] += 1
 
+        if record.get("publication_page"):
+            landing_count += 1
+
+        if record.get("doi"):
+            current_doi_count += 1
+
+        if record.get("legacy_doi"):
+            legacy_doi_count += 1
+
+        if record.get("display_doi"):
+            display_doi_count += 1
+
     print("Publication category counts:")
     for category in CATEGORY_ORDER:
         print(f"  - {category}: {counts[category]}")
 
+    print("Publication metadata coverage:")
+    print(f"  - Publication landing pages detected: {landing_count}")
+    print(f"  - Current/Crossref DOI values detected: {current_doi_count}")
+    print(f"  - Temporary Zenodo/DataCite archival DOI values detected: {legacy_doi_count}")
+    print(f"  - Displayable DOI values detected: {display_doi_count}")
+
     imp_records = [
-        record for record in records
+        record
+        for record in records
         if record.get("category") == "Index Methodology Paper"
         or "IMP" in record.get("epinova_id", "")
         or "Index Methodology Paper" in record.get("folder", "")
@@ -590,9 +889,64 @@ def print_debug_summary(records: list[dict]) -> None:
     if imp_records:
         print("Index Methodology Paper records detected:")
         for record in imp_records:
-            print(f"  - {record.get('epinova_id')} | {record.get('folder')}/ | {record.get('filename')}")
+            print(
+                f"  - {record.get('epinova_id')} | "
+                f"{record.get('folder')}/ | "
+                f"{record.get('filename')}"
+            )
     else:
         print("Index Methodology Paper records detected: 0")
+
+
+def print_missing_metadata_warnings(records: list[dict]) -> None:
+    """
+    Print compact metadata warnings without flooding the terminal.
+
+    Transitional rule:
+    - Publication landing page is expected.
+    - Crossref DOI is not mandatory during the migration period.
+    - Zenodo/DataCite DOI can temporarily serve as displayed archival DOI.
+    """
+    missing_page = [
+        record for record in records
+        if not record.get("publication_page")
+    ]
+
+    has_current_doi = [
+        record for record in records
+        if record.get("doi")
+    ]
+
+    has_legacy_doi_only = [
+        record for record in records
+        if not record.get("doi") and record.get("legacy_doi")
+    ]
+
+    has_no_doi = [
+        record for record in records
+        if not record.get("doi") and not record.get("legacy_doi")
+    ]
+
+    if missing_page:
+        print("Warning: records without publication landing page in metadata:")
+        for record in sorted(missing_page, key=sort_key, reverse=True)[:20]:
+            print(f"  - {record.get('epinova_id')} | {record.get('folder')}/")
+
+        if len(missing_page) > 20:
+            print(f"  ... plus {len(missing_page) - 20} more")
+
+    print("DOI transition summary:")
+    print(f"  - Records with current/Crossref DOI: {len(has_current_doi)}")
+    print(f"  - Records using temporary Zenodo/DataCite archival DOI: {len(has_legacy_doi_only)}")
+    print(f"  - Records with no DOI available yet: {len(has_no_doi)}")
+
+    if has_no_doi:
+        print("Notice: records with neither current DOI nor temporary archival DOI:")
+        for record in sorted(has_no_doi, key=sort_key, reverse=True)[:20]:
+            print(f"  - {record.get('epinova_id')} | {record.get('folder')}/")
+
+        if len(has_no_doi) > 20:
+            print(f"  ... plus {len(has_no_doi) - 20} more")
 
 
 def main() -> None:
@@ -610,6 +964,7 @@ def main() -> None:
     records = [publication_record(path) for path in pdf_paths]
 
     print_debug_summary(records)
+    print_missing_metadata_warnings(records)
 
     readme_text = README_PATH.read_text(encoding="utf-8")
     updated_readme = update_readme(readme_text, paths, records)
