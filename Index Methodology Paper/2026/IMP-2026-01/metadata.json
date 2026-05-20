@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.imp.2026.001",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-imp-2026-001/",
   "official_page": "https://epinova.org/publications",
@@ -58,6 +58,16 @@
       "identifier": "PCI",
       "scheme": "Acronym",
       "description": "Acronym for Political Credit Index"
+    },
+    {
+      "identifier": "10.67037/epinova.imp.2026.001",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this EPINOVA index methodology paper"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.imp.2026.001",
+      "scheme": "DOI URL",
+      "description": "Persistent DOI resolution URL for this EPINOVA index methodology paper"
     }
   ],
   "description": "This Index Methodology Paper introduces the Political Credit Index (PCI), a proposed framework for measuring political credibility as strategic intangible capital. It defines political credit, develops a seven-dimensional indicator architecture, provides normalization and weighting procedures, introduces valuation channels, proposes a dynamic model, and outlines applications in governance analysis, crisis monitoring, sovereign-risk assessment, alliance credibility evaluation, and institutional self-assessment.",
@@ -122,6 +132,11 @@
       "date": "2026-05-08",
       "date_type": "Metadata updated",
       "description": "Metadata generated to EPINOVA publication schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
     }
   ],
   "license": {
@@ -469,9 +484,9 @@
     "World Bank. (2025b). The Worldwide Governance Indicators: 2025 methodology revision. https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202025%20Methodology%20Revision.pdf",
     "World Justice Project. (2025). WJP Rule of Law Index 2025. https://worldjusticeproject.org/rule-of-law-index/"
   ],
-  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-001/. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://publications.epinova.org/epinova-imp-2026-001/. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Political Credit Index (PCI), EPINOVA-IMP-2026-001.",
+  "recommended_citation": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.imp.2026.001.",
+  "citation_apa": "Wu, S. (2026). Political Credit Index (PCI): Measuring political credibility as strategic intangible capital (Index Methodology Paper Version 1.0, EPINOVA-IMP-2026-001). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.imp.2026.001.",
+  "short_citation": "Wu (2026), Political Credit Index (PCI), EPINOVA-IMP-2026-001, https://doi.org/10.67037/epinova.imp.2026.001.",
   "imprint": {
     "title": "EPINOVA Index Methodology Paper Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -558,8 +573,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-08",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied title, subtitle, version, release status, EPINOVA identifier, publication date, author and ORCID, institutional affiliation, executive summary, key findings, PCI indicator architecture, formulas, weighting templates, data-source strategy, valuation channels, dynamic model, classification framework, hypothetical calculation, applications, limitations, future research agenda, references, disclaimer, version history, and citation recommendation. No DOI is printed in the PDF; Crossref DOI remains pending unless later assigned."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied title, subtitle, version, release status, EPINOVA identifier, publication date, author and ORCID, institutional affiliation, executive summary, key findings, PCI indicator architecture, formulas, weighting templates, data-source strategy, valuation channels, dynamic model, classification framework, hypothetical calculation, applications, limitations, future research agenda, references, disclaimer, version history, and citation recommendation. No DOI is printed in the PDF source file; Crossref DOI 10.67037/epinova.imp.2026.001 has now been assigned and registered for the publication landing page."
   },
   "pdf_metadata": {
     "title": "Political Credit Index (PCI): Measuring Political Credibility as Strategic Intangible Capital",
@@ -571,15 +586,22 @@
     "pages": 60
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The landing page is prepared as the intended DOI resolution interface once Crossref registration is available.",
+    "status": "registered",
+    "doi": "10.67037/epinova.imp.2026.001",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registration has been confirmed by deposit result email. The DOI resolves to the EPINOVA publication landing page.",
     "crossref_url": "https://publications.epinova.org/epinova-imp-2026-001/",
     "crossref_doi_suffix": "epinova.imp.2026.001",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered",
+    "doi_url": "https://doi.org/10.67037/epinova.imp.2026.001",
+    "deposit_result": "success",
+    "deposit_confirmation": "Deposit result email received",
+    "deposit_xml_file": "",
+    "registered_date": "2026-05-19",
+    "registered_via": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -596,5 +618,20 @@
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "status": "success",
+    "registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "web_deposit_form_version": "1.12.1",
+    "doi": "10.67037/epinova.imp.2026.001",
+    "doi_url": "https://doi.org/10.67037/epinova.imp.2026.001",
+    "landing_page": "https://publications.epinova.org/epinova-imp-2026-001/",
+    "depositor_email": "sywu@epinova.org",
+    "deposit_confirmation": "Deposit result email received",
+    "deposit_xml_file": "",
+    "registered_date": "2026-05-19",
+    "notes": "Deposit XML filename was not provided in the conversation; add it here if needed for audit tracking."
+  }
 }

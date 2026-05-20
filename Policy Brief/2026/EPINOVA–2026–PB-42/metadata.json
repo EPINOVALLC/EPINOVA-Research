@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.042",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-042/",
   "official_page": "https://epinova.org/policy-brief-1",
@@ -53,6 +53,16 @@
       "identifier": "Beyond Hormuz",
       "scheme": "Short title",
       "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "10.67037/epinova.pb.2026.042",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this publication"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.pb.2026.042",
+      "scheme": "DOI URL",
+      "description": "Resolvable DOI URL registered through Crossref"
     }
   ],
   "description": "This policy brief analyzes Iran’s reported ten-corridor logistics adaptation under blockade pressure. It evaluates how plausible land-sea corridors, Caspian shipping, Central Asian rail connectivity, air replenishment, and residual Hormuz/Persian Gulf movement combine into a multi-domain, threshold-delaying supply system that preserves minimum viable flow without replacing Hormuz-centered maritime scale.",
@@ -120,6 +130,16 @@
     {
       "date": "2026-05-01",
       "date_type": "Metadata updated to latest schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email for 10.67037/epinova.pb.2026.042"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref DOI registration"
     }
   ],
   "license": {
@@ -393,9 +413,9 @@
       "url": "https://doi.org/10.5281/zenodo.19139977"
     }
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure, Policy Brief No. EPINOVA–2026–PB–42, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Beyond Hormuz: Iran’s ten-corridor logistics adaptation under blockade pressure: Caspian shipping, Central Asian rail, and the multi-domain logic of threshold-delaying supply (Policy Brief No. EPINOVA–2026–PB–42). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Beyond Hormuz, EPINOVA–2026–PB–42.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply, Policy Brief No. EPINOVA–2026–PB–42, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.042.",
+  "citation_apa": "Wu, S. (2026). Beyond Hormuz: Iran’s ten-corridor logistics adaptation under blockade pressure: Caspian shipping, Central Asian rail, and the multi-domain logic of threshold-delaying supply (Policy Brief No. EPINOVA–2026–PB–42). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.042",
+  "short_citation": "Wu (2026), Beyond Hormuz, EPINOVA–2026–PB–42, 10.67037/epinova.pb.2026.042.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
@@ -474,8 +494,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-28",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, ten-corridor reconstruction, three-layer logistics model, figures, tables, policy implications, limitations, conclusion, recommended citation, and disclaimer. Early metadata supplied official page URL, GitHub PDF URL, repository folder, repository URL, CC-BY license metadata, related works, references, and Crossref/DataCite placeholders. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, ten-corridor reconstruction, three-layer logistics model, figures, tables, policy implications, limitations, conclusion, recommended citation, and disclaimer. Early metadata supplied official page URL, GitHub PDF URL, repository folder, repository URL, CC-BY license metadata, related works, references, and Crossref/DataCite placeholders. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval. Crossref DOI 10.67037/epinova.pb.2026.042 was registered successfully through the Crossref Web Deposit Form and now serves as the primary DOI for this publication."
   },
   "pdf_metadata": {
     "title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply",
@@ -487,15 +507,19 @@
     "pages": 10
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.042",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registration confirmed by deposit result email. The publication landing page serves as the primary DOI resolution interface.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-042/",
     "crossref_doi_suffix": "epinova.pb.2026.042",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.042",
+    "deposit_result": "success",
+    "deposit_xml_file": "",
+    "deposit_xml_file_note": "Deposit XML filename was not provided in the chat message; fill manually if needed."
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -512,5 +536,25 @@
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "registration_agency": "Crossref",
+    "status": "registered",
+    "deposit_result": "success",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "web_deposit_form_version": "1.12.1",
+    "doi": "10.67037/epinova.pb.2026.042",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.042",
+    "url": "https://publications.epinova.org/epinova-pb-2026-042/",
+    "registered_title": "Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure: Caspian Shipping, Central Asian Rail, and the Multi-Domain Logic of Threshold-Delaying Supply",
+    "registered_report_number": "EPINOVA-PB-2026-042",
+    "publisher": "EPINOVA LLC",
+    "institution_name": "Global AI Governance and Policy Research Center",
+    "institution_place": "United States",
+    "publication_date_online": "2026-04-28",
+    "deposit_email": "sywu@epinova.org",
+    "deposit_xml_file": "",
+    "notes": "Metadata updated after successful Crossref Web Deposit Form registration. XML filename was not provided."
+  }
 }

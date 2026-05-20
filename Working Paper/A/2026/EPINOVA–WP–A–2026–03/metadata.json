@@ -31,11 +31,21 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.wp.a.2026.003",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-wp-a-2026-003/",
   "official_page": "https://epinova.org/working-papers",
   "alternate_identifiers": [
+    {
+      "identifier": "10.67037/epinova.wp.a.2026.003",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this working paper"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.wp.a.2026.003",
+      "scheme": "URL",
+      "description": "DOI resolution URL"
+    },
     {
       "identifier": "https://epinova.org/working-papers",
       "scheme": "URL",
@@ -130,6 +140,11 @@
       "date": "2026-05-11",
       "date_type": "Metadata created",
       "description": "Metadata generated from source PDF using EPINOVA metadata schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
     }
   ],
   "license": {
@@ -359,9 +374,9 @@
     "Singer, P. W. (2009). Wired for war: The robotics revolution and conflict in the 21st century. Penguin Press. https://www.penguinrandomhouse.com/books/306515/wired-for-war-by-pw-singer/",
     "Watts, D. J. (2003). Six degrees: The science of a connected age. W. W. Norton. https://wwnorton.com/books/9780393325422"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). From Control Substitution to Structural Dominance: Morphological Convergence and Infrastructure Power in Autonomous Systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-003). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-003). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), From Control Substitution to Structural Dominance, EPINOVA-WP-A-2026-003.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). From Control Substitution to Structural Dominance: Morphological Convergence and Infrastructure Power in Autonomous Systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-003). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.003.",
+  "citation_apa": "Wu, S. (2026). From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-003). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.003.",
+  "short_citation": "Wu (2026), From Control Substitution to Structural Dominance, EPINOVA-WP-A-2026-003, 10.67037/epinova.wp.a.2026.003.",
   "imprint": {
     "title": "EPINOVA Working Paper Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -428,8 +443,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-11",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied working paper number, title, author, ORCID, affiliation, date, abstract, keywords, A-Series information, recommended citation, DOI status, disclaimer, conceptual sections, table, figures, references, and conclusion. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-19",
+    "notes": "Metadata updated after successful Crossref Web Deposit Form registration. DOI is now recorded as Crossref DOI 10.67037/epinova.wp.a.2026.003 and resolves through the official EPINOVA publication landing page."
   },
   "pdf_metadata": {
     "title": "From Control Substitution to Structural Dominance: Morphological Convergence and Infrastructure Power in Autonomous Systems: Morphological Convergence and Infrastructure Power in Autonomous Systems",
@@ -441,15 +456,23 @@
     "pages": 21
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.a.2026.003",
+    "doi_url": "https://doi.org/10.67037/epinova.wp.a.2026.003",
+    "deposit_ready": true,
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-05-19",
+    "deposit_xml_file": "cr-7bcd623519e3f3c9546-3768.xml",
+    "notes": "Crossref Web Deposit Form submission was successfully received and the DOI registration was confirmed by email. Record type used: report. Deposit type used: Report.",
     "crossref_url": "https://publications.epinova.org/epinova-wp-a-2026-003/",
     "crossref_doi_suffix": "epinova.wp.a.2026.003",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -459,12 +482,27 @@
     "resource_type": "Working Paper",
     "use_for_dataset": false,
     "related_dataset_doi": "",
-    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
   },
   "orcid": {
     "put_code": "",
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "cr-7bcd623519e3f3c9546-3768.xml",
+    "registered_doi": "10.67037/epinova.wp.a.2026.003",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.a.2026.003",
+    "registered_url": "https://publications.epinova.org/epinova-wp-a-2026-003/",
+    "registration_date": "2026-05-19",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
 }

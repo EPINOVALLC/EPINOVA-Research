@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.046",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-046/",
   "official_page": "https://epinova.org/policy-brief-1",
@@ -58,6 +58,16 @@
       "identifier": "Continental Redundancy",
       "scheme": "Short analytical concept",
       "description": "Short form of the brief’s core strategic argument"
+    },
+    {
+      "identifier": "10.67037/epinova.pb.2026.046",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this publication"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.pb.2026.046",
+      "scheme": "URL",
+      "description": "DOI URL resolving to the EPINOVA publication landing page"
     }
   ],
   "description": "This policy brief analyzes China’s emerging landward strategy under Hormuz-related maritime disruption by introducing the Inner Eurasian Landward Interface as a functional strategic geography linking western China, Central Asia, Afghanistan, Iran, Pakistan, the Caspian corridor system, and northern Indian Ocean port approaches. It argues that China’s advantage lies not in one decisive corridor, but in layered continental redundancy across northern, northeastern, southeastern, and reserve route options.",
@@ -130,6 +140,11 @@
       "date": "2026-05-09",
       "date_type": "Metadata updated",
       "description": "Metadata generated to latest EPINOVA schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
     }
   ],
   "license": {
@@ -327,12 +342,12 @@
   ],
   "references": [
     "Wu, Shaoyuan. (2026). Russia–Iran Northern Supply Capacity: A Three-Channel Assessment of Sustained Throughput Under Constraint. Policy Brief No. EPINOVA–2026–PB–27. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
-    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure. Policy Brief No. EPINOVA–2026–PB–43. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict. Policy Brief No. EPINOVA–2026–PB–45. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.042",
+    "Wu, Shaoyuan. (2026). Transit of Goods through Territory of Pakistan Order 2026: Six Land Routes, Third-Country Goods, and the Southeastern Bypass of Hormuz Pressure. Policy Brief No. EPINOVA–2026–PB–43. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.043",
+    "Wu, Shaoyuan. (2026). China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict. Policy Brief No. EPINOVA–2026–PB–45. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.045"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface. Policy Brief No. EPINOVA–2026–PB–46. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From Hormuz pressure to continental redundancy: China’s landward strategy across the Inner Eurasian Landward Interface. EPINOVA Policy Brief Series, EPINOVA-PB-2026-046. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface. Policy Brief No. EPINOVA–2026–PB–46. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.046",
+  "citation_apa": "Wu, S. (2026). From Hormuz pressure to continental redundancy: China’s landward strategy across the Inner Eurasian Landward Interface. EPINOVA Policy Brief Series, EPINOVA-PB-2026-046. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.046",
   "short_citation": "Wu (2026), From Hormuz Pressure to Continental Redundancy, EPINOVA–2026–PB–46.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
@@ -386,8 +401,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-09",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, Inner Eurasian Landward Interface definition, route-layer analysis, strategic implications, limitations, conclusion, recommended citation, DOI status, disclaimer, Table 1, and Figure 1. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, Inner Eurasian Landward Interface definition, route-layer analysis, strategic implications, limitations, conclusion, recommended citation, DOI status, disclaimer, Table 1, and Figure 1. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval. Crossref DOI 10.67037/epinova.pb.2026.046 was registered on 2026-05-19; metadata updated from pending to registered status."
   },
   "pdf_metadata": {
     "title": "From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface: Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity",
@@ -399,15 +414,18 @@
     "pages": 9
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.046",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registration confirmed by deposit result email. Landing page is the primary DOI resolution target.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-046/",
     "crossref_doi_suffix": "epinova.pb.2026.046",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.046",
+    "deposit_result": "success",
+    "registered_date": "2026-05-19"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -424,5 +442,21 @@
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "doi": "10.67037/epinova.pb.2026.046",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.046",
+    "landing_page": "https://publications.epinova.org/epinova-pb-2026-046/",
+    "result": "success",
+    "registration_status": "Registered",
+    "deposit_result_email_received": true,
+    "deposit_email": "sywu@epinova.org",
+    "deposit_xml_file": "",
+    "registered_date": "2026-05-19",
+    "notes": "Registered via Crossref Web Deposit Form after Crossref membership approval. Deposit XML filename was not provided in the current chat turn."
+  }
 }

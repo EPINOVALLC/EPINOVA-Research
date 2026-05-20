@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.045",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-045/",
   "official_page": "https://epinova.org/policy-brief-1",
@@ -53,6 +53,16 @@
       "identifier": "China as a Stabilizing Network Node",
       "scheme": "Short title",
       "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "10.67037/epinova.pb.2026.045",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this publication"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.pb.2026.045",
+      "scheme": "DOI URL",
+      "description": "Resolvable Crossref DOI URL"
     }
   ],
   "description": "This policy brief assesses China's strategic positioning in the U.S.–Israel–Iran conflict through a qualitative risk-adjusted benefit framework. It argues that China is best understood not as a simple beneficiary, but as a high-exposure stabilizing network node that may gain diplomatic relevance, strategic leverage, and narrative space while simultaneously absorbing energy, shipping, sanctions, and spillover risks.",
@@ -118,6 +128,16 @@
       "date": "2026-05-07",
       "date_type": "Metadata updated",
       "description": "Metadata generated according to the latest EPINOVA schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after successful Crossref DOI registration"
     }
   ],
   "license": {
@@ -328,8 +348,8 @@
     "Wu, Shaoyuan. (2026). China in the U.S.–Iran Conflict: An MCCM v2.1 Assessment of Structural Exposure, Transmission Pressure, and Threshold-Coupling Risk. Policy Brief No. EPINOVA–2026–PB–34. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19633889",
     "Wu, Shaoyuan. (2026). From Beneficiary to Burden Carrier: China's Structural Exposure in the Strait of Hormuz Crisis. Policy Brief No. EPINOVA–2026–PB–43. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19632808"
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–45, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). China as a stabilizing network node: Strategic positioning and risk-adjusted benefit in the U.S.–Israel–Iran conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-045. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict. Policy Brief No. EPINOVA–2026–PB–45. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.045.",
+  "citation_apa": "Wu, S. (2026). china as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-045. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.045.",
   "short_citation": "Wu (2026), China as a Stabilizing Network Node, EPINOVA–2026–PB–45.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
@@ -375,8 +395,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-07",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, domain-level benefit-risk assessment, policy implications, limitations, conclusion, recommended citation, DOI status, disclaimer, and Figure 1. Reference metadata supplied the target EPINOVA schema, repository structure, license convention, Crossref/DataCite placeholders, and creator identity conventions. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, methodological note, domain-level benefit-risk assessment, policy implications, limitations, conclusion, recommended citation, DOI status, disclaimer, and Figure 1. Reference metadata supplied the target EPINOVA schema, repository structure, license convention, Crossref/DataCite placeholders, and creator identity conventions. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval. Crossref DOI registration confirmed by deposit result email; DOI and citation fields updated accordingly."
   },
   "pdf_metadata": {
     "title": "China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict",
@@ -388,15 +408,17 @@
     "pages": 7
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.045",
     "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "notes": "Crossref DOI registration confirmed by deposit result email. The publication landing page serves as the primary DOI resolution interface.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-045/",
     "crossref_doi_suffix": "epinova.pb.2026.045",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.045",
+    "deposit_result": "success"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -413,5 +435,21 @@
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "status": "success",
+    "registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "doi": "10.67037/epinova.pb.2026.045",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.045",
+    "landing_page": "https://publications.epinova.org/epinova-pb-2026-045/",
+    "deposit_result": "success",
+    "result_email_received": true,
+    "result_email_address": "sywu@epinova.org",
+    "deposit_xml_file": "",
+    "deposit_date": "2026-05-19",
+    "notes": "Deposit result email received and metadata updated to registered Crossref DOI status. XML filename was not provided in the chat turn."
+  }
 }

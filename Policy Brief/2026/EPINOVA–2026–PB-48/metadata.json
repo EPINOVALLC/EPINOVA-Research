@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.048",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-048/",
   "official_page": "https://epinova.org/policy-brief-1",
@@ -58,6 +58,16 @@
       "identifier": "CHVS",
       "scheme": "Acronym",
       "description": "Acronym for the Chokepoint–Hydrocarbon Value System framework"
+    },
+    {
+      "identifier": "10.67037/epinova.pb.2026.048",
+      "scheme": "Crossref DOI",
+      "description": "Registered Crossref DOI"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.pb.2026.048",
+      "scheme": "DOI URL",
+      "description": "Resolvable DOI URL registered with Crossref"
     }
   ],
   "description": "This policy brief analyzes the reported Hormuz transit-fee mechanism as a possible early-stage Chokepoint–Hydrocarbon Value System (CHVS), in which maritime access, hydrocarbon dependence, passage pricing, alternative settlement channels, sanctions exposure, and political alignment become linked inside a contested chokepoint environment.",
@@ -122,6 +132,11 @@
       "date": "2026-05-13",
       "date_type": "Metadata updated",
       "description": "Metadata generated according to the EPINOVA publication metadata schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
     }
   ],
   "license": {
@@ -344,11 +359,11 @@
   "references": [
     "OFAC guidance and advisories on sanctions risk related to Hormuz toll-payment mechanisms.",
     "Public reporting on vessel-level toll pressure, shipping-company denials, alternative settlement channels, and Iran's claimed initial toll revenue.",
-    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-    "Wu, Shaoyuan. (2026). Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes. Policy Brief No. EPINOVA–2026–PB–47. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval."
+    "Wu, Shaoyuan. (2026). Beyond Hormuz: Iran’s Ten-Corridor Logistics Adaptation under Blockade Pressure. Policy Brief No. EPINOVA–2026–PB–42. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.042.",
+    "Wu, Shaoyuan. (2026). Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes. Policy Brief No. EPINOVA–2026–PB–47. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.047."
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz. Policy Brief No. EPINOVA–2026–PB–48. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). From transit fees to a chokepoint–hydrocarbon value system: Repricing passage, energy dependence, and regional leverage in the Strait of Hormuz. EPINOVA Policy Brief Series, EPINOVA-PB-2026-048. Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz. Policy Brief No. EPINOVA–2026–PB–48. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.048.",
+  "citation_apa": "Wu, S. (2026). From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz. EPINOVA Policy Brief Series, EPINOVA-PB-2026-048. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.048.",
   "short_citation": "Wu (2026), From Transit Fees to a Chokepoint–Hydrocarbon Value System, EPINOVA–2026–PB–48.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
@@ -402,8 +417,8 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-05-13",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodology note, CHVS conceptual framework, five-layer model, value-capture formula, evidence-boundary section, monitoring indicators, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI is retained as pending because the PDF states: DOI: To be assigned after Crossref membership approval."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied policy brief number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodology note, CHVS conceptual framework, five-layer model, value-capture formula, evidence-boundary section, monitoring indicators, policy implications, limitations, conclusion, recommended citation, DOI status, and disclaimer. DOI has been updated after successful Crossref registration. Crossref DOI registration confirmed by deposit result email and metadata updated to registered status."
   },
   "pdf_metadata": {
     "title": "From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz",
@@ -415,15 +430,19 @@
     "pages": 8
   },
   "crossref": {
-    "status": "not_registered",
-    "doi": "",
-    "deposit_ready": false,
-    "notes": "No Crossref DOI is indicated in the PDF. The PDF states that DOI is to be assigned after Crossref membership approval.",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.048",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registration confirmed by deposit result email. Metadata may be updated by redepositing an updated Crossref record.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-048/",
     "crossref_doi_suffix": "epinova.pb.2026.048",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Pending"
+    "registration_status": "Registered",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.048",
+    "deposit_result": "success",
+    "registered_date": "2026-05-19",
+    "registered_via": "Crossref Web Deposit Form"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -440,5 +459,22 @@
     "source": "",
     "record_date": ""
   },
-  "publisher_unit": "Global AI Governance and Policy Research Center"
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "status": "success",
+    "registration_agency": "Crossref",
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type": "Report",
+    "report_deposit_type": "Report",
+    "registered_doi": "10.67037/epinova.pb.2026.048",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.048",
+    "landing_page": "https://publications.epinova.org/epinova-pb-2026-048/",
+    "deposit_email": "sywu@epinova.org",
+    "deposit_result": "success",
+    "deposit_xml_file": "",
+    "deposit_xml_file_note": "Not provided in the conversation for this deposit; add manually if available from the Crossref result page or email.",
+    "registered_date": "2026-05-19",
+    "metadata_status_after_deposit": "registered"
+  }
 }

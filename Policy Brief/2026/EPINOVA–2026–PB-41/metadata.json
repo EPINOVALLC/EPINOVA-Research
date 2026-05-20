@@ -29,7 +29,7 @@
   "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "To be assigned after Crossref membership approval",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.041",
   "previous_doi": "10.5281/zenodo.19770272",
   "landing_page": "https://publications.epinova.org/epinova-pb-2026-041/",
   "official_page": "https://epinova.org/policy-brief-1",
@@ -68,6 +68,16 @@
       "identifier": "Energy Endurance Under Systemic Shock",
       "scheme": "Short title",
       "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "10.67037/epinova.pb.2026.041",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this policy brief"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.pb.2026.041",
+      "scheme": "DOI URL",
+      "description": "Resolvable DOI URL for the Crossref-registered record"
     }
   ],
   "description": "This policy brief examines energy endurance under systemic shock and compares divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict. It introduces the Energy Endurance & Survival Index (EESI) and links it to High-Pressure Systemic Equilibrium (HPSE) and the Loss-of-Control Threshold (LoCT) to explain how Japan, South Korea, and Taiwan absorb, transmit, and approach systemic instability under sustained energy pressure.",
@@ -134,6 +144,11 @@
     {
       "date": "2026-05-01",
       "date_type": "Metadata updated to latest schema"
+    },
+    {
+      "date": "2026-05-19",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration confirmed by deposit result email"
     }
   ],
   "license": {
@@ -352,9 +367,9 @@
       "url": "https://doi.org/10.5281/zenodo.19139977"
     }
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–41, Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, S. (2026). Energy endurance under systemic shock: Divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–41). Global AI Governance and Policy Research Center, EPINOVA LLC. DOI: To be assigned after Crossref membership approval.",
-  "short_citation": "Wu (2026), Energy Endurance Under Systemic Shock, EPINOVA–2026–PB–41.",
+  "recommended_citation": "Wu, Shaoyuan (2026), Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict, Policy Brief No. EPINOVA–2026–PB–41, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.041.",
+  "citation_apa": "Wu, S. (2026). Energy endurance under systemic shock: Divergent survival pathways in East Asia during the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–41). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.041",
+  "short_citation": "Wu (2026), Energy Endurance Under Systemic Shock, EPINOVA–2026–PB–41, https://doi.org/10.67037/epinova.pb.2026.041.",
   "imprint": {
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
@@ -531,19 +546,23 @@
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-04-25",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, EESI formula, table and figure titles, policy implications, limitations, conclusion, recommended citation, and disclaimer. Earlier metadata supplied prior Zenodo DOI 10.5281/zenodo.19770272, EPINOVA landing page, official page, repository URLs, and reference list. The PDF states that the DOI is to be assigned after Crossref membership approval; therefore no primary DOI is set and the prior Zenodo DOI is retained as previous_doi and alternate identifier for reconciliation."
+    "last_updated": "2026-05-19",
+    "notes": "PDF supplied policy brief number, title, author, affiliation, date, key judgments, executive summary, EESI formula, table and figure titles, policy implications, limitations, conclusion, recommended citation, and disclaimer. Earlier metadata supplied prior Zenodo DOI 10.5281/zenodo.19770272, EPINOVA landing page, official page, repository URLs, and reference list. The PDF states that the DOI is to be assigned after Crossref membership approval; therefore no primary DOI is set and the prior Zenodo DOI is retained as previous_doi and alternate identifier for reconciliation. Crossref DOI 10.67037/epinova.pb.2026.041 was registered successfully after Web Deposit Form submission; metadata updated to replace pending DOI status with Crossref registered status while retaining the earlier Zenodo/DataCite DOI for reconciliation."
   },
   "crossref": {
-    "status": "pending",
-    "doi": "",
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.041",
     "deposit_ready": true,
-    "notes": "PDF states that DOI is to be assigned after Crossref membership approval. Landing page is intended to serve as the primary Crossref DOI resolution interface after registration.",
+    "notes": "Crossref DOI registered successfully. Landing page serves as the primary DOI resolution interface.",
     "crossref_url": "https://publications.epinova.org/epinova-pb-2026-041/",
     "crossref_doi_suffix": "epinova.pb.2026.041",
     "intended_registration_agency": "Crossref",
-    "registration_status": "Pending",
-    "record_type": "report"
+    "registration_status": "Registered",
+    "record_type": "report",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.041",
+    "deposit_result": "success",
+    "deposit_xml_file": "",
+    "deposit_xml_file_note": "XML file name not provided in the chat; add manually if needed."
   },
   "datacite": {
     "status": "previous_or_reserved",
@@ -561,5 +580,26 @@
   "publisher_unit": "Global AI Governance and Policy Research Center",
   "pdf_metadata": {
     "title": "Energy Endurance Under Systemic Shock: Divergent Survival Pathways in East Asia During the U.S.–Israel–Iran Conflict"
+  },
+  "crossref_deposit": {
+    "registration_agency": "Crossref",
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type": "Report",
+    "report_deposit_type": "Report",
+    "doi": "10.67037/epinova.pb.2026.041",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.041",
+    "url": "https://publications.epinova.org/epinova-pb-2026-041/",
+    "publisher": "EPINOVA LLC",
+    "institution_name": "Global AI Governance and Policy Research Center",
+    "institution_place": "United States",
+    "report_number": "EPINOVA-PB-2026-041",
+    "edition": "v1.0",
+    "publication_date_online": "2026-04-25",
+    "deposit_email": "sywu@epinova.org",
+    "deposit_result": "success",
+    "deposit_xml_file": "",
+    "registration_confirmed_date": "2026-05-19",
+    "notes": "Registered as a Crossref Report record for an EPINOVA Policy Brief. The prior Zenodo/DataCite DOI is retained in previous_doi and datacite for reconciliation."
   }
 }
