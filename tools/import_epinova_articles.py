@@ -4,8 +4,10 @@ import time
 import mimetypes
 import requests
 import html2text
+import xml.etree.ElementTree as ET
+from datetime import datetime
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, unquote
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
@@ -15,6 +17,29 @@ OUTPUT_DIR = ROOT / "Articles"
 
 PUBLISHER = "Global AI Governance and Policy Research Center, EPINOVA LLC"
 MIN_EXPECTED_ARTICLES = 40
+
+# -----------------------------------------------------------------------------
+# Sitemap auto-discovery
+# -----------------------------------------------------------------------------
+# Keep this True to automatically discover newly published GoDaddy blog articles.
+# The static ARTICLE_CATALOG below remains as a curated correction layer for
+# older pages, short slugs, and pages whose title/date metadata are unstable.
+AUTO_DISCOVER_FROM_SITEMAP = True
+
+SITEMAP_SEED_URLS = [
+    "https://epinova.org/sitemap.xml",
+    "https://epinova.org/sitemap_index.xml",
+    "https://epinova.org/post-sitemap.xml",
+    "https://epinova.org/page-sitemap.xml",
+]
+
+# Only discover article/blog pages. This prevents contact/about/publication index
+# pages from being treated as article records.
+SITEMAP_ARTICLE_PATH_PREFIXES = (
+    "/articles/f/",
+)
+
+MAX_SITEMAP_DISCOVERED_ARTICLES = 300
 
 REQUEST_HEADERS = {
     "User-Agent": "Mozilla/5.0 EPINOVA Article Archiver"
@@ -27,6 +52,8 @@ CREATOR = {
 }
 
 ARTICLE_CATALOG = [
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-05-20", "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal"),
     ("2026-04-21", "MCCM v2.3+: Escalation and the Loss-of-Control Threshold"),
     ("2026-04-12", "2026 MCCM 2.0+(23 Variables Ver.): April 12"),
     ("2026-04-11", "The Quiet Surge: How AI Procurement Is Reshaping the Logic of War"),
@@ -104,6 +131,12 @@ ARTICLE_CATALOG = [
 ]
 
 MANUAL_URL_OVERRIDES = {
+    # Latest manually confirmed article.
+    "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal":
+        "https://epinova.org/articles/f/caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal",
+    "Caspian Fast-Cycle Turnover: A May 15 Port Rhythm Signal":
+        "https://epinova.org/articles/f/caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal",
+
     # Short / encoded GoDaddy URLs that should bypass slug reconstruction.
     "MCCM Daily Direct War Cost by Actor: Feb 28 – Apr 1, 2026":
         "https://epinova.org/articles/f/mccm-daily-direct-war-cost-by-actor-feb-28-%E2%80%93-apr-1-2026",
@@ -191,6 +224,165 @@ def normalize_url(url: str) -> str:
     url = url.split("#")[0]
     url = url.split("?")[0]
     return url.rstrip(".").rstrip("/")
+
+
+def xml_local_name(tag: str) -> str:
+    """Return local XML tag name without namespace."""
+    return tag.split("}", 1)[-1] if "}" in tag else tag
+
+
+def fetch_sitemap_xml(url: str) -> str:
+    r = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
+    r.raise_for_status()
+    return r.text
+
+
+def parse_sitemap_xml(xml_text: str) -> tuple[list[str], list[dict]]:
+    """
+    Parse sitemap XML.
+
+    Returns:
+      - child_sitemaps: sitemap URLs found in <sitemapindex>
+      - url_records: page URL records found in <urlset>
+    """
+    child_sitemaps: list[str] = []
+    url_records: list[dict] = []
+
+    try:
+        root = ET.fromstring(xml_text.encode("utf-8"))
+    except Exception:
+        root = ET.fromstring(xml_text)
+
+    root_name = xml_local_name(root.tag)
+
+    if root_name == "sitemapindex":
+        for node in root:
+            if xml_local_name(node.tag) != "sitemap":
+                continue
+            loc = ""
+            for child in node:
+                if xml_local_name(child.tag) == "loc":
+                    loc = clean_text(child.text or "")
+                    break
+            if loc:
+                child_sitemaps.append(normalize_url(loc))
+
+    elif root_name == "urlset":
+        for node in root:
+            if xml_local_name(node.tag) != "url":
+                continue
+
+            loc = ""
+            lastmod = ""
+
+            for child in node:
+                child_name = xml_local_name(child.tag)
+                if child_name == "loc":
+                    loc = clean_text(child.text or "")
+                elif child_name == "lastmod":
+                    lastmod = clean_text(child.text or "")
+
+            if loc:
+                url_records.append({
+                    "url": normalize_url(loc),
+                    "lastmod": lastmod,
+                })
+
+    return child_sitemaps, url_records
+
+
+def is_article_url_from_sitemap(url: str) -> bool:
+    parsed = urlparse(url)
+    path = parsed.path or ""
+
+    if parsed.netloc.lower() not in {"epinova.org", "www.epinova.org"}:
+        return False
+
+    return any(path.startswith(prefix) for prefix in SITEMAP_ARTICLE_PATH_PREFIXES)
+
+
+def title_guess_from_article_url(url: str) -> str:
+    """
+    Build a loose expected title from the URL slug.
+    The real title is still extracted later from og:title / h1 / page title.
+    """
+    path = urlparse(url).path.rstrip("/")
+    slug = path.split("/")[-1]
+    slug = unquote(slug)
+    slug = slug.replace("–", "-").replace("—", "-")
+    slug = re.sub(r"-+", " ", slug)
+    slug = clean_text(slug)
+    return slug.title() if slug else "Untitled Article"
+
+
+def publication_date_from_lastmod(lastmod: str) -> str:
+    """
+    Convert sitemap lastmod into YYYY-MM-DD.
+    If unavailable, use today's date as a safe fallback.
+    """
+    lastmod = clean_text(lastmod)
+    if lastmod:
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})", lastmod)
+        if m:
+            return m.group(1)
+    return datetime.now().strftime("%Y-%m-%d")
+
+
+def sitemap_to_catalog_items() -> list[dict]:
+    """
+    Discover EPINOVA article URLs from sitemap files and convert them into
+    catalog-style items accepted by try_archive_catalog_item().
+    """
+    discovered: list[dict] = []
+    seen_sitemaps: set[str] = set()
+    seen_urls: set[str] = set()
+    queue = list(SITEMAP_SEED_URLS)
+
+    while queue:
+        sitemap_url = normalize_url(queue.pop(0))
+        if sitemap_url in seen_sitemaps:
+            continue
+        seen_sitemaps.add(sitemap_url)
+
+        try:
+            xml_text = fetch_sitemap_xml(sitemap_url)
+            child_sitemaps, url_records = parse_sitemap_xml(xml_text)
+        except Exception as exc:
+            print(f"Warning: sitemap not available or not parseable: {sitemap_url} | {exc}")
+            continue
+
+        for child_url in child_sitemaps:
+            if child_url not in seen_sitemaps:
+                queue.append(child_url)
+
+        for record in url_records:
+            url = normalize_url(record.get("url", ""))
+            if not url or url in seen_urls:
+                continue
+            if not is_article_url_from_sitemap(url):
+                continue
+
+            seen_urls.add(url)
+            guessed_title = title_guess_from_article_url(url)
+            guessed_date = publication_date_from_lastmod(record.get("lastmod", ""))
+
+            discovered.append({
+                "date": guessed_date,
+                "title": guessed_title,
+                "slug": normalize_slug(guessed_title),
+                "candidate_urls": [url],
+                "manual_url_override": False,
+                "manual_url": "",
+                # Sitemap items may not have an exact expected title. The script
+                # should render the page and extract the real title from metadata.
+                "skip_strict_title_validation": True,
+                "source": "sitemap",
+            })
+
+            if len(discovered) >= MAX_SITEMAP_DISCOVERED_ARTICLES:
+                return discovered
+
+    return discovered
 
 
 def clean_text(text: str) -> str:
@@ -764,12 +956,21 @@ def try_archive_catalog_item(item: dict, order_number: int) -> dict | None:
         try:
             html, visible_text, final_url = render_page(candidate_url)
 
-            is_manual_candidate = bool(item.get("manual_url_override")) and idx == 0 and normalize_url(candidate_url) == normalize_url(item.get("manual_url", ""))
-            if is_manual_candidate:
-                warning = manual_url_warning(expected_title, candidate_url)
-                if warning:
-                    print(f"  {warning}")
-                print(f"  Manual override URL used; skipped strict title validation: {candidate_url}")
+            is_manual_candidate = (
+                bool(item.get("manual_url_override"))
+                and idx == 0
+                and normalize_url(candidate_url) == normalize_url(item.get("manual_url", ""))
+            )
+            skip_strict_title_validation = bool(item.get("skip_strict_title_validation")) or is_manual_candidate
+
+            if skip_strict_title_validation:
+                if is_manual_candidate:
+                    warning = manual_url_warning(expected_title, candidate_url)
+                    if warning:
+                        print(f"  {warning}")
+                    print(f"  Manual override URL used; skipped strict title validation: {candidate_url}")
+                else:
+                    print(f"  Sitemap-discovered URL used; skipped strict title validation: {candidate_url}")
             elif not title_matches_page(expected_title, visible_text):
                 last_error = f"title not found in page body at {candidate_url}"
                 continue
@@ -781,8 +982,8 @@ def try_archive_catalog_item(item: dict, order_number: int) -> dict | None:
             description = get_description(soup)
 
             article_text_reference = extract_article_text_from_visible_text(visible_text, expected_title)
-            if len(article_text_reference) < 250 and is_manual_candidate:
-                # Manual short-slug pages may not repeat the exact catalog title.
+            if len(article_text_reference) < 250 and skip_strict_title_validation:
+                # Manual/sitemap pages may not repeat the exact expected catalog title.
                 # Use a cleaned visible-text fallback rather than failing the page.
                 fallback_lines = [line.strip() for line in visible_text.splitlines() if line.strip()]
                 kept = []
@@ -910,32 +1111,97 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
     }
 
 
+def write_indexes(results: list[dict]) -> tuple[list[dict], list[dict], Path, Path]:
+    """
+    Write archive indexes immediately.
+
+    This function is intentionally called after every processed article, so if
+    the script is interrupted, articles_archive_index.json and
+    articles_failed_index.json still reflect the latest completed item.
+    """
+    archived = [r for r in results if r.get("status") == "archived"]
+    failed = [r for r in results if r.get("status") == "failed"]
+    results_sorted = sorted(
+        results,
+        key=lambda r: (r.get("date") or "", r.get("title") or ""),
+        reverse=True,
+    )
+
+    index_path = OUTPUT_DIR / "articles_archive_index.json"
+    failed_path = OUTPUT_DIR / "articles_failed_index.json"
+
+    index_path.write_text(
+        json.dumps(results_sorted, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    failed_path.write_text(
+        json.dumps(failed, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    return archived, failed, index_path, failed_path
+
+
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    catalog_items = catalog_to_seed_urls()
-    print(f"Catalog items: {len(catalog_items)}")
+
+    manual_items = catalog_to_seed_urls()
+    sitemap_items = sitemap_to_catalog_items() if AUTO_DISCOVER_FROM_SITEMAP else []
+
+    # Merge manual catalog + sitemap-discovered URLs.
+    # Manual catalog has priority because it contains curated dates/titles.
+    catalog_items = []
+    seen_candidate_urls = set()
+
+    for item in manual_items + sitemap_items:
+        urls = item.get("candidate_urls", [])
+        primary_url = normalize_url(urls[0]) if urls else ""
+
+        if primary_url and primary_url in seen_candidate_urls:
+            continue
+
+        for u in urls:
+            seen_candidate_urls.add(normalize_url(u))
+
+        catalog_items.append(item)
+
+    print(f"Manual catalog items: {len(manual_items)}")
+    print(f"Sitemap-discovered article items: {len(sitemap_items)}")
+    print(f"Merged catalog items: {len(catalog_items)}")
     print(f"Output folder: {OUTPUT_DIR}")
 
-    results = []
+    results: list[dict] = []
+
+    # Create empty index files at the beginning, so the run always leaves a
+    # visible status record even if it stops early.
+    archived, failed, index_path, failed_path = write_indexes(results)
+    print(f"Initial index file: {index_path}")
+    print(f"Initial failed file: {failed_path}")
+
     for i, item in enumerate(catalog_items, start=1):
         print(f"[{i}/{len(catalog_items)}] {item['date']} | {item['title']}")
         result = try_archive_catalog_item(item, i)
+
         if result:
+            result["order_number"] = i
+            result["total_items"] = len(catalog_items)
+            result["source"] = item.get("source", "manual_catalog")
             results.append(result)
+
+            # Incremental write: refresh the indexes immediately after every
+            # archived or failed item.
+            archived, failed, index_path, failed_path = write_indexes(results)
+            print(f"  Index updated: {index_path}")
+
         if result and result.get("status") == "archived":
             print(f"  Saved: {result['folder']} | images: {result['images']}")
         else:
             print(f"  Failed: {result.get('error', '') if result else ''}")
+
         time.sleep(0.8)
 
-    archived = [r for r in results if r.get("status") == "archived"]
-    failed = [r for r in results if r.get("status") == "failed"]
-    results_sorted = sorted(results, key=lambda r: (r.get("date") or "", r.get("title") or ""), reverse=True)
-
-    index_path = OUTPUT_DIR / "articles_archive_index.json"
-    failed_path = OUTPUT_DIR / "articles_failed_index.json"
-    index_path.write_text(json.dumps(results_sorted, ensure_ascii=False, indent=2), encoding="utf-8")
-    failed_path.write_text(json.dumps(failed, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Final write is still kept to guarantee sorted, complete output at the end.
+    archived, failed, index_path, failed_path = write_indexes(results)
 
     print()
     print(f"Catalog items: {len(catalog_items)}")

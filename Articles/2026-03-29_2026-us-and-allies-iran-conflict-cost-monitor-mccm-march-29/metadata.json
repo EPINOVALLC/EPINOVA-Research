@@ -17,7 +17,7 @@
   "version": "v1.0",
   "status": "Archived from EPINOVA GoDaddy blog",
   "language": "en",
-  "publisher": "EPINOVA LLC",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "place": "Carrollton, Georgia, United States",
   "doi": "To be assigned after Crossref registration",
   "previous_doi": "",
@@ -34,12 +34,12 @@
     "url": ""
   },
   "copyright": "© 2026 EPINOVA LLC. All rights reserved.",
-  "recommended_citation": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29",
+  "citation_apa": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29",
   "original_page": "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29",
   "canonical_url": "",
   "source_status": "archived_from_godaddy_blog_with_images",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Articles/2026-03-29_2026-us-and-allies-iran-conflict-cost-monitor-mccm-march-29",
+  "repository_folder": "Articles/2026-03-29_2026-us-and-allies-iran-conflict-cost-monitor-mccm-march-29",
   "official_page": "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-29",
   "alternate_identifiers": [
     {
@@ -90,25 +90,5 @@
       "content_type": "image/jpeg",
       "description": "Locally archived image from the original EPINOVA article."
     }
-  ],
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "landing_page": "https://publications.epinova.org/epinova-art-2026-2026-us-and-allies-iran-conflict-cost-mo/",
-  "crossref": {
-    "crossref_url": "https://publications.epinova.org/epinova-art-2026-2026-us-and-allies-iran-conflict-cost-mo/",
-    "crossref_doi_suffix": "epinova.art.2026.2026.us.and.allies.iran.conflict.cost.mo",
-    "intended_registration_agency": "Crossref",
-    "registration_status": "Pending",
-    "record_type": "journal-article"
-  },
-  "metadata_source": {
-    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
-    "created_by": "EPINOVA LLC",
-    "created_date": "2026-03-29",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. DOI remains pending."
-  },
-  "publisher_unit": "Global AI Governance and Policy Research Center",
-  "pdf_metadata": {
-    "title": "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29"
-  }
+  ]
 }
