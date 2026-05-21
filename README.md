@@ -13,7 +13,7 @@ This repository serves as the research evidence layer for EPINOVA publications.
 It provides structured access to selected research outputs, including:
 
 - policy briefs, reports, and working papers;
-- conceptual frameworks, white papers, and index methodology papers;
+- conceptual frameworks, white papers, journal articles, and index methodology papers;
 - metadata records and publication source files;
 - supporting materials for external dissemination and long-term reference.
 
@@ -57,6 +57,7 @@ Before Crossref DOI registration is completed, EPINOVA publication records may u
 EPINOVA-Research/
 ├── Articles/
 ├── Index Methodology Paper/
+├── Journal Article/
 ├── White Paper/
 ├── Policy Brief/
 ├── Policy Report/
@@ -79,6 +80,8 @@ The repository is the source and version-traceability layer for EPINOVA publicat
 
 The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.
 
+The `Journal Article/` directory is used for externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series.
+
 The `White Paper/` directory is used for broader institutional white papers, conceptual frameworks, policy architectures, and strategic framework documents.
 
 The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.
@@ -87,6 +90,7 @@ The `docs/` directory contains the generated static publication site deployed th
 | Publication Type | Code | Use |
 |---|---:|---|
 | Index Methodology Paper | IMP | Index construction, measurement frameworks, indicator architecture, normalization, weighting, classification, validation, and scoring systems. |
+| Journal Article | JA | Externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series. |
 | White Paper | WHT | Institutional white papers presenting conceptual frameworks, policy architectures, strategic research, and official EPINOVA framework documents. |
 | Policy Brief | PB | Concise policy analysis, strategic assessment, crisis interpretation, and actionable recommendations. |
 | Policy Report | PR | Policy-facing reports with more detailed background, evidence, and institutional implications. |
@@ -98,6 +102,7 @@ Notes:
 - `WP` is reserved for Working Paper.
 - `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.
 - `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
+- `JA` is used for Journal Article, especially externally published articles or author-archived article records that should not be mixed into EPINOVA policy brief/report numbering.
 - For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.
 ## Latest Publications
 
@@ -130,6 +135,17 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Temporary archival DOI: [10.5281/zenodo.18050662](https://doi.org/10.5281/zenodo.18050662)  
   Source folder: [`Index Methodology Paper/2025/IWP–25–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301)  
   Source PDF: [`Survivor Governance Risk Index Conceptual and Methodological White Book.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Index%20Methodology%20Paper/2025/IWP%E2%80%9325%E2%80%9301/Survivor%20Governance%20Risk%20Index%20Conceptual%20and%20Methodological%20White%20Book.pdf)
+
+---
+
+### Journal Articles
+
+- **EPINOVA-2026-JA-01** (2026-04)  
+  **The Strait of Hormuz and the Partial De-Universalization of the Petrodollar: Chokepoint Power and Settlement Control in the Gulf Energy Order**  
+  Publication page: [https://publications.epinova.org/epinova-2026-ja-01/](https://publications.epinova.org/epinova-2026-ja-01/)  
+  DOI: To be assigned or updated after Crossref registration.  
+  Source folder: [`Journal Article/2026/EPINOVA-2026-JA-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Journal%20Article/2026/EPINOVA-2026-JA-01)  
+  Source PDF: [`The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Journal%20Article/2026/EPINOVA-2026-JA-01/The%20Strait%20of%20Hormuz%20and%20the%20Partial%20De-Universalization%20of%20the%20Petrodollar%20Chokepoint%20Power%20and%20Settlement%20Control%20in%20the%20Gulf%20Energy%20Order.pdf)
 
 ---
 
