@@ -1,0 +1,228 @@
+{
+  "record_id": "EPINOVA-2026-JA-01",
+  "publication_type": "Journal Article",
+  "title": "The Strait of Hormuz and the Partial De-Universalization of the Petrodollar",
+  "subtitle": "Chokepoint Power and Settlement Control in the Gulf Energy Order",
+  "short_title": "The Strait of Hormuz and the Partial De-Universalization of the Petrodollar",
+  "author": [
+    {
+      "name": "Shaoyuan Wu",
+      "display_name": "PhD. Shaoyuan WU",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": [
+        {
+          "name": "EPINOVA LLC",
+          "department": "Global AI Governance and Policy Research Center"
+        }
+      ]
+    }
+  ],
+  "publication_year": 2026,
+  "publication_date": "2026-04",
+  "date_display": "March-April 2026",
+  "language": "en",
+  "publisher": "Geostrategic Pulse",
+  "journal": {
+    "title": "Geostrategic Pulse",
+    "issue": "No. 307",
+    "date": "March-April 2026",
+    "pages": "62-69",
+    "website": "https://www.pulsulgeostrategic.ro/en/editii",
+    "issn": "",
+    "volume": "",
+    "article_pages": "62-69"
+  },
+  "external_publication": true,
+  "published_version": true,
+  "version": "Published version",
+  "epinova_series": {
+    "series_title": "EPINOVA Journal Article Archive",
+    "series_code": "JA",
+    "series_number": "01",
+    "year": 2026
+  },
+  "official_page": "https://publications.epinova.org/epinova-2026-ja-01/",
+  "pdf_filename": "The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf",
+  "doi": "",
+  "doi_status": "To be assigned after Crossref membership approval, if registered as an EPINOVA archival publication record or author-archived version.",
+  "identifiers": {
+    "epinova_id": "EPINOVA-2026-JA-01",
+    "doi": "",
+    "orcid": "https://orcid.org/0009-0008-0660-8232"
+  },
+  "alternate_identifiers": [
+    {
+      "identifier": "https://publications.epinova.org/epinova-2026-ja-01/",
+      "scheme": "URL",
+      "description": "EPINOVA publication record page"
+    },
+    {
+      "identifier": "https://www.pulsulgeostrategic.ro",
+      "scheme": "URL",
+      "description": "Publisher homepage"
+    },
+    {
+      "identifier": "https://www.pulsulgeostrategic.ro/en/editii",
+      "scheme": "URL",
+      "description": "Geostrategic Pulse printed issues archive"
+    }
+  ],
+  "abstract": "The Strait of Hormuz is usually understood as an energy chokepoint, but its strategic significance extends beyond oil supply and maritime security. Under conditions of conflict, blockade pressure, and asymmetric access control, Hormuz may also become a settlement node capable of reshaping how payment authority is distributed in the global energy system. This article argues that recent dynamics around Hormuz do not signal the immediate collapse of the petrodollar system. Instead, they point to a subtler transformation: the partial de-universalization of petrodollar settlement. Iran’s position is structurally distinctive because it is not merely a sanctioned actor attempting to bypass the dollar system. It is also a major oil-and-gas producer and a Hormuz-adjacent power capable of converting chokepoint access into a settlement condition. The article introduces Chokepoint-Driven Settlement Shift (CDSS) to explain how the ability to condition access at critical nodes may transform payment practices from market-wide monetary consensus toward node-conditioned acceptance and access-based value recognition. At the same time, this transformation should not be overstated. Chokepoint power can monetize access and reshape payment conditions, but it does not automatically create a full alternative monetary order or a durable regional value system. The UAE’s announced withdrawal from OPEC and OPEC+ effective May 1 adds a secondary layer to this fragmentation by weakening the assumption of cohesive Gulf production governance. The petrodollar system is therefore not collapsing at once; it is being selectively conditioned, interrupted, and regionally de-universalized through chokepoint power, settlement control, and broader fragmentation in the Gulf energy order.",
+  "keywords": [
+    "Strait of Hormuz",
+    "Petrodollar",
+    "Energy Security",
+    "Chokepoint Power",
+    "Settlement Control",
+    "Chokepoint-Driven Settlement Shift",
+    "Access-Based Value Recognition",
+    "Gulf Energy Order",
+    "Global Order"
+  ],
+  "subjects": [
+    "International Relations",
+    "Energy Security",
+    "Geopolitics",
+    "Monetary Order",
+    "Maritime Security",
+    "Middle East Studies",
+    "Strategic Studies",
+    "Political Economy"
+  ],
+  "description": "This journal article analyzes the Strait of Hormuz as both an energy chokepoint and a strategic settlement node. It argues that the petrodollar system is not collapsing immediately, but is being partially de-universalized through chokepoint power, access-based settlement control, and fragmentation in the Gulf energy order. The article introduces Chokepoint-Driven Settlement Shift (CDSS) as a framework for understanding how control over critical maritime nodes can condition payment practices without creating a full alternative monetary order.",
+  "citation": {
+    "apa": "Wu, S. (2026). The Strait of Hormuz and the partial de-universalization of the petrodollar: Chokepoint power and settlement control in the Gulf energy order. Geostrategic Pulse, No. 307, 62–69.",
+    "chicago": "Wu, Shaoyuan. 2026. “The Strait of Hormuz and the Partial De-Universalization of the Petrodollar: Chokepoint Power and Settlement Control in the Gulf Energy Order.” Geostrategic Pulse, no. 307, March-April 2026, 62–69.",
+    "mla": "Wu, Shaoyuan. “The Strait of Hormuz and the Partial De-Universalization of the Petrodollar: Chokepoint Power and Settlement Control in the Gulf Energy Order.” Geostrategic Pulse, no. 307, Mar.-Apr. 2026, pp. 62–69."
+  },
+  "rights": {
+    "copyright_holder": "Shaoyuan Wu / Geostrategic Pulse, as applicable",
+    "license": "All rights reserved unless otherwise stated by the publisher",
+    "reuse_note": "This metadata record describes an externally published journal article. Any full-text redistribution should follow the publisher’s applicable rights and author-archive permissions."
+  },
+  "relations": [
+    {
+      "type": "isPublishedIn",
+      "title": "Geostrategic Pulse, No. 307, March-April 2026",
+      "publisher": "Geostrategic Pulse",
+      "pages": "62-69",
+      "url": "https://www.pulsulgeostrategic.ro/en/editii"
+    },
+    {
+      "type": "hasPublisherHomepage",
+      "title": "Geostrategic Pulse",
+      "url": "https://www.pulsulgeostrategic.ro"
+    },
+    {
+      "type": "isArchivedBy",
+      "title": "EPINOVA Journal Article Archive",
+      "url": "https://publications.epinova.org/epinova-2026-ja-01/"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Anadolu Agency. (2026, April 23). Iran says it collected 1st revenue from tolls imposed on ships transiting Hormuz. Anadolu Agency.",
+      "url": "https://www.aa.com.tr/en/middle-east/iran-says-it-collected-1st-revenue-from-tolls-imposed-on-ships-transiting-hormuz/3915660"
+    },
+    {
+      "reference": "Associated Press. (2026, April 28). The UAE’s departure from OPEC shakes up the alliance that influences oil prices worldwide. AP News.",
+      "url": "https://apnews.com/article/uae-opec-oil-prices-c6779acba51365416ab1898b18f2beb2"
+    },
+    {
+      "reference": "Bank for International Settlements. (2022, October 27). Triennial Central Bank Survey: OTC foreign exchange turnover in April 2022. Bank for International Settlements.",
+      "url": "https://www.bis.org/statistics/rpfx22_fx.pdf"
+    },
+    {
+      "reference": "Chainalysis. (2026, April 10). Iran’s Strait of Hormuz crypto toll. Chainalysis.",
+      "url": "https://www.chainalysis.com/blog/iran-strait-of-hormuz-crypto-toll/"
+    },
+    {
+      "reference": "Cohen, B. J. (2015). Currency power: Understanding monetary rivalry. Princeton University Press."
+    },
+    {
+      "reference": "Eichengreen, B. (2011). Exorbitant privilege: The rise and fall of the dollar and the future of the international monetary system. Oxford University Press."
+    },
+    {
+      "reference": "International Energy Agency. (2026). Strait of Hormuz. International Energy Agency. Retrieved April 29, 2026.",
+      "url": "https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz"
+    },
+    {
+      "reference": "International Monetary Fund. (2026, March 27). IMF data brief: Currency composition of official foreign exchange reserves, 2025 Q4 data. IMF Data.",
+      "url": "https://data.imf.org/en/news/imf%20data%20brief%20march%2027"
+    },
+    {
+      "reference": "Kirshner, J. (1995). Currency and coercion: The political economy of international monetary power. Princeton University Press."
+    },
+    {
+      "reference": "Reuters. (2026a, April 21). Scam messages offering ships safe transit through Hormuz, security firm warns. Reuters.",
+      "url": "https://www.reuters.com/world/middle-east/scam-messages-offering-ships-safe-transit-through-hormuz-security-firm-warns-2026-04-21/"
+    },
+    {
+      "reference": "Reuters. (2026b, April 28). HSBC sees limited near-term impact on OPEC+ from UAE’s departure. Reuters.",
+      "url": "https://www.reuters.com/business/energy/hsbc-sees-limited-near-term-impact-opec-uaes-departure-2026-04-28/"
+    },
+    {
+      "reference": "Reuters. (2026c, April 28). UAE leaves OPEC in blow to global oil producers’ group. Reuters.",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
+    },
+    {
+      "reference": "United Nations. (1982). United Nations Convention on the Law of the Sea.",
+      "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf"
+    },
+    {
+      "reference": "U.S. Energy Information Administration. (2023, November 21). The Strait of Hormuz is the world’s most important oil transit chokepoint. U.S. Energy Information Administration.",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=61002"
+    },
+    {
+      "reference": "U.S. Energy Information Administration. (2026). World oil transit chokepoints. U.S. Energy Information Administration. Retrieved April 29, 2026.",
+      "url": "https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints"
+    },
+    {
+      "reference": "Wall Street Journal. (2026, April 23). Iran says it has received first revenue from Hormuz toll. The Wall Street Journal.",
+      "url": "https://www.wsj.com/livecoverage/iran-war-us-ceasefire-2026/card/iran-says-it-has-received-first-revenue-from-hormuz-toll-8QAiAAB5afcuLLqPCX8U"
+    }
+  ],
+  "repository": {
+    "suggested_folder": "Journal Article/2026/EPINOVA-2026-JA-01/",
+    "suggested_pdf_name": "article.pdf",
+    "suggested_metadata_name": "metadata.json"
+  },
+  "crossref": {
+    "recommended_record_type": "Journal Article or Posted Content, depending on registration strategy",
+    "registration_note": "If EPINOVA registers a DOI, the metadata should clearly indicate that this is an archival record or author-archived version of an article originally published in Geostrategic Pulse, No. 307, March-April 2026, pp. 62-69."
+  },
+  "created_by": "EPINOVA LLC",
+  "metadata_version": "1.0",
+  "last_updated": "2026-05-21",
+  "epinova_id": "EPINOVA-2026-JA-01",
+  "category": "journal-articles",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "full_title": "The Strait of Hormuz and the Partial De-Universalization of the Petrodollar: Chokepoint Power and Settlement Control in the Gulf Energy Order",
+  "publisher_website": "https://www.pulsulgeostrategic.ro",
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "display_name": "PhD. Shaoyuan WU",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "files": [
+    {
+      "filename": "article.pdf",
+      "content_type": "application/pdf",
+      "description": "Published journal article PDF.",
+      "original_filename": "The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf"
+    }
+  ],
+  "citation_apa": "Wu, S. (2026). The Strait of Hormuz and the partial de-universalization of the petrodollar: Chokepoint power and settlement control in the Gulf energy order. Geostrategic Pulse, No. 307, 62–69.",
+  "recommended_citation": "Wu, S. (2026). The Strait of Hormuz and the partial de-universalization of the petrodollar: Chokepoint power and settlement control in the Gulf energy order. Geostrategic Pulse, No. 307, 62–69.",
+  "copyright": "Shaoyuan Wu / Geostrategic Pulse, as applicable",
+  "license": {
+    "title": "All rights reserved unless otherwise stated by the publisher",
+    "url": ""
+  },
+  "status": "Published",
+  "visibility": "Public"
+}

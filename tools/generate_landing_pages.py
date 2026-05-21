@@ -55,6 +55,7 @@ ARTICLE_ARCHIVE_OUTPUT_SUBDIR = "articles/archive"
 
 CATEGORY_ORDER = [
     "articles",
+    "journal-articles",
     "policy-briefs",
     "working-papers",
     "white-papers",
@@ -65,6 +66,7 @@ CATEGORY_ORDER = [
 
 CATEGORY_LABELS = {
     "articles": "Articles",
+    "journal-articles": "Journal Articles",
     "policy-briefs": "Policy Briefs",
     "working-papers": "Working Papers",
     "white-papers": "White Papers",
@@ -79,6 +81,12 @@ CATEGORY_LABELS = {
 HIDDEN_CATEGORIES = {"reports"}
 
 CATEGORY_ALIASES = {
+    "journal-article": "journal-articles",
+    "journal article": "journal-articles",
+    "journal articles": "journal-articles",
+    "ja": "journal-articles",
+    "external-publications": "journal-articles",
+    "external-publication": "journal-articles",
     "white-books": "white-papers",
     "white-book": "white-papers",
     "whitebook": "white-papers",
@@ -135,8 +143,120 @@ def normalize_category(category: str) -> str:
     return CATEGORY_ALIASES.get(category, category)
 
 
+def infer_category_from_metadata(meta: dict) -> str:
+    """
+    Infer site category when metadata does not explicitly provide a category.
+
+    This keeps older metadata files working while allowing newer records such as
+    Journal Article metadata to be routed automatically into /journal-articles/.
+    """
+    raw_category = meta.get("category", "")
+    if raw_category:
+        return normalize_category(raw_category)
+
+    publication_type = normalize_slug(str(meta.get("publication_type", "")))
+    record_type = normalize_slug(str(meta.get("record_type", "")))
+    epinova_id = str(meta.get("epinova_id", "") or meta.get("record_id", "") or meta.get("publication_id", ""))
+
+    if publication_type in {"journal-article", "journal-articles"} or "-JA-" in epinova_id:
+        return "journal-articles"
+    if publication_type in {"policy-brief", "policy-briefs"} or "-PB-" in epinova_id:
+        return "policy-briefs"
+    if publication_type in {"working-paper", "working-papers"} or "-WP-" in epinova_id:
+        return "working-papers"
+    if publication_type in {"white-paper", "white-papers", "white-book", "whitebook"} or "-WHT-" in epinova_id or "-IWB-" in epinova_id:
+        return "white-papers"
+    if publication_type in {"policy-report", "policy-reports"} or "-PR-" in epinova_id:
+        return "policy-reports"
+    if publication_type in {"research-report", "research-reports"} or "-RR" in epinova_id or "-RR-" in epinova_id:
+        return "research-reports"
+    if publication_type in {"index-methodology-paper", "index-methodology-papers"} or "-IMP-" in epinova_id:
+        return "index-methodology-papers"
+    if publication_type in {"article", "articles"} or record_type == "article":
+        return "articles"
+
+    return "uncategorized"
+
+
+def normalize_creator_entry(item) -> dict | None:
+    if not item:
+        return None
+    if isinstance(item, str):
+        return {"name": item}
+    if not isinstance(item, dict):
+        return {"name": str(item)}
+
+    name = item.get("name") or item.get("display_name") or item.get("full_name")
+    affiliation = item.get("affiliation", "")
+    if isinstance(affiliation, list):
+        names = []
+        for aff in affiliation:
+            if isinstance(aff, dict):
+                dept = aff.get("department", "")
+                org = aff.get("name", "")
+                names.append(", ".join(x for x in [dept, org] if x))
+            elif aff:
+                names.append(str(aff))
+        affiliation = "; ".join(x for x in names if x)
+
+    out = {"name": name or ""}
+    if affiliation:
+        out["affiliation"] = affiliation
+    if item.get("orcid"):
+        out["orcid"] = item.get("orcid")
+    return out if out.get("name") else None
+
+
+def normalize_record_schema(meta: dict) -> dict:
+    """
+    Harmonize metadata variants used across EPINOVA records.
+
+    Supports fields used by journal-article metadata such as record_id, author,
+    citation.apa, and pdf_filename, while preserving existing metadata behavior.
+    """
+    if not meta.get("epinova_id"):
+        meta["epinova_id"] = meta.get("record_id") or meta.get("publication_id") or meta.get("identifier") or meta.get("id") or ""
+
+    if not meta.get("category"):
+        meta["category"] = infer_category_from_metadata(meta)
+    else:
+        meta["category"] = normalize_category(meta.get("category", ""))
+
+    if str(meta.get("publication_type", "")).strip().lower() in {"white book", "whitebook"}:
+        meta["publication_type"] = "White Paper"
+
+    if not meta.get("creators"):
+        source_creators = meta.get("author") or meta.get("authors") or meta.get("creator") or []
+        if isinstance(source_creators, dict):
+            source_creators = [source_creators]
+        elif isinstance(source_creators, str):
+            source_creators = [source_creators]
+        creators = [normalize_creator_entry(x) for x in source_creators if x]
+        creators = [x for x in creators if x]
+        if creators:
+            meta["creators"] = creators
+
+    citation = meta.get("citation", {})
+    if isinstance(citation, dict):
+        if not meta.get("citation_apa") and citation.get("apa"):
+            meta["citation_apa"] = citation.get("apa")
+        if not meta.get("recommended_citation") and citation.get("apa"):
+            meta["recommended_citation"] = citation.get("apa")
+
+    if not meta.get("files"):
+        pdf_filename = meta.get("pdf_filename") or meta.get("file") or meta.get("filename")
+        if pdf_filename:
+            meta["files"] = [{
+                "filename": pdf_filename,
+                "content_type": "application/pdf" if str(pdf_filename).lower().endswith(".pdf") else "application/octet-stream",
+                "description": "Publication PDF"
+            }]
+
+    return meta
+
+
 def get_slug(meta: dict) -> str:
-    epinova_id = meta.get("epinova_id", "")
+    epinova_id = meta.get("epinova_id", "") or meta.get("record_id", "") or meta.get("publication_id", "")
     if epinova_id:
         return normalize_slug(epinova_id)
     return normalize_slug(meta.get("title", ""))[:90] or "untitled"
@@ -183,9 +303,7 @@ def load_metadata_files() -> list[dict]:
         except Exception as exc:
             print(f"Warning: failed to read {path}: {exc}")
             continue
-        meta["category"] = normalize_category(meta.get("category", ""))
-        if str(meta.get("publication_type", "")).strip().lower() in {"white book", "whitebook"}:
-            meta["publication_type"] = "White Paper"
+        meta = normalize_record_schema(meta)
 
         meta["_metadata_path"] = str(path.relative_to(ROOT))
         meta["_metadata_abs_path"] = str(path)
@@ -460,7 +578,18 @@ def references_html(meta: dict) -> str:
     refs = meta.get("references", [])
     if not refs:
         return "<p class='muted'>No references listed.</p>"
-    return "<ol class='references'>" + "\n".join(f"<li>{linkify_urls(h(ref))}</li>" for ref in refs) + "</ol>"
+    items = []
+    for ref in refs:
+        if isinstance(ref, dict):
+            text = ref.get("reference") or ref.get("citation") or ref.get("title") or str(ref)
+            url = ref.get("url", "")
+            if url:
+                items.append(f"<li>{linkify_urls(h(text))}<br><a href='{h(url)}'>{h(url)}</a></li>")
+            else:
+                items.append(f"<li>{linkify_urls(h(text))}</li>")
+        else:
+            items.append(f"<li>{linkify_urls(h(ref))}</li>")
+    return "<ol class='references'>" + "\n".join(items) + "</ol>"
 
 
 def alternate_ids_html(meta: dict) -> str:
@@ -737,7 +866,7 @@ def head_meta(meta: dict | None = None, title: str = SITE_TITLE) -> str:
     page_url = meta.get("_page_url", "")
     record_title = meta.get("title", title)
     description = meta.get("abstract") or meta.get("description") or record_title
-    doi = meta.get("doi", "")
+    doi = str(meta.get("doi") or "")
     pdf_url = first_pdf_url(meta)
     citation_authors = "\n".join(f'  <meta name="citation_author" content="{h(name)}">' for name in all_creators_plain(meta))
     citation_doi = ""
@@ -773,7 +902,7 @@ def schema_json_ld(meta: dict | None = None) -> str:
     if not meta:
         return ""
     creators = [{"@type": "Person", "name": name} for name in all_creators_plain(meta)]
-    identifier = meta.get("doi", "")
+    identifier = str(meta.get("doi") or "")
     if identifier and not identifier.startswith("http") and not identifier.startswith("To be assigned"):
         identifier = f"https://doi.org/{identifier}"
     if identifier.startswith("To be assigned"):
@@ -817,6 +946,7 @@ def site_header() -> str:
         <button class="nav-dropdown-button" type="button" aria-haspopup="true">Publications</button>
         <div class="nav-dropdown-menu">
           <a href="/articles/">Articles</a>
+          <a href="/journal-articles/">Journal Articles</a>
           <a href="/policy-briefs/">Policy Briefs</a>
           <a href="/working-papers/">Working Papers</a>
           <a href="/white-papers/">White Papers</a>
@@ -845,7 +975,7 @@ def site_footer() -> str:
 <footer class="footer">
   <div class="footer-inner">
     <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
-    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a></p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
     <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
     <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
   </div>
@@ -1127,12 +1257,13 @@ def render_index_page(records: list[dict]) -> str:
 
     latest_category_order = [
         ("articles", "A. Articles"),
-        ("policy-briefs", "B. Policy Briefs"),
-        ("working-papers", "C. Working Papers"),
-        ("white-papers", "D. White Papers"),
-        ("policy-reports", "E. Policy Reports"),
-        ("research-reports", "F. Research Reports"),
-        ("index-methodology-papers", "G. Index Methodology Papers"),   
+        ("journal-articles", "B. Journal Articles"),
+        ("policy-briefs", "C. Policy Briefs"),
+        ("working-papers", "D. Working Papers"),
+        ("white-papers", "E. White Papers"),
+        ("policy-reports", "F. Policy Reports"),
+        ("research-reports", "G. Research Reports"),
+        ("index-methodology-papers", "H. Index Methodology Papers"),
     ]
     records_by_category = defaultdict(list)
     for meta in records:
@@ -1192,7 +1323,7 @@ def render_category_page(category: str, records: list[dict]) -> str:
         body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
         return html_doc(f"{label} | {SITE_TITLE}", body)
 
-    if category in {"articles", "policy-briefs", "white-papers", "research-reports", "policy-reports"}:
+    if category in {"articles", "journal-articles", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
         records_by_year = defaultdict(list)
         for meta in records:
             records_by_year[publication_year(meta)].append(meta)
