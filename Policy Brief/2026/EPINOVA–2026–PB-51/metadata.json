@@ -1,0 +1,522 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-051",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-051",
+  "title": "Bargaining Under Systemic Pressure",
+  "subtitle": "U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict",
+  "title_normalized": "bargaining under systemic pressure",
+  "publication_date": "2026-05-23",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.051",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-051/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–51",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Bargaining Under Systemic Pressure",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes the first 85 days of the U.S.–Iran conflict as a shift from coercive bargaining toward procedural de-escalation. It argues that the conflict produced two parallel dynamics: U.S. objective compression and Iranian leverage institutionalization. The brief treats the reported Pakistan-mediated draft as an unconfirmed but analytically important signal of ceasefire-first sequencing rather than final settlement.",
+  "abstract": "This policy brief examines how U.S. and Iranian negotiating objectives changed under cumulative systemic pressure during the first 85 days of the U.S.–Iran conflict. It argues that the conflict did not produce a clear bargaining victory for either side, but instead generated a dual structure of U.S. objective compression and Iranian leverage institutionalization. The United States shifted from coercive termination and strategic degradation of Iranian capabilities toward a narrower focus on suspending hostilities, reopening the Strait of Hormuz, managing the enriched uranium issue, and preserving an exit framework. Iran, meanwhile, expanded the bargaining package by linking settlement to sanctions relief, oil-export access, sovereignty language, security guarantees, Hormuz arrangements, and retention or controlled handling of nuclear assets. The reported Pakistan-mediated draft, if accurate, reinforces this shift by emphasizing immediate ceasefire, mutual non-targeting, freedom of navigation, joint monitoring, follow-on talks within seven days, and phased sanctions relief. The brief concludes that the negotiation became less about battlefield victory than about who could define the architecture of the post-conflict bargain.",
+  "keywords": [
+    "U.S.–Iran conflict",
+    "Iran",
+    "United States",
+    "bargaining under pressure",
+    "objective compression",
+    "leverage institutionalization",
+    "ceasefire-first sequencing",
+    "Strait of Hormuz",
+    "Hormuz",
+    "nuclear sequencing",
+    "enriched uranium",
+    "sanctions relief",
+    "maritime governance",
+    "chokepoint stability",
+    "Pakistan-mediated draft",
+    "Qatar mediation",
+    "systemic bargaining",
+    "coercive diplomacy",
+    "conflict termination",
+    "Middle East security",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Middle East security",
+    "Strategic studies",
+    "Conflict termination",
+    "Coercive diplomacy",
+    "Maritime security",
+    "Energy security",
+    "Nuclear policy",
+    "Sanctions policy",
+    "Public policy",
+    "Political risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-05-23",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-05-23",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-05-23",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-05-23",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email; DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51/Bargaining%20Under%20Systemic%20Pressure%20U.S.%20Objective%20Compression%2C%20Iranian%20Leverage%20Institutionalization%2C%20and%20the%20Reconfiguration%20of.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 19
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-051",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Compression–Expansion Bargaining Model",
+    "source_basis": "Policy-facing assessment based on public reporting, regional media summaries, reported draft summaries, institutional and regulatory sources, and prior EPINOVA analytical frameworks. The PDF uses an appendix-based sourcing structure: Appendix A provides a chronology of reported bargaining positions and negotiation-relevant developments, while the Appendix Source List provides full source details.",
+    "case_context": "The first 85 days of the U.S.–Iran conflict, with emphasis on U.S. objective compression, Iranian leverage institutionalization, the Strait of Hormuz, nuclear sequencing, sanctions relief, mediator activity, and reported Pakistan-mediated draft terms.",
+    "core_problem": "The central analytical problem is why battlefield superiority and coercive pressure did not produce maximal bargaining control, and how unresolved leverage became organized through ceasefire-first sequencing and procedural stabilization.",
+    "central_claims": [
+      "U.S. and Iranian negotiating objectives both changed under cumulative systemic pressure.",
+      "The United States shifted from coercive termination toward damage limitation and procedural control.",
+      "Iran shifted from wartime resistance toward bargaining-package expansion and leverage institutionalization.",
+      "The reported Pakistan-mediated draft suggests a transition toward ceasefire-first sequencing rather than final settlement.",
+      "Hormuz and the nuclear file became linked sequencing problems.",
+      "Neither side achieved its maximal objective by Day 85.",
+      "The conflict moved from maximal outcome bargaining to managed process bargaining."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "U.S. Objective Compression",
+        "description": "Analyzes how systemic costs, coalition constraints, third-party exposure, and adversary-held leverage narrowed U.S. practical demands from coercive termination toward ceasefire, Hormuz reopening, nuclear-stockpile management, and procedural control."
+      },
+      {
+        "name": "Iranian Leverage Institutionalization",
+        "description": "Analyzes how Iran attempted to convert surviving wartime pressure tools, including Hormuz access, enriched uranium retention, sanctions bargaining, oil-export access, sovereignty language, and security guarantees, into recognized elements of a settlement structure."
+      },
+      {
+        "name": "Ceasefire-First Sequencing",
+        "description": "Interprets reported draft terms as a structure in which parties suspend hostilities before resolving the most difficult substantive disputes, using monitoring, dispute-resolution procedures, follow-on talks, and conditional sanctions relief to manage unresolved leverage."
+      },
+      {
+        "name": "Hormuz Bargaining Conversion",
+        "description": "Treats the Strait of Hormuz as a mechanism that converted bilateral coercive conflict into a systemic negotiation over maritime access, chokepoint governance, energy flows, and third-party exposure."
+      },
+      {
+        "name": "Nuclear Sequencing Analysis",
+        "description": "Separates immediate de-escalation from later negotiation over enriched uranium, enrichment limits, stockpile disposition, verification, sovereignty, and compliance architecture."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "U.S. Objective Compression",
+      "code": "USOC",
+      "indicator_type": "Bargaining-structure dynamic",
+      "observed_pattern": "U.S. objectives narrowed from coercive termination and strategic degradation toward suspending hostilities, reopening Hormuz, managing enriched uranium, and preserving an exit framework.",
+      "interpretation": "Military superiority did not automatically translate into maximal settlement control."
+    },
+    {
+      "name": "Iranian Leverage Institutionalization",
+      "code": "ILI",
+      "indicator_type": "Bargaining-structure dynamic",
+      "observed_pattern": "Iran attempted to embed Hormuz access, nuclear sequencing, sanctions relief, sovereignty language, and security guarantees into the settlement agenda.",
+      "interpretation": "Survival under pressure became bargaining leverage."
+    },
+    {
+      "name": "Ceasefire-First Sequencing",
+      "code": "CFS",
+      "indicator_type": "Negotiation-sequencing signal",
+      "observed_pattern": "Reported draft terms emphasize immediate ceasefire, mutual non-targeting, freedom of navigation, joint monitoring, follow-on talks, and phased sanctions relief.",
+      "interpretation": "Procedural stabilization rather than final settlement."
+    },
+    {
+      "name": "Hormuz Bargaining Conversion",
+      "code": "HBC",
+      "indicator_type": "Maritime-security and systemic-risk signal",
+      "observed_pattern": "Hormuz transformed the conflict into a negotiation over maritime access, chokepoint governance, freedom of navigation, tolling or routing claims, and third-party exposure.",
+      "interpretation": "Chokepoint leverage became central to settlement architecture."
+    },
+    {
+      "name": "Nuclear Sequencing",
+      "code": "NS",
+      "indicator_type": "Nuclear-policy bargaining signal",
+      "observed_pattern": "The enriched-uranium and enrichment-limit issues shifted from immediate settlement to follow-on negotiation and managed handling.",
+      "interpretation": "Deferral operated as a bargaining technology rather than a substantive resolution."
+    },
+    {
+      "name": "Sanctions as Conditional Bargaining Currency",
+      "code": "SCBC",
+      "indicator_type": "Economic-statecraft signal",
+      "observed_pattern": "Sanctions relief moved from a final concession to a phased and conditional exchange linked to Iranian compliance.",
+      "interpretation": "Sanctions became part of a sequenced procedural architecture."
+    }
+  ],
+  "key_findings": [
+    "The first 85 days of the U.S.–Iran conflict show a shift from coercive bargaining to procedural de-escalation.",
+    "The conflict produced no clear bargaining victory for either side.",
+    "The United States retained military superiority but experienced objective compression.",
+    "Iran remained under significant pressure but preserved enough leverage to broaden the settlement agenda.",
+    "The Strait of Hormuz converted the conflict from a bilateral coercive campaign into a systemic bargaining problem.",
+    "The nuclear issue was not resolved; it was sequenced into follow-on negotiations.",
+    "The reported Pakistan-mediated draft should be treated as reported draft language, not confirmed agreement text.",
+    "The reported draft indicates ceasefire-first sequencing and procedural stabilization rather than final settlement.",
+    "The emerging framework centered on ending or suspending the war, securing Hormuz, and opening a broader negotiation window.",
+    "Military dominance may initiate coercion, but system-level leverage shapes whether coercion can be converted into settlement."
+  ],
+  "policy_recommendations": [
+    "Treat Hormuz as a governance problem, not only an access problem.",
+    "Separate nuclear sequencing from nuclear abandonment.",
+    "Build ceasefire design around monitoring, reversibility, and dispute resolution.",
+    "Manage U.S.–Israeli threshold divergence when designing settlement architecture.",
+    "Treat sanctions relief as conditional sequencing leverage, not a one-time concession.",
+    "Validate alleged draft terms through official release or acknowledgement before treating them as agreement language."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate",
+      "indicator": "Official release or acknowledgement of any Pakistan-mediated draft text",
+      "analytical_purpose": "Distinguishes reported draft language from confirmed agreement terms."
+    },
+    {
+      "timeframe": "Immediate to 7 days",
+      "indicator": "Whether follow-on talks begin within the reported seven-day window",
+      "analytical_purpose": "Tests whether ceasefire-first sequencing becomes an operational negotiation track."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Freedom-of-navigation and Hormuz reopening arrangements",
+      "analytical_purpose": "Tests whether Hormuz is stabilized without institutionalizing unilateral passage control."
+    },
+    {
+      "timeframe": "30 days",
+      "indicator": "Negotiation over enriched uranium stockpile handling, downblending, transfer, or verification",
+      "analytical_purpose": "Tests whether nuclear sequencing produces substantive concessions or prolongs deferral."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Phased sanctions relief and Iranian compliance benchmarks",
+      "analytical_purpose": "Assesses whether sanctions become reversible sequencing leverage or a contested concession."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "U.S.–Israeli coordination, regional fronts, and renewed strike risk",
+      "analytical_purpose": "Tests whether threshold divergence disrupts U.S.–Iran procedural stabilization."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Appendix Source List in the supplied PDF",
+      "scheme": "Source list",
+      "resource_type": "Reference list",
+      "description": "The PDF uses an appendix-based sourcing structure with news/media, institutional/regulatory, and EPINOVA source categories."
+    }
+  ],
+  "references": [
+    "Al Arabiya English. (2026, May 22). Al Arabiya condemns Iranian media for attributing fabricated reports to network. https://english.alarabiya.net/News/middle-east/2026/05/22/al-arabiya-condemns-iranian-media-for-attributing-fabricated-reports-to-network",
+    "Al Arabiya English. (2026, May 22). Pakistan military chief arrives in Tehran in push to end Iran war. https://english.alarabiya.net/News/middle-east/2026/05/22/pakistan-military-chief-arrives-in-tehran-in-push-to-end-iran-war",
+    "Al Arabiya English. (2026, May 22). Rubio cites some progress on Iran talks but “we’re not there yet”. https://english.alarabiya.net/News/middle-east/2026/05/22/rubio-cites-some-progress-on-iran-talks-but-we-re-not-there-yet",
+    "Al Arabiya English. (2026, May 22). US-Iran draft deal mediated by Pakistan could be announced within hours, Al Arabiya source says. https://english.alarabiya.net/News/middle-east/2026/05/22/usiran-draft-deal-mediated-by-pakistan-could-be-announced-within-hours-al-arabiya-source",
+    "Al Arabiya English. (2026, May 23). Iran offers to reopen Strait of Hormuz in exchange for US compensation, sources say. https://english.alarabiya.net/News/middle-east/2026/05/23/iran-offers-to-reopen-strait-of-hormuz-in-exchange-for-us-compensation-sources-say",
+    "Al Jazeera. (2026, April 14). Why are the US, Iran arguing over duration of uranium enrichment ban? https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban",
+    "Al Jazeera. (2026, May 7). What are US proposals to end war, and will Iran agree to them? https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them",
+    "Al Jazeera. (2026, May 22). Iran’s enriched uranium stockpile: Can it be safely transferred? https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred",
+    "Associated Press. (2026, May 23). Iran and the US are close to an understanding aimed at ending the war, officials say. https://apnews.com/article/1c283f26d037102cc5e6f798546d0e59",
+    "Axios. (2026, May 1). Iran offers new response on draft peace deal, Trump “not satisfied”. https://www.axios.com/2026/05/01/iran-peace-plan-response-trump",
+    "Axios. (2026, May 6). Exclusive: U.S. and Iran closing in on one-page memo to end war, officials say. https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo",
+    "Axios. (2026, May 6). Trump optimistic as U.S. awaits Iran’s response to peace plan. https://www.axios.com/2026/05/06/trump-iran-war-deal-framework-response",
+    "Axios. (2026, May 23). U.S., Iran close to a deal to end war, official says. https://www.axios.com/2026/05/23/us-iran-trump-deal-war",
+    "InvestingLive. (2026, May 21). US and Iran reach a draft agreement with the mediation of Pakistan — Iran’s ILNA. https://investinglive.com/news/us-and-iran-reach-a-draft-agreement-with-the-mediation-of-pakistan-irans-ilna-20260521/",
+    "Reuters. (2026, February 25). US expands sanctions on Iran over oil sales, weapons programs. https://www.reuters.com/world/middle-east/us-treasury-issues-fresh-iran-related-sanctions-website-shows-2026-02-25/",
+    "Reuters. (2026, April 6). Iran, US receive plan to end hostilities, immediate ceasefire, source says. https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06/",
+    "Reuters. (2026, April 27). US reviews latest Iranian proposal to end war stalemate. https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
+    "Reuters. (2026, April 28). Trump, unhappy with latest peace proposal, says Iran “not at all” clear on nuclear offer. https://www.reuters.com/world/asia-pacific/trump-not-happy-with-latest-iran-proposal-end-war-us-official-says-2026-04-28/",
+    "Reuters. (2026, May 1). Trump says he’s dissatisfied with Iranian proposal as rift over Hormuz persists. https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
+    "Reuters. (2026, May 7). US and Iran exchange fire, but Trump says ceasefire still in place. https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+    "Reuters. (2026, May 18). Trump says he paused attack on Iran, signals a nuclear deal may be possible. https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/",
+    "Reuters. (2026, May 19). Trump says US may strike Iran again but that Tehran wants a deal. https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
+    "Reuters. (2026, May 20). Trump says willing to wait for a few days to get “right” Iran deal. https://www.reuters.com/world/asia-pacific/tankers-exit-hormuz-trump-vance-talk-up-iran-deal-prospects-2026-05-20/",
+    "Reuters. (2026, May 21). Oil prices close 2% lower on uncertain prospects for US-Iran deal. https://www.reuters.com/business/energy/oil-rebounds-uncertainty-over-iran-peace-deal-inventory-drawdowns-2026-05-21/",
+    "Reuters. (2026, May 22). Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war, says source. https://www.reuters.com/world/middle-east/qatari-negotiating-team-tehran-help-secure-us-iran-deal-end-war-says-source-2026-05-22/",
+    "Reuters. (2026, May 23). US and Iran report progress on talks ending war. https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/",
+    "Reuters. (2026, May 23). Iran’s top negotiator says Tehran will not compromise in talks with US. https://www.reuters.com/world/asia-pacific/irans-top-negotiator-says-tehran-will-not-compromise-talks-with-us-2026-05-23/",
+    "Reuters. (2026, May 23). Trump says negotiators are getting closer to Iran deal, media interviews show. https://www.reuters.com/world/asia-pacific/trump-says-negotiators-are-getting-closer-iran-deal-media-interviews-show-2026-05-23/",
+    "Reuters. (2026, May 23). Three months in, is Trump losing the Iran war? https://www.reuters.com/world/asia-pacific/three-months-is-trump-losing-iran-war-2026-05-23/",
+    "The Guardian. (2026, March 25). Iran rejects US ceasefire plan and submits its own amid push for talks. https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks",
+    "The Guardian. (2026, April 19). Tehran has “no plans to participate” in new talks, state media reports. https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
+    "The Guardian. (2026, May 22). Qatar sends mediators to Tehran in sign talks to reopen Strait of Hormuz are reaching climax. https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+    "The Guardian. (2026, May 23). Iran hosts Pakistani delegation amid diplomacy to avert new US strikes. https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+    "The Times of Israel. (2026, May 22). Saudi network publishes “final draft” of US-Iran deal, claims it could be announced within hours though sides yet to approve it. https://www.timesofisrael.com/liveblog_entry/saudi-network-publishes-final-draft-of-us-iran-deal-claims-it-could-be-announced-within-hours-though-sides-yet-to-approve-it/",
+    "International Atomic Energy Agency. (2026). Monitoring and verification in Iran. https://www.iaea.org/topics/monitoring-and-verification-in-iran",
+    "International Atomic Energy Agency. (2026, February 27). NPT safeguards agreement with the Islamic Republic of Iran (GOV/2026/8). https://www.iaea.org/sites/default/files/gov2026-8.pdf",
+    "United Nations. (1945). Charter of the United Nations. https://www.un.org/en/about-us/un-charter/full-text",
+    "United Nations. (1982). United Nations Convention on the Law of the Sea. https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+    "United Nations. (1982). United Nations Convention on the Law of the Sea: Part III—Straits used for international navigation. https://www.un.org/depts/los/convention_agreements/texts/unclos/part3.htm",
+    "U.S. Department of the Treasury. (2026, February 25). Treasury targets Iran’s shadow fleet, networks supplying weapons programs. https://home.treasury.gov/news/press-releases/sb0405",
+    "U.S. Department of the Treasury, Office of Foreign Assets Control. (2026). Iran sanctions. https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions",
+    "U.S. Department of the Treasury, Office of Foreign Assets Control. (2026). Sanctions programs and country information. https://ofac.treasury.gov/sanctions-programs-and-country-information",
+    "Wu, S. (2026). Deterrence under cost pressure: From overmatch to cost imposition in the U.S.–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–16). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19210002",
+    "Wu, S. (2026). Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–17). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19223653",
+    "Wu, S. (2026). Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints (EPINOVA Policy Brief No. EPINOVA–2026–PB–25). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19444571",
+    "Wu, S. (2026). Ceasefire as recovery competition: Rearmament, external support, and strategic regeneration in a non-enforcement environment (EPINOVA Policy Brief No. EPINOVA–2026–PB–26). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19464642",
+    "Wu, S. (2026). From selective restriction to universal blockade: Legal contestation and third-party naval intervention in the Strait of Hormuz (EPINOVA Policy Brief No. EPINOVA–2026–PB–32). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
+    "Wu, S. (2026). Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict, Days 1–50 (EPINOVA Policy Brief No. EPINOVA–2026–PB–35). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+    "Wu, S. (2026). Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–36). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19665929"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Bargaining Under Systemic Pressure: U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict, Policy Brief No. EPINOVA–2026–PB–51, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051.",
+  "citation_apa": "Wu, S. (2026). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-051. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051.",
+  "short_citation": "Wu (2026), Bargaining Under Systemic Pressure, EPINOVA–2026–PB–51.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-05-23",
+    "pagination": "19 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Early-Phase Coercive Bargaining Logic",
+      "description": "Reconstructs early-stage bargaining logic across U.S. and Iranian initial bargaining posture, strategic assumption, sources of leverage, desired bargaining effect, and risks.",
+      "source": "Author’s synthesis based on Reuters reporting on late-stage U.S.–Iran negotiations over ending the war, securing the Strait of Hormuz, and opening a broader negotiation window; supplemented by EPINOVA’s prior framework on cost-imposition dynamics in the U.S.–Iran conflict.",
+      "note": "Analytical reconstruction rather than a verbatim summary of any single negotiation document."
+    },
+    {
+      "number": "Table 2",
+      "title": "Hormuz as Bargaining Conversion Mechanism",
+      "description": "Explains how maritime access, legal framing, economic impact, and negotiation role converted Hormuz into systemic bargaining leverage.",
+      "source": "Author’s synthesis based on The Guardian’s May 22 reporting on Qatar-mediated talks over reopening the Strait of Hormuz, U.S. opposition to Iranian tolling or PGSA-style arrangements, and Gulf-state concerns over Iranian maritime control proposals.",
+      "note": "Interprets Hormuz as a bargaining-conversion mechanism without classifying the legal status of Iranian or U.S. maritime actions."
+    },
+    {
+      "number": "Table 3",
+      "title": "Nuclear Demand Evolution",
+      "description": "Tracks nuclear demand evolution from early conflict through mid-conflict, late May MOU framework, and reported final draft stage.",
+      "source": "Author’s synthesis based on Reuters reporting on U.S. nuclear concerns and The Guardian reporting on delayed stockpile-surrender demands and follow-on nuclear dialogue.",
+      "note": "Tracks sequencing of the nuclear issue rather than final resolution of nuclear obligations."
+    },
+    {
+      "number": "Table 4",
+      "title": "Iranian Bargaining-Package Expansion",
+      "description": "Summarizes reported Iranian demand areas including cessation of hostilities, sanctions relief, oil-export restoration, blockade removal, security guarantees, compensation, nuclear sequencing, Hormuz management, and U.S. troop withdrawal.",
+      "source": "Author’s synthesis based on Reuters reporting on Pakistan-mediated exchanges and Iranian proposals, together with reporting from The Guardian and Al Jazeera.",
+      "note": "Reported bargaining positions and inferred settlement demands, not confirmed provisions of an accepted agreement."
+    },
+    {
+      "number": "Table 5",
+      "title": "Reported Pakistan-Mediated Draft Terms and Strategic Meaning",
+      "description": "Lists reported draft terms and their strategic meaning, including immediate ceasefire, non-targeting, information-domain restraint, sovereignty language, freedom of navigation, joint monitoring, follow-on negotiations, and phased sanctions relief.",
+      "source": "Author’s synthesis based on secondary reporting of an alleged Pakistan-mediated draft agreement attributed to regional media reporting.",
+      "note": "Provisions are treated as reported draft terms rather than confirmed agreement language."
+    },
+    {
+      "number": "Table 6",
+      "title": "Maximal Objectives vs. Reported Draft / Day 85 Reality",
+      "description": "Compares U.S. and Iranian maximal objectives with reported draft or Day 85 reality.",
+      "source": "Author’s comparison based on Reuters reporting that late-stage talks involved ending the war, securing the Strait of Hormuz, and opening a broader negotiation window; supplemented by reported draft terms summarized in secondary reporting.",
+      "note": "Maximal objectives are analytical reconstructions from public bargaining positions and reported negotiating demands."
+    },
+    {
+      "number": "Table 7",
+      "title": "Compression–Expansion Bargaining Model",
+      "description": "Synthesizes observed bargaining movement into U.S. objective compression and Iranian leverage institutionalization across war termination, nuclear issue, Hormuz, sanctions, security guarantees, information domain, institutional mechanism, and strategic logic.",
+      "source": "Author’s analytical model based on public reporting from Reuters, The Guardian, Al Jazeera, and reported draft summaries; supplemented by EPINOVA’s prior conceptual work.",
+      "note": "Conceptual model rather than verbatim summary of a single negotiation document."
+    },
+    {
+      "number": "Table A1",
+      "title": "Chronology of Phase I Developments",
+      "description": "Chronology of coercive onset and early Iranian resistance, Days 1–30.",
+      "source": "Appendix A chronology based on selected reported bargaining positions and negotiation-relevant developments.",
+      "note": "Selected chronology for bargaining relevance rather than comprehensive event coverage."
+    },
+    {
+      "number": "Table A2",
+      "title": "Chronology of Phase II Developments",
+      "description": "Chronology of ceasefire proposals and nuclear-duration bargaining, Days 31–60.",
+      "source": "Appendix A chronology based on selected reported bargaining positions and negotiation-relevant developments.",
+      "note": "Selected chronology for bargaining relevance rather than comprehensive event coverage."
+    },
+    {
+      "number": "Table A3",
+      "title": "Chronology of Phase III Developments",
+      "description": "Chronology of MOU architecture and bargaining-package expansion, Days 61–80.",
+      "source": "Appendix A chronology based on selected reported bargaining positions and negotiation-relevant developments.",
+      "note": "Selected chronology for bargaining relevance rather than comprehensive event coverage."
+    },
+    {
+      "number": "Table A4",
+      "title": "Chronology of Phase IV Developments",
+      "description": "Chronology of ceasefire-first sequencing and reported draft terms, Days 81–85.",
+      "source": "Appendix A chronology based on selected reported bargaining positions and negotiation-relevant developments.",
+      "note": "Draft provisions are treated as reported and unconfirmed unless officially published or acknowledged by the negotiating parties or directly involved mediators."
+    }
+  ],
+  "appendices": [
+    {
+      "number": "Appendix A",
+      "title": "Chronology of Reported Bargaining Positions, Days 1–85",
+      "description": "Appendix chronology covering Phase I through Phase IV, including Tables A1–A4 and an appendix note on source limitations and draft-term uncertainty."
+    },
+    {
+      "number": "Appendix Source List",
+      "title": "Appendix Source List",
+      "description": "Reference list divided into News and Media Sources, Institutional and Regulatory Sources, and EPINOVA Sources."
+    }
+  ],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-05-23",
+    "last_updated": "2026-05-23",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, recommended citation, DOI, executive summary, methodological note, tables, appendices, appendix source list, and disclaimer where available. Crossref DOI is printed in the PDF under EPINOVA LLC prefix 10.67037: https://doi.org/10.67037/epinova.pb.2026.051. Crossref registration was later confirmed by email and metadata was updated to registered status."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-05-23T17:12:43-04:00",
+    "modification_date": "2026-05-23T17:12:43-04:00",
+    "pages": 19
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.051",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-051/",
+    "crossref_doi_suffix": "epinova.pb.2026.051",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}

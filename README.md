@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-051** (2026-05-23)  
+  **Bargaining Under Systemic Pressure: U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.051](https://doi.org/10.67037/epinova.pb.2026.051)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-51/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51)  
+  Source PDF: [`Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51/Bargaining%20Under%20Systemic%20Pressure%20U.S.%20Objective%20Compression%2C%20Iranian%20Leverage%20Institutionalization%2C%20and%20the%20Reconfiguration%20of%20Negotiating%20Goals%20in%20the%2085-Day%20Conflict.pdf)
+
 - **EPINOVA-PB-2026-050** (2026-05-22)  
   **Two Summits, Two Signals: U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.047](https://doi.org/10.67037/epinova.pb.2026.047)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
   Source PDF: [`Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47/Shock-Responsive%20Resilience%20in%20the%20Caspian%20Logistics%20System%20Measuring%20Rebound%20Capacity%20after%20External%20Strikes.pdf)
-
-- **EPINOVA-PB-2026-046** (2026-05-09)  
-  **From Hormuz Pressure to Continental Redundancy: China’s Landward Strategy across the Inner Eurasian Landward Interface: Iran’s Alternative Corridors, Pakistan’s Third-Country Transit Opening, and the Rebalancing of Eurasian Connectivity**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.046](https://doi.org/10.67037/epinova.pb.2026.046)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
-  Source PDF: [`From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46/From%20Hormuz%20Pressure%20to%20Continental%20Redundancy%20China%E2%80%99s%20Landward%20Strategy%20across%20the%20Inner%20Eurasian%20Landward%20Interface.pdf)
 
 ---
 

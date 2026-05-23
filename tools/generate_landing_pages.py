@@ -495,25 +495,57 @@ def copy_record_files(meta: dict) -> None:
     metadata_abs_path = meta.get("_metadata_abs_path")
     if not metadata_abs_path:
         return
+
     source_dir = Path(metadata_abs_path).parent
     target_dir = OUTPUT_DIR / "files" / meta.get("_slug", "untitled")
     target_dir.mkdir(parents=True, exist_ok=True)
+
     files = meta.get("files", [])
     if not isinstance(files, list):
         return
+
     for file_entry in files:
         if not isinstance(file_entry, dict):
             continue
+
         filename = file_entry.get("filename", "")
         if not filename:
             continue
+
         source_file = source_dir / filename
+
+        # Fallback 1: search by exact filename across repository
+        if not source_file.exists():
+            matches = [
+                p for p in ROOT.rglob(filename)
+                if p.is_file()
+                and OUTPUT_DIR_NAME not in p.parts
+                and ".git" not in p.parts
+            ]
+            if matches:
+                source_file = matches[0]
+
+        # Fallback 2: search by normalized filename, useful for dash/space/path issues
+        if not source_file.exists():
+            target_norm = normalize_slug(Path(filename).stem)
+            matches = []
+            for p in ROOT.rglob("*.pdf"):
+                if OUTPUT_DIR_NAME in p.parts or ".git" in p.parts:
+                    continue
+                if normalize_slug(p.stem) == target_norm:
+                    matches.append(p)
+            if matches:
+                source_file = matches[0]
+
         target_file = target_dir / filename
         target_file.parent.mkdir(parents=True, exist_ok=True)
+
         if source_file.exists() and source_file.is_file():
             shutil.copy2(source_file, target_file)
+            print(f"Copied file: {source_file} -> {target_file}")
         else:
-            print(f"Warning: source file not found: {source_file}")
+            print(f"Warning: source file not found for {meta.get('epinova_id', '')}: {filename}")
+            print(f"  Expected near metadata: {source_dir / filename}")
 
 
 def meta_value(meta: dict, key: str, fallback: str = "Not specified") -> str:
