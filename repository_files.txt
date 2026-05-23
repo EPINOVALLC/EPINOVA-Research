@@ -1,3 +1,7 @@
+Policy Brief/2026/EPINOVA–2026–PB-50/Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf
+Policy Brief/2026/EPINOVA–2026–PB-50/metadata.json
+docs/epinova-pb-2026-050/index.html
+docs/files/epinova-pb-2026-050/Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md

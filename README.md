@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-050** (2026-05-22)  
+  **Two Summits, Two Signals: U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.050](https://doi.org/10.67037/epinova.pb.2026.050)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-50/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50)  
+  Source PDF: [`Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50/Two%20Summits%2C%20Two%20Signals%20U.S.%E2%80%93China%20Crisis%20Management%2C%20China%E2%80%93Russia%20Redundancy%2C%20and%20Caspian%20Shipping%20Rhythm.pdf)
+
 - **EPINOVA-PB-2026-049** (2026-05-15)  
   **Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.046](https://doi.org/10.67037/epinova.pb.2026.046)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-46/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46)  
   Source PDF: [`From Hormuz Pressure to Continental Redundancy China’s Landward Strategy across the Inner Eurasian Landward Interface.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-46/From%20Hormuz%20Pressure%20to%20Continental%20Redundancy%20China%E2%80%99s%20Landward%20Strategy%20across%20the%20Inner%20Eurasian%20Landward%20Interface.pdf)
-
-- **EPINOVA-PB-2026-045** (2026-05-07)  
-  **China as a Stabilizing Network Node: Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.045](https://doi.org/10.67037/epinova.pb.2026.045)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-45/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45)  
-  Source PDF: [`China as a Stabilizing Network Node Strategic Positioning and Risk-Adjusted Benefit in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-45/China%20as%20a%20Stabilizing%20Network%20Node%20Strategic%20Positioning%20and%20Risk-Adjusted%20Benefit%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 ---
 

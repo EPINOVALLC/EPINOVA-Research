@@ -1,0 +1,563 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-050",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-050",
+  "title": "Two Summits, Two Signals",
+  "subtitle": "U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm",
+  "title_normalized": "two summits two signals",
+  "publication_date": "2026-05-22",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.050",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-050/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–50",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Two Summits, Two Signals",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses the May 2026 summit sequence as two different models of great-power behavior under Middle East stress: U.S.–China crisis management and China–Russia strategic redundancy. It interprets Caspian shipping rhythm as a secondary logistics signal that may reflect broader Eurasian adaptation to Hormuz stress, while emphasizing that the observed timing correlation is not proof of summit-driven operational coordination.",
+  "abstract": "This policy brief evaluates the May 2026 Beijing summit sequence through the contrast between U.S.–China crisis management and China–Russia strategic redundancy. It argues that the U.S.–China summit stabilized high-level communication without resolving structural disputes over Iran, Taiwan, technology, trade, military risk, or strategic resources, while the China–Russia meeting reinforced continental coordination and Eurasian buffering capacity without constituting a formal alliance. The brief links these diplomatic signals to the Hormuz crisis, where reported transit authority, passage fees, selective access, and tiered-passage claims suggest the possible conversion of a maritime chokepoint into a pricing and passage-control instrument. Using timestamped Top-30 Caspian port observations from the Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor, it distinguishes departure-led adjustment during the U.S.–China summit window from synchronized arrival–departure turnover during the China–Russia meeting window. The brief concludes that the Caspian cannot replace Hormuz, but may function as a rear-area logistics buffer and a secondary indicator of Eurasian adaptation when chokepoints become politicized and strategic redundancy becomes more central to great-power competition.",
+  "keywords": [
+    "U.S.–China relations",
+    "China–Russia relations",
+    "great-power competition",
+    "crisis management",
+    "strategic redundancy",
+    "Caspian Sea",
+    "Caspian shipping rhythm",
+    "Hormuz",
+    "Strait of Hormuz",
+    "chokepoint monetization",
+    "passage pricing",
+    "selective access",
+    "tiered passage",
+    "Eurasian logistics",
+    "continental coordination",
+    "rear-area logistics buffer",
+    "AIPAMS",
+    "Arrival–Departure Balance",
+    "Arrival–Departure Coupling",
+    "Fast-Turnover Condition",
+    "Middle East crisis",
+    "strategic signaling",
+    "logistics resilience",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Great-power competition",
+    "U.S.–China relations",
+    "China–Russia relations",
+    "Middle East security",
+    "Energy security",
+    "Maritime security",
+    "Logistics resilience",
+    "Caspian Sea studies",
+    "Strategic studies",
+    "Public policy",
+    "Political risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-05-22",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-05-22",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-05-22",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-05-22",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation for DOI 10.67037/epinova.pb.2026.050."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50/Two%20Summits,%20Two%20Signals%20U.S.%E2%80%93China%20Crisis%20Management,%20China%E2%80%93Russia%20Redundancy,%20and%20Caspian%20Shipping%20Rhythm.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 9
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-050",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Two-Summit Signal and Caspian Port-Rhythm Assessment Framework",
+    "source_basis": "Policy-facing assessment based on earlier EPINOVA analysis of Trump’s Beijing visit, the EPINOVA article Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal, timestamped Top-30 Caspian port observations from the author’s Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor, and public/official reporting on Hormuz passage control, including Reuters reporting on island checkpoints, diplomatic arrangements, and passage-related fees; Financial Times reporting on China-bound tanker movement and market response; Al Jazeera reporting on Iran’s claim of coordinated vessel passage; Xinhua reporting on toll statements; a Chinese Ministry of Foreign Affairs readout clarifying Chinese non-confirmation of China/Russia-only passage claims; and supplementary Chinese-language commentary on alleged tiered passage.",
+    "case_context": "May 2026 summit sequence involving U.S.–China crisis-management signaling, China–Russia strategic-redundancy signaling, Hormuz passage-control stress, and Caspian shipping rhythm during the summit windows.",
+    "core_problem": "The central analytical problem is whether distinguishable Caspian shipping rhythms can be interpreted as secondary logistics signals of Eurasian adaptation under Hormuz stress without overstating them as causal proof of summit-driven operational coordination.",
+    "central_claims": [
+      "The May 2026 summit sequence revealed two different adjustment logics: U.S.–China crisis management and China–Russia strategic redundancy.",
+      "The U.S.–China summit stabilized communication but did not resolve structural disputes over Iran, Taiwan, technology, trade, military risk, or strategic resources.",
+      "The China–Russia meeting signaled deeper continental coordination and institutionalized partnership without constituting an automatic-defense alliance or full economic integration.",
+      "Hormuz is treated as a test case for passage pricing, selective access, and quasi-institutional chokepoint control.",
+      "Caspian shipping rhythm is a secondary timing-correlated logistics signal, not proof of summit-driven coordination.",
+      "The U.S.–China window shows departure-led adjustment, while the China–Russia window shows synchronized arrival–departure turnover.",
+      "The Caspian cannot replace Hormuz, but it can serve as a rear-area logistics buffer and indicator of Eurasian adaptation under politicized chokepoint conditions."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Two-Summit Signal Comparison",
+        "description": "Compares U.S.–China crisis-management logic with China–Russia strategic-redundancy logic under Middle East stress."
+      },
+      {
+        "name": "Chokepoint Monetization Analysis",
+        "description": "Interprets reported Hormuz transit mechanisms as potential passage pricing, selective access, and quasi-regulatory control."
+      },
+      {
+        "name": "Caspian Port-Rhythm Analysis",
+        "description": "Uses timestamped port observations to identify arrival–departure balance, synchronization, and turnover rhythm."
+      },
+      {
+        "name": "Timing-Correlated Logistics Signal Analysis",
+        "description": "Treats Caspian shipping movement as a secondary signal that may coincide with diplomatic windows without proving causality."
+      },
+      {
+        "name": "Strategic Redundancy Assessment",
+        "description": "Evaluates how continental corridors, rear-area buffers, and Eurasian coordination reduce exposure to maritime chokepoints and Western leverage."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "U.S.–China Crisis Management",
+      "code": "UCCM",
+      "indicator_type": "Diplomatic signal",
+      "observed_pattern": "High-level communication stabilized competition but did not resolve disputes over Iran, Taiwan, technology, trade, military risk, or strategic resources.",
+      "interpretation": "Stabilization of the channel without structural settlement."
+    },
+    {
+      "name": "China–Russia Strategic Redundancy",
+      "code": "CRSR",
+      "indicator_type": "Strategic coordination signal",
+      "observed_pattern": "The China–Russia meeting reinforced continental coordination, institutional continuity, and Eurasian buffering capacity without constituting a formal alliance.",
+      "interpretation": "Redundancy rather than automatic alliance."
+    },
+    {
+      "name": "Hormuz Chokepoint Monetization",
+      "code": "HCM",
+      "indicator_type": "Maritime-security and energy-risk signal",
+      "observed_pattern": "Reported transit authority, passage fees, selective-access arrangements, and tiered-passage claims suggest a possible shift toward quasi-institutional passage control.",
+      "interpretation": "Chokepoint control as pricing and political filtering mechanism."
+    },
+    {
+      "name": "Caspian Departure-Led Adjustment",
+      "code": "CDLA",
+      "indicator_type": "Logistics rhythm signal",
+      "observed_pattern": "During the U.S.–China summit window, departures appear to rise before arrivals.",
+      "interpretation": "Outbound release and berth-clearing behavior consistent with crisis-management pressure release."
+    },
+    {
+      "name": "Synchronized Fast-Cycle Turnover",
+      "code": "SFCT",
+      "indicator_type": "Logistics rhythm signal",
+      "observed_pattern": "During the China–Russia meeting window, arrivals and departures appear to rise together in closer synchronization.",
+      "interpretation": "Compressed turnover and stronger arrival–departure coupling."
+    },
+    {
+      "name": "Arrival–Departure Balance",
+      "code": "ADB",
+      "indicator_type": "Derived metric",
+      "observed_pattern": "ADB measures directional pressure as arrivals minus departures.",
+      "interpretation": "Positive values indicate arrival-heavy activity; negative values indicate departure-heavy activity; near-zero values with high activity may indicate balanced high-throughput cycling."
+    },
+    {
+      "name": "Arrival–Departure Coupling",
+      "code": "ADC",
+      "indicator_type": "Derived metric",
+      "observed_pattern": "ADC measures synchronization between arrivals and departures and approaches 1 when both sides of the port cycle are highly synchronized.",
+      "interpretation": "High ADC during high activity is more significant than a simple traffic spike."
+    },
+    {
+      "name": "Fast-Turnover Condition",
+      "code": "FTC",
+      "indicator_type": "Derived condition",
+      "observed_pattern": "FTC identifies periods in which ADC exceeds 0.8 and total activity exceeds a baseline threshold.",
+      "interpretation": "A synchronized and unusually active port-cycle condition."
+    }
+  ],
+  "key_findings": [
+    "The May 2026 summit sequence did not mark a return to great-power normalcy.",
+    "The U.S.–China summit represented crisis management rather than convergence.",
+    "The China–Russia meeting represented strategic redundancy rather than a formal alliance.",
+    "Hormuz is analyzed as a test case for chokepoint monetization, passage pricing, selective access, and quasi-institutional passage control.",
+    "Caspian shipping rhythm is treated as a secondary signal and not direct evidence of summit-driven operational coordination.",
+    "The U.S.–China window shows a departure-led adjustment pattern.",
+    "The China–Russia window shows synchronized arrival–departure turnover consistent with short-lived fast-cycle turnover.",
+    "The Caspian system cannot replace Hormuz but may serve as a rear-area logistics buffer and indicator of Eurasian adaptation.",
+    "The strongest claim is cautious: the summit sequence appears to coincide with distinguishable Caspian shipping rhythms, but further vessel-level validation is required before drawing causal conclusions."
+  ],
+  "policy_recommendations": [
+    "Monitor secondary logistics corridors, not only the primary maritime chokepoint.",
+    "Assess Hormuz-centered crises through Gulf naval activity, tanker flows, energy prices, and rear-area movement patterns across the Caspian, Central Asia, the South Caucasus, Russian logistics networks, and China-facing continental routes.",
+    "Distinguish timing-correlated logistics signals from proof of command-level coordination.",
+    "Treat reported tiered or preferential Hormuz passage as weakly verified narrative context unless supported by vessel-level evidence.",
+    "Use arrival–departure balance, arrival–departure coupling, and fast-turnover conditions to separate one-sided pressure, balanced cycling, and compressed fast-turnover activity.",
+    "Validate future claims with vessel identity, cargo type, ownership, AIS continuity, destination data, weather data, port-maintenance information, and comparison with non-Caspian control ports."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Caspian arrival–departure coupling during continued Hormuz stress",
+      "analytical_purpose": "Tests whether synchronized turnover persists beyond the summit window."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Departure-led versus arrival-led Caspian port movement",
+      "analytical_purpose": "Distinguishes outbound release, congestion, and balanced high-throughput cycling."
+    },
+    {
+      "timeframe": "30–60 days",
+      "indicator": "Vessel-level identity, AIS continuity, destination, and cargo-type evidence",
+      "analytical_purpose": "Validates whether observed rhythm reflects logistics adaptation rather than data gaps or ordinary commercial cycles."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Reported Hormuz transit authority, passage-fee mechanisms, and tiered-access practices",
+      "analytical_purpose": "Tests whether chokepoint monetization becomes institutionalized or remains a contested narrative."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "China–Russia logistics, energy, and diplomatic coordination",
+      "analytical_purpose": "Assesses whether strategic redundancy deepens without becoming a formal alliance."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "U.S.–China communication on Hormuz, Iran, Taiwan, technology, trade, and military crisis management",
+      "analytical_purpose": "Tests whether crisis-management channels reduce escalation spillover without resolving structural rivalry."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition. Policy Brief No. EPINOVA–2026–PB–49.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Earlier EPINOVA assessment of Trump’s Beijing visit, managed ambiguity, managed optionality, and Hormuz convergence without cooperation"
+    },
+    {
+      "relation": "References",
+      "identifier": "EPINOVA article, Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Article",
+      "description": "Prior EPINOVA article used for the synchronized arrival–departure movement and port-rhythm concept"
+    },
+    {
+      "relation": "References",
+      "identifier": "Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor",
+      "scheme": "Dataset/system reference",
+      "resource_type": "Monitoring dataset",
+      "description": "Timestamped Top-30 Caspian port observations used to derive arrival–departure rhythm indicators"
+    },
+    {
+      "relation": "References",
+      "identifier": "Public reporting on Xi Jinping’s meetings with Donald Trump and Vladimir Putin, China–Russia coordination, Iran’s reported Hormuz transit authority, checkpoint arrangements, passage-related fees, and tiered-passage environment",
+      "scheme": "Source category",
+      "resource_type": "Public reporting",
+      "description": "Source category described in the PDF table and figure sources"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026). Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals - and sometimes 'fees'.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news report",
+      "description": "Primary reporting basis for the discussion of reported tiered passage, island checkpoints, diplomatic arrangements, and passage-related fees.",
+      "url": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
+      "reliability_note": "Treated as public reporting, not independently verified by the author at vessel level."
+    },
+    {
+      "relation": "References",
+      "identifier": "Financial Times. (2026). Oil drops nearly 6% as two China-bound supertankers cross Strait of Hormuz.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news report",
+      "description": "Supports the discussion of selective passage and market response following China-bound tanker movement.",
+      "url": "https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945",
+      "reliability_note": "Used as corroborating market and shipping-context reporting."
+    },
+    {
+      "relation": "References",
+      "identifier": "Al Jazeera. (2026). Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news report",
+      "description": "Used as context for Iran’s public claim of coordinated passage.",
+      "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz",
+      "reliability_note": "Iranian claim reported by media; not treated as independently verified throughput data."
+    },
+    {
+      "relation": "References",
+      "identifier": "Xinhua. (2026). 伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news report",
+      "description": "Supports the chokepoint monetization framing in Chinese-language authoritative reporting.",
+      "url": "https://www.news.cn/milpro/20260427/f6748219272e4e4b9ddd254ced844178/c.html",
+      "reliability_note": "Reports a statement by an Iranian parliamentary official."
+    },
+    {
+      "relation": "References",
+      "identifier": "Ministry of Foreign Affairs of the People's Republic of China. (2026). 2026年3月4日外交部发言人毛宁主持例行记者会.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "official readout",
+      "description": "Used to clarify that China did not confirm reports that Iran would allow only Chinese and Russian vessels to pass.",
+      "url": "https://hn.china-embassy.gov.cn/wjbfyrth/202603/t20260304_11868732.htm",
+      "reliability_note": "Official Chinese response; useful for avoiding overstatement."
+    },
+    {
+      "relation": "References",
+      "identifier": "Sohu / 兵器海陆空. (2026). 伊朗制定霍尔木兹“分级通行”规则！中俄获得特殊待遇，可优先通行.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "media commentary",
+      "description": "Supplementary Chinese-language media narrative on alleged tiered Hormuz passage rules.",
+      "url": "https://www.sohu.com/a/1026009352_121752854",
+      "reliability_note": "Secondary commentary source; not treated as confirmed operational evidence."
+    }
+  ],
+  "references": [
+    "Wu, Shaoyuan. (2026). Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition. Policy Brief No. EPINOVA–2026–PB–49. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.049.",
+    "EPINOVA. (2026). Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal.",
+    "Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor. (2026). Timestamped Top-30 Caspian port observations.",
+    "Al Jazeera. (2026, May 20). Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours. https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz",
+    "Financial Times. (2026, May 20). Oil drops nearly 6% as two China-bound supertankers cross Strait of Hormuz. https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945",
+    "Ministry of Foreign Affairs of the People's Republic of China. (2026, March 4). 2026年3月4日外交部发言人毛宁主持例行记者会 [Foreign Ministry spokesperson Mao Ning’s regular press conference on March 4, 2026]. https://hn.china-embassy.gov.cn/wjbfyrth/202603/t20260304_11868732.htm",
+    "Reuters. (2026, May 20). Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals - and sometimes 'fees'. https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
+    "Sohu / 兵器海陆空. (2026, May 22). 伊朗制定霍尔木兹“分级通行”规则！中俄获得特殊待遇，可优先通行 [Iran formulates Hormuz “tiered passage” rules: China and Russia receive special treatment and priority passage]. https://www.sohu.com/a/1026009352_121752854",
+    "Xinhua. (2026, April 27). 伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费 [Iranian parliamentary official: All vessels passing through the Strait of Hormuz must pay transit fees]. https://www.news.cn/milpro/20260427/f6748219272e4e4b9ddd254ced844178/c.html"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Two Summits, Two Signals: U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm, Policy Brief No. EPINOVA–2026–PB–50, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.050.",
+  "citation_apa": "Wu, S. (2026). Two summits, two signals: U.S.–China crisis management, China–Russia redundancy, and Caspian shipping rhythm. EPINOVA Policy Brief Series, EPINOVA-PB-2026-050. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.050.",
+  "short_citation": "Wu (2026), Two Summits, Two Signals, EPINOVA–2026–PB–50.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-05-22",
+    "pagination": "9 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Arrival–Departure Coupling and Normalized Activity in the Caspian Port System",
+      "description": "Plots Arrival–Departure Coupling (ADC) of selected Caspian Sea ports together with normalized total activity, measured as departures plus arrivals, during the May 2026 summit window.",
+      "source": "Author’s calculation based on the Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor dataset, compiled from timestamped Top-30 Caspian port observations.",
+      "note": "The dashed horizontal line marks the ADC = 0.8 threshold used in the Fast-Turnover Condition framework. Vertical dashed lines indicate the U.S.–China summit window and the China–Russia meeting window. The figure is a timing-correlated logistics signal, not causal evidence of summit-driven port behavior."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Comparing the Two Summit Signals",
+      "description": "Compares U.S.–China crisis-management logic and China–Russia strategic-redundancy logic across strategic logic, main focus, Middle East effect, Iran-related implication, expected Caspian effect, and observed signal.",
+      "source": "Author’s assessment based on EPINOVA Policy Brief No. EPINOVA–2026–PB–49, the EPINOVA article Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal, AIPAMS Caspian Port System Monitor data, Reuters reporting on reported Hormuz island checkpoints, diplomatic arrangements, and passage-related fees; Financial Times reporting on China-bound tanker movement and market response; Al Jazeera reporting on Iran’s public claim of coordinated vessel passage; Xinhua reporting on Iranian toll statements; the Chinese Ministry of Foreign Affairs March 4, 2026 press conference readout; and supplementary Chinese-language media commentary on alleged tiered-passage narratives.",
+      "note": "The table is an analytical comparison, not a list of confirmed summit outcomes. Claims regarding tiered or preferential passage remain weakly verified at the vessel level and are treated as reported passage hierarchy or media narrative rather than confirmed operational control. Caspian shipping patterns are interpreted as timing-correlated logistics signals rather than causal proof that either summit directly altered port behavior."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "The PDF references the author’s Adaptive Integrated Policy & Analytics Modeling System (AIPAMS) Caspian Port System Monitor as the source of timestamped Top-30 Caspian port observations.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, recommended citation, DOI, methodology note, figure, table, and disclaimer where available. Reference metadata was updated to include detailed Hormuz-related sources covering reported island checkpoints, passage-related fees, China-bound tanker movement, Iranian coordinated-passage claims, Chinese-language toll reporting, Chinese MFA clarification, and supplementary tiered-passage commentary. Reliability notes distinguish public reporting and media narratives from vessel-level verification. Crossref registration status updated to registered for DOI https://doi.org/10.67037/epinova.pb.2026.050."
+  },
+  "pdf_metadata": {
+    "title": "Two Summits, Two Signals: U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-05-22T22:46:56-04:00",
+    "modification_date": "2026-05-22T22:46:56-04:00",
+    "pages": 9
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.050",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-050/",
+    "crossref_doi_suffix": "epinova.pb.2026.050",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "reference_sources": [
+    {
+      "id": "reuters_2026_hormuz_control_checkpoints_fees",
+      "type": "news_report",
+      "outlet": "Reuters",
+      "date": "2026-05-20",
+      "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals - and sometimes 'fees'",
+      "url": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
+      "use_in_brief": "Primary reporting basis for the discussion of reported tiered passage, island checkpoints, diplomatic arrangements, and passage-related fees.",
+      "reliability_note": "Treated as public reporting, not independently verified by the author at vessel level."
+    },
+    {
+      "id": "ft_2026_china_bound_supertankers_hormuz",
+      "type": "news_report",
+      "outlet": "Financial Times",
+      "date": "2026-05-20",
+      "title": "Oil drops nearly 6% as two China-bound supertankers cross Strait of Hormuz",
+      "url": "https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945",
+      "use_in_brief": "Supports the discussion of selective passage and market response following China-bound tanker movement.",
+      "reliability_note": "Used as corroborating market and shipping-context reporting."
+    },
+    {
+      "id": "aljazeera_2026_iran_claims_26_vessels",
+      "type": "news_report",
+      "outlet": "Al Jazeera",
+      "date": "2026-05-20",
+      "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
+      "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz",
+      "use_in_brief": "Used as context for Iran’s public claim of coordinated passage.",
+      "reliability_note": "Iranian claim reported by media; not treated as independently verified throughput data."
+    },
+    {
+      "id": "xinhua_2026_hormuz_toll_statement",
+      "type": "news_report",
+      "outlet": "Xinhua",
+      "date": "2026-04-27",
+      "title": "伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费",
+      "url": "https://www.news.cn/milpro/20260427/f6748219272e4e4b9ddd254ced844178/c.html",
+      "use_in_brief": "Supports the chokepoint monetization framing in Chinese-language authoritative reporting.",
+      "reliability_note": "Reports a statement by an Iranian parliamentary official."
+    },
+    {
+      "id": "mfa_china_2026_hormuz_cn_ru_question",
+      "type": "official_readout",
+      "outlet": "Ministry of Foreign Affairs of the People's Republic of China",
+      "date": "2026-03-04",
+      "title": "2026年3月4日外交部发言人毛宁主持例行记者会",
+      "url": "https://hn.china-embassy.gov.cn/wjbfyrth/202603/t20260304_11868732.htm",
+      "use_in_brief": "Used to clarify that China did not confirm reports that Iran would allow only Chinese and Russian vessels to pass.",
+      "reliability_note": "Official Chinese response; useful for avoiding overstatement."
+    },
+    {
+      "id": "sohu_2026_hormuz_tiered_passage",
+      "type": "media_commentary",
+      "outlet": "Sohu / 兵器海陆空",
+      "date": "2026-05-22",
+      "title": "伊朗制定霍尔木兹“分级通行”规则！中俄获得特殊待遇，可优先通行",
+      "url": "https://www.sohu.com/a/1026009352_121752854",
+      "use_in_brief": "Supplementary Chinese-language media narrative on alleged tiered Hormuz passage rules.",
+      "reliability_note": "Secondary commentary source; not treated as confirmed operational evidence."
+    }
+  ]
+}
