@@ -53,6 +53,7 @@ CREATOR = {
 
 ARTICLE_CATALOG = [
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-05-26", "The Ceasefire at Sea Is Fraying"),
     ("2026-05-20", "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal"),
     ("2026-04-21", "MCCM v2.3+: Escalation and the Loss-of-Control Threshold"),
     ("2026-04-12", "2026 MCCM 2.0+(23 Variables Ver.): April 12"),
@@ -132,6 +133,9 @@ ARTICLE_CATALOG = [
 
 MANUAL_URL_OVERRIDES = {
     # Latest manually confirmed article.
+    "The Ceasefire at Sea Is Fraying":
+        "https://epinova.org/articles/f/the-ceasefire-at-sea-is-fraying",
+
     "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal":
         "https://epinova.org/articles/f/caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal",
     "Caspian Fast-Cycle Turnover: A May 15 Port Rhythm Signal":
@@ -503,6 +507,10 @@ def slug_variants(slug: str) -> list[str]:
 
 def catalog_to_seed_urls() -> list[dict]:
     manual = {
+        # Latest manually confirmed article
+        "The Ceasefire at Sea Is Fraying":
+            "the-ceasefire-at-sea-is-fraying",
+
         # MCCM / AIPAMS series
         "MCCM v2.3+: Escalation and the Loss-of-Control Threshold":
             "mccm-v23-escalation-and-the-loss-of-control-threshold",

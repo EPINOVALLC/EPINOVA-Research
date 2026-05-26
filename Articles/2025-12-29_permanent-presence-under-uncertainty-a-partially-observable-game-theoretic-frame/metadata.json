@@ -17,7 +17,7 @@
   "version": "v1.0",
   "status": "Archived from EPINOVA GoDaddy blog",
   "language": "en",
-  "publisher": "EPINOVA LLC",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "place": "Carrollton, Georgia, United States",
   "doi": "To be assigned after Crossref registration",
   "previous_doi": "",
@@ -34,12 +34,12 @@
     "url": ""
   },
   "copyright": "© 2025 EPINOVA LLC. All rights reserved.",
-  "recommended_citation": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty",
+  "citation_apa": "Wu, Shaoyuan. (2025). Permanent Presence under Uncertainty:. EPINOVA LLC. https://epinova.org/articles/f/permanent-presence-under-uncertainty",
   "original_page": "https://epinova.org/articles/f/permanent-presence-under-uncertainty",
   "canonical_url": "",
   "source_status": "archived_from_godaddy_blog_with_images",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Articles/2025-12-29_permanent-presence-under-uncertainty-a-partially-observable-game-theoretic-frame",
+  "repository_folder": "Articles/2025-12-29_permanent-presence-under-uncertainty-a-partially-observable-game-theoretic-frame",
   "official_page": "https://epinova.org/articles/f/permanent-presence-under-uncertainty",
   "alternate_identifiers": [
     {
@@ -72,25 +72,5 @@
       "content_type": "image/jpeg",
       "description": "Locally archived image from the original EPINOVA article."
     }
-  ],
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "landing_page": "https://publications.epinova.org/epinova-art-2025-permanent-presence-under-uncertainty/",
-  "crossref": {
-    "crossref_url": "https://publications.epinova.org/epinova-art-2025-permanent-presence-under-uncertainty/",
-    "crossref_doi_suffix": "epinova.art.2025.permanent.presence.under.uncertainty",
-    "intended_registration_agency": "Crossref",
-    "registration_status": "Pending",
-    "record_type": "journal-article"
-  },
-  "metadata_source": {
-    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
-    "created_by": "EPINOVA LLC",
-    "created_date": "2025-12-29",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. DOI remains pending."
-  },
-  "publisher_unit": "Global AI Governance and Policy Research Center",
-  "pdf_metadata": {
-    "title": "Permanent Presence under Uncertainty:"
-  }
+  ]
 }

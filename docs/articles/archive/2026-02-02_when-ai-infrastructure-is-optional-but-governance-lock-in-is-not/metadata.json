@@ -17,7 +17,7 @@
   "version": "v1.0",
   "status": "Archived from EPINOVA GoDaddy blog",
   "language": "en",
-  "publisher": "EPINOVA LLC",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
   "place": "Carrollton, Georgia, United States",
   "doi": "To be assigned after Crossref registration",
   "previous_doi": "",
@@ -34,12 +34,12 @@
     "url": ""
   },
   "copyright": "© 2026 EPINOVA LLC. All rights reserved.",
-  "recommended_citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not. EPINOVA LLC. https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not. DOI: To be assigned after Crossref membership approval.",
-  "citation_apa": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not. EPINOVA LLC. https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not. DOI: To be assigned after Crossref membership approval.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not. EPINOVA LLC. https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
+  "citation_apa": "Wu, Shaoyuan. (2026). When AI Infrastructure Is Optional but Governance Lock-In Is Not. EPINOVA LLC. https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
   "original_page": "https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
   "canonical_url": "",
   "source_status": "archived_from_godaddy_blog_with_images",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Articles/2026-02-02_when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
+  "repository_folder": "Articles/2026-02-02_when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
   "official_page": "https://epinova.org/articles/f/when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
   "alternate_identifiers": [
     {
@@ -90,25 +90,5 @@
       "content_type": "image/jpeg",
       "description": "Locally archived image from the original EPINOVA article."
     }
-  ],
-  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "landing_page": "https://publications.epinova.org/epinova-art-2026-when-ai-infrastructure-is-optional-but-g/",
-  "crossref": {
-    "crossref_url": "https://publications.epinova.org/epinova-art-2026-when-ai-infrastructure-is-optional-but-g/",
-    "crossref_doi_suffix": "epinova.art.2026.when.ai.infrastructure.is.optional.but.g",
-    "intended_registration_agency": "Crossref",
-    "registration_status": "Pending",
-    "record_type": "journal-article"
-  },
-  "metadata_source": {
-    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
-    "created_by": "EPINOVA LLC",
-    "created_date": "2026-02-02",
-    "last_updated": "2026-05-18",
-    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, abstract or executive summary, references, recommended citation, DOI status, and disclaimer where available. DOI remains pending."
-  },
-  "publisher_unit": "Global AI Governance and Policy Research Center",
-  "pdf_metadata": {
-    "title": "When AI Infrastructure Is Optional but Governance Lock-In Is Not"
-  }
+  ]
 }
