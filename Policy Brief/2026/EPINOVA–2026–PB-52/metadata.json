@@ -1,0 +1,676 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-052",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-052",
+  "title": "Renewed Strikes and the Risk of Conflict Resumption",
+  "subtitle": "Assessing June 3 Escalation Dynamics after the Fragile Ceasefire",
+  "title_normalized": "renewed strikes and the risk of conflict resumption",
+  "publication_date": "2026-06-03",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.052",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-052/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–52",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Renewed Strikes and the Risk of Conflict Resumption",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief assesses the June 3, 2026 renewed strike episode as a major stress test of the fragile post-ceasefire order in the U.S.–Israel–Iran conflict. It argues that the episode differs from the February 28 opening phase by reflecting retaliatory reactivation under incomplete de-escalation, contested Hormuz governance, and weak enforcement, with partial conflict resumption more likely than either immediate full-scale war or rapid diplomatic recompression.",
+  "abstract": "June 3 marks a critical inflection point in the U.S.–Israel–Iran conflict. Reported attacks on U.S.-linked military nodes in the Gulf occurred after the conflict had shifted from high-intensity coercion toward fragile procedural de-escalation. By late May, diplomacy focused on suspending hostilities, reopening the Strait of Hormuz, sequencing the nuclear issue, and preserving a politically usable exit framework. The June 3 events place that framework under direct pressure. This brief argues that June 3 is not a simple repeat of the February 28 opening phase. February 28 was defined by coercive initiation: U.S.–Israeli military action aimed at degrading Iranian capabilities and shaping settlement terms. June 3 reflects retaliatory reactivation, in which incomplete ceasefire arrangements, contested maritime rules, and weak enforcement mechanisms allow local incidents to propagate into broader escalation. The reported suspension or pause in Iranian communication with Washington further shifts the baseline. The most likely near-term outcome is no longer controlled diplomatic recompression, but partial conflict resumption under residual diplomatic ambiguity. This would involve continued strikes, weakened negotiations, and a narrowing boundary between diplomacy and coercion. In such a scenario, the ceasefire may remain formally alive while becoming operationally hollow. Preventing this outcome requires moving beyond broad ceasefire language toward concrete control mechanisms: maritime incident management, short-cycle reciprocal restraint, force-posture freezes, threshold buffers around U.S. bases, Israeli constraint protocols, and sequencing nuclear negotiations after immediate crisis control. The central policy lesson is that, under non-enforcement conditions, a ceasefire is not a promise. It is a system design problem.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "U.S.–Iran conflict",
+    "ceasefire control",
+    "conflict resumption",
+    "June 3 escalation",
+    "Strait of Hormuz",
+    "Hormuz governance",
+    "maritime incident management",
+    "Gulf bases",
+    "Bahrain",
+    "Kuwait",
+    "Qeshm Island",
+    "retaliatory reactivation",
+    "partial war resumption",
+    "force-posture freeze",
+    "short-cycle de-escalation",
+    "MCCM v2.1+",
+    "risk-adjusted systemic pressure",
+    "escalation control",
+    "Loss-of-Control Threshold",
+    "non-enforcement ceasefire",
+    "Israel-linked escalation",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Middle East security",
+    "Strategic studies",
+    "Conflict escalation",
+    "Ceasefire design",
+    "Maritime security",
+    "Energy security",
+    "Gulf security",
+    "Political risk",
+    "Public policy",
+    "Crisis management",
+    "Military and security studies"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-03",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-03",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-03",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-03",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email for DOI 10.67037/epinova.pb.2026.052."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52/Renewed%20Strikes%20and%20the%20Risk%20of%20Conflict%20Resumption%20Assessing%20June%203%20Escalation%20Dynamics%20after%20the%20Fragile%20Ceasefire.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-052",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Post-Ceasefire Escalation-Control and MCCM v2.1+ Risk-Adjusted Pressure Assessment Framework",
+    "source_basis": "Policy-facing assessment based on the PB-52 PDF and the supplied PDF reference package. References are stored directly in the top-level references field as structured objects rather than appended as a separate trailing block.",
+    "case_context": "June 3, 2026 reported attacks on U.S.-linked military nodes in the Gulf after a fragile ceasefire framework in the U.S.–Israel–Iran conflict, including reported maritime, Qeshm Island, Gulf base, airport, and diplomatic disruptions.",
+    "core_problem": "The central analytical problem is whether the June 3 episode should be interpreted as a contained post-ceasefire violation, a partial conflict-resumption pathway, or the start of full war resumption under conditions of weakened ceasefire control.",
+    "central_claims": [
+      "June 3 is the most serious test of the post-ceasefire order so far.",
+      "The June 3 episode differs from the February 28 opening phase because it reflects retaliatory reactivation rather than coercive initiation.",
+      "Hormuz has returned as an operational escalation pathway rather than remaining only a negotiation issue.",
+      "Partial conflict resumption is more likely than either immediate full-scale war or rapid diplomatic recompression.",
+      "Israel remains a key escalation variable because Israel-linked fronts can weaken or bypass U.S.–Iran de-escalation arrangements.",
+      "The policy challenge is shifting from ceasefire negotiation to ceasefire control.",
+      "Under non-enforcement conditions, a ceasefire should be treated as a system design problem."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Ceasefire-Control Stress Test",
+        "description": "Assesses whether the post-ceasefire architecture can absorb renewed strikes without entering repeated violation cycles."
+      },
+      {
+        "name": "Retaliatory Reactivation Analysis",
+        "description": "Distinguishes June 3 from the February 28 coercive-initiation phase by focusing on incomplete de-escalation and resumed limited retaliation."
+      },
+      {
+        "name": "Hormuz Governance and Maritime Trigger Analysis",
+        "description": "Treats Hormuz as a physical chokepoint, bargaining asset, and operational escalation trigger."
+      },
+      {
+        "name": "Networked Base-Pressure Analysis",
+        "description": "Interprets attacks on U.S.-linked Gulf nodes as pressure on the wider regional operational architecture rather than isolated base events."
+      },
+      {
+        "name": "MCCM v2.1+ Risk-Adjusted Pressure Comparison",
+        "description": "Compares February 28 and June 3 pressure profiles using risk-adjusted systemic variables, including inverted stability indicators so that higher values indicate higher systemic danger."
+      },
+      {
+        "name": "Scenario Probability Assessment",
+        "description": "Provides structured analytical estimates for controlled recompression, partial war resumption, and full war resumption over the next 3–14 days."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Ceasefire Architecture Stress",
+      "code": "CAS",
+      "indicator_type": "Escalation-control signal",
+      "observed_pattern": "June 3 exposed gaps in maritime incident management, force-posture limits, attribution channels, and Israel-linked front protocols.",
+      "interpretation": "The ceasefire is vulnerable to erosion through repeated ambiguous violations."
+    },
+    {
+      "name": "Hormuz Operational Escalation Pathway",
+      "code": "HOEP",
+      "indicator_type": "Maritime-security signal",
+      "observed_pattern": "Reported tanker, Qeshm Island, and maritime retaliation narratives returned Hormuz to the operational trigger space.",
+      "interpretation": "Hormuz remains a battlefield linkage point as well as a bargaining issue."
+    },
+    {
+      "name": "Regional Base Network Pressure",
+      "code": "RBNP",
+      "indicator_type": "Military-network pressure signal",
+      "observed_pattern": "Reported missile and drone attacks against U.S.-linked nodes in Bahrain, Kuwait, and possibly other Gulf locations pressured the U.S. regional base architecture.",
+      "interpretation": "Even intercepted or limited attacks can impose operational and partner-state costs."
+    },
+    {
+      "name": "Civil Aviation and Economic Spillover",
+      "code": "CAES",
+      "indicator_type": "Systemic-spillover signal",
+      "observed_pattern": "Reported airport disruption and airspace restrictions shifted the episode beyond a contained military exchange.",
+      "interpretation": "The conflict re-enters systemic space when aviation, shipping, insurance, port, and energy flows are affected."
+    },
+    {
+      "name": "MCCM v2.1+ Risk-Adjusted Expansion",
+      "code": "MCCM_RA",
+      "indicator_type": "Composite systemic-risk profile",
+      "observed_pattern": "The June 3 pressure profile shows broader systemic danger than the February 28 opening shock across multiple risk-adjusted variables.",
+      "interpretation": "The post-ceasefire system has a reduced control margin under accumulated stress."
+    },
+    {
+      "name": "Controlled Recompression Scenario",
+      "code": "S1",
+      "indicator_type": "Scenario pathway",
+      "observed_pattern": "Estimated probability: 20 percent.",
+      "interpretation": "The June 3 exchange is contained and backchannel communication resumes or remains viable."
+    },
+    {
+      "name": "Partial War Resumption Scenario",
+      "code": "S2",
+      "indicator_type": "Scenario pathway",
+      "observed_pattern": "Estimated probability: 55 percent.",
+      "interpretation": "Limited military operations resume while the ceasefire remains formally or rhetorically alive."
+    },
+    {
+      "name": "Full War Resumption Scenario",
+      "code": "S3",
+      "indicator_type": "Scenario pathway",
+      "observed_pattern": "Estimated probability: 25 percent.",
+      "interpretation": "Threshold events such as U.S. fatalities, major base damage, major tanker incidents, or sharp Israeli escalation trigger broader war."
+    }
+  ],
+  "key_findings": [
+    "June 3 is the most serious test of the post-ceasefire order so far.",
+    "The episode should not be interpreted as a simple repeat of February 28; it reflects retaliatory reactivation under incomplete de-escalation.",
+    "Hormuz has returned as an operational escalation pathway involving maritime incidents, Qeshm Island, and Gulf-base pressures.",
+    "Partial conflict resumption without formal declaration is assessed as the most likely near-term pathway.",
+    "The ceasefire may remain formally alive while becoming operationally hollow if limited strikes continue and talks remain suspended or weakened.",
+    "Israel-linked escalation pathways remain a structural risk to any U.S.–Iran de-escalation framework.",
+    "Ceasefire control requires specific mechanisms rather than broad ceasefire language: incident management, force-posture limits, verification, threshold buffers, and mediator-supported procedures.",
+    "Figure 1 indicates broader risk-adjusted systemic pressure on June 3 than on February 28, based on the author’s MCCM v2.1+ assessment."
+  ],
+  "policy_recommendations": [
+    "Treat Hormuz as a governance problem, not only a security problem.",
+    "Establish a maritime incident cell involving the United States, Iran, Gulf littoral states, and a neutral facilitator.",
+    "Shift from broad full-ceasefire language to short-cycle, reversible de-escalation mechanisms.",
+    "Add an Israeli constraint protocol covering Israel-linked escalation pathways in Lebanon, Syria, Iraq, inside Iran, and information signaling.",
+    "Preserve threshold buffers around U.S. bases by distinguishing intercepted attacks, infrastructure damage, U.S. fatalities, and command/naval degradation.",
+    "Separate nuclear sequencing from immediate crisis control so that urgent maritime and base-related stabilization can proceed first.",
+    "Rebuild mediator utility around procedures, verification, incident clarification, and message transmission rather than unenforceable guarantees."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 72 hours",
+      "indicator": "Confirmed U.S. fatalities or major Gulf-base infrastructure damage",
+      "analytical_purpose": "Would sharply increase the probability of full war resumption."
+    },
+    {
+      "timeframe": "Immediate to 7 days",
+      "indicator": "Additional Iranian missile or drone waves against Bahrain, Kuwait, UAE, maritime targets, or U.S. base perimeters",
+      "analytical_purpose": "Tests whether June 3 remains isolated or becomes repeated limited violation."
+    },
+    {
+      "timeframe": "Immediate to 7 days",
+      "indicator": "Further U.S. strikes on Qeshm, Bandar Abbas, IRGC maritime infrastructure, missile/drone nodes, radar, or command sites",
+      "analytical_purpose": "Measures whether the United States moves from narrow defense to renewed kinetic bargaining."
+    },
+    {
+      "timeframe": "3–14 days",
+      "indicator": "Status of Iranian communication with Washington and mediator shuttle diplomacy by Oman, Qatar, Pakistan, Turkey, or Egypt",
+      "analytical_purpose": "Determines whether the baseline shifts toward diplomatic recompression or partial war resumption."
+    },
+    {
+      "timeframe": "3–14 days",
+      "indicator": "Commercial traffic, tanker incidents, insurance risk pricing, and airspace restrictions around Hormuz and the Gulf",
+      "analytical_purpose": "Identifies whether systemic spillover is deepening."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Israeli operations against Iran-linked targets in Lebanon, Syria, Iraq, or inside Iran",
+      "analytical_purpose": "Assesses whether Israel-linked fronts reopen escalation pathways despite U.S.–Iran de-escalation efforts."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Prior EPINOVA analysis of U.S. objective compression, Iranian leverage institutionalization, and ceasefire-first sequencing."
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). A systemic theory of escalation and the loss-of-control threshold in networked conflict.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Conceptual basis for loss-of-control threshold and networked escalation analysis."
+    },
+    {
+      "relation": "References",
+      "identifier": "Author’s MCCM v2.1+ assessment",
+      "scheme": "Analytical model",
+      "resource_type": "Risk assessment framework",
+      "description": "Source of Figure 1 risk-adjusted pressure profiles comparing February 28 and June 3, 2026."
+    }
+  ],
+  "references": [
+    {
+      "id": "china_media_group_cctv_chinese_international_multiple_u_s_military_bas",
+      "type": "news_report",
+      "citation": "China Media Group / CCTV Chinese International. (2026, June 2). 中东多处美军基地遭袭 [Multiple U.S. military bases in the Middle East attacked]. CCTV-4 / 央视中文国际. URL not supplied in the source package.",
+      "outlet": "China Media Group / CCTV Chinese International",
+      "date": "2026-06-02",
+      "title": "中东多处美军基地遭袭 [Multiple U.S. military bases in the Middle East attacked]. CCTV-4 / 央视中文国际. URL not supplied in the source package.",
+      "url": "",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "china_media_group_reported_suspension_of_airport_operations_in_bahrain",
+      "type": "news_report",
+      "citation": "China Media Group. (2026, June 3). Reported suspension of airport operations in Bahrain, the United Arab Emirates, and Kuwait following airstrikes [Chinese-language public reporting]. URL not supplied in the source package.",
+      "outlet": "China Media Group",
+      "date": "2026-06-03",
+      "title": "Reported suspension of airport operations in Bahrain, the United Arab Emirates, and Kuwait following airstrikes [Chinese-language public reporting]. URL not supplied in the source package.",
+      "url": "",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_us_and_iran_exchange_fire_but_trump_says_ceasefire_still_in_pl",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 7). US and Iran exchange fire, but Trump says ceasefire still in place. https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+      "outlet": "Reuters",
+      "date": "2026-05-07",
+      "title": "US and Iran exchange fire, but Trump says ceasefire still in place",
+      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_trump_says_he_paused_attack_on_iran_signals_a_nuclear_deal_may",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 18). Trump says he paused attack on Iran, signals a nuclear deal may be possible. https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/",
+      "outlet": "Reuters",
+      "date": "2026-05-18",
+      "title": "Trump says he paused attack on Iran, signals a nuclear deal may be possible",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_trump_says_willing_to_wait_for_a_few_days_to_get_right_iran_de",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 20). Trump says willing to wait for a few days to get ‘right’ Iran deal. https://www.reuters.com/world/asia-pacific/tankers-exit-hormuz-trump-vance-talk-up-iran-deal-prospects-2026-05-20/",
+      "outlet": "Reuters",
+      "date": "2026-05-20",
+      "title": "Trump says willing to wait for a few days to get ‘right’ Iran deal",
+      "url": "https://www.reuters.com/world/asia-pacific/tankers-exit-hormuz-trump-vance-talk-up-iran-deal-prospects-2026-05-20/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_qatari_negotiating_team_in_tehran_to_try_to_help_secure_us_ira",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 22). Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war, says source. https://www.reuters.com/world/middle-east/qatari-negotiating-team-tehran-help-secure-us-iran-deal-end-war-says-source-2026-05-22/",
+      "outlet": "Reuters",
+      "date": "2026-05-22",
+      "title": "Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war, says source",
+      "url": "https://www.reuters.com/world/middle-east/qatari-negotiating-team-tehran-help-secure-us-iran-deal-end-war-says-source-2026-05-22/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_us_and_iran_report_progress_on_talks_ending_war",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 23). US and Iran report progress on talks ending war. https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/",
+      "outlet": "Reuters",
+      "date": "2026-05-23",
+      "title": "US and Iran report progress on talks ending war",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_iran_s_top_negotiator_says_tehran_will_not_compromise_in_talks",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 23). Iran’s top negotiator says Tehran will not compromise in talks with US. https://www.reuters.com/world/asia-pacific/irans-top-negotiator-says-tehran-will-not-compromise-talks-with-us-2026-05-23/",
+      "outlet": "Reuters",
+      "date": "2026-05-23",
+      "title": "Iran’s top negotiator says Tehran will not compromise in talks with US",
+      "url": "https://www.reuters.com/world/asia-pacific/irans-top-negotiator-says-tehran-will-not-compromise-talks-with-us-2026-05-23/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "reuters_trump_says_negotiators_are_getting_closer_to_iran_deal_media_i",
+      "type": "news_report",
+      "citation": "Reuters. (2026, May 23). Trump says negotiators are getting closer to Iran deal, media interviews show. https://www.reuters.com/world/asia-pacific/trump-says-negotiators-are-getting-closer-iran-deal-media-interviews-show-2026-05-23/",
+      "outlet": "Reuters",
+      "date": "2026-05-23",
+      "title": "Trump says negotiators are getting closer to Iran deal, media interviews show",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-negotiators-are-getting-closer-iran-deal-media-interviews-show-2026-05-23/",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "associated_press_iran_and_the_us_are_close_to_an_understanding_aimed_a",
+      "type": "news_report",
+      "citation": "Associated Press. (2026, May 23). Iran and the US are close to an understanding aimed at ending the war, officials say. https://apnews.com/article/1c283f26d037102cc5e6f798546d0e59",
+      "outlet": "Associated Press",
+      "date": "2026-05-23",
+      "title": "Iran and the US are close to an understanding aimed at ending the war, officials say",
+      "url": "https://apnews.com/article/1c283f26d037102cc5e6f798546d0e59",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "the_guardian_tehran_has_no_plans_to_participate_in_new_talks_state_med",
+      "type": "news_report",
+      "citation": "The Guardian. (2026, April 19). Tehran has ‘no plans to participate’ in new talks, state media reports. https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
+      "outlet": "The Guardian",
+      "date": "2026-04-19",
+      "title": "Tehran has ‘no plans to participate’ in new talks, state media reports",
+      "url": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "the_guardian_qatar_sends_mediators_to_tehran_in_sign_talks_to_reopen_s",
+      "type": "news_report",
+      "citation": "The Guardian. (2026, May 22). Qatar sends mediators to Tehran in sign talks to reopen Strait of Hormuz are reaching climax. https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+      "outlet": "The Guardian",
+      "date": "2026-05-22",
+      "title": "Qatar sends mediators to Tehran in sign talks to reopen Strait of Hormuz are reaching climax",
+      "url": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "the_guardian_iran_hosts_pakistani_delegation_amid_diplomacy_to_avert_n",
+      "type": "news_report",
+      "citation": "The Guardian. (2026, May 23). Iran hosts Pakistani delegation amid diplomacy to avert new US strikes. https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+      "outlet": "The Guardian",
+      "date": "2026-05-23",
+      "title": "Iran hosts Pakistani delegation amid diplomacy to avert new US strikes",
+      "url": "https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_deterrence",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Deterrence under cost pressure: From overmatch to cost imposition in the U.S.–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–16). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19210002",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Deterrence under cost pressure: From overmatch to cost imposition in the U.S.–Iran conflict",
+      "url": "https://doi.org/10.5281/zenodo.19210002",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_divergent_",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–17). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19223653",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict",
+      "url": "https://doi.org/10.5281/zenodo.19223653",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_ceasefire_",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints (EPINOVA Policy Brief No. EPINOVA–2026–PB–25). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19444571",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints",
+      "url": "https://doi.org/10.5281/zenodo.19444571",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_ceasefire_",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Ceasefire as recovery competition: Rearmament, external support, and strategic regeneration in a non-enforcement environment (EPINOVA Policy Brief No. EPINOVA–2026–PB–26). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19464642",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Ceasefire as recovery competition: Rearmament, external support, and strategic regeneration in a non-enforcement environment",
+      "url": "https://doi.org/10.5281/zenodo.19464642",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_from_selec",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). From selective restriction to universal blockade: Legal contestation and third-party naval intervention in the Strait of Hormuz (EPINOVA Policy Brief No. EPINOVA–2026–PB–32). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "From selective restriction to universal blockade: Legal contestation and third-party naval intervention in the Strait of Hormuz",
+      "url": "https://doi.org/10.5281/zenodo.19568379",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_escalation",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict, Days 1–50 (EPINOVA Policy Brief No. EPINOVA–2026–PB–35). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict, Days 1–50",
+      "url": "https://doi.org/10.5281/zenodo.19645873",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_who_is_rea",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–36). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19665929",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Who is ready under renewed conflict? A capability–sustainability assessment of the U.S.–Israel–Iran conflict",
+      "url": "https://doi.org/10.5281/zenodo.19665929",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_bargaining",
+      "type": "policy_brief",
+      "citation": "Wu, S. (2026). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict",
+      "url": "https://doi.org/10.67037/epinova.pb.2026.051",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    },
+    {
+      "id": "global_ai_governance_and_policy_research_center_epinova_llc_a_systemic",
+      "type": "working_paper",
+      "citation": "Wu, S. (2026). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+      "outlet": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "date": "2026",
+      "title": "A systemic theory of escalation and the loss-of-control threshold in networked conflict",
+      "url": "https://doi.org/10.5281/zenodo.19139977",
+      "use_in_brief": "Used as a source in PB-52 for the June 3 escalation-risk assessment, ceasefire-control analysis, scenario assessment, or supporting EPINOVA analytical framework.",
+      "reliability_note": "Treated according to the brief’s methodological note; public reporting and battlefield claims remain provisional unless independently verified."
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Renewed Strikes and the Risk of Conflict Resumption: Assessing June 3 Escalation Dynamics after the Fragile Ceasefire, Policy Brief No. EPINOVA–2026–PB–52, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.052.",
+  "citation_apa": "Wu, S. (2026). Renewed strikes and the risk of conflict resumption: Assessing June 3 escalation dynamics after the fragile ceasefire. EPINOVA Policy Brief Series, EPINOVA-PB-2026-052. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.052.",
+  "short_citation": "Wu (2026), Renewed Strikes and the Risk of Conflict Resumption, EPINOVA–2026–PB–52.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-03",
+    "pagination": "12 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "MCCM v2.1+ Risk-Adjusted Pressure Profiles: February 28 vs. June 3, 2026",
+      "description": "Compares February 28 and June 3 risk-adjusted systemic pressure profiles using a radar profile and a variable-level heatmap.",
+      "source": "Author’s MCCM v2.1+ assessment.",
+      "note": "Panel A shows the overall expansion of risk-adjusted systemic pressure from February 28 to June 3. Panel B provides a variable-level comparison across MCCM v2.1+ indicators. LC, NSI, EET, SCI, WJC, DRI, and MLI are inverted so that higher values consistently indicate higher systemic danger. The figure compares analytical pressure profiles rather than independently verified battlefield measurements."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Comparison: February 28 vs. June 3",
+      "description": "Compares the strategic structure of the February 28 opening phase and the June 3 renewed attacks across strategic character, initiator logic, battlefield, escalation pattern, negotiation context, main risk, objectives, Israel’s role, and system condition.",
+      "source": "Author’s synthesis based on public reporting available as of June 3, 2026, including Reuters, AP, The Guardian, regional media reporting, and prior EPINOVA analytical frameworks on escalation dynamics, ceasefire design, Hormuz governance, and cost-imposition conflict.",
+      "note": "This table compares strategic structure rather than verified scale of battlefield damage. The June 3 episode remains subject to reporting uncertainty and contested attribution."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "The PDF references the author’s MCCM v2.1+ assessment as the source of Figure 1 risk-adjusted pressure profiles.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, recommended citation, DOI, methodology and source note, table, figure, scenario estimates, policy implications, and disclaimer where available. References were populated from the supplied reference package and the PDF source note. Crossref registration was confirmed by email and the DOI is now marked as registered under EPINOVA LLC prefix 10.67037. The references field was updated in place: the former plain-string citation list was replaced by structured reference objects with id, type, citation, outlet, date, title, url, use_in_brief, and reliability_note. No duplicate reference_sources block is appended after references."
+  },
+  "pdf_metadata": {
+    "title": "Renewed Strikes and the Risk of Conflict Resumption: Assessing June 3 Escalation Dynamics after the Fragile Ceasefire",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-03T07:23:44-04:00",
+    "modification_date": "2026-06-03T07:23:44-04:00",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.052",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-052/",
+    "crossref_doi_suffix": "epinova.pb.2026.052",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}

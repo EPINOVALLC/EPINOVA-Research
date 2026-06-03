@@ -1,13 +1,7 @@
-Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.html
-Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.md
-Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.txt
-Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/assets/image-001.jpg
-Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/metadata.json
-docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.html
-docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.md
-docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.txt
-docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/assets/image-001.jpg
-docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-52/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
+Policy Brief/2026/EPINOVA–2026–PB-52/metadata.json
+docs/epinova-pb-2026-052/index.html
+docs/files/epinova-pb-2026-052/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -564,6 +558,11 @@ Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/arti
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.png
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-002.jpg
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/metadata.json
+Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.html
+Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.md
+Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/article.txt
+Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/assets/image-001.jpg
+Articles/2026-05-26_the-ceasefire-at-sea-is-fraying/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
 Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
@@ -1286,6 +1285,11 @@ docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhyth
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.png
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-002.jpg
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/metadata.json
+docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.html
+docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.md
+docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/article.txt
+docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/assets/image-001.jpg
+docs/articles/archive/2026-05-26_the-ceasefire-at-sea-is-fraying/metadata.json
 docs/articles/archive/articles_archive_index.json
 docs/articles/archive/articles_failed_index.json
 docs/articles/index.html

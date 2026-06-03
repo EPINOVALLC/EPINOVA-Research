@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-052** (2026-06-03)  
+  **Renewed Strikes and the Risk of Conflict Resumption: Assessing June 3 Escalation Dynamics after the Fragile Ceasefire**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.052](https://doi.org/10.67037/epinova.pb.2026.052)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-52/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52)  
+  Source PDF: [`Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52/Renewed%20Strikes%20and%20the%20Risk%20of%20Conflict%20Resumption%20Assessing%20June%203%20Escalation%20Dynamics%20after%20the%20Fragile%20Ceasefire.pdf)
+
 - **EPINOVA-PB-2026-051** (2026-05-23)  
   **Bargaining Under Systemic Pressure: U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.048](https://doi.org/10.67037/epinova.pb.2026.048)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
   Source PDF: [`From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf)
-
-- **EPINOVA-PB-2026-047** (2026-05-12)  
-  **Shock-Responsive Resilience in the Caspian Logistics System: Measuring Rebound Capacity after External Strikes**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.047](https://doi.org/10.67037/epinova.pb.2026.047)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-47/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47)  
-  Source PDF: [`Shock-Responsive Resilience in the Caspian Logistics System Measuring Rebound Capacity after External Strikes.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-47/Shock-Responsive%20Resilience%20in%20the%20Caspian%20Logistics%20System%20Measuring%20Rebound%20Capacity%20after%20External%20Strikes.pdf)
 
 ---
 
