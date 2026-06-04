@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-053** (2026-06-04)  
+  **From War Powers to Loyalty Politics: Trump’s Iran Response and the Government–Nation Distinction**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.053](https://doi.org/10.67037/epinova.pb.2026.053)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-53/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53)  
+  Source PDF: [`From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53/From%20War%20Powers%20to%20Loyalty%20Politics%20Trump%E2%80%99s%20Iran%20Response%20and%20the%20Government%E2%80%93Nation%20Distinction.pdf)
+
 - **EPINOVA-PB-2026-052** (2026-06-03)  
   **Renewed Strikes and the Risk of Conflict Resumption: Assessing June 3 Escalation Dynamics after the Fragile Ceasefire**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.049](https://doi.org/10.67037/epinova.pb.2026.049)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-49/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49)  
   Source PDF: [`Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49/Signaling%20Without%20Settlement%20An%20Assessment%20of%20Trump%E2%80%99s%20Beijing%20Visit%20and%20the%20Politics%20of%20Managed%20U.S.%E2%80%93China%20Competition.pdf)
-
-- **EPINOVA-PB-2026-048** (2026-05-13)  
-  **From Transit Fees to a Chokepoint–Hydrocarbon Value System: Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.048](https://doi.org/10.67037/epinova.pb.2026.048)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-48/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48)  
-  Source PDF: [`From Transit Fees to a Chokepoint–Hydrocarbon Value System Repricing Passage, Energy Dependence, and Regional Leverage in the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-48/From%20Transit%20Fees%20to%20a%20Chokepoint%E2%80%93Hydrocarbon%20Value%20System%20Repricing%20Passage%2C%20Energy%20Dependence%2C%20and%20Regional%20Leverage%20in%20the%20Strait%20of%20Hormuz.pdf)
 
 ---
 

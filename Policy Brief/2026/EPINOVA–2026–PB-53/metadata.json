@@ -1,0 +1,623 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-053",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-053",
+  "title": "From War Powers to Loyalty Politics",
+  "subtitle": "Trump’s Iran Response and the Government–Nation Distinction",
+  "title_normalized": "from war powers to loyalty politics",
+  "publication_date": "2026-06-04",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.053",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-053/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–53",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From War Powers to Loyalty Politics",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief analyzes President Trump’s response to the House Iran war-powers vote as a shift from constitutional disagreement over presidential war authority to loyalty politics. It argues that labeling congressional restraint as unpatriotic weakens the U.S. government–nation distinction and creates a strategic communications vulnerability in China-related political discourse.",
+  "abstract": "This policy brief examines the House passage of a war-powers resolution limiting President Trump’s authority to continue military action against Iran and Trump’s subsequent response. It argues that the episode transformed a constitutional dispute over congressional authorization and presidential war powers into a loyalty test, in which support for institutional restraint was framed as insufficient patriotism. The brief assesses how this rhetoric weakens the U.S. government–nation distinction often used in China-related messaging: Washington separates government, party, nation, and people when criticizing China, but presidential rhetoric can fuse leader, state, war policy, and patriotism when U.S. executive authority is challenged at home. The brief concludes that U.S. institutions remain active, as shown by the House vote itself, but that the rhetorical delegitimation of constitutional checks creates a strategic communications liability. The resulting vulnerability is not institutional collapse, but credibility erosion: the United States will find it harder to defend the legitimacy of dissent abroad if constitutional dissent at home is portrayed as national disloyalty.",
+  "keywords": [
+    "war powers",
+    "War Powers Resolution",
+    "Iran",
+    "Trump",
+    "presidential authority",
+    "Congress",
+    "constitutional oversight",
+    "loyalty politics",
+    "patriotism",
+    "government–nation distinction",
+    "U.S.–China relations",
+    "China discourse",
+    "strategic communication",
+    "democracy messaging",
+    "foreign policy credibility",
+    "constitutional dissent",
+    "executive power",
+    "information conflict",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "U.S. foreign policy",
+    "Constitutional governance",
+    "War powers",
+    "Strategic communication",
+    "U.S.–China relations",
+    "Information conflict",
+    "Political rhetoric",
+    "Democracy and governance",
+    "Public policy",
+    "Middle East security",
+    "Political risk"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-04",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-04",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-04",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-04",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email; registration status set to Registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53/From%20War%20Powers%20to%20Loyalty%20Politics%20Trump%E2%80%99s%20Iran%20Response%20and%20the%20Government%E2%80%93Nation%20Distinction.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-053",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "War-Powers Loyalty Politics and Government–Nation Distinction Assessment Framework",
+    "source_basis": "Policy-facing assessment based on publicly available reporting, congressional records, U.S. legal sources, official statements, and strategic-communication analysis concerning the June 2026 House Iran war-powers vote and Trump’s response. Sources include Reuters, NPR, The Guardian, New York Post, U.S. Code materials on the War Powers Resolution, the Library of Congress Constitution Annotated, the U.S. Department of State, and Voice of America reporting on China-policy messaging.",
+    "case_context": "The June 2026 House vote on limiting President Trump’s authority to continue military action against Iran, Trump’s public reaction, and the implications for U.S. constitutional rhetoric and China-related strategic communication.",
+    "core_problem": "The central analytical problem is how a constitutional disagreement over presidential war authority can be rhetorically recoded as a loyalty test, and how that recoding weakens U.S. external messaging that distinguishes government policy from national identity.",
+    "central_claims": [
+      "Trump’s response to the House Iran war-powers vote converts institutional oversight into loyalty politics.",
+      "The House vote demonstrates that constitutional checks remain active, but presidential rhetoric can delegitimize those checks.",
+      "The government–nation distinction used in China-related U.S. messaging becomes less persuasive when domestic war-policy dissent is labeled unpatriotic.",
+      "Chinese political discourse gains a portable counter-narrative about U.S. double standards.",
+      "The primary cost is not immediate institutional collapse but strategic credibility erosion."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "War-Powers Institutional Analysis",
+        "description": "Examines the House and Senate war-powers actions in relation to constitutional authority and the War Powers Resolution."
+      },
+      {
+        "name": "Loyalty-Politics Analysis",
+        "description": "Assesses how constitutional dissent is reframed as insufficient patriotism or national disloyalty."
+      },
+      {
+        "name": "Government–Nation Distinction Analysis",
+        "description": "Evaluates the distinction between government policy, executive authority, national identity, and patriotic loyalty."
+      },
+      {
+        "name": "China-Relevant Strategic Communication Analysis",
+        "description": "Assesses how the episode may be used in Chinese official, semi-official, or nationalist narratives about U.S. double standards."
+      },
+      {
+        "name": "Credibility-Erosion Assessment",
+        "description": "Identifies how inconsistency between external liberal messaging and domestic loyalty politics can weaken U.S. persuasive power abroad."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Constitutional Oversight",
+      "code": "CO",
+      "indicator_type": "Institutional legitimacy signal",
+      "observed_pattern": "The House passed a war-powers resolution limiting continued military action against Iran without congressional authorization.",
+      "interpretation": "Formal constitutional checks remain active."
+    },
+    {
+      "name": "Loyalty Politics",
+      "code": "LP",
+      "indicator_type": "Political-rhetorical signal",
+      "observed_pattern": "Trump characterized supporters of the war-powers resolution as unpatriotic or politically motivated.",
+      "interpretation": "Institutional restraint is recoded as national disloyalty."
+    },
+    {
+      "name": "Government–Nation Distinction",
+      "code": "GND",
+      "indicator_type": "Strategic-communication principle",
+      "observed_pattern": "U.S. China-policy messaging often distinguishes government, party, nation, and people, while the Iran response narrows this distinction domestically.",
+      "interpretation": "External messaging becomes less consistent when domestic dissent is framed as anti-national."
+    },
+    {
+      "name": "China-Relevant Counter-Narrative",
+      "code": "CNCN",
+      "indicator_type": "Narrative vulnerability",
+      "observed_pattern": "Chinese discourse can cite the episode as evidence that U.S. support for dissent is selective.",
+      "interpretation": "The episode is portable as a double-standards narrative."
+    },
+    {
+      "name": "Strategic Credibility Cost",
+      "code": "SCC",
+      "indicator_type": "Foreign-policy credibility signal",
+      "observed_pattern": "The gap between U.S. democracy messaging abroad and loyalty rhetoric at home creates a persuasive vulnerability.",
+      "interpretation": "Credibility erosion rather than institutional failure."
+    }
+  ],
+  "key_findings": [
+    "The Iran war-powers vote was a constitutional and institutional event, not merely a partisan dispute.",
+    "Trump’s response converted congressional oversight into a question of patriotic loyalty.",
+    "The episode weakens the rhetorical consistency of the U.S. government–nation distinction.",
+    "Chinese political discourse can use the episode as a compact example of U.S. double standards.",
+    "U.S. institutions still function, but their legitimacy can be rhetorically contested.",
+    "The main foreign-policy cost is strategic credibility erosion in democracy and human-rights messaging."
+  ],
+  "policy_recommendations": [
+    "Preserve the distinction between opposition to government policy and hostility toward the nation, especially in war-powers disputes.",
+    "Frame congressional war-powers oversight as constitutional patriotism rather than partisan obstruction.",
+    "Treat the government–nation distinction as a general principle rather than a tool used only against competitors.",
+    "Monitor Chinese official, semi-official, and nationalist discourse for use of the episode as a double-standards narrative.",
+    "Avoid rhetoric that collapses presidential policy, state authority, military action, and patriotism into a single loyalty test."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Whether the Senate advances, delays, or blocks a parallel war-powers measure",
+      "analytical_purpose": "Tests whether congressional resistance remains active beyond the House vote."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Additional Republican distance from the Iran campaign",
+      "analytical_purpose": "Measures whether the war-powers challenge remains bipartisan."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "White House repetition of loyalty-based language such as unpatriotic or betrayal",
+      "analytical_purpose": "Tests whether loyalty politics becomes institutionalized in administration messaging."
+    },
+    {
+      "timeframe": "Immediate to 60 days",
+      "indicator": "Chinese official media, semi-official commentary, and nationalist social-media amplification",
+      "analytical_purpose": "Assesses whether the episode becomes a China-facing counter-narrative against U.S. democracy messaging."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "U.S. diplomatic adjustment of China-facing government–nation language",
+      "analytical_purpose": "Tests whether U.S. messaging adapts to preserve credibility after domestic controversy."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Ching, N. (2025, March 3). VOA exclusive: State Department guidance distinguishes CCP from Chinese people. Voice of America. https://www.voanews.com/a/voa-exclusive-state-department-guidance-distinguishes-ccp-from-chinese-people/7996193.html",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the discussion of U.S. China-policy messaging that distinguishes the Chinese Communist Party from the Chinese people.",
+      "url": "https://www.voanews.com/a/voa-exclusive-state-department-guidance-distinguishes-ccp-from-chinese-people/7996193.html"
+    },
+    {
+      "relation": "References",
+      "identifier": "Grisales, C. (2026, June 3). House passes war powers resolution directing Trump to end hostilities with Iran. NPR. https://www.wesa.fm/national-international-news/2026-06-03/house-passes-war-powers-resolution-directing-trump-to-end-hostilities-with-iran",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the factual account of the House passage of the Iran war-powers resolution and bipartisan support.",
+      "url": "https://www.wesa.fm/national-international-news/2026-06-03/house-passes-war-powers-resolution-directing-trump-to-end-hostilities-with-iran"
+    },
+    {
+      "relation": "References",
+      "identifier": "Library of Congress. (n.d.). ArtI.S8.C11.2.1 overview of Declare War Clause. Constitution Annotated. https://constitution.congress.gov/browse/essay/artI-S8-C11-2-1/ALDE_00000110/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "legal_reference",
+      "description": "Supports the constitutional context for congressional war powers and the Declare War Clause.",
+      "url": "https://constitution.congress.gov/browse/essay/artI-S8-C11-2-1/ALDE_00000110/"
+    },
+    {
+      "relation": "References",
+      "identifier": "New York Post. (2026a, June 4). Fuming Trump tears into “unpatriotic” Dems and “grandstanding” Republicans after war powers vote. New York Post. https://nypost.com/2026/06/04/us-news/fuming-trump-tears-into-unpatriotic-dems-and-grandstanding-republicans-after-war-powers-vote/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Primary source for the brief’s analysis of Trump’s loyalty-politics framing after the war-powers vote.",
+      "url": "https://nypost.com/2026/06/04/us-news/fuming-trump-tears-into-unpatriotic-dems-and-grandstanding-republicans-after-war-powers-vote/"
+    },
+    {
+      "relation": "References",
+      "identifier": "New York Post. (2026b, June 3). House defies Trump and passes war powers resolution to halt military action against Iran—thanks to 4 GOP defectors. New York Post. https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the account of the House vote and Republican defections.",
+      "url": "https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Office of the Law Revision Counsel. (n.d.-a). 50 U.S.C. § 1541—Purpose and policy. U.S. House of Representatives. https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title50-section1541",
+      "scheme": "Bibliographic citation",
+      "resource_type": "legal_reference",
+      "description": "Supports the discussion of the War Powers Resolution’s collective-judgment purpose.",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title50-section1541"
+    },
+    {
+      "relation": "References",
+      "identifier": "Office of the Law Revision Counsel. (n.d.-b). 50 U.S.C. Chapter 33—War Powers Resolution. U.S. House of Representatives. https://uscode.house.gov/view.xhtml?edition=prelim&path=%2Fprelim%40title50%2Fchapter33",
+      "scheme": "Bibliographic citation",
+      "resource_type": "legal_reference",
+      "description": "Provides the statutory context for the War Powers Resolution.",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&path=%2Fprelim%40title50%2Fchapter33"
+    },
+    {
+      "relation": "References",
+      "identifier": "Pompeo, M. R. (2020, July 23). Communist China and the free world’s future. U.S. Department of State. https://2017-2021.state.gov/communist-china-and-the-free-worlds-future-2/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "official_speech",
+      "description": "Supports the discussion of U.S. China-policy messaging distinguishing the CCP from the Chinese people.",
+      "url": "https://2017-2021.state.gov/communist-china-and-the-free-worlds-future-2/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026a, June 3). US House votes for measure that would end Iran war, in blow to Trump. Reuters. https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Primary reporting basis for the House vote, vote margin, and bipartisan defection context.",
+      "url": "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026b, May 14). US House narrowly rejects bid to rein in Trump Iran war powers. Reuters. https://www.reuters.com/world/us/us-house-narrowly-rejects-bid-rein-trump-iran-war-powers-2026-05-14/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the chronology of earlier failed House efforts to limit Trump’s Iran war powers.",
+      "url": "https://www.reuters.com/world/us/us-house-narrowly-rejects-bid-rein-trump-iran-war-powers-2026-05-14/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026c, May 22). US House Republicans cancel Iran war powers vote. Reuters. https://www.reuters.com/world/us/us-house-republicans-cancel-iran-war-powers-vote-2026-05-21/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the chronology of congressional management and delay around Iran war-powers votes.",
+      "url": "https://www.reuters.com/world/us/us-house-republicans-cancel-iran-war-powers-vote-2026-05-21/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026d, May 20). US Senate advances measure curbing Trump’s Iran war powers. Reuters. https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the account of Senate-side war-powers resistance and bipartisan support.",
+      "url": "https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters. (2026e, June 2). Rubio grilled on Iran, says US won’t swap sanctions relief for strait. Reuters. https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Supports the discussion of congressional questioning, Iran negotiation context, Hormuz access, and sanctions-relief issues.",
+      "url": "https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/"
+    },
+    {
+      "relation": "References",
+      "identifier": "The Guardian. (2026, June 3). US House passes war powers resolution to curb Trump’s authority in Iran. The Guardian. https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
+      "scheme": "Bibliographic citation",
+      "resource_type": "news_report",
+      "description": "Provides additional reporting on the House passage of the war-powers resolution and its political significance.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran"
+    }
+  ],
+  "references": [
+    {
+      "id": "ching_2025_voa_state_guidance_ccp_chinese_people",
+      "type": "news_report",
+      "citation": "Ching, N. (2025, March 3). VOA exclusive: State Department guidance distinguishes CCP from Chinese people. Voice of America. https://www.voanews.com/a/voa-exclusive-state-department-guidance-distinguishes-ccp-from-chinese-people/7996193.html",
+      "outlet": "Voice of America",
+      "date": "2025-03-03",
+      "title": "VOA exclusive: State Department guidance distinguishes CCP from Chinese people",
+      "url": "https://www.voanews.com/a/voa-exclusive-state-department-guidance-distinguishes-ccp-from-chinese-people/7996193.html",
+      "use_in_brief": "Supports the discussion of U.S. China-policy messaging that distinguishes the Chinese Communist Party from the Chinese people.",
+      "reliability_note": "Used as public reporting on State Department language guidance; not treated as a statement of all U.S. policy positions."
+    },
+    {
+      "id": "grisales_2026_npr_house_war_powers_iran",
+      "type": "news_report",
+      "citation": "Grisales, C. (2026, June 3). House passes war powers resolution directing Trump to end hostilities with Iran. NPR. https://www.wesa.fm/national-international-news/2026-06-03/house-passes-war-powers-resolution-directing-trump-to-end-hostilities-with-iran",
+      "outlet": "NPR / WESA",
+      "date": "2026-06-03",
+      "title": "House passes war powers resolution directing Trump to end hostilities with Iran",
+      "url": "https://www.wesa.fm/national-international-news/2026-06-03/house-passes-war-powers-resolution-directing-trump-to-end-hostilities-with-iran",
+      "use_in_brief": "Supports the factual account of the House passage of the Iran war-powers resolution and bipartisan support.",
+      "reliability_note": "Used as public congressional reporting."
+    },
+    {
+      "id": "loc_constitution_annotated_declare_war_clause",
+      "type": "legal_reference",
+      "citation": "Library of Congress. (n.d.). ArtI.S8.C11.2.1 overview of Declare War Clause. Constitution Annotated. https://constitution.congress.gov/browse/essay/artI-S8-C11-2-1/ALDE_00000110/",
+      "outlet": "Library of Congress, Constitution Annotated",
+      "date": "n.d.",
+      "title": "ArtI.S8.C11.2.1 overview of Declare War Clause",
+      "url": "https://constitution.congress.gov/browse/essay/artI-S8-C11-2-1/ALDE_00000110/",
+      "use_in_brief": "Supports the constitutional context for congressional war powers and the Declare War Clause.",
+      "reliability_note": "Official U.S. constitutional reference source."
+    },
+    {
+      "id": "nypost_2026a_trump_unpatriotic_dems_grandstanding_republicans",
+      "type": "news_report",
+      "citation": "New York Post. (2026a, June 4). Fuming Trump tears into “unpatriotic” Dems and “grandstanding” Republicans after war powers vote. New York Post. https://nypost.com/2026/06/04/us-news/fuming-trump-tears-into-unpatriotic-dems-and-grandstanding-republicans-after-war-powers-vote/",
+      "outlet": "New York Post",
+      "date": "2026-06-04",
+      "title": "Fuming Trump tears into “unpatriotic” Dems and “grandstanding” Republicans after war powers vote",
+      "url": "https://nypost.com/2026/06/04/us-news/fuming-trump-tears-into-unpatriotic-dems-and-grandstanding-republicans-after-war-powers-vote/",
+      "use_in_brief": "Primary source for the brief’s analysis of Trump’s loyalty-politics framing after the war-powers vote.",
+      "reliability_note": "Used for reported public rhetoric; interpretive analysis remains the author’s."
+    },
+    {
+      "id": "nypost_2026b_house_defies_trump_war_powers_resolution",
+      "type": "news_report",
+      "citation": "New York Post. (2026b, June 3). House defies Trump and passes war powers resolution to halt military action against Iran—thanks to 4 GOP defectors. New York Post. https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
+      "outlet": "New York Post",
+      "date": "2026-06-03",
+      "title": "House defies Trump and passes war powers resolution to halt military action against Iran—thanks to 4 GOP defectors",
+      "url": "https://nypost.com/2026/06/03/us-news/house-defies-trump-admin-and-approves-war-powers-resolution-to-halt-military-action-against-iran/",
+      "use_in_brief": "Supports the account of the House vote and Republican defections.",
+      "reliability_note": "Used as public political reporting; cross-checked in the brief against Reuters and NPR reporting."
+    },
+    {
+      "id": "uscode_50_1541_war_powers_purpose_policy",
+      "type": "legal_reference",
+      "citation": "Office of the Law Revision Counsel. (n.d.-a). 50 U.S.C. § 1541—Purpose and policy. U.S. House of Representatives. https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title50-section1541",
+      "outlet": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "date": "n.d.",
+      "title": "50 U.S.C. § 1541—Purpose and policy",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title50-section1541",
+      "use_in_brief": "Supports the discussion of the War Powers Resolution’s collective-judgment purpose.",
+      "reliability_note": "Official U.S. Code source."
+    },
+    {
+      "id": "uscode_50_chapter33_war_powers_resolution",
+      "type": "legal_reference",
+      "citation": "Office of the Law Revision Counsel. (n.d.-b). 50 U.S.C. Chapter 33—War Powers Resolution. U.S. House of Representatives. https://uscode.house.gov/view.xhtml?edition=prelim&path=%2Fprelim%40title50%2Fchapter33",
+      "outlet": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "date": "n.d.",
+      "title": "50 U.S.C. Chapter 33—War Powers Resolution",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&path=%2Fprelim%40title50%2Fchapter33",
+      "use_in_brief": "Provides the statutory context for the War Powers Resolution.",
+      "reliability_note": "Official U.S. Code source."
+    },
+    {
+      "id": "pompeo_2020_communist_china_free_world_future",
+      "type": "official_speech",
+      "citation": "Pompeo, M. R. (2020, July 23). Communist China and the free world’s future. U.S. Department of State. https://2017-2021.state.gov/communist-china-and-the-free-worlds-future-2/",
+      "outlet": "U.S. Department of State",
+      "date": "2020-07-23",
+      "title": "Communist China and the free world’s future",
+      "url": "https://2017-2021.state.gov/communist-china-and-the-free-worlds-future-2/",
+      "use_in_brief": "Supports the discussion of U.S. China-policy messaging distinguishing the CCP from the Chinese people.",
+      "reliability_note": "Official U.S. government speech used as a primary source for external messaging framing."
+    },
+    {
+      "id": "reuters_2026a_house_votes_end_iran_war",
+      "type": "news_report",
+      "citation": "Reuters. (2026a, June 3). US House votes for measure that would end Iran war, in blow to Trump. Reuters. https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+      "outlet": "Reuters",
+      "date": "2026-06-03",
+      "title": "US House votes for measure that would end Iran war, in blow to Trump",
+      "url": "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+      "use_in_brief": "Primary reporting basis for the House vote, vote margin, and bipartisan defection context.",
+      "reliability_note": "Used as core factual reporting on the House war-powers vote."
+    },
+    {
+      "id": "reuters_2026b_house_rejects_iran_war_powers_bid",
+      "type": "news_report",
+      "citation": "Reuters. (2026b, May 14). US House narrowly rejects bid to rein in Trump Iran war powers. Reuters. https://www.reuters.com/world/us/us-house-narrowly-rejects-bid-rein-trump-iran-war-powers-2026-05-14/",
+      "outlet": "Reuters",
+      "date": "2026-05-14",
+      "title": "US House narrowly rejects bid to rein in Trump Iran war powers",
+      "url": "https://www.reuters.com/world/us/us-house-narrowly-rejects-bid-rein-trump-iran-war-powers-2026-05-14/",
+      "use_in_brief": "Supports the chronology of earlier failed House efforts to limit Trump’s Iran war powers.",
+      "reliability_note": "Used as public congressional reporting."
+    },
+    {
+      "id": "reuters_2026c_house_republicans_cancel_iran_war_powers_vote",
+      "type": "news_report",
+      "citation": "Reuters. (2026c, May 22). US House Republicans cancel Iran war powers vote. Reuters. https://www.reuters.com/world/us/us-house-republicans-cancel-iran-war-powers-vote-2026-05-21/",
+      "outlet": "Reuters",
+      "date": "2026-05-22",
+      "title": "US House Republicans cancel Iran war powers vote",
+      "url": "https://www.reuters.com/world/us/us-house-republicans-cancel-iran-war-powers-vote-2026-05-21/",
+      "use_in_brief": "Supports the chronology of congressional management and delay around Iran war-powers votes.",
+      "reliability_note": "Used as public congressional reporting."
+    },
+    {
+      "id": "reuters_2026d_senate_advances_iran_war_powers_measure",
+      "type": "news_report",
+      "citation": "Reuters. (2026d, May 20). US Senate advances measure curbing Trump’s Iran war powers. Reuters. https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/",
+      "outlet": "Reuters",
+      "date": "2026-05-20",
+      "title": "US Senate advances measure curbing Trump’s Iran war powers",
+      "url": "https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/",
+      "use_in_brief": "Supports the account of Senate-side war-powers resistance and bipartisan support.",
+      "reliability_note": "Used as public congressional reporting."
+    },
+    {
+      "id": "reuters_2026e_rubio_grilled_iran_strait_sanctions",
+      "type": "news_report",
+      "citation": "Reuters. (2026e, June 2). Rubio grilled on Iran, says US won’t swap sanctions relief for strait. Reuters. https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/",
+      "outlet": "Reuters",
+      "date": "2026-06-02",
+      "title": "Rubio grilled on Iran, says US won’t swap sanctions relief for strait",
+      "url": "https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/",
+      "use_in_brief": "Supports the discussion of congressional questioning, Iran negotiation context, Hormuz access, and sanctions-relief issues.",
+      "reliability_note": "Used as public reporting on congressional oversight and administration messaging."
+    },
+    {
+      "id": "guardian_2026_house_war_powers_trump_iran",
+      "type": "news_report",
+      "citation": "The Guardian. (2026, June 3). US House passes war powers resolution to curb Trump’s authority in Iran. The Guardian. https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
+      "outlet": "The Guardian",
+      "date": "2026-06-03",
+      "title": "US House passes war powers resolution to curb Trump’s authority in Iran",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
+      "use_in_brief": "Provides additional reporting on the House passage of the war-powers resolution and its political significance.",
+      "reliability_note": "Used as corroborating public reporting."
+    }
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), From War Powers to Loyalty Politics: Trump’s Iran Response and the Government–Nation Distinction, Policy Brief No. EPINOVA–2026–PB–53, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.053.",
+  "citation_apa": "Wu, S. (2026). From war powers to loyalty politics: Trump’s Iran response and the government–nation distinction. EPINOVA Policy Brief Series, EPINOVA-PB-2026-053. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.053.",
+  "short_citation": "Wu (2026), From War Powers to Loyalty Politics, EPINOVA–2026–PB–53.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-04",
+    "pagination": "11 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, reference-list extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-04",
+    "last_updated": "2026-06-04",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, recommended citation, DOI, executive summary, methodological note, references, and disclaimer. Metadata updated after Crossref confirmation email; DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page."
+  },
+  "pdf_metadata": {
+    "title": "From War Powers to Loyalty Politics: Trump’s Iran Response and the Government–Nation Distinction",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-04T16:22:22-04:00",
+    "modification_date": "2026-06-04T16:22:22-04:00",
+    "pages": 11
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.053",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-053/",
+    "crossref_doi_suffix": "epinova.pb.2026.053",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}
