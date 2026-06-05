@@ -1,7 +1,13 @@
-Policy Brief/2026/EPINOVA–2026–PB-53/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
-Policy Brief/2026/EPINOVA–2026–PB-53/metadata.json
-docs/epinova-pb-2026-053/index.html
-docs/files/epinova-pb-2026-053/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
+Articles/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.html
+Articles/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.md
+Articles/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.txt
+Articles/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/assets/image-001.jpg
+Articles/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/metadata.json
+docs/articles/archive/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.html
+docs/articles/archive/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.md
+docs/articles/archive/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/article.txt
+docs/articles/archive/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/assets/image-001.jpg
+docs/articles/archive/2026-06-05_canadas-ai-for-all-strategy-from-research-strength-to-sovereign-ai-industrial-po/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -681,6 +687,8 @@ Policy Brief/2026/EPINOVA–2026–PB-51/Bargaining Under Systemic Pressure U.S.
 Policy Brief/2026/EPINOVA–2026–PB-51/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-52/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
 Policy Brief/2026/EPINOVA–2026–PB-52/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-53/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
+Policy Brief/2026/EPINOVA–2026–PB-53/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1358,6 +1366,7 @@ docs/epinova-pb-2026-049/index.html
 docs/epinova-pb-2026-050/index.html
 docs/epinova-pb-2026-051/index.html
 docs/epinova-pb-2026-052/index.html
+docs/epinova-pb-2026-053/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1466,6 +1475,7 @@ docs/files/epinova-pb-2026-049/Signaling Without Settlement An Assessment of Tru
 docs/files/epinova-pb-2026-050/Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf
 docs/files/epinova-pb-2026-051/Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf
 docs/files/epinova-pb-2026-052/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
+docs/files/epinova-pb-2026-053/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

@@ -53,6 +53,7 @@ CREATOR = {
 
 ARTICLE_CATALOG = [
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-05", "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy"),
     ("2026-05-26", "The Ceasefire at Sea Is Fraying"),
     ("2026-05-20", "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal"),
     ("2026-04-21", "MCCM v2.3+: Escalation and the Loss-of-Control Threshold"),
@@ -133,6 +134,8 @@ ARTICLE_CATALOG = [
 
 MANUAL_URL_OVERRIDES = {
     # Latest manually confirmed article.
+        "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy":
+        "https://epinova.org/articles/f/canada%E2%80%99s-%E2%80%9Cai-for-all%E2%80%9D-strategy",
     "The Ceasefire at Sea Is Fraying":
         "https://epinova.org/articles/f/the-ceasefire-at-sea-is-fraying",
 

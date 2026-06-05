@@ -30,6 +30,9 @@ May 26, 2026|Global AI Governance & Policy
   
 
 
+  
+
+
 **Author:** Dr. Shaoyuan Wu
 
 **ORCID:** [_https://orcid.org/0009-0008-0660-8232_](<https://orcid.org/0009-0008-0660-8232>)
