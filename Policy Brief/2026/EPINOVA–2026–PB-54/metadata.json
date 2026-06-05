@@ -1,0 +1,390 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-054",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-054",
+  "title": "External Strategic Nodes Under Pressure",
+  "subtitle": "Lebanon, Israel, and the Break Thresholds of Strategic Dependency",
+  "title_normalized": "external strategic nodes under pressure",
+  "publication_date": "2026-06-05",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.054",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-054/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–54",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "External Strategic Nodes Under Pressure",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief develops an MCCM external-node extension layer for assessing how high-value allies, proxies, forward deterrence assets, and institutionalized security partners affect escalation control under pressure. It compares Lebanon / Hezbollah as Iran’s forward deterrence node and Israel as the United States’ institutionalized alliance node, arguing that the central risk is not immediate abandonment but conditionalization: external strategic nodes may remain formally intact while their operational content narrows under cumulative pressure.",
+  "abstract": "The U.S.–Israel–Iran conflict highlights the role of external strategic nodes: allies, proxies, forward deterrence assets, chokepoints, and institutionalized security relationships that can shape escalation beyond their own capabilities. These nodes can strengthen deterrence and bargaining leverage, but they can also export risk, create policy divergence, and raise the cost of strategic control. This brief compares two strategically consequential relationships: Lebanon / Hezbollah for Iran and Israel for the United States. The comparison does not equate Hezbollah and Israel as actors. It examines how each functions as an external strategic node within the security architecture of a larger power. For Iran, Lebanon matters primarily through Hezbollah’s role as a forward deterrence asset. Hezbollah gives Tehran a proximate mechanism for pressuring Israel, sustaining the resistance axis, and preserving strategic depth outside Iranian territory. Its severe degradation would weaken Iran’s western deterrence architecture, even if it would not eliminate Iran’s regional strategy. For the United States, Israel matters as a deeply institutionalized alliance partner. Israel supports U.S. regional posture through intelligence cooperation, military interoperability, defense innovation, deterrence signaling, and domestic political integration. Yet Israel can also complicate U.S. strategy when its operational objectives diverge from Washington’s priorities of escalation control, maritime stabilization, alliance management, and long-term cost containment. The central finding is that both relationships involve high strategic dependency, but their vulnerabilities differ. Iran is more likely to adapt its support for Hezbollah than to abandon the relationship. The United States is more likely to condition or narrow support for Israel than to rupture the alliance.",
+  "keywords": [
+    "external strategic nodes",
+    "strategic dependency",
+    "relationship break threshold",
+    "conditionalization",
+    "Lebanon",
+    "Hezbollah",
+    "Israel",
+    "Iran",
+    "United States",
+    "U.S.–Israel–Iran conflict",
+    "forward deterrence",
+    "alliance management",
+    "proxy warfare",
+    "escalation control",
+    "networked conflict",
+    "MCCM",
+    "ESNDI",
+    "SRBT",
+    "ESNRI",
+    "strategic redundancy",
+    "regional security",
+    "Middle East security",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Alliance politics",
+    "Proxy warfare",
+    "Escalation control",
+    "Conflict analysis",
+    "Public policy",
+    "Political risk",
+    "Security studies"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-05",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-05",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-05",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-05",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54/External%20Strategic%20Nodes%20Under%20Pressure%20Lebanon,%20Israel,%20and%20the%20Break%20Thresholds%20of%20Strategic%20Dependency.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 9
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-054",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "MCCM External Strategic Node Dependency and Break Threshold Module",
+    "source_basis": "Author-coded estimates informed by open-source assessment of alliance, proxy, deterrence, and escalation dynamics. Scores are illustrative and comparative, not empirical measurements or predictive probabilities.",
+    "case_context": "The U.S.–Israel–Iran conflict and the relationship-level role of Lebanon / Hezbollah as Iran’s forward deterrence node and Israel as the United States’ institutionalized alliance node.",
+    "core_problem": "The central analytical problem is how high-value external strategic nodes transmit, absorb, or amplify escalation pressure and when they move from stable support relationships toward adaptation, conditionalization, degradation, strategic distancing, or break thresholds.",
+    "central_claims": [
+      "External strategic nodes increasingly shape escalation control in networked conflicts.",
+      "Lebanon / Hezbollah and Israel are both high-value external strategic nodes but perform different functions.",
+      "Iran is unlikely to abandon Hezbollah under normal pressure and is more likely to adapt, conceal, restructure, or indirectly sustain support.",
+      "The United States is unlikely to abandon Israel but may narrow or condition support if Israeli operations undermine U.S. escalation control and diplomatic sequencing.",
+      "The central risk is conditionalization rather than immediate abandonment.",
+      "MCCM v2.3.4 formalizes the external-node layer through ESNDI, SRBT, and ESNRI."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "External Strategic Node Dependency Index",
+        "description": "Measures how important an external node is to the primary actor across deterrence value, operational utility, political symbolism, coalition or network centrality, strategic loss cost, institutional embeddedness, and replacement constraint."
+      },
+      {
+        "name": "Strategic Relationship Break Threshold",
+        "description": "Measures pressure toward degradation, conditionalization, freezing, strategic distancing, or abandonment relative to stabilizing factors."
+      },
+      {
+        "name": "External Strategic Node Risk Index",
+        "description": "Combines dependency and break pressure to identify high-value nodes under relationship stress."
+      },
+      {
+        "name": "Conditionalization Analysis",
+        "description": "Distinguishes formal rupture from narrower support, restricted operational content, reduced visibility, strategic distancing, or support linked to broader negotiation frameworks."
+      },
+      {
+        "name": "MCCM Integration",
+        "description": "Links external-node durability to escalation indicators including actor coupling, decision friction, proxy warfare pressure, maritime volatility, information amplification, and loss-of-control dynamics."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "External Strategic Node Dependency Index",
+      "code": "ESNDI",
+      "indicator_type": "Strategic dependency indicator",
+      "observed_pattern": "Lebanon / Hezbollah scores approximately 0.85 and Israel scores approximately 0.82.",
+      "interpretation": "Both nodes represent high to very high strategic dependency, but their functions differ."
+    },
+    {
+      "name": "Strategic Relationship Break Threshold",
+      "code": "SRBT",
+      "indicator_type": "Relationship pressure indicator",
+      "observed_pattern": "Iran–Lebanon / Hezbollah scores approximately 0.68; U.S.–Israel scores approximately 0.80.",
+      "interpretation": "Iran–Hezbollah is in conditional maintenance, while U.S.–Israel is more conditionalization-prone under elevated divergence and control-sustainability pressure."
+    },
+    {
+      "name": "External Strategic Node Risk Index",
+      "code": "ESNRI",
+      "indicator_type": "Combined risk indicator",
+      "observed_pattern": "Iran–Lebanon / Hezbollah scores approximately 0.58; U.S.–Israel scores approximately 0.66.",
+      "interpretation": "Both relationships are durable but under elevated node risk; U.S.–Israel shows higher conditionalization pressure."
+    },
+    {
+      "name": "Lebanon / Hezbollah",
+      "code": "LH",
+      "indicator_type": "Forward deterrence node",
+      "observed_pattern": "Functions as Iran’s proximate mechanism for pressuring Israel and sustaining resistance-axis credibility.",
+      "interpretation": "High-value adaptive pressure node unlikely to be abandoned under ordinary pressure."
+    },
+    {
+      "name": "Israel",
+      "code": "ISR",
+      "indicator_type": "Institutionalized alliance node",
+      "observed_pattern": "Functions as a U.S. security partner with deep military, intelligence, technological, diplomatic, and domestic-political linkages.",
+      "interpretation": "Hard-to-abandon, conditionalization-prone node whose operational behavior can generate escalation-control costs."
+    }
+  ],
+  "key_findings": [
+    "External strategic nodes increasingly shape escalation control in networked conflicts.",
+    "Lebanon / Hezbollah serves as Iran’s forward deterrence node against Israel.",
+    "Israel serves as the United States’ institutionalized alliance node in the Middle East.",
+    "Iran is unlikely to abandon Hezbollah under normal pressure and is more likely to reduce visibility of support, adapt logistics, rely on indirect resupply, or incorporate Lebanon into broader de-escalation architecture.",
+    "The United States is unlikely to abandon Israel, but support may become more conditional if Israeli operations undermine Washington’s escalation-control and maritime-stabilization objectives.",
+    "The core risk is not immediate abandonment but conditionalization.",
+    "U.S.–Israel has a higher ESNRI score than Iran–Lebanon / Hezbollah, indicating higher conditionalization pressure, not imminent alliance rupture.",
+    "The MCCM external-node layer helps assess how allied behavior, proxy resilience, maritime nodes, and forward deterrence structures shape escalation pressure."
+  ],
+  "policy_recommendations": [
+    "Separate alliance preservation from unconditional support in U.S. management of Israel-related escalation risk.",
+    "Treat Lebanon as part of the de-escalation architecture rather than as a peripheral theater.",
+    "Avoid assuming Iran will trade away Hezbollah as a marginal bargaining chip.",
+    "Monitor conditionalization before rupture, including slower resupply, altered public messaging, restricted operational coordination, new consultation requirements, and diplomatic separation between primary and node-specific objectives.",
+    "Use ESNDI, SRBT, and ESNRI as relationship-level indicators within MCCM to identify when external nodes transmit, absorb, or amplify escalation pressure."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Changes in Iranian support visibility for Hezbollah",
+      "analytical_purpose": "Detects adaptation or concealment before formal relationship degradation."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Israeli operations that diverge from U.S. de-escalation or maritime-stabilization objectives",
+      "analytical_purpose": "Tests whether U.S. support begins to narrow or become more conditional."
+    },
+    {
+      "timeframe": "30–60 days",
+      "indicator": "Lebanon-related inclusion in wider U.S.–Iran de-escalation or bargaining frameworks",
+      "analytical_purpose": "Assesses whether Lebanon becomes a structural condition of regional de-escalation."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "U.S. diplomatic cover, military resupply, and operational-support conditions for Israel",
+      "analytical_purpose": "Detects early signs of conditionalization before alliance rupture."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "ESNDI, SRBT, and ESNRI score movement",
+      "analytical_purpose": "Tracks whether high-value external nodes become stable, conditionalized, degraded, or break-threshold relationships."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "MCCM v2.1.1 baseline framework",
+      "scheme": "Framework reference",
+      "resource_type": "Analytical framework",
+      "description": "Baseline MCCM framework referenced in the PDF for integration of the external-node module"
+    },
+    {
+      "relation": "References",
+      "identifier": "MCCM v2.3.4 external-node layer",
+      "scheme": "Framework reference",
+      "resource_type": "Analytical framework",
+      "description": "Updated MCCM version incorporating the External Strategic Node Dependency and Break Threshold Layer"
+    }
+  ],
+  "references": [],
+  "recommended_citation": "Wu, Shaoyuan (2026), External Strategic Nodes Under Pressure: Lebanon, Israel, and the Break Thresholds of Strategic Dependency, Policy Brief No. EPINOVA–2026–PB–54, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.054.",
+  "citation_apa": "Wu, S. (2026). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency. EPINOVA Policy Brief Series, EPINOVA-PB-2026-054. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.054.",
+  "short_citation": "Wu (2026), External Strategic Nodes Under Pressure, EPINOVA–2026–PB–54.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-05",
+    "pagination": "9 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Indicator Interpretation Bands for ESNDI, SRBT, and ESNRI",
+      "description": "Provides interpretive bands for dependency, relationship state, and external strategic node risk across 0–1 score ranges.",
+      "source": "Author’s expert-coded assessment using the MCCM External Strategic Node Dependency and Break Threshold Module.",
+      "note": "Score ranges are interpretive bands rather than statistical confidence intervals."
+    },
+    {
+      "number": "Table 2",
+      "title": "Comparative External Strategic Node Risk Scores",
+      "description": "Compares Iran–Lebanon / Hezbollah and U.S.–Israel across ESNDI, SRBT, ESNRI, and classification.",
+      "source": "Author’s expert-coded assessment using the MCCM External Strategic Node Dependency and Break Threshold Module.",
+      "note": "Scores are expert-coded estimates on a 0–1 scale and should be interpreted as comparative indicators rather than statistical predictions."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "The PDF references MCCM v2.1.1 and MCCM v2.3.4 as analytical frameworks, including an External Strategic Node Dependency and Break Threshold Layer.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, recommended citation, DOI, methodology note, indicator definitions, tables, MCCM integration note, and disclaimer where available. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. No formal reference list appears in the supplied PDF; references is therefore left as an empty array, while framework references are captured under related_works."
+  },
+  "pdf_metadata": {
+    "title": "External Strategic Nodes Under Pressure: Lebanon, Israel, and the Break Thresholds of Strategic Dependency",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-05T13:52:57-04:00",
+    "modification_date": "2026-06-05T13:52:57-04:00",
+    "pages": 9
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.054",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-054/",
+    "crossref_doi_suffix": "epinova.pb.2026.054",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}

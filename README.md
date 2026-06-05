@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-054** (2026-06-05)  
+  **External Strategic Nodes Under Pressure: Lebanon, Israel, and the Break Thresholds of Strategic Dependency**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.054](https://doi.org/10.67037/epinova.pb.2026.054)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-54/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54)  
+  Source PDF: [`External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54/External%20Strategic%20Nodes%20Under%20Pressure%20Lebanon%2C%20Israel%2C%20and%20the%20Break%20Thresholds%20of%20Strategic%20Dependency.pdf)
+
 - **EPINOVA-PB-2026-053** (2026-06-04)  
   **From War Powers to Loyalty Politics: Trump’s Iran Response and the Government–Nation Distinction**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.050](https://doi.org/10.67037/epinova.pb.2026.050)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-50/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50)  
   Source PDF: [`Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50/Two%20Summits%2C%20Two%20Signals%20U.S.%E2%80%93China%20Crisis%20Management%2C%20China%E2%80%93Russia%20Redundancy%2C%20and%20Caspian%20Shipping%20Rhythm.pdf)
-
-- **EPINOVA-PB-2026-049** (2026-05-15)  
-  **Signaling Without Settlement: An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.049](https://doi.org/10.67037/epinova.pb.2026.049)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-49/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49)  
-  Source PDF: [`Signaling Without Settlement An Assessment of Trump’s Beijing Visit and the Politics of Managed U.S.–China Competition.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-49/Signaling%20Without%20Settlement%20An%20Assessment%20of%20Trump%E2%80%99s%20Beijing%20Visit%20and%20the%20Politics%20of%20Managed%20U.S.%E2%80%93China%20Competition.pdf)
 
 ---
 
