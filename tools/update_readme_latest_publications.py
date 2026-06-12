@@ -19,7 +19,8 @@ from urllib.parse import quote
 # - Run git ls-files and generate repository_files.txt
 # - Read repository file structure
 # - Group publications by category, including Journal Article records
-# - Select latest 5 publications per category
+# - Select latest publications per category
+# - For Working Paper, group by existing WP subseries and show latest 3 per subseries
 # - Generate publication landing page, DOI, GitHub folder, and source PDF links
 # - Auto-update README.md:
 #   1) Overview wording
@@ -105,6 +106,24 @@ CATEGORY_DESCRIPTIONS = {
     "Working Paper": (
         "Academic drafts, theoretical exploration, pre-publication research, and developing arguments."
     ),
+}
+
+
+# Existing Working Paper subseries.
+# Display order can be changed here.
+WORKING_PAPER_SERIES_ORDER = [
+    "F",
+    "D",
+    "A",
+    "Other",
+]
+
+
+WORKING_PAPER_SERIES_LABELS = {
+    "A": "WP-A — AI Strategic Nodes and Structural Governance",
+    "D": "WP-D — Data Centers, Infrastructure, and Local Governance",
+    "F": "WP-F — Conflict, Escalation, and Networked Warfare",
+    "Other": "WP-Other — Other Working Papers",
 }
 
 
@@ -471,6 +490,44 @@ def legacy_doi_from_metadata(metadata: dict) -> str:
     return ""
 
 
+def working_paper_series_code(record: dict) -> str:
+    """
+    Extract Working Paper subseries code from EPINOVA ID, folder name, PDF path, or title.
+
+    Examples:
+    - EPINOVA-WP-F-2026-09 -> F
+    - EPINOVA–WP–D–2026–02 -> D
+    - EPINOVA–WP–A–2026–01 -> A
+    """
+    text = " ".join(
+        [
+            str(record.get("epinova_id", "")),
+            str(record.get("folder", "")),
+            str(record.get("pdf_path", "")),
+            str(record.get("title", "")),
+        ]
+    )
+
+    # Support hyphen-minus, en dash, and em dash.
+    match = re.search(
+        r"WP[\-–—]\s*([A-Z])[\-–—]\s*20\d{2}[\-–—]\s*\d+",
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        return match.group(1).upper()
+
+    return "Other"
+
+
+def working_paper_series_label(series_code: str) -> str:
+    return WORKING_PAPER_SERIES_LABELS.get(
+        series_code,
+        f"WP-{series_code}",
+    )
+
+
 def publication_record(pdf_path: str) -> dict:
     pdf = ROOT / pdf_path
     folder = pdf.parent
@@ -692,7 +749,11 @@ def build_publication_item_lines(item: dict) -> list[str]:
     return lines
 
 
-def build_latest_publications_section(records: list[dict], limit_per_category: int = 5) -> str:
+def build_latest_publications_section(
+    records: list[dict],
+    limit_per_category: int = 5,
+    limit_per_working_paper_series: int = 3,
+) -> str:
     grouped = {category: [] for category in CATEGORY_ORDER}
 
     for record in records:
@@ -723,11 +784,70 @@ def build_latest_publications_section(records: list[dict], limit_per_category: i
     ]
 
     for category in CATEGORY_ORDER:
-        items = sorted(grouped[category], key=sort_key, reverse=True)[:limit_per_category]
+        label = CATEGORY_LABELS[category]
+
+        # Special handling for Working Paper:
+        # Keep Working Paper as one major publication type,
+        # but display latest 3 records for each existing WP subseries.
+        if category == "Working Paper":
+            wp_items = grouped[category]
+            if not wp_items:
+                continue
+
+            series_grouped: dict[str, list[dict]] = {}
+
+            for item in wp_items:
+                series_code = working_paper_series_code(item)
+                series_grouped.setdefault(series_code, []).append(item)
+
+            remaining_series = sorted(
+                [
+                    code
+                    for code in series_grouped.keys()
+                    if code not in WORKING_PAPER_SERIES_ORDER
+                ]
+            )
+
+            series_order = [
+                code
+                for code in WORKING_PAPER_SERIES_ORDER
+                if code in series_grouped
+            ] + remaining_series
+
+            lines.append(f"### {label}")
+            lines.append("")
+
+            for series_code in series_order:
+                items = sorted(
+                    series_grouped[series_code],
+                    key=sort_key,
+                    reverse=True,
+                )[:limit_per_working_paper_series]
+
+                if not items:
+                    continue
+
+                lines.append(f"#### {working_paper_series_label(series_code)}")
+                lines.append("")
+
+                for item in items:
+                    lines.extend(build_publication_item_lines(item))
+
+            lines.append("---")
+            lines.append("")
+            continue
+
+        # Default handling for all other categories:
+        # latest 5 records per major category.
+        items = sorted(
+            grouped[category],
+            key=sort_key,
+            reverse=True,
+        )[:limit_per_category]
+
         if not items:
             continue
 
-        label = CATEGORY_LABELS[category]
         lines.append(f"### {label}")
         lines.append("")
 
@@ -835,7 +955,11 @@ def update_readme(readme_text: str, paths: list[str], records: list[dict]) -> st
 
     repository_structure = build_repository_structure_section(paths)
     publication_type_codes = build_publication_type_codes_section()
-    latest_publications = build_latest_publications_section(records, limit_per_category=5)
+    latest_publications = build_latest_publications_section(
+        records,
+        limit_per_category=5,
+        limit_per_working_paper_series=3,
+    )
 
     updated = replace_level2_section(
         updated,
@@ -863,10 +987,16 @@ def print_debug_summary(records: list[dict]) -> None:
     legacy_doi_count = 0
     display_doi_count = 0
 
+    wp_series_counts: dict[str, int] = {}
+
     for record in records:
         category = record.get("category")
         if category in counts:
             counts[category] += 1
+
+        if category == "Working Paper":
+            series_code = working_paper_series_code(record)
+            wp_series_counts[series_code] = wp_series_counts.get(series_code, 0) + 1
 
         if record.get("publication_page"):
             landing_count += 1
@@ -883,6 +1013,25 @@ def print_debug_summary(records: list[dict]) -> None:
     print("Publication category counts:")
     for category in CATEGORY_ORDER:
         print(f"  - {category}: {counts[category]}")
+
+    print("Working Paper subseries counts:")
+    if wp_series_counts:
+        ordered_codes = [
+            code
+            for code in WORKING_PAPER_SERIES_ORDER
+            if code in wp_series_counts
+        ] + sorted(
+            [
+                code
+                for code in wp_series_counts.keys()
+                if code not in WORKING_PAPER_SERIES_ORDER
+            ]
+        )
+
+        for code in ordered_codes:
+            print(f"  - {working_paper_series_label(code)}: {wp_series_counts[code]}")
+    else:
+        print("  - 0")
 
     print("Publication metadata coverage:")
     print(f"  - Publication landing pages detected: {landing_count}")

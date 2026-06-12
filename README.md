@@ -223,6 +223,8 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Working Papers
 
+#### WP-F — Conflict, Escalation, and Networked Warfare
+
 - **EPINOVA-WP-F-2026-009** (2026-03-20)  
   **A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict**  
   Publication page: [https://doi.org/10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
@@ -244,19 +246,53 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
   Source PDF: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
 
-- **EPINOVA-WP-F-2026-006** (2026-03-11)  
-  **Industrial War and Network War: Operational Logics in the Russia–Ukraine War and the U.S.–Israel–Iran Conflict**  
-  Publication page: [https://doi.org/10.5281/zenodo.18972327](https://doi.org/10.5281/zenodo.18972327)  
-  Temporary archival DOI: [10.5281/zenodo.18972327](https://doi.org/10.5281/zenodo.18972327)  
-  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–06/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306)  
-  Source PDF: [`Industrial War vs Network War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9306/Industrial%20War%20vs%20Network%20War.pdf)
+#### WP-D — Data Centers, Infrastructure, and Local Governance
 
-- **EPINOVA-WP-F-2026-005** (2026-03-09)  
-  **Cloud Under Fire: Hyperscale Data Centers and the Rise of Cyber-Physical Warfare**  
-  Publication page: [https://doi.org/10.5281/zenodo.18923621](https://doi.org/10.5281/zenodo.18923621)  
-  Temporary archival DOI: [10.5281/zenodo.18923621](https://doi.org/10.5281/zenodo.18923621)  
-  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–05/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305)  
-  Source PDF: [`Cloud Under Fire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9305/Cloud%20Under%20Fire.pdf)
+- **EPINOVA-WP-D-2026-002** (2026-02-09)  
+  **Why the South?: Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States**  
+  Publication page: [https://doi.org/10.5281/zenodo.18572133](https://doi.org/10.5281/zenodo.18572133)  
+  Temporary archival DOI: [10.5281/zenodo.18572133](https://doi.org/10.5281/zenodo.18572133)  
+  Source folder: [`Working Paper/D/2026/EPINOVA–WP–D–2026–02/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302)  
+  Source PDF: [`Why the South.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9302/Why%20the%20South.pdf)
+
+- **EPINOVA-WP-D-2026-001** (2026-02-02)  
+  **When AI Infrastructure Is Optional but Governance Lock-In Is Not: An AI-SNI Local Governance Diagnostic of the Temple (GA) Data Center Proposal**  
+  Publication page: [https://doi.org/10.5281/zenodo.18463740](https://doi.org/10.5281/zenodo.18463740)  
+  Temporary archival DOI: [10.5281/zenodo.18463740](https://doi.org/10.5281/zenodo.18463740)  
+  Source folder: [`Working Paper/D/2026/EPINOVA–WP–D–2026–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301)  
+  Source PDF: [`When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9301/When%20AI%20Infrastructure%20Is%20Optional%20but%20Governance%20Lock-In%20Is%20Not.pdf)
+
+#### WP-A — AI Strategic Nodes and Structural Governance
+
+- **EPINOVA-WP-A-2026-04** (2026-06-12)  
+  **Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems**  
+  Publication page: [https://publications.epinova.org/](https://publications.epinova.org/)  
+  DOI: [10.67037/epinova.wp.a.2026.004](https://doi.org/10.67037/epinova.wp.a.2026.004)  
+  Source folder: [`Working Paper/A/2026/EPINOVA–WP–A–2026–04/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304)  
+  Source PDF: [`Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304/Low-Observable%20Deployable%20Modular%20Surface%20Platform%20%28LODMSP%29%20From%20Fixed%20Decks%20to%20Deployable%20Mission%20Interfaces%20in%20Autonomous%20Maritime%20Systems.pdf)
+
+- **EPINOVA-WP-A-2026-003** (2026-05-11)  
+  **From Control Substitution to Structural Dominance: Morphological Convergence and Infrastructure Power in Autonomous Systems**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.a.2026.003](https://doi.org/10.67037/epinova.wp.a.2026.003)  
+  Source folder: [`Working Paper/A/2026/EPINOVA–WP–A–2026–03/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9303)  
+  Source PDF: [`From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9303/From%20Control%20Substitution%20to%20Structural%20Dominance%20Beyond%20Morphology%20in%20the%20Age%20of%20Autonomous%20Systems.pdf)
+
+- **EPINOVA-WP-A-2026-002** (2026-04-24)  
+  **Beyond Theater Effects: Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict**  
+  Publication page: [https://doi.org/10.5281/zenodo.19734514](https://doi.org/10.5281/zenodo.19734514)  
+  Temporary archival DOI: [10.5281/zenodo.19734514](https://doi.org/10.5281/zenodo.19734514)  
+  Source folder: [`Working Paper/A/2026/EPINOVA–WP–A–2026–02/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302)  
+  Source PDF: [`Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302/Beyond%20Theater%20Effects%20Perception-Driven%20Escalation%20and%20Loss-of-Control%20Thresholds%20in%20AI-Mediated%20Conflict.pdf)
+
+#### WP-Other — Other Working Papers
+
+- **EPINOVA-WP-2025-001** (2025-10-13)  
+  **Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal**  
+  Publication page: [https://doi.org/10.5281/zenodo.18095271](https://doi.org/10.5281/zenodo.18095271)  
+  Temporary archival DOI: [10.5281/zenodo.18095271](https://doi.org/10.5281/zenodo.18095271)  
+  Source folder: [`Working Paper/F/2025/2025-10-13/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2025/2025-10-13)  
+  Source PDF: [`Gray-Zone Maritime Rights-Protection Strategy.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2025/2025-10-13/Gray-Zone%20Maritime%20Rights-Protection%20Strategy.pdf)
 ## Publication Metadata
 
 EPINOVA publication records use structured `metadata.json` files. These records support:
