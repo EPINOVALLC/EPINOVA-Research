@@ -1,7 +1,7 @@
-Policy Brief/2026/EPINOVA–2026–PB-54/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
-Policy Brief/2026/EPINOVA–2026–PB-54/metadata.json
-docs/epinova-pb-2026-054/index.html
-docs/files/epinova-pb-2026-054/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
+Working Paper/A/2026/EPINOVA–WP–A–2026–04/Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf
+Working Paper/A/2026/EPINOVA–WP–A–2026–04/metadata.json
+docs/epinova-wp-a-2026-04/index.html
+docs/files/epinova-wp-a-2026-04/Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -688,6 +688,8 @@ Policy Brief/2026/EPINOVA–2026–PB-52/Renewed Strikes and the Risk of Conflic
 Policy Brief/2026/EPINOVA–2026–PB-52/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-53/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
 Policy Brief/2026/EPINOVA–2026–PB-53/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-54/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
+Policy Brief/2026/EPINOVA–2026–PB-54/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1371,6 +1373,7 @@ docs/epinova-pb-2026-050/index.html
 docs/epinova-pb-2026-051/index.html
 docs/epinova-pb-2026-052/index.html
 docs/epinova-pb-2026-053/index.html
+docs/epinova-pb-2026-054/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1480,6 +1483,7 @@ docs/files/epinova-pb-2026-050/Two Summits, Two Signals U.S.–China Crisis Mana
 docs/files/epinova-pb-2026-051/Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf
 docs/files/epinova-pb-2026-052/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
 docs/files/epinova-pb-2026-053/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
+docs/files/epinova-pb-2026-054/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
