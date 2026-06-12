@@ -1,5 +1,5 @@
 {
-  "epinova_id": "EPINOVA-WP-A-2026-04",
+  "epinova_id": "EPINOVA-WP-A-2026-004",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Working Paper",
@@ -7,9 +7,11 @@
   "publication_series": "EPINOVA Working Paper Series",
   "series_code": "WP-A",
   "series_number": "2026-04",
-  "title": "Low-Observable Deployable Modular Surface Platform (LODMSP)",
+  "series_subcategory": "A-Series",
+  "title": "Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems",
   "subtitle": "From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems",
-  "title_normalized": "low observable deployable modular surface platform lodmsp",
+  "title_normalized": "low-observable deployable modular surface platform (lodmsp): from fixed decks to deployable mission interfaces in autonomous maritime systems",
+  "short_title": "Low-Observable Deployable Modular Surface Platform (LODMSP)",
   "publication_date": "2026-06-12",
   "version": "v1.0",
   "language": "en",
@@ -26,23 +28,33 @@
   ],
   "contributors": [],
   "publisher": "EPINOVA LLC",
-  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "publisher_short": "EPINOVA LLC",
   "place": "United States",
   "copyright": "Copyright © 2026 Shaoyuan Wu",
   "doi": "https://doi.org/10.67037/epinova.wp.a.2026.004",
   "previous_doi": "",
   "landing_page": "https://publications.epinova.org/epinova-wp-a-2026-004/",
-  "official_page": "https://publications.epinova.org/",
+  "official_page": "https://epinova.org/working-papers",
   "alternate_identifiers": [
     {
-      "identifier": "EPINOVA–WP–A–2026–04",
-      "scheme": "EPINOVA working paper number",
-      "description": "Working paper number printed in the PDF"
+      "identifier": "10.67037/epinova.wp.a.2026.004",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this working paper"
     },
     {
-      "identifier": "EPINOVA-WP-A-2026-04",
+      "identifier": "https://doi.org/10.67037/epinova.wp.a.2026.004",
+      "scheme": "URL",
+      "description": "DOI resolution URL"
+    },
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA-WP-A-2026-004",
       "scheme": "EPINOVA working paper number",
-      "description": "ASCII-safe working paper number"
+      "description": "Working paper number printed in the PDF"
     },
     {
       "identifier": "Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf",
@@ -50,15 +62,25 @@
       "description": "Source PDF file name"
     },
     {
-      "identifier": "LODMSP",
-      "scheme": "Acronym",
-      "description": "Short form of the Low-Observable Deployable Modular Surface Platform concept"
+      "identifier": "Low-Observable Deployable Modular Surface Platform",
+      "scheme": "Analytical concept",
+      "description": "Core conceptual maritime morphology introduced in the working paper"
+    },
+    {
+      "identifier": "Deployable Mission Interface",
+      "scheme": "Analytical concept",
+      "description": "Primary design logic for treating the platform itself as an expandable mission interface"
+    },
+    {
+      "identifier": "Fixed-Deck Modularity",
+      "scheme": "Analytical concept",
+      "description": "Transitional modularity model examined and challenged in the working paper"
     }
   ],
-  "description": "This working paper introduces the Low-Observable Deployable Modular Surface Platform (LODMSP) as a conceptual maritime morphology for autonomous surface systems. It argues that fixed-deck modularity may be a transitional stage and that future platforms may increasingly be evaluated by their ability to compress into low-profile transit configurations and expand into deployable mission interfaces for sensing, communication, unmanned-system handling, payload separation, logistics support, and distributed maritime coordination.",
-  "abstract": "This working paper introduces the Low-Observable Deployable Modular Surface Platform (LODMSP) as a conceptual maritime morphology for the next phase of autonomous surface systems. It argues that fixed-deck modularity may be a transitional stage as modular payloads, containerized capability, distributed maritime operations, and autonomous mission systems increasingly separate payloads from platforms. LODMSP is not presented as a specific ship design, weapons architecture, or acquisition recommendation. Rather, it is an analytical model for asking how platform architecture may evolve when low-observable transit, modular payload reconfiguration, expanded mission surfaces, and autonomous orchestration become simultaneous design priorities. In transit mode, the platform compresses into a compact, low-profile form optimized for movement, exposure reduction, and module protection. In mission mode, it expands radially, laterally, or segmentally to increase functional surface area, separate mission modules, enlarge sensor baselines, support unmanned-system handling, and distribute communication or logistics functions. The paper links this concept to public trends including DARPA NOMARS, USX-1 Defiant, the U.S. Navy’s containerized capability direction, MASC, Mk 70, and lessons from Littoral Combat Ship modularity. It concludes that LODMSP is best understood as a way of thinking about the next phase of autonomous maritime power: from fixed decks to deployable mission interfaces.",
+  "description": "This working paper introduces the Low-Observable Deployable Modular Surface Platform (LODMSP) as a conceptual maritime morphology for autonomous surface systems. It argues that fixed-deck modularity may represent a transitional stage and that future autonomous maritime platforms may increasingly be evaluated by their ability to compress into low-profile transit forms and expand into deployable mission interfaces.",
+  "abstract": "The rapid development of unmanned surface vessels, containerized payloads, distributed maritime operations, and autonomous mission systems is changing the logic of naval platform design. This working paper introduces the Low-Observable Deployable Modular Surface Platform (LODMSP) as a conceptual maritime morphology for the next phase of autonomous surface systems. LODMSP is not presented as a specific ship design, weapons architecture, or acquisition recommendation. Rather, it is an analytical model for asking how platform architecture may evolve when low-observable transit, modular payload reconfiguration, expanded mission surfaces, and autonomous orchestration become simultaneous design priorities. The core claim is that fixed-deck modularity may be a transitional stage. Existing public concepts generally place modular payloads on conventional or semi-conventional hulls. LODMSP instead treats the platform itself as a deployable mission interface: compact and low-profile in transit, expanded and functionally distributed in operation. The concept extends the author's prior framework on morphological convergence and structural dominance by applying infrastructure-centered autonomous power to maritime systems architecture.",
   "keywords": [
-    "Low-observable maritime platforms",
+    "low-observable maritime platforms",
     "deployable mission interfaces",
     "unmanned surface vessels",
     "modular payloads",
@@ -69,25 +91,32 @@
     "platform-payload decoupling",
     "maritime systems architecture",
     "LODMSP",
-    "NOMARS",
-    "MASC",
-    "Mk 70",
-    "Littoral Combat Ship",
-    "morphological convergence",
-    "infrastructure-centered autonomous power"
+    "fixed-deck modularity",
+    "variable-geometry platforms",
+    "mission interface ratio",
+    "deployment ratio",
+    "external-node support",
+    "infrastructure-centered autonomous power",
+    "autonomous systems",
+    "naval architecture",
+    "technology policy",
+    "strategic technology",
+    "EPINOVA"
   ],
   "subjects": [
+    "Artificial intelligence",
+    "AI governance",
+    "Autonomous systems",
     "Autonomous maritime systems",
-    "Naval architecture",
     "Unmanned surface vessels",
-    "Defense innovation",
-    "Maritime strategy",
+    "Robotics",
+    "Maritime security",
+    "Naval innovation",
     "Distributed maritime operations",
+    "Systems engineering",
+    "Defense innovation",
     "Technology policy",
-    "AI-enabled systems",
-    "Systems architecture",
-    "Public policy",
-    "Strategic studies"
+    "Strategic technology"
   ],
   "dates": [
     {
@@ -98,7 +127,7 @@
     {
       "date": "2026-06-12",
       "date_type": "Created",
-      "description": "PDF creation date and metadata creation date"
+      "description": "PDF creation date from embedded metadata"
     },
     {
       "date": "2026-06-12",
@@ -107,8 +136,13 @@
     },
     {
       "date": "2026-06-12",
-      "date_type": "Metadata updated",
-      "description": "Metadata generated after Crossref DOI registration confirmation under EPINOVA LLC prefix 10.67037"
+      "date_type": "Metadata created",
+      "description": "Metadata generated from source PDF using EPINOVA metadata schema"
+    },
+    {
+      "date": "2026-06-12",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration date for the working paper record"
     }
   ],
   "license": {
@@ -121,7 +155,7 @@
     {
       "label": "Download PDF",
       "filename": "Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304/Low-Observable%20Deployable%20Modular%20Surface%20Platform%20(LODMSP)%20From%20Fixed%20Decks%20to%20Deployable%20Mission%20Interfaces%20in%20Autonomous%20Maritime%20Systems.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304/Low-Observable%20Deployable%20Modular%20Surface%20Platform%20%28LODMSP%29%20From%20Fixed%20Decks%20to%20Deployable%20Mission%20Interfaces%20in%20Autonomous%20Maritime%20Systems.pdf",
       "content_type": "application/pdf",
       "format": "application/pdf",
       "description": "Full-text PDF of the working paper",
@@ -129,7 +163,7 @@
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304",
   "source_repository": {
     "platform": "GitHub",
     "organization": "EPINOVALLC",
@@ -137,147 +171,162 @@
     "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
   },
   "series_information": {
-    "series_name": "EPINOVA Working Paper Series, A-Series",
+    "series_name": "EPINOVA Working Paper Series",
     "series_code": "WP-A",
     "series_number": "2026-04",
-    "series_description": "WP-A develops foundational concepts and diagnostic frameworks for AI governance, autonomous systems, and emerging-technology strategy, examining how power, risk, control, and institutional capacity are reorganized as AI systems become embedded in security, economic, and governance infrastructures."
+    "series_description": "A-Series working papers develop foundational concepts and diagnostic frameworks for AI governance, autonomous systems, and emerging-technology strategy. The series examines how power, risk, control, and institutional capacity are reorganized as AI systems become embedded in security, economic, and governance infrastructures."
   },
   "methodology": {
-    "framework_name": "LODMSP Maritime Morphology and Deployable Mission Interface Assessment Framework",
-    "source_basis": "Conceptual working paper based on public sources on DARPA NOMARS and USX-1 Defiant, Lockheed Martin Mk 70, NAVSEA Modular Attack Surface Craft, CRS reporting on Navy large USVs, GAO findings on Littoral Combat Ship modularity, U.S. Navy materials on MUSV and containerized capability, the author’s prior EPINOVA framework on morphological convergence and infrastructure power in autonomous systems, and public research on transformable USVs.",
-    "case_context": "Autonomous surface systems, containerized naval capability, modular payload architectures, and distributed maritime operations.",
-    "core_problem": "Whether future autonomous surface platforms should remain fixed decks carrying modular payloads or evolve into deployable mission interfaces that change physical form between transit and operational states.",
+    "framework_name": "Low-Observable Deployable Modular Surface Platform (LODMSP) Conceptual Framework",
+    "source_basis": "Conceptual and methodological synthesis based on public U.S. Navy materials on containerized capability and unmanned surface vessels, NAVSEA's Modular Attack Surface Craft program description, GAO's assessment of Littoral Combat Ship modularity challenges, DARPA NOMARS and USX-1 Defiant materials, CRS reporting on large unmanned surface vessels, civilian transformable USV research, and the author's prior framework on morphological convergence and infrastructure power in autonomous systems.",
+    "case_context": "Autonomous maritime systems, unmanned surface vessels, containerized naval payloads, modular mission systems, distributed maritime operations, and variable-geometry mission interfaces.",
+    "core_problem": "Current modular naval concepts often place modular payloads on fixed decks or fixed mission bays. This preserves platform-centric assumptions and may constrain usable mission surface, payload separation, sensor baseline expansion, transit-state signature control, and distributed orchestration.",
     "central_claims": [
-      "Fixed-deck modularity is likely a transitional stage in autonomous maritime systems.",
-      "Deployable geometry may become a maritime design frontier as platforms are evaluated by the ratio between compact transit form and expanded mission form.",
-      "LODMSP reframes the vessel from a carrier of payloads into a reconfigurable physical interface for sensing, communication, unmanned-system operations, payload spacing, logistics, maintenance access, and distributed coordination.",
-      "The concept aligns with public trends in NOMARS, MASC, containerized capability, and modular payloads while remaining distinct from known public designs.",
-      "The strategic value of LODMSP depends less on single-platform lethality than on orchestration, interfaces, sustainment, and distributed maritime ecosystem integration."
+      "Fixed-deck modularity is likely a transitional stage in autonomous maritime platform development.",
+      "Future autonomous surface systems may be evaluated by the ratio between compact transit form and expanded mission form, not only by displacement, endurance, speed, payload, or cost.",
+      "LODMSP reframes the vessel from a carrier of modules into a reconfigurable physical interface for sensing, communication, unmanned-system operations, logistics, maintenance access, and distributed coordination.",
+      "The concept aligns with public trends in unmanned seaframe design, containerized payloads, and distributed maritime operations while remaining distinct from known fixed-hull modular designs.",
+      "The strategic value of LODMSP depends less on single-platform lethality than on orchestration within a distributed maritime ecosystem.",
+      "Deployable mission geometry should be evaluated together with interface standards, sustainment burden, lawful signaling, and system-level resilience."
     ],
     "analytical_lenses": [
       {
-        "name": "Fixed-Deck Modularity Assessment",
-        "description": "Evaluates the limits of fixed decks, fixed mission bays, finite surface area, module proximity, and platform-centric thinking."
+        "name": "Fixed-Deck Modularity",
+        "description": "Examines the current model in which modular payloads are placed on conventional or semi-conventional fixed hulls, decks, or mission bays."
       },
       {
-        "name": "Deployable Mission Interface Analysis",
-        "description": "Assesses how compact transit morphology can transition into expanded mission surfaces for distributed sensing, communications, logistics, and unmanned-system operations."
+        "name": "Deployable Mission Interface",
+        "description": "Treats the maritime platform itself as a reconfigurable physical interface that changes between compact transit morphology and expanded mission morphology."
       },
       {
-        "name": "Platform-Payload Decoupling Analysis",
-        "description": "Examines how containerized capability and modular payload trends separate mission systems from hull-specific architectures."
+        "name": "Low-Observable Transit Morphology",
+        "description": "Focuses on reducing avoidable signature exposure, protrusions, discontinuities, windage, and exposed mission equipment during movement between operating areas."
+      },
+      {
+        "name": "Variable-Geometry Maritime Architecture",
+        "description": "Analyzes how radial, lateral, or segmented mission surfaces could increase functional area, separate modules, expand sensor baselines, and support unmanned-system handling."
       },
       {
         "name": "Infrastructure-Centered Autonomous Power",
-        "description": "Links LODMSP to the author’s prior framework that long-term advantage shifts from body-level optimization to orchestration, modularity, infrastructure control, and system-level scalability."
+        "description": "Connects LODMSP to the broader claim that autonomous-system advantage increasingly depends on interfaces, power, data, updates, sustainment, logistics, and command networks rather than hull form alone."
       },
       {
-        "name": "Modularity Risk and LCS Cautionary Lens",
-        "description": "Uses the LCS experience as a warning that modularity requires mature interfaces, sustainment planning, testing, training, and doctrine."
+        "name": "Governance and Signaling Analysis",
+        "description": "Considers how variable-configuration maritime systems may complicate identification, classification, escalation management, command accountability, and lawful-use constraints."
       }
     ]
   },
   "dimensions": [
     {
       "name": "Folded / Transit Configuration",
-      "code": "FTC",
-      "indicator_type": "Architectural state",
-      "observed_pattern": "Compact, continuous, low-profile transit morphology minimizes protrusions, exposed mission equipment, windage, and module exposure.",
-      "interpretation": "Optimized for movement, exposure reduction, and module protection rather than mission-surface availability."
+      "code": "Transit State",
+      "indicator_type": "LODMSP architectural state",
+      "description": "Compact, continuous, low-profile configuration that minimizes protrusions, exposed mission equipment, radar-reflective discontinuities, windage, and module exposure during movement.",
+      "interpretation": "Prioritizes reduced exposure, transit efficiency, payload protection, compact geometry, and remote or autonomous navigation."
     },
     {
       "name": "Deployed / Mission Configuration",
-      "code": "DMC",
-      "indicator_type": "Architectural state",
-      "observed_pattern": "Radial, lateral, or segmented mission surfaces expand to support sensing, communication, unmanned-system operations, logistics, and module separation.",
-      "interpretation": "The vessel becomes a deployable mission interface rather than a fixed carrier of payloads."
+      "code": "Mission State",
+      "indicator_type": "LODMSP architectural state",
+      "description": "Expanded radial, lateral, or segmented mission-surface configuration that increases functional working area and separates mission modules.",
+      "interpretation": "Prioritizes modular payload access, sensor and communication spacing, unmanned-system support, mission-zone separation, and distributed damage tolerance."
     },
     {
-      "name": "Deployment Ratio",
-      "code": "DR",
-      "indicator_type": "Analytical metric",
-      "observed_pattern": "Mission-state functional area relative to transit-state footprint.",
-      "interpretation": "Tests whether compact transit form can generate meaningful operational surface after deployment."
+      "name": "Central Core",
+      "code": "Core Layer",
+      "indicator_type": "Architectural layer",
+      "description": "Protected system nucleus for power management, data processing, navigation, autonomy support, communications, health monitoring, and structural anchoring.",
+      "interpretation": "Replaces the crew-centered bridge logic with a protected autonomous or minimally manned system core."
     },
     {
-      "name": "Functional Interface Ratio",
-      "code": "FIR",
-      "indicator_type": "Analytical metric",
-      "observed_pattern": "Usable sensing, communication, handling, maintenance, or module interface relative to platform volume or displacement.",
-      "interpretation": "Shifts evaluation from vessel size to usable external interaction per unit of hull."
+      "name": "Deployable Mission Segments",
+      "code": "Interface Layer",
+      "indicator_type": "Architectural layer",
+      "description": "Mission surfaces that may host sensors, communication packages, unmanned-system handling areas, logistics modules, electronic payloads, maintenance access points, or other modular packages.",
+      "interpretation": "Transforms the platform's functional surface configuration between transit and operation."
     },
     {
-      "name": "Modular Separation Index",
-      "code": "MSI",
-      "indicator_type": "Analytical metric",
-      "observed_pattern": "Ability to separate modules that interfere electronically, physically, thermally, or operationally.",
-      "interpretation": "Clarifies whether modularity reduces or simply relocates integration risk."
+      "name": "Data and Power Ring",
+      "code": "Integration Layer",
+      "indicator_type": "Architectural layer",
+      "description": "Standardized power, data, cooling, mechanical, autonomy, and software-update interfaces connecting the core, moving segments, and mission modules.",
+      "interpretation": "Determines whether deployable modularity is operationally reliable rather than merely conceptual."
     },
     {
-      "name": "Distributed Expansion Coefficient",
-      "code": "DEC",
-      "indicator_type": "Analytical metric",
-      "observed_pattern": "Degree to which the platform can extend its operational footprint through UAVs, USVs, UUVs, floating sensors, relays, or logistics nodes.",
-      "interpretation": "Links platform design to distributed maritime operations and autonomous force orchestration."
+      "name": "Low-Observable Transit Shell",
+      "code": "Shell Layer",
+      "indicator_type": "Architectural layer",
+      "description": "Folded shell that protects modules, reduces exposure, lowers drag, and allows the platform to move as a compact maritime object before expanding into a mission state.",
+      "interpretation": "Distinguishes LODMSP from fixed modular barges or open-deck payload carriers."
     },
     {
-      "name": "Interface Maturity Level",
-      "code": "IML",
-      "indicator_type": "Analytical metric",
-      "observed_pattern": "Reliability and standardization of power, data, cooling, mechanical locking, autonomy, and software-update pathways.",
-      "interpretation": "Prevents modularity from becoming a promise unsupported by integration and sustainment architecture."
+      "name": "External Node Layer",
+      "code": "Ecosystem Layer",
+      "indicator_type": "Architectural layer",
+      "description": "Network of UAVs, USVs, UUVs, floating sensors, communications relays, decoys, logistics packages, or temporary mission nodes that the platform can deploy or support.",
+      "interpretation": "Frames LODMSP as an ecosystem node rather than a single isolated vessel."
+    }
+  ],
+  "framework_sequence": [
+    {
+      "phase": "Phase I",
+      "name": "Fixed-Deck Modularity",
+      "description": "Modular payloads are added to conventional or semi-conventional hulls, decks, or mission bays."
+    },
+    {
+      "phase": "Phase II",
+      "name": "Transit-Mission Separation",
+      "description": "The platform separates compact transit morphology from expanded mission morphology."
+    },
+    {
+      "phase": "Phase III",
+      "name": "Deployable Mission Interface",
+      "description": "The platform itself becomes a reconfigurable interface for sensing, communication, handling, logistics, and distributed coordination."
+    },
+    {
+      "phase": "Phase IV",
+      "name": "Distributed Maritime Node",
+      "description": "LODMSP operates as a node that can deploy or support external systems within a wider autonomous maritime network."
+    },
+    {
+      "phase": "Phase V",
+      "name": "Infrastructure-Centered Maritime Autonomy",
+      "description": "Strategic value depends on module production, maintenance, software updates, communications, energy supply, logistics, autonomy stacks, and command networks."
     }
   ],
   "key_findings": [
-    "Fixed-deck modularity is likely transitional as modular payloads and mission modules become central but remain constrained by fixed decks and conventional seaframe assumptions.",
-    "Deployable geometry may become a maritime design frontier, especially the ratio between compact transit form and expanded mission form.",
-    "LODMSP reframes the vessel from carrier to interface, turning the platform itself into a reconfigurable physical surface for mission functions.",
-    "The concept aligns with public trends but remains distinct from known public designs such as NOMARS, USX-1 Defiant, MASC, and containerized naval payloads.",
-    "LODMSP’s strategic value would depend less on single-platform lethality than on orchestration, distributed maritime ecosystem integration, sustainment, and infrastructure support.",
-    "The LCS experience shows that modularity must be treated as system architecture rather than a procurement slogan."
+    "Fixed-deck modularity is likely transitional because it retains fixed decks, fixed mission bays, and conventional seaframe assumptions.",
+    "Deployable geometry may become a maritime design frontier as autonomous surface systems compete on the ratio between compact transit form and expanded mission form.",
+    "LODMSP reframes the vessel from a carrier of modular payloads into a deployable physical interface for maritime mission functions.",
+    "The concept aligns with public trends in DARPA NOMARS, USX-1 Defiant, MASC, containerized payloads, and distributed maritime operations while remaining distinct from known public fixed-hull modular concepts.",
+    "The strategic value of LODMSP would depend less on single-platform lethality than on orchestration within a distributed autonomous maritime ecosystem.",
+    "Variable-configuration platforms raise policy questions involving interface architecture, deployment geometry, sustainment burden, lawful signaling, classification, and system-level resilience.",
+    "LODMSP should be treated as an architectural hypothesis rather than a technical design specification, acquisition proposal, weapons architecture, or operational doctrine.",
+    "The concept connects maritime autonomy to the broader shift from platform competition toward orchestration and infrastructure-centered power."
   ],
-  "policy_recommendations": [
-    "Evaluate deployable mission surface as a design metric alongside traditional metrics such as range, payload, speed, endurance, and cost.",
-    "Separate concept exploration from weapons integration, studying LODMSP first as an architecture for sensing, communication, unmanned-system handling, logistics, maintenance, and distributed coordination.",
-    "Prioritize interface standards for data, power, cooling, mechanical locking, autonomy integration, software updates, module certification, and sustainment documentation.",
-    "Learn from LCS without abandoning modularity by ensuring mature mission packages, sustainment planning, training, and operational testing.",
-    "Analyze LODMSP as a node in distributed maritime operations rather than as an independent ship replacement.",
-    "Include governance, identification, command accountability, cyber resilience, signaling, classification, and lawful-use considerations early in design."
+  "forward_predictions": [
+    "Future autonomous maritime platforms may increasingly separate compact transit morphology from expanded mission morphology.",
+    "Design evaluation may place greater emphasis on deployment ratio, functional interface ratio, modular separation index, distributed expansion coefficient, and interface maturity level.",
+    "Containerized and modular payloads may become more useful when paired with platforms capable of exposing, spacing, powering, networking, and maintaining modules through deployable interfaces.",
+    "Naval experimentation may move from platform capacity alone toward interface architecture, sustainment architecture, and distributed maritime ecosystem integration.",
+    "Variable-configuration maritime systems may create new governance, signaling, identification, and escalation-management requirements.",
+    "Infrastructure dependence will remain decisive because the value of deployable modular platforms depends on production, maintenance, communications, energy, software updates, logistics, autonomy, and command networks."
   ],
-  "watchpoints": [
-    {
-      "timeframe": "Concept exploration",
-      "indicator": "Deployment ratio and state-transition reliability",
-      "analytical_purpose": "Tests whether deployable geometry creates functional operational value without unacceptable mechanical complexity."
-    },
-    {
-      "timeframe": "Research and experimentation",
-      "indicator": "Interface maturity for power, data, cooling, mechanical locking, autonomy, and software-update pathways",
-      "analytical_purpose": "Determines whether modularity is supported by integration and sustainment architecture."
-    },
-    {
-      "timeframe": "Program design",
-      "indicator": "Maintenance burden, corrosion, fatigue, sealing, hinge reliability, and sea-state performance",
-      "analytical_purpose": "Assesses whether moving maritime structures remain viable under operational conditions."
-    },
-    {
-      "timeframe": "Doctrine development",
-      "indicator": "Rules for tasking, deploying, protecting, recovering, maintaining, and signaling variable-geometry autonomous platforms",
-      "analytical_purpose": "Identifies doctrine gaps before operational deployment."
-    },
-    {
-      "timeframe": "Governance review",
-      "indicator": "Classification, command responsibility, cyber resilience, auditability, and lawful-use controls",
-      "analytical_purpose": "Reduces escalation and accountability risks associated with variable-configuration systems."
-    }
+  "strategic_implications": [
+    "Policymakers should evaluate whether future modular vessels should remain fixed decks or become adjustable interfaces when modular payloads become central to naval architecture.",
+    "Naval research should examine deployable functional area, modular separation, mission-interface capacity, and state-transition reliability alongside range, payload, speed, endurance, seakeeping, survivability, and cost.",
+    "Concept exploration should be separated from weapons integration; LODMSP should first be studied as an architecture for sensing, communication, unmanned-system handling, logistics, maintenance, and distributed coordination.",
+    "Interface standards for data, power, cooling, mechanical locking, autonomy integration, software update pathways, module certification, and sustainment documentation should receive priority.",
+    "Lessons from the Littoral Combat Ship program suggest that modularity requires mature mission packages, support systems, testing, training, sustainment planning, and doctrine.",
+    "Variable-configuration maritime platforms should include governance, classification, command accountability, cyber resilience, auditability, and lawful-use constraints early in design and doctrine."
   ],
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "https://publications.epinova.org/",
+      "identifier": "https://epinova.org/working-papers",
       "scheme": "URL",
       "resource_type": "Publication series",
-      "description": "EPINOVA publications platform"
+      "description": "EPINOVA Working Paper Series"
     },
     {
       "relation": "IsSupplementedBy",
@@ -288,210 +337,86 @@
     },
     {
       "relation": "References",
-      "identifier": "Defense Advanced Research Projects Agency. (n.d.). NOMARS: No manning required ship. https://www.darpa.mil/research/programs/no-manning-required-ship",
+      "identifier": "Defense Advanced Research Projects Agency, n.d., NOMARS: No Manning Required Ship",
       "scheme": "Bibliographic citation",
-      "resource_type": "program page",
-      "description": "Supports the discussion of unmanned-vessel design freedom created by removing onboard human accommodation requirements.",
-      "url": "https://www.darpa.mil/research/programs/no-manning-required-ship"
+      "resource_type": "Program page",
+      "description": "Referenced for unmanned vessel design freedom created by removing onboard human accommodation requirements"
     },
     {
       "relation": "References",
-      "identifier": "Defense Advanced Research Projects Agency. (2025, August 11). NOMARS at-sea demo. https://www.darpa.mil/news/features/nomars",
+      "identifier": "Defense Advanced Research Projects Agency, 2025, NOMARS at-sea demo",
       "scheme": "Bibliographic citation",
-      "resource_type": "official news feature",
-      "description": "Supports the discussion of USX-1 Defiant and long-duration autonomous at-sea demonstration.",
-      "url": "https://www.darpa.mil/news/features/nomars"
+      "resource_type": "Program update",
+      "description": "Referenced for USX-1 Defiant and long-duration autonomous at-sea demonstration"
     },
     {
       "relation": "References",
-      "identifier": "Lockheed Martin. (2023). Mk 70 Mod 1 Payload Delivery System. https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/naval-launchers-and-munitions/Mk70_Product_Card.pdf",
+      "identifier": "Lockheed Martin, 2023, Mk 70 Mod 1 Payload Delivery System",
       "scheme": "Bibliographic citation",
-      "resource_type": "technical product card",
-      "description": "Supports the discussion of containerized high-capability naval payloads and the fixed-deck modularity baseline.",
-      "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/naval-launchers-and-munitions/Mk70_Product_Card.pdf"
+      "resource_type": "Product card",
+      "description": "Referenced for containerized naval payload baseline"
     },
     {
       "relation": "References",
-      "identifier": "Naval Sea Systems Command. (2025, July 31). U.S. Navy seeks industry feedback for Modular Attack Surface Craft program. https://www.navsea.navy.mil/Media/News/Article-View/Article/4261138/us-navy-seeks-industry-feedback-for-modular-attack-surface-craft-program/",
+      "identifier": "Naval Sea Systems Command, 2025, Modular Attack Surface Craft program",
       "scheme": "Bibliographic citation",
-      "resource_type": "official news release",
-      "description": "Supports the paper’s discussion of MASC, modular design philosophy, commercial off-the-shelf technology, and rapid fielding requirements.",
-      "url": "https://www.navsea.navy.mil/Media/News/Article-View/Article/4261138/us-navy-seeks-industry-feedback-for-modular-attack-surface-craft-program/"
+      "resource_type": "Government announcement",
+      "description": "Referenced for cost-effective unmanned surface vessels, modular design philosophy, and rapid fielding requirements"
     },
     {
       "relation": "References",
-      "identifier": "O'Rourke, R. (2026, January 16). Navy large unmanned surface vessels (USVs): Background and issues for Congress (CRS Report No. R45757). Congressional Research Service. https://crsreports.congress.gov/product/pdf/R/R45757",
+      "identifier": "O'Rourke, 2026, Navy Large Unmanned Surface Vessels (USVs): Background and Issues for Congress",
       "scheme": "Bibliographic citation",
-      "resource_type": "congressional research report",
-      "description": "Supports the background discussion of Navy unmanned surface vessels, large USVs, and congressional policy issues.",
-      "url": "https://crsreports.congress.gov/product/pdf/R/R45757"
+      "resource_type": "CRS report",
+      "description": "Referenced for large unmanned surface vessels and distributed maritime operations"
     },
     {
       "relation": "References",
-      "identifier": "U.S. Government Accountability Office. (2022). Littoral Combat Ship: Actions needed to address significant operational challenges and implement planned sustainment approach (GAO-22-105387). https://www.gao.gov/products/gao-22-105387",
+      "identifier": "U.S. Government Accountability Office, 2022, Littoral Combat Ship",
       "scheme": "Bibliographic citation",
-      "resource_type": "government report",
-      "description": "Provides the cautionary precedent for modularity, mission-module integration, sustainment, testing, and operational capability challenges.",
-      "url": "https://www.gao.gov/products/gao-22-105387"
+      "resource_type": "GAO report",
+      "description": "Referenced for modularity challenges, operational capability, sustainment, and testing lessons"
     },
     {
       "relation": "References",
-      "identifier": "U.S. Navy. (2025, August 27). Medium unmanned surface vessel (MUSV). https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4288073/medium-unmanned-surface-vessel-musv/",
+      "identifier": "Wu, 2026, From Control Substitution to Structural Dominance",
       "scheme": "Bibliographic citation",
-      "resource_type": "official fact file",
-      "description": "Supports the discussion of Navy unmanned-vessel experimentation and integration into fleet operations.",
-      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4288073/medium-unmanned-surface-vessel-musv/"
+      "resource_type": "Working paper",
+      "description": "Referenced for morphological convergence and infrastructure-centered autonomous power"
     },
     {
       "relation": "References",
-      "identifier": "U.S. Navy. (2026, April 20). CNO remarks at Sea-Air-Space. https://www.navy.mil/Press-Office/Speeches/display-speech/Article/4464830/cno-remarks-at-sea-air-space/",
+      "identifier": "Zhang et al., 2022, Design and Control of the TransBoat",
       "scheme": "Bibliographic citation",
-      "resource_type": "official speech",
-      "description": "Supports the discussion of containerized capability, payload-platform decoupling, open architecture, digital twins, and modular effects across the fleet.",
-      "url": "https://www.navy.mil/Press-Office/Speeches/display-speech/Article/4464830/cno-remarks-at-sea-air-space/"
-    },
-    {
-      "relation": "References",
-      "identifier": "Wu, S. (2026). From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.003",
-      "scheme": "Bibliographic citation",
-      "resource_type": "working paper",
-      "description": "Provides the author’s prior theoretical framework on morphological convergence, orchestration, and infrastructure-centered autonomous power.",
-      "url": "https://doi.org/10.67037/epinova.wp.a.2026.003"
-    },
-    {
-      "relation": "References",
-      "identifier": "Zhang, L., Ji, X., Jiao, Y., Qian, H., & Zhang, T. (2022). Design and control of the TransBoat: A transformable unmanned surface vehicle for overwater construction (arXiv:2212.03639). arXiv. https://arxiv.org/abs/2212.03639",
-      "scheme": "Bibliographic citation",
-      "resource_type": "preprint",
-      "description": "Provides public research context showing that variable geometry is technically meaningful in transformable unmanned surface vehicle research.",
-      "url": "https://arxiv.org/abs/2212.03639"
+      "resource_type": "Preprint",
+      "description": "Referenced for civilian transformable unmanned surface vehicle research"
     }
   ],
   "references": [
-    {
-      "id": "darpa_nomars_program_no_manning_required_ship",
-      "type": "program_page",
-      "citation": "Defense Advanced Research Projects Agency. (n.d.). NOMARS: No manning required ship. https://www.darpa.mil/research/programs/no-manning-required-ship",
-      "outlet": "Defense Advanced Research Projects Agency",
-      "date": "n.d.",
-      "title": "NOMARS: No manning required ship",
-      "url": "https://www.darpa.mil/research/programs/no-manning-required-ship",
-      "use_in_brief": "Supports the discussion of unmanned-vessel design freedom created by removing onboard human accommodation requirements.",
-      "reliability_note": "Official DARPA program page; used for public program framing rather than technical validation of LODMSP."
-    },
-    {
-      "id": "darpa_2025_nomars_at_sea_demo",
-      "type": "official_news_feature",
-      "citation": "Defense Advanced Research Projects Agency. (2025, August 11). NOMARS at-sea demo. https://www.darpa.mil/news/features/nomars",
-      "outlet": "Defense Advanced Research Projects Agency",
-      "date": "2025-08-11",
-      "title": "NOMARS at-sea demo",
-      "url": "https://www.darpa.mil/news/features/nomars",
-      "use_in_brief": "Supports the discussion of USX-1 Defiant and long-duration autonomous at-sea demonstration.",
-      "reliability_note": "Official DARPA feature; used as authoritative public reporting on the NOMARS demonstration context."
-    },
-    {
-      "id": "lockheed_martin_2023_mk70_product_card",
-      "type": "technical_product_card",
-      "citation": "Lockheed Martin. (2023). Mk 70 Mod 1 Payload Delivery System. https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/naval-launchers-and-munitions/Mk70_Product_Card.pdf",
-      "outlet": "Lockheed Martin",
-      "date": "2023",
-      "title": "Mk 70 Mod 1 Payload Delivery System",
-      "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/naval-launchers-and-munitions/Mk70_Product_Card.pdf",
-      "use_in_brief": "Supports the discussion of containerized high-capability naval payloads and the fixed-deck modularity baseline.",
-      "reliability_note": "Manufacturer source; used for public product-description context, not independent performance assessment."
-    },
-    {
-      "id": "navsea_2025_modular_attack_surface_craft_feedback",
-      "type": "official_news_release",
-      "citation": "Naval Sea Systems Command. (2025, July 31). U.S. Navy seeks industry feedback for Modular Attack Surface Craft program. https://www.navsea.navy.mil/Media/News/Article-View/Article/4261138/us-navy-seeks-industry-feedback-for-modular-attack-surface-craft-program/",
-      "outlet": "Naval Sea Systems Command",
-      "date": "2025-07-31",
-      "title": "U.S. Navy seeks industry feedback for Modular Attack Surface Craft program",
-      "url": "https://www.navsea.navy.mil/Media/News/Article-View/Article/4261138/us-navy-seeks-industry-feedback-for-modular-attack-surface-craft-program/",
-      "use_in_brief": "Supports the paper’s discussion of MASC, modular design philosophy, commercial off-the-shelf technology, and rapid fielding requirements.",
-      "reliability_note": "Official NAVSEA source; used as public evidence of the program direction."
-    },
-    {
-      "id": "orourke_2026_crs_navy_large_unmanned_surface_vessels",
-      "type": "congressional_research_report",
-      "citation": "O'Rourke, R. (2026, January 16). Navy large unmanned surface vessels (USVs): Background and issues for Congress (CRS Report No. R45757). Congressional Research Service. https://crsreports.congress.gov/product/pdf/R/R45757",
-      "outlet": "Congressional Research Service",
-      "date": "2026-01-16",
-      "title": "Navy large unmanned surface vessels (USVs): Background and issues for Congress",
-      "url": "https://crsreports.congress.gov/product/pdf/R/R45757",
-      "use_in_brief": "Supports the background discussion of Navy unmanned surface vessels, large USVs, and congressional policy issues.",
-      "reliability_note": "CRS report; treated as a high-quality public policy source."
-    },
-    {
-      "id": "gao_2022_littoral_combat_ship_operational_challenges",
-      "type": "government_report",
-      "citation": "U.S. Government Accountability Office. (2022). Littoral Combat Ship: Actions needed to address significant operational challenges and implement planned sustainment approach (GAO-22-105387). https://www.gao.gov/products/gao-22-105387",
-      "outlet": "U.S. Government Accountability Office",
-      "date": "2022",
-      "title": "Littoral Combat Ship: Actions needed to address significant operational challenges and implement planned sustainment approach",
-      "url": "https://www.gao.gov/products/gao-22-105387",
-      "use_in_brief": "Provides the cautionary precedent for modularity, mission-module integration, sustainment, testing, and operational capability challenges.",
-      "reliability_note": "GAO report; used as an authoritative public oversight source."
-    },
-    {
-      "id": "us_navy_2025_medium_unmanned_surface_vessel_fact_file",
-      "type": "official_fact_file",
-      "citation": "U.S. Navy. (2025, August 27). Medium unmanned surface vessel (MUSV). https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4288073/medium-unmanned-surface-vessel-musv/",
-      "outlet": "U.S. Navy",
-      "date": "2025-08-27",
-      "title": "Medium unmanned surface vessel (MUSV)",
-      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4288073/medium-unmanned-surface-vessel-musv/",
-      "use_in_brief": "Supports the discussion of Navy unmanned-vessel experimentation and integration into fleet operations.",
-      "reliability_note": "Official U.S. Navy fact file; used for public program context."
-    },
-    {
-      "id": "us_navy_2026_cno_remarks_sea_air_space",
-      "type": "official_speech",
-      "citation": "U.S. Navy. (2026, April 20). CNO remarks at Sea-Air-Space. https://www.navy.mil/Press-Office/Speeches/display-speech/Article/4464830/cno-remarks-at-sea-air-space/",
-      "outlet": "U.S. Navy",
-      "date": "2026-04-20",
-      "title": "CNO remarks at Sea-Air-Space",
-      "url": "https://www.navy.mil/Press-Office/Speeches/display-speech/Article/4464830/cno-remarks-at-sea-air-space/",
-      "use_in_brief": "Supports the discussion of containerized capability, payload-platform decoupling, open architecture, digital twins, and modular effects across the fleet.",
-      "reliability_note": "Official U.S. Navy speech; used for public strategic and acquisition framing."
-    },
-    {
-      "id": "wu_2026_morphological_convergence_infrastructure_power_autonomous_systems",
-      "type": "working_paper",
-      "citation": "Wu, S. (2026). From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.003",
-      "outlet": "EPINOVA LLC",
-      "date": "2026",
-      "title": "From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems",
-      "url": "https://doi.org/10.67037/epinova.wp.a.2026.003",
-      "use_in_brief": "Provides the author’s prior theoretical framework on morphological convergence, orchestration, and infrastructure-centered autonomous power.",
-      "reliability_note": "Prior EPINOVA working paper by the same author; used as conceptual continuity rather than independent external validation."
-    },
-    {
-      "id": "zhang_etal_2022_transboat_transformable_usv_arxiv",
-      "type": "preprint",
-      "citation": "Zhang, L., Ji, X., Jiao, Y., Qian, H., & Zhang, T. (2022). Design and control of the TransBoat: A transformable unmanned surface vehicle for overwater construction (arXiv:2212.03639). arXiv. https://arxiv.org/abs/2212.03639",
-      "outlet": "arXiv",
-      "date": "2022",
-      "title": "Design and control of the TransBoat: A transformable unmanned surface vehicle for overwater construction",
-      "url": "https://arxiv.org/abs/2212.03639",
-      "use_in_brief": "Provides public research context showing that variable geometry is technically meaningful in transformable unmanned surface vehicle research.",
-      "reliability_note": "Preprint source; used as civilian transformable-USV context, not as direct validation of LODMSP."
-    }
+    "Defense Advanced Research Projects Agency. (n.d.). NOMARS: No manning required ship. https://www.darpa.mil/research/programs/no-manning-required-ship",
+    "Defense Advanced Research Projects Agency. (2025, August 11). NOMARS at-sea demo. https://www.darpa.mil/news/features/nomars",
+    "Lockheed Martin. (2023). Mk 70 Mod 1 Payload Delivery System. https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/naval-launchers-and-munitions/Mk70_Product_Card.pdf",
+    "Naval Sea Systems Command. (2025, July 31). U.S. Navy seeks industry feedback for Modular Attack Surface Craft program. https://www.navsea.navy.mil/Media/News/Article-View/Article/4261138/us-navy-seeks-industry-feedback-for-modular-attack-surface-craft-program/",
+    "O'Rourke, R. (2026, January 16). Navy large unmanned surface vessels (USVs): Background and issues for Congress (CRS Report No. R45757). Congressional Research Service. https://crsreports.congress.gov/product/pdf/R/R45757",
+    "U.S. Government Accountability Office. (2022). Littoral Combat Ship: Actions needed to address significant operational challenges and implement planned sustainment approach (GAO-22-105387). https://www.gao.gov/products/gao-22-105387",
+    "U.S. Navy. (2025, August 27). Medium unmanned surface vessel (MUSV). https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4288073/medium-unmanned-surface-vessel-musv/",
+    "U.S. Navy. (2026, April 20). CNO remarks at Sea-Air-Space. https://www.navy.mil/Press-Office/Speeches/display-speech/Article/4464830/cno-remarks-at-sea-air-space/",
+    "Wu, S. (2026). From control substitution to structural dominance: Morphological convergence and infrastructure power in autonomous systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.003",
+    "Zhang, L., Ji, X., Jiao, Y., Qian, H., & Zhang, T. (2022). Design and control of the TransBoat: A transformable unmanned surface vehicle for overwater construction (arXiv:2212.03639). arXiv. https://arxiv.org/abs/2212.03639"
   ],
-  "recommended_citation": "Wu, Shaoyuan. (2026). Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems (EPINOVA Working Paper No. EPINOVA–WP–A–2026–04). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.004",
-  "citation_apa": "Wu, S. (2026). Low-observable deployable modular surface platform (LODMSP): From fixed decks to deployable mission interfaces in autonomous maritime systems. EPINOVA Working Paper Series, EPINOVA-WP-A-2026-04. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.004",
-  "short_citation": "Wu (2026), Low-Observable Deployable Modular Surface Platform (LODMSP), EPINOVA–WP–A–2026–04.",
+  "recommended_citation": "Wu, Shaoyuan. (2026). Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-004). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.004.",
+  "citation_apa": "Wu, S. (2026). Low-observable deployable modular surface platform (LODMSP): From fixed decks to deployable mission interfaces in autonomous maritime systems (EPINOVA Working Paper No. EPINOVA-WP-A-2026-004). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.a.2026.004.",
+  "short_citation": "Wu (2026), Low-Observable Deployable Modular Surface Platform (LODMSP), EPINOVA-WP-A-2026-004, 10.67037/epinova.wp.a.2026.004.",
   "imprint": {
     "title": "EPINOVA Working Paper Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
     "location": "United States",
     "place": "United States",
     "publisher": "EPINOVA LLC",
-    "publisher_unit": "Global AI Governance and Policy Research Center",
     "edition": "v1.0",
     "date": "2026-06-12",
-    "pagination": "12 pages"
+    "pagination": "12 pages",
+    "publisher_unit": "Global AI Governance and Policy Research Center"
   },
   "figures": [],
   "tables": [
@@ -499,8 +424,8 @@
       "number": "Table 1",
       "title": "Core Metrics for Deployable Modular Platforms",
       "description": "Proposes analytical metrics for assessing deployable modular surface platforms, including deployment ratio, functional interface ratio, modular separation index, distributed expansion coefficient, and interface maturity level.",
-      "source": "Author’s synthesis based on public U.S. Navy materials on containerized capability and unmanned surface vessels, NAVSEA’s Modular Attack Surface Craft program description, GAO’s assessment of Littoral Combat Ship modularity challenges, and the author’s prior framework on morphological convergence and infrastructure power in autonomous systems.",
-      "note": "The table shifts evaluation from platform capacity alone toward interface architecture and deployable mission-surface performance."
+      "source": "Author's synthesis based on public U.S. Navy materials on containerized capability and unmanned surface vessels, NAVSEA's Modular Attack Surface Craft program description, GAO's assessment of Littoral Combat Ship modularity challenges, and the author's prior framework on morphological convergence and infrastructure power in autonomous systems.",
+      "note": "The metrics are conceptual and policy-analytic rather than validated engineering measures."
     }
   ],
   "appendices": [],
@@ -518,16 +443,16 @@
   "conference": null,
   "journal": null,
   "thesis": null,
-  "disclaimer": "This working paper reflects the author’s analytical views based on publicly available information. It does not represent the official position of any government, organization, or institution.",
+  "disclaimer": "This working paper reflects the author's analytical views based on publicly available information. It does not represent the official position of any government, organization, or institution.",
   "metadata_source": {
     "source_file": "Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf",
     "source_type": "PDF",
-    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, and EPINOVA metadata schema alignment",
+    "extraction_method": "PDF text extraction, PDF embedded metadata extraction, and EPINOVA metadata schema mapping",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
     "created_date": "2026-06-12",
     "last_updated": "2026-06-12",
-    "notes": "PDF supplied working paper number, title, subtitle, author, ORCID, affiliation, date, executive summary, keywords, recommended citation, DOI, references, table, policy relevance, limitations, and disclaimer. Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page."
+    "notes": "Metadata generated from the source PDF using the supplied EPINOVA metadata.json framework. DOI is recorded as 10.67037/epinova.wp.a.2026.004 and resolves through the official EPINOVA publication landing page."
   },
   "pdf_metadata": {
     "title": "Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems",
@@ -541,13 +466,21 @@
   "crossref": {
     "status": "registered",
     "doi": "10.67037/epinova.wp.a.2026.004",
+    "doi_url": "https://doi.org/10.67037/epinova.wp.a.2026.004",
     "deposit_ready": true,
-    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page.",
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-06-12",
+    "deposit_xml_file": "",
+    "notes": "Crossref Web Deposit Form submission was successfully received and the DOI registration is recorded for the working paper. Record type used: report. Deposit type used: Report.",
     "crossref_url": "https://publications.epinova.org/epinova-wp-a-2026-004/",
     "crossref_doi_suffix": "epinova.wp.a.2026.004",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "registration_status": "Registered"
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -557,11 +490,27 @@
     "resource_type": "Working Paper",
     "use_for_dataset": false,
     "related_dataset_doi": "",
-    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
   },
   "orcid": {
     "put_code": "",
     "source": "",
     "record_date": ""
+  },
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.a.2026.004",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.a.2026.004",
+    "registered_url": "https://publications.epinova.org/epinova-wp-a-2026-004/",
+    "registration_date": "2026-06-12",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
   }
 }
