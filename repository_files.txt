@@ -1,3 +1,7 @@
+Policy Brief/2026/EPINOVA–2026–PB-55/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
+Policy Brief/2026/EPINOVA–2026–PB-55/metadata.json
+docs/epinova-pb-2026-055/index.html
+docs/files/epinova-pb-2026-055/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -1381,6 +1385,7 @@ docs/epinova-wp-2025-01/index.html
 docs/epinova-wp-a-2026-001/index.html
 docs/epinova-wp-a-2026-002/index.html
 docs/epinova-wp-a-2026-003/index.html
+docs/epinova-wp-a-2026-004/index.html
 docs/epinova-wp-a-2026-01/index.html
 docs/epinova-wp-a-2026-02/index.html
 docs/epinova-wp-a-2026-03/index.html
@@ -1491,6 +1496,7 @@ docs/files/epinova-wp-2025-001/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-a-2026-002/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
 docs/files/epinova-wp-a-2026-003/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf
+docs/files/epinova-wp-a-2026-004/Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf
 docs/files/epinova-wp-a-2026-01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
 docs/files/epinova-wp-a-2026-02/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
 docs/files/epinova-wp-a-2026-03/From Control Substitution to Structural Dominance Beyond Morphology in the Age of Autonomous Systems.pdf

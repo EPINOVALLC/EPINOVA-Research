@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-055** (2026-06-12)  
+  **The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict: From War Termination to Systemic Realignment**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.055](https://doi.org/10.67037/epinova.pb.2026.055)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-55/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55)  
+  Source PDF: [`The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55/The%20First%20Ten%20Days%20of%20Phase%20II%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20From%20War%20Termination%20to%20Systemic%20Realignment.pdf)
+
 - **EPINOVA-PB-2026-054** (2026-06-05)  
   **External Strategic Nodes Under Pressure: Lebanon, Israel, and the Break Thresholds of Strategic Dependency**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.051](https://doi.org/10.67037/epinova.pb.2026.051)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-51/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51)  
   Source PDF: [`Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51/Bargaining%20Under%20Systemic%20Pressure%20U.S.%20Objective%20Compression%2C%20Iranian%20Leverage%20Institutionalization%2C%20and%20the%20Reconfiguration%20of%20Negotiating%20Goals%20in%20the%2085-Day%20Conflict.pdf)
-
-- **EPINOVA-PB-2026-050** (2026-05-22)  
-  **Two Summits, Two Signals: U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.050](https://doi.org/10.67037/epinova.pb.2026.050)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-50/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50)  
-  Source PDF: [`Two Summits, Two Signals U.S.–China Crisis Management, China–Russia Redundancy, and Caspian Shipping Rhythm.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-50/Two%20Summits%2C%20Two%20Signals%20U.S.%E2%80%93China%20Crisis%20Management%2C%20China%E2%80%93Russia%20Redundancy%2C%20and%20Caspian%20Shipping%20Rhythm.pdf)
 
 ---
 
@@ -264,9 +264,9 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-A — AI Strategic Nodes and Structural Governance
 
-- **EPINOVA-WP-A-2026-04** (2026-06-12)  
+- **EPINOVA-WP-A-2026-004** (2026-06-12)  
   **Low-Observable Deployable Modular Surface Platform (LODMSP): From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems**  
-  Publication page: [https://publications.epinova.org/](https://publications.epinova.org/)  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
   DOI: [10.67037/epinova.wp.a.2026.004](https://doi.org/10.67037/epinova.wp.a.2026.004)  
   Source folder: [`Working Paper/A/2026/EPINOVA–WP–A–2026–04/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304)  
   Source PDF: [`Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9304/Low-Observable%20Deployable%20Modular%20Surface%20Platform%20%28LODMSP%29%20From%20Fixed%20Decks%20to%20Deployable%20Mission%20Interfaces%20in%20Autonomous%20Maritime%20Systems.pdf)

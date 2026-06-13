@@ -1,0 +1,442 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-055",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-055",
+  "title": "The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict",
+  "subtitle": "From War Termination to Systemic Realignment",
+  "title_normalized": "the first ten days of phase ii in the u.s.–israel–iran conflict",
+  "publication_date": "2026-06-12",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.055",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-055/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–55",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    }
+  ],
+  "description": "This policy brief examines the first ten analytical days of Phase II in the U.S.–Israel–Iran conflict. It argues that the conflict is shifting from escalation accumulation toward systemic realignment, exposing the costs of U.S. prioritization of Israel, widening U.S.–Israel desynchronization, Iran’s more calibrated Phase II behavior, the strategic role of the Caspian–Persian Gulf linkage, and the emergence of broader resource-chain transmission beyond oil markets.",
+  "abstract": "This policy brief examines the first ten analytical days of Phase II in the U.S.–Israel–Iran conflict. It argues that the conflict is shifting from escalation accumulation toward systemic realignment. Phase I forced the United States to prioritize Israel in practical crisis-management terms, while Phase II exposes the costs of that prioritization across Ukraine support, European confidence, air-defense allocation, and Indo-Pacific deterrence signaling. The brief also analyzes growing U.S.–Israel desynchronization, the Netanyahu constraint, Iran’s more calibrated Phase II behavior, and the strategic role of the Caspian–Persian Gulf linkage. It further argues that the conflict is no longer only an oil-market shock, but a wider resource-chain transmission problem involving sulfur, fertilizer, LNG, petrochemicals, metals, battery inputs, and food-system exposure. The brief concludes that Phase II should be understood not simply as a path from war to peace, but as a test of whether escalation’s consequences can still be organized across regional, Eurasian, and global systems.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Phase II",
+    "war termination",
+    "systemic realignment",
+    "escalation management",
+    "U.S.–Israel desynchronization",
+    "Netanyahu constraint",
+    "Iran",
+    "Israel",
+    "United States",
+    "Caspian–Persian Gulf linkage",
+    "Hormuz",
+    "resource-chain transmission",
+    "fertilizer security",
+    "sulfur",
+    "LNG",
+    "petrochemicals",
+    "battery materials",
+    "food security",
+    "El Niño",
+    "Eurasian corridors",
+    "Russia",
+    "China",
+    "alliance management",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Conflict analysis",
+    "Alliance politics",
+    "War termination",
+    "Political risk",
+    "Energy security",
+    "Food security",
+    "Global political economy",
+    "Maritime security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-12",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-12",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-12",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-12",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55/The%20First%20Ten%20Days%20of%20Phase%20II%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20From%20War%20Termination%20to%20Systemic%20Realignment.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 7
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-055",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Phase II Systemic Realignment Assessment",
+    "source_basis": "Open-source policy analysis and scenario-based assessment of the U.S.–Israel–Iran conflict, alliance synchronization, corridor redundancy, energy and resource-chain exposure, and climate-linked food-security risk as of June 12, 2026.",
+    "case_context": "The first ten analytical days of Phase II in the U.S.–Israel–Iran conflict, following Phase I escalation accumulation and the transition toward war termination and systemic realignment.",
+    "core_problem": "The central analytical problem is whether the consequences of prior escalation can be organized across regional, Eurasian, and global systems after kinetic tempo begins to decline but unresolved pressure remains active.",
+    "central_claims": [
+      "Phase I forced a U.S. strategic choice and Phase II exposes the costs of that prioritization.",
+      "U.S.–Israel alignment remains durable but less synchronized as Washington prioritizes controlled recompression and Israel prioritizes deterrence restoration.",
+      "The Netanyahu constraint may complicate U.S. war-termination objectives amid Israeli domestic political uncertainty.",
+      "Iran appears more calibrated in Phase II, using diplomacy, selective retaliation, maritime ambiguity, external-node activation, and legal framing to preserve leverage.",
+      "The Caspian–Persian Gulf linkage has become central because the Persian Gulf remains the front-end coercive theater while the Caspian functions as a back-end redundancy layer.",
+      "The conflict is no longer mainly an oil shock and increasingly transmits through sulfur, fertilizer, LNG, petrochemicals, metals, battery materials, and food-system inputs.",
+      "Russia, China, and Iran appear to be moving toward a latent Eurasian community of interests rather than an open military coalition."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Phase Transition Analysis",
+        "description": "Distinguishes Phase I escalation accumulation from Phase II post-escalation management, war-termination sequencing, and systemic realignment."
+      },
+      {
+        "name": "Alliance Synchronization Analysis",
+        "description": "Assesses divergence between durable security alignment and operational or political desynchronization among allies."
+      },
+      {
+        "name": "Netanyahu Constraint",
+        "description": "Identifies the risk that Israeli domestic political incentives and leadership preferences may conflict with U.S. war-termination requirements."
+      },
+      {
+        "name": "Caspian–Persian Gulf Linkage",
+        "description": "Frames the Persian Gulf as a front-end coercive theater and the Caspian as a back-end redundancy and pressure-absorption layer."
+      },
+      {
+        "name": "Resource-Chain Transmission",
+        "description": "Extends conflict-impact analysis beyond oil prices to sulfur, fertilizer, LNG, petrochemicals, metals refining, battery materials, and food-system exposure."
+      },
+      {
+        "name": "Climate-Risk Multiplier",
+        "description": "Evaluates how El Niño conditions could amplify conflict-driven resource disruption into agricultural and political stress."
+      },
+      {
+        "name": "Latent Eurasian Community of Interests",
+        "description": "Interprets Russia, China, and Iran as a geographically enabled alignment that seeks insulation from isolation and dilution of U.S. coercive leverage without forming an open military coalition."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "U.S. Prioritization Cost",
+      "code": "USPC",
+      "indicator_type": "Strategic exposure dimension",
+      "observed_pattern": "Phase II exposes reduced bandwidth for Ukraine support, European reassurance, air-defense allocation, and Indo-Pacific deterrence signaling.",
+      "interpretation": "U.S. global power remains substantial, but the margin for simultaneous crisis management is not unlimited."
+    },
+    {
+      "name": "U.S.–Israel Desynchronization",
+      "code": "USID",
+      "indicator_type": "Alliance synchronization dimension",
+      "observed_pattern": "Washington seeks controlled recompression while Israel seeks deterrence restoration and maximal constraints on Iran.",
+      "interpretation": "Alignment remains durable, but divergence over timing, risk tolerance, and settlement quality increases war-termination friction."
+    },
+    {
+      "name": "Netanyahu Constraint",
+      "code": "NC",
+      "indicator_type": "Leadership and domestic-politics dimension",
+      "observed_pattern": "Israeli snap-election uncertainty may narrow Netanyahu’s room for compromise and increase incentives for escalation signaling or settlement obstruction.",
+      "interpretation": "The U.S. challenge is to sustain Israeli security while preventing Israeli domestic politics from derailing a wider de-escalation framework."
+    },
+    {
+      "name": "Iran Phase II Calibration",
+      "code": "IPC",
+      "indicator_type": "Adversary-behavior dimension",
+      "observed_pattern": "Iran combines mediated diplomacy, selective retaliation, maritime ambiguity, external-node activation, and legal framing.",
+      "interpretation": "Iran seeks to preserve leverage without converting every pressure point into immediate escalation."
+    },
+    {
+      "name": "Caspian–Persian Gulf Linkage",
+      "code": "CPGL",
+      "indicator_type": "Corridor and redundancy dimension",
+      "observed_pattern": "The Persian Gulf remains the front-end coercive theater while the Caspian provides back-end redundancy and threshold delay.",
+      "interpretation": "The Caspian cannot replace Gulf-scale maritime flows but can sustain selective logistics and deepen Iran’s strategic depth."
+    },
+    {
+      "name": "Resource-Chain Transmission",
+      "code": "RCT",
+      "indicator_type": "Global political economy dimension",
+      "observed_pattern": "The Gulf shock extends into sulfur, sulfuric acid, ammonia, urea, phosphate fertilizer, LNG, petrochemicals, metals refining, battery materials, and food-system inputs.",
+      "interpretation": "Phase II is a global political economy problem, not only a battlefield or oil-market event."
+    },
+    {
+      "name": "El Niño Multiplier",
+      "code": "ENM",
+      "indicator_type": "Climate-risk amplification dimension",
+      "observed_pattern": "Possible El Niño conditions could interact with fertilizer stress, fuel-cost volatility, drought, flood, and harvest anomalies.",
+      "interpretation": "Regional maritime disruption may become a delayed food-security and political shock across exposed import-dependent states."
+    }
+  ],
+  "key_findings": [
+    "Phase I forced a U.S. strategic choice; Phase II is exposing its costs across Ukraine support, air-defense allocation, European confidence, and Indo-Pacific deterrence signaling.",
+    "U.S.–Israel alignment remains durable, but less synchronized as Washington seeks controlled recompression and Israel seeks deterrence restoration.",
+    "Washington may face a Netanyahu constraint as Israeli snap-election uncertainty affects compromise incentives and escalation risk.",
+    "Iran appears more calibrated in Phase II than in Phase I, combining mediated diplomacy, selective retaliation, maritime ambiguity, external-node activation, and legal framing.",
+    "The Caspian–Persian Gulf linkage has become central to Phase II because it connects coercion in the southern maritime theater with resilience across the northern Eurasian interior.",
+    "The conflict is no longer mainly an oil shock and now reaches sulfur, sulfuric acid, ammonia, urea, phosphate fertilizer, LNG, petrochemicals, metals refining, battery materials, and food-system inputs.",
+    "El Niño conditions could amplify resource-chain disruption into delayed food-security and political stress.",
+    "Russia, China, and Iran appear to be moving toward a latent Eurasian community of interests that dilutes U.S. coercive leverage without forming an open military coalition.",
+    "Phase II should be understood as a transition from military escalation to systemic realignment rather than a simple move from war to peace."
+  ],
+  "policy_recommendations": [
+    "Distinguish Israeli security from Israeli escalation preferences.",
+    "Treat war termination as system design rather than as the mere cessation of strikes.",
+    "Frame Hormuz as a governance problem, not only an access problem.",
+    "Monitor the Caspian as part of the conflict system rather than as a peripheral logistics route.",
+    "Move resource-chain monitoring beyond oil to include sulfur, sulfuric acid, ammonia, urea, phosphate fertilizer, LNG, petrochemicals, metals refining, battery materials, and food-system inputs.",
+    "Integrate climate risk into conflict assessment, especially where El Niño could amplify agricultural and political stress.",
+    "Prepare for alliance divergence rather than alliance collapse."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "U.S.–Israel public and private divergence over ceasefire sequencing, settlement terms, or follow-on strikes",
+      "analytical_purpose": "Detects whether durable alignment is becoming operationally desynchronized."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Israeli domestic political movement toward early elections or coalition instability",
+      "analytical_purpose": "Assesses whether the Netanyahu constraint is increasing settlement obstruction or late-stage escalation risk."
+    },
+    {
+      "timeframe": "Immediate to 60 days",
+      "indicator": "Iranian use of mediated diplomacy, selective retaliation, maritime ambiguity, or legal framing",
+      "analytical_purpose": "Tracks whether Iran remains calibrated or returns to more escalatory retaliation loops."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Caspian, rail, and overland logistics patterns connected to Iran, Russia, and Central Asian transit systems",
+      "analytical_purpose": "Assesses whether northern redundancy is increasing Iran’s threshold delay and strategic depth."
+    },
+    {
+      "timeframe": "30–120 days",
+      "indicator": "Sulfur, fertilizer, LNG, petrochemical, metals, battery-input, and food-price stress indicators",
+      "analytical_purpose": "Detects delayed resource-chain transmission beyond oil markets."
+    },
+    {
+      "timeframe": "Seasonal",
+      "indicator": "ENSO / El Niño development and its interaction with fertilizer and fuel-cost pressure",
+      "analytical_purpose": "Evaluates whether climate conditions amplify conflict disruption into food-security stress."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for external strategic node dependency, break thresholds, and U.S.–Israel / Iran–Lebanon node analysis"
+    },
+    {
+      "relation": "References",
+      "identifier": "International Energy Agency materials on Middle East conflict and global energy markets",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Report and topic page",
+      "description": "Referenced for energy-market disruption and Middle East energy-security context"
+    },
+    {
+      "relation": "References",
+      "identifier": "World Bank materials on commodity markets and food security",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Report and update",
+      "description": "Referenced for commodity, fertilizer, food-security, and resource-chain risk context"
+    }
+  ],
+  "references": [
+    "Center for Strategic and International Studies. (2025, September 16). Industrial roadblocks: Producing at scale and adopting new technologies. https://www.csis.org/analysis/chapter-14-industrial-roadblocks-producing-scale-and-adopting-new-technologies",
+    "Congressional Research Service. (2024, September 16). Defense production for Ukraine: Background and issues for Congress (R48182). https://www.everycrsreport.com/reports/R48182.html",
+    "Council on Foreign Relations. (2025, October 7). U.S. aid to Israel in four charts. https://www.cfr.org/articles/us-aid-israel-four-charts",
+    "Food and Agriculture Organization of the United Nations. (2026, April 3). FAO Food Price Index rises in March as Near East conflict raises energy costs. https://www.fao.org/newsroom/detail/fao-food-price-index-rises-in-march-as-near-east-conflict-raises-energy-costs/en",
+    "Food and Agriculture Organization of the United Nations. (2026). FAO Food Price Index. Retrieved June 12, 2026, from https://www.fao.org/worldfoodsituation/foodpricesindex/en",
+    "International Energy Agency. (2026, May 28). Impacts of Middle East conflict set to reshape energy investment plans as disruptions put focus on security. https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security",
+    "International Energy Agency. (2026). The Middle East and global energy markets. Retrieved June 12, 2026, from https://www.iea.org/topics/the-middle-east-and-global-energy-markets",
+    "International Research Institute for Climate and Society. (2026). ENSO forecast. Columbia Climate School. Retrieved June 12, 2026, from https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/",
+    "National Centers for Environmental Prediction, Climate Prediction Center. (2026, May 14). ENSO diagnostic discussion. National Oceanic and Atmospheric Administration. https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+    "Office of Foreign Assets Control. (2025, April 16). Guidance for shipping and maritime stakeholders on detecting and mitigating Iranian oil sanctions evasion. U.S. Department of the Treasury. https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions",
+    "Organization for Economic Cooperation and Development. (2023). Realising the potential of the Middle Corridor. https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/12/realising-the-potential-of-the-middle-corridor_c458041c/635ad854-en.pdf",
+    "U.S. Department of State. (2024, September 10). New Iran and Russia sanctions designations. https://2021-2025.state.gov/new-iran-and-russia-sanctions-designations/",
+    "U.S. Department of State. (2025, January). U.S. security cooperation with Ukraine. https://www.state.gov/bureau-of-political-military-affairs/releases/2025/01/u-s-security-cooperation-with-ukraine",
+    "U.S. Energy Information Administration. (2025, June 16). Amid regional conflict, the Strait of Hormuz remains critical to oil and LNG trade. https://www.eia.gov/todayinenergy/detail.php?id=65504",
+    "U.S. Energy Information Administration. (2025). World oil transit chokepoints. Retrieved June 12, 2026, from https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints",
+    "U.S. Geological Survey. (1999). Fertilizers: Sustaining global food supplies (Fact Sheet FS-155-99). https://pubs.usgs.gov/fs/fs155-99/fs155-99.html",
+    "Ukraine Oversight. (2026). Security assistance. Retrieved June 12, 2026, from https://www.ukraineoversight.gov/Funding/Security-Assistance/",
+    "World Bank. (2023). Middle trade and transport corridor: Policies and investments to triple freight volumes and halve travel time by 2030. https://thedocs.worldbank.org/en/doc/6248f697aed4be0f770d319dcaa4ca52-0080062023/original/Middle-Trade-and-Transport-Corridor-World-Bank-FINAL.pdf",
+    "World Bank. (2026, April 28). Middle East war to spark biggest energy price surge in years; fertilizer costs to rise sharply. https://www.worldbank.org/en/news/press-release/2026/04/28/commodity-markets-outlook-april-2026-press-release",
+    "World Bank. (2026, June 1). Food security update. https://www.worldbank.org/en/topic/agriculture/brief/food-security-update",
+    "World Meteorological Organization. (2026, April 24). Likelihood increases of El Niño. https://wmo.int/media/news/wmo-likelihood-increases-of-el-nino",
+    "World Meteorological Organization. (2026, June 2). WMO: Prepare for El Niño. https://wmo.int/news/media-centre/wmo-prepare-el-nino",
+    "Wu, S. (2026). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency (Policy Brief No. EPINOVA–2026–PB–54). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.054"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict: From War Termination to Systemic Realignment, Policy Brief No. EPINOVA–2026–PB–55, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.055.",
+  "citation_apa": "Wu, S. (2026). The first ten days of Phase II in the U.S.–Israel–Iran conflict: From war termination to systemic realignment. EPINOVA Policy Brief Series, EPINOVA-PB-2026-055. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.055.",
+  "short_citation": "Wu (2026), The First Ten Days of Phase II, EPINOVA–2026–PB–55.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-12",
+    "pagination": "7 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-supplied Crossref submission data, author-supplied references list, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-12",
+    "last_updated": "2026-06-12",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, policy implications, limitations, conclusion, recommended citation, and disclaimer where available. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. The PDF page-1 sidebar recommended citation appears to show DOI suffix .054, but the author-submitted Crossref record and this metadata use the registered PB-55 DOI: 10.67037/epinova.pb.2026.055. The policy brief PDF itself does not contain a formal references section; the author-supplied references are therefore preserved in this metadata record under the references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-12T21:49:22-04:00",
+    "modification_date": "2026-06-12T21:49:22-04:00",
+    "pages": 7
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.055",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-055/",
+    "crossref_doi_suffix": "epinova.pb.2026.055",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}
