@@ -53,6 +53,8 @@ CREATOR = {
 
 ARTICLE_CATALOG = [
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-13", "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
     ("2026-06-05", "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy"),
     ("2026-05-26", "The Ceasefire at Sea Is Fraying"),
     ("2026-05-20", "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal"),
@@ -133,6 +135,10 @@ ARTICLE_CATALOG = [
 ]
 
 MANUAL_URL_OVERRIDES = {
+    # Latest manually confirmed article.
+    "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East":
+        "https://epinova.org/articles/f/will-the-war-really-end",
+
     # Latest manually confirmed article.
         "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy":
         "https://epinova.org/articles/f/canada%E2%80%99s-%E2%80%9Cai-for-all%E2%80%9D-strategy",

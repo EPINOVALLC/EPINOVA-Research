@@ -1,7 +1,17 @@
-Policy Brief/2026/EPINOVA–2026–PB-55/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
-Policy Brief/2026/EPINOVA–2026–PB-55/metadata.json
-docs/epinova-pb-2026-055/index.html
-docs/files/epinova-pb-2026-055/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
+Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.html
+Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.md
+Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.txt
+Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/assets/image-001.jpg
+Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-56/Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf
+Policy Brief/2026/EPINOVA–2026–PB-56/metadata.json
+docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.html
+docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.md
+docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.txt
+docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/assets/image-001.jpg
+docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/metadata.json
+docs/epinova-pb-2026-056/index.html
+docs/files/epinova-pb-2026-056/Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -690,6 +700,8 @@ Policy Brief/2026/EPINOVA–2026–PB-53/From War Powers to Loyalty Politics Tru
 Policy Brief/2026/EPINOVA–2026–PB-53/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-54/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
 Policy Brief/2026/EPINOVA–2026–PB-54/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-55/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
+Policy Brief/2026/EPINOVA–2026–PB-55/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1376,6 +1388,7 @@ docs/epinova-pb-2026-051/index.html
 docs/epinova-pb-2026-052/index.html
 docs/epinova-pb-2026-053/index.html
 docs/epinova-pb-2026-054/index.html
+docs/epinova-pb-2026-055/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1488,6 +1501,7 @@ docs/files/epinova-pb-2026-051/Bargaining Under Systemic Pressure U.S. Objective
 docs/files/epinova-pb-2026-052/Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf
 docs/files/epinova-pb-2026-053/From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf
 docs/files/epinova-pb-2026-054/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
+docs/files/epinova-pb-2026-055/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

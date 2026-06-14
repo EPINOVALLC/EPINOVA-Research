@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-056** (2026-06-14)  
+  **Three Conflicts Inside One War: The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.056](https://doi.org/10.67037/epinova.pb.2026.056)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-56/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56)  
+  Source PDF: [`Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56/Three%20Conflicts%20Inside%20One%20War%20The%20Fragmentation%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20into%20U.S.%E2%80%93Iran%2C%20Iran%E2%80%93Israel%2C%20and%20U.S.%E2%80%93Israel%20Tracks.pdf)
+
 - **EPINOVA-PB-2026-055** (2026-06-12)  
   **The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict: From War Termination to Systemic Realignment**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.052](https://doi.org/10.67037/epinova.pb.2026.052)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-52/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52)  
   Source PDF: [`Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52/Renewed%20Strikes%20and%20the%20Risk%20of%20Conflict%20Resumption%20Assessing%20June%203%20Escalation%20Dynamics%20after%20the%20Fragile%20Ceasefire.pdf)
-
-- **EPINOVA-PB-2026-051** (2026-05-23)  
-  **Bargaining Under Systemic Pressure: U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.051](https://doi.org/10.67037/epinova.pb.2026.051)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-51/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51)  
-  Source PDF: [`Bargaining Under Systemic Pressure U.S. Objective Compression, Iranian Leverage Institutionalization, and the Reconfiguration of Negotiating Goals in the 85-Day Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-51/Bargaining%20Under%20Systemic%20Pressure%20U.S.%20Objective%20Compression%2C%20Iranian%20Leverage%20Institutionalization%2C%20and%20the%20Reconfiguration%20of%20Negotiating%20Goals%20in%20the%2085-Day%20Conflict.pdf)
 
 ---
 

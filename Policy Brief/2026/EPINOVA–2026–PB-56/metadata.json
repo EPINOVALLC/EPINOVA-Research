@@ -1,0 +1,458 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-056",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-056",
+  "title": "Three Conflicts Inside One War",
+  "subtitle": "The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks",
+  "title_normalized": "three conflicts inside one war",
+  "publication_date": "2026-06-14",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.056",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-056/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–56",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Three Conflicts Inside One War",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Triangular Conflict Decomposition",
+      "scheme": "Analytical concept",
+      "description": "Core analytical model developed in the policy brief"
+    },
+    {
+      "identifier": "Controlled Fragmentation",
+      "scheme": "Analytical concept",
+      "description": "Central outcome pattern identified in the policy brief"
+    }
+  ],
+  "description": "This policy brief argues that the U.S.–Israel–Iran conflict is no longer best understood as a single integrated war moving toward a single settlement. It analyzes the conflict as three connected but differentiated tracks: U.S.–Iran termination, Iran–Israel deterrence, and U.S.–Israel alliance management. The brief concludes that the most plausible outcome is controlled fragmentation, in which a U.S.–Iran memorandum may reduce direct escalation while unresolved deterrence, proxy, maritime, nuclear, and alliance-management pressures continue through separate but linked channels.",
+  "abstract": "This policy brief argues that the U.S.–Israel–Iran conflict is no longer best understood as a single integrated war moving toward a single settlement. Instead, it is fragmenting into three connected but differentiated tracks: U.S.–Iran termination, Iran–Israel deterrence, and U.S.–Israel alliance management. The U.S.–Iran track is moving toward bargaining, sequencing, and procedural de-escalation; the Iran–Israel track remains focused on deterrence, retaliation, and proxy control; and the U.S.–Israel track increasingly involves alliance management, conditionality, and political synchronization. The brief argues that a U.S.–Iran memorandum may reduce direct military escalation without resolving the broader conflict system. Unresolved leverage may migrate into nuclear talks, maritime rules, proxy fronts, U.S.–Israel consultations, and competing domestic narratives. The most plausible outcome is therefore controlled fragmentation: direct U.S.–Iran de-escalation, bounded Iran–Israel competition, conditional U.S.–Israel synchronization, and continued monitoring of recovery competition after any ceasefire.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Three Conflicts Inside One War",
+    "triangular conflict decomposition",
+    "controlled fragmentation",
+    "U.S.–Iran termination",
+    "Iran–Israel deterrence",
+    "U.S.–Israel alliance management",
+    "war termination",
+    "procedural de-escalation",
+    "memorandum of understanding",
+    "ceasefire",
+    "nuclear sequencing",
+    "sanctions relief",
+    "Hormuz",
+    "maritime stabilization",
+    "proxy warfare",
+    "Hezbollah",
+    "Israel",
+    "Iran",
+    "United States",
+    "alliance conditionalization",
+    "deterrence restoration",
+    "escalation management",
+    "Middle East security",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Conflict analysis",
+    "War termination",
+    "Alliance politics",
+    "Deterrence",
+    "Proxy warfare",
+    "Maritime security",
+    "Nuclear negotiations",
+    "Political risk",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-14",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-14",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-14",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-14",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56/Three%20Conflicts%20Inside%20One%20War%20The%20Fragmentation%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20into%20U.S.%E2%80%93Iran%2C%20Iran%E2%80%93Israel%2C%20and%20U.S.%E2%80%93Israel%20Tracks.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-056",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Triangular Conflict Decomposition Framework",
+    "source_basis": "Open-source policy analysis, prior EPINOVA analytical frameworks, and scenario-based interpretation of reported diplomatic developments as of June 14, 2026. The brief treats reported memorandum terms as provisional unless formally released or acknowledged by the negotiating parties.",
+    "case_context": "The U.S.–Israel–Iran conflict under reported U.S.–Iran memorandum negotiations and emerging fragmentation across U.S.–Iran, Iran–Israel, and U.S.–Israel tracks.",
+    "core_problem": "The central analytical problem is whether a reported U.S.–Iran memorandum can govern a conflict system that is fragmenting into differentiated termination, deterrence, and alliance-management tracks rather than converging toward one integrated settlement.",
+    "central_claims": [
+      "The U.S.–Israel–Iran conflict is fragmenting into three connected but differentiated tracks: U.S.–Iran termination, Iran–Israel deterrence, and U.S.–Israel alliance management.",
+      "A U.S.–Iran memorandum would manage escalation rather than resolve the conflict system.",
+      "The United States and Iran require different forms of success, making dual narrative construction a condition for implementation.",
+      "Israel faces the most constrained strategic position because a U.S.–Iran memorandum may satisfy Washington’s requirements before satisfying Israel’s deterrence requirements.",
+      "The most plausible outcome is controlled fragmentation rather than comprehensive peace.",
+      "The central policy challenge is governing the tracks, not merely signing a memorandum.",
+      "The main relationship risk is conditionalization rather than alliance collapse."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Triangular Conflict Decomposition",
+        "description": "Frames a conflict structure in which three strategically connected actors no longer operate under a single war aim, escalation logic, or termination pathway."
+      },
+      {
+        "name": "U.S.–Iran Termination Track",
+        "description": "Analyzes bargaining, sequencing, exit architecture, nuclear restraint, sanctions relief, maritime stabilization, and pressure-backed diplomacy."
+      },
+      {
+        "name": "Iran–Israel Deterrence Track",
+        "description": "Analyzes residual deterrence pressure involving nuclear, missile, proxy, cyber, and covert networks that cannot be fully resolved by a bilateral U.S.–Iran memorandum."
+      },
+      {
+        "name": "U.S.–Israel Alliance-Management Track",
+        "description": "Assesses divergence within alignment, including the distinction between Israeli security and Israeli escalation preferences."
+      },
+      {
+        "name": "Controlled Fragmentation",
+        "description": "Identifies a realistic outcome in which direct U.S.–Iran escalation declines while bounded Iran–Israel competition and conditional U.S.–Israel synchronization continue."
+      },
+      {
+        "name": "Narrative Compatibility Analysis",
+        "description": "Examines whether Washington, Tehran, and Israel can frame the same agreement in different but politically usable terms without undermining implementation."
+      },
+      {
+        "name": "Implementation Risk Migration",
+        "description": "Tracks how unresolved leverage may migrate from direct hostilities into technical talks, maritime rules, proxy fronts, alliance consultations, and competing domestic narratives."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "U.S.–Iran Termination Track",
+      "code": "USIR-T",
+      "indicator_type": "Conflict-fragmentation track",
+      "observed_pattern": "The U.S.–Iran track is moving toward bargaining, sequencing, nuclear restraint, sanctions relief, maritime stabilization, and procedural de-escalation.",
+      "interpretation": "This track can reduce direct escalation but is unlikely to resolve the broader conflict system."
+    },
+    {
+      "name": "Iran–Israel Deterrence Track",
+      "code": "IRISR-D",
+      "indicator_type": "Conflict-fragmentation track",
+      "observed_pattern": "Israel remains focused on deterrence restoration, while Iran seeks to avoid appearing to abandon retaliation, Hezbollah, or the broader resistance network.",
+      "interpretation": "This track remains the least compatible with clean de-escalation and may continue through Lebanon, Syria, cyber, covert, and proxy channels."
+    },
+    {
+      "name": "U.S.–Israel Alliance-Management Track",
+      "code": "USISR-A",
+      "indicator_type": "Conflict-fragmentation track",
+      "observed_pattern": "The United States remains committed to Israeli security but increasingly needs controlled recompression, while Israel prioritizes deterrence restoration.",
+      "interpretation": "Alignment remains durable but less synchronized, creating risk of conditionalization rather than alliance rupture."
+    },
+    {
+      "name": "Procedural Stabilization",
+      "code": "PS",
+      "indicator_type": "War-termination mechanism",
+      "observed_pattern": "A reported memorandum would reduce immediate escalation while deferring the most difficult issues.",
+      "interpretation": "The memorandum functions as a conflict-management device, not a comprehensive settlement."
+    },
+    {
+      "name": "Narrative Incompatibility",
+      "code": "NI",
+      "indicator_type": "Implementation-risk dimension",
+      "observed_pattern": "Washington may frame the agreement as pressure-backed diplomacy, Tehran as resistance and recovery, and Israel as insufficient constraint.",
+      "interpretation": "Competing narratives may coexist initially but could generate later compliance disputes."
+    },
+    {
+      "name": "Proxy Autonomy",
+      "code": "PA",
+      "indicator_type": "Implementation-risk dimension",
+      "observed_pattern": "Hezbollah, Iraqi militias, the Houthis, or other non-state partners may retain local incentives that do not fully align with Tehran’s preference for restraint.",
+      "interpretation": "Proxy behavior may remain a major source of implementation risk even if Tehran accepts de-escalation."
+    },
+    {
+      "name": "Resource-Chain Continuation",
+      "code": "RCC",
+      "indicator_type": "Global political economy risk dimension",
+      "observed_pattern": "Economic pressure may persist in fertilizer inputs, LNG, petrochemicals, metals, battery materials, insurance costs, and shipping confidence even if oil flows stabilize.",
+      "interpretation": "The economic consequences of the conflict may outlast the visible kinetic phase."
+    }
+  ],
+  "key_findings": [
+    "The U.S.–Israel–Iran conflict is increasingly difficult to interpret as a single integrated war system.",
+    "The conflict is separating into three connected but differentiated tracks: U.S.–Iran termination, Iran–Israel deterrence, and U.S.–Israel alliance management.",
+    "A U.S.–Iran memorandum could reduce direct military escalation but would more likely move unresolved disputes into a managed framework than resolve the conflict system.",
+    "Washington requires a credible exit narrative centered on Hormuz, nuclear risk reduction, cost control, and alliance credibility.",
+    "Tehran requires visible material and political returns, including asset release, oil-export access, sanctions relief, sovereignty language, nuclear space, and preservation of regional leverage.",
+    "Israel faces the most constrained strategic position because Washington increasingly needs termination or de-escalation while Israel continues to prioritize deterrence restoration.",
+    "The most plausible outcome is controlled fragmentation rather than comprehensive peace.",
+    "The central policy challenge is governing the tracks, not merely signing a memorandum.",
+    "The main risk is conditionalization rather than alliance collapse: U.S. support for Israel and Iranian support for Hezbollah may remain formally intact while becoming more selective, constrained, or conditional in practice."
+  ],
+  "policy_recommendations": [
+    "Treat war termination as system design rather than simply as the cessation of strikes.",
+    "Separate nuclear sequencing from nuclear surrender through staged freeze, declaration, monitoring, downblending or disposition, enrichment limits, inspection architecture, and compliance review.",
+    "Build regional side channels into the settlement architecture, including Lebanon-related escalation, Israeli operations, resupply visibility, and deconfliction mechanisms.",
+    "Distinguish Israeli security from Israeli escalation preferences when managing U.S.–Israel coordination during U.S.–Iran war termination.",
+    "Make benefits for Iran visible, conditional, and reversible through benchmarks, monitoring, and snapback provisions.",
+    "Prepare for controlled fragmentation rather than full reconciliation, including direct U.S.–Iran de-escalation, bounded Iran–Israel competition, conditional U.S.–Israel synchronization, and continued monitoring of recovery competition."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Formal U.S.–Iran de-escalation accompanied by informal Iran–Israel continuation through Lebanon, Syria, Iraq, Yemen, covert operations, or cyber channels",
+      "analytical_purpose": "Detects whether the memorandum reduces direct escalation without ending the broader conflict system."
+    },
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Israeli late-stage escalation against proxy infrastructure, supply corridors, leadership targets, or nuclear-adjacent systems",
+      "analytical_purpose": "Assesses whether Israel seeks to alter the bargaining environment before implementation becomes locked in."
+    },
+    {
+      "timeframe": "Immediate to 60 days",
+      "indicator": "Iranian hardline resistance to implementation or demands for stronger guarantees and visible gains",
+      "analytical_purpose": "Tracks whether Tehran can balance compliance with domestic and institutional credibility."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Proxy operations by Hezbollah, Iraqi militias, the Houthis, or other actors despite formal de-escalation",
+      "analytical_purpose": "Evaluates whether proxy autonomy becomes a major source of implementation risk."
+    },
+    {
+      "timeframe": "30–120 days",
+      "indicator": "Competing U.S., Iranian, and Israeli narratives around the same memorandum terms",
+      "analytical_purpose": "Identifies whether narrative incompatibility generates later compliance disputes."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Continued volatility in fertilizer inputs, LNG, petrochemicals, metals, battery materials, insurance costs, and shipping confidence",
+      "analytical_purpose": "Monitors whether economic consequences outlast the visible kinetic phase."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Russia, China, and Iran deepening selective coordination through corridor redundancy, sanctions adaptation, maritime-order contestation, or selective economic absorption",
+      "analytical_purpose": "Assesses whether the conflict accelerates latent strategic alignment without producing a formal bloc."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). The first ten days of Phase II in the U.S.–Israel–Iran conflict: From war termination to systemic realignment",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for Phase II systemic realignment and resource-chain / alliance-management analysis"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for external strategic node dependency, Hezbollah, Israel, and alliance conditionalization analysis"
+    },
+    {
+      "relation": "References",
+      "identifier": "Reuters reporting on U.S.–Iran deal negotiations and Lebanon / Israel developments",
+      "scheme": "Bibliographic citation",
+      "resource_type": "News analysis",
+      "description": "Referenced for reported memorandum terms, Israeli operations, Hezbollah response, and Netanyahu political pressure"
+    }
+  ],
+  "references": [
+    "Council on Foreign Relations. (2026, June 13). Is a U.S.-Iran deal within reach? Six key issues that could shape a ceasefire. https://www.cfr.org/articles/is-a-u-s-iran-deal-within-reach-six-key-issues-that-could-shape-a-ceasefire",
+    "Reuters. (2026a, June 1). Israel’s Netanyahu orders attacks in Beirut’s southern suburbs. https://www.reuters.com/world/middle-east/israels-netanyahu-ordered-military-attack-targets-beirut-southern-suburbs-2026-06-01/",
+    "Reuters. (2026b, June 2). Israel strikes south Lebanon after stepping back from Beirut attack. https://www.reuters.com/world/middle-east/israel-strikes-south-lebanon-after-holding-off-beirut-attack-2026-06-02/",
+    "Reuters. (2026c, June 4). Hezbollah rejects ceasefire plan declared in Washington as Israel says Lebanon operations will continue. https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+    "Reuters. (2026d, June 4). Netanyahu faces plunging support in north Israel as voters demand tougher Lebanon stance. https://www.reuters.com/world/middle-east/netanyahu-faces-plunging-support-north-israel-voters-demand-tougher-lebanon-2026-06-04/",
+    "Reuters. (2026e, June 12). U.S., Iran signal peace deal near as Tehran claims victory. https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
+    "Reuters. (2026f, June 14). Iran says draft U.S. deal includes oil sanctions waiver, nuclear limits and asset release. https://www.reuters.com/business/energy/iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-asset-2026-06-14/",
+    "Reuters. (2026g, June 14). U.S. and Iran inch closer to deal, Trump says Sunday but timing is unclear. https://www.reuters.com/world/asia-pacific/us-iran-inch-closer-deal-timing-remains-unclear-2026-06-14/",
+    "The Guardian. (2026a, May 22). Qatar sends mediators to Tehran in sign talks to reopen Strait of Hormuz are reaching climax. https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+    "The Guardian. (2026b, June 14). Middle East crisis live: Iran says Israeli attack on Beirut shows lack of U.S. willingness after Trump says peace deal will be signed today. https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+    "Wu, S. (2026a). Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–17). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19223653",
+    "Wu, S. (2026b). Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints (EPINOVA Policy Brief No. EPINOVA–2026–PB–25). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19444571",
+    "Wu, S. (2026c). Ceasefire as recovery competition: Rearmament, external support, and strategic regeneration in a non-enforcement environment (EPINOVA Policy Brief No. EPINOVA–2026–PB–26). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19464642",
+    "Wu, S. (2026d). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+    "Wu, S. (2026e). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency (EPINOVA Policy Brief No. EPINOVA–2026–PB–54). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.054",
+    "Wu, S. (2026f). The first ten days of Phase II in the U.S.–Israel–Iran conflict: From war termination to systemic realignment (EPINOVA Policy Brief No. EPINOVA–2026–PB–55). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.055",
+    "Wu, S. (2026g). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Three Conflicts Inside One War: The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks, Policy Brief No. EPINOVA–2026–PB–56, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056.",
+  "citation_apa": "Wu, S. (2026). Three conflicts inside one war: The fragmentation of the U.S.–Israel–Iran conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks. EPINOVA Policy Brief Series, EPINOVA-PB-2026-056. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056.",
+  "short_citation": "Wu (2026), Three Conflicts Inside One War, EPINOVA–2026–PB–56.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-14",
+    "pagination": "11 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Implementation Risks Under a U.S.–Iran Memorandum",
+      "description": "Summarizes implementation risks under a U.S.–Iran memorandum, including formal U.S.–Iran de-escalation with informal Iran–Israel continuation, Israeli late-stage escalation, Iranian internal backlash, proxy autonomy, narrative incompatibility, resource-chain continuation, and Eurasian adaptation.",
+      "source": "Author’s analysis based on CFR, Reuters, The Guardian, and prior EPINOVA research.",
+      "note": "The table assesses implementation risk rather than probability of memorandum collapse. Triangular conflict decomposition refers to the separation of the U.S.–Israel–Iran conflict into three connected but differentiated tracks: U.S.–Iran termination, Iran–Israel deterrence, and U.S.–Israel alliance management."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-supplied Crossref registration status, PDF references extraction, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-14",
+    "last_updated": "2026-06-14",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical framework, actor assessments, risk matrix, policy implications, limitations, conclusion, references, recommended citation, and disclaimer where available. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. The references section appears in the PDF on pages 10–11 and is preserved in the references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-14T10:02:33-04:00",
+    "modification_date": "2026-06-14T10:02:33-04:00",
+    "pages": 11
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.056",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-056/",
+    "crossref_doi_suffix": "epinova.pb.2026.056",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}
