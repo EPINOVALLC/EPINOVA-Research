@@ -65,12 +65,6 @@
       "filename": "article.txt",
       "content_type": "text/plain",
       "description": "Plain-text preservation copy of the article."
-    },
-    {
-      "filename": "assets/image-001.jpg",
-      "original_url": "https://img1.wsimg.com/isteam/stock/V8Pkg1Q/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "content_type": "image/jpeg",
-      "description": "Locally archived image from the original EPINOVA article."
     }
   ]
 }

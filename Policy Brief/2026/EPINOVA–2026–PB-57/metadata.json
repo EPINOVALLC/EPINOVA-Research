@@ -1,0 +1,441 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-057",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-057",
+  "title": "Israel’s Strategic Position After the U.S.–Iran MOU",
+  "subtitle": "Options, Constraints, and Implementation Risks",
+  "title_normalized": "israel’s strategic position after the u.s.–iran mou",
+  "publication_date": "2026-06-15",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.057",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-057/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–57",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Israel’s Strategic Position After the U.S.–Iran MOU",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Israel’s Dilemma: From Battlefield Center to Settlement Outsider",
+      "scheme": "Related article",
+      "description": "Background framing article referenced in the policy brief"
+    }
+  ],
+  "description": "This policy brief examines Israel’s strategic position after the emerging U.S.–Iran MOU, arguing that Israel’s immediate challenge is not abandonment by the United States but reduced influence over the diplomatic architecture that may suspend or terminate the U.S.–Iran conflict. It evaluates Israel’s post-MOU options, including public rejection, quiet acceptance, limited escalation, managed accommodation, and domestic political reframing, and assesses how Israel may convert deferred security concerns into enforceable mechanisms on nuclear monitoring, sanctions snapback, proxy resupply, missile transfers, and supplemental U.S. security assurances.",
+  "abstract": "The emerging U.S.–Iran MOU has placed Israel in a difficult strategic position. Israel remains central to the battlefield, but it is less central to the diplomatic settlement now being shaped by Washington and Tehran. The issue is not that the United States is abandoning Israel. Rather, Washington appears to be separating its commitment to Israeli security from Israel’s preferred war aims. For Israel, this creates a role crisis. Its core concerns—limits on Iran’s nuclear capacity, missile program, proxy networks, and post-MOU reconstitution—may not be fully addressed in the emerging framework. Yet outright opposition could expose Israel to a spoiler-risk frame, especially if the emerging framework is presented internationally as a mechanism for reopening the Strait of Hormuz, reducing energy shocks, and stabilizing the region. Israel therefore faces a constrained choice set. It can reject the MOU publicly, accept it quietly, attempt to alter the environment through limited escalation, or seek influence through implementation design. None of these paths eliminates risk. The policy problem is not whether Israel can obtain its maximal objectives, but how it can preserve security leverage under a diplomatic framework that it does not fully control.",
+  "keywords": [
+    "Israel",
+    "U.S.–Iran MOU",
+    "U.S.–Israel relations",
+    "Iran",
+    "war termination",
+    "implementation risk",
+    "settlement architecture",
+    "managed accommodation",
+    "public rejection",
+    "quiet acceptance",
+    "limited escalation",
+    "domestic political reframing",
+    "nuclear monitoring",
+    "sanctions snapback",
+    "proxy resupply",
+    "missile transfers",
+    "Lebanon front",
+    "Hezbollah",
+    "Strait of Hormuz",
+    "security assurances",
+    "alliance management",
+    "Middle East security",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Alliance politics",
+    "Conflict analysis",
+    "War termination",
+    "Diplomacy",
+    "Security studies",
+    "Nuclear policy",
+    "Sanctions policy",
+    "Maritime security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-15",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-15",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-06-15",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-15",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57/Israel%E2%80%99s%20Strategic%20Position%20After%20the%20U.S.%E2%80%93Iran%20MOU%20Options%2C%20Constraints%2C%20and%20Implementation%20Risks.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-057",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Post-MOU Strategic Options and Implementation-Risk Assessment",
+    "source_basis": "Open-source policy analysis and scenario-based assessment of Israel’s post-MOU options, U.S.–Israel alliance management, nuclear and proxy implementation risks, sanctions snapback design, and reported public understanding of the emerging U.S.–Iran MOU as of June 15, 2026.",
+    "case_context": "Israel’s strategic position after the emerging U.S.–Iran MOU and the transition from battlefield centrality to reduced settlement influence.",
+    "core_problem": "The central analytical problem is whether Israel can preserve security leverage and convert deferred security concerns into enforceable implementation mechanisms under a diplomatic framework shaped primarily by U.S.–Iran de-escalation rather than Israeli-centered deterrence restoration.",
+    "central_claims": [
+      "Israel’s immediate challenge is not abandonment by the United States, but reduced influence over the diplomatic architecture through which the U.S.–Iran conflict may be suspended or ended.",
+      "Israel remains militarily central but risks becoming diplomatically peripheral if the MOU proceeds without incorporating core Israeli security concerns.",
+      "The MOU appears to reflect a shift from Israeli-centered deterrence restoration toward U.S.-centered systemic de-escalation.",
+      "Israel’s available choices range from public rejection and quiet acceptance to managed accommodation, limited escalation, and domestic political reframing, none of which is risk-free.",
+      "The central Israeli challenge is whether deferred security concerns can be converted into enforceable mechanisms on verification, compliance, sanctions snapback, proxy monitoring, and supplemental U.S. security assurances.",
+      "A plausible near-term pathway is public criticism combined with private bargaining over implementation terms."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Battlefield Centrality vs. Settlement Centrality",
+        "description": "Distinguishes Israel’s continued military centrality from its potentially reduced influence over the diplomatic architecture shaping post-MOU implementation."
+      },
+      {
+        "name": "Post-MOU Option-Set Analysis",
+        "description": "Assesses Israeli choices including public rejection, quiet acceptance, limited escalation, managed accommodation, and domestic political reframing."
+      },
+      {
+        "name": "Spoiler-Risk Framing",
+        "description": "Evaluates how public rejection or limited escalation could expose Israel to claims that it is obstructing de-escalation."
+      },
+      {
+        "name": "Managed Accommodation",
+        "description": "Frames the option of accepting the broad direction of the MOU while seeking enforcement mechanisms, conditionality, and supplemental U.S. assurances."
+      },
+      {
+        "name": "Implementation-Risk Analysis",
+        "description": "Evaluates nuclear monitoring, missile and transfer restrictions, proxy resupply, Lebanon-front verification, sanctions snapback, and U.S.–Israel assurance mechanisms."
+      },
+      {
+        "name": "Post-MOU Enforcement Architecture",
+        "description": "Treats the durability of de-escalation as dependent on monitoring, violation thresholds, dispute resolution, sanctions snapback, and conditional implementation design."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Battlefield Centrality",
+      "code": "BC",
+      "indicator_type": "Strategic role dimension",
+      "observed_pattern": "Israel remains militarily central to the conflict and retains major operational relevance.",
+      "interpretation": "Military centrality does not automatically translate into control over settlement architecture."
+    },
+    {
+      "name": "Settlement Influence",
+      "code": "SI",
+      "indicator_type": "Diplomatic leverage dimension",
+      "observed_pattern": "The emerging MOU is being shaped primarily by Washington and Tehran around de-escalation, Hormuz reopening, energy stabilization, and nuclear sequencing.",
+      "interpretation": "Israel risks becoming diplomatically peripheral if its security concerns remain outside implementation design."
+    },
+    {
+      "name": "Managed Accommodation",
+      "code": "MA",
+      "indicator_type": "Strategic pathway dimension",
+      "observed_pattern": "Israel accepts the broad direction of the MOU while seeking enforcement mechanisms and supplemental U.S. assurances.",
+      "interpretation": "This pathway offers high strategic value with low-medium risk but requires acceptance of an imperfect framework."
+    },
+    {
+      "name": "Public Resistance, Private Bargaining",
+      "code": "PRPB",
+      "indicator_type": "Strategic pathway dimension",
+      "observed_pattern": "Israel criticizes the MOU publicly while negotiating implementation terms privately with Washington.",
+      "interpretation": "This pathway is politically useful and likely in the near term, but may complicate trust with Washington if public messaging becomes too confrontational."
+    },
+    {
+      "name": "Limited Escalatory Pressure",
+      "code": "LEP",
+      "indicator_type": "Strategic pathway dimension",
+      "observed_pattern": "Israel uses limited military or covert actions to prevent Iranian reconstitution and force stronger implementation terms.",
+      "interpretation": "This may restore short-term leverage but carries high strategic risk and could be framed as sabotage of de-escalation."
+    },
+    {
+      "name": "Implementation Architecture",
+      "code": "IA",
+      "indicator_type": "Enforcement dimension",
+      "observed_pattern": "Critical implementation areas include nuclear monitoring, missile transfers, proxy resupply, Lebanon-front verification, sanctions snapback, and U.S.–Israel assurances.",
+      "interpretation": "The durability of the MOU depends less on the announcement than on the specificity of enforcement and monitoring mechanisms."
+    }
+  ],
+  "key_findings": [
+    "Israel’s post-MOU dilemma is less about abandonment than about reduced settlement control.",
+    "Israel remains militarily central, but the emerging diplomatic framework is being shaped primarily around U.S.–Iran de-escalation, reopening the Strait of Hormuz, energy stabilization, and nuclear sequencing.",
+    "Israel’s core concerns about Iran’s nuclear capacity, missile program, proxy networks, and post-MOU reconstitution may be deferred or only partially incorporated into the emerging framework.",
+    "Public rejection may preserve domestic resolve but could expose Israel to a spoiler-risk frame and reduce its influence over implementation.",
+    "Quiet acceptance may preserve U.S.–Israel alignment but risks domestic backlash and reduced Israeli leverage over enforcement design.",
+    "Limited escalation may restore short-term tactical initiative but could strain relations with Washington and trigger renewed retaliation.",
+    "Managed accommodation offers a balance between alliance management and security protection by converting Israeli concerns into operational mechanisms.",
+    "The most plausible near-term pathway is public criticism combined with private bargaining over implementation terms.",
+    "The central strategic question is whether Israel can convert deferred security concerns into enforceable conditions."
+  ],
+  "policy_recommendations": [
+    "Shift Israeli policy priority from opposing the MOU as such toward shaping post-MOU enforcement mechanisms.",
+    "Convert deferred security concerns into measurable conditions on nuclear monitoring, missile transfers, proxy resupply, sanctions snapback, and compliance thresholds.",
+    "Use a parallel U.S.–Israel assurance framework to address missile-defense replenishment, interceptor stockpiles, intelligence sharing, and joint monitoring groups.",
+    "Avoid giving Israel an informal veto over U.S.–Iran de-escalation while ensuring Israeli security concerns are not dismissed as mere obstruction.",
+    "Design implementation mechanisms that are specific enough to reassure Israel but not so expansive that Iran interprets the MOU as disguised capitulation.",
+    "Focus regional mediation on practical monitoring arrangements rather than declaratory support for de-escalation alone."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate to 30 days",
+      "indicator": "Israeli public criticism combined with continued private bargaining with Washington",
+      "analytical_purpose": "Detects whether Israel is pursuing the likely public-resistance/private-bargaining pathway."
+    },
+    {
+      "timeframe": "Immediate to 60 days",
+      "indicator": "U.S.–Israel discussions over missile-defense replenishment, intelligence sharing, monitoring groups, or specific violation thresholds",
+      "analytical_purpose": "Assesses whether supplemental U.S.–Israel assurances are emerging."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Details on nuclear monitoring, inspection access, reporting mechanisms, and follow-on negotiation timelines",
+      "analytical_purpose": "Evaluates whether nuclear deferral creates a verification gap or a manageable compliance process."
+    },
+    {
+      "timeframe": "30–90 days",
+      "indicator": "Proxy resupply patterns, weapons transfers through Syria, Lebanon-front violations, and Hezbollah reconstitution signals",
+      "analytical_purpose": "Tracks whether the MOU becomes a proxy-network reconstitution window."
+    },
+    {
+      "timeframe": "30–120 days",
+      "indicator": "Sanctions relief sequencing, compliance benchmarks, and snapback thresholds",
+      "analytical_purpose": "Assesses whether relief proceeds faster than verification or remains tied to measurable compliance."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026, June 15). Israel’s dilemma: From battlefield center to settlement outsider",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Website article",
+      "description": "Background framing article referenced in the policy brief"
+    },
+    {
+      "relation": "References",
+      "identifier": "Atlantic Council materials on the U.S.–Iran memorandum",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy analysis",
+      "description": "Referenced for the emerging MOU context and interpretation"
+    },
+    {
+      "relation": "References",
+      "identifier": "IAEA materials on monitoring and verification in Iran",
+      "scheme": "Bibliographic citation",
+      "resource_type": "International organization materials",
+      "description": "Referenced for nuclear monitoring and verification context"
+    }
+  ],
+  "references": [
+    "Atlantic Council. (2026, June 12). It’s not a “deal.” But Trump’s memorandum with Iran can be the start of something bigger. https://www.atlanticcouncil.org/dispatches/its-not-a-deal-but-trumps-memorandum-with-iran-can-be-the-start-of-something-bigger/",
+    "Center for Strategic and International Studies. (2019, March 11). War by proxy: Iran’s growing footprint in the Middle East. https://www.csis.org/analysis/war-proxy-irans-growing-footprint-middle-east",
+    "Center for Strategic and International Studies. (2026, April 2). Who is winning the Iran war? https://www.csis.org/analysis/who-winning-iran-war",
+    "Congressional Research Service. (2024, December 30). Iran: Background and U.S. policy (R47321). https://www.everycrsreport.com/files/2024-12-30_R47321_e44b0feb54f3c72469adbaed55df29085364f956.html",
+    "Council on Foreign Relations. (2023, April 21). Iran’s support of the Houthis: What to know. https://www.cfr.org/articles/irans-support-houthis-what-know",
+    "European Council. (2025, September 29). Iran sanctions snapback: Council reimposes restrictive measures. https://www.consilium.europa.eu/en/press/press-releases/2025/09/29/iran-sanctions-snapback-council-reimposes-restrictive-measures/",
+    "International Atomic Energy Agency. (2026, February 27). NPT Safeguards Agreement with the Islamic Republic of Iran (GOV/2026/8). https://www.iaea.org/sites/default/files/gov2026-8.pdf",
+    "International Atomic Energy Agency. (n.d.). IAEA and Iran: IAEA Board reports. https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports",
+    "International Atomic Energy Agency. (n.d.). Monitoring and verification in Iran. https://www.iaea.org/topics/monitoring-and-verification-in-iran",
+    "Reuters. (2026, June 12). U.S., Iran signal peace deal near as Tehran claims victory. https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
+    "Reuters. (2026, June 13). Trump says deal to end war will be signed on Sunday, Iran says timing unclear. https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+    "Reuters. (2026, June 14). Oil hits 3-month low as U.S., Iran reach peace deal to reopen Strait of Hormuz. https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
+    "Reuters. (2026, June 14). Fragile Iran deal offers oil relief, but Hormuz risks remain. https://www.reuters.com/commentary/reuters-open-interest/fragile-iran-deal-offers-oil-relief-hormuz-risks-remain-2026-06-14/",
+    "Reuters. (2026, June 15). Iran, U.S. agree to halt war and reopen Hormuz, sending oil prices tumbling. https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/",
+    "Reuters. (2026, June 15). Shippers remain cautious on Hormuz strait transit after U.S. and Iran agree deal. https://www.reuters.com/business/energy/one-lng-tanker-passes-hormuz-after-us-iran-agree-deal-shippers-stay-cautious-2026-06-15/",
+    "Reuters. (2026, June 15). UN human rights chief welcomes U.S.-Iran deal, urges restraint in the region. https://www.reuters.com/world/middle-east/un-human-rights-chief-welcomes-us-iran-deal-urges-restraint-region-2026-06-15/",
+    "United Nations Security Council. (n.d.). Resolution 2231 (2015) on Iran nuclear issue. https://main.un.org/securitycouncil/en/content/2231/background",
+    "United Nations. (2026, June 9). Security Council warned Iran nuclear stalemate is creating dangerous uncertainty. https://press.un.org/en/2026/sc16382.doc.htm",
+    "U.S. Energy Information Administration. (2025, June 16). Amid regional conflict, the Strait of Hormuz remains critical to global energy trade. https://www.eia.gov/todayinenergy/detail.php?id=65504",
+    "U.S. Energy Information Administration. (n.d.). World oil transit chokepoints. https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints",
+    "United States Institute of Peace. (2021, February 3). Iran’s missiles: Transfers to proxies. https://iranprimer.usip.org/blog/2021/feb/03/irans-missiles-transfers-proxies",
+    "Wu, S. (2026, June 15). Israel’s dilemma: From battlefield center to settlement outsider. EPINOVA. https://epinova.org/articles/f/israel%E2%80%99s-dilemma-from-battlefield-center-to-settlement-outsider"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Israel’s Strategic Position After the U.S.–Iran MOU: Options, Constraints, and Implementation Risks, Policy Brief No. EPINOVA–2026–PB–57, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.057.",
+  "citation_apa": "Wu, S. (2026). Israel’s strategic position after the U.S.–Iran MOU: Options, constraints, and implementation risks. EPINOVA Policy Brief Series, EPINOVA-PB-2026-057. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.057.",
+  "short_citation": "Wu (2026), Israel’s Strategic Position After the U.S.–Iran MOU, EPINOVA–2026–PB–57.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-15",
+    "pagination": "12 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Pathway Assessment for Israel’s Post-MOU Strategic Options",
+      "description": "Summarizes Israel’s principal post-MOU pathways, including managed accommodation, public resistance with private bargaining, limited escalatory pressure, passive acceptance, and domestic political reframing, with qualitative assessments of likelihood, strategic value, political difficulty, and risk level.",
+      "source": "Author’s assessment based on publicly available reporting, the background article “Israel’s Dilemma: From Battlefield Center to Settlement Outsider,” and scenario-based evaluation of Israel’s post-MOU policy constraints.",
+      "note": "Likelihood, strategic value, political difficulty, and risk level are qualitative analytical judgments, not forecasts."
+    },
+    {
+      "number": "Table 2",
+      "title": "Risk Matrix for Israel’s Post-MOU Strategic Choices",
+      "description": "Reframes Israel’s post-MOU choices as a risk matrix assessing likely U.S. reaction, Iranian opportunity, Israeli domestic effect, and overall strategic risk.",
+      "source": "Author’s assessment based on publicly available reporting, the background article “Israel’s Dilemma: From Battlefield Center to Settlement Outsider,” and qualitative evaluation of Israel’s post-MOU strategic constraints.",
+      "note": "The matrix summarizes likely directional risks rather than deterministic outcomes."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-15",
+    "last_updated": "2026-06-15",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, policy options, implementation risks, pathway assessment, risk matrix, policy implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 10–12 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-15T06:46:54-04:00",
+    "modification_date": "2026-06-15T06:46:54-04:00",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.057",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-057/",
+    "crossref_doi_suffix": "epinova.pb.2026.057",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  }
+}

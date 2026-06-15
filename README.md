@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-057** (2026-06-15)  
+  **Israel’s Strategic Position After the U.S.–Iran MOU: Options, Constraints, and Implementation Risks**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.057](https://doi.org/10.67037/epinova.pb.2026.057)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-57/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57)  
+  Source PDF: [`Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57/Israel%E2%80%99s%20Strategic%20Position%20After%20the%20U.S.%E2%80%93Iran%20MOU%20Options%2C%20Constraints%2C%20and%20Implementation%20Risks.pdf)
+
 - **EPINOVA-PB-2026-056** (2026-06-14)  
   **Three Conflicts Inside One War: The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.053](https://doi.org/10.67037/epinova.pb.2026.053)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-53/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53)  
   Source PDF: [`From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53/From%20War%20Powers%20to%20Loyalty%20Politics%20Trump%E2%80%99s%20Iran%20Response%20and%20the%20Government%E2%80%93Nation%20Distinction.pdf)
-
-- **EPINOVA-PB-2026-052** (2026-06-03)  
-  **Renewed Strikes and the Risk of Conflict Resumption: Assessing June 3 Escalation Dynamics after the Fragile Ceasefire**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.052](https://doi.org/10.67037/epinova.pb.2026.052)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-52/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52)  
-  Source PDF: [`Renewed Strikes and the Risk of Conflict Resumption Assessing June 3 Escalation Dynamics after the Fragile Ceasefire.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-52/Renewed%20Strikes%20and%20the%20Risk%20of%20Conflict%20Resumption%20Assessing%20June%203%20Escalation%20Dynamics%20after%20the%20Fragile%20Ceasefire.pdf)
 
 ---
 

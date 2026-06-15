@@ -53,6 +53,8 @@ CREATOR = {
 
 ARTICLE_CATALOG = [
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-15", "Israel’s Dilemma: From Battlefield Center to Settlement Outsider"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
     ("2026-06-13", "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East"),
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
     ("2026-06-05", "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy"),
@@ -135,6 +137,10 @@ ARTICLE_CATALOG = [
 ]
 
 MANUAL_URL_OVERRIDES = {
+    # Latest manually confirmed article.
+    "Israel’s Dilemma: From Battlefield Center to Settlement Outsider":
+        "https://epinova.org/articles/f/israel%E2%80%99s-dilemma-from-battlefield-center-to-settlement-outsider",
+
     # Latest manually confirmed article.
     "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East":
         "https://epinova.org/articles/f/will-the-war-really-end",

@@ -42,11 +42,11 @@ As the conflict evolves, MCCM increasingly captures not only direct cost accumul
 
 ![](assets/image-001.jpg)
 
+![](//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20\(43\).png/:/rs=w:1280)
+
 ![](assets/image-002.jpg)
 
 ![](assets/image-003.jpg)
-
-![](assets/image-004.jpg)
 
   
 

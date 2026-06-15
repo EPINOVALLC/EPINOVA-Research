@@ -38,7 +38,7 @@ Ranges reflect scenario-bounded estimates. Low = minimum confirmed observable lo
   
 
 
-![](assets/image-002.jpg)
+![](//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20\(23\).png/:/rs=w:1280)
 
 **Note:**
 
@@ -47,7 +47,7 @@ Cumulative totals represent aggregated daily scenario ranges. High range include
   
 
 
-![](assets/image-003.jpg)
+![](assets/image-002.jpg)
 
 **Note:**
 

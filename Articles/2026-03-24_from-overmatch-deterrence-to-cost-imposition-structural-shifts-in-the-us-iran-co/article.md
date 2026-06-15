@@ -14,7 +14,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 March 24, 2026|Global AI Governance & Policy
 
-![](assets/image-001.jpg)
+![](https://img1.wsimg.com/isteam/stock/V8Pkg1Q/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
 
 #### Structural Shifts in the U.S.–Iran Conflict 
 

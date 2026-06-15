@@ -1,6 +1,6 @@
 # AI: From Information Cocoon to Cognitive Cocoon?
 
-Original URL: https://epinova.org/f/ai-from-information-cocoon-to-cognitive-cocoon
+Original URL: https://epinova.org/articles/f/ai-from-information-cocoon-to-cognitive-cocoon
 
 Publication date: 2025-04-08
 
@@ -8,7 +8,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 ---
 
-[All Posts](<https://epinova.org/?blog=y>)
+[All Posts](<https://epinova.org/articles?blog=y>)
 
 ### AI: From Information Cocoon to Cognitive Cocoon?
 
