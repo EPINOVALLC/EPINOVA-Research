@@ -1,0 +1,573 @@
+{
+  "epinova_id": "EPINOVA-WP-F-2026-010",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper Series",
+  "series_code": "WP-F",
+  "series_number": "2026-10",
+  "series_subcategory": "F-Series",
+  "title": "The War That Measured America",
+  "subtitle": "Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System",
+  "title_normalized": "the war that measured america",
+  "short_title": "The War That Measured America",
+  "publication_date": "2026-06-16",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.wp.f.2026.010",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-wp-f-2026-010/",
+  "official_page": "https://epinova.org/working-papers",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.67037/epinova.wp.f.2026.010",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this working paper"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.wp.f.2026.010",
+      "scheme": "URL",
+      "description": "DOI resolution URL"
+    },
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA-WP-F-2026-010",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number printed in the PDF"
+    },
+    {
+      "identifier": "The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Strategic Exposure Event",
+      "scheme": "Analytical concept",
+      "description": "Core concept developed in the working paper for conflicts that reveal a major power’s operating limits without necessarily defeating it"
+    },
+    {
+      "identifier": "Eurasian Counter-System",
+      "scheme": "Analytical concept",
+      "description": "Core concept developed in the working paper for a modular anti-pressure network linking China, Russia, Iran, and adjacent actors"
+    },
+    {
+      "identifier": "The War That Measured America",
+      "scheme": "Short title",
+      "description": "Short form of the working paper title"
+    }
+  ],
+  "description": "This working paper examines the U.S.–Iran conflict as a strategic exposure event that made the operating limits, cost structure, alliance constraints, and systemic vulnerabilities of U.S. power more visible. It argues that Washington entered the conflict less from a clear theory of victory than from fear of inaction, and that the war accelerated a modular Eurasian Counter-System linking China, Russia, Iran, and adjacent actors through resources, production, logistics, technology, finance, and political narratives.",
+  "abstract": "This working paper examines the U.S.–Iran conflict as a strategic exposure event: a conflict that did not produce a simple American defeat, but made the operating limits, cost structure, alliance constraints, and systemic vulnerabilities of U.S. power more visible. The paper asks why Washington entered a war whose long-term benefits were uncertain and whose costs became increasingly apparent. It argues that the United States acted less from a clear theory of victory than from fear of the consequences of inaction: weakened deterrence, Israeli escalation, Iranian leverage over Hormuz, regional credibility loss, and perceived strategic retreat. The paper advances two concepts. The first is the Strategic Exposure Event, which captures how conflict can reveal a major power’s limits without defeating it outright. The second is the Eurasian Counter-System, a partially aligned China–Russia–Iran structure linking resources, production, logistics, technology, finance, and political narratives in ways that dilute U.S. coercive leverage. The central finding is that the United States retained strike power, diplomatic leverage, and a usable exit narrative, but lost part of its forward basing credibility, regional management capacity, alliance confidence, and strategic opacity. Washington entered the conflict to restore control; the conflict revealed the limits of American control.",
+  "keywords": [
+    "U.S.–Iran conflict",
+    "Strategic Exposure Event",
+    "American power",
+    "Gulf bases",
+    "deterrence",
+    "Strait of Hormuz",
+    "U.S.–Israel relations",
+    "cost imposition",
+    "Eurasian Counter-System",
+    "China–Russia–Iran alignment",
+    "network war",
+    "strategic opacity",
+    "forward basing",
+    "air defense",
+    "alliance management",
+    "regional security",
+    "systemic conflict",
+    "maritime chokepoints",
+    "sanctions adaptation",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Conflict analysis",
+    "Deterrence",
+    "Network warfare",
+    "Alliance politics",
+    "Military strategy",
+    "Maritime security",
+    "Political risk",
+    "Global political economy",
+    "Security studies",
+    "Technology and warfare",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-16",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-16",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-06-16",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-16",
+      "date_type": "Metadata created",
+      "description": "Metadata generated from source PDF using EPINOVA metadata schema"
+    },
+    {
+      "date": "2026-06-16",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration date for the working paper record"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310/The%20War%20That%20Measured%20America%20Why%20Washington%20Entered%20the%20U.S.%E2%80%93Iran%20Conflict%2C%20What%20It%20Revealed%2C%20and%20How%20It%20Accelerated%20a%20Eurasian%20Counter-System.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 25
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Working Paper Series",
+    "series_code": "WP-F",
+    "series_number": "2026-10",
+    "series_description": "F-Series working papers examine AI governance, systemic conflict, and strategic risk through comparative, historical, and diagnostic analysis. The series focuses on how inherited strategic, institutional, and regulatory logics become unstable when transferred into AI-mediated, networked, or high-complexity environments."
+  },
+  "methodology": {
+    "framework_name": "Strategic Exposure Event and Eurasian Counter-System Framework",
+    "source_basis": "Qualitative strategic analysis, scenario-based inference, and system-level interpretation based on prior EPINOVA conflict-monitoring papers, deterrence theory, network-war literature, infrastructure interdependence studies, official U.S. defense and intelligence reports, energy and maritime data, budget and acquisition assessments, and formal media reporting.",
+    "case_context": "The sustained U.S.–Iran conflict cycle involving direct military action, maritime disruption, regional escalation, infrastructure pressure, settlement bargaining, and post-conflict assessment of U.S. power and Eurasian alignment.",
+    "core_problem": "The central analytical problem is why Washington entered a conflict whose political benefits were uncertain and whose structural risks were substantial, and how the conflict revealed U.S. operating limits while accelerating functional China–Russia–Iran coordination.",
+    "central_claims": [
+      "Washington entered the conflict less from a clear theory of victory than from fear of the consequences of inaction.",
+      "The U.S.–Iran conflict functioned as a strategic exposure event for American power.",
+      "Gulf bases shifted from instruments of dominance toward contested liabilities under missile, drone, cyber, and proxy pressure.",
+      "U.S. military overmatch did not automatically translate into settlement control.",
+      "The conflict intensified alliance and partner recalculation across the Gulf, Europe, and the Indo-Pacific.",
+      "Iran improved its strategic position without defeating the United States by surviving, imposing costs, preserving leverage, and demonstrating geographic and network value.",
+      "The war accelerated a modular China–Russia–Iran Eurasian Counter-System that dilutes U.S. coercive leverage without requiring a formal alliance."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Strategic Exposure Event",
+        "description": "Examines how a conflict reveals a major power’s operating limits, cost structure, alliance constraints, political tolerance, and systemic dependencies without necessarily defeating that power."
+      },
+      {
+        "name": "Eurasian Counter-System",
+        "description": "Frames China, Russia, Iran, and adjacent actors as a modular anti-pressure network linking resources, logistics, production, technology, finance, and political narratives."
+      },
+      {
+        "name": "Gulf Base Vulnerability",
+        "description": "Assesses how forward bases shift from symbols of dominance to contested liabilities under missile, drone, cyber, proxy, and information pressure."
+      },
+      {
+        "name": "Cost-Imposition Analysis",
+        "description": "Assesses whether cheaper offensive systems can force expensive defense and gradually make U.S. military advantage more costly to sustain."
+      },
+      {
+        "name": "Settlement-Control Analysis",
+        "description": "Distinguishes battlefield superiority from the ability to define political termination and settlement architecture."
+      },
+      {
+        "name": "Strategic Opacity Analysis",
+        "description": "Examines how conflict reduces uncertainty around a great power’s limits, making adversary pressure strategies easier to design."
+      },
+      {
+        "name": "Cross-Regional Recalculation",
+        "description": "Tracks how a Middle East conflict affects allied and adversary perceptions across Europe, the Gulf, and the Indo-Pacific."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Capability Limits",
+      "code": "SEE-CL",
+      "indicator_type": "Strategic exposure dimension",
+      "description": "Reveals military performance under pressure, base resilience, defensive-system sustainability, and the ability to convert operational success into political outcomes.",
+      "interpretation": "The conflict showed that U.S. strike and defense capabilities remain strong but are not costless or automatically convertible into settlement control."
+    },
+    {
+      "name": "Cost Structure",
+      "code": "SEE-CS",
+      "indicator_type": "Strategic exposure dimension",
+      "description": "Reveals what kinds of adversary behavior impose disproportionate costs on a major power.",
+      "interpretation": "Iran did not need military parity; it needed to make U.S. capabilities expensive to use."
+    },
+    {
+      "name": "Alliance Constraints",
+      "code": "SEE-AC",
+      "indicator_type": "Strategic exposure dimension",
+      "description": "Reveals whether allies share the same objectives, timelines, escalation thresholds, and definitions of success.",
+      "interpretation": "U.S.–Israel alignment remained durable, but operational alignment did not produce strategic identity."
+    },
+    {
+      "name": "Political Tolerance",
+      "code": "SEE-PT",
+      "indicator_type": "Strategic exposure dimension",
+      "description": "Reveals how domestic debates, funding pressure, media narratives, and election incentives shape the sustainability of military commitments.",
+      "interpretation": "The conflict created competing U.S. domestic lessons around retrenchment, escalation, and cost-managed internationalism."
+    },
+    {
+      "name": "Systemic Dependencies",
+      "code": "SEE-SD",
+      "indicator_type": "Strategic exposure dimension",
+      "description": "Reveals the role of logistics, energy routes, maritime chokepoints, satellite support, industrial replenishment, and financial tools in sustaining power.",
+      "interpretation": "Hormuz, missile-defense replenishment, shipbuilding constraints, sanctions adaptation, and Eurasian corridors became visible parts of the conflict system."
+    },
+    {
+      "name": "Resource Layer",
+      "code": "ECS-RL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Links Iran’s energy and geography, Russia’s raw materials and strategic depth, and China’s demand and financing capacity.",
+      "interpretation": "Creates a resource triangle less vulnerable to isolated U.S. pressure than any single actor alone."
+    },
+    {
+      "name": "Production Layer",
+      "code": "ECS-PL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Connects China’s manufacturing ecosystem, Russia’s wartime production adaptation, and Iran’s missile, drone, and asymmetric-warfare production lessons.",
+      "interpretation": "Forms a shared adaptation environment rather than a unified military-industrial bloc."
+    },
+    {
+      "name": "Technology Layer",
+      "code": "ECS-TL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Covers drones, missiles, electronic warfare, air defense, cyber operations, satellite support, AI-enabled targeting, logistics management, and sanctions-resistant industrial substitution.",
+      "interpretation": "Even limited knowledge transfer can improve survivability, redundancy, and cost-imposition capacity."
+    },
+    {
+      "name": "Logistics Layer",
+      "code": "ECS-LL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Includes Russia–Iran connectivity, Central Asian transit, overland trucking, rail routes, Caspian shipping, and partial redundancy beyond the Persian Gulf.",
+      "interpretation": "Partial redundancy can delay thresholds and reduce the effectiveness of maritime coercion."
+    },
+    {
+      "name": "Financial Layer",
+      "code": "ECS-FL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Includes local currency settlement, barter, energy discounts, gray shipping, front companies, non-Western banking channels, and commodity-backed arrangements.",
+      "interpretation": "The goal is not full dollar replacement but pressure survival."
+    },
+    {
+      "name": "Political Narrative Layer",
+      "code": "ECS-PNL",
+      "indicator_type": "Eurasian Counter-System layer",
+      "description": "Links sovereignty language, anti-sanctions framing, opposition to unilateral coercion, and criticism of Western military intervention.",
+      "interpretation": "Provides neutral states a vocabulary for hedging without requiring formal alignment."
+    }
+  ],
+  "framework_sequence": [
+    {
+      "phase": "Phase I",
+      "name": "Conflict Entry Under Credibility Pressure",
+      "description": "Washington enters the conflict because the perceived costs of inaction around deterrence, Israel, Hormuz, and regional credibility become too high."
+    },
+    {
+      "phase": "Phase II",
+      "name": "Operational Exposure",
+      "description": "Forward bases, air-defense costs, strategic bandwidth, alliance divergence, and settlement-control limits become visible under conflict stress."
+    },
+    {
+      "phase": "Phase III",
+      "name": "Objective Compression",
+      "description": "U.S. goals narrow from coercive termination and strategic degradation toward procedural stabilization, damage limitation, and a usable exit framework."
+    },
+    {
+      "phase": "Phase IV",
+      "name": "Strategic Recalculation",
+      "description": "Allies, partners, adversaries, and neutral actors reassess U.S. availability, cost tolerance, and regional management capacity."
+    },
+    {
+      "phase": "Phase V",
+      "name": "Counter-System Acceleration",
+      "description": "China, Russia, Iran, and adjacent actors deepen modular anti-pressure coordination through resources, production, technology, logistics, finance, and narratives."
+    }
+  ],
+  "key_findings": [
+    "Washington entered the conflict less from a clear theory of victory than from fear of inaction.",
+    "The U.S.–Iran conflict functioned as a strategic exposure event that measured U.S. power without defeating it outright.",
+    "The conflict made U.S. base vulnerability, air-defense cost pressure, finite strategic bandwidth, alliance divergence, and settlement-control limits more visible.",
+    "Gulf bases remain useful but increasingly function as contested liabilities rather than effortless instruments of dominance.",
+    "U.S. strike superiority did not guarantee political settlement or maximal bargaining outcomes.",
+    "Iran improved its strategic position by surviving, imposing costs, preserving bargaining space, using Hormuz leverage, and increasing its value as a Eurasian network node.",
+    "The war accelerated a modular Eurasian Counter-System linking China, Russia, Iran, and adjacent actors across resource, production, technology, logistics, finance, and narrative layers.",
+    "The United States retained global reach, naval power, sanctions authority, alliance networks, and technological superiority, but spent strategic ambiguity.",
+    "The lasting consequence is not American defeat but the increased measurability of American limits."
+  ],
+  "forward_predictions": [
+    "U.S. Gulf posture is likely to shift toward survivable access, dispersion, rotational deployments, afloat platforms, and conditional re-entry rather than symbolic permanent concentration.",
+    "Adversaries may increasingly test U.S. cost structures through low-cost missiles, drones, maritime disruption, cyber pressure, and information amplification.",
+    "Gulf states may pursue multi-vector hedging while maintaining U.S. security ties.",
+    "European and Indo-Pacific partners may interpret Middle East crises through the lens of U.S. bandwidth, air-defense availability, and multi-theater reserve capacity.",
+    "China, Russia, and Iran may deepen selective coordination without forming a formal alliance.",
+    "Future U.S. credibility will depend more on resilience, cost control, alliance discipline, and strategic reserve capacity than on visible forward presence alone."
+  ],
+  "strategic_implications": [
+    "Rebuild Gulf posture around survivable access rather than symbolic permanence.",
+    "Treat base defense as a strategic cost problem, not only an engineering challenge.",
+    "Separate ally protection from ally escalation preferences.",
+    "Build multi-theater reserve capacity as a deterrence requirement.",
+    "Counter the Eurasian Counter-System through selective disruption of logistics, dual-use technology flows, sanctions-evasion mechanisms, insurance networks, port access, financial intermediaries, and narrative channels.",
+    "Preserve strategic ambiguity through better information management, coherent messaging, and synchronized military-diplomatic narratives.",
+    "Rebuild U.S. credibility around resilience, cost control, alliance discipline, and sustainable leverage."
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Working Paper Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). The global strategic chain reactions of the U.S.–Iran war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced for cross-regional strategic chain reactions and East Asia as a capability-revealing theater"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Industrial war and network war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced for operational logics in Russia–Ukraine and U.S.–Israel–Iran conflict comparisons"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Bargaining under systemic pressure",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for U.S. objective compression and Iranian leverage institutionalization"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Three conflicts inside one war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for triangular conflict decomposition and U.S.–Israel–Iran track fragmentation"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Israel’s strategic position after the U.S.–Iran MOU",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for Israel’s post-MOU options, constraints, and implementation risks"
+    }
+  ],
+  "references": [
+    "Alberts, D. S., Garstka, J. J., & Stein, F. P. (2000). Network centric warfare: Developing and leveraging information superiority (2nd ed., rev.). Command and Control Research Program, U.S. Department of Defense. https://www.dodccrp.org/files/Alberts_NCW.pdf",
+    "Arquilla, J., & Ronfeldt, D. (Eds.). (2001). Networks and netwars: The future of terror, crime, and militancy. RAND Corporation. https://www.rand.org/pubs/monograph_reports/MR1382.html",
+    "Biddle, S. (2004). Military power: Explaining victory and defeat in modern battle. Princeton University Press. https://press.princeton.edu/books/paperback/9780691128023/military-power",
+    "Brands, H. (2022). The twilight struggle: What the Cold War teaches us about great-power rivalry today. Yale University Press. https://yalebooks.yale.edu/book/9780300268058/the-twilight-struggle/",
+    "Cebrowski, A. K., & Garstka, J. J. (1998). Network-centric warfare: Its origin and future. Proceedings, 124(1), 28–35. https://www.usni.org/magazines/proceedings/1998/january/network-centric-warfare-its-origin-and-future",
+    "Congressional Budget Office. (2024). Long-term implications of the 2025 Future Years Defense Program. https://www.cbo.gov/publication/60665",
+    "Congressional Budget Office. (2025). An analysis of the Navy’s 2025 shipbuilding plan. https://www.cbo.gov/publication/61155",
+    "Congressional Budget Office. (2026). Potential costs of a national missile defense system. https://www.cbo.gov/system/files/2026-05/62379-golden-dome.pdf",
+    "Congressional Research Service. (2024a). Defense primer: Operations in the information environment (IF10771). https://www.everycrsreport.com/files/2024-11-29_IF10771_ce460ed092b161b6ddde2add47dd3ca25a3b479d.html",
+    "Congressional Research Service. (2024b). Iran: Background and U.S. policy (R47321). https://sgp.fas.org/crs/mideast/R47321.pdf",
+    "Congressional Research Service. (2025). Navy force structure and shipbuilding plans: Background and issues for Congress (RL32665). https://www.everycrsreport.com/files/2025-01-31_RL32665_2ce77f6ce199e71515cfecc46da2845e9cdd6705.html",
+    "Defense Intelligence Agency. (2019). Iran military power: Ensuring regime survival and securing regional dominance. https://www.dia.mil/portals/110/images/news/military_powers_publications/iran_military_power_lr.pdf",
+    "Farrell, H., & Newman, A. L. (2019). Of privacy and power: The transatlantic struggle over freedom and security. Princeton University Press. https://press.princeton.edu/books/hardcover/9780691183640/of-privacy-and-power",
+    "Freedman, L. (2017). The future of war: A history. PublicAffairs. https://www.publicaffairsbooks.com/titles/lawrence-freedman/the-future-of-war/9781610393065/",
+    "Government Accountability Office. (2024). Weapon systems annual assessment: DOD is not yet well positioned to field systems with speed (GAO-24-106831). https://www.gao.gov/assets/gao-24-106831.pdf",
+    "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51–59. https://doi.org/10.1038/nature12047",
+    "Hoskins, A., & O’Loughlin, B. (2010). War and media: The emergence of diffused war. Polity Press. https://www.politybooks.com/bookdetail?book_slug=war-and-media--9780745638492",
+    "International Monetary Fund. (2026a). Regional economic outlook: Middle East and Central Asia—War in the Middle East: Economic spillovers and policy challenges. https://www.imf.org/en/publications/reo/meca/issues/2026/04/16/regional-economic-outlook-middle-east-central-asia-april-2026",
+    "International Monetary Fund. (2026b). World economic outlook, April 2026: Global economy in the shadow of war. https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+    "International Monetary Fund. (2026c). World economic outlook, April 2026: Commodity special feature—Market developments and the economics of rare earths. https://www.imf.org/-/media/files/publications/weo/2026/april/english/commodityspecialfeature.pdf",
+    "Jervis, R. (1976). Perception and misperception in international politics. Princeton University Press. https://press.princeton.edu/books/paperback/9780691175850/perception-and-misperception-in-international-politics",
+    "Joint Chiefs of Staff. (2022). National military strategy. https://www.jcs.mil/Portals/36/NMS%202022%20_%20Signed.pdf",
+    "Kahn, H. (1965). On escalation: Metaphors and scenarios. Praeger. https://archive.org/details/onescalationmeta0000kahn",
+    "Lucas, S., & Wilson, K. (2024). Enduring threats and enduring presence: Integrated air and missile defense in the CENTCOM AOR. Military Review. https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-2024/Enduring-Threats-and-Enduring-Presence/",
+    "Office of the Director of National Intelligence. (2025, March 25). Annual threat assessment of the U.S. intelligence community. https://www.dni.gov/files/ODNI/documents/assessments/ATA-2025-Unclassified-Report.pdf",
+    "Office of the Director of National Intelligence. (2026, March 18). Annual threat assessment of the U.S. intelligence community. https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf",
+    "Posen, B. R. (1984). The sources of military doctrine: France, Britain, and Germany between the world wars. Cornell University Press. https://www.cornellpress.cornell.edu/book/9780801416330/the-sources-of-military-doctrine/",
+    "Reuters. (2025, March 25). China presents top military, cyber threat to United States, U.S. report says. https://www.reuters.com/world/china-presents-top-military-cyber-threat-united-states-us-report-says-2025-03-25/",
+    "Reuters. (2026a, June 16). Strait of Hormuz transit will take “weeks” to resume, largest tanker operator tells FT. https://www.reuters.com/world/middle-east/strait-hormuz-transit-will-take-weeks-resume-largest-tanker-operator-tells-ft-2026-06-16/",
+    "Reuters. (2026b, June 16). Oil settles at three-month low after Trump says deal signed on U.S.–Iran peace deal. https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
+    "Reuters. (2026c, June 11). World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets. https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
+    "Reuters. (2026d, June 15). IMF chief says no global economic slowdown in sight, but risks are high. https://www.reuters.com/world/china/imf-chief-says-no-global-slowdown-sight-yet-risks-are-high-2026-06-15/",
+    "Rinaldi, S. M., Peerenboom, J. P., & Kelly, T. K. (2001). Identifying, understanding, and analyzing critical infrastructure interdependencies. IEEE Control Systems Magazine, 21(6), 11–25. https://doi.org/10.1109/37.969131",
+    "Schelling, T. C. (1966). Arms and influence. Yale University Press. https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/",
+    "Stone, M. (2024, April 15). Lockheed wins U.S. missile defense contract worth $17 billion. Reuters. https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-missile-defense-contract-worth-17-bln-sources-say-2024-04-15/",
+    "Stone, M. (2026, May 12). U.S. budget watchdog estimates Golden Dome will cost $1.2 trillion, dwarfing Pentagon’s $185 billion estimate. Reuters. https://www.reuters.com/business/aerospace-defense/us-budget-watchdog-estimates-golden-dome-will-cost-12-trillion-well-above-2026-05-12/",
+    "UNCTAD. (2024a). Review of maritime transport 2024. https://unctad.org/system/files/official-document/rmt2024_en.pdf",
+    "UNCTAD. (2024b). Review of maritime transport 2024: Overview. https://unctad.org/system/files/official-document/rmt2024overview_en.pdf",
+    "U.S. Central Command. (2025). Posture statement of General Michael “Erik” Kurilla. https://www.centcom.mil/ABOUT-US/POSTURE-STATEMENT/",
+    "U.S. Department of Defense. (2022). 2022 National Defense Strategy of the United States of America, including the 2022 Nuclear Posture Review and the 2022 Missile Defense Review. https://media.defense.gov/2022/Oct/27/2003103845/-1/-1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF",
+    "U.S. Department of Defense. (2024). Military and security developments involving the People’s Republic of China 2024. https://media.defense.gov/2024/dec/18/2003615520/-1/-1/0/military-and-security-developments-involving-the-peoples-republic-of-china-2024.pdf",
+    "U.S. Department of Defense, Office of the Under Secretary of Defense (Comptroller). (2024). Defense budget overview: Fiscal year 2025 budget request. https://comptroller.defense.gov/Budget-Materials/Budget2025/",
+    "U.S. Energy Information Administration. (n.d.). World oil transit chokepoints. Retrieved June 16, 2026, from https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints",
+    "U.S. Navy. (2026). Report to Congress on the annual long-range plan for construction of naval vessels. https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF",
+    "Warden, J. A. (1995). The enemy as a system. Airpower Journal, 9(1), 40–55. https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Volume-09_Issue-1-Se/1995_Vol9_No1.pdf",
+    "World Bank. (2025). Commodity markets outlook, October 2025. https://openknowledge.worldbank.org/entities/publication/d08d3ee8-e38a-4f02-8ade-95b9c6075c0b",
+    "World Bank. (2026a). Commodity markets outlook, April 2026. https://openknowledge.worldbank.org/entities/publication/3ede6f8c-ba03-4176-867c-40e604698570",
+    "Wu, S. (2026a). The global strategic chain reactions of the U.S.–Iran war: East Asia as the next plausible capability-revealing theater (EPINOVA Working Paper No. EPINOVA–WP–F–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18893892",
+    "Wu, S. (2026b). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026c). Deterrence under cost pressure: From overmatch to cost imposition in the U.S.–Iran conflict (Policy Brief No. EPINOVA–2026–PB–16). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19210002",
+    "Wu, S. (2026d). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+    "Wu, S. (2026e). Divergent war aims: The U.S., Israel, and the strategic logic of divergence in the Iran conflict (Policy Brief No. EPINOVA–2026–PB–17). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19223653",
+    "Wu, S. (2026f). Three conflicts inside one war: The fragmentation of the U.S.–Israel–Iran conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks (Policy Brief No. EPINOVA–2026–PB–56). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056",
+    "Wu, S. (2026g). The first ten days of Phase II in the U.S.–Israel–Iran conflict: From war termination to systemic realignment (Policy Brief No. EPINOVA–2026–PB–55). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.055",
+    "Wu, S. (2026h). From regional power to network node: Iran’s post-war trajectory and strategic positioning (Policy Brief No. EPINOVA–2026–PB–23). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19420591",
+    "Wu, S. (2026i). From selective restriction to universal blockade: Legal contestation and third-party naval intervention in the Strait of Hormuz (Policy Brief No. EPINOVA–2026–PB–32). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19568379",
+    "Wu, S. (2026j). Israel’s strategic position after the U.S.–Iran MOU: Options, constraints, and implementation risks (Policy Brief No. EPINOVA–2026–PB–57). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.057",
+    "Wu, S. (2026k). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+    "Wu, S. (2026l). What cannot be recovered cannot be leveraged: Debris, evidence, and power in the Iran battlefield (Policy Brief No. EPINOVA–2026–PB–24). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19432715",
+    "Wu, S. (2026m). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026n). Russia–Iran northern supply capacity: A three-channel assessment of sustained throughput under constraint (Policy Brief No. EPINOVA–2026–PB–27). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666"
+  ],
+  "recommended_citation": "Wu, S. (2026). The War That Measured America: Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System (EPINOVA Working Paper No. EPINOVA–WP–F–2026–10). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.010",
+  "citation_apa": "Wu, S. (2026). The war that measured America: Why Washington entered the U.S.–Iran conflict, what it revealed, and how it accelerated a Eurasian counter-system (EPINOVA Working Paper No. EPINOVA-WP-F-2026-010). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.010.",
+  "short_citation": "Wu (2026), The War That Measured America, EPINOVA-WP-F-2026-010, 10.67037/epinova.wp.f.2026.010.",
+  "imprint": {
+    "title": "EPINOVA Working Paper Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-16",
+    "pagination": "25 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated, networked, and system-level conditions. It does not constitute legal advice, predictive assessment, or an official position of EPINOVA LLC or any affiliated institution. Any policy implications discussed are analytical in nature and should not be interpreted as institutional recommendations.",
+  "metadata_source": {
+    "source_file": "The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, PDF references extraction, author-supplied Crossref registration status, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-16",
+    "last_updated": "2026-06-16",
+    "notes": "PDF supplied publication number, title, subtitle, author, ORCID, affiliation, date, abstract, keywords, key judgments, executive summary, methodological note, conceptual framework, policy implications, limitations, conclusion, references, recommended citation, and disclaimer where available. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. The references section appears in the PDF on pages 22–25 and is preserved in the references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-16T17:07:29-04:00",
+    "modification_date": "2026-06-16T17:07:29-04:00",
+    "pages": 25
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.f.2026.010",
+    "doi_url": "https://doi.org/10.67037/epinova.wp.f.2026.010",
+    "deposit_ready": true,
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-06-16",
+    "deposit_xml_file": "",
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA publication landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-wp-f-2026-010/",
+    "crossref_doi_suffix": "epinova.wp.f.2026.010",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.f.2026.010",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.f.2026.010",
+    "registered_url": "https://publications.epinova.org/epinova-wp-f-2026-010/",
+    "registration_date": "2026-06-16",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

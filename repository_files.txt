@@ -1,11 +1,7 @@
-Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
-Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
-Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
-Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
-docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
-docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
-docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
-docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
+Working Paper/F/2026/PINOVA–WP–F–2026–10/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
+Working Paper/F/2026/PINOVA–WP–F–2026–10/metadata.json
+docs/epinova-wp-f-2026-010/index.html
+docs/files/epinova-wp-f-2026-010/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -583,6 +579,10 @@ Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsid
 Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
 Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
 Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
 Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
@@ -1340,6 +1340,10 @@ docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-sett
 docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
 docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
 docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
 docs/articles/archive/articles_archive_index.json
 docs/articles/archive/articles_failed_index.json
 docs/articles/index.html

@@ -225,6 +225,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-F — Conflict, Escalation, and Networked Warfare
 
+- **EPINOVA-WP-F-2026-010** (2026-06-16)  
+  **The War That Measured America: Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.f.2026.010](https://doi.org/10.67037/epinova.wp.f.2026.010)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–10/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310)  
+  Source PDF: [`The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310/The%20War%20That%20Measured%20America%20Why%20Washington%20Entered%20the%20U.S.%E2%80%93Iran%20Conflict%2C%20What%20It%20Revealed%2C%20and%20How%20It%20Accelerated%20a%20Eurasian%20Counter-System.pdf)
+
 - **EPINOVA-WP-F-2026-009** (2026-03-20)  
   **A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict**  
   Publication page: [https://doi.org/10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
@@ -238,13 +245,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Temporary archival DOI: [10.5281/zenodo.19118195](https://doi.org/10.5281/zenodo.19118195)  
   Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–08/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308)  
   Source PDF: [`Who Loses Control First.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9308/Who%20Loses%20Control%20First.pdf)
-
-- **EPINOVA-WP-F-2026-007** (2026-03-17)  
-  **Systemic Warfare in the Networked Age: Operational Systems, Information Competition, and Cumulative Pressure**  
-  Publication page: [https://doi.org/10.5281/zenodo.19078936](https://doi.org/10.5281/zenodo.19078936)  
-  Temporary archival DOI: [10.5281/zenodo.19078936](https://doi.org/10.5281/zenodo.19078936)  
-  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–07/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307)  
-  Source PDF: [`Systemic Warfare in the Networked Age.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9307/Systemic%20Warfare%20in%20the%20Networked%20Age.pdf)
 
 #### WP-D — Data Centers, Infrastructure, and Local Governance
 
