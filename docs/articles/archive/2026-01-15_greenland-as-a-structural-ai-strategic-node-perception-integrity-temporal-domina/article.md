@@ -14,7 +14,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 January 15, 2026|Global AI Governance & Policy
 
-![](assets/image-001.jpg)
+![](https://img1.wsimg.com/isteam/stock/125000/:/rs=w:1280)
 
 #### **Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power**
 
@@ -227,7 +227,7 @@ When co-located, these functions create a **systemic choke point**. Disruption o
 
 ## **3.3 Conceptual Positioning within an AI-Strategic Node Index (AI-SNI)**
 
-![](assets/image-002.jpg)
+![](assets/image-001.jpg)
 
 The AI-SNI reference here is introduced solely as a conceptual mapping device rather than as a precursor to formal measurement. The AI-SNI framework is invoked here solely as an analytical vocabulary for structural positioning, not as an operational or comparative ranking instrument.
 

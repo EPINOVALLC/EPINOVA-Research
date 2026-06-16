@@ -61,11 +61,11 @@ The CDF model adopts “Cost per Effective Hour of Presence” as the core yards
 
 **b) Effective presence hours:**
 
-![](//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/CodeCogsEqn%20\(2\).png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![](assets/image-002.png)
 
 **c) Cost per effective hour of presence:**
 
-![](assets/image-002.png)
+![](assets/image-003.png)
 
   
 
@@ -74,19 +74,19 @@ The CDF model adopts “Cost per Effective Hour of Presence” as the core yards
 
 **a) On-station time decomposition:**
 
-![](assets/image-003.png)
+![](assets/image-004.png)
 
 **c) Cost calculations:**
-
-![](assets/image-004.png)
 
 ![](assets/image-005.png)
 
 ![](assets/image-006.png)
 
+![](assets/image-007.png)
+
 **d) Effective presence hours (with weights):**
 
-![](//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/CodeCogsEqn%20\(9\).png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![](assets/image-008.png)
 
   
 
@@ -96,7 +96,7 @@ The CDF model adopts “Cost per Effective Hour of Presence” as the core yards
 
 **e) Cost per effective hour (mixed):**
 
-![](assets/image-007.png)
+![](assets/image-009.png)
 
   
 
@@ -111,11 +111,11 @@ The CDF model adopts “Cost per Effective Hour of Presence” as the core yards
 
 **a) Risk expectation:**
 
-![](//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/CodeCogsEqn%20\(11\).png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![](assets/image-010.png)
 
 **b) Presence weight:**
 
-![](assets/image-008.png)
+![](assets/image-011.png)
 
   
 
@@ -124,7 +124,7 @@ The CDF model adopts “Cost per Effective Hour of Presence” as the core yards
 
 Use the ratio of “cost per effective hour” as the sole benchmark:
 
-![](assets/image-009.png)
+![](assets/image-012.png)
 
 If R_eff > λ, the deploying party B exceeds the policy-defined sustainability threshold λ, implying that its long-term presence will face systemic fiscal, reputational, or institutional constraints. Typical aggregate settings may use values such as λ=3.
 
@@ -138,15 +138,15 @@ If R_eff > λ, the deploying party B exceeds the policy-defined sustainability t
 
 If the goal is cost parity between the mixed deployment and the manned-only baseline,
 
-![](//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/CodeCogsEqn%20\(14\).png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![](assets/image-013.png)
 
 the closed-form solution for the unmanned share u is:
 
-![](assets/image-010.png)
+![](assets/image-014.png)
 
 When w_u = w_m (i.e., identical presence weights), this simplifies to:
 
-![](assets/image-011.png)
+![](assets/image-015.png)
 
   
 

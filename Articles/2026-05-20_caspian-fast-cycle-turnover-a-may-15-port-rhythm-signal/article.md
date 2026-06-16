@@ -14,7 +14,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 May 20, 2026|Global AI Governance & Policy
 
-![Caspian Sea, Arrival–Departure Balance, Iran, Russia](//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-05-20%20100002.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![Caspian Sea, Arrival–Departure Balance, Iran, Russia](assets/image-001.png)
 
 **Author:** Dr. Shaoyuan Wu
 
@@ -53,7 +53,7 @@ The May 15–20 data suggest that the Caspian system may be developing precisely
 
 The May 15–16 period shows a sharp increase in Caspian port activity. However, the most important feature is not the height of the spike. It is the alignment between departures and arrivals.
 
-![](assets/image-001.jpg)
+![](assets/image-002.jpg)
 
 The data show three features. First, the surge begins in the evening of May 14 and intensifies through May 15. Second, departures and arrivals remain unusually close throughout the high-value phase. Third, after the peak, the system does not immediately return to a one-sided clearance pattern. It moves into a lower but still relatively balanced rhythm.
 

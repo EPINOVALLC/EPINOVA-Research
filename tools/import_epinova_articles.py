@@ -53,6 +53,8 @@ CREATOR = {
 
 ARTICLE_CATALOG = [
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-16", "The Political Trap Inside the U.S.–Iran MOU"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
     ("2026-06-15", "Israel’s Dilemma: From Battlefield Center to Settlement Outsider"),
     # Latest manually confirmed article. Sitemap auto-discovery should also find it.
     ("2026-06-13", "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East"),
@@ -137,6 +139,10 @@ ARTICLE_CATALOG = [
 ]
 
 MANUAL_URL_OVERRIDES = {
+    # Latest manually confirmed article.
+    "The Political Trap Inside the U.S.–Iran MOU":
+        "https://epinova.org/articles/f/the-political-trap-inside-the-us%E2%80%93iran-mou",
+
     # Latest manually confirmed article.
     "Israel’s Dilemma: From Battlefield Center to Settlement Outsider":
         "https://epinova.org/articles/f/israel%E2%80%99s-dilemma-from-battlefield-center-to-settlement-outsider",

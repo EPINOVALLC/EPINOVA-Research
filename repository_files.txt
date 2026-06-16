@@ -1,19 +1,11 @@
-Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.jpg
-Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.html
-Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.md
-Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
-Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
-Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
-Policy Brief/2026/EPINOVA–2026–PB-57/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
-Policy Brief/2026/EPINOVA–2026–PB-57/metadata.json
-docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.jpg
-docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.html
-docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.md
-docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
-docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
-docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
-docs/epinova-pb-2026-057/index.html
-docs/files/epinova-pb-2026-057/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.html
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.md
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -567,6 +559,7 @@ Articles/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control-threshold/me
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.html
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.md
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.txt
+Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.jpg
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.png
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-002.jpg
 Articles/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/metadata.json
@@ -585,6 +578,11 @@ Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-
 Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.txt
 Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/assets/image-001.jpg
 Articles/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/metadata.json
+Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.html
+Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.md
+Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
+Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
+Articles/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
 Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
@@ -711,6 +709,8 @@ Policy Brief/2026/EPINOVA–2026–PB-55/The First Ten Days of Phase II in the U
 Policy Brief/2026/EPINOVA–2026–PB-55/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-56/Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf
 Policy Brief/2026/EPINOVA–2026–PB-56/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-57/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
+Policy Brief/2026/EPINOVA–2026–PB-57/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1316,6 +1316,7 @@ docs/articles/archive/2026-04-21_mccm-v23plus-escalation-and-the-loss-of-control
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.html
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.md
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/article.txt
+docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.jpg
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-001.png
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/assets/image-002.jpg
 docs/articles/archive/2026-05-20_caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal/metadata.json
@@ -1334,6 +1335,11 @@ docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels
 docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/article.txt
 docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/assets/image-001.jpg
 docs/articles/archive/2026-06-13_will-the-war-really-end-the-us-iran-mou-israels-shadow-role-and-the-next-struggl/metadata.json
+docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.html
+docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.md
+docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/article.txt
+docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/assets/image-001.jpg
+docs/articles/archive/2026-06-15_israels-dilemma-from-battlefield-center-to-settlement-outsider/metadata.json
 docs/articles/archive/articles_archive_index.json
 docs/articles/archive/articles_failed_index.json
 docs/articles/index.html
@@ -1404,6 +1410,7 @@ docs/epinova-pb-2026-053/index.html
 docs/epinova-pb-2026-054/index.html
 docs/epinova-pb-2026-055/index.html
 docs/epinova-pb-2026-056/index.html
+docs/epinova-pb-2026-057/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1518,6 +1525,7 @@ docs/files/epinova-pb-2026-053/From War Powers to Loyalty Politics Trump’s Ira
 docs/files/epinova-pb-2026-054/External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf
 docs/files/epinova-pb-2026-055/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
 docs/files/epinova-pb-2026-056/Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf
+docs/files/epinova-pb-2026-057/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

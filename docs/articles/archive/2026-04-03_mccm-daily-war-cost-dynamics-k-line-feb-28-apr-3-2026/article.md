@@ -1,6 +1,6 @@
 # MCCM Daily War Cost Dynamics (K-Line): Feb 28–Apr 3, 2026
 
-Original URL: https://epinova.org/f/mccm-daily-war-cost-dynamics-k-line-feb-28%E2%80%93apr-3-2026
+Original URL: https://epinova.org/articles/f/mccm-daily-war-cost-dynamics-k-line-feb-28%E2%80%93apr-3-2026
 
 Publication date: 2026-04-03
 
@@ -8,7 +8,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 ---
 
-[All Posts](<https://epinova.org/?blog=y>)
+[All Posts](<https://epinova.org/articles?blog=y>)
 
 ### MCCM Daily War Cost Dynamics (K-Line): Feb 28–Apr 3, 2026
 
