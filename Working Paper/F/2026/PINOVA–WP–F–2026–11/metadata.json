@@ -1,0 +1,499 @@
+{
+  "epinova_id": "EPINOVA-WP-F-2026-011",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper Series",
+  "series_code": "WP-F",
+  "series_number": "2026-11",
+  "series_subcategory": "F-Series",
+  "title": "From Wartime Leverage to Post-MOU State Capacity",
+  "subtitle": "Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing",
+  "title_normalized": "from wartime leverage to post-mou state capacity",
+  "short_title": "From Wartime Leverage to Post-MOU State Capacity",
+  "publication_date": "2026-06-18",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_short": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.wp.f.2026.011",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-wp-f-2026-011/",
+  "official_page": "https://epinova.org/working-papers",
+  "alternate_identifiers": [
+    {
+      "identifier": "10.67037/epinova.wp.f.2026.011",
+      "scheme": "DOI",
+      "description": "Crossref DOI registered for this working paper"
+    },
+    {
+      "identifier": "https://doi.org/10.67037/epinova.wp.f.2026.011",
+      "scheme": "URL",
+      "description": "DOI resolution URL"
+    },
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA-WP-F-2026-011",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number printed in the PDF"
+    },
+    {
+      "identifier": "From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Post-MOU State Capacity",
+      "scheme": "Analytical concept",
+      "description": "Core concept used to assess whether wartime leverage can be converted into durable governance capacity"
+    },
+    {
+      "identifier": "Eastern-Leaning Non-Alignment",
+      "scheme": "Analytical concept",
+      "description": "Core external-orientation concept used to describe Iran’s likely post-MOU strategic posture"
+    },
+    {
+      "identifier": "Strategic Network Rebalancing",
+      "scheme": "Analytical concept",
+      "description": "Framework for analyzing Iran’s management of China, Russia, Gulf states, proxies, Western-linked systems, and northern corridors after the MOU"
+    }
+  ],
+  "description": "This working paper examines whether Iran can convert wartime leverage into durable post-MOU state capacity. It argues that Iran’s central challenge is not claiming strategic survival, but governing the leverage accumulated during conflict across reconstruction financing, institutional recovery, sanctions sequencing, Hormuz governance, proxy discipline, and internal-security stabilization. The paper frames Iran’s likely post-MOU orientation as Eastern-leaning non-alignment: deeper reliance on China, Russia, and Eurasian corridors for strategic depth, combined with selective engagement with Western-linked systems where recovery requires it.",
+  "abstract": "This working paper examines whether Iran can convert wartime leverage into durable post-MOU state capacity. The reported U.S.–Iran MOU may reduce direct escalation, but it does not resolve the wider conflict system linking U.S.–Iran bargaining, Iran–Israel deterrence, U.S.–Israel alliance management, sanctions sequencing, Hormuz governance, and proxy discipline. The paper argues that Iran’s central post-MOU challenge is not claiming strategic survival, but governing the leverage accumulated during conflict. Reconstruction financing, the reported $300 billion recovery requirement, and approximately $24–25 billion in frozen or restricted assets create not only funding questions, but also problems of liquidity, inflation control, institutional control, convertibility, and political distribution. The paper develops a systems-based framework organized around five interacting pressures: material recovery, institutional recovery, bargaining institutionalization, strategic network management, and internal-security stabilization. It finds that Iran’s likely post-MOU orientation is best understood as Eastern-leaning non-alignment: deeper reliance on China, Russia, and Eurasian corridors for strategic depth, combined with selective engagement with Western-linked systems where sanctions relief, insurance, technology access, and oil-market normalization require it. The principal risk is not immediate collapse or uncontested rise, but nonlinear governance stress in which reconstruction, sanctions sequencing, Hormuz management, proxy discipline, political narrative, and counter-infiltration pressures interact faster than Iran’s institutions can absorb.",
+  "keywords": [
+    "Iran",
+    "U.S.–Iran MOU",
+    "post-conflict reconstruction",
+    "state capacity",
+    "Strait of Hormuz",
+    "sanctions relief",
+    "IRGC",
+    "proxy networks",
+    "China",
+    "Russia",
+    "Eastern-leaning non-alignment",
+    "networked conflict",
+    "strategic leverage",
+    "post-MOU governance",
+    "institutional recovery",
+    "reconstruction financing",
+    "frozen assets",
+    "Hormuz governance",
+    "proxy discipline",
+    "internal security",
+    "counter-infiltration",
+    "strategic network rebalancing",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Iran",
+    "Conflict analysis",
+    "Post-conflict reconstruction",
+    "State capacity",
+    "Sanctions",
+    "Maritime security",
+    "Proxy warfare",
+    "Political economy",
+    "Institutional governance",
+    "Security studies",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-18",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-18",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-06-18",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-18",
+      "date_type": "Metadata created",
+      "description": "Metadata generated from source PDF using EPINOVA metadata schema"
+    },
+    {
+      "date": "2026-06-18",
+      "date_type": "Registered",
+      "description": "Crossref DOI registration date for the working paper record"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9311/From%20Wartime%20Leverage%20to%20Post-MOU%20State%20Capacity%20Iran%E2%80%99s%20Reconstruction%2C%20Institutional%20Recovery%2C%20and%20Strategic%20Network%20Rebalancing.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 16
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/EPINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9311",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Working Paper Series",
+    "series_code": "WP-F",
+    "series_number": "2026-11",
+    "series_description": "F-Series working papers examine systemic conflict, strategic risk, governance breakdown, and institutional adaptation under networked or high-complexity conditions. The series includes studies of AI governance, geopolitical conflict systems, and complex strategic transitions."
+  },
+  "methodology": {
+    "framework_name": "Post-MOU State Capacity and Strategic Network Rebalancing Framework",
+    "source_basis": "Systems-based policy analysis using public reporting, scenario-based interpretation, prior EPINOVA conceptual work, and institutional analysis of reconstruction financing, sanctions sequencing, Hormuz governance, proxy discipline, and internal-security stabilization.",
+    "case_context": "Iran’s post-MOU trajectory after the reported U.S.–Iran de-escalation framework, including reconstruction, institutional recovery, strategic network management, and domestic stabilization pressures.",
+    "core_problem": "The central analytical problem is whether Iran can convert wartime leverage into durable post-MOU state capacity without triggering fragmented recovery, elite competition, renewed escalation, or nonlinear governance stress.",
+    "central_claims": [
+      "Iran’s central post-MOU challenge is not claiming strategic survival, but converting wartime leverage into durable state capacity.",
+      "The reported U.S.–Iran MOU should be treated as an interim and politically contested framework, not a final settlement.",
+      "Reconstruction is a governance and macroeconomic-stability problem, not only a funding problem.",
+      "The reported $300 billion recovery requirement and approximately $24–25 billion in frozen or restricted assets raise questions of liquidity, sequencing, inflation control, convertibility, and institutional control.",
+      "Wartime authority will be difficult to reabsorb into regular state administration.",
+      "Iran’s likely post-MOU orientation is Eastern-leaning non-alignment, combining deeper reliance on China, Russia, and Eurasian corridors with selective use of Western-linked systems where recovery requires it.",
+      "The main risk is nonlinear governance stress rather than immediate collapse or uncontested rise."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Material Recovery Pressure",
+        "description": "Examines reconstruction, financing, energy restoration, infrastructure repair, inflation control, liquidity management, and public compensation."
+      },
+      {
+        "name": "Institutional Recovery Pressure",
+        "description": "Assesses the reintegration of wartime authorities into regular state structures and the distribution of authority among civilian government, IRGC, and religious institutions."
+      },
+      {
+        "name": "Bargaining Institutionalization",
+        "description": "Analyzes sanctions sequencing, Hormuz governance, nuclear rights, oil-export access, frozen assets, reconstruction channels, and security guarantees as leverage becomes formalized."
+      },
+      {
+        "name": "Strategic Network Rebalancing",
+        "description": "Frames Iran’s management of proxies, Gulf states, China, Russia, Western-linked systems, and northern logistics corridors after the MOU."
+      },
+      {
+        "name": "Internal-Security Stabilization",
+        "description": "Examines counter-infiltration, social stability, legitimacy, information control, digital governance, and post-MOU political narrative."
+      },
+      {
+        "name": "Eastern-Leaning Non-Alignment",
+        "description": "Identifies a likely Iranian posture that relies on China, Russia, and Eurasian routes for depth while retaining selective engagement with Western-linked systems."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Material Recovery",
+      "code": "MR",
+      "indicator_type": "Post-MOU pressure dimension",
+      "description": "Reconstruction, financing, energy restoration, infrastructure repair, inflation control, liquidity management, and public compensation.",
+      "interpretation": "The $300 billion reported recovery need and $24–25 billion asset-release bridge create a sequencing and governance problem rather than a simple funding question."
+    },
+    {
+      "name": "Institutional Recovery",
+      "code": "IR",
+      "indicator_type": "Post-MOU pressure dimension",
+      "description": "Reintegration of wartime authorities into regular state structures and management of the government, IRGC, and religious institutions.",
+      "interpretation": "Wartime delegation may improve responsiveness but complicate peacetime normalization and victory ownership."
+    },
+    {
+      "name": "External Leverage Institutionalization",
+      "code": "ELI",
+      "indicator_type": "Post-MOU pressure dimension",
+      "description": "Formalization of Hormuz, nuclear sequencing, oil-export access, sanctions relief, frozen assets, reconstruction channels, and security guarantees.",
+      "interpretation": "Leverage that was flexible during war can become constraint once placed in a formal settlement mechanism."
+    },
+    {
+      "name": "Strategic Network Management",
+      "code": "SNM",
+      "indicator_type": "Post-MOU pressure dimension",
+      "description": "Iran’s relations with proxies, Gulf states, China, Russia, Western-linked commercial systems, and northern corridors.",
+      "interpretation": "Iran is likely to pursue Eastern-leaning non-alignment while preserving selective access to Western-linked systems required for recovery."
+    },
+    {
+      "name": "Internal-Security Stabilization",
+      "code": "ISS",
+      "indicator_type": "Post-MOU pressure dimension",
+      "description": "Counter-infiltration, social stability, legitimacy, information control, digital governance, and public delivery after war.",
+      "interpretation": "Excessive securitization may protect the state but weaken recovery confidence; excessive opening may support recovery but increase perceived vulnerability."
+    },
+    {
+      "name": "Proxy Governance",
+      "code": "PG",
+      "indicator_type": "Regional network-management dimension",
+      "description": "Discipline, resupply, visibility reduction, and escalation control for Iran-aligned actors in Lebanon, Iraq, Yemen, and Syria.",
+      "interpretation": "Iran must preserve deterrence depth while preventing uncontrolled proxy activity from undermining the MOU."
+    },
+    {
+      "name": "Hormuz Governance",
+      "code": "HG",
+      "indicator_type": "Maritime leverage dimension",
+      "description": "Management of the Strait of Hormuz after the MOU, including transit continuity, insurance normalization, monitoring, and dispute resolution.",
+      "interpretation": "Iran may gain procedural recognition but lose flexibility to use unilateral maritime pressure without appearing non-compliant."
+    }
+  ],
+  "framework_sequence": [
+    {
+      "phase": "Phase I",
+      "name": "Wartime Leverage Accumulation",
+      "description": "Iran accumulates bargaining leverage through endurance, disruption, maritime pressure, nuclear ambiguity, proxy depth, and strategic survival."
+    },
+    {
+      "phase": "Phase II",
+      "name": "Provisional MOU Formation",
+      "description": "The reported U.S.–Iran MOU reduces direct escalation but leaves nuclear sequencing, sanctions relief, Hormuz governance, proxy discipline, and Israeli concerns unresolved."
+    },
+    {
+      "phase": "Phase III",
+      "name": "Reconstruction and Liquidity Sequencing",
+      "description": "Iran must use released assets, oil-export access, sanctions relief, and reconstruction channels without triggering inflation, elite capture, or fragmented recovery."
+    },
+    {
+      "phase": "Phase IV",
+      "name": "Institutional Reabsorption",
+      "description": "Wartime authorities must be reintegrated into regular state administration while balancing civilian government, IRGC, and religious institutions."
+    },
+    {
+      "phase": "Phase V",
+      "name": "Strategic Network Rebalancing",
+      "description": "Iran balances China, Russia, Gulf states, proxies, Western-linked systems, and northern corridors through an Eastern-leaning non-alignment posture."
+    },
+    {
+      "phase": "Phase VI",
+      "name": "Governance Stress or Consolidation",
+      "description": "The post-MOU phase produces either institutional consolidation, fragmented recovery, renewed escalation, or nonlinear governance stress depending on sequencing capacity."
+    }
+  ],
+  "key_findings": [
+    "Iran’s post-MOU challenge is strategic conversion rather than reconstruction alone.",
+    "The reported U.S.–Iran MOU is an interim de-escalation framework rather than a final settlement.",
+    "Iran must convert wartime endurance into economic recovery, military resilience into institutional control, maritime leverage into governed access, proxy depth into disciplined deterrence, and counter-infiltration into state security.",
+    "The $24–25 billion reported asset-release bridge may support immediate liquidity but cannot by itself solve the broader $300 billion reported recovery requirement.",
+    "Reconstruction financing may become inflationary, factionalized, or externally dependent if institutional control and sequencing fail.",
+    "Wartime political authority may be difficult to reabsorb, especially where security institutions gained operational control over logistics, ports, energy, borders, communications, procurement, and internal security.",
+    "Iran’s likely external posture is Eastern-leaning non-alignment, not full Western normalization or full subordination to an Eastern bloc.",
+    "The principal risk is nonlinear governance stress in which reconstruction, inflation control, sanctions sequencing, Hormuz management, proxy discipline, political narrative, and counter-infiltration interact faster than institutions can absorb."
+  ],
+  "forward_predictions": [
+    "Iran is likely to frame the MOU as a victory of endurance rather than as a concession.",
+    "Reconstruction funds may reinforce security-linked and parastatal networks unless transparency and civilian administrative channels are strengthened.",
+    "Iran may rely more deeply on China, Russia, and northern corridors for strategic depth while still needing Western-regulated finance, insurance, technology, and energy-market channels.",
+    "Proxy activity may continue through lower-visibility channels even if direct U.S.–Iran escalation declines.",
+    "Hormuz governance will remain a central test of whether wartime maritime leverage can become managed participation without coercive overreach.",
+    "Domestic legitimacy will shift from resistance legitimacy toward delivery legitimacy as citizens judge inflation, services, compensation, employment, and reconstruction."
+  ],
+  "strategic_implications": [
+    "External actors should treat Iran’s post-MOU trajectory as a governance problem rather than a binary rise-or-collapse scenario.",
+    "Settlement architecture should separate ceasefire management, sanctions relief, maritime governance, nuclear sequencing, and proxy discipline.",
+    "Hormuz arrangements should prioritize transit continuity, insurance normalization, monitoring, and dispute resolution while avoiding both coercive restriction and exclusion of Iran from regional maritime-security procedures.",
+    "Sanctions relief should be phased but materially meaningful, with compliance incentives that improve exports, banking access, reconstruction financing, and insurance conditions.",
+    "Proxy restraint should not be assumed; it requires monitoring, regional channels, and mechanisms that allow Iran to lower operational tempo without appearing to abandon partners.",
+    "Reconstruction transparency matters because opaque security-linked contracting may restore infrastructure while weakening long-term governance confidence.",
+    "Iran’s external orientation should be understood as Eastern-leaning non-alignment, combining strategic depth from China, Russia, and Eurasian routes with selective engagement in Western-regulated systems where recovery requires it."
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Working Paper Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). A systemic theory of escalation and the loss-of-control threshold in networked conflict",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced for systemic escalation, networked conflict, and institutional pressure absorption"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Bargaining under systemic pressure",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for U.S. objective compression and Iranian leverage institutionalization"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Three conflicts inside one war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for U.S.–Iran, Iran–Israel, and U.S.–Israel track fragmentation"
+    }
+  ],
+  "references": [
+    "Asian Development Bank. (n.d.). International North-South Transport Corridor (INSTC). Asia Regional Integration Center. https://aric.adb.org/initiative/international-north-south-transport-corridor",
+    "Center for Strategic and International Studies. (2019, March 11). War by proxy: Iran’s growing footprint in the Middle East. https://www.csis.org/analysis/war-proxy-irans-growing-footprint-middle-east",
+    "Center for Strategic and International Studies. (2026, April 16). Resilience through linkage: Russia, Iran, and aspirations for north-south trade. https://www.csis.org/analysis/resilience-through-linkage-russia-iran-and-aspirations-north-south-trade",
+    "Council on Foreign Relations. (2026, January 30). The Islamic Revolutionary Guard Corps (IRGC). https://www.cfr.org/backgrounders/irans-revolutionary-guards",
+    "Energy Information Administration. (2025, June 16). Amid regional conflict, the Strait of Hormuz remains critical to global oil trade. https://www.eia.gov/todayinenergy/detail.php?id=65504",
+    "Energy Information Administration. (n.d.). World oil transit chokepoints. https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints",
+    "International Atomic Energy Agency. (2026a). IAEA and Iran: IAEA Board reports. https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports",
+    "International Atomic Energy Agency. (2026b, February 27). Implementation of the NPT Safeguards Agreement and relevant provisions of the United Nations Security Council resolutions in the Islamic Republic of Iran (GOV/2026/8). https://www.iaea.org/sites/default/files/gov2026-8.pdf",
+    "International Monetary Fund. (2022, September 8). Determinants of inflation in Iran and policies to curb it. https://www.imf.org/en/publications/wp/issues/2022/09/09/determinants-of-inflation-in-iran-and-policies-to-curb-it-523280",
+    "Middle East Institute. (2018, May 7). IRGC’s role in Iran’s economy growing with its engineering arm set to execute 40 mega projects. https://www.mei.edu/publication/irgcs-role-irans-economy-growing-its-engineering-arm-set-execute-40-mega-projects/",
+    "Opinio Juris. (2026, May 6). The closure of the Strait of Hormuz by Iran: Considerations over the law of the sea and law of naval warfare. https://opiniojuris.org/2026/05/06/the-closure-of-the-strait-of-hormuz-by-iran-considerations-over-the-law-of-the-sea-and-law-of-naval-warfare/",
+    "Reuters. (2026a, May 26). Iran says Washington violated ceasefire after new US strikes. https://www.reuters.com/world/iran-war-live-us-launches-new-strikes-talks-stall-2026-05-26/",
+    "Reuters. (2026b, June 14). US, Iran reach deal to end war, signing set for Friday. https://www.reuters.com/world/asia-pacific/us-iran-reach-peace-deal-signing-set-friday-pakistan-says-2026-06-14/",
+    "Reuters. (2026c, June 17). After war losses, Hezbollah seen gaining from Iran-US deal. https://www.reuters.com/world/asia-pacific/after-war-losses-hezbollah-seen-gaining-iran-us-deal-2026-06-17/",
+    "Reuters. (2026d, June 17). The 14-point US-Iran pact as read by US official. https://www.reuters.com/world/middle-east/14-point-draft-us-iran-deal-2026-06-17/",
+    "Reuters. (2026e, June 18). IMF chief expects oil prices to ease, not plummet, after US-Iran deal. https://www.reuters.com/business/energy/imf-chief-expects-oil-prices-ease-not-plummet-after-us-iran-deal-2026-06-18/",
+    "Reuters. (2026f, June 18). Oil flows through Hormuz will take time to recover, banks say. https://www.reuters.com/business/energy/oil-flows-through-hormuz-will-take-time-recover-banks-say-2026-06-18/",
+    "Sadeghi Jahromi, A., & Jaskolka, J. (2026). A multi-perspective study of the Internet shutdown in Iran. arXiv. https://arxiv.org/abs/2605.00187",
+    "Spruk, R. (2026). Confrontation with the West and long-run economic and institutional outcomes: Evidence from Iran. arXiv. https://arxiv.org/abs/2602.03231",
+    "United Nations. (1982a). United Nations Convention on the Law of the Sea: Part III, Straits used for international navigation. https://www.un.org/depts/los/convention_agreements/texts/unclos/part3.htm",
+    "United Nations. (1982b). United Nations Convention on the Law of the Sea. https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+    "World Bank. (2024). Iran Economic Monitor: Sustaining growth amid rising geopolitical tensions. https://openknowledge.worldbank.org/entities/publication/6790f292-cf7f-4f16-b522-7f35e9d1161f",
+    "Wu, S. (2026a). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+    "Wu, S. (2026b). Russia–Iran northern supply capacity: A three-channel assessment of sustained throughput under constraint (EPINOVA Policy Brief No. EPINOVA–2026–PB–27). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+    "Wu, S. (2026c). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+    "Wu, S. (2026d). External strategic nodes under pressure: Lebanon, Israel, and the break thresholds of strategic dependency (EPINOVA Policy Brief No. EPINOVA–2026–PB–54). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.054",
+    "Wu, S. (2026e). Three conflicts inside one war: The fragmentation of the U.S.–Israel–Iran conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks (EPINOVA Policy Brief No. EPINOVA–2026–PB–56). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056"
+  ],
+  "recommended_citation": "Wu, S. (2026). From Wartime Leverage to Post-MOU State Capacity: Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing (EPINOVA Working Paper No. EPINOVA–WP–F–2026–11). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.011",
+  "citation_apa": "Wu, S. (2026). From wartime leverage to post-MOU state capacity: Iran’s reconstruction, institutional recovery, and strategic network rebalancing (EPINOVA Working Paper No. EPINOVA-WP-F-2026-011). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.011.",
+  "short_citation": "Wu (2026), From Wartime Leverage to Post-MOU State Capacity, EPINOVA-WP-F-2026-011, 10.67037/epinova.wp.f.2026.011.",
+  "imprint": {
+    "title": "EPINOVA Working Paper Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-18",
+    "pagination": "16 pages"
+  },
+  "figures": [],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This working paper presents diagnostic and exploratory analysis intended to examine inherited strategic and governance logics under AI-mediated, networked, and system-level conditions. It does not constitute legal advice, predictive assessment, or an official position of EPINOVA LLC or any affiliated institution. Any policy implications discussed are analytical in nature and should not be interpreted as institutional recommendations.",
+  "metadata_source": {
+    "source_file": "From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, PDF references extraction, author-supplied Crossref registration status, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-18",
+    "last_updated": "2026-06-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, ORCID, affiliation, date, abstract, keywords, summary findings, analytical framework, policy implications, limitations, conclusion, references, recommended citation, and disclaimer where available. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. The references section appears in the PDF on pages 15–16 and is preserved in the references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-18T17:23:55-04:00",
+    "modification_date": "2026-06-18T17:23:55-04:00",
+    "pages": 16
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.f.2026.011",
+    "doi_url": "https://doi.org/10.67037/epinova.wp.f.2026.011",
+    "deposit_ready": true,
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-06-18",
+    "deposit_xml_file": "",
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA publication landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-wp-f-2026-011/",
+    "crossref_doi_suffix": "epinova.wp.f.2026.011",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.f.2026.011",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.f.2026.011",
+    "registered_url": "https://publications.epinova.org/epinova-wp-f-2026-011/",
+    "registration_date": "2026-06-18",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
