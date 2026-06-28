@@ -1,0 +1,448 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-058",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-058",
+  "title": "Beyond Model Capability",
+  "subtitle": "A System-Level Framework for AI Power",
+  "title_normalized": "beyond model capability",
+  "publication_date": "2026-06-25",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.058",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-058/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–58",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Beyond Model Capability A System-Level Framework for AI Power.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Beyond Model Capability",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "AI System Power Index",
+      "scheme": "Analytical concept",
+      "description": "Quantifiable index structure proposed in the policy brief for assessing system-level AI power"
+    },
+    {
+      "identifier": "ASPI",
+      "scheme": "Analytical concept",
+      "description": "Abbreviation for AI System Power Index"
+    },
+    {
+      "identifier": "System-Level Framework for AI Power",
+      "scheme": "Analytical concept",
+      "description": "Core framework developed in the policy brief"
+    }
+  ],
+  "description": "This policy brief argues that AI power cannot be reduced to model capability, benchmark performance, parameter scale, or public adoption. It develops a system-level framework in which real-world AI power depends on six interacting dimensions: model capability, data quality, resource access, authority, real-world interface, and rule space. The brief introduces the AI System Power Index (ASPI) as a conceptual and partially quantifiable structure for assessing how AI systems become consequential once embedded in institutions, infrastructure, markets, public services, or security environments.",
+  "abstract": "AI competition and capability are often assessed through model performance, benchmark rankings, parameter scale, public adoption, or user reach. These indicators are useful, but they capture only the visible layer of AI capability. In this brief, AI power refers to the capacity of an AI system to shape decisions, mobilize resources, influence behavior, or alter real-world outcomes within a specific institutional, operational, and rule environment. This policy brief argues that AI power depends not only on model capability, but also on data quality, resource access, authority, real-world interfaces, and rule space. A public-facing model may be highly capable but operationally constrained, while a narrower system may have greater real-world impact if it is embedded in institutions, infrastructure, financial systems, or exceptional legal, institutional, or operational environments. The central argument is that AI power is not reducible to model intelligence. It is produced by the broader system that determines what the system can know, access, mobilize, do under authorization, and change.",
+  "keywords": [
+    "AI power",
+    "AI System Power Index",
+    "ASPI",
+    "system-level AI power",
+    "model capability",
+    "data quality",
+    "resource access",
+    "authority",
+    "real-world interface",
+    "rule space",
+    "AI governance",
+    "AI competition",
+    "AI policy",
+    "AI benchmarks",
+    "AI measurement",
+    "institutional embedding",
+    "operational AI",
+    "data governance",
+    "resource control",
+    "authorization",
+    "accountability",
+    "public-facing AI",
+    "enterprise AI",
+    "critical infrastructure",
+    "strategic technology",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence",
+    "AI governance",
+    "Technology policy",
+    "Strategic technology",
+    "AI measurement",
+    "AI safety",
+    "Institutional governance",
+    "Public policy",
+    "Digital infrastructure",
+    "Data governance",
+    "Critical infrastructure",
+    "Security studies"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-25",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-27",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-06-25",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-25",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Beyond Model Capability A System-Level Framework for AI Power.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58/Beyond%20Model%20Capability%20A%20System-Level%20Framework%20for%20AI%20Power.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 9
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-058",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "AI System Power Index and System-Level AI Power Framework",
+    "source_basis": "Conceptual policy analysis and framework synthesis based on existing AI measurement and governance literature, including the Stanford AI Index, the Global AI Index, the Government AI Readiness Index, and emerging work on AI power disparity. The brief develops a structural model for assessing AI power through model capability, data quality, resource access, authority, real-world interface, and rule space.",
+    "case_context": "AI systems embedded in public-facing services, enterprise operations, finance, health care, critical infrastructure, defense, government administration, markets, institutional workflows, and rule-governed deployment environments.",
+    "core_problem": "The central analytical problem is that public AI competition is often measured through model rankings, benchmark scores, parameter scale, and adoption, while real-world AI power depends on whether AI systems can know, access, mobilize, act under authorization, interface with operational systems, and operate within permissive or constraining rule spaces.",
+    "central_claims": [
+      "Model capability is necessary but insufficient for measuring real-world AI power.",
+      "AI power is produced by a broader system connecting capability to data, resources, authority, interfaces, and rule conditions.",
+      "Public-facing models may be highly capable but operationally constrained, while narrower embedded systems may have greater real-world influence.",
+      "The AI System Power Index provides a conceptual and partially quantifiable structure for comparing system-level AI power.",
+      "The weighted geometric structure captures interaction effects because strength in one dimension cannot fully compensate for near-zero capability in another.",
+      "AI governance should move from content safety alone toward power governance: governance of access, authority, interfaces, and intervention capacity."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "System-Level AI Power",
+        "description": "Treats AI power as a compound structure generated by capability, data, resources, authority, interfaces, and rule space rather than by model intelligence alone."
+      },
+      {
+        "name": "AI System Power Index",
+        "description": "Provides a partially operationalized index structure using normalized dimensions and weighted geometric aggregation."
+      },
+      {
+        "name": "Institutional Embedding",
+        "description": "Examines how AI becomes consequential when placed inside decision processes, resource allocation systems, infrastructure management, or security operations."
+      },
+      {
+        "name": "Operational Consequence",
+        "description": "Classifies AI systems by their ability to affect resources, services, infrastructure, institutional rights, or real-world system states."
+      },
+      {
+        "name": "Power Governance",
+        "description": "Extends AI governance from public outputs and content safety to access, authorization, interfaces, intervention capacity, auditability, and accountability."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Model Capability",
+      "code": "M",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures reasoning, planning, language processing, multimodal understanding, coding, prediction, simulation, adaptation, and task execution.",
+      "interpretation": "Model capability is the cognitive foundation of AI power, but it is not equivalent to AI power itself."
+    },
+    {
+      "name": "Data Quality",
+      "code": "D",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures the value, rarity, reliability, verification level, domain specificity, and operational relevance of data available to an AI system.",
+      "interpretation": "Trusted, timely, contextual, proprietary, restricted, classified, institutional, or experience-based data can create strategic depth beyond public model rankings."
+    },
+    {
+      "name": "Resource Access",
+      "code": "R",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures access to compute, energy, capital, infrastructure, cloud platforms, sensors, logistics networks, financial systems, robotics, human labor, and physical devices.",
+      "interpretation": "Resource access determines whether AI remains a cognitive tool or becomes an operational actor capable of material consequences."
+    },
+    {
+      "name": "Authority",
+      "code": "A",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures the permission and mandate structure under which an AI system is allowed to act.",
+      "interpretation": "Authority determines whether capability remains constrained, expanded, delegated, or operationalized, and it shapes accountability for outcomes."
+    },
+    {
+      "name": "Real-World Interface",
+      "code": "I",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures APIs, workflows, databases, markets, supply chains, infrastructure, physical devices, public services, legal processes, administrative platforms, and automated operational systems.",
+      "interpretation": "Interfaces convert AI from analysis into intervention by connecting it to systems whose states can be affected."
+    },
+    {
+      "name": "Rule Space",
+      "code": "S",
+      "indicator_type": "AI power dimension",
+      "observed_pattern": "Captures laws, regulations, institutional policies, platform rules, liability regimes, procurement rules, compliance requirements, emergency powers, national security exceptions, and gray-zone operating conditions.",
+      "interpretation": "Rule space defines how AI power is permitted, limited, expanded, normalized, or released."
+    }
+  ],
+  "key_findings": [
+    "Model capability is necessary but insufficient because benchmarks, parameter scale, and public adoption measure visible performance but not real-world AI power.",
+    "Data quality is a core source of advantage, especially when data is rare, verified, proprietary, domain-specific, or experience-based.",
+    "Resource access turns capability into operational influence when AI systems connect to compute, capital, infrastructure, sensors, platforms, labor, robotics, or physical assets.",
+    "Authority determines how capability is released across public, enterprise, governmental, military, or emergency settings.",
+    "Real-world interfaces convert analytical capability into operational action by allowing AI systems to trigger actions, allocate resources, influence decisions, or alter system states.",
+    "Rule space determines how AI power is constrained or released by law, institutional policy, platform governance, national security exceptions, emergency powers, and gray-zone conditions.",
+    "The most consequential AI systems may not be the largest or most visible, but those most deeply embedded in institutions, infrastructure, markets, or rule-making environments.",
+    "AI governance should broaden from content safety to power governance, including the governance of AI access, authority, interfaces, and intervention capacity."
+  ],
+  "policy_recommendations": [
+    "Map AI system access and interfaces, including data access, API connections, execution permissions, resource calls, workflow integrations, and operational-system links.",
+    "Classify AI systems by operational consequence rather than only by model size or general capability.",
+    "Apply heightened oversight to AI systems connected to financial markets, health care, public services, infrastructure, defense, or administrative decision-making.",
+    "Require clear authorization and accountability controls for high-consequence deployments.",
+    "Define human authorization chains, logging, auditability, responsibility assignment, and mechanisms for appeal, suspension, or rollback.",
+    "Treat rule-making, standards, liability rules, procurement rules, data-access regimes, export controls, national security exemptions, and platform policies as instruments that shape AI power."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Ongoing",
+      "indicator": "AI systems with modest public visibility but deep integration into financial, infrastructure, defense, public-service, or administrative systems",
+      "analytical_purpose": "Identifies high-consequence AI power that may be missed by public model rankings."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Expansion of AI access to proprietary, restricted, classified, institutional, or real-time sensor data",
+      "analytical_purpose": "Tracks whether data quality is creating strategic advantage beyond benchmark performance."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Delegation of execution authority to AI systems in workflows, resource allocation, procurement, markets, or operational systems",
+      "analytical_purpose": "Assesses whether AI is shifting from advisory use to operational intervention."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "New legal exemptions, emergency authorities, procurement rules, or platform policies enabling AI deployment in high-consequence settings",
+      "analytical_purpose": "Monitors rule-space changes that may release or constrain AI power."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "AI Index Steering Committee, Stanford Institute for Human-Centered Artificial Intelligence. (2026). The 2026 AI Index report.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Report",
+      "description": "Referenced for existing AI development, capability, investment, adoption, infrastructure, governance, and responsible AI trend measurement."
+    },
+    {
+      "relation": "References",
+      "identifier": "Kim et al. (2025). The AI Power Disparity Index.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Conference paper",
+      "description": "Referenced for emerging work on compound measurement of AI actors’ power to shape the AI ecosystem."
+    },
+    {
+      "relation": "References",
+      "identifier": "Oxford Insights. (2025). Government AI Readiness Index 2025.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Index report",
+      "description": "Referenced for public-sector readiness measurement."
+    },
+    {
+      "relation": "References",
+      "identifier": "Tortoise Media. (2024). The Global AI Index.",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Index",
+      "description": "Referenced for national AI capacity ranking across implementation, innovation, and investment."
+    }
+  ],
+  "references": [
+    "AI Index Steering Committee, Stanford Institute for Human-Centered Artificial Intelligence. (2026). The 2026 AI Index report. Stanford University. https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "Kim, R. M., Kuehnert, B., Lazar, S., Singh, R., & Heidari, H. (2025). The AI Power Disparity Index: Toward a compound measure of AI actors’ power to shape the AI ecosystem. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 8(2), 1453–1464. https://doi.org/10.1609/aies.v8i2.36645",
+    "Oxford Insights. (2025). Government AI Readiness Index 2025. https://oxfordinsights.com/ai-readiness/government-ai-readiness-index-2025/",
+    "Tortoise Media. (2024). The Global AI Index. https://www.tortoisemedia.com/data/global-ai"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Beyond Model Capability: A System-Level Framework for AI Power, Policy Brief No. EPINOVA–2026–PB–58, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058.",
+  "citation_apa": "Wu, S. (2026). Beyond model capability: A system-level framework for AI power. EPINOVA Policy Brief Series, EPINOVA-PB-2026-058. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058.",
+  "short_citation": "Wu (2026), Beyond Model Capability, EPINOVA–2026–PB–58.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-25",
+    "pagination": "9 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Six Dimensions of AI Power",
+      "description": "Summarizes the six dimensions of AI power: model capability, data quality, resource access, authority, real-world interface, and rule space, with each dimension linked to a core question and policy relevance.",
+      "source": "Author’s conceptual synthesis based on existing AI measurement frameworks and the proposed system-level AI power framework.",
+      "note": "The table is conceptual and policy-analytic rather than a validated measurement instrument."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Beyond Model Capability A System-Level Framework for AI Power.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-25",
+    "last_updated": "2026-06-25",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, framework equation, ASPI index structure, six-dimension table, policy implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 9 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-27T18:27:26-04:00",
+    "modification_date": "2026-06-27T18:27:26-04:00",
+    "pages": 9
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.058",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.058",
+    "deposit_ready": true,
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-06-25",
+    "deposit_xml_file": "",
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-058/",
+    "crossref_doi_suffix": "epinova.pb.2026.058",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.058",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.058",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-058/",
+    "registration_date": "2026-06-25",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

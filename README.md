@@ -162,6 +162,27 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-060** (2026-06-26)  
+  **Global AI Power Mapping: Domains, Alliances, and Rule Spaces**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.060](https://doi.org/10.67037/epinova.pb.2026.060)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-60/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-60)  
+  Source PDF: [`Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-60/Global%20AI%20Power%20Mapping%20Domains%2C%20Alliances%2C%20and%20Rule%20Spaces.pdf)
+
+- **EPINOVA-PB-2026-059** (2026-06-26)  
+  **AI Capability Stratification: A Framework for the Future Distribution of AI Power**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.059](https://doi.org/10.67037/epinova.pb.2026.059)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-59/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59)  
+  Source PDF: [`AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59/AI%20Capability%20Stratification%20A%20Framework%20for%20the%20Future%20Distribution%20of%20AI%20Power.pdf)
+
+- **EPINOVA-PB-2026-058** (2026-06-25)  
+  **Beyond Model Capability: A System-Level Framework for AI Power**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.058](https://doi.org/10.67037/epinova.pb.2026.058)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-58/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58)  
+  Source PDF: [`Beyond Model Capability A System-Level Framework for AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58/Beyond%20Model%20Capability%20A%20System-Level%20Framework%20for%20AI%20Power.pdf)
+
 - **EPINOVA-PB-2026-057** (2026-06-15)  
   **Israel’s Strategic Position After the U.S.–Iran MOU: Options, Constraints, and Implementation Risks**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -175,27 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.056](https://doi.org/10.67037/epinova.pb.2026.056)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-56/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56)  
   Source PDF: [`Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-56/Three%20Conflicts%20Inside%20One%20War%20The%20Fragmentation%20of%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20into%20U.S.%E2%80%93Iran%2C%20Iran%E2%80%93Israel%2C%20and%20U.S.%E2%80%93Israel%20Tracks.pdf)
-
-- **EPINOVA-PB-2026-055** (2026-06-12)  
-  **The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict: From War Termination to Systemic Realignment**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.055](https://doi.org/10.67037/epinova.pb.2026.055)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-55/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55)  
-  Source PDF: [`The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-55/The%20First%20Ten%20Days%20of%20Phase%20II%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20From%20War%20Termination%20to%20Systemic%20Realignment.pdf)
-
-- **EPINOVA-PB-2026-054** (2026-06-05)  
-  **External Strategic Nodes Under Pressure: Lebanon, Israel, and the Break Thresholds of Strategic Dependency**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.054](https://doi.org/10.67037/epinova.pb.2026.054)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-54/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54)  
-  Source PDF: [`External Strategic Nodes Under Pressure Lebanon, Israel, and the Break Thresholds of Strategic Dependency.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-54/External%20Strategic%20Nodes%20Under%20Pressure%20Lebanon%2C%20Israel%2C%20and%20the%20Break%20Thresholds%20of%20Strategic%20Dependency.pdf)
-
-- **EPINOVA-PB-2026-053** (2026-06-04)  
-  **From War Powers to Loyalty Politics: Trump’s Iran Response and the Government–Nation Distinction**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.053](https://doi.org/10.67037/epinova.pb.2026.053)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-53/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53)  
-  Source PDF: [`From War Powers to Loyalty Politics Trump’s Iran Response and the Government–Nation Distinction.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-53/From%20War%20Powers%20to%20Loyalty%20Politics%20Trump%E2%80%99s%20Iran%20Response%20and%20the%20Government%E2%80%93Nation%20Distinction.pdf)
 
 ---
 

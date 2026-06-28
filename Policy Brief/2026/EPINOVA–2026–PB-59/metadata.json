@@ -1,0 +1,490 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-059",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-059",
+  "title": "AI Capability Stratification",
+  "subtitle": "A Framework for the Future Distribution of AI Power",
+  "title_normalized": "ai capability stratification",
+  "publication_date": "2026-06-26",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.059",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-059/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–59",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "AI Capability Stratification",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Surface Intelligence Domain",
+      "scheme": "Analytical concept",
+      "description": "Visible public-facing layer of AI capability in the framework"
+    },
+    {
+      "identifier": "Deep Intelligence Domain",
+      "scheme": "Analytical concept",
+      "description": "Permissioned, professional, organizational, and embedded domain of AI capability"
+    },
+    {
+      "identifier": "Dark-Domain Intelligence",
+      "scheme": "Analytical concept",
+      "description": "Restricted-visibility, high-threshold, high-resource, and high-consequence domain of AI capability"
+    },
+    {
+      "identifier": "Seven Layers of AI Capability",
+      "scheme": "Analytical concept",
+      "description": "Seven-layer stratification model developed in the policy brief"
+    }
+  ],
+  "description": "This policy brief proposes AI Capability Stratification as a structural framework for understanding the future distribution of AI power. It argues that public-facing AI represents only the visible surface of a broader capability structure, while deeper forms of AI power emerge through institutional embedding, proprietary knowledge, operational control, resource authority, real-world interfaces, and differentiated rule conditions.",
+  "abstract": "The future development of artificial intelligence should not be understood as a linear race among public-facing large models. As AI systems become embedded in institutions, workflows, operational systems, proprietary knowledge environments, resource-allocation mechanisms, and differentiated rule conditions, AI capability is likely to form a stratified structure. This policy brief proposes AI Capability Stratification as a structural framework for understanding the future distribution of artificial intelligence power. The framework shifts attention from model performance alone to the broader conditions under which AI capability is accessed, embedded, authorized, optimized, and connected to real-world systems. The model divides AI capability into three broad domains: Surface Intelligence Domain, Deep Intelligence Domain, and Dark-Domain Intelligence. These domains can be further divided into seven analytical layers: Public Interface Intelligence, Institutional Embedded Intelligence, Operational Control Intelligence, Proprietary Epistemic Intelligence, Objective-Specific Optimized Intelligence, High-Authority Resource Intelligence, and Boundary-Condition Intelligence. The central thesis is straightforward: Public AI determines visible access; Deep AI determines professional productivity; and Dark-domain AI determines how AI capability is linked to concentrated authority, resource command, real-world consequence, and differentiated rule conditions. This framework does not claim that deeper AI layers are always more intelligent, more advanced, or more dangerous. Rather, it argues that AI power depends on the interaction between model capability, data quality, access conditions, institutional embedding, resource authority, real-world interfaces, and rule space. The future distribution of AI power will therefore not be determined only by which model is the strongest. It will also be determined by who can use AI, what AI can access, what resources AI can influence, what systems AI can affect, and under what rules AI is allowed to operate.",
+  "keywords": [
+    "AI capability stratification",
+    "AI power",
+    "Surface Intelligence",
+    "Deep Intelligence",
+    "Dark-Domain Intelligence",
+    "Public Interface Intelligence",
+    "Institutional Embedded Intelligence",
+    "Operational Control Intelligence",
+    "Proprietary Epistemic Intelligence",
+    "Objective-Specific Optimized Intelligence",
+    "High-Authority Resource Intelligence",
+    "Boundary-Condition Intelligence",
+    "AI governance",
+    "AI systems",
+    "model capability",
+    "data quality",
+    "resource authority",
+    "real-world interfaces",
+    "rule space",
+    "institutional embedding",
+    "AGI",
+    "foundation models",
+    "frontier AI",
+    "AI regulation",
+    "AI risk management",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence",
+    "AI governance",
+    "AI policy",
+    "Technology policy",
+    "Strategic studies",
+    "Public policy",
+    "Institutional governance",
+    "AI safety",
+    "AI regulation",
+    "Foundation models",
+    "Frontier AI",
+    "Risk management",
+    "Security studies",
+    "Information systems",
+    "Digital governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-06-26",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-06-27",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-06-26",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-06-26",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59/AI%20Capability%20Stratification%20A%20Framework%20for%20the%20Future%20Distribution%20of%20AI%20Power.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-059",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "AI Capability Stratification Framework",
+    "source_basis": "Conceptual policy analysis and structural analogy using the public web, deep web, and dark web as a non-moral stratification model, combined with prior EPINOVA work on AI power, foundation-model research, AI risk-management frameworks, frontier-AI governance literature, and public AI governance instruments including the EU AI Act, NIST AI RMF, OECD AI principles, and OMB federal AI governance guidance.",
+    "case_context": "Future distribution of AI capability across public-facing systems, embedded organizational systems, proprietary and domain-specific AI, operational control systems, high-authority resource systems, and differentiated rule-space environments.",
+    "core_problem": "The central analytical problem is that public-facing model performance does not capture the full distribution of AI power once AI systems become embedded in institutions, proprietary data environments, operational workflows, resource-allocation structures, real-world interfaces, and differentiated rule conditions.",
+    "central_claims": [
+      "Public-facing AI is only the visible surface of future AI power.",
+      "AI capability will stratify across access, data, authority, specialization, interface, resource authority, and rule space.",
+      "Deep AI will become a primary layer of professional productivity through institutional embedding and proprietary knowledge systems.",
+      "Dark-domain AI should be understood structurally rather than morally, as a domain of restricted visibility, high access thresholds, concentrated authority, resource connection, real-world consequence, and differentiated rule conditions.",
+      "AGI would not eliminate stratification because general capability does not automatically provide proprietary data, institutional memory, expert feedback, resource authority, operational interfaces, or special permissions.",
+      "AI governance must move beyond public-model regulation to address embedded, operational, proprietary, high-authority, and boundary-condition AI systems."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "AI–Internet Stratification Analogy",
+        "description": "Uses the public web, deep web, and dark web analogy structurally to distinguish visibility, access, authority, specialization, operational connection, and rule conditions in AI systems."
+      },
+      {
+        "name": "Surface Intelligence Domain",
+        "description": "Analyzes public-facing AI systems that shape mass adoption, public perception, and visible AI markets."
+      },
+      {
+        "name": "Deep Intelligence Domain",
+        "description": "Analyzes permissioned, professional, organizational, and embedded AI systems tied to workflows, proprietary data, and institutional knowledge."
+      },
+      {
+        "name": "Dark-Domain Intelligence",
+        "description": "Analyzes restricted-visibility, high-threshold, high-resource, high-consequence, and differentiated-rule AI systems without treating them as inherently illegal, malicious, or opaque."
+      },
+      {
+        "name": "Seven-Layer Capability Model",
+        "description": "Classifies AI capability into Public Interface, Institutional Embedded, Operational Control, Proprietary Epistemic, Objective-Specific Optimized, High-Authority Resource, and Boundary-Condition Intelligence."
+      },
+      {
+        "name": "AGI Stratification Analysis",
+        "description": "Evaluates why general capability would not automatically erase stratification based on data, authority, interfaces, permissions, and rule conditions."
+      },
+      {
+        "name": "Layered Governance Analysis",
+        "description": "Links governance requirements to the structural position of AI systems across public, embedded, proprietary, high-authority, and boundary-condition environments."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Audience Scale",
+      "code": "AS",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "AI systems vary from mass public access to narrow authorized communities, firms, agencies, military organizations, research institutions, or small expert groups.",
+      "interpretation": "Audience scale affects visibility, diffusion, public accountability, specialization, and institutional consequence."
+    },
+    {
+      "name": "Access Threshold",
+      "code": "AT",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "Technical, institutional, financial, legal, or security barriers determine who can use an AI system.",
+      "interpretation": "Higher access thresholds may reduce visibility while increasing specialization, control, and consequence."
+    },
+    {
+      "name": "Data Quality",
+      "code": "DQ",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "Systems differ by the relevance, exclusivity, reliability, timeliness, and domain value of their data.",
+      "interpretation": "In many domains, data quality and exclusivity may matter more than model scale."
+    },
+    {
+      "name": "Domain Specificity",
+      "code": "DS",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "AI systems may be general-purpose or optimized for a particular sector, function, environment, task, or decision problem.",
+      "interpretation": "Specialization can produce stronger task-level performance even when general model capability is lower."
+    },
+    {
+      "name": "Resource Authority",
+      "code": "RA",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "AI systems may recommend, allocate, trigger, or command material, financial, computational, organizational, legal, administrative, or coercive resources.",
+      "interpretation": "Resource authority determines whether AI capability can move from assistance to consequential resource influence."
+    },
+    {
+      "name": "Real-World Intervention Capacity",
+      "code": "RWIC",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "Some systems remain advisory while others can affect workflows, machines, markets, infrastructure, administrative systems, military systems, or external environments.",
+      "interpretation": "Intervention capacity is a major dividing line between informational AI and operational AI."
+    },
+    {
+      "name": "Rule Space",
+      "code": "RS",
+      "indicator_type": "Stratification variable",
+      "observed_pattern": "Public, enterprise, defense, intelligence, emergency, research, and critical-infrastructure systems operate under different legal, regulatory, organizational, ethical, and exceptional conditions.",
+      "interpretation": "Rule space determines what forms of AI capability are enabled, limited, normalized, or restricted."
+    }
+  ],
+  "key_findings": [
+    "Public AI is only the visible surface of future AI power.",
+    "AI capability is likely to stratify across access, data, authority, specialization, interface, resource authority, and rule space.",
+    "Surface Intelligence shapes public perception, consumer adoption, user expectations, and the visible AI market, but it does not represent the full structure of AI power.",
+    "Deep Intelligence is likely to become a primary site of AI value accumulation through institutional embedding, operational control, proprietary knowledge, expert feedback, and objective-specific optimization.",
+    "Dark-Domain Intelligence should be understood as a structural category rather than a moral label; it does not imply illegality, malicious intent, or inherent opacity.",
+    "The seven layers are not a simple intelligence hierarchy; depth changes the structure of capability rather than necessarily increasing intrinsic model intelligence.",
+    "AGI would not eliminate stratification because access to data, institutions, resource authority, interfaces, and special permissions would still remain unevenly distributed.",
+    "AI governance must move beyond public-facing models and address embedded, operational, proprietary, high-authority, and boundary-condition AI systems."
+  ],
+  "policy_recommendations": [
+    "Distinguish model capability from system capability when evaluating AI power and risk.",
+    "Develop layered governance rather than one-size-fits-all rules for public-interface, deep, and dark-domain AI systems.",
+    "Assess AI systems by access, data, authority, resource connection, intervention capacity, and rule space, not only by benchmark performance or public model ranking.",
+    "Require documentation, internal review, sector-specific standards, independent audits, incident reporting, and clear institutional responsibility for proprietary and embedded AI systems.",
+    "Apply stronger authorization, accountability, oversight, escalation safeguards, and limits on resource-command authority for high-authority and boundary-condition AI systems.",
+    "Treat AGI governance as a stratification problem as well as a capability problem, because general intelligence would still be distributed through institutional embedding, data access, permissions, resource authority, and real-world interfaces."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Near term",
+      "indicator": "Rapid deployment of AI systems inside enterprise workflows, government administration, finance, health care, infrastructure, or defense without comparable public visibility",
+      "analytical_purpose": "Tracks the shift from public AI visibility to embedded AI consequence."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Increasing use of proprietary data, institutional memory, expert feedback, and internal workflow data as sources of AI advantage",
+      "analytical_purpose": "Identifies the growth of Proprietary Epistemic Intelligence and Deep Intelligence."
+    },
+    {
+      "timeframe": "Medium term",
+      "indicator": "AI systems connected to resource allocation, infrastructure operations, logistics, procurement, emergency response, or security decisions",
+      "analytical_purpose": "Detects the expansion of Operational Control and High-Authority Resource Intelligence."
+    },
+    {
+      "timeframe": "Medium term",
+      "indicator": "Different governance regimes emerging for consumer AI, enterprise AI, defense AI, critical-infrastructure AI, and frontier research systems",
+      "analytical_purpose": "Tracks rule-space differentiation as a driver of AI capability stratification."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Public debate continuing to rely primarily on model rankings, benchmark performance, or public chatbot capability",
+      "analytical_purpose": "Identifies analytical blind spots where visible model performance is mistaken for total AI power."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "AGI or frontier-model discussions assuming that general capability eliminates the importance of proprietary data, authorization, interfaces, and institutional embedding",
+      "analytical_purpose": "Tests whether future AI analysis accounts for the persistence of stratification."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Beyond model capability: A system-level framework for AI power",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for the system-level definition of AI power and the six-dimensional AI power framework"
+    },
+    {
+      "relation": "References",
+      "identifier": "Bergman, M. K. (2001). The deep web: Surfacing hidden value",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for the public web and deep web analogy"
+    },
+    {
+      "relation": "References",
+      "identifier": "NIST AI Risk Management Framework materials",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Government framework",
+      "description": "Referenced for AI risk management, system context, intended use, and governance framing"
+    },
+    {
+      "relation": "References",
+      "identifier": "European Union Artificial Intelligence Act",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Regulation",
+      "description": "Referenced for risk-based AI governance and regulatory context"
+    }
+  ],
+  "references": [
+    "Anderljung, M., Barnhart, J., Korinek, A., Leung, J., O’Keefe, C., Whittlestone, J., Avin, S., Brundage, M., Bullock, J., Cass-Beggs, D., Chang, B., Collins, T., Fist, T., et al. (2023). Frontier AI regulation: Managing emerging risks to public safety. arXiv. https://arxiv.org/abs/2307.03718",
+    "Bergman, M. K. (2001). The deep web: Surfacing hidden value. Journal of Electronic Publishing, 7(1). https://doi.org/10.3998/3336451.0007.104",
+    "Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., et al. (2021). On the opportunities and risks of foundation models. arXiv. https://arxiv.org/abs/2108.07258",
+    "European Union. (2024). Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+    "Gupta, A., Maynard, S. B., & Ahmad, A. (2021). The dark web phenomenon: A review and research agenda. arXiv. https://arxiv.org/abs/2104.07138",
+    "Kapoor, S., Stroebl, B., Siegel, Z. S., Nadgir, N., & Narayanan, A. (2024). AI agents that matter. arXiv. https://arxiv.org/abs/2407.01502",
+    "National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1",
+    "National Institute of Standards and Technology. (2024). Artificial intelligence risk management framework: Generative artificial intelligence profile (NIST AI 600-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.600-1",
+    "OECD. (2019). Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449). OECD Legal Instruments. https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449",
+    "OECD. (2024). OECD updates AI Principles to stay abreast of rapid technological developments. https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html",
+    "Office of Management and Budget. (2025). Accelerating federal use of AI through innovation, governance, and public trust (Memorandum M-25-21). Executive Office of the President. https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf",
+    "Shevlane, T., Farquhar, S., Garfinkel, B., Phuong, M., Whittlestone, J., Leung, J., Kokotajlo, D., Marchal, N., Anderljung, M., Kolt, N., Ho, L., Siddarth, D., et al. (2023). Model evaluation for extreme risks. arXiv. https://arxiv.org/abs/2305.15324",
+    "Wu, S. (2026). Beyond model capability: A system-level framework for AI power (Policy Brief No. EPINOVA–2026–PB–58). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), AI Capability Stratification: A Framework for the Future Distribution of AI Power, Policy Brief No. EPINOVA–2026–PB–59, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.059.",
+  "citation_apa": "Wu, S. (2026). AI capability stratification: A framework for the future distribution of AI power. EPINOVA Policy Brief Series, EPINOVA-PB-2026-059. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.059.",
+  "short_citation": "Wu (2026), AI Capability Stratification, EPINOVA–2026–PB–59.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-06-26",
+    "pagination": "12 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "AI Capability Stratification: Three Domains and Seven Layers",
+      "description": "Presents the AI Capability Stratification framework as an iceberg model, with Public Interface Intelligence at the visible surface and deeper layers embedded in institutions, operational systems, proprietary knowledge environments, high-authority resource structures, and differentiated rule conditions.",
+      "source": "Author’s framework.",
+      "note": "The figure is conceptual and does not imply a linear ranking of intelligence. Depth represents structural position, including access threshold, data environment, institutional embedding, resource authority, real-world intervention capacity, and rule space, rather than intrinsic model capability. Dark-Domain Intelligence is used analytically to describe restricted visibility and differentiated operating conditions, not illegality, malicious use, or inherent opacity."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-06-26",
+    "last_updated": "2026-06-26",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, conceptual framework, figure, governance implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 12 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-06-27T18:35:02-04:00",
+    "modification_date": "2026-06-27T18:35:02-04:00",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.059",
+    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.059",
+    "deposit_ready": true,
+    "deposit_submitted": true,
+    "deposit_confirmed": true,
+    "deposit_result": "success",
+    "deposit_date": "2026-06-26",
+    "deposit_xml_file": "",
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-059/",
+    "crossref_doi_suffix": "epinova.pb.2026.059",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "deposit_type": "Report",
+    "registration_status": "Registered",
+    "metadata_update_status": "updated_after_registration"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.059",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.059",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-059/",
+    "registration_date": "2026-06-26",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

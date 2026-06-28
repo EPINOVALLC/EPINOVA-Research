@@ -1,7 +1,15 @@
-Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
-Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
-docs/epinova-wp-f-2026-011/index.html
-docs/files/epinova-wp-f-2026-011/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
+Policy Brief/2026/EPINOVA–2026–PB-58/Beyond Model Capability A System-Level Framework for AI Power.pdf
+Policy Brief/2026/EPINOVA–2026–PB-58/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-59/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
+Policy Brief/2026/EPINOVA–2026–PB-59/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-60/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
+Policy Brief/2026/EPINOVA–2026–PB-60/metadata.json
+docs/epinova-pb-2026-058/index.html
+docs/epinova-pb-2026-059/index.html
+docs/epinova-pb-2026-060/index.html
+docs/files/epinova-pb-2026-058/Beyond Model Capability A System-Level Framework for AI Power.pdf
+docs/files/epinova-pb-2026-059/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
+docs/files/epinova-pb-2026-060/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -764,6 +772,8 @@ Working Paper/F/2026/PINOVA–WP–F–2026–09/A Systemic Theory of Escalation
 Working Paper/F/2026/PINOVA–WP–F–2026–09/metadata.json
 Working Paper/F/2026/PINOVA–WP–F–2026–10/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
 Working Paper/F/2026/PINOVA–WP–F–2026–10/metadata.json
+Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
+Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
 assets/global-ai-governance-logo.png
 doc/publication-manual.md
 docs/articles/archive/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
@@ -1458,6 +1468,7 @@ docs/epinova-wp-f-2026-008/index.html
 docs/epinova-wp-f-2026-009/index.html
 docs/epinova-wp-f-2026-01/index.html
 docs/epinova-wp-f-2026-010/index.html
+docs/epinova-wp-f-2026-011/index.html
 docs/epinova-wp-f-2026-02/index.html
 docs/epinova-wp-f-2026-03/index.html
 docs/epinova-wp-f-2026-04/index.html
@@ -1573,6 +1584,7 @@ docs/files/epinova-wp-f-2026-008/Who Loses Control First.pdf
 docs/files/epinova-wp-f-2026-009/A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf
 docs/files/epinova-wp-f-2026-01/When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf
 docs/files/epinova-wp-f-2026-010/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
+docs/files/epinova-wp-f-2026-011/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
 docs/files/epinova-wp-f-2026-02/Derivative-State Drift.pdf
 docs/files/epinova-wp-f-2026-03/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
 docs/files/epinova-wp-f-2026-04/Losing the Narrative.pdf
