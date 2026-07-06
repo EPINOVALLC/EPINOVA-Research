@@ -1,15 +1,5 @@
-Policy Brief/2026/EPINOVA–2026–PB-58/Beyond Model Capability A System-Level Framework for AI Power.pdf
-Policy Brief/2026/EPINOVA–2026–PB-58/metadata.json
-Policy Brief/2026/EPINOVA–2026–PB-59/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
-Policy Brief/2026/EPINOVA–2026–PB-59/metadata.json
-Policy Brief/2026/EPINOVA–2026–PB-60/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
-Policy Brief/2026/EPINOVA–2026–PB-60/metadata.json
-docs/epinova-pb-2026-058/index.html
-docs/epinova-pb-2026-059/index.html
-docs/epinova-pb-2026-060/index.html
-docs/files/epinova-pb-2026-058/Beyond Model Capability A System-Level Framework for AI Power.pdf
-docs/files/epinova-pb-2026-059/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
-docs/files/epinova-pb-2026-060/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
+Policy Brief/2026/EPINOVA–2026–PB-61/Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf
+Policy Brief/2026/EPINOVA–2026–PB-61/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -719,6 +709,12 @@ Policy Brief/2026/EPINOVA–2026–PB-56/Three Conflicts Inside One War The Frag
 Policy Brief/2026/EPINOVA–2026–PB-56/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-57/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
 Policy Brief/2026/EPINOVA–2026–PB-57/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-58/Beyond Model Capability A System-Level Framework for AI Power.pdf
+Policy Brief/2026/EPINOVA–2026–PB-58/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-59/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
+Policy Brief/2026/EPINOVA–2026–PB-59/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-60/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
+Policy Brief/2026/EPINOVA–2026–PB-60/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1427,6 +1423,9 @@ docs/epinova-pb-2026-054/index.html
 docs/epinova-pb-2026-055/index.html
 docs/epinova-pb-2026-056/index.html
 docs/epinova-pb-2026-057/index.html
+docs/epinova-pb-2026-058/index.html
+docs/epinova-pb-2026-059/index.html
+docs/epinova-pb-2026-060/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1544,6 +1543,9 @@ docs/files/epinova-pb-2026-054/External Strategic Nodes Under Pressure Lebanon, 
 docs/files/epinova-pb-2026-055/The First Ten Days of Phase II in the U.S.–Israel–Iran Conflict From War Termination to Systemic Realignment.pdf
 docs/files/epinova-pb-2026-056/Three Conflicts Inside One War The Fragmentation of the U.S.–Israel–Iran Conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel Tracks.pdf
 docs/files/epinova-pb-2026-057/Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf
+docs/files/epinova-pb-2026-058/Beyond Model Capability A System-Level Framework for AI Power.pdf
+docs/files/epinova-pb-2026-059/AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf
+docs/files/epinova-pb-2026-060/Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

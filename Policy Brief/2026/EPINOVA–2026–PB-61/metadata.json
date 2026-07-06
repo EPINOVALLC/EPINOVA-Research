@@ -1,0 +1,536 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-061",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-061",
+  "title": "Khamenei’s Funeral as a Geopolitical Roll Call",
+  "subtitle": "The Emerging Middle East–Eurasia Order",
+  "title_normalized": "khamenei’s funeral as a geopolitical roll call",
+  "publication_date": "2026-07-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.061",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-061/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–61",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Khamenei’s Funeral as a Geopolitical Roll Call",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Geopolitical roll call",
+      "scheme": "Analytical concept",
+      "description": "Framework for reading ceremonial participation, absence, rank, religious response, and external pressure as signals of emerging geopolitical relationships and constraints"
+    },
+    {
+      "identifier": "State–wider response divergence",
+      "scheme": "Analytical concept",
+      "description": "Difference between publicly identified state-diplomatic participation and wider religious, movement, civic, cultural, political-social, or popular response"
+    },
+    {
+      "identifier": "Cross-system bridge node",
+      "scheme": "Analytical concept",
+      "description": "Role assigned to Pakistan as an actor maintaining simultaneous access across Iranian, U.S., Gulf, South Asian, military, and Eurasian networks"
+    }
+  ],
+  "description": "This policy brief examines Ayatollah Ali Khamenei’s funeral as a geopolitical roll call of the emerging Middle East–Eurasia order. It argues that the event reveals a network rather than a bloc and distinguishes among state diplomacy, religious authority, and state–wider response divergence. By comparing expected and actual participation, representative level, expanded participation, unresolved absence, and wider responses, the brief shows how ceremonial diplomacy can expose strategic autonomy, political risk, external pressure, corridor connectivity, and cross-system relationships. Pakistan emerges as a major bridge node, while the broader pattern points to an order defined by partial alignment, strategic connectivity, and contested autonomy rather than a new bipolar divide.",
+  "abstract": "Ayatollah Ali Khamenei’s funeral is functioning as a geopolitical roll call of the emerging Middle East–Eurasia order. Khamenei embodied two overlapping forms of authority: supreme political authority within the Islamic Republic and transnational religious-political influence beyond the Iranian state. His death therefore generated two intersecting systems of authority and three analytically distinct maps: state diplomacy, religious authority, and state–wider response divergence. The attendance pattern points to a network rather than a bloc. China and Russia sent senior but non-head-of-state representatives, Pakistan appeared as a major bridge node, India combined recognition with strategic restraint, and Central Asian and South Caucasus participation was consistent with Iran’s growing relevance to north–south connectivity. The most revealing signals lie in the gap between expectation and reality. Absence, downgraded representation, and unexpected or expanded participation can reveal political risk and strategic autonomy more clearly than attendance alone. Reports further allege that Washington pressured governments to stay away, although the claim had not been independently corroborated as of the analytical cutoff. The broader implication is that the funeral reveals a network of relationships, dependencies, autonomies, and pressures rather than a new alliance. The emerging order is defined by partial alignment, strategic connectivity, and contested autonomy.",
+  "keywords": [
+    "Khamenei funeral",
+    "Iran",
+    "Middle East–Eurasia order",
+    "geopolitical roll call",
+    "state diplomacy",
+    "religious authority",
+    "state–wider response divergence",
+    "funeral diplomacy",
+    "ceremonial diplomacy",
+    "strategic autonomy",
+    "partial alignment",
+    "network order",
+    "bridge node",
+    "Pakistan",
+    "China",
+    "Russia",
+    "India",
+    "Central Asia",
+    "South Caucasus",
+    "north–south connectivity",
+    "post-conflict legitimacy",
+    "external pressure",
+    "U.S.–Iran relations",
+    "religious geopolitics",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International relations",
+    "Strategic studies",
+    "Middle East security",
+    "Eurasian geopolitics",
+    "Diplomatic history",
+    "Religious politics",
+    "Network geopolitics",
+    "Post-conflict order",
+    "Foreign policy",
+    "Political geography",
+    "Regional connectivity",
+    "Security studies",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-07-06",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-07-06",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-07-06",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-07-06",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-61/Khamenei%E2%80%99s%20Funeral%20as%20a%20Geopolitical%20Roll%20Call%20The%20Emerging%20Middle%20East%E2%80%93Eurasia%20Order.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 16
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-61",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-061",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Geopolitical Roll Call and State–Wider Response Divergence Framework",
+    "source_basis": "Open-source policy analysis and auditable country-level coding based on publicly identified state-diplomatic participation, clerical and religious-institutional response, wider religious, movement, civic, cultural, political-social, and popular reaction, supplemented by official government releases, Iranian Foreign Ministry and IRNA reporting, and international reporting.",
+    "case_context": "Khamenei’s multi-stage funeral sequence and the emerging post-conflict Middle East–Eurasia order, with an analytical cutoff of July 6, 2026, 12:00 ET.",
+    "core_problem": "The central analytical problem is whether funeral attendance reveals a new geopolitical bloc or a more complex network of relationships, dependencies, strategic autonomy, religious authority, external pressure, corridor connectivity, and post-conflict legitimacy competition.",
+    "central_claims": [
+      "Khamenei’s funeral reveals a network, not a bloc.",
+      "The funeral activates two overlapping systems of authority that generate three analytically distinct maps: state diplomacy, religious authority, and state–wider response divergence.",
+      "The gap between expected and actual participation is more revealing than attendance alone.",
+      "Reports of a U.S. pressure campaign, though not independently corroborated by the cutoff, suggest that participation may have been contested rather than simply observed.",
+      "Pakistan stands out as a cross-system bridge node linking Iran, the United States, the Gulf, South Asia, and Eurasia.",
+      "The emerging order is defined by partial alignment, strategic connectivity, and contested autonomy rather than a new bipolar divide."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Participation-Sequence Analysis",
+        "description": "Treats funeral participation as a sequence involving expectation, confirmation, appearance, absence, downgrade, or expansion rather than as a binary attendance variable."
+      },
+      {
+        "name": "State-Diplomatic Mapping",
+        "description": "Maps publicly identified government, parliamentary, military, or officially designated representation and distinguishes confirmed, unresolved, anomalous, and absent or downgraded cases."
+      },
+      {
+        "name": "Religious-Authority Mapping",
+        "description": "Separately identifies clerical, religious scholarly, institutional, and religious-political responses."
+      },
+      {
+        "name": "State–Wider Response Divergence",
+        "description": "Compares state-diplomatic participation with wider religious, movement, civic, cultural, political-social, and popular response without assuming causal government–society opposition."
+      },
+      {
+        "name": "Expectation–Reality Gap",
+        "description": "Interprets departure from prior expectations as a possible signal of political risk, strategic autonomy, external pressure, or changing calculations."
+      },
+      {
+        "name": "Bridge-Node Analysis",
+        "description": "Identifies actors that connect otherwise only partially linked systems; Pakistan is treated as the leading cross-system bridge node in this case."
+      },
+      {
+        "name": "Evidence-Tier Coding",
+        "description": "Uses Tier A for named actor or official country-specific confirmation, Tier B for country identification in grouped public reporting, and Tier C for infographic-only participation with unresolved representative level."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "State-Diplomatic Participation",
+      "code": "S",
+      "indicator_type": "Country-level participation dimension",
+      "description": "Publicly identified government, parliamentary, military, or officially designated representation.",
+      "interpretation": "S:Y indicates identified official representation; S:P indicates participation with unresolved representative status or level; S:N indicates no state-diplomatic participation identified in reviewed reporting and does not establish verified absence."
+    },
+    {
+      "name": "Religious Authority",
+      "code": "R",
+      "indicator_type": "Religious-response dimension",
+      "description": "Publicly identified cleric, religious scholar, institution, or religious-political institution.",
+      "interpretation": "Religious recognition is analyzed separately from political alignment and does not imply subordination to Tehran."
+    },
+    {
+      "name": "Wider Response",
+      "code": "W",
+      "indicator_type": "Societal and movement-response dimension",
+      "description": "Publicly identified religious, movement, civic, cultural, antiwar, political-social, or popular response.",
+      "interpretation": "Wider response may occur with or without state participation and does not by itself indicate state policy."
+    },
+    {
+      "name": "State–Wider Response Divergence",
+      "code": "SWRD",
+      "indicator_type": "Relational mapping dimension",
+      "description": "Comparison of state-diplomatic participation and wider response across coded cases.",
+      "interpretation": "Purple = S:Y + W:Y; Blue = S:Y + W:N; Red = S:N + W:Y; Gray = S:P or neither category identified; Iran is treated as a domestic reference."
+    },
+    {
+      "name": "Participation Anomaly",
+      "code": "PA",
+      "indicator_type": "Expectation-departure dimension",
+      "description": "Captures confirmed appearance, absence, downgrade, or expanded participation relative to reported expectations.",
+      "interpretation": "Pakistan is the only publicly identified expanded-participation anomaly in the cutoff coding; no named absence or downgrade case was sufficiently resolved for blue coding in Figure 1."
+    },
+    {
+      "name": "Evidence Tier",
+      "code": "ET",
+      "indicator_type": "Source-confidence dimension",
+      "description": "Ranks coding support according to the specificity of publicly identified evidence.",
+      "interpretation": "Tier A is strongest, followed by grouped country reporting in Tier B and infographic-only unresolved participation in Tier C."
+    }
+  ],
+  "key_findings": [
+    "The funeral reveals a geographically broad but politically heterogeneous network rather than a unified Iranian-led bloc.",
+    "Two overlapping systems of authority—state political authority and transnational religious-political authority—produce three distinct analytical maps.",
+    "The difference between expected and actual participation is more analytically revealing than attendance alone.",
+    "China and Russia displayed calibrated support through senior but non-head-of-state representation.",
+    "Pakistan emerged as the clearest cross-system bridge node and the only expanded-participation anomaly in the coded state-diplomatic map.",
+    "India’s participation combined recognition with strategic restraint, while Central Asian and South Caucasus participation reflected Iran’s increasing relevance to north–south connectivity.",
+    "State diplomacy, religious authority, and wider response do not coincide and should not be collapsed into a single map of alignment.",
+    "The country-level coding identified 25 S:Y cases, 10 S:P cases, and 15 S:N cases in Figure 1.",
+    "Religious-authority coding identified 13 R:Y cases, including Iran as the domestic reference.",
+    "Figure 2B produced 9 Purple, 16 Blue, 15 Red, and 10 Gray cases, with Iran treated separately as a domestic reference.",
+    "The emerging Middle East–Eurasia order is better described by partial alignment, strategic connectivity, and contested autonomy than by a new bipolar divide."
+  ],
+  "policy_recommendations": [
+    "The United States should avoid treating funeral participation as evidence of a consolidated anti-American coalition.",
+    "Washington should distinguish strategic partners, mediators, bridge nodes, corridor actors, hedgers, and states maintaining channels to post-ceasefire Iran.",
+    "If a pressure campaign occurred, U.S. policymakers should assess whether treating ceremonial diplomacy as a loyalty test could strengthen the strategic-autonomy behavior it seeks to limit.",
+    "Iran should avoid interpreting high turnout as durable alignment and should focus on preserving the networks that sustain its post-conflict relevance.",
+    "Gulf states should continue multidirectional risk management rather than assume that the emerging order requires binary realignment.",
+    "European governments should pay closer attention to the linkage between Middle Eastern and Eurasian systems, especially north–south corridors, Caspian logistics, energy, sanctions adaptation, and access to the Persian Gulf and Indian Ocean."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Through July 9, 2026",
+      "indicator": "Changes in participation, absence, or representation during the remaining funeral stages and final burial in Mashhad",
+      "analytical_purpose": "Tests whether the interim assessment changes as the multi-stage funeral sequence concludes."
+    },
+    {
+      "timeframe": "Immediate post-funeral period",
+      "indicator": "Independent corroboration or refutation of reports that Washington pressured governments to stay away or downgrade participation",
+      "analytical_purpose": "Determines whether observed participation should be interpreted partly as a contested outcome shaped by external pressure."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Whether expanded Pakistani participation translates into mediation, corridor, security, or diplomatic activity",
+      "analytical_purpose": "Tests the durability of Pakistan’s cross-system bridge-node role."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Follow-on Iran engagement by Central Asian and South Caucasus actors",
+      "analytical_purpose": "Assesses whether funeral participation reflects durable north–south connectivity interests."
+    },
+    {
+      "timeframe": "Medium term",
+      "indicator": "Persistence or widening of state–wider response divergence across future Iran-related events",
+      "analytical_purpose": "Tests whether religious and societal response patterns remain analytically distinct from state diplomacy."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Bargaining under systemic pressure",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for U.S. objective compression and post-conflict bargaining dynamics"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). From regional power to network node",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for Iran’s network position and post-war strategic relevance"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). The first ten days of Phase II in the U.S.–Israel–Iran conflict",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for systemic realignment and Middle East–Eurasia linkage"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Three conflicts inside one war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for conflict fragmentation into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks"
+    }
+  ],
+  "references": [
+    "Anadolu Agency. (2026, July 3). Pakistani prime minister, army chief attend funeral of Iran’s late supreme leader. https://www.aa.com.tr/en/asia-pacific/pakistani-prime-minister-army-chief-attend-funeral-of-iran-s-late-supreme-leader/3985543",
+    "Asharq Al-Awsat. (2026, March 1). Iraq’s Sistani urges Iranian unity after Khamenei death. https://english.aawsat.com/arab-world/5246042-iraq%E2%80%99s-sistani-urges-iranian-unity-after-khamenei-death",
+    "Islamic Republic News Agency. (2026a, July 3). Foreign dignitaries pay tribute to martyred Leader in Tehran. https://en.irna.ir/news/86199450/Foreign-dignitaries-pay-tribute-to-martyred-Leader-in-Tehran",
+    "Islamic Republic News Agency. (2026b, July 3). Global tribute: Pakistani PM, Chief of Staff honor Martyr Ayatollah Khamenei. https://en.irna.ir/news/86199881/Global-Tribute-Pakistani-PM-Chief-of-Staff-honor-Martyr-Ayatollah",
+    "Islamic Republic News Agency. (2026c, July 3). Global tribute: Russian presidential envoy pays tribute to Martyred Leader. https://en.irna.ir/news/86200375/Global-Tribute-Russian-presidential-envoy-pays-tribute-to-Martyred",
+    "Islamic Republic News Agency. (2026d, July 3). Global tributes: Scholars from Indonesia and Afghanistan honor Martyr Khamenei. https://en.irna.ir/news/86199558/Global-Tributes-Scholars-from-Indonesia-and-Afghanistan-honor",
+    "Islamic Republic News Agency. (2026e, July 3). Iraqi president arrives in Tehran to attend funeral of Iran’s martyred Leader. https://en.irna.ir/news/86199528/Iraqi-president-arrives-in-Tehran-to-attend-funeral-of-Iran-s",
+    "Islamic Republic News Agency. (2026f, July 2). Najaf, Karbala to host funeral procession for martyred Leader of Islamic Revolution: Iraqi committee. https://en.irna.ir/news/86199120/Najaf-Karbala-to-host-funeral-procession-for-martyred-Leader",
+    "Islamic Republic News Agency. (2026g, July 2). Officials from 100 countries to attend Ayatollah Khamenei’s funeral ceremony. https://en.irna.ir/news/86199075/Officials-from-100-countries-to-attend-Ayatollah-Khamenei-s-funeral",
+    "Islamic Republic News Agency. (2026h, July 3). Pakistani Interior Minister arrives in Tehran to attend funeral of Iran’s martyred Leader. https://en.irna.ir/news/86199468/Pakistani-Interior-Minister-arrives-in-Tehran-to-attend-funeral",
+    "Islamic Republic News Agency. (2026i, July 3). Tajik president arrives in Tehran to attend tribute ceremony for martyred Iranian Leader. https://en.irna.ir/news/86199516/Tajik-president-arrives-in-Tehran-to-attend-tribute-ceremony",
+    "Ministry of Foreign Affairs of the People’s Republic of China. (2026, July 2). He Wei to attend the funeral of Iran’s late Supreme Leader Ayatollah Ali Khamenei. https://www.mfa.gov.cn/mfa_eng/xw/wsrc/202607/t20260702_11956355.html",
+    "Reuters. (2026a, July 6). As Khamenei mourners fill Iran’s streets, discontent still simmers. https://www.reuters.com/world/middle-east/khamenei-mourners-fill-irans-streets-discontent-still-simmers-2026-07-06/",
+    "Reuters. (2026b, July 2). India to send minister, governor to Ali Khamenei funeral. https://www.reuters.com/world/middle-east/india-send-minister-governor-ali-khamenei-funeral-2026-07-02/",
+    "Reuters. (2026c, July 2). Iran warns U.S., Israel against attacks ahead of funeral processions for Khamenei. https://www.reuters.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-funeral-processions-khamenei-2026-07-02/",
+    "Reuters. (2026d, July 3). Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies. https://www.reuters.com/world/middle-east/irans-slain-leader-khamenei-laid-state-tehran-week-mass-funeral-events-2026-07-03/",
+    "Tasnim News Agency. (2026, July 3). Source discloses U.S. campaign to dissuade countries from attending tribute ceremony for martyred Leader. https://www.tasnimnews.ir/en/news/2026/07/03/3632664/source-discloses-us-campaign-to-dissuade-countries-from-attending-tribute-ceremony-for-martyred-leader",
+    "Wu, S. (2026a). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+    "Wu, S. (2026b). From regional power to network node: Iran’s post-war trajectory and strategic positioning (EPINOVA Policy Brief No. EPINOVA–2026–PB–23). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19420591",
+    "Wu, S. (2026c). The first ten days of Phase II in the U.S.–Israel–Iran conflict: From war termination to systemic realignment (EPINOVA Policy Brief No. EPINOVA–2026–PB–55). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.055",
+    "Wu, S. (2026d). Three conflicts inside one war: The fragmentation of the U.S.–Israel–Iran conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks (EPINOVA Policy Brief No. EPINOVA–2026–PB–56). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Khamenei’s Funeral as a Geopolitical Roll Call: The Emerging Middle East–Eurasia Order, Policy Brief No. EPINOVA–2026–PB–61, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.061",
+  "citation_apa": "Wu, S. (2026). Khamenei’s funeral as a geopolitical roll call: The emerging Middle East–Eurasia order. EPINOVA Policy Brief Series, EPINOVA-PB-2026-061. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.061.",
+  "short_citation": "Wu (2026), Khamenei’s Funeral as a Geopolitical Roll Call, EPINOVA–2026–PB–61.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-07-06",
+    "pagination": "16 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "State-Diplomatic Participation",
+      "description": "World map of publicly identified state-diplomatic participation in Khamenei’s funeral ceremonies as of July 6, 2026, 12:00 ET.",
+      "source": "Author’s country-level coding based on Iranian Foreign Ministry and IRNA reporting, supplemented by country-specific official government releases and international reporting.",
+      "note": "Green indicates S:Y; red indicates publicly identified unexpected or expanded participation; blue indicates country-specific absence or downgrade; gray indicates S:P or S:N. Pakistan’s red anomaly code supersedes its underlying S:Y code. No named absence or downgrade case had been sufficiently resolved for blue coding by the cutoff."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Religious Authority and State–Wider Response Divergence",
+      "description": "Two-panel map showing publicly identified religious-authority responses and the relationship between state-diplomatic participation and wider responses.",
+      "source": "Author’s country-level coding based on Iranian Foreign Ministry and IRNA reporting, related official coverage, and publicly identified religious, civic, movement, cultural, and popular responses.",
+      "note": "Figure 2A codes religious authority. Figure 2B codes Purple = S:Y + W:Y, Blue = S:Y + W:N, Red = S:N + W:Y, Gray = S:P or neither category identified, with Iran treated as a domestic reference. Color meanings are map-specific."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Patterns of Funeral Participation",
+      "description": "Analytical matrix distinguishing Confirmed → Appeared, Confirmed → Absent, Confirmed → Downgraded, and Expected → Expanded participation patterns, with interpretations and illustrative cases.",
+      "source": "Author’s analysis based on official participation reporting and publicly available reporting on alleged participation changes and external pressure.",
+      "note": "Categories are analytical rather than definitive; absence from one ceremony does not necessarily constitute non-attendance across the multi-stage funeral sequence."
+    },
+    {
+      "number": "Table 2",
+      "title": "Country-Level Coding for State-Diplomatic Participation, Religious Authority, and Wider Response",
+      "description": "Auditable country-level master coding table containing ISO-3 code, state-diplomatic participation, religious authority, wider response, Figure 2B classification, anomaly status, evidence tier, and primary evidence keys.",
+      "source": "Appendix A country-level coding framework and source directory.",
+      "note": "The coding universe contains cases with at least one relevant participation, response, anomaly, or unresolved-participation signal; countries outside the table are neutral geographic background rather than substantive N cases."
+    }
+  ],
+  "appendices": [
+    {
+      "number": "Appendix A",
+      "title": "Country-Level Coding Sources",
+      "description": "Provides the auditable coding framework, figure rules, interpretation rules, evidence tiers, country-level master coding table, coding summary, and source directory underlying Figures 1 and 2.",
+      "analytical_cutoff": "2026-07-06T12:00:00-04:00",
+      "sections": [
+        "A.1 Coding Framework",
+        "A.2 Figure Coding Rules",
+        "A.3 Interpretation Rules",
+        "A.4 Evidence Tiers",
+        "A.5 Country-Level Master Coding Table",
+        "A.6 Coding Summary",
+        "A.7 Coding Source Directory"
+      ],
+      "coding_summary": {
+        "figure_1": {
+          "S:Y": 25,
+          "S:P": 10,
+          "S:N": 15,
+          "expanded_participation": "Pakistan",
+          "named_absence_or_downgrade_cases": 0
+        },
+        "figure_2A": {
+          "R:Y": 13,
+          "note": "Includes Iran as the domestic reference case"
+        },
+        "figure_2B": {
+          "Purple": 9,
+          "Blue": 16,
+          "Red": 15,
+          "Gray": 10,
+          "domestic_reference": "Iran"
+        }
+      },
+      "evidence_tiers": {
+        "Tier A": "Named actor, delegation, institution, or official country-specific confirmation",
+        "Tier B": "Country identified in a grouped public report",
+        "Tier C": "Official participation infographic only, with representative level unresolved"
+      }
+    }
+  ],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-07-06",
+    "last_updated": "2026-07-06",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodological note, funeral-route analysis, participation framework, maps, tables, policy implications, limitations, conclusion, references, Appendix A coding framework, country-level master table, coding summary, source directory, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 9–10 are preserved in the metadata references field. Figures 1–2, Tables 1–2, and Appendix A are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "2026-07-06T17:08:57-04:00",
+    "modification_date": "2026-07-06T17:08:57-04:00",
+    "pages": 16
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.061",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-061/",
+    "crossref_doi_suffix": "epinova.pb.2026.061",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.061",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.061",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-061/",
+    "registration_date": "2026-07-06",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
