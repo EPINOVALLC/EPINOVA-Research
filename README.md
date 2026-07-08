@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-062** (2026-07-08)  
+  **Is the U.S.–Israel–Iran Conflict Entering Phase III?: Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.062](https://doi.org/10.67037/epinova.pb.2026.062)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-62/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62)  
+  Source PDF: [`Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62/Is%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20Entering%20Phase%20III%20Residual%20Target%20Depletion%20and%20the%20Shift%20from%20Asset%20Destruction%20to%20Functional%20Disruption.pdf)
+
 - **EPINOVA-PB-2026-061** (2026-07-06)  
   **Khamenei’s Funeral as a Geopolitical Roll Call: The Emerging Middle East–Eurasia Order**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.058](https://doi.org/10.67037/epinova.pb.2026.058)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-58/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58)  
   Source PDF: [`Beyond Model Capability A System-Level Framework for AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58/Beyond%20Model%20Capability%20A%20System-Level%20Framework%20for%20AI%20Power.pdf)
-
-- **EPINOVA-PB-2026-057** (2026-06-15)  
-  **Israel’s Strategic Position After the U.S.–Iran MOU: Options, Constraints, and Implementation Risks**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.057](https://doi.org/10.67037/epinova.pb.2026.057)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-57/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57)  
-  Source PDF: [`Israel’s Strategic Position After the U.S.–Iran MOU Options, Constraints, and Implementation Risks.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-57/Israel%E2%80%99s%20Strategic%20Position%20After%20the%20U.S.%E2%80%93Iran%20MOU%20Options%2C%20Constraints%2C%20and%20Implementation%20Risks.pdf)
 
 ---
 

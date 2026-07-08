@@ -1,0 +1,482 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-062",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-062",
+  "title": "Is the U.S.–Israel–Iran Conflict Entering Phase III?",
+  "subtitle": "Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption",
+  "title_normalized": "is the u.s.–israel–iran conflict entering phase iii",
+  "publication_date": "2026-07-08",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.062",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-062/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–62",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Is the U.S.–Israel–Iran Conflict Entering Phase III?",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Residual Target Depletion (RTD)",
+      "scheme": "Analytical concept",
+      "description": "The progressive decline in the marginal strategic return from further disruption of previously exposed fixed targets as they are destroyed, disabled, evacuated, hardened, dispersed, substituted, or repeatedly attacked"
+    },
+    {
+      "identifier": "Functional disruption",
+      "scheme": "Analytical concept",
+      "description": "A late-phase target logic focused on disrupting the distributed functions that sustain residual operational continuity rather than only destroying visible fixed assets"
+    },
+    {
+      "identifier": "Phase II–III transition zone",
+      "scheme": "Conflict-phase concept",
+      "description": "A provisional analytical condition in which renewed direct escalation may be moving toward a structurally distinct conflict phase but has not yet conclusively crossed the threshold"
+    }
+  ],
+  "description": "This policy brief examines whether the U.S.–Israel–Iran conflict is entering a third phase and introduces Residual Target Depletion (RTD) as a framework for understanding how prolonged conflict changes the strategic value of targets. It argues that Phase III has not yet been conclusively established, but renewed attacks on commercial shipping, new U.S. strikes inside Iran, Iranian retaliation against U.S. military sites in Bahrain and Kuwait, and the erosion of the interim accord place the conflict in a credible Phase II–III transition zone. The brief proposes that, as previously exposed fixed assets are damaged, hardened, dispersed, substituted, or repeatedly attacked, the marginal strategic return from further disruption declines and strategic competition shifts from asset destruction toward the disruption of the functions that sustain residual operational continuity.",
+  "abstract": "The latest escalation along the U.S.–Iran axis raises a central question: is the broader U.S.–Israel–Iran conflict entering Phase III? The evidence remains inconclusive. Renewed attacks on commercial shipping, new U.S. strikes inside Iran, Iranian retaliatory strikes targeting U.S. military sites in Bahrain and Kuwait, and the erosion of the interim accord place the conflict in a credible Phase II–III transition zone. A durable phase transition, however, requires a structural change in how the conflict operates, not merely a temporary increase in strike intensity. If Phase III is emerging, it begins from a fundamentally altered target environment. Earlier phases have already destroyed, disabled, evacuated, hardened, dispersed, or repeatedly exposed many visible high-value assets. This brief introduces Residual Target Depletion (RTD): the progressive decline in the marginal strategic return from further disruption of previously exposed fixed targets. RTD does not mean target exhaustion; it means diminishing returns as assets are damaged, disabled, hardened, dispersed, substituted, or repeatedly exposed. As RTD increases, conflict shifts from asset destruction toward functional disruption. A genuine Phase III would therefore be defined less by larger strikes or a longer target list than by a sustained change in target logic: from attacking visible assets and constraining recovery toward disrupting the distributed functions that sustain residual operational continuity.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Phase III",
+    "Phase II–III transition",
+    "Residual Target Depletion",
+    "RTD",
+    "functional disruption",
+    "asset destruction",
+    "recovery denial",
+    "target logic",
+    "marginal strategic return",
+    "functional centrality",
+    "distributed operations",
+    "networked conflict",
+    "operational continuity",
+    "residual functionality",
+    "target migration",
+    "dispersion",
+    "functional substitution",
+    "maritime security",
+    "Strait of Hormuz",
+    "ISR",
+    "early warning",
+    "distributed basing",
+    "aviation sustainment",
+    "logistics continuity",
+    "network resilience",
+    "interdependent networks",
+    "U.S.–Iran escalation",
+    "strategic competition",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Military operations",
+    "Networked conflict",
+    "Middle East security",
+    "Maritime security",
+    "Military logistics",
+    "Operational resilience",
+    "Infrastructure networks",
+    "Conflict escalation",
+    "Systems analysis",
+    "Defense policy",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-07-08",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-07-08",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-07-08",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-07-08",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62/Is%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20Entering%20Phase%20III%20Residual%20Target%20Depletion%20and%20the%20Shift%20from%20Asset%20Destruction%20to%20Functional%20Disruption.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-062",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Residual Target Depletion (RTD) and Three-Phase Target Logic Framework",
+    "source_basis": "Open-source policy analysis combining contemporary reporting on the U.S.–Iran escalation with network-centric warfare literature, interdependent-network research, infrastructure-recovery research, U.S. Air Force distributed-operations doctrine, and U.S. Marine Corps expeditionary advanced-base concepts.",
+    "case_context": "The broader U.S.–Israel–Iran conflict system, with the renewed U.S.–Iran direct exchange treated as the principal source of current phase-transition risk. The assessment reflects information available as of July 8, 2026, 08:23 ET.",
+    "core_problem": "The central analytical problem is whether renewed escalation represents only a return to higher strike intensity within Phase II or a structural transition toward a Phase III defined by a new target logic centered on the distributed functions that sustain residual operational continuity.",
+    "central_claims": [
+      "The conflict may be entering a Phase II–III transition, but Phase III has not yet been conclusively established.",
+      "A durable phase transition requires structural change in conflict operation, not merely higher strike intensity.",
+      "A third phase would not replay Phase I because the target environment has been altered by destruction, disablement, evacuation, hardening, dispersion, repeated exposure, and functional substitution.",
+      "Residual Target Depletion reduces the marginal strategic return from further disruption of previously exposed fixed targets without exhausting the broader target environment.",
+      "As RTD increases, strategic competition shifts from visible assets toward the distributed functions that sustain operational continuity.",
+      "The clearest indicator of Phase III would be a sustained shift in target logic from asset destruction and recovery denial toward functional disruption."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Phase-Transition Analysis",
+        "description": "Distinguishes temporary escalation from durable structural change by examining recurring direct strike cycles, erosion of the interim accord, target logic, distributed-system centrality, and system-level disruption."
+      },
+      {
+        "name": "Residual Target Depletion",
+        "description": "Assesses how the marginal strategic return from further disruption declines as previously exposed fixed targets are damaged, disabled, evacuated, hardened, dispersed, substituted, or repeatedly attacked."
+      },
+      {
+        "name": "Three-Phase Target Logic",
+        "description": "Interprets Phase I as asset destruction, Phase II as recovery denial, and a possible Phase III as functional disruption."
+      },
+      {
+        "name": "Functional Centrality Analysis",
+        "description": "Evaluates strategic importance according to the functions a node sustains and the dependencies organized around it rather than physical size or visibility alone."
+      },
+      {
+        "name": "Network and Interdependence Analysis",
+        "description": "Examines connectivity, dependency relationships, cascading effects, substitution, redundancy, and recovery sequences across interdependent operational systems."
+      },
+      {
+        "name": "Distributed-Operations Analysis",
+        "description": "Assesses how mobility, dispersed locations, redundancy, alternative operating arrangements, and substitute routes change residual operational continuity."
+      },
+      {
+        "name": "Functional Exposure Assessment",
+        "description": "Compares residual functional importance, system dependence, substitution capacity, and the extent to which earlier conflict has already reduced the marginal strategic return from further disruption."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Marginal Strategic Return",
+      "code": "MR",
+      "indicator_type": "RTD framework component",
+      "description": "The additional strategic effect obtainable from further disruption of a target at a given time.",
+      "interpretation": "Conceptually represented as the interaction of underlying strategic value, current functional relevance, meaningful operational exposure, and additional effect obtainable through further disruption."
+    },
+    {
+      "name": "Underlying Strategic Value",
+      "code": "V",
+      "indicator_type": "RTD framework component",
+      "description": "The baseline strategic importance of a target or functional node.",
+      "interpretation": "A target may retain high underlying value even while its marginal return from additional disruption declines."
+    },
+    {
+      "name": "Current Functional Relevance",
+      "code": "F(t)",
+      "indicator_type": "RTD framework component",
+      "description": "The degree to which the target or node currently sustains an operationally important function.",
+      "interpretation": "Functional relevance may decline after dispersion or substitution, or rise again after repair, reconcentration, or failure of alternatives."
+    },
+    {
+      "name": "Meaningful Operational Exposure",
+      "code": "E(t)",
+      "indicator_type": "RTD framework component",
+      "description": "The extent to which the target remains operationally exposed in a way that permits additional disruption to matter.",
+      "interpretation": "Hardening, evacuation, dispersion, and repeated exposure can reduce meaningful operational exposure."
+    },
+    {
+      "name": "Additional Effect",
+      "code": "A(t)",
+      "indicator_type": "RTD framework component",
+      "description": "The incremental effect still obtainable through further disruption.",
+      "interpretation": "Repeated attacks or prior disablement can reduce the additional effect available from further action."
+    },
+    {
+      "name": "Functional Centrality",
+      "code": "FC",
+      "indicator_type": "Late-phase strategic value dimension",
+      "description": "The system-level importance of the function sustained by a node and the dependencies organized around it.",
+      "interpretation": "In prolonged networked conflict, physical size becomes a less reliable indicator of strategic importance than functional centrality."
+    },
+    {
+      "name": "Substitution Capacity",
+      "code": "SC",
+      "indicator_type": "System resilience dimension",
+      "description": "The availability and quality of alternative locations, routes, platforms, networks, or organizational arrangements that can absorb displaced functions.",
+      "interpretation": "Lower substitution capacity increases the system-level significance of disruption to a function."
+    }
+  ],
+  "key_findings": [
+    "The broader conflict is best assessed as entering a Phase II–III transition zone, not as having conclusively entered Phase III.",
+    "Renewed commercial-shipping attacks, new U.S. strikes inside Iran, Iranian retaliatory strikes targeting U.S. military sites in Bahrain and Kuwait, and erosion of the interim accord have restored a direct escalation loop along the U.S.–Iran axis.",
+    "Escalation intensity alone does not establish a new phase; the decisive indicator is a sustained change in target logic.",
+    "The conflict’s physical geography is increasingly diverging from its functional geography because major assets have been damaged, disabled, evacuated, hardened, dispersed, repeatedly exposed, or functionally substituted.",
+    "Residual Target Depletion means declining marginal strategic return from further disruption of previously exposed fixed targets, not target exhaustion.",
+    "The proposed transition sequence is Depletion → Dispersion → Functional Substitution → Target Migration.",
+    "Phase I is characterized by asset destruction, Phase II by recovery denial, and a possible Phase III by functional disruption.",
+    "In prolonged networked conflict, physical size increasingly diverges from operational criticality, while functional centrality becomes a better indicator of late-phase strategic value.",
+    "A possible Phase III would likely be more distributed, more function-oriented, more maritime, and more ambiguous than Phase I.",
+    "Along the U.S.–Iran escalation axis, maritime operational support and ISR/early-warning continuity are assessed as Very High in both likelihood of becoming more central and strategic significance.",
+    "Distributed operational basing, aviation sustainment, and alternative export-route and logistics continuity are assessed as High in likelihood of becoming more central and Very High in strategic significance.",
+    "Repeatedly exposed major-base functions and severely degraded energy functions may retain political importance while offering lower relative marginal returns from further disruption."
+  ],
+  "policy_recommendations": [
+    "Distinguish renewed escalation from durable phase transition by monitoring persistence, target logic, and structural changes in operational behavior rather than strike intensity alone.",
+    "Track whether affected capabilities have been restored, dispersed, substituted, or transferred elsewhere rather than relying only on physical battle-damage assessments.",
+    "Monitor system redundancy and substitution capacity because vulnerability depends on the number and quality of functional alternatives that remain.",
+    "Separate physical damage from functional decline when assessing system degradation.",
+    "Anticipate wider civilian and third-party exposure as military operations rely more heavily on commercial, maritime, digital, and partner-state systems.",
+    "Preserve deconfliction mechanisms because a more dispersed and ambiguous operating environment increases the risk of miscalculation and unintended escalation."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate",
+      "indicator": "Whether direct U.S.–Iran strike cycles recur beyond the current analytical window",
+      "analytical_purpose": "Tests whether renewed escalation is episodic or becoming structurally self-sustaining."
+    },
+    {
+      "timeframe": "Immediate to near term",
+      "indicator": "Whether the interim accord loses practical regulatory effect",
+      "analytical_purpose": "Assesses whether the political mechanism associated with Phase II is ceasing to constrain direct escalation."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Sustained shift from prominent fixed assets toward residual operational systems",
+      "analytical_purpose": "Provides the clearest evidence that the dominant target logic is moving toward Phase III."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Growing centrality of maritime, distributed, mobile, and substitute systems",
+      "analytical_purpose": "Tests the RTD proposition that strategic value migrates toward functions sustaining residual operational continuity."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Rising system-level disruption without proportional physical destruction",
+      "analytical_purpose": "Indicates whether functional disruption is becoming more important than visible asset destruction."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Changes in redundancy, substitution capacity, recovery sequences, and reconcentration",
+      "analytical_purpose": "Tracks whether marginal strategic return from previously exposed targets is declining, stabilizing, or increasing again."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Alberts, Garstka, and Stein (2000). Network centric warfare",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Book",
+      "description": "Referenced for network-centric operations, connectivity, information flows, and operational architecture"
+    },
+    {
+      "relation": "References",
+      "identifier": "Buldyrev et al. (2010). Catastrophic cascade of failures in interdependent networks",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for cascading effects and interdependent-network failure dynamics"
+    },
+    {
+      "relation": "References",
+      "identifier": "Hu et al. (2016). Recovery of infrastructure networks after localised attacks",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for infrastructure recovery sequences and restoration of network functionality"
+    }
+  ],
+  "references": [
+    "Alberts, D. S., Garstka, J. J., & Stein, F. P. (2000). Network centric warfare: Developing and leveraging information superiority (2nd ed.). Department of Defense Command and Control Research Program. https://www.dodccrp.org/files/Alberts_NCW.pdf",
+    "Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E., & Havlin, S. (2010). Catastrophic cascade of failures in interdependent networks. Nature, 464(7291), 1025–1028. https://doi.org/10.1038/nature08932",
+    "Hu, F., Yeung, C. H., Yang, S., Wang, W., & Zeng, A. (2016). Recovery of infrastructure networks after localised attacks. Scientific Reports, 6, Article 24522. https://doi.org/10.1038/srep24522",
+    "Reuters. (2026a, June 17). The 14-point U.S.-Iran pact as read by U.S. official. https://www.reuters.com/world/middle-east/14-point-draft-us-iran-deal-2026-06-17/",
+    "Reuters. (2026b, July 8). Four oil and gas tankers turn back from Hormuz strait after vessel attacks. https://www.reuters.com/world/middle-east/four-oil-gas-tankers-turn-back-hormuz-strait-after-vessel-attacks-2026-07-08/",
+    "Reuters. (2026c, July 8). Trump says interim accord to end war is “over” after Iranian strikes. https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/",
+    "Reuters. (2026d, July 7). U.S. military launches strikes against Iran, Central Command says. https://www.reuters.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-2026-07-07/",
+    "Reuters. (2026e, June 18). White House sends text of interim U.S.-Iran agreement to U.S. Congress. https://www.reuters.com/world/middle-east/white-house-sends-text-interim-us-iran-agreement-us-congress-2026-06-18/",
+    "U.S. Air Force. (2022, August 23). Air Force Doctrine Note 1-21: Agile combat employment. Curtis E. LeMay Center for Doctrine Development and Education. https://www.doctrine.af.mil/Portals/61/documents/AFDN_1-21/AFDN%201-21%20ACE.pdf",
+    "U.S. Air Force. (2025, January 22). Air Force Doctrine Publication 3-0: Operations. Curtis E. LeMay Center for Doctrine Development and Education. https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-0/AFDP3-0Operations.pdf",
+    "U.S. Central Command. (2026, July 7). U.S. forces complete new round of retaliatory strikes against Iran. https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4535772/us-forces-complete-new-round-of-retaliatory-strikes-against-iran/",
+    "U.S. Marine Corps. (2023, May 9). Tentative manual for expeditionary advanced base operations (2nd ed.). https://www.marines.mil/Portals/1/Docs/230509-Tentative-Manual-For-Expeditionary-Advanced-Base-Operations-2nd-Edition.pdf"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Is the U.S.–Israel–Iran Conflict Entering Phase III? Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption, Policy Brief No. EPINOVA–2026–PB–62, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.062",
+  "citation_apa": "Wu, S. (2026). Is the U.S.–Israel–Iran conflict entering Phase III? Residual target depletion and the shift from asset destruction to functional disruption. EPINOVA Policy Brief Series, EPINOVA-PB-2026-062. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.062.",
+  "short_citation": "Wu (2026), Is the U.S.–Israel–Iran Conflict Entering Phase III?, EPINOVA–2026–PB–62.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-07-08",
+    "pagination": "11 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Three-Phase Evolution of Target Logic",
+      "description": "Analytical comparison of the dominant target logic and strategic object associated with Phase I, Phase II, and a possible Phase III.",
+      "source": "Author’s analysis, informed by Alberts et al. (2000), Hu et al. (2016), U.S. Air Force (2022, 2025), and U.S. Marine Corps (2023).",
+      "note": "The phases represent dominant target logics rather than mutually exclusive or formally designated stages of conflict. Multiple logics may coexist at any given time."
+    },
+    {
+      "number": "Table 2",
+      "title": "Functional Areas of Strategic Pressure Along the U.S.–Iran Escalation Axis in a Possible Phase III",
+      "description": "Qualitative comparison of functional exposure categories by likelihood of becoming more central and strategic significance.",
+      "source": "Author’s assessment based on the RTD framework, informed by network, infrastructure-recovery, distributed-operations, Reuters, and U.S. Central Command sources.",
+      "note": "The table assesses strategic exposure, not targeting probability. Ratings are qualitative and comparative rather than probabilistic."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-07-08",
+    "last_updated": "2026-07-08",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, methodological note, Phase II–III transition assessment, Residual Target Depletion framework, heuristic equations, three-phase target logic, functional-centrality analysis, Phase III characteristics, strategic-pressure table, policy implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. Tables 1–2 and the RTD analytical framework are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260708100439-04'00'",
+    "modification_date": "D:20260708100439-04'00'",
+    "pages": 11
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.062",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-062/",
+    "crossref_doi_suffix": "epinova.pb.2026.062",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.062",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.062",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-062/",
+    "registration_date": "2026-07-08",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
