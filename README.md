@@ -162,6 +162,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-063** (2026-07-17)  
+  **A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure: The China–Russia–Central Asia–Caspian Network**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.063](https://doi.org/10.67037/epinova.pb.2026.063)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-63/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-63)  
+  Source PDF: [`A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-63/A%20Preliminary%20Assessment%20of%20Eastward%20and%20Northward%20Logistics%20Alternatives%20under%20Hormuz%20Pressure%20The%20China%E2%80%93Russia%E2%80%93Central%20Asia%E2%80%93Caspian%20Network.pdf)
+
 - **EPINOVA-PB-2026-062** (2026-07-08)  
   **Is the U.S.–Israel–Iran Conflict Entering Phase III?: Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +196,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.059](https://doi.org/10.67037/epinova.pb.2026.059)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-59/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59)  
   Source PDF: [`AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59/AI%20Capability%20Stratification%20A%20Framework%20for%20the%20Future%20Distribution%20of%20AI%20Power.pdf)
-
-- **EPINOVA-PB-2026-058** (2026-06-25)  
-  **Beyond Model Capability: A System-Level Framework for AI Power**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.058](https://doi.org/10.67037/epinova.pb.2026.058)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-58/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58)  
-  Source PDF: [`Beyond Model Capability A System-Level Framework for AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-58/Beyond%20Model%20Capability%20A%20System-Level%20Framework%20for%20AI%20Power.pdf)
 
 ---
 

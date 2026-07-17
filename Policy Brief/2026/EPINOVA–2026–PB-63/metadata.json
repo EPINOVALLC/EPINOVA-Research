@@ -1,0 +1,535 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-063",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-063",
+  "title": "A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure",
+  "subtitle": "The China–Russia–Central Asia–Caspian Network",
+  "title_normalized": "a preliminary assessment of eastward and northward logistics alternatives under hormuz pressure",
+  "publication_date": "2026-07-17",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.063",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-063/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–63",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Eastward and Northward Logistics Alternatives under Hormuz Pressure",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Distributed logistics redundancy network",
+      "scheme": "Analytical concept",
+      "description": "A logistics network in which rail, inland terminals, Caspian ports, Russian-flagged shipping, and Central Asian border crossings collectively increase routing flexibility without replacing Gulf maritime scale"
+    },
+    {
+      "identifier": "China–Russia–Central Asia–Caspian Network",
+      "scheme": "Analytical concept",
+      "description": "Regional logistics system linking Chinese rail capacity, Central Asian transit geography, Russian Caspian maritime depth, and Caspian port systems"
+    },
+    {
+      "identifier": "Network reconfiguration",
+      "scheme": "Supply-chain concept",
+      "description": "Shift from simple route substitution toward a broader risk-adjusted redesign of modes, nodes, inventories, border crossings, carriers, and contractual relationships"
+    }
+  ],
+  "description": "This policy brief assesses whether pressure on the Strait of Hormuz is increasing the use and strategic value of eastward and northward logistics alternatives linking China, Russia, Central Asia, and the Caspian Sea. It argues that these routes provide redundancy rather than a substitute for Persian Gulf maritime scale. Drawing on China–Central Asia rail data, Caspian port-system indicators, arrival–departure coupling, and Russian-flagged vessel monitoring, the brief finds evidence of more intensive corridor utilization and a distributed logistics redundancy network, while cautioning that the available data do not prove conflict causality, Iran-bound diversion, cargo composition, or final destination.",
+  "abstract": "The U.S.–Israel–Iran conflict and sustained pressure on the Strait of Hormuz have underscored the vulnerability of logistics systems concentrated around a small number of maritime chokepoints. Hormuz remains indispensable to Gulf energy exports and bulk trade, but military risk, higher insurance costs, and uncertainty over passage are increasing the strategic value of alternative routes. The principal adaptation is not a single substitute corridor, but a more distributed Eurasian logistics network linking China, Central Asia, Russia, and the Caspian Sea. Three indicators support this assessment. China–Central Asia rail data for January–June 2026 show that outbound TEU increased by 8.23 percent, compared with a 2.68 percent rise in outbound train numbers. Caspian monitoring shows repeated Baseline Output surges above the historical reference level, elevated vessel counts, and recurring periods of balanced arrival–departure turnover. Russian-flagged cargo-vessel presence likewise increased markedly during June and July. The evidence demonstrates higher corridor activity and utilization more clearly than conflict causality, cargo composition, or final destination. From a supply-chain perspective, the shift is from route substitution to network reconfiguration. The strategic consequence may be cumulative: each disruption episode creates additional operating experience, infrastructure attention, and commercial familiarity with alternative routes.",
+  "keywords": [
+    "Strait of Hormuz",
+    "Hormuz pressure",
+    "China–Russia–Central Asia–Caspian network",
+    "Caspian Sea",
+    "Central Asia logistics",
+    "Eurasian logistics",
+    "distributed logistics redundancy",
+    "network reconfiguration",
+    "supply-chain resilience",
+    "China–Central Asia rail",
+    "TEU",
+    "Caspian port system",
+    "Baseline Output",
+    "arrival–departure coupling",
+    "arrival–departure balance",
+    "Russian-flagged vessels",
+    "Middle Corridor",
+    "International North–South Transport Corridor",
+    "corridor utilization",
+    "maritime chokepoints",
+    "route diversification",
+    "modal diversification",
+    "inventory buffers",
+    "node substitutability",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Supply-chain resilience",
+    "Logistics",
+    "Maritime security",
+    "Caspian Sea studies",
+    "Central Asia",
+    "Eurasian connectivity",
+    "Transportation corridors",
+    "Geoeconomics",
+    "Energy security",
+    "Strategic studies",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-07-17",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-07-17",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-07-17",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-07-17",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-63/A%20Preliminary%20Assessment%20of%20Eastward%20and%20Northward%20Logistics%20Alternatives%20under%20Hormuz%20Pressure%20The%20China%E2%80%93Russia%E2%80%93Central%20Asia%E2%80%93Caspian%20Network.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 10
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-63",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-063",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Distributed Eurasian Logistics Redundancy and Network Reconfiguration Framework",
+    "source_basis": "Open-source policy analysis combining monthly China–Central Asia rail indicators, AIPAMS Caspian Port System Monitor data, Russian-flagged Caspian vessel-monitoring observations, arrival–departure coupling and balance indicators, and corridor literature on the Middle Corridor and International North–South Transport Corridor.",
+    "case_context": "Eastward and northward logistics alternatives linking China, Russia, Central Asia, and the Caspian Sea under U.S.–Israel–Iran conflict conditions and sustained pressure on the Strait of Hormuz. Data cutoff: July 16, 2026, Iran Time (UTC+3:30).",
+    "core_problem": "The central analytical problem is whether Hormuz pressure is coinciding with greater use of eastward and northward logistics alternatives and whether this represents simple route diversion or a broader risk-adjusted reconfiguration of the China–Russia–Central Asia–Caspian logistics network.",
+    "central_claims": [
+      "Pressure on the Strait of Hormuz is increasing the strategic value of Eurasian inland and Caspian routes, but these corridors provide redundancy rather than a substitute for Persian Gulf maritime scale.",
+      "China–Central Asia rail is being used more intensively, with outbound TEU increasing faster than outbound train numbers during January–June 2026.",
+      "The Caspian port system shows recurrent activation and broadly balanced turnover, but the indicators do not establish higher port efficiency.",
+      "The northern Caspian node became more visibly active during June and July, with Russian-flagged cargo-vessel presence rising substantially above most April observations.",
+      "The emerging pattern is best understood as a distributed logistics redundancy network rather than a single substitute route.",
+      "The evidence supports higher corridor activity more clearly than conflict causality, cargo composition, final destination, or Iran-bound diversion."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Distributed Redundancy Analysis",
+        "description": "Assesses how rail, ports, vessels, border crossings, and inland terminals collectively create routing flexibility without replacing Gulf maritime scale."
+      },
+      {
+        "name": "Rail Utilization Analysis",
+        "description": "Compares outbound train numbers, outbound TEU, total train numbers, total TEU, and derived TEU-per-train changes during January–June 2025 and January–June 2026."
+      },
+      {
+        "name": "Caspian Port-System Monitoring",
+        "description": "Uses Baseline Output relative to a historical reference level to assess recurrent system activation and relative activity rhythm."
+      },
+      {
+        "name": "Arrival–Departure Coupling Analysis",
+        "description": "Evaluates whether arrivals and departures rise together, suggesting sustained turnover rather than persistent vessel accumulation."
+      },
+      {
+        "name": "Russian-Flagged Vessel Monitoring",
+        "description": "Tracks visible Russian-flagged cargo vessels, tankers, and special craft in the Caspian Sea to assess activation of the northern Caspian node."
+      },
+      {
+        "name": "Supply-Chain Network Reconfiguration",
+        "description": "Interprets the shift from route substitution toward broader diversification across modes, nodes, inventory buffers, border crossings, carriers, and contractual arrangements."
+      },
+      {
+        "name": "Confidence-Calibrated Assessment",
+        "description": "Separates observed corridor utilization from inferred conflict contribution, possible Iran-bound diversion, longer-term corridor development, and replacement of Hormuz at comparable scale."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Outbound Trains",
+      "code": "OT",
+      "indicator_type": "Rail activity dimension",
+      "description": "Number of China–Central Asia outbound freight trains during January–June reporting periods.",
+      "observed_pattern": "Outbound trains increased from 2,645 in January–June 2025 to 2,716 in January–June 2026, a 2.68 percent rise.",
+      "interpretation": "Indicates modest frequency growth."
+    },
+    {
+      "name": "Outbound TEU",
+      "code": "OTEU",
+      "indicator_type": "Rail volume dimension",
+      "description": "Reported outbound twenty-foot equivalent units carried during January–June reporting periods.",
+      "observed_pattern": "Outbound TEU increased from 233,112 in January–June 2025 to 252,293 in January–June 2026, an 8.23 percent rise.",
+      "interpretation": "Indicates stronger growth in container volume than outbound train frequency."
+    },
+    {
+      "name": "Total Trains",
+      "code": "TT",
+      "indicator_type": "Rail activity dimension",
+      "description": "Total train numbers during January–June reporting periods.",
+      "observed_pattern": "Total trains increased from 4,135 in January–June 2025 to 4,386 in January–June 2026, a 6.07 percent rise.",
+      "interpretation": "Indicates broader corridor activity expansion."
+    },
+    {
+      "name": "Total TEU",
+      "code": "TTEU",
+      "indicator_type": "Rail volume dimension",
+      "description": "Total reported TEU during January–June reporting periods.",
+      "observed_pattern": "Total TEU increased from 384,362 in January–June 2025 to 411,049 in January–June 2026, a 6.94 percent rise.",
+      "interpretation": "Indicates higher total reported containerized activity."
+    },
+    {
+      "name": "Reported Outbound TEU per Train",
+      "code": "OTEU/PT",
+      "indicator_type": "Derived rail utilization ratio",
+      "description": "Derived ratio of outbound TEU to outbound train numbers.",
+      "observed_pattern": "Reported outbound TEU per train increased from approximately 88.1 to 92.9, about a 5.4 percent gain.",
+      "interpretation": "Suggests more intensive use of reported outbound rail services but should not be read as a verified physical load factor."
+    },
+    {
+      "name": "Baseline Output",
+      "code": "BO",
+      "indicator_type": "Caspian port-system activity indicator",
+      "description": "Standardized estimate derived from observed port activity and assumed tonnage-per-departure conversion.",
+      "observed_pattern": "Repeatedly exceeded the historical reference level, including several episodes above 100,000 tons per day.",
+      "interpretation": "Shows relative system rhythm and recurrent activation, not audited cargo throughput."
+    },
+    {
+      "name": "Arrival–Departure Coupling",
+      "code": "ADC",
+      "indicator_type": "Caspian turnover indicator",
+      "description": "Indicator of whether arrivals and departures rise together.",
+      "observed_pattern": "Recurring synchronization during elevated activity periods.",
+      "interpretation": "Suggests sustained vessel processing rather than persistent vessel accumulation."
+    },
+    {
+      "name": "Arrival–Departure Balance",
+      "code": "ADB",
+      "indicator_type": "Caspian turnover indicator",
+      "description": "Indicator comparing arrival and departure balance against a reference level.",
+      "observed_pattern": "Remained relatively close to its reference level during much of the observation period.",
+      "interpretation": "Suggests broadly balanced turnover, but does not establish centralized coordination or higher port efficiency."
+    },
+    {
+      "name": "Russian-Flagged Cargo-Vessel Presence",
+      "code": "RFCV",
+      "indicator_type": "Northern Caspian vessel activity dimension",
+      "description": "Visible Russian-flagged cargo-vessel counts in the Caspian Sea.",
+      "observed_pattern": "Rose in several waves to approximately 30–31 in mid-June and 28–30 in mid-July, substantially above most April observations.",
+      "interpretation": "Indicates stronger visible activity by a key northern Caspian node, but flag status does not establish beneficial ownership, cargo origin, cargo type, or final destination."
+    }
+  ],
+  "key_findings": [
+    "Pressure on the Strait of Hormuz is increasing the strategic value of Eurasian inland and Caspian routes, but those corridors provide redundancy rather than equivalence.",
+    "From January to June 2026, outbound TEU increased by 8.23 percent while outbound train numbers increased by 2.68 percent.",
+    "Reported outbound TEU per train increased from approximately 88.1 to 92.9, a gain of about 5.4 percent.",
+    "Total TEU increased by 6.94 percent and total train numbers increased by 6.07 percent during the January–June comparison.",
+    "Caspian Baseline Output repeatedly exceeded the historical reference level and included several episodes above 100,000 tons per day.",
+    "Arrival–Departure Coupling showed recurring synchronization, while Arrival–Departure Balance remained relatively close to its reference level during much of the observation period.",
+    "The Caspian indicators suggest sustained and broadly balanced turnover rather than persistent vessel accumulation, but do not establish higher port efficiency.",
+    "Visible Russian-flagged cargo-vessel counts rose sharply in June and July, reaching approximately 30–31 in mid-June and 28–30 in mid-July.",
+    "The evidence demonstrates higher corridor activity and utilization more clearly than conflict causality, cargo composition, Iran-bound diversion, or final destination.",
+    "The emerging logistics pattern is better understood as network reconfiguration than simple route diversion.",
+    "Regional corridor utilization is assessed with high confidence; conflict contribution is plausible but only medium confidence; Iran-bound diversion remains low–medium confidence; longer-term corridor development is likely to be reinforced with medium–high confidence; replacement of Hormuz at comparable scale is assessed as not feasible with high confidence."
+  ],
+  "policy_recommendations": [
+    "Monitor systems rather than individual shipments by assessing TEU per train, Baseline Output, vessel mix, arrival–departure coupling, directional imbalance, border processing, and transshipment time together.",
+    "Treat Central Asia as an active strategic space rather than a passive bridge because regional states can shape routing, access, fees, and corridor governance.",
+    "Distinguish resilience from replacement because the network’s strategic value lies in preserving continuity and reducing dependence on a single chokepoint.",
+    "Measure supply-chain resilience rather than volume alone by tracking lead-time variability, inventory buffers, schedule reliability, node substitutability, and recovery time.",
+    "Expect temporary rerouting to become partially durable once commercial actors establish contracts, schedules, customs routines, tracking systems, and consolidation hubs.",
+    "Avoid overstating Iran-specific conclusions because the better-supported finding is growth in China–Russia–Central Asia–Caspian connectivity."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Near term",
+      "indicator": "Changes in China–Central Asia outbound TEU, outbound train numbers, and TEU-per-train ratios",
+      "analytical_purpose": "Tracks whether rail utilization continues to rise faster than service frequency."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Baseline Output deviations from the historical reference level",
+      "analytical_purpose": "Assesses whether Caspian port-system activation remains elevated."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Arrival–Departure Coupling and Arrival–Departure Balance",
+      "analytical_purpose": "Distinguishes sustained turnover from vessel accumulation or directional imbalance."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Visible Russian-flagged cargo-vessel, tanker, and special-craft counts",
+      "analytical_purpose": "Tracks activation of the northern Caspian node and possible changes in vessel mix."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Cargo manifests, vessel identities, berth records, port-call data, freight rates, lead times, and delivery-reliability data",
+      "analytical_purpose": "Tests cargo composition, final destination, Iran-bound diversion, and supply-chain performance claims."
+    },
+    {
+      "timeframe": "Medium term",
+      "indicator": "New contracts, schedules, customs routines, consolidation hubs, and intermodal investments",
+      "analytical_purpose": "Assesses whether temporary route diversification becomes durable network reconfiguration."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026a). AIPAMS Caspian Port System Monitor, April–July 2026",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Dataset",
+      "description": "Unpublished dataset used for Caspian port-system Baseline Output and activity rhythm analysis"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026b). Central Asia freight-train dataset, January–June 2025 and January–June 2026",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Dataset",
+      "description": "Unpublished dataset used for rail train and TEU comparison"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026c). Russian-flagged vessels in the Caspian Sea, April–July 2026",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Dataset",
+      "description": "Unpublished dataset used for Russian-flagged vessel activity analysis"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026d). Two summits, two signals",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for Caspian shipping rhythm and China–Russia redundancy analysis"
+    }
+  ],
+  "references": [
+    "Asian Development Bank. (2021). Unlocking transport connectivity in the Caucasus and Central Asia. https://www.adb.org/publications/unlocking-transport-connectivity-in-the-caucasus-and-central-asia",
+    "Belt and Road Portal. (2026a, January 20). China’s Tianjin inaugurates cross-Caspian freight route to Azerbaijan. https://eng.yidaiyilu.gov.cn/p/05G5DQLE.html",
+    "Belt and Road Portal. (2026b, June 4). First JSQ freight train from Guizhou to Central Asia departs. https://eng.yidaiyilu.gov.cn/p/0SFH84BA.html",
+    "Central Asia Regional Economic Cooperation Program. (n.d.). Corridor performance measurement and monitoring. Retrieved July 15, 2026, from https://cpmm.carecprogram.org/",
+    "State Council Information Office of the People’s Republic of China. (2026a, June 15). China’s rail freight, passenger traffic post steady growth in first five months. https://english.scio.gov.cn/pressroom/2026-06/15/content_118549513.html",
+    "State Council Information Office of the People’s Republic of China. (2026b, May 9). China’s western rail gateway speeds freight links to Europe, Central Asia. https://english.scio.gov.cn/m/beltandroad/2026-05/09/content_118484975.html",
+    "State Council of the People’s Republic of China. (2025, April 22). Regular freight train route links China’s Chongqing with Uzbekistan. https://english.www.gov.cn/news/202504/22/content_WS6807016cc6d0868f4e8f1f44.html",
+    "Tianjin Economic-Technological Development Area. (2026, January 23). Tianjin launches first trans-Caspian Central Asia freight train route. https://invest.teda.gov.cn/contents/1490/100625.html",
+    "Trans-Caspian International Transport Route Association. (n.d.). Trans-Caspian international transport route. Retrieved July 15, 2026, from https://middlecorridor.com/en/",
+    "Trans-Caspian International Transport Route Association. (2024, November 14). Kazakhstan, Azerbaijan and China to build intermodal cargo terminal in Baku Port. https://middlecorridor.com/en/press-center/news/kazakhstan-azerbaijan-and-china-to-build-intermodal-cargo-terminal-in-baku-port",
+    "Trans-Caspian International Transport Route Association. (2025, March 4). General meeting of the Trans-Caspian International Transport Route Association. https://middlecorridor.com/en/press-center/news/04-03-2025",
+    "United Nations Economic Commission for Europe. (2004). Agreement on the North–South International Transport Corridor. https://unece.org/DAM/trans/doc/2004/itc/TRANS-2004-12e.doc",
+    "United Nations Economic Commission for Europe. (2020). High-level joint event: United Nations Economic Commission for Europe and Shanghai Cooperation Organisation—Transport connectivity and corridors. https://unece.org/DAM/trans/doc/2020/itc/Concept_Note-SCO-UNECE_side_event.pdf",
+    "U.S. Energy Information Administration. (2026, March 3). World oil transit chokepoints. https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints",
+    "World Bank. (2023a, November 27). Middle Corridor through Central Asia, Caucasus can boost trade, connectivity, and supply chain resilience. https://www.worldbank.org/en/news/press-release/2023/11/27/middle-corridor-through-central-asia-caucasus-can-boost-trade-connectivity-and-supply-chain-resilience",
+    "World Bank. (2023b). Middle Trade and Transport Corridor: Policies and investments to triple freight volumes and halve travel time by 2030. https://thedocs.worldbank.org/en/doc/6248f697aed4be0f770d319dcaa4ca52-0080062023/original/Middle-Trade-and-Transport-Corridor-World-Bank-FINAL.pdf",
+    "Wu, S. (2026a). AIPAMS Caspian Port System Monitor, April–July 2026 [Unpublished dataset]. EPINOVA LLC.",
+    "Wu, S. (2026b). Central Asia freight-train dataset, January–June 2025 and January–June 2026 [Unpublished dataset]. EPINOVA LLC.",
+    "Wu, S. (2026c). Russian-flagged vessels in the Caspian Sea, April–July 2026 [Unpublished dataset]. EPINOVA LLC.",
+    "Wu, S. (2026d). Two summits, two signals: U.S.–China crisis management, China–Russia redundancy, and Caspian shipping rhythm (Policy Brief No. EPINOVA–2026–PB–50). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.050"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure: The China–Russia–Central Asia–Caspian Network, Policy Brief No. EPINOVA–2026–PB–63, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.063",
+  "citation_apa": "Wu, S. (2026). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure: The China–Russia–Central Asia–Caspian network. EPINOVA Policy Brief Series, EPINOVA-PB-2026-063. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.063.",
+  "short_citation": "Wu (2026), A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure, EPINOVA–2026–PB–63.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-07-17",
+    "pagination": "10 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Central Asia Freight-Train Activity, January–June 2025 and January–June 2026",
+      "description": "Bar chart comparing percentage growth in outbound trains, outbound TEU, total trains, and total TEU between January–June 2025 and January–June 2026.",
+      "source": "Author’s calculations based on company reports and operational data compiled in the Central Asia freight-train dataset (Wu, 2026b).",
+      "note": "TEU denotes twenty-foot equivalent units. Percentage changes compare January–June 2026 with January–June 2025. The data measure aggregate corridor activity and do not identify final cargo destination. Reported TEU per train is a derived ratio and should not be interpreted as a verified physical load factor."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Caspian Port-System Baseline Output Relative to the Historical Reference Level, April–July 2026",
+      "description": "Line chart showing Caspian port-system Baseline Output relative to the historical reference level from April to July 2026.",
+      "source": "Author’s calculations using the AIPAMS Caspian Port System Monitor (Wu, 2026a).",
+      "note": "Baseline Output is a standardized estimate derived from observed port activity and an assumed tonnage-per-departure conversion. It is intended to show relative system rhythm and deviation from the historical reference level, not audited cargo throughput. Observations end on July 16, 2026, Iran Time."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Visible Russian-Flagged Cargo Vessels, Tankers, and Special Craft in the Caspian Sea, April–July 2026",
+      "description": "Line chart showing visible Russian-flagged cargo vessels, tankers, and special craft in the Caspian Sea from April to July 2026.",
+      "source": "Author’s Russian-flagged vessel-monitoring dataset (Wu, 2026c).",
+      "note": "Vessel counts reflect visible observations and flag classification at each monitoring point. AIS deactivation, reflagging, duplicate records, classification changes, and incomplete transmission may affect totals. Flag status does not establish beneficial ownership, cargo origin, cargo type, or final destination. Data end on July 16, 2026, Iran Time."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Evidence Structure for a Distributed Eurasian Redundancy Network",
+      "description": "Evidence matrix summarizing directly observed signals, functional roles, inferred significance, and main limitations for China–Central Asia rail, Central Asian transit space, Russian-flagged Caspian vessels, and the Caspian port system.",
+      "source": "Author’s synthesis based on the Central Asia freight-train dataset, the AIPAMS Caspian Port System Monitor, the Russian-flagged Caspian vessel-monitoring dataset, and the corridor literature cited in Sections 1–5.",
+      "note": "The table distinguishes directly observed activity from inferred significance. Russian-flagged vessels refers to vessels identified as flying the Russian flag at the time of observation; flag status does not necessarily indicate beneficial ownership, cargo origin, or final destination."
+    },
+    {
+      "number": "Table 2",
+      "title": "Confidence-Calibrated Assessment of Corridor Utilization and Strategic Effects",
+      "description": "Qualitative confidence-calibrated assessment of regional corridor utilization, conflict contribution, Iran-bound diversion, long-term corridor development, and replacement of Hormuz.",
+      "source": "Author’s assessment based on the evidence and references presented in Sections 1–7, including EIA (2026), World Bank (2023a, 2023b), TITR Association (2024, 2025), and Wu (2026a, 2026b, 2026c, 2026d).",
+      "note": "Confidence levels are qualitative judgments. High indicates direct support from multiple observed indicators; medium indicates a plausible interpretation with competing explanations; low–medium indicates incomplete destination or cargo evidence. The categories are not statistical confidence intervals."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-07-17",
+    "last_updated": "2026-07-17",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, scope and analytical approach, distributed redundancy framework, rail utilization analysis, Caspian port-system indicators, arrival–departure coupling and balance, Russian-flagged vessel analysis, supply-chain interpretation, strategic assessment, policy implications, limitations, conclusion, figures, tables, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 10 are preserved in the metadata references field. Figures 1–3 and Tables 1–2 are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260717122942-04'00'",
+    "modification_date": "D:20260717122942-04'00'",
+    "pages": 10
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.063",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-063/",
+    "crossref_doi_suffix": "epinova.pb.2026.063",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.063",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.063",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-063/",
+    "registration_date": "2026-07-17",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
