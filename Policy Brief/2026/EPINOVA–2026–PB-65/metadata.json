@@ -1,0 +1,503 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-065",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-065",
+  "title": "Operational Control versus Systemic Connectivity",
+  "subtitle": "The Emerging Structure of U.S.–China Competition under Networked Warfare",
+  "title_normalized": "operational control versus systemic connectivity",
+  "publication_date": "2026-07-30",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.065",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-065/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–65",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Operational Control versus Systemic Connectivity",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Operational-control center",
+      "scheme": "Analytical concept",
+      "description": "An actor capable of organizing military action across an integrated security network through command, access, intelligence, targeting, logistics, alliance coordination, and cross-theater allocation"
+    },
+    {
+      "identifier": "Systemic-connectivity node",
+      "scheme": "Analytical concept",
+      "description": "An actor whose industrial, commercial, logistical, and diplomatic position materially affects how a wider system absorbs and adjusts to disruption"
+    },
+    {
+      "identifier": "Networked wartime system",
+      "scheme": "Analytical concept",
+      "description": "A cross-theater structure in which military operations, industrial capacity, logistics, energy, information, and diplomatic access become mutually constraining even without unified command or common war aims"
+    }
+  ],
+  "description": "This policy brief examines the emerging structure of U.S.–China competition under networked warfare. It argues that competition is becoming functional as well as geographic: the United States and China can shape the same cross-theater conflict environment without acting as opposing belligerents in the same war. The brief distinguishes two forms of functional centrality. The United States operates primarily as an operational-control center, organizing high-end military action through alliances, intelligence, bases, logistics, targeting networks, and cross-theater allocation. China functions increasingly as a systemic-connectivity node, shaping how production, trade, energy, logistics, and diplomatic access adjust to disruption across actors that do not form a coherent bloc. The brief concludes that long-war advantage will depend on the ability to combine high-end operational control with sustainable production, repair, rerouting, recovery, and systemic adaptability.",
+  "abstract": "U.S.–China strategic competition is commonly framed through the Indo-Pacific or through bilateral comparisons of military platforms, technology, and economic scale. That framing is increasingly incomplete. The Russia–Ukraine war, the U.S.–Israel–Iran conflict, Red Sea instability, Caspian insecurity, and Indo-Pacific deterrence remain distinct, but they increasingly draw on overlapping stocks, tanker and surveillance fleets, transport networks, industrial inputs, energy routes, and political attention. This brief argues that the emerging structure is best understood through two different forms of functional centrality. The United States operates primarily as an operational-control center: it organizes high-end military action through alliances, intelligence, bases, logistics, targeting networks, and cross-theater allocation. China functions increasingly as a systemic-connectivity node: it affects how production, trade, energy, logistics, and diplomatic access adjust to disruption across actors that do not form a coherent bloc. The long-war question is which actor or coalition can more effectively combine both forms of power. The United States must make operational control more sustainable through production, repair, allied capacity, and cross-theater allocation discipline. China must convert systemic connectivity into credible but bounded influence without assuming security obligations it cannot enforce. Middle powers exposed to both systems should reduce concentrated vulnerabilities through diversified suppliers, routes, repair capacity, and clearly defined alignment thresholds.",
+  "keywords": [
+    "U.S.–China competition",
+    "networked warfare",
+    "networked wartime system",
+    "operational control",
+    "systemic connectivity",
+    "operational-control center",
+    "systemic-connectivity node",
+    "cross-theater allocation",
+    "long-war competition",
+    "industrial base",
+    "defense production",
+    "munition stockpiles",
+    "Patriot missiles",
+    "PAC-3",
+    "missile defense",
+    "shipbuilding",
+    "systemic warfare",
+    "route substitutability",
+    "supplier density",
+    "cross-alignment access",
+    "adjustment capacity",
+    "enforcement deficit",
+    "managed differentiation",
+    "competitive stabilization",
+    "adversarial system alignment",
+    "middle powers",
+    "strategic autonomy",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic competition",
+    "U.S.–China relations",
+    "Networked warfare",
+    "Military logistics",
+    "Defense industrial base",
+    "Supply-chain resilience",
+    "Geoeconomics",
+    "Alliance management",
+    "Crisis management",
+    "Middle East security",
+    "Eurasian connectivity",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-07-30",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-07-30",
+      "date_type": "Created",
+      "description": "PDF creation date from embedded metadata"
+    },
+    {
+      "date": "2026-07-30",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-07-30",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65/Operational%20Control%20versus%20Systemic%20Connectivity%20The%20Emerging%20Structure%20of%20U.S.%E2%80%93China%20Competition%20under%20Networked%20Warfare.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 14
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-065",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Operational Control versus Systemic Connectivity Framework",
+    "source_basis": "Open-source policy analysis drawing on public reporting, official budget documents, defense-industrial analysis, Chinese industrial data, Reuters reporting, and prior EPINOVA research on continentalized conflict, logistics alternatives, industrial war, network war, and systemic warfare.",
+    "case_context": "U.S.–China competition under networked warfare across a wider conflict environment linking the Russia–Ukraine war, U.S.–Israel–Iran conflict, Red Sea instability, Caspian insecurity, and Indo-Pacific deterrence. Analytical cutoff: July 30, 2026.",
+    "core_problem": "The central analytical problem is how U.S.–China competition changes when regional wars remain politically separate but increasingly draw on overlapping stocks, tanker and surveillance fleets, transport networks, industrial inputs, energy routes, diplomatic access, and political attention.",
+    "central_claims": [
+      "U.S.–China competition under networked warfare is becoming functional as well as geographic.",
+      "The United States remains the principal operational-control center, but that architecture creates exposure to inventory pressure, long logistics, alliance divergence, and competing regional commitments.",
+      "China is becoming a major systemic-connectivity node rather than an equivalent military command center.",
+      "The central competition is between the capacity to organize high-end military action and the capacity to sustain, reroute, repair, and regenerate the wider system under prolonged disruption.",
+      "Neither operational control nor systemic connectivity is sufficient by itself.",
+      "Long-war advantage will belong to the actor or coalition able to combine high-end action, sustainable scale, repair, replenishment, rerouting, recovery, and political freedom of action."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Operational-Control Analysis",
+        "description": "Evaluates the capacity to organize and sustain military action across theaters through alliances, intelligence, bases, ISR, targeting, logistics, and scarce high-end capability allocation."
+      },
+      {
+        "name": "Systemic-Connectivity Analysis",
+        "description": "Assesses the capacity to preserve, redirect, and regenerate production, trade, energy, logistics, communications, and diplomatic flows across politically divided but economically interdependent actors."
+      },
+      {
+        "name": "Cross-Theater Allocation Analysis",
+        "description": "Examines how simultaneous conflicts compete for interceptors, tankers, surveillance assets, transport networks, industrial inputs, energy routes, and political attention."
+      },
+      {
+        "name": "Long-War Competition Analysis",
+        "description": "Assesses how production, repair, replacement, logistics, recovery, and political endurance alter the value of initial high-end superiority."
+      },
+      {
+        "name": "Trajectory Analysis",
+        "description": "Defines managed differentiation, competitive stabilization, and adversarial system alignment as three possible strategic trajectories."
+      },
+      {
+        "name": "Middle-Power Exposure Analysis",
+        "description": "Examines how actors exposed to both U.S.-linked security networks and China-linked economic networks can reduce concentrated dependence and preserve strategic autonomy."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Operational Control",
+      "code": "OC",
+      "indicator_type": "Functional centrality dimension",
+      "description": "Capacity to organize and sustain military action across theaters through command, access, ISR, targeting, logistics, alliance coordination, and scarce high-end capability allocation.",
+      "interpretation": "Predominant U.S. source of strategic centrality under networked warfare."
+    },
+    {
+      "name": "Systemic Connectivity",
+      "code": "SC",
+      "indicator_type": "Functional centrality dimension",
+      "description": "Capacity to preserve, redirect, and regenerate relationships and flows across actors that are politically divided but economically interdependent.",
+      "interpretation": "Predominant Chinese source of strategic centrality under networked warfare."
+    },
+    {
+      "name": "Flow Centrality",
+      "code": "FC",
+      "indicator_type": "Systemic-connectivity indicator",
+      "description": "The degree to which an actor occupies a consequential position in energy, trade, logistics, and critical-product flows.",
+      "interpretation": "Higher flow centrality increases influence over how disruption is absorbed or redirected."
+    },
+    {
+      "name": "Route Substitutability",
+      "code": "RS",
+      "indicator_type": "Systemic-connectivity indicator",
+      "description": "The capacity to provide or activate alternative transport, transit, or sourcing pathways when existing routes are disrupted.",
+      "interpretation": "Higher route substitutability reduces dependence on a single chokepoint or corridor."
+    },
+    {
+      "name": "Supplier Density",
+      "code": "SD",
+      "indicator_type": "Systemic-connectivity indicator",
+      "description": "The availability of multiple producers, qualified suppliers, and replaceable components across strategically relevant sectors.",
+      "interpretation": "Supplier density can support adjustment and regeneration under disruption."
+    },
+    {
+      "name": "Cross-Alignment Access",
+      "code": "CAA",
+      "indicator_type": "Systemic-connectivity indicator",
+      "description": "The ability to sustain economic, logistical, and diplomatic relations with actors positioned on different sides of a conflict.",
+      "interpretation": "Cross-alignment access broadens diplomatic and commercial reach but does not imply command authority."
+    },
+    {
+      "name": "Adjustment Capacity",
+      "code": "AC",
+      "indicator_type": "Systemic-connectivity indicator",
+      "description": "The speed and effectiveness with which production, inventories, and flows can be rerouted, substituted, or reconfigured after disruption.",
+      "interpretation": "Adjustment capacity determines how effectively connectivity can become resilience."
+    },
+    {
+      "name": "Enforcement Deficit",
+      "code": "ED",
+      "indicator_type": "Connectivity limitation indicator",
+      "description": "The gap between possessing economic or diplomatic access and being able to translate that access into reliable policy compliance.",
+      "interpretation": "Defines the limit of Chinese systemic leverage when coercive enforcement or direct protection is required."
+    },
+    {
+      "name": "Operational Option Compression",
+      "code": "OOC",
+      "indicator_type": "Operational-control limitation indicator",
+      "description": "Condition in which an actor can still act, but fewer options remain simultaneously affordable, sustainable, and compatible with commitments elsewhere.",
+      "interpretation": "Defines a major U.S. vulnerability under multi-theater pressure."
+    }
+  ],
+  "key_findings": [
+    "U.S.–China competition under networked warfare is becoming functional as well as geographic.",
+    "The two powers can shape the same wider conflict environment without acting as opposing belligerents in the same war.",
+    "The United States remains the principal operational-control center through alliances, intelligence, bases, logistics, targeting, and cross-theater allocation.",
+    "The U.S. operational-control architecture creates exposure to inventory pressure, long logistics, alliance divergence, and competing regional commitments.",
+    "China is becoming a systemic-connectivity node through industrial depth, energy and trade relationships, logistics alternatives, and diplomatic access.",
+    "China’s access is real but does not equal control; economic relations and diplomatic channels do not automatically compel restraint or create security guarantees.",
+    "The central competition is not simply U.S. technology versus Chinese manufacturing, but high-end action versus sustained rerouting, repair, replenishment, and system regeneration.",
+    "Operational control without replenishment can become brittle; connectivity without protection can remain exposed.",
+    "Five long-war tendencies are identified: initial superiority is not durable advantage; flows become more important as stocks decline; defensive success can mean changing exchange ratios; recovery is combat power; and cross-theater opportunity cost can become a strategic weapon.",
+    "Three strategic trajectories are identified: managed differentiation, competitive stabilization, and adversarial system alignment.",
+    "Current public evidence does not establish adversarial system alignment or an integrated China–Russia–Iran operational mechanism.",
+    "Middle powers should pursue diversified dependence rather than passive neutrality or complete self-sufficiency."
+  ],
+  "policy_recommendations": [
+    "For the United States, conduct an integrated theater and inventory review across European, Middle Eastern, and Indo-Pacific requirements.",
+    "For the United States, preserve crisis communication with China on commercial shipping, dual-use logistics, sanctions enforcement, infrastructure protection, and material support to active belligerents.",
+    "For the United States, build a sustainable high–low force architecture and reserve scarce systems for threats and targets that justify replacement costs.",
+    "For the United States, expand allied production, repair, inventory coordination, industrial mobilization, enabling infrastructure, and endurance-based deterrence measures.",
+    "For China, clarify the limits of Chinese security commitments and distinguish commercial protection, diplomacy, evacuation, maritime coordination, military support, and formal security guarantees.",
+    "For China, separate commercial connectivity from belligerent support and reduce the risk that China-linked logistics networks become targets of interdiction or secondary sanctions.",
+    "For China, strengthen alternative logistics and recovery networks while improving the conversion of industrial capacity into strategically usable, interoperable, and resilient influence.",
+    "For China, reduce maritime and chokepoint exposure while building credible but bounded crisis-mediation capacity.",
+    "For middle powers, map dual dependencies and alignment risks across U.S.-linked security networks and China-linked economic networks.",
+    "For middle powers, establish emergency procurement and communication mechanisms, diversify suppliers and routes, build selective strategic autonomy through regional cooperation, avoid exclusive dependence on a single strategic network, and invest in recovery capacity."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Near term",
+      "indicator": "Practical coordination on shipping or de-escalation without common enforcement arrangements",
+      "analytical_purpose": "Indicates managed differentiation between U.S. operational control and Chinese systemic connectivity."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Parallel diplomatic initiatives, competing monitoring proposals, or rival corridor-security arrangements",
+      "analytical_purpose": "Signals movement toward competitive stabilization."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Sustained Chinese military resupply to a belligerent in direct conflict with U.S. forces",
+      "analytical_purpose": "Would indicate movement toward adversarial system alignment."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Explicit U.S. linkage of Middle Eastern or European conflict planning to Indo-Pacific coercion",
+      "analytical_purpose": "Would indicate cross-theater escalation of the U.S.–China competition frame."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Coordinated Russia–China–Iran operational planning or targeting support",
+      "analytical_purpose": "Would materially narrow the threshold toward systemic confrontation."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "Interdiction or attack against China-linked transport nodes on the basis of belligerent support",
+      "analytical_purpose": "Would transform commercial connectivity into a direct target environment."
+    },
+    {
+      "timeframe": "Medium term",
+      "indicator": "Open integration of U.S. and allied allocation plans against a combined Eurasian challenge",
+      "analytical_purpose": "Would indicate a more consolidated strategic response to an adversarial system alignment scenario."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026a). From separate wars to linked battlefields",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for continentalized conflict and advanced cross-theater coupling"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026b). Industrial war and network war",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced for operational logics and long-war competition"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026c). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for China–Russia–Central Asia–Caspian logistics alternatives"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026d). Systemic warfare in the networked age",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced for systemic warfare and networked wartime systems"
+    }
+  ],
+  "references": [
+    "Funaiole, M. P. (2026, July 22). Charting a new course: Countering China’s dominance in global shipbuilding. Center for Strategic and International Studies. https://www.csis.org/analysis/charting-new-course-countering-chinas-dominance-global-shipbuilding",
+    "Jones, S. G., & Palmer, A. (2024, March 6). China outpacing U.S. defense industrial base. Center for Strategic and International Studies. https://www.csis.org/analysis/china-outpacing-us-defense-industrial-base",
+    "McGinn, J., & Dilts, A. J. (2026, July 6). Is the industrial base on a wartime footing? A progress report. Center for Strategic and International Studies. https://www.csis.org/analysis/industrial-base-wartime-footing-progress-report",
+    "National Bureau of Statistics of China. (2026, July 17). Industrial production operation in June 2026. https://www.stats.gov.cn/english/PressRelease/202607/t20260717_1964159.html",
+    "Reuters. (2026a, July 30). Can China restrain Iran? Gulf states test Beijing’s influence. https://www.reuters.com/world/china/can-china-restrain-iran-gulf-states-test-beijings-influence-2026-07-30/",
+    "Reuters. (2026b, July 28). China in touch with Yemen’s Houthis to allow ships to sail through Red Sea, sources say. https://www.reuters.com/world/china/china-touch-with-yemens-houthis-allow-ships-sail-through-red-sea-sources-say-2026-07-28/",
+    "Reuters. (2026c, July 26). Iran says it will halt strikes as long as US bombing pause holds. https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/",
+    "Reuters. (2026d, July 27). US-Iran pause, fast fashion and Rohingya schools [Audio podcast episode]. https://www.reuters.com/podcasts/us-iran-pause-fast-fashion-rohingya-schools-2026-07-27/",
+    "Reuters. (2026e, July 30). US military says latest strikes on Iran last two hours, hitting dozens of targets. https://www.reuters.com/world/middle-east/us-carries-out-fresh-iran-strikes-centcom-says-2026-07-30/",
+    "Reuters. (2026f, July 7). US plans PAC-3 missile maintenance facility in Europe. https://www.reuters.com/business/aerospace-defense/us-talks-europe-missile-co-production-source-says-2026-07-07/",
+    "Reuters. (2026g, July 29). US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns. https://www.reuters.com/business/aerospace-defense/army-awards-lockheed-martin-586-billion-largest-ever-pac-3-patriot-missile-deal-2026-07-29/",
+    "U.S. Department of Defense. (2025, July). Defense budget overview: Fiscal year 2026 budget request. Office of the Under Secretary of Defense (Comptroller). https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/FY2026_Budget_Request_Overview_Book.pdf",
+    "Wu, S. (2026a). From separate wars to linked battlefields: The emerging risk of continentalized conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–64). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.064",
+    "Wu, S. (2026b). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026c). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure: The China–Russia–Central Asia–Caspian network (EPINOVA Policy Brief No. EPINOVA–2026–PB–63). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.063",
+    "Wu, S. (2026d). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), Operational Control versus Systemic Connectivity: The Emerging Structure of U.S.–China Competition under Networked Warfare, Policy Brief No. EPINOVA–2026–PB–65, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.065",
+  "citation_apa": "Wu, S. (2026). Operational control versus systemic connectivity: The emerging structure of U.S.–China competition under networked warfare. EPINOVA Policy Brief Series, EPINOVA-PB-2026-065. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.065.",
+  "short_citation": "Wu (2026), Operational Control versus Systemic Connectivity, EPINOVA–2026–PB–65.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-07-30",
+    "pagination": "14 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Functional Comparison of Operational Control and Systemic Connectivity",
+      "description": "Analytical comparison of the predominant form of functional centrality associated with the United States and China in the current networked conflict environment, including primary system role, core instruments, main advantage, main vulnerability, predominant early-conflict effect, and long-war requirement.",
+      "source": "Author’s analytical synthesis based on Funaiole (2026), Jones and Palmer (2024), McGinn and Dilts (2026), National Bureau of Statistics of China (2026), Reuters (2026a–g), U.S. Department of Defense (2025), and Wu (2026a–d).",
+      "note": "The comparison does not imply that the United States lacks industrial and commercial connectivity or that China lacks advanced military and operational capabilities. Operational control is used as an analytical concept and does not refer to formal U.S. military OPCON authority."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-07-30",
+    "last_updated": "2026-07-30",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note and core definitions, operational-control framework, systemic-connectivity framework, indicators of systemic connectivity, functional comparison table, five long-war tendencies, three strategic trajectories, policy implications for the United States, China, and middle powers, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 14 are preserved in the metadata references field. Table 1 is separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260730173256-04'00'",
+    "modification_date": "D:20260730173256-04'00'",
+    "pages": 14
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.065",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-065/",
+    "crossref_doi_suffix": "epinova.pb.2026.065",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.065",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.065",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-065/",
+    "registration_date": "2026-07-30",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

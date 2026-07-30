@@ -1,37 +1,7 @@
-Book/EPINOVA-BK-2026-001/cover.png
-Book/EPINOVA-BK-2026-001/metadata.json
-Book/EPINOVA-BK-2026-001/sample.pdf
-Book/EPINOVA-BK-2026-002/cover.png
-Book/EPINOVA-BK-2026-002/metadata.json
-Book/EPINOVA-BK-2026-002/sample.pdf
-Book/EPINOVA-BK-2026-003/cover.png
-Book/EPINOVA-BK-2026-003/metadata.json
-Book/EPINOVA-BK-2026-003/sample.pdf
-Book/EPINOVA-BK-2026-004/cover.png
-Book/EPINOVA-BK-2026-004/metadata.json
-Book/EPINOVA-BK-2026-004/sample.pdf
-Book/EPINOVA-BK-2026-005/cover.png
-Book/EPINOVA-BK-2026-005/metadata.json
-Book/EPINOVA-BK-2026-005/sample.pdf
-Policy Brief/2026/EPINOVA–2026–PB-64/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
-Policy Brief/2026/EPINOVA–2026–PB-64/metadata.json
-docs/books/index.html
-docs/epinova-bk-2026-001/index.html
-docs/epinova-bk-2026-002/index.html
-docs/epinova-bk-2026-003/index.html
-docs/epinova-bk-2026-004/index.html
-docs/epinova-bk-2026-005/index.html
-docs/epinova-pb-2026-064/index.html
-docs/files/epinova-bk-2026-001/cover.png
-docs/files/epinova-bk-2026-002/cover.png
-docs/files/epinova-bk-2026-002/sample.pdf
-docs/files/epinova-bk-2026-003/cover.png
-docs/files/epinova-bk-2026-003/sample.pdf
-docs/files/epinova-bk-2026-004/cover.png
-docs/files/epinova-bk-2026-004/sample.pdf
-docs/files/epinova-bk-2026-005/cover.png
-docs/files/epinova-bk-2026-005/sample.pdf
-docs/files/epinova-pb-2026-064/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-65/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
+Policy Brief/2026/EPINOVA–2026–PB-65/metadata.json
+docs/epinova-pb-2026-065/index.html
+docs/files/epinova-pb-2026-065/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -615,6 +585,21 @@ Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
 Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
+Book/EPINOVA-BK-2026-001/cover.png
+Book/EPINOVA-BK-2026-001/metadata.json
+Book/EPINOVA-BK-2026-001/sample.pdf
+Book/EPINOVA-BK-2026-002/cover.png
+Book/EPINOVA-BK-2026-002/metadata.json
+Book/EPINOVA-BK-2026-002/sample.pdf
+Book/EPINOVA-BK-2026-003/cover.png
+Book/EPINOVA-BK-2026-003/metadata.json
+Book/EPINOVA-BK-2026-003/sample.pdf
+Book/EPINOVA-BK-2026-004/cover.png
+Book/EPINOVA-BK-2026-004/metadata.json
+Book/EPINOVA-BK-2026-004/sample.pdf
+Book/EPINOVA-BK-2026-005/cover.png
+Book/EPINOVA-BK-2026-005/metadata.json
+Book/EPINOVA-BK-2026-005/sample.pdf
 Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 Index Methodology Paper/2025/IWP–25–01/metadata.json
 Index Methodology Paper/2026/IMP-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
@@ -753,6 +738,8 @@ Policy Brief/2026/EPINOVA–2026–PB-62/Is the U.S.–Israel–Iran Conflict En
 Policy Brief/2026/EPINOVA–2026–PB-62/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-63/A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf
 Policy Brief/2026/EPINOVA–2026–PB-63/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-64/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-64/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1394,7 +1381,13 @@ docs/articles/archive/articles_archive_index.json
 docs/articles/archive/articles_failed_index.json
 docs/articles/index.html
 docs/assets/global-ai-governance-logo.png
+docs/books/index.html
 docs/epinova-2026-ja-01/index.html
+docs/epinova-bk-2026-001/index.html
+docs/epinova-bk-2026-002/index.html
+docs/epinova-bk-2026-003/index.html
+docs/epinova-bk-2026-004/index.html
+docs/epinova-bk-2026-005/index.html
 docs/epinova-imp-2025-001/index.html
 docs/epinova-imp-2026-001/index.html
 docs/epinova-imp-2026-01/index.html
@@ -1467,6 +1460,7 @@ docs/epinova-pb-2026-060/index.html
 docs/epinova-pb-2026-061/index.html
 docs/epinova-pb-2026-062/index.html
 docs/epinova-pb-2026-063/index.html
+docs/epinova-pb-2026-064/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1518,6 +1512,15 @@ docs/epinova-wp-f-2026-07/index.html
 docs/epinova-wp-f-2026-08/index.html
 docs/epinova-wp-f-2026-09/index.html
 docs/files/epinova-2026-ja-01/The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf
+docs/files/epinova-bk-2026-001/cover.png
+docs/files/epinova-bk-2026-002/cover.png
+docs/files/epinova-bk-2026-002/sample.pdf
+docs/files/epinova-bk-2026-003/cover.png
+docs/files/epinova-bk-2026-003/sample.pdf
+docs/files/epinova-bk-2026-004/cover.png
+docs/files/epinova-bk-2026-004/sample.pdf
+docs/files/epinova-bk-2026-005/cover.png
+docs/files/epinova-bk-2026-005/sample.pdf
 docs/files/epinova-imp-2025-001/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 docs/files/epinova-imp-2026-001/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
 docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
@@ -1590,6 +1593,7 @@ docs/files/epinova-pb-2026-060/Global AI Power Mapping Domains, Alliances, and R
 docs/files/epinova-pb-2026-061/Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf
 docs/files/epinova-pb-2026-062/Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf
 docs/files/epinova-pb-2026-063/A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf
+docs/files/epinova-pb-2026-064/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
