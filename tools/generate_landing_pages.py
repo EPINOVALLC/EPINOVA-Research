@@ -11,12 +11,12 @@ from collections import defaultdict
 # Integrated version: metadata landing pages + archived Articles
 #
 # Reads:
-# - all metadata.json files outside docs/ and Articles/
+# - all metadata.json files outside docs/ and Articles/, including Book records
 # - Articles/articles_archive_index.json
 #
 # Generates:
 # - docs/index.html
-# - docs/<category>/index.html
+# - docs/<category>/index.html, including /books/
 # - docs/<epinova-id-slug>/index.html for normal metadata records
 # - docs/files/<slug>/<filename> for publication files
 # - docs/articles/archive/<article-folder>/article.html for archived articles
@@ -54,6 +54,7 @@ ARTICLE_ARCHIVE_FAILED_INDEX_NAME = "articles_failed_index.json"
 ARTICLE_ARCHIVE_OUTPUT_SUBDIR = "articles/archive"
 
 CATEGORY_ORDER = [
+    "books",
     "articles",
     "journal-articles",
     "policy-briefs",
@@ -65,6 +66,8 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_LABELS = {
+    "books": "Books",
+    "book-chapters": "Book Chapters",
     "articles": "Articles",
     "journal-articles": "Journal Articles",
     "policy-briefs": "Policy Briefs",
@@ -81,6 +84,16 @@ CATEGORY_LABELS = {
 HIDDEN_CATEGORIES = {"reports"}
 
 CATEGORY_ALIASES = {
+    "book": "books",
+    "books": "books",
+    "monograph": "books",
+    "monographs": "books",
+    "reference-book": "books",
+    "reference-books": "books",
+    "book-chapter": "book-chapters",
+    "book-chapters": "book-chapters",
+    "bch": "book-chapters",
+    "bk": "books",
     "journal-article": "journal-articles",
     "journal article": "journal-articles",
     "journal articles": "journal-articles",
@@ -158,6 +171,19 @@ def infer_category_from_metadata(meta: dict) -> str:
     record_type = normalize_slug(str(meta.get("record_type", "")))
     epinova_id = str(meta.get("epinova_id", "") or meta.get("record_id", "") or meta.get("publication_id", ""))
 
+    if publication_type in {
+        "book",
+        "books",
+        "monograph",
+        "monographs",
+        "reference-book",
+        "reference-books",
+        "edited-book",
+        "edited-books",
+    } or "-BK-" in epinova_id:
+        return "books"
+    if publication_type in {"book-chapter", "book-chapters"} or "-BCH-" in epinova_id:
+        return "book-chapters"
     if publication_type in {"journal-article", "journal-articles"} or "-JA-" in epinova_id:
         return "journal-articles"
     if publication_type in {"policy-brief", "policy-briefs"} or "-PB-" in epinova_id:
@@ -222,8 +248,21 @@ def normalize_record_schema(meta: dict) -> dict:
     else:
         meta["category"] = normalize_category(meta.get("category", ""))
 
-    if str(meta.get("publication_type", "")).strip().lower() in {"white book", "whitebook"}:
+    publication_type_raw = str(meta.get("publication_type", "")).strip().lower()
+
+    if publication_type_raw in {"white book", "whitebook"}:
         meta["publication_type"] = "White Paper"
+    elif publication_type_raw in {
+        "book",
+        "monograph",
+        "reference book",
+        "edited book",
+        "multi-volume book",
+        "multivolume book",
+    }:
+        meta["publication_type"] = "Book"
+    elif publication_type_raw in {"book chapter", "chapter"}:
+        meta["publication_type"] = "Book Chapter"
 
     if not meta.get("creators"):
         source_creators = meta.get("author") or meta.get("authors") or meta.get("creator") or []
@@ -730,6 +769,19 @@ def sidebar_details_html(meta: dict) -> str:
     previous_doi = meta_value(meta, "previous_doi", "")
     doi_html = f"<a href='{h(doi)}'>{h(doi)}</a>" if doi.startswith("http") else h(doi)
     previous_doi_html = f"<dt>Previous DOI</dt><dd><a href='https://doi.org/{h(previous_doi)}'>{h(previous_doi)}</a></dd>" if previous_doi else ""
+
+    isbn = meta.get("isbn") or meta.get("isbn_13") or meta.get("isbn13") or ""
+    isbn_html = f"<dt>ISBN</dt><dd>{h(isbn)}</dd>" if isbn else ""
+
+    series_title = meta.get("series_title") or meta.get("book_series") or ""
+    series_html = f"<dt>Series</dt><dd>{h(series_title)}</dd>" if series_title else ""
+
+    volume = meta.get("volume") or meta.get("volume_number") or ""
+    volume_html = f"<dt>Volume</dt><dd>{h(volume)}</dd>" if volume else ""
+
+    edition = meta.get("edition") or meta.get("book_edition") or ""
+    edition_html = f"<dt>Edition</dt><dd>{h(edition)}</dd>" if edition else ""
+
     return f"""
 <div class="sidebar-box">
   <h2>Details</h2>
@@ -737,6 +789,10 @@ def sidebar_details_html(meta: dict) -> str:
     <dt>DOI</dt><dd>{doi_html}</dd>
     {previous_doi_html}
     <dt>EPINOVA ID</dt><dd>{h(meta_value(meta, 'epinova_id', ''))}</dd>
+    {isbn_html}
+    {series_html}
+    {volume_html}
+    {edition_html}
     <dt>Resource type</dt><dd>{h(meta_value(meta, 'resource_type', ''))}</dd>
     <dt>Publication type</dt><dd>{h(meta_value(meta, 'publication_type', ''))}</dd>
     <dt>Publication date</dt><dd>{h(meta_value(meta, 'publication_date', ''))}</dd>
@@ -939,9 +995,19 @@ def schema_json_ld(meta: dict | None = None) -> str:
         identifier = f"https://doi.org/{identifier}"
     if identifier.startswith("To be assigned"):
         identifier = meta.get("_page_url", "")
+    category = meta.get("category")
+    if category == "books":
+        schema_type = "Book"
+    elif category == "book-chapters":
+        schema_type = "Chapter"
+    elif category == "articles":
+        schema_type = "Article"
+    else:
+        schema_type = "ScholarlyArticle"
+
     data = {
         "@context": "https://schema.org",
-        "@type": "ScholarlyArticle" if meta.get("category") != "articles" else "Article",
+        "@type": schema_type,
         "@id": identifier or meta.get("_page_url", ""),
         "name": meta.get("title", ""),
         "headline": meta.get("title", ""),
@@ -954,6 +1020,14 @@ def schema_json_ld(meta: dict | None = None) -> str:
         "creator": creators,
         "publisher": {"@type": "Organization", "name": meta.get("publisher", PUBLISHER_NAME)},
     }
+
+    if category == "books":
+        isbn = meta.get("isbn") or meta.get("isbn_13") or meta.get("isbn13") or ""
+        if isbn:
+            data["isbn"] = str(isbn)
+        edition = meta.get("edition") or meta.get("book_edition") or ""
+        if edition:
+            data["bookEdition"] = str(edition)
     license_data = meta.get("license", {})
     if isinstance(license_data, dict) and license_data.get("url"):
         data["license"] = license_data.get("url")
@@ -977,6 +1051,7 @@ def site_header() -> str:
       <div class="nav-dropdown">
         <button class="nav-dropdown-button" type="button" aria-haspopup="true">Publications</button>
         <div class="nav-dropdown-menu">
+          <a href="/books/">Books</a>
           <a href="/articles/">Articles</a>
           <a href="/journal-articles/">Journal Articles</a>
           <a href="/policy-briefs/">Policy Briefs</a>
@@ -1007,7 +1082,7 @@ def site_footer() -> str:
 <footer class="footer">
   <div class="footer-inner">
     <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
-    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/books/">Books</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
     <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
     <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
   </div>
@@ -1288,14 +1363,15 @@ def render_index_page(records: list[dict]) -> str:
         cards.append(f"<a class='card' href='/{h(category)}/'><h2>{h(label)}</h2><p>{count} publication{'s' if count != 1 else ''}</p></a>")
 
     latest_category_order = [
-        ("articles", "A. Articles"),
-        ("journal-articles", "B. Journal Articles"),
-        ("policy-briefs", "C. Policy Briefs"),
-        ("working-papers", "D. Working Papers"),
-        ("white-papers", "E. White Papers"),
-        ("policy-reports", "F. Policy Reports"),
-        ("research-reports", "G. Research Reports"),
-        ("index-methodology-papers", "H. Index Methodology Papers"),
+        ("books", "A. Books"),
+        ("articles", "B. Articles"),
+        ("journal-articles", "C. Journal Articles"),
+        ("policy-briefs", "D. Policy Briefs"),
+        ("working-papers", "E. Working Papers"),
+        ("white-papers", "F. White Papers"),
+        ("policy-reports", "G. Policy Reports"),
+        ("research-reports", "H. Research Reports"),
+        ("index-methodology-papers", "I. Index Methodology Papers"),
     ]
     records_by_category = defaultdict(list)
     for meta in records:
@@ -1355,7 +1431,7 @@ def render_category_page(category: str, records: list[dict]) -> str:
         body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
         return html_doc(f"{label} | {SITE_TITLE}", body)
 
-    if category in {"articles", "journal-articles", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
+    if category in {"books", "book-chapters", "articles", "journal-articles", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
         records_by_year = defaultdict(list)
         for meta in records:
             records_by_year[publication_year(meta)].append(meta)

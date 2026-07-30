@@ -18,7 +18,7 @@ from urllib.parse import quote
 # Functions:
 # - Run git ls-files and generate repository_files.txt
 # - Read repository file structure
-# - Group publications by category, including Journal Article records
+# - Group publications by category, including Book and Journal Article records
 # - Select latest publications per category
 # - For Working Paper, group by existing WP subseries and show latest 3 per subseries
 # - Generate publication landing page, DOI, GitHub folder, and source PDF links
@@ -49,6 +49,7 @@ LATEST_SECTION_TITLE = "## Latest Publications"
 
 # These names must match the physical top-level folders in the repository.
 CATEGORY_ORDER = [
+    "Book",
     "Index Methodology Paper",
     "Journal Article",
     "White Paper",
@@ -60,6 +61,7 @@ CATEGORY_ORDER = [
 
 
 CATEGORY_LABELS = {
+    "Book": "Books",
     "Index Methodology Paper": "Index Methodology Papers",
     "Journal Article": "Journal Articles",
     "White Paper": "White Papers",
@@ -71,6 +73,7 @@ CATEGORY_LABELS = {
 
 
 CATEGORY_CODES = {
+    "Book": "BK",
     "Index Methodology Paper": "IMP",
     "Journal Article": "JA",
     "White Paper": "WHT",
@@ -82,6 +85,10 @@ CATEGORY_CODES = {
 
 
 CATEGORY_DESCRIPTIONS = {
+    "Book": (
+        "Monographs, reference works, edited books, multi-volume works, and formally "
+        "published standalone books issued by EPINOVA Press."
+    ),
     "Index Methodology Paper": (
         "Index construction, measurement frameworks, indicator architecture, normalization, "
         "weighting, classification, validation, and scoring systems."
@@ -343,7 +350,7 @@ def is_crossref_like_doi(doi: str) -> bool:
 
 def is_source_publication_pdf(path: str) -> bool:
     """
-    Keep only source publication PDFs under the main publication categories.
+    Keep only source publication PDFs under the main publication categories, including Book.
     Exclude generated docs/ PDFs.
     """
     normalized = normalize_path(path)
@@ -648,8 +655,21 @@ def build_repository_structure_section(paths: list[str]) -> str:
         "metadata.json",
         "```",
         "",
+        "Book records may additionally contain:",
+        "",
+        "```text",
+        "cover.png",
+        "crossref.xml",
+        "README.md",
+        "sample.pdf",
+        "```",
+        "",
         "The repository is the source and version-traceability layer for EPINOVA publications. "
         "The primary public access layer is the EPINOVA publication landing-page system, while DOI metadata is registered through Crossref when available.",
+        "",
+        "The `Book/` directory is used for formally published books, monographs, reference works, edited books, and individual volumes in multi-volume publications issued by EPINOVA Press. Each independently published volume should have its own internal publication identifier, ISBN, DOI record, metadata file, and landing page.",
+        "",
+        "For commercially distributed books, the public repository should normally contain metadata, cover files, sample material, Crossref deposit files, and record documentation rather than the complete sale edition.",
         "",
         "The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.",
         "",
@@ -680,11 +700,20 @@ def build_publication_type_codes_section() -> str:
             f"| {category} | {CATEGORY_CODES[category]} | {CATEGORY_DESCRIPTIONS[category]} |"
         )
 
+    lines.append(
+        "| Book Chapter | BCH | Individually registered chapters or entries within EPINOVA books when chapter-level DOI registration is used. |"
+    )
+
     lines.extend(
         [
             "",
             "Notes:",
             "",
+            "- `BK` is used for formally published books, monographs, reference works, and individual volumes in a multi-volume publication.",
+            "- `BCH` is reserved for book chapters or reference entries that receive independent chapter-level DOI registration.",
+            "- A book and its individual volumes should receive separate identifiers when each volume has distinct publication metadata, ISBN, and landing page.",
+            "- EPUB and PDF manifestations of the same edition should normally share the same DOI unless the format materially changes how the work is cited.",
+            "- Series relationships should be expressed through publication metadata rather than encoded into hierarchical DOI suffixes.",
             "- `WP` is reserved for Working Paper.",
             "- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.",
             "- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.",
@@ -926,9 +955,9 @@ def update_overview_text(readme_text: str) -> str:
     Update common old wording without rewriting the full Overview.
     """
     replacements = {
-        "- conceptual frameworks and white papers;": "- conceptual frameworks, white papers, journal articles, and index methodology papers;",
-        "- conceptual frameworks, white papers;": "- conceptual frameworks, white papers, journal articles, and index methodology papers;",
-        "- conceptual frameworks, white papers, and index methodology papers;": "- conceptual frameworks, white papers, journal articles, and index methodology papers;",
+        "- conceptual frameworks and white papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
+        "- conceptual frameworks, white papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
+        "- conceptual frameworks, white papers, and index methodology papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
         "Index White Paper": "Index Methodology Paper",
         "Index White Papers": "Index Methodology Papers",
         "Index White Book": "Index Methodology Paper",

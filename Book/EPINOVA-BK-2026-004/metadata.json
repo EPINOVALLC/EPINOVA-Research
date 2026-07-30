@@ -1,0 +1,98 @@
+{
+  "epinova_id": "EPINOVA-BK-2026-004",
+  "record_id": "EPINOVA-BK-2026-004",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "publication_type": "Book",
+  "category": "books",
+  "title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "subtitle": "Talent and Workforce Capacity",
+  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Talent and Workforce Capacity",
+  "series_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "series_type": "Multi-volume publication",
+  "volume": "III",
+  "volume_number": 3,
+  "edition": "First Edition",
+  "isbn": "979-8-89958-003-1",
+  "doi": "10.67037/epinova.bk.2026.004",
+  "publication_date": "2026-06-30",
+  "publication_year": 2026,
+  "language": "en",
+  "version": "1.0",
+  "status": "Forthcoming",
+  "visibility": "Public",
+  "publisher": "EPINOVA Press LLC",
+  "place": "Carrollton, Georgia, United States",
+  "format": "Paperback",
+  "trim_size": "8.5 × 11 inches",
+  "page_count": null,
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "role": "Author",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "description": "Volume III of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
+  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It evaluates education, research capacity, skills, workforce transformation, talent mobility, labor-market adaptation, and human-capital resilience in the development of national and regional AI capability. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, workforce structures, education systems, labor-market conditions, and measurement needs develop.",
+  "keywords": [
+    "AI talent",
+    "workforce capacity",
+    "AI education",
+    "research capacity",
+    "skills",
+    "human capital"
+  ],
+  "subjects": [
+    "Artificial intelligence",
+    "Education policy",
+    "Workforce development",
+    "Human capital",
+    "Labor economics"
+  ],
+  "official_page": "https://publications.epinova.org/epinova-bk-2026-004/",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-004",
+  "files": [
+    {
+      "filename": "cover.png",
+      "content_type": "image/png",
+      "description": "Official book cover"
+    },
+    {
+      "filename": "sample.pdf",
+      "content_type": "application/pdf",
+      "description": "Public sample of the book"
+    }
+  ],
+  "copyright": "© 2026 Shaoyuan Wu. All rights reserved.",
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Talent and workforce capacity (Vol. 3, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.004",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Talent and Workforce Capacity. Vol. III. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.004",
+  "alternate_identifiers": [
+    {
+      "scheme": "ISBN-13",
+      "identifier": "979-8-89958-003-1",
+      "description": "Paperback edition ISBN"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "10.67037/epinova.bk.2026.006",
+      "scheme": "DOI",
+      "resource_type": "Book Series",
+      "description": "Four-volume set record"
+    }
+  ],
+  "edition_number": 1,
+  "framework_version": "1.0",
+  "version_release_date": "2026-06-30",
+  "version_status": "Current official version",
+  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026."
+}

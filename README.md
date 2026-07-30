@@ -12,8 +12,8 @@ This repository serves as the research evidence layer for EPINOVA publications.
 
 It provides structured access to selected research outputs, including:
 
-- policy briefs, reports, and working papers;
-- conceptual frameworks, white papers, journal articles, and index methodology papers;
+- books, policy briefs, reports, and working papers;
+- conceptual frameworks, white papers, journal articles, book chapters, and index methodology papers;
 - metadata records and publication source files;
 - supporting materials for external dissemination and long-term reference.
 
@@ -56,6 +56,7 @@ Before Crossref DOI registration is completed, EPINOVA publication records may u
 ```text
 EPINOVA-Research/
 ├── Articles/
+├── Book/
 ├── Index Methodology Paper/
 ├── Journal Article/
 ├── White Paper/
@@ -76,7 +77,20 @@ publication.pdf
 metadata.json
 ```
 
+Book records may additionally contain:
+
+```text
+cover.png
+crossref.xml
+README.md
+sample.pdf
+```
+
 The repository is the source and version-traceability layer for EPINOVA publications. The primary public access layer is the EPINOVA publication landing-page system, while DOI metadata is registered through Crossref when available.
+
+The `Book/` directory is used for formally published books, monographs, reference works, edited books, and individual volumes in multi-volume publications issued by EPINOVA Press. Each independently published volume should have its own internal publication identifier, ISBN, DOI record, metadata file, and landing page.
+
+For commercially distributed books, the public repository should normally contain metadata, cover files, sample material, Crossref deposit files, and record documentation rather than the complete sale edition.
 
 The `Index Methodology Paper/` directory is used for index-construction and measurement-framework publications, including indicator architecture, normalization, weighting, classification, validation, and scoring methodology.
 
@@ -89,6 +103,7 @@ The `docs/` directory contains the generated static publication site deployed th
 
 | Publication Type | Code | Use |
 |---|---:|---|
+| Book | BK | Monographs, reference works, edited books, multi-volume works, and formally published standalone books issued by EPINOVA Press. |
 | Index Methodology Paper | IMP | Index construction, measurement frameworks, indicator architecture, normalization, weighting, classification, validation, and scoring systems. |
 | Journal Article | JA | Externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series. |
 | White Paper | WHT | Institutional white papers presenting conceptual frameworks, policy architectures, strategic research, and official EPINOVA framework documents. |
@@ -96,9 +111,15 @@ The `docs/` directory contains the generated static publication site deployed th
 | Policy Report | PR | Policy-facing reports with more detailed background, evidence, and institutional implications. |
 | Research Report | RR | Full research reports, case studies, empirical analysis, and extended analytical outputs. |
 | Working Paper | WP | Academic drafts, theoretical exploration, pre-publication research, and developing arguments. |
+| Book Chapter | BCH | Individually registered chapters or entries within EPINOVA books when chapter-level DOI registration is used. |
 
 Notes:
 
+- `BK` is used for formally published books, monographs, reference works, and individual volumes in a multi-volume publication.
+- `BCH` is reserved for book chapters or reference entries that receive independent chapter-level DOI registration.
+- A book and its individual volumes should receive separate identifiers when each volume has distinct publication metadata, ISBN, and landing page.
+- EPUB and PDF manifestations of the same edition should normally share the same DOI unless the format materially changes how the work is cited.
+- Series relationships should be expressed through publication metadata rather than encoded into hierarchical DOI suffixes.
 - `WP` is reserved for Working Paper.
 - `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.
 - `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
@@ -119,6 +140,45 @@ For newly prepared records that have not yet completed Crossref registration and
 ```text
 DOI: Temporary archival DOI shown when available; otherwise to be assigned or updated after Crossref registration.
 ```
+
+### Books
+
+- **EPINOVA-BK-2026-005** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicator and Outlook**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
+  DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
+  Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/sample.pdf)
+
+- **EPINOVA-BK-2026-004** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Talent and Workforce Capacity**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
+  DOI: [10.67037/epinova.bk.2026.004](https://doi.org/10.67037/epinova.bk.2026.004)  
+  Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/sample.pdf)
+
+- **EPINOVA-BK-2026-003** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-003/](https://publications.epinova.org/epinova-bk-2026-003/)  
+  DOI: [10.67037/epinova.bk.2026.003](https://doi.org/10.67037/epinova.bk.2026.003)  
+  Source folder: [`Book/EPINOVA-BK-2026-003/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-003)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/sample.pdf)
+
+- **EPINOVA-BK-2026-002** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Foundations, Algorithms, and Applications**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-002/](https://publications.epinova.org/epinova-bk-2026-002/)  
+  DOI: [10.67037/epinova.bk.2026.002](https://doi.org/10.67037/epinova.bk.2026.002)  
+  Source folder: [`Book/EPINOVA-BK-2026-002/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-002)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-002/sample.pdf)
+
+- **EPINOVA-BK-2026-001** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-001/](https://publications.epinova.org/epinova-bk-2026-001/)  
+  DOI: [10.67037/epinova.bk.2026.001](https://doi.org/10.67037/epinova.bk.2026.001)  
+  Source folder: [`Book/EPINOVA-BK-2026-001/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-001)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-001/sample.pdf)
+
+---
 
 ### Index Methodology Papers
 
@@ -162,6 +222,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-064** (2026-07-27)  
+  **From Separate Wars to Linked Battlefields: The Emerging Risk of Continentalized Conflict**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.064](https://doi.org/10.67037/epinova.pb.2026.064)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-64/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64)  
+  Source PDF: [`From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64/From%20Separate%20Wars%20to%20Linked%20Battlefields%20The%20Continentalization%20of%20Networked%20Conflict.pdf)
+
 - **EPINOVA-PB-2026-063** (2026-07-17)  
   **A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure: The China–Russia–Central Asia–Caspian Network**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -189,13 +256,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.060](https://doi.org/10.67037/epinova.pb.2026.060)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-60/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-60)  
   Source PDF: [`Global AI Power Mapping Domains, Alliances, and Rule Spaces.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-60/Global%20AI%20Power%20Mapping%20Domains%2C%20Alliances%2C%20and%20Rule%20Spaces.pdf)
-
-- **EPINOVA-PB-2026-059** (2026-06-26)  
-  **AI Capability Stratification: A Framework for the Future Distribution of AI Power**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.059](https://doi.org/10.67037/epinova.pb.2026.059)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-59/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59)  
-  Source PDF: [`AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59/AI%20Capability%20Stratification%20A%20Framework%20for%20the%20Future%20Distribution%20of%20AI%20Power.pdf)
 
 ---
 
@@ -299,7 +359,7 @@ EPINOVA publication records use structured `metadata.json` files. These records 
 
 - publication landing page generation;
 - citation consistency;
-- DOI registration preparation;
+- DOI registration preparation, including book- and chapter-level records;
 - repository traceability;
 - Crossref metadata readiness.
 

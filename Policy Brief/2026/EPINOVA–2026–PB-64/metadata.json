@@ -1,0 +1,502 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-064",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-064",
+  "title": "From Separate Wars to Linked Battlefields",
+  "subtitle": "The Emerging Risk of Continentalized Conflict",
+  "title_normalized": "from separate wars to linked battlefields",
+  "publication_date": "2026-07-27",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.064",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-064/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–64",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "From Separate Wars to Linked Battlefields",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "Continentalized conflict",
+      "scheme": "Analytical concept",
+      "description": "A higher-order process in which geographically separated conflicts become persistently interdependent through operations, personnel, technology, bases, logistics, maritime corridors, intelligence, industrial capacity, third-party nodes, and shared resource constraints"
+    },
+    {
+      "identifier": "Advanced cross-theater coupling",
+      "scheme": "Analytical concept",
+      "description": "A condition in which separate conflicts remain politically distinct but their enabling systems, threat environments, support nodes, and escalation pathways become functionally connected"
+    },
+    {
+      "identifier": "Reciprocal escalation pathway",
+      "scheme": "Analytical concept",
+      "description": "A cross-theater mechanism through which actions, personnel deployments, infrastructure support, maritime incidents, or retaliatory signals in one theater create exposure and possible responses in another"
+    }
+  ],
+  "description": "This policy brief examines how separate regional conflicts are becoming functionally connected without merging into a single war. It argues that the Russia–Ukraine war, the U.S.–Israel–Iran conflict, Red Sea confrontation, and Caspian insecurity remain distinct in actors, objectives, command structures, legal settings, and termination pathways, but are increasingly linked through personnel deployments, air-defense networks, maritime incidents, European support infrastructure, tanker access, third-party nodes, and shared resource constraints. The brief describes the current condition as advanced cross-theater coupling with an emerging reciprocal escalation pathway, while emphasizing that the evidence remains below partial battlefield integration and does not establish a unified command, common war aim, integrated targeting system, or formal Russia–Iran operational mechanism.",
+  "abstract": "The contemporary security environment is increasingly defined by conflicts that remain politically separate but are becoming functionally connected. Ukraine’s deployment of drone-interception and air-defense specialists to the United Arab Emirates, Saudi Arabia, Qatar, Kuwait, and Jordan transferred personnel and wartime experience from the Russia–Ukraine theater into Gulf and Jordanian air-defense networks. Iran subsequently claimed that it had struck a Ukrainian anti-drone facility in Dubai where Ukrainian personnel were allegedly present; Ukraine denied the claim, and reported effects remain unverified. The pattern then appeared to extend into the Caspian, where Iran accused Ukraine of attacking an Iranian commercial vessel, Zelenskiy confirmed Ukrainian strikes on Russian vessels allegedly carrying Iran-linked military cargo, and Iran’s foreign minister stated that the attack could not go unanswered. A parallel pathway is developing through European support infrastructure, including existing U.S. access arrangements in Britain and a temporary U.S. tanker deployment in Bulgaria that Iran warned could create legitimate targets. This brief defines continentalization as a higher-order process in which geographically separated conflicts become persistently interdependent through operations, personnel, technology, bases, logistics, maritime corridors, intelligence, industrial capacity, third-party nodes, and shared resource constraints. The conflicts have not reached that condition. They remain below partial battlefield integration, but advanced cross-theater coupling is narrowing the threshold.",
+  "keywords": [
+    "continentalized conflict",
+    "cross-theater coupling",
+    "linked battlefields",
+    "Russia–Ukraine war",
+    "U.S.–Israel–Iran conflict",
+    "Caspian insecurity",
+    "Red Sea confrontation",
+    "Middle East security",
+    "European support nodes",
+    "Ukrainian air-defense specialists",
+    "Gulf air defense",
+    "Jordan",
+    "Dubai",
+    "Caspian Sea",
+    "Black Sea",
+    "Persian Gulf",
+    "Red Sea",
+    "reciprocal escalation pathway",
+    "battlefield integration",
+    "strategic nodes",
+    "Saudi Arabia",
+    "Pakistan",
+    "Washington allocation center",
+    "resource substitution",
+    "critical infrastructure interdependence",
+    "weaponized interdependence",
+    "networked conflict",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Conflict escalation",
+    "Cross-theater military analysis",
+    "Networked conflict",
+    "Middle East security",
+    "European security",
+    "Caspian Sea studies",
+    "Maritime security",
+    "Critical infrastructure",
+    "Military logistics",
+    "Alliance politics",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-07-27",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-07-27",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-07-27",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-07-27",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64/From%20Separate%20Wars%20to%20Linked%20Battlefields%20The%20Continentalization%20of%20Networked%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-064",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Cross-Theater Coupling and Continentalized Conflict Framework",
+    "source_basis": "Open-source policy analysis combining public reporting on Ukrainian specialist deployments, Iranian claims, Caspian maritime incidents, European support-node access arrangements, Gulf and Red Sea activity, and prior EPINOVA research, with conceptual support from critical infrastructure interdependence, globally networked risk, and weaponized interdependence literature.",
+    "case_context": "The Russia–Ukraine war, the U.S.–Israel–Iran conflict, Red Sea confrontation, Caspian insecurity, European support infrastructure, Gulf defense networks, and cross-theater resource-allocation pressure. Analytical cutoff: July 27, 2026, 12:00 ET.",
+    "core_problem": "The central analytical problem is whether separate regional conflicts are merely expanding geographically, becoming functionally coupled across theaters, approaching partial battlefield integration, or moving toward a higher-order continentalized conflict system.",
+    "central_claims": [
+      "Regional conflicts are becoming functionally connected without merging into a single war.",
+      "Cross-theater coupling is no longer merely prospective because Ukrainian personnel, Iranian targeting claims, Caspian maritime incidents, and European support infrastructure are now part of the conflict environment.",
+      "Selected European support infrastructure is entering the Middle Eastern conflict’s threat environment.",
+      "The conflicts remain below partial battlefield integration because there is no demonstrated unified command, common war aim, integrated targeting system, or publicly established Russia–Iran operational mechanism.",
+      "The present condition is best described as advanced cross-theater coupling with an emerging reciprocal escalation pathway.",
+      "A Black Sea–Caspian–Persian Gulf–Red Sea–European support-node system may be emerging as a network of functional connections rather than a continuous front."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Four-Level Interaction Typology",
+        "description": "Distinguishes conflict expansion, cross-theater coupling, partial battlefield integration, and continentalization."
+      },
+      {
+        "name": "Cross-Theater Coupling Analysis",
+        "description": "Tracks personnel deployments, operational methods, targeting claims, maritime incidents, base access, tanker support, and support infrastructure across separate conflict environments."
+      },
+      {
+        "name": "Reciprocal Escalation Pathway Analysis",
+        "description": "Assesses whether pressure imposed in one theater can be answered against personnel, infrastructure, partners, or support networks in another."
+      },
+      {
+        "name": "Strategic Node Analysis",
+        "description": "Evaluates regional actors such as Saudi Arabia, Pakistan, Qatar, Oman, Türkiye, and the UAE according to what they connect, enable, redirect, constrain, or block rather than fixed alignment."
+      },
+      {
+        "name": "Cross-Theater Allocation Analysis",
+        "description": "Examines how Israel and Ukraine enter the same U.S. allocation environment for political attention, congressional funding, intelligence, air-defense systems, interceptor production, precision munitions, industrial capacity, and diplomatic support."
+      },
+      {
+        "name": "Threshold Analysis",
+        "description": "Identifies indicators that would narrow the threshold from advanced coupling toward partial battlefield integration or continentalization."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Conflict Expansion",
+      "code": "CE",
+      "indicator_type": "Interaction level",
+      "description": "Geographic widening of a conflict without persistent cross-theater functional interdependence.",
+      "interpretation": "Expansion alone does not imply battlefield integration."
+    },
+    {
+      "name": "Cross-Theater Coupling",
+      "code": "CTC",
+      "indicator_type": "Interaction level",
+      "description": "Functional connection among separate conflicts through personnel, technology, operations, bases, logistics, maritime routes, third-party nodes, or shared resources.",
+      "interpretation": "The current condition is assessed as advanced cross-theater coupling."
+    },
+    {
+      "name": "Partial Battlefield Integration",
+      "code": "PBI",
+      "indicator_type": "Interaction level",
+      "description": "A narrower threshold where recurring cross-theater operations, shared targeting, resource integration, or operational dependence begin to connect battlefields more directly.",
+      "interpretation": "The conflicts remain below this threshold in the present evidence."
+    },
+    {
+      "name": "Continentalization",
+      "code": "CONT",
+      "indicator_type": "Higher-order interaction level",
+      "description": "Persistent, multidimensional, and geographically extensive interdependence across operations, personnel, technology, bases, logistics, intelligence, industrial capacity, third-party nodes, and shared resource constraints.",
+      "interpretation": "Continentalization remains a conditional and reversible risk rather than an established condition."
+    },
+    {
+      "name": "Reciprocity",
+      "code": "REC",
+      "indicator_type": "Escalation-pathway dimension",
+      "description": "Repeated action–response patterns across theaters, including strikes, retaliation, deployments, access decisions, support functions, or threat designations.",
+      "interpretation": "Reciprocity would narrow the threshold toward partial battlefield integration."
+    },
+    {
+      "name": "Resource Substitution",
+      "code": "RS",
+      "indicator_type": "Allocation dimension",
+      "description": "Competition among theaters for interceptors, tankers, surveillance platforms, precision munitions, strategic transport, industrial capacity, or political attention.",
+      "interpretation": "Resource substitution makes separate conflicts less separable at the planning and sustainability level."
+    },
+    {
+      "name": "Persistent Node Participation",
+      "code": "PNP",
+      "indicator_type": "Third-party-node dimension",
+      "description": "Recurring defensive, logistical, diplomatic, technological, basing, or corridor-management roles by third parties.",
+      "interpretation": "Persistent node participation can turn isolated support decisions into structural coupling."
+    }
+  ],
+  "key_findings": [
+    "The Russia–Ukraine war, the U.S.–Israel–Iran conflict, Red Sea confrontation, and Caspian insecurity remain distinct but increasingly functionally connected.",
+    "Ukraine’s deployment of 228 specialists to Gulf and Jordanian air-defense networks created technological and operational coupling between the Russia–Ukraine and Middle Eastern theaters.",
+    "Iran’s claim of a strike on a Ukrainian anti-drone facility in Dubai remains unverified, but it shows Ukrainian personnel and systems entering Iran’s conception of the opposing operational network.",
+    "The Caspian is emerging as a cross-theater interface through Iran’s allegation of a Ukrainian attack on an Iranian vessel, Ukrainian acknowledgment of strikes on Russian vessels allegedly carrying Iran-linked military cargo, and Iranian retaliatory signaling.",
+    "European support nodes in Britain and Bulgaria have entered Iranian threat calculations without establishing that those states have become parties to the armed conflict.",
+    "The present condition is more than geographic proximity but less than a unified battlefield: a network of reciprocal exposure.",
+    "Saudi Arabia, Qatar, Oman, Türkiye, the UAE, and Pakistan are best assessed as strategic nodes or switch nodes rather than fixed bloc members.",
+    "Washington functions as a cross-theater allocation center because Israel and Ukraine draw on overlapping categories of U.S. political attention, intelligence, air-defense systems, munitions, industrial capacity, and diplomatic support.",
+    "The conflicts remain below partial battlefield integration because public evidence does not establish unified command, common war aim, integrated targeting, or a formal Russia–Iran operational mechanism.",
+    "The most plausible near-term trajectory is a low-unity, high-coupling environment with a growing risk of partial battlefield integration.",
+    "China remains external to the operational structure, although disruption to energy, trade, Eurasian connectivity, or regional stability could draw Beijing more deeply into diplomatic and economic crisis management."
+  ],
+  "policy_recommendations": [
+    "Build cross-theater assessment mechanisms that preserve regional expertise while tracking personnel deployments, base access, tanker support, shared inventories, logistics dependencies, maritime disruption, threat designation, and third-party node behavior.",
+    "Assess regional actors by function—what they connect, enable, redirect, constrain, or block—rather than through binary bloc categories.",
+    "Integrate resource substitution into readiness planning by including replacement rates, production lead times, maintenance capacity, transport bottlenecks, and competition among theaters for specialized systems.",
+    "Protect rear-area nodes such as ports, rail hubs, tanker routes, airfields, repair facilities, and civilian logistics platforms through redundancy, dispersal, recovery, cyber resilience, legal clarity, and mission transparency.",
+    "Track technology diffusion across drone, counter-drone, electronic-warfare, targeting, and interception methods as they move between conflicts.",
+    "Extend escalation management beyond bilateral military channels to maritime incidents, vessel notification, attribution procedures, corridor protection, technology diffusion, and communication among mediators operating across separate theaters."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Immediate",
+      "indicator": "Repeated Iranian strikes against Ukrainian or European support nodes",
+      "analytical_purpose": "Would narrow the threshold toward partial battlefield integration."
+    },
+    {
+      "timeframe": "Immediate to near term",
+      "indicator": "Sustained Ukrainian attacks on Iranian interests or Iran-linked logistics networks",
+      "analytical_purpose": "Tests whether cross-theater incidents become reciprocal and repetitive."
+    },
+    {
+      "timeframe": "Near term",
+      "indicator": "Open Russian support for Iranian retaliation or operational coordination",
+      "analytical_purpose": "Would strengthen evidence of theater linkage beyond functional coupling."
+    },
+    {
+      "timeframe": "Near to medium term",
+      "indicator": "U.S. and allied planning integrating allocation, force protection, and targeting across Ukraine and Middle Eastern theaters",
+      "analytical_purpose": "Would indicate movement toward partial battlefield integration at the planning level."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Competition for interceptors, tankers, surveillance platforms, precision munitions, strategic transport, industrial capacity, or political attention",
+      "analytical_purpose": "Tracks whether separate conflicts increasingly draw on the same scarce enabling systems."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Maritime incidents across the Black Sea, Caspian, Persian Gulf, Red Sea, Suez, and Mediterranean systems",
+      "analytical_purpose": "Monitors whether maritime insecurity becomes a durable cross-theater transmission channel."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Farrell and Newman (2019). Weaponized interdependence",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for global economic networks and state coercion"
+    },
+    {
+      "relation": "References",
+      "identifier": "Helbing (2013). Globally networked risks and how to respond",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for globally networked risk"
+    },
+    {
+      "relation": "References",
+      "identifier": "Rinaldi, Peerenboom, and Kelly (2001). Critical infrastructure interdependencies",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for interdependent infrastructure systems"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026d). Khamenei’s funeral as a geopolitical roll call",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for Pakistan as a bridge node and Middle East–Eurasia order analysis"
+    }
+  ],
+  "references": [
+    "Agence France-Presse. (2026, March 28). Iran’s military says it targeted Ukrainian anti-drone system depot in UAE. The Times of Israel. https://www.timesofisrael.com/liveblog_entry/irans-military-says-it-targeted-ukrainian-anti-drone-system-depot-in-uae/",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51–59. https://doi.org/10.1038/nature12047",
+    "Reuters. (2026a, July 25). Britain would be target if it supports U.S. in war, Iran’s Revolutionary Guards say. https://www.reuters.com/world/uk/britain-would-be-target-if-it-supports-us-war-irans-revolutionary-guards-say-2026-07-25/",
+    "Reuters. (2026b, July 22). Bulgaria approves stationing of U.S. tanker aircraft despite Iran warning. https://www.reuters.com/business/aerospace-defense/bulgaria-plays-down-iran-warning-over-us-tanker-aircraft-2026-07-22/",
+    "Reuters. (2026c, July 27). Houthis say they targeted Saudi east–west oil transport. https://www.reuters.com/world/middle-east/houthis-say-they-targeted-saudi-east-west-oil-transport-2026-07-27/",
+    "Reuters. (2026d, July 26). Iran foreign minister says Ukraine’s attack on Iranian vessel cannot go unanswered. https://www.reuters.com/world/china/iran-foreign-minister-says-ukraines-attack-iranian-vessel-cannot-go-unanswered-2026-07-26/",
+    "Reuters. (2026e, July 25). Iran says Ukrainian attack on vessel in Caspian Sea killed sailor. https://www.reuters.com/world/europe/iran-says-ukrainian-attack-vessel-caspian-sea-killed-sailor-2026-07-25/",
+    "Reuters. (2026f, July 27). Netanyahu says Iran is top agenda in meeting with Trump. https://www.reuters.com/world/middle-east/netanyahu-says-iran-is-top-agenda-meeting-with-trump-2026-07-27/",
+    "Reuters. (2026g, July 24). Oil falls on report China pushing for end to U.S.–Iran war. https://www.reuters.com/business/energy/oil-set-weekly-rise-amid-red-sea-shipping-attacks-kazakhstan-output-cuts-2026-07-24/",
+    "Reuters. (2026h, July 24). Pakistan, Iran explore path towards new talks with U.S. in a China-initiated push, sources say. https://www.reuters.com/world/china/pakistan-iran-explore-path-towards-new-talks-with-us-china-initiated-push-2026-07-24/",
+    "Reuters. (2026i, July 27). Saudi Arabia says it destroyed drones launched by Iran-backed groups in Iraq. https://www.reuters.com/world/middle-east/saudi-arabia-says-it-destroyed-drones-launched-by-iran-backed-groups-iraq-2026-07-27/",
+    "Reuters. (2026j, July 23). UK says armed forces ready to defend country after Iran warns over U.S. bombers. https://www.reuters.com/business/aerospace-defense/uk-says-armed-forces-ready-defend-country-after-iran-warning-over-us-bombers-2026-07-23/",
+    "Reuters. (2026k, March 20). Ukraine deploys 228 specialists to Middle East, discussing serious agreements. https://www.reuters.com/business/aerospace-defense/ukraine-deploys-228-specialists-middle-east-discussing-serious-agreements-2026-03-20/",
+    "Reuters. (2026l, March 10). Ukraine sends drone experts to three countries in Middle East, Zelenskiy says. https://www.reuters.com/world/europe/ukraine-sends-drone-experts-three-countries-middle-east-zelenskiy-says-2026-03-10/",
+    "Reuters. (2026m, July 11). U.S. seeks free Hormuz access from Iran as talks focus on strait. https://www.reuters.com/world/asia-pacific/trump-says-us-iran-agree-continue-talks-ceasefire-over-2026-07-11/",
+    "Reuters. (2026n, July 24). White House says Trump, Zelenskiy to meet in Washington next week. https://www.reuters.com/world/us/white-house-says-trump-zelenskiy-meet-washington-next-week-2026-07-24/",
+    "Reuters. (2026o, July 27). Zelenskiy to meet U.S. senators, Russia sanctions vote expected. https://www.reuters.com/world/us/zelenskiy-meet-us-senators-russia-sanctions-vote-expected-2026-07-27/",
+    "Rinaldi, S. M., Peerenboom, J. P., & Kelly, T. K. (2001). Identifying, understanding, and analyzing critical infrastructure interdependencies. IEEE Control Systems Magazine, 21(6), 11–25. https://doi.org/10.1109/37.969131",
+    "Ukrainska Pravda. (2026, March 28). Ukraine’s Foreign Ministry denies Iranian claim of strike on Ukrainian drones in Dubai. https://www.pravda.com.ua/eng/news/2026/03/28/8027578/",
+    "Wu, S. (2026a). Beyond the battlefield: From strike to system disruption in the Caspian logistics network (EPINOVA Policy Brief No. EPINOVA–2026–PB–37). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19681411",
+    "Wu, S. (2026b). Ceasefire under conditions of non-enforcement: Time arbitrage, negotiation dynamics, and controlled de-escalation in the U.S.–Iran conflict with Israeli structural constraints (EPINOVA Policy Brief No. EPINOVA–2026–PB–25). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19444571",
+    "Wu, S. (2026c). Industrial war and network war: Operational logics in the Russia–Ukraine war and the U.S.–Israel–Iran conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–06). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.18972327",
+    "Wu, S. (2026d). Khamenei’s funeral as a geopolitical roll call: The emerging Middle East–Eurasia order (EPINOVA Policy Brief No. EPINOVA–2026–PB–61). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.061",
+    "Wu, S. (2026e). Russia–Iran northern supply capacity: A three-channel assessment of sustained throughput under constraint (EPINOVA Policy Brief No. EPINOVA–2026–PB–27). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), From Separate Wars to Linked Battlefields: The Emerging Risk of Continentalized Conflict, Policy Brief No. EPINOVA–2026–PB–64, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.064",
+  "citation_apa": "Wu, S. (2026). From separate wars to linked battlefields: The emerging risk of continentalized conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-064. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.064.",
+  "short_citation": "Wu (2026), From Separate Wars to Linked Battlefields, EPINOVA–2026–PB–64.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-07-27",
+    "pagination": "12 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Emerging Reciprocal Escalation Pathway",
+      "description": "Flow diagram linking Ukrainian participation in regional air-defense support, an alleged Iranian strike on a purported Ukrainian anti-drone facility in the Gulf, reported Ukrainian operations affecting an Iranian vessel and Russian vessels allegedly carrying Iran-linked military cargo in the Caspian, Iranian retaliatory signaling, and the possibility of reciprocal pressure across theaters.",
+      "source": "Compiled by the author from Agence France-Presse (2026), Reuters (2026d, 2026e, 2026k, 2026l), and Ukrainska Pravda (2026).",
+      "note": "The arrows indicate a developing escalation pathway, not verified operational sequencing, centralized coordination, or territorial continuity."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Cross-Theater Pathways of Escalation",
+      "description": "Map illustrating the eastern pathway from Ukraine and the Black Sea through the Caspian to Iran, the Persian Gulf, and the Gulf–Red Sea space, and the European support pathway linking selected British and Bulgarian facilities to U.S. access and tanker support arrangements.",
+      "source": "Compiled by the author from Reuters reporting cited in the brief, including Reuters (2026a, 2026b, 2026c, 2026d, 2026e, 2026g, 2026i, 2026j, 2026k, 2026l, 2026m).",
+      "note": "The arrows indicate analytical pathways of transmission, not territorial continuity, fixed sequencing, alliance cohesion, centralized coordination, or verified operational control."
+    },
+    {
+      "number": "Figure 3",
+      "title": "European Support Nodes and Potential Spillover Pathway",
+      "description": "Flow diagram showing how U.S. strikes or regional operations may be connected to the use of European airfields, tanker aircraft, personnel, or logistics, Iranian designation of enabling states or facilities, increased European air-defense and force-protection demands, and possible spillover from the Middle Eastern theater onto NATO territory.",
+      "source": "Compiled by the author from Reuters (2026a, 2026b, 2026j).",
+      "note": "The arrows indicate a potential pathway of escalation, not verified operational sequencing, centralized coordination, territorial continuity, or any automatic legal or military consequence."
+    }
+  ],
+  "tables": [],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-07-27",
+    "last_updated": "2026-07-27",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, separate-wars/shared-systems framework, Caspian cross-theater interface, reciprocal escalation pathway, European support-node analysis, strategic node analysis, cross-theater allocation framework, continentalization threshold criteria, policy implications, limitations, conclusion, figures, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 11–12 are preserved in the metadata references field. Figures 1–3 are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260728023857-04'00'",
+    "modification_date": "D:20260728023857-04'00'",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.064",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-064/",
+    "crossref_doi_suffix": "epinova.pb.2026.064",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.064",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.064",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-064/",
+    "registration_date": "2026-07-27",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

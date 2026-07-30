@@ -1,0 +1,98 @@
+{
+  "epinova_id": "EPINOVA-BK-2026-003",
+  "record_id": "EPINOVA-BK-2026-003",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "publication_type": "Book",
+  "category": "books",
+  "title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "subtitle": "Competitiveness, Governance, and Risk",
+  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk",
+  "series_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "series_type": "Multi-volume publication",
+  "volume": "II",
+  "volume_number": 2,
+  "edition": "First Edition",
+  "isbn": "979-8-89958-002-4",
+  "doi": "10.67037/epinova.bk.2026.003",
+  "publication_date": "2026-06-30",
+  "publication_year": 2026,
+  "language": "en",
+  "version": "1.0",
+  "status": "Forthcoming",
+  "visibility": "Public",
+  "publisher": "EPINOVA Press LLC",
+  "place": "Carrollton, Georgia, United States",
+  "format": "Paperback",
+  "trim_size": "8.5 × 11 inches",
+  "page_count": null,
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "role": "Author",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "description": "Volume II of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
+  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It examines how artificial intelligence capabilities are translated into national and institutional competitiveness, including governance systems, standards, regulatory capacity, security, resilience, and systemic risk. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, governance environments, risk conditions, and measurement needs develop.",
+  "keywords": [
+    "AI competitiveness",
+    "AI governance",
+    "technology standards",
+    "AI risk",
+    "regulation",
+    "institutional capacity"
+  ],
+  "subjects": [
+    "AI governance",
+    "Technology policy",
+    "National competitiveness",
+    "Risk management",
+    "Public policy"
+  ],
+  "official_page": "https://publications.epinova.org/epinova-bk-2026-003/",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-003",
+  "files": [
+    {
+      "filename": "cover.png",
+      "content_type": "image/png",
+      "description": "Official book cover"
+    },
+    {
+      "filename": "sample.pdf",
+      "content_type": "application/pdf",
+      "description": "Public sample of the book"
+    }
+  ],
+  "copyright": "© 2026 Shaoyuan Wu. All rights reserved.",
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, governance, and risk (Vol. 2, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.003",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk. Vol. II. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.003",
+  "alternate_identifiers": [
+    {
+      "scheme": "ISBN-13",
+      "identifier": "979-8-89958-002-4",
+      "description": "Paperback edition ISBN"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "10.67037/epinova.bk.2026.006",
+      "scheme": "DOI",
+      "resource_type": "Book Series",
+      "description": "Four-volume set record"
+    }
+  ],
+  "edition_number": 1,
+  "framework_version": "1.0",
+  "version_release_date": "2026-06-30",
+  "version_status": "Current official version",
+  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026."
+}

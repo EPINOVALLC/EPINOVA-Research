@@ -1,0 +1,111 @@
+{
+  "epinova_id": "EPINOVA-BK-2026-001",
+  "record_id": "EPINOVA-BK-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "publication_type": "Book",
+  "category": "books",
+  "title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "subtitle": "Complete Four-Volume Edition",
+  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition",
+  "series_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
+  "series_type": "Multi-volume set record",
+  "volume": "",
+  "volume_number": null,
+  "number_of_volumes": 4,
+  "edition": "First Edition",
+  "isbn": "",
+  "doi": "10.67037/epinova.bk.2026.001",
+  "publication_date": "2026-06-30",
+  "publication_year": 2026,
+  "language": "en",
+  "version": "1.0",
+  "status": "Forthcoming",
+  "visibility": "Public",
+  "publisher": "EPINOVA Press LLC",
+  "place": "Carrollton, Georgia, United States",
+  "format": "Four-volume paperback set",
+  "trim_size": "8.5 × 11 inches per volume",
+  "page_count": null,
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "role": "Author",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "description": "The First Edition, Framework Version 1.0, of the complete four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
+  "abstract": "This First Edition, Framework Version 1.0, presents an integrated framework for assessing artificial intelligence development and competitiveness across foundational capabilities, algorithms, applications, governance, risk, talent, workforce capacity, measurement systems, frontier indicators, and strategic outlook. The edition comprises Volume I: Foundations, Algorithms, and Applications; Volume II: Competitiveness, Governance, and Risk; Volume III: Talent and Workforce Capacity; and Volume IV: Frontier Indicator and Outlook. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, data conditions, governance environments, and measurement needs develop.",
+  "keywords": [
+    "artificial intelligence",
+    "AI development",
+    "AI competitiveness",
+    "AI governance",
+    "AI talent",
+    "AI indicators",
+    "strategic assessment",
+    "multi-volume publication"
+  ],
+  "subjects": [
+    "Artificial intelligence",
+    "Technology policy",
+    "AI governance",
+    "National competitiveness",
+    "Strategic studies"
+  ],
+  "official_page": "https://publications.epinova.org/epinova-bk-2026-001/",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-001",
+  "files": [
+    {
+      "filename": "cover.png",
+      "content_type": "image/png",
+      "description": "Official image of the complete four-volume edition"
+    }
+  ],
+  "copyright": "© 2026 Shaoyuan Wu. All rights reserved.",
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete four-volume edition (1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.001",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.001",
+  "alternate_identifiers": [],
+  "related_works": [
+    {
+      "relation": "HasPart",
+      "identifier": "10.67037/epinova.bk.2026.002",
+      "scheme": "DOI",
+      "resource_type": "Book",
+      "description": "Volume I: Foundations, Algorithms, and Applications"
+    },
+    {
+      "relation": "HasPart",
+      "identifier": "10.67037/epinova.bk.2026.003",
+      "scheme": "DOI",
+      "resource_type": "Book",
+      "description": "Volume II: Competitiveness, Governance, and Risk"
+    },
+    {
+      "relation": "HasPart",
+      "identifier": "10.67037/epinova.bk.2026.004",
+      "scheme": "DOI",
+      "resource_type": "Book",
+      "description": "Volume III: Talent and Workforce Capacity"
+    },
+    {
+      "relation": "HasPart",
+      "identifier": "10.67037/epinova.bk.2026.005",
+      "scheme": "DOI",
+      "resource_type": "Book",
+      "description": "Volume IV: Frontier Indicator and Outlook"
+    }
+  ],
+  "edition_number": 1,
+  "framework_version": "1.0",
+  "version_release_date": "2026-06-30",
+  "version_status": "Current official version",
+  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026."
+}
