@@ -1,7 +1,10 @@
-Policy Brief/2026/EPINOVA–2026–PB-65/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
-Policy Brief/2026/EPINOVA–2026–PB-65/metadata.json
-docs/epinova-pb-2026-065/index.html
-docs/files/epinova-pb-2026-065/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
+Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
+Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
+Conference Papers/EPINOVA-2026-CP-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
+Conference Papers/EPINOVA-2026-CP-01/metadata.json
+docs/conference-papers/index.html
+docs/epinova-2026-cp-01/index.html
+docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -740,6 +743,8 @@ Policy Brief/2026/EPINOVA–2026–PB-63/A Preliminary Assessment of Eastward an
 Policy Brief/2026/EPINOVA–2026–PB-63/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-64/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-64/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-65/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
+Policy Brief/2026/EPINOVA–2026–PB-65/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1461,6 +1466,7 @@ docs/epinova-pb-2026-061/index.html
 docs/epinova-pb-2026-062/index.html
 docs/epinova-pb-2026-063/index.html
 docs/epinova-pb-2026-064/index.html
+docs/epinova-pb-2026-065/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1594,6 +1600,7 @@ docs/files/epinova-pb-2026-061/Khamenei’s Funeral as a Geopolitical Roll Call 
 docs/files/epinova-pb-2026-062/Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf
 docs/files/epinova-pb-2026-063/A Preliminary Assessment of Eastward and Northward Logistics Alternatives under Hormuz Pressure The China–Russia–Central Asia–Caspian Network.pdf
 docs/files/epinova-pb-2026-064/From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf
+docs/files/epinova-pb-2026-065/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

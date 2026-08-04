@@ -1,4 +1,5 @@
 import json
+import re
 import shutil
 from pathlib import Path
 from html import escape
@@ -57,6 +58,7 @@ CATEGORY_ORDER = [
     "books",
     "articles",
     "journal-articles",
+    "conference-papers",
     "policy-briefs",
     "working-papers",
     "white-papers",
@@ -70,6 +72,7 @@ CATEGORY_LABELS = {
     "book-chapters": "Book Chapters",
     "articles": "Articles",
     "journal-articles": "Journal Articles",
+    "conference-papers": "Conference Papers",
     "policy-briefs": "Policy Briefs",
     "working-papers": "Working Papers",
     "white-papers": "White Papers",
@@ -98,6 +101,15 @@ CATEGORY_ALIASES = {
     "journal article": "journal-articles",
     "journal articles": "journal-articles",
     "ja": "journal-articles",
+    "conference-paper": "conference-papers",
+    "conference paper": "conference-papers",
+    "conference papers": "conference-papers",
+    "conference-article": "conference-papers",
+    "conference article": "conference-papers",
+    "conference articles": "conference-papers",
+    "proceedings-paper": "conference-papers",
+    "proceedings paper": "conference-papers",
+    "cp": "conference-papers",
     "external-publications": "journal-articles",
     "external-publication": "journal-articles",
     "white-books": "white-papers",
@@ -186,6 +198,15 @@ def infer_category_from_metadata(meta: dict) -> str:
         return "book-chapters"
     if publication_type in {"journal-article", "journal-articles"} or "-JA-" in epinova_id:
         return "journal-articles"
+    if publication_type in {
+        "conference-paper",
+        "conference-papers",
+        "conference-article",
+        "conference-articles",
+        "proceedings-paper",
+        "proceedings-papers",
+    } or "-CP-" in epinova_id:
+        return "conference-papers"
     if publication_type in {"policy-brief", "policy-briefs"} or "-PB-" in epinova_id:
         return "policy-briefs"
     if publication_type in {"working-paper", "working-papers"} or "-WP-" in epinova_id:
@@ -263,6 +284,13 @@ def normalize_record_schema(meta: dict) -> dict:
         meta["publication_type"] = "Book"
     elif publication_type_raw in {"book chapter", "chapter"}:
         meta["publication_type"] = "Book Chapter"
+    elif publication_type_raw in {
+        "conference article",
+        "conference paper",
+        "proceedings paper",
+        "conference proceeding paper",
+    }:
+        meta["publication_type"] = "Conference Paper"
 
     if not meta.get("creators"):
         source_creators = meta.get("author") or meta.get("authors") or meta.get("creator") or []
@@ -551,27 +579,53 @@ def copy_record_files(meta: dict) -> None:
         if not filename:
             continue
 
+        candidate_names = []
+        for candidate in [
+            filename,
+            file_entry.get("original_filename", ""),
+            meta.get("pdf_filename", ""),
+        ]:
+            candidate = str(candidate or "").strip()
+            if candidate and candidate not in candidate_names:
+                candidate_names.append(candidate)
+
         source_file = source_dir / filename
 
-        # Fallback 1: search by exact filename across repository
+        # Fallback 1: try metadata aliases beside metadata.json.
         if not source_file.exists():
-            matches = [
-                p for p in ROOT.rglob(filename)
-                if p.is_file()
-                and OUTPUT_DIR_NAME not in p.parts
-                and ".git" not in p.parts
-            ]
-            if matches:
-                source_file = matches[0]
+            for candidate in candidate_names:
+                candidate_path = source_dir / candidate
+                if candidate_path.exists() and candidate_path.is_file():
+                    source_file = candidate_path
+                    break
 
-        # Fallback 2: search by normalized filename, useful for dash/space/path issues
+        # Fallback 2: search by exact candidate filename across repository.
         if not source_file.exists():
-            target_norm = normalize_slug(Path(filename).stem)
+            for candidate in candidate_names:
+                matches = [
+                    p for p in ROOT.rglob(candidate)
+                    if p.is_file()
+                    and OUTPUT_DIR_NAME not in p.parts
+                    and ".git" not in p.parts
+                ]
+                if matches:
+                    source_file = matches[0]
+                    break
+
+        # Fallback 3: compare normalized stems and ignore Windows duplicate
+        # suffixes such as " (1)", " (2)", etc.
+        if not source_file.exists():
+            def comparable_stem(value: str) -> str:
+                stem = Path(value).stem
+                stem = re.sub(r"\s*\(\d+\)\s*$", "", stem)
+                return normalize_slug(stem)
+
+            target_norms = {comparable_stem(candidate) for candidate in candidate_names}
             matches = []
             for p in ROOT.rglob("*.pdf"):
                 if OUTPUT_DIR_NAME in p.parts or ".git" in p.parts:
                     continue
-                if normalize_slug(p.stem) == target_norm:
+                if comparable_stem(p.name) in target_norms:
                     matches.append(p)
             if matches:
                 source_file = matches[0]
@@ -1054,6 +1108,7 @@ def site_header() -> str:
           <a href="/books/">Books</a>
           <a href="/articles/">Articles</a>
           <a href="/journal-articles/">Journal Articles</a>
+          <a href="/conference-papers/">Conference Papers</a>
           <a href="/policy-briefs/">Policy Briefs</a>
           <a href="/working-papers/">Working Papers</a>
           <a href="/white-papers/">White Papers</a>
@@ -1082,7 +1137,7 @@ def site_footer() -> str:
 <footer class="footer">
   <div class="footer-inner">
     <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
-    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/books/">Books</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/books/">Books</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/conference-papers/">Conference Papers</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
     <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
     <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
   </div>
@@ -1366,12 +1421,13 @@ def render_index_page(records: list[dict]) -> str:
         ("books", "A. Books"),
         ("articles", "B. Articles"),
         ("journal-articles", "C. Journal Articles"),
-        ("policy-briefs", "D. Policy Briefs"),
-        ("working-papers", "E. Working Papers"),
-        ("white-papers", "F. White Papers"),
-        ("policy-reports", "G. Policy Reports"),
-        ("research-reports", "H. Research Reports"),
-        ("index-methodology-papers", "I. Index Methodology Papers"),
+        ("conference-papers", "D. Conference Papers"),
+        ("policy-briefs", "E. Policy Briefs"),
+        ("working-papers", "F. Working Papers"),
+        ("white-papers", "G. White Papers"),
+        ("policy-reports", "H. Policy Reports"),
+        ("research-reports", "I. Research Reports"),
+        ("index-methodology-papers", "J. Index Methodology Papers"),
     ]
     records_by_category = defaultdict(list)
     for meta in records:
@@ -1431,7 +1487,7 @@ def render_category_page(category: str, records: list[dict]) -> str:
         body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
         return html_doc(f"{label} | {SITE_TITLE}", body)
 
-    if category in {"books", "book-chapters", "articles", "journal-articles", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
+    if category in {"books", "book-chapters", "articles", "journal-articles", "conference-papers", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
         records_by_year = defaultdict(list)
         for meta in records:
             records_by_year[publication_year(meta)].append(meta)

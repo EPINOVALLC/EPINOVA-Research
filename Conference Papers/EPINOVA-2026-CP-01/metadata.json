@@ -1,0 +1,194 @@
+{
+  "record_id": "EPINOVA-2026-CP-01",
+  "publication_type": "Conference Paper",
+  "title": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access",
+  "subtitle": "",
+  "short_title": "Multiverse Path Encryption",
+  "author": [
+    {
+      "name": "Shaoyuan Wu",
+      "display_name": "Shaoyuan Wu",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": [
+        {
+          "name": "EPINOVA LLC",
+          "department": "Global AI Governance and Policy Research Center"
+        },
+        {
+          "name": "Georgia Institute of Technology",
+          "department": "College of Computing"
+        }
+      ]
+    },
+    {
+      "name": "Yinning Zhang",
+      "display_name": "Yinning Zhang",
+      "orcid": "",
+      "affiliation": [
+        {
+          "name": "Kennesaw State University",
+          "department": "College of Computing and Software Engineering"
+        }
+      ]
+    }
+  ],
+  "publication_year": 2026,
+  "publication_date": "2026-08-03",
+  "date_display": "August 3, 2026",
+  "language": "en",
+  "publisher": "IEEE",
+  "conference": {
+    "title": "2026 International Conference on Intelligent Multimedia, Networking, and Security",
+    "short_title": "IMNS 2026",
+    "proceedings_title": "Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026)",
+    "dates": "August 3-4, 2026",
+    "presentation_date": "August 3, 2026",
+    "location": "KSU Center, Kennesaw State University, Kennesaw, Georgia, USA",
+    "website": "https://conf-imns.org/2026/",
+    "program_url": "https://conf-imns.org/2026/Program.html",
+    "technical_cosponsors": [
+      "IEEE",
+      "IEEE Communications Society"
+    ],
+    "pages": "",
+    "isbn": "",
+    "issn": ""
+  },
+  "external_publication": true,
+  "published_version": true,
+  "version": "Conference paper",
+  "publication_status": "Presented at IMNS 2026; final proceedings and IEEE Xplore bibliographic details pending.",
+  "epinova_series": {
+    "series_title": "EPINOVA Conference Paper Archive",
+    "series_code": "CP",
+    "series_number": "01",
+    "year": 2026
+  },
+  "official_page": "https://publications.epinova.org/epinova-2026-cp-01/",
+  "pdf_filename": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf",
+  "doi": "",
+  "doi_status": "Pending assignment or publication through the official IMNS 2026 proceedings and IEEE Xplore. The proceedings DOI should be used once available.",
+  "identifiers": {
+    "epinova_id": "EPINOVA-2026-CP-01",
+    "doi": "",
+    "orcid": "https://orcid.org/0009-0008-0660-8232"
+  },
+  "alternate_identifiers": [
+    {
+      "identifier": "https://publications.epinova.org/epinova-2026-cp-01/",
+      "scheme": "URL",
+      "description": "EPINOVA archival publication record page"
+    },
+    {
+      "identifier": "https://conf-imns.org/2026/",
+      "scheme": "URL",
+      "description": "Official IMNS 2026 conference website"
+    },
+    {
+      "identifier": "https://conf-imns.org/2026/Program.html",
+      "scheme": "URL",
+      "description": "Official IMNS 2026 conference program"
+    }
+  ],
+  "abstract": "Multiverse Path Encryption (MPE) introduces an interpretation-control paradigm for post-compromise environments in which adversaries may observe ciphertext-derived outputs or queryable system states. Instead of mapping a ciphertext to a unique plaintext, MPE maps a ciphertext–key pair to a traversal policy over a semantic graph, generating a coherent world as output. Incorrect but admissible keys induce alternative traversal policies that produce internally consistent interpretations rather than obvious failure states. This paper formalizes interpretive security as protection against reliable interpretation after access has been obtained. Candidate worlds are generated from a shared semantic structure and constrained by global coherence, so that the intended world is not uniquely identifiable from the adversary’s perspective. Experiments in a post-compromise cyber setting show that MPE sustains high target-selection error, high path reconstruction error, and substantial decision-ranking distortion under both heuristic and querying attackers.",
+  "keywords": [
+    "Multiverse Path Encryption",
+    "Interpretive Security",
+    "Cyber Deception",
+    "Post-Compromise Security",
+    "Semantic Graph",
+    "Adversarial Inference",
+    "Decision Uncertainty"
+  ],
+  "subjects": [
+    "Cybersecurity",
+    "Applied Cryptography",
+    "Cyber Deception",
+    "Semantic Systems",
+    "Adversarial Inference",
+    "Post-Compromise Security"
+  ],
+  "description": "This conference paper introduces Multiverse Path Encryption (MPE), an interpretation-control framework for post-compromise environments. MPE uses key-conditioned traversal over a shared semantic graph to generate coherent, query-consistent candidate worlds, thereby separating adversarial access from reliable interpretation. The paper formalizes world non-identifiability and decision uncertainty and evaluates the framework against heuristic and querying attackers.",
+  "citation": {
+    "apa": "Wu, S., & Zhang, Y. (2026). Multiverse path encryption for securing interpretation under adversarial access. In Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026). IEEE.",
+    "chicago": "Wu, Shaoyuan, and Yinning Zhang. 2026. “Multiverse Path Encryption for Securing Interpretation under Adversarial Access.” In Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026). IEEE.",
+    "mla": "Wu, Shaoyuan, and Yinning Zhang. “Multiverse Path Encryption for Securing Interpretation under Adversarial Access.” Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026), IEEE, 2026.",
+    "note": "Page range, proceedings ISBN, and DOI should be added when the final IEEE Xplore record becomes available."
+  },
+  "rights": {
+    "copyright_holder": "Shaoyuan Wu and Yinning Zhang / IEEE, as applicable",
+    "license": "All rights reserved unless otherwise stated in the official IEEE proceedings",
+    "reuse_note": "This metadata record describes a conference paper presented at IMNS 2026. Full-text redistribution and reuse should follow the final IEEE publication agreement and applicable author-archive permissions."
+  },
+  "relations": [
+    {
+      "type": "isPublishedIn",
+      "title": "Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026)",
+      "publisher": "IEEE",
+      "pages": "",
+      "url": "https://conf-imns.org/2026/"
+    },
+    {
+      "type": "isPresentedAt",
+      "title": "2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026)",
+      "date": "2026-08-03",
+      "location": "KSU Center, Kennesaw State University, Kennesaw, Georgia, USA",
+      "url": "https://conf-imns.org/2026/Program.html"
+    },
+    {
+      "type": "isArchivedBy",
+      "title": "EPINOVA Conference Paper Archive",
+      "url": "https://publications.epinova.org/epinova-2026-cp-01/"
+    }
+  ],
+  "references": [],
+  "repository": {
+    "suggested_folder": "Conference Papers/EPINOVA-2026-CP-01/",
+    "suggested_pdf_name": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf",
+    "suggested_metadata_name": "metadata.json"
+  },
+  "crossref": {
+    "recommended_record_type": "Conference Paper",
+    "registration_note": "Use the DOI and bibliographic metadata assigned by the official IMNS 2026 proceedings and IEEE Xplore. EPINOVA should function as an archival record and should not replace the official proceedings citation."
+  },
+  "created_by": "EPINOVA LLC",
+  "metadata_version": "1.1",
+  "last_updated": "2026-08-03",
+  "epinova_id": "EPINOVA-2026-CP-01",
+  "category": "conference-papers",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "full_title": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access",
+  "publisher_website": "https://www.ieee.org",
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "display_name": "Shaoyuan Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC; College of Computing, Georgia Institute of Technology",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    },
+    {
+      "name": "Yinning Zhang",
+      "display_name": "Yinning Zhang",
+      "affiliation": "College of Computing and Software Engineering, Kennesaw State University",
+      "orcid": ""
+    }
+  ],
+  "files": [
+    {
+      "filename": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf",
+      "content_type": "application/pdf",
+      "description": "IMNS 2026 conference paper PDF.",
+      "original_filename": "Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf"
+    }
+  ],
+  "citation_apa": "Wu, S., & Zhang, Y. (2026). Multiverse path encryption for securing interpretation under adversarial access. In Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026). IEEE.",
+  "recommended_citation": "Wu, S., & Zhang, Y. (2026). Multiverse path encryption for securing interpretation under adversarial access. In Proceedings of the 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS 2026). IEEE.",
+  "copyright": "Shaoyuan Wu and Yinning Zhang / IEEE, as applicable",
+  "license": {
+    "title": "All rights reserved unless otherwise stated in the official IEEE proceedings",
+    "url": ""
+  },
+  "status": "Published",
+  "visibility": "Public"
+}

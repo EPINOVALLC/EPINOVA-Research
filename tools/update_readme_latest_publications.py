@@ -18,7 +18,7 @@ from urllib.parse import quote
 # Functions:
 # - Run git ls-files and generate repository_files.txt
 # - Read repository file structure
-# - Group publications by category, including Book and Journal Article records
+# - Group publications by category, including Book, Journal Article, and Conference Paper records
 # - Select latest publications per category
 # - For Working Paper, group by existing WP subseries and show latest 3 per subseries
 # - Generate publication landing page, DOI, GitHub folder, and source PDF links
@@ -52,6 +52,7 @@ CATEGORY_ORDER = [
     "Book",
     "Index Methodology Paper",
     "Journal Article",
+    "Conference Paper",
     "White Paper",
     "Policy Brief",
     "Policy Report",
@@ -64,6 +65,7 @@ CATEGORY_LABELS = {
     "Book": "Books",
     "Index Methodology Paper": "Index Methodology Papers",
     "Journal Article": "Journal Articles",
+    "Conference Paper": "Conference Papers",
     "White Paper": "White Papers",
     "Policy Brief": "Policy Briefs",
     "Policy Report": "Policy Reports",
@@ -76,6 +78,7 @@ CATEGORY_CODES = {
     "Book": "BK",
     "Index Methodology Paper": "IMP",
     "Journal Article": "JA",
+    "Conference Paper": "CP",
     "White Paper": "WHT",
     "Policy Brief": "PB",
     "Policy Report": "PR",
@@ -96,6 +99,10 @@ CATEGORY_DESCRIPTIONS = {
     "Journal Article": (
         "Externally published or journal-style articles, including author-archived versions, "
         "publication records, magazine articles, and scholarly articles published outside the EPINOVA report series."
+    ),
+    "Conference Paper": (
+        "Full conference papers, proceedings papers, and independently citable conference contributions "
+        "presented or published through academic and professional conferences."
     ),
     "White Paper": (
         "Institutional white papers presenting conceptual frameworks, policy architectures, "
@@ -675,6 +682,8 @@ def build_repository_structure_section(paths: list[str]) -> str:
         "",
         "The `Journal Article/` directory is used for externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series.",
         "",
+        "The `Conference Paper/` directory is used for full conference papers, proceedings papers, and independently citable conference contributions. Conference abstracts may be included only when they are treated as standalone publication records.",
+        "",
         "The `White Paper/` directory is used for broader institutional white papers, conceptual frameworks, policy architectures, and strategic framework documents.",
         "",
         "The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.",
@@ -718,6 +727,7 @@ def build_publication_type_codes_section() -> str:
             "- `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.",
             "- `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.",
             "- `JA` is used for Journal Article, especially externally published articles or author-archived article records that should not be mixed into EPINOVA policy brief/report numbering.",
+            "- `CP` is used for Conference Paper, including proceedings papers and independently citable conference contributions. The recommended identifier format is `EPINOVA-2026-CP-01`.",
             "- For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.",
             "",
         ]
@@ -955,9 +965,9 @@ def update_overview_text(readme_text: str) -> str:
     Update common old wording without rewriting the full Overview.
     """
     replacements = {
-        "- conceptual frameworks and white papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
-        "- conceptual frameworks, white papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
-        "- conceptual frameworks, white papers, and index methodology papers;": "- books, conceptual frameworks, white papers, journal articles, and index methodology papers;",
+        "- conceptual frameworks and white papers;": "- books, conceptual frameworks, white papers, journal articles, conference papers, and index methodology papers;",
+        "- conceptual frameworks, white papers;": "- books, conceptual frameworks, white papers, journal articles, conference papers, and index methodology papers;",
+        "- conceptual frameworks, white papers, and index methodology papers;": "- books, conceptual frameworks, white papers, journal articles, conference papers, and index methodology papers;",
         "Index White Paper": "Index Methodology Paper",
         "Index White Papers": "Index Methodology Papers",
         "Index White Book": "Index Methodology Paper",

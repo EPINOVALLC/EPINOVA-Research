@@ -96,6 +96,8 @@ The `Index Methodology Paper/` directory is used for index-construction and meas
 
 The `Journal Article/` directory is used for externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series.
 
+The `Conference Paper/` directory is used for full conference papers, proceedings papers, and independently citable conference contributions. Conference abstracts may be included only when they are treated as standalone publication records.
+
 The `White Paper/` directory is used for broader institutional white papers, conceptual frameworks, policy architectures, and strategic framework documents.
 
 The `docs/` directory contains the generated static publication site deployed through Cloudflare Pages.
@@ -106,6 +108,7 @@ The `docs/` directory contains the generated static publication site deployed th
 | Book | BK | Monographs, reference works, edited books, multi-volume works, and formally published standalone books issued by EPINOVA Press. |
 | Index Methodology Paper | IMP | Index construction, measurement frameworks, indicator architecture, normalization, weighting, classification, validation, and scoring systems. |
 | Journal Article | JA | Externally published or journal-style articles, including author-archived versions, publication records, magazine articles, and scholarly articles published outside the EPINOVA report series. |
+| Conference Paper | CP | Full conference papers, proceedings papers, and independently citable conference contributions presented or published through academic and professional conferences. |
 | White Paper | WHT | Institutional white papers presenting conceptual frameworks, policy architectures, strategic research, and official EPINOVA framework documents. |
 | Policy Brief | PB | Concise policy analysis, strategic assessment, crisis interpretation, and actionable recommendations. |
 | Policy Report | PR | Policy-facing reports with more detailed background, evidence, and institutional implications. |
@@ -124,6 +127,7 @@ Notes:
 - `WHT` is used for White Paper. The code is derived from “White” to avoid conflict with `WP`.
 - `IMP` is used for Index Methodology Paper, especially documents focused on how an index is constructed, measured, weighted, validated, and applied.
 - `JA` is used for Journal Article, especially externally published articles or author-archived article records that should not be mixed into EPINOVA policy brief/report numbering.
+- `CP` is used for Conference Paper, including proceedings papers and independently citable conference contributions. The recommended identifier format is `EPINOVA-2026-CP-01`.
 - For index projects, use `IMP` when the document is primarily methodological, and use `WHT` when the document is broader, more policy-facing, or intended as an institutional white paper.
 ## Latest Publications
 
