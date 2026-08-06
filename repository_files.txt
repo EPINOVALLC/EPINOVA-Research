@@ -1,10 +1,7 @@
-Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
-Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
-Conference Papers/EPINOVA-2026-CP-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
-Conference Papers/EPINOVA-2026-CP-01/metadata.json
-docs/conference-papers/index.html
-docs/epinova-2026-cp-01/index.html
-docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
+Policy Brief/2026/EPINOVA–2026–PB-66/The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf
+Policy Brief/2026/EPINOVA–2026–PB-66/metadata.json
+docs/epinova-pb-2026-066/index.html
+docs/files/epinova-pb-2026-066/The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -603,6 +600,10 @@ Book/EPINOVA-BK-2026-004/sample.pdf
 Book/EPINOVA-BK-2026-005/cover.png
 Book/EPINOVA-BK-2026-005/metadata.json
 Book/EPINOVA-BK-2026-005/sample.pdf
+Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
+Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
+Conference Papers/EPINOVA-2026-CP-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
+Conference Papers/EPINOVA-2026-CP-01/metadata.json
 Index Methodology Paper/2025/IWP–25–01/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 Index Methodology Paper/2025/IWP–25–01/metadata.json
 Index Methodology Paper/2026/IMP-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
@@ -1387,6 +1388,8 @@ docs/articles/archive/articles_failed_index.json
 docs/articles/index.html
 docs/assets/global-ai-governance-logo.png
 docs/books/index.html
+docs/conference-papers/index.html
+docs/epinova-2026-cp-01/index.html
 docs/epinova-2026-ja-01/index.html
 docs/epinova-bk-2026-001/index.html
 docs/epinova-bk-2026-002/index.html
@@ -1517,6 +1520,7 @@ docs/epinova-wp-f-2026-06/index.html
 docs/epinova-wp-f-2026-07/index.html
 docs/epinova-wp-f-2026-08/index.html
 docs/epinova-wp-f-2026-09/index.html
+docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
 docs/files/epinova-2026-ja-01/The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf
 docs/files/epinova-bk-2026-001/cover.png
 docs/files/epinova-bk-2026-002/cover.png

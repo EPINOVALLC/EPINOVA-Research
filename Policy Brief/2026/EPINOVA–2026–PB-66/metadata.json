@@ -1,0 +1,546 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-066",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-066",
+  "title": "The Evolving Structure of the U.S.–Iran–Israel Conflict",
+  "subtitle": "MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4",
+  "title_normalized": "the evolving structure of the u.s.–iran–israel conflict",
+  "publication_date": "2026-08-06",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.066",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-066/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA publication page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–66",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "The Evolving Structure of the U.S.–Iran–Israel Conflict",
+      "scheme": "Short title",
+      "description": "Short form of the policy brief title"
+    },
+    {
+      "identifier": "MCCM v2.3.4",
+      "scheme": "Analytical model",
+      "description": "Multi-Domain Conflict and Coupling Model version 2.3.4 used as the conflict-monitoring framework"
+    },
+    {
+      "identifier": "MCEA",
+      "scheme": "Analytical indicator",
+      "description": "Multi-Component Escalation Assessment, an equal-weight daily systemic-pressure measure derived from 35 risk-oriented MCCM mechanisms"
+    },
+    {
+      "identifier": "NMF",
+      "scheme": "Analytical method",
+      "description": "Non-negative matrix factorization used to identify recurring mechanism co-activation patterns"
+    },
+    {
+      "identifier": "Analytical Days 1–159",
+      "scheme": "Temporal coverage",
+      "description": "Conflict-monitoring window using analytical days from 12:00 p.m. Eastern Time to 12:00 p.m. Eastern Time the following day"
+    }
+  ],
+  "description": "This policy brief examines the evolving structure of the U.S.–Iran–Israel conflict across 159 analytical days using MCCM v2.3.4, the Multi-Component Escalation Assessment (MCEA), non-negative matrix factorization (NMF), and exploratory k-means clustering. It finds that Phase III marked the principal structural break, with mean MCEA rising from 0.716 in Phase II to 0.840 in Phase III and peaking at 0.980 on Day 140. The analysis shows that escalation was systemic rather than purely kinetic: military pressure, institutional contestation, narrative amplification, uncertainty, resilience erosion, transmission dynamics, and external-node exposure intensified together. The brief argues that effective warning requires monitoring cross-layer configurations, latent mechanism composition, and resilience loss rather than visible strike intensity alone.",
+  "abstract": "This policy brief examines the evolving structure of the U.S.–Iran–Israel conflict across 159 analytical days using the Multi-Domain Conflict and Coupling Model (MCCM) v2.3.4, the Multi-Component Escalation Assessment (MCEA), non-negative matrix factorization (NMF), and exploratory k-means clustering. The results show a limited rise from Phase I to Phase II, followed by a decisive structural break in Phase III. Mean MCEA increased from 0.699 in Phase I to 0.716 in Phase II, then rose to 0.840 in Phase III, 17.27% above Phase II. The series peaked at 0.980 on Day 140. The Phase III rise was not a simple increase in military activity. Escalation dynamics, rule and institutional contestation, narrative warfare, uncertainty, transmission mechanisms, resilience erosion, and external strategic-node dependency intensified together. Exploratory NMF identifies four recurring co-activation patterns: kinetic escalation and physical disruption; rule-order and external-node coupling; resilience and normative-stability erosion; and institutional-information network pressure. Three daily clusters show that similar aggregate pressure levels can conceal different internal configurations. The central policy conclusion is that systemic escalation occurs when military, political, informational, institutional, economic, and network pressures reinforce one another while resilience mechanisms weaken. Effective warning therefore requires monitoring mechanism configurations, not only individual strikes or headline military indicators.",
+  "keywords": [
+    "U.S.–Iran–Israel conflict",
+    "MCCM v2.3.4",
+    "Multi-Domain Conflict and Coupling Model",
+    "MCEA",
+    "Multi-Component Escalation Assessment",
+    "NMF",
+    "non-negative matrix factorization",
+    "k-means clustering",
+    "Phase III",
+    "systemic escalation",
+    "conflict monitoring",
+    "cross-layer configuration",
+    "ten-layer topography",
+    "mechanism co-activation",
+    "latent uncertainty",
+    "state risk signaling",
+    "aggregate strategic stress",
+    "rule contestation",
+    "narrative polarization",
+    "information amplification",
+    "actor coupling",
+    "resilience erosion",
+    "external strategic node dependency",
+    "negotiation feasibility index",
+    "threshold risk",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Conflict analysis",
+    "Systems analysis",
+    "Computational social science",
+    "Security studies",
+    "Networked warfare",
+    "Middle East security",
+    "U.S.–Iran relations",
+    "Israel security",
+    "Crisis monitoring",
+    "Public policy",
+    "Data-driven policy analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-08-06",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-08-06",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-08-06",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-08-06",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66/The%20Evolving%20Structure%20of%20the%20U.S.%E2%80%93Iran%E2%80%93Israel%20Conflict%20MCEA%20and%20NMF%20Analysis%20of%20Analytical%20Days%201%E2%80%93159%20Using%20MCCM%20v2.3.4.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-066",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "MCCM v2.3.4, MCEA, Ten-Layer Topography, NMF, and Exploratory K-Means Conflict-Structure Analysis",
+    "source_basis": "Analysis based on a frozen 159 × 35 MCCM v2.3.4 weighted matrix covering Analytical Days 1–159, derived MCEA records, ten-layer contribution records, mechanism-contribution records, four retained NMF components, three exploratory clusters, and a separate 1,019-event Canonical Event knowledge base used for provenance and future event-time reconstruction.",
+    "case_context": "The U.S.–Iran–Israel conflict across Analytical Days 1–159, with Phase I covering Days 1–95, Phase II Days 96–131, and Phase III Days 132–159. Each analytical day runs from 12:00 p.m. Eastern Time to 12:00 p.m. Eastern Time the following day using the America/New_York time zone.",
+    "core_problem": "The central analytical problem is how to distinguish aggregate systemic pressure, cross-layer distribution, recurring latent mechanism composition, and recurring daily pressure regimes in the U.S.–Iran–Israel conflict without treating MCEA as a probability or the exploratory NMF and clustering results as official conflict phases.",
+    "central_claims": [
+      "Phase III marked the conflict’s decisive structural shift.",
+      "Phase II was an early-warning phase of compositional change even though average systemic pressure remained close to Phase I levels.",
+      "Persistent systemic pressure was led by uncertainty, risk signaling, aggregate strategic stress, rule contestation, narrative polarization, information amplification, and actor coupling.",
+      "NMF reveals four recurring co-activation patterns that aggregate MCEA alone cannot identify.",
+      "Three exploratory daily clusters distinguish different pressure configurations at similar aggregate levels.",
+      "Effective warning requires monitoring cross-layer configurations and resilience loss, not only visible strike intensity."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "MCCM v2.3.4 Structured Observation Matrix",
+        "description": "Structures multidomain conflict observations across 159 days and 35 mechanisms as a weighted observation matrix rather than event counts."
+      },
+      {
+        "name": "MCEA Systemic Pressure Analysis",
+        "description": "Uses the equal-weight average of 35 risk-oriented mechanism values, with seven stability-oriented mechanisms inverted before aggregation, to estimate comparative daily systemic pressure."
+      },
+      {
+        "name": "Ten-Layer Topography",
+        "description": "Shows how recorded intensity is distributed across ten MCCM layers over time using raw within-layer means."
+      },
+      {
+        "name": "Non-Negative Matrix Factorization",
+        "description": "Identifies recurring mechanism co-activation patterns in the nonnegative 159 × 35 risk-oriented MCCM matrix."
+      },
+      {
+        "name": "Exploratory K-Means Clustering",
+        "description": "Uses row-normalized NMF activation vectors to identify recurring daily configurations sensitive to pressure composition rather than magnitude alone."
+      },
+      {
+        "name": "Supplementary Diagnostic Indicators",
+        "description": "Uses NFI Risk and Threshold Risk as supplementary diagnostics outside the MCEA calculation."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Multi-Component Escalation Assessment",
+      "code": "MCEA",
+      "indicator_type": "Composite systemic-pressure indicator",
+      "description": "Equal-weight average of 35 risk-oriented MCCM mechanism values, with seven stability-oriented mechanisms inverted before aggregation.",
+      "observed_pattern": "Mean MCEA increased from 0.699260 in Phase I to 0.716214 in Phase II and 0.839898 in Phase III; the full-series peak was 0.980000 on Day 140.",
+      "interpretation": "Comparative pressure measure, not a probability of war, collapse, or uncontrolled escalation."
+    },
+    {
+      "name": "Raw MCCM Mean",
+      "code": "Raw MCCM",
+      "indicator_type": "Raw model diagnostic",
+      "description": "Raw mean of the MCCM mechanism values prior to MCEA risk-oriented inversion logic.",
+      "observed_pattern": "Tracked alongside MCEA and supplementary Threshold Risk in the daily and phase-level figures.",
+      "interpretation": "Used as an input to the separate Threshold Risk diagnostic."
+    },
+    {
+      "name": "Threshold Risk",
+      "code": "TR",
+      "indicator_type": "Supplementary nonlinear diagnostic",
+      "description": "Separate logistic diagnostic applied to the raw MCCM mean using θ = 0.82 and a slope of 12.",
+      "observed_pattern": "Reported alongside daily and phase-level MCEA and raw MCCM mean.",
+      "interpretation": "Supplementary diagnostic, not part of MCEA and not applied to MCEA values."
+    },
+    {
+      "name": "Negotiation Feasibility Index Risk",
+      "code": "NFI Risk",
+      "indicator_type": "Supplementary negotiation diagnostic",
+      "description": "Defined as 1 − NFI, where NFI is derived from selected MCCM-linked indicators of control, institutional compatibility, signaling stability, agreement design, enforcement capacity, and time-arbitrage risk.",
+      "observed_pattern": "Reported only as a supplementary diagnostic in Figure 1.",
+      "interpretation": "Higher NFI Risk indicates lower negotiation feasibility; NFI is not part of MCEA and is not an additional MCCM layer."
+    },
+    {
+      "name": "Ten-Layer Conflict Intensity",
+      "code": "Layer Topography",
+      "indicator_type": "Cross-layer distribution diagnostic",
+      "description": "Raw within-layer means across ten MCCM layers shown as a temporal topography.",
+      "observed_pattern": "Phase II shows substantial redistribution across layers without comparable aggregate MCEA rise; Phase III shows broader high-intensity synchronization.",
+      "interpretation": "Layer values are raw within-layer means and stability-oriented inversion is not applied in the visualization."
+    },
+    {
+      "name": "NMF Components",
+      "code": "NMF-C1–C4",
+      "indicator_type": "Latent co-activation patterns",
+      "description": "Four retained exploratory NMF components with relative reconstruction error of 0.081922.",
+      "observed_pattern": "Components correspond to kinetic escalation and physical disruption; rule-order and external-node coupling; resilience and normative-stability erosion; and institutional-information network pressure.",
+      "interpretation": "Latent patterns, not causal mechanisms or formal MCCM categories."
+    },
+    {
+      "name": "Exploratory Daily Clusters",
+      "code": "K-means clusters",
+      "indicator_type": "Daily pressure-regime diagnostic",
+      "description": "Three clusters generated from row-normalized NMF activation vectors.",
+      "observed_pattern": "Three retained groups contain 61, 31, and 67 days with mean MCEA values of 0.846371, 0.699618, and 0.633041.",
+      "interpretation": "Descriptive regimes, not official phases or regime-switching states."
+    }
+  ],
+  "key_findings": [
+    "Phase III marked the conflict’s principal structural break, with mean MCEA rising from 0.716214 in Phase II to 0.839898 in Phase III.",
+    "The full-series MCEA peak occurred on Day 140 at 0.980000, which should not be interpreted as a 98% probability of war, collapse, or uncontrolled escalation.",
+    "The Phase I to Phase II MCEA increase was modest: from 0.699260 to 0.716214, or +2.42%.",
+    "Phase III was 17.27% higher than Phase II in mean MCEA.",
+    "Phase II served as an early-warning phase of compositional change, with mechanism mix shifting before the large aggregate rise.",
+    "The seven largest mean risk-oriented mechanism contributions were LUB, SRS, ASSI, RCI, NPR, ISAI, and ACI.",
+    "The ten-layer decomposition shows that escalation was cross-layered rather than simply kinetic.",
+    "The four retained NMF components capture kinetic escalation and physical disruption, rule-order and external-node coupling, resilience and normative-stability erosion, and institutional-information network pressure.",
+    "The retained NMF solution had a relative reconstruction error of 0.081922.",
+    "The three-cluster solution had a silhouette coefficient of 0.471726 and provided a more parsimonious interpretation than a four-cluster solution.",
+    "Cluster 1 contained 61 days with mean MCEA 0.846371 and is interpreted as a high-pressure mixed regime.",
+    "Cluster 2 contained 31 days with mean MCEA 0.699618 and is interpreted as a rule-order and external-node regime.",
+    "Cluster 3 contained 67 days with mean MCEA 0.633041 and is interpreted as a lower-pressure escalation regime.",
+    "Effective warning requires monitoring magnitude, cross-layer distribution, mechanism composition, and resilience loss together."
+  ],
+  "policy_recommendations": [
+    "Create integrated cross-domain assessment and warning cells combining military operations, intelligence, diplomacy, energy, transport, cyber, finance, and strategic communications.",
+    "Use compositional change as an early-warning trigger when mechanism mix shifts even before aggregate MCEA rises sharply.",
+    "Separate escalation control from resilience protection by pairing deconfliction, signaling restraint, and crisis communication with protection of logistics, energy throughput, communications, institutional legitimacy, and recovery capacity.",
+    "Protect high-dependency external nodes such as ports, shipping routes, transit states, energy hubs, logistics corridors, alliance facilities, communications infrastructure, and financial intermediaries.",
+    "Match policy tools to the observed pressure regime instead of applying the same policy package across distinct pressure configurations.",
+    "Define de-escalation as restored system controllability rather than a simple reduction in strikes."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Sustained changes in mechanism mix without comparable aggregate MCEA increase",
+      "analytical_purpose": "Detects Phase-II-like compositional early-warning conditions."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Simultaneous increases across escalation, rule-order, narrative, risk, transmission, and external-node layers",
+      "analytical_purpose": "Identifies cross-layer synchronization associated with Phase III-like systemic escalation."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Declining stability-oriented mechanisms such as LC, NSI, EET, SCI, WJC, DRI, and MLI",
+      "analytical_purpose": "Tracks resilience erosion that can turn otherwise manageable pressure into systemic danger."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Rising activation of rule-order and external-node NMF patterns",
+      "analytical_purpose": "Signals widening institutional contestation and exposure of external strategic nodes."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Transition into high-pressure mixed cluster days",
+      "analytical_purpose": "Identifies daily configurations where multiple pressure types become mutually reinforcing."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Lee and Seung (1999). Learning the parts of objects by non-negative matrix factorization",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for non-negative matrix factorization"
+    },
+    {
+      "relation": "References",
+      "identifier": "Lloyd (1982). Least squares quantization in PCM",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for k-means clustering"
+    },
+    {
+      "relation": "References",
+      "identifier": "Rousseeuw (1987). Silhouettes",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for silhouette coefficient and cluster validation"
+    },
+    {
+      "relation": "References",
+      "identifier": "Pedregosa et al. (2011). Scikit-learn",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for scikit-learn implementation"
+    }
+  ],
+  "references": [
+    "Gordon, P. H. (2026, June 10). How the Iran war will change the Middle East. Brookings Institution. https://www.brookings.edu/articles/how-the-iran-war-will-change-the-middle-east/",
+    "Govella, K., & Nakano, J. (2026, March 20). What are the implications of the Iran conflict for Japan? Center for Strategic and International Studies. https://www.csis.org/analysis/what-are-implications-iran-conflict-japan",
+    "Lee, D. D., & Seung, H. S. (1999). Learning the parts of objects by non-negative matrix factorization. Nature, 401(6755), 788–791. https://doi.org/10.1038/44565",
+    "Lloyd, S. (1982). Least squares quantization in PCM. IEEE Transactions on Information Theory, 28(2), 129–137. https://doi.org/10.1109/TIT.1982.1056489",
+    "Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., VanderPlas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://www.jmlr.org/papers/v12/pedregosa11a.html",
+    "Rousseeuw, P. J. (1987). Silhouettes: A graphical aid to the interpretation and validation of cluster analysis. Journal of Computational and Applied Mathematics, 20, 53–65. https://doi.org/10.1016/0377-0427(87)90125-7",
+    "Yacoubian, M. (2026a, July 20). Is the Iran war entering a dangerous new phase? Center for Strategic and International Studies. https://www.csis.org/analysis/iran-war-entering-dangerous-new-phase",
+    "Yacoubian, M. (2026b, June 8). Can Iran negotiations survive Israel-Iran escalation? Center for Strategic and International Studies. https://www.csis.org/analysis/can-iran-negotiations-survive-israel-iran-escalation"
+  ],
+  "recommended_citation": "Wu, Shaoyuan (2026), The Evolving Structure of the U.S.–Iran–Israel Conflict: MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4, Policy Brief No. EPINOVA–2026–PB–66, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.066",
+  "citation_apa": "Wu, S. (2026). The evolving structure of the U.S.–Iran–Israel conflict: MCEA and NMF analysis of Analytical Days 1–159 using MCCM v2.3.4. EPINOVA Policy Brief Series, EPINOVA-PB-2026-066. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.066.",
+  "short_citation": "Wu (2026), The Evolving Structure of the U.S.–Iran–Israel Conflict, EPINOVA–2026–PB–66.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-08-06",
+    "pagination": "12 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Daily MCEA and Raw MCCM Mean, With Supplementary NFI Risk (1 − NFI) and Threshold Risk",
+      "description": "Line chart tracing daily MCEA, raw MCCM mean, supplementary NFI Risk, and Threshold Risk across Analytical Days 1–159.",
+      "source": "Author's calculations from the frozen MCCM v2.3.4 159 × 35 weighted matrix and derived analytical outputs.",
+      "note": "NFI risk is reported only as a supplementary diagnostic. Threshold Risk is a separate nonlinear diagnostic for which θ = 0.82 applies to the raw MCCM mean, not to MCEA."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Phase-Level Comparison of MCEA, Raw MCCM Mean, and Threshold Risk",
+      "description": "Bar chart comparing phase-level means for MCEA, raw MCCM mean, and Threshold Risk across Phase I, Phase II, and Phase III.",
+      "source": "Author's calculations from phase summaries derived from the frozen MCCM v2.3.4 159 × 35 weighted matrix and associated diagnostic outputs.",
+      "note": "Confirms that the principal increase occurred between Phase II and Phase III rather than between Phase I and Phase II."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Ten-Layer Additive Contributions to Daily MCEA",
+      "description": "Stacked area chart showing additive contributions of the ten MCCM layers to daily MCEA across Analytical Days 1–159.",
+      "source": "Author's calculations from MCCM v2.3.4 ten-layer assignments and MCEA layer-contribution outputs.",
+      "note": "Because the ten MCCM layers contain different numbers of mechanisms, additive contributions should not be interpreted as direct measures of within-layer intensity."
+    },
+    {
+      "number": "Figure 4",
+      "title": "Temporal Topography of Ten-Layer Conflict Intensity, Analytical Days 1–159",
+      "description": "Contour plot showing temporal intensity across the ten MCCM layers, with dashed vertical lines marking inherited Phase II and Phase III boundaries.",
+      "source": "Author's calculations from the formal MCCM v2.3.4 159 × 35 weighted matrix and ten-layer assignments.",
+      "note": "Layer values are raw within-layer means and are not risk-oriented; stability-oriented mechanisms are inverted only in MCEA calculations."
+    },
+    {
+      "number": "Figure 5",
+      "title": "Mean Risk-Oriented Mechanism Contributions Across 159 Analytical Days",
+      "description": "Horizontal bar chart ranking mean risk-oriented mechanism contributions across all 35 MCCM mechanisms.",
+      "source": "Author's calculations from the MCEA mechanism-contribution table.",
+      "note": "LC, NSI, EET, SCI, WJC, DRI, and MLI are inverted before aggregation."
+    },
+    {
+      "number": "Figure 6",
+      "title": "Daily Activation Shares of the Four Exploratory NMF Components",
+      "description": "Line chart showing daily activation shares of the four retained exploratory NMF components.",
+      "source": "Author's exploratory NMF analysis of the frozen 159 × 35 risk-oriented MCCM matrix.",
+      "note": "The figure shows changes in composition rather than changes in total pressure alone."
+    },
+    {
+      "number": "Figure 7",
+      "title": "Three-Cluster Daily Regime Assignment Plotted Against MCEA",
+      "description": "Scatter plot mapping three k-means cluster assignments against daily MCEA values across analytical days.",
+      "source": "Author's k-means clustering of row-normalized four-component NMF activation vectors.",
+      "note": "The clusters identify recurring pressure compositions and do not replace the formal Phase I–III structure."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Analytical Design and Interpretation Boundaries",
+      "description": "Compares MCCM v2.3.4, MCEA, NMF, and k-means by input, purpose, and interpretation boundary.",
+      "source": "Author's analytical framework.",
+      "note": "Summarizes the role and limits of the four complementary analytical tools."
+    },
+    {
+      "number": "Table 2",
+      "title": "Four-Component NMF Solution",
+      "description": "Summarizes the four retained NMF components, their interpretive labels, and their highest-loading mechanisms.",
+      "source": "Author's exploratory NMF estimation.",
+      "note": "Component labels are substantive interpretations of highest-loading MCCM mechanisms and are not formal MCCM categories."
+    },
+    {
+      "number": "Table 3",
+      "title": "Three-Cluster Regime Summary",
+      "description": "Summarizes the three retained exploratory clusters by days, mean MCEA, and descriptive reading.",
+      "source": "Author's k-means clustering of row-normalized NMF activation vectors.",
+      "note": "Cluster labels are descriptive and not official conflict phases."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "The PDF references scikit-learn as the implementation environment for machine-learning methods, but no software artifact or source-code repository is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "Python",
+    "development_status": "Analytical implementation referenced; no standalone software release specified in the PDF",
+    "packages": [
+      "scikit-learn"
+    ]
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information, a structured conflict-monitoring dataset, and model-derived analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "metadata_source": {
+    "source_file": "The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-08-06",
+    "last_updated": "2026-08-06",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, MCCM v2.3.4 and MCEA methodology, NMF and k-means diagnostics, phase-level results, figures, tables, policy implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 12 are preserved in the metadata references field. Figures 1–7 and Tables 1–3 are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260806193553-04'00'",
+    "modification_date": "D:20260806193553-04'00'",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.066",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-066/",
+    "crossref_doi_suffix": "epinova.pb.2026.066",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.066",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.066",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-066/",
+    "registration_date": "2026-08-06",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

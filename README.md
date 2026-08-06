@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-066** (2026-08-06)  
+  **The Evolving Structure of the U.S.–Iran–Israel Conflict: MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.066](https://doi.org/10.67037/epinova.pb.2026.066)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-66/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66)  
+  Source PDF: [`The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66/The%20Evolving%20Structure%20of%20the%20U.S.%E2%80%93Iran%E2%80%93Israel%20Conflict%20MCEA%20and%20NMF%20Analysis%20of%20Analytical%20Days%201%E2%80%93159%20Using%20MCCM%20v2.3.4.pdf)
+
 - **EPINOVA-PB-2026-065** (2026-07-30)  
   **Operational Control versus Systemic Connectivity: The Emerging Structure of U.S.–China Competition under Networked Warfare**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.062](https://doi.org/10.67037/epinova.pb.2026.062)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-62/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62)  
   Source PDF: [`Is the U.S.–Israel–Iran Conflict Entering Phase III Residual Target Depletion and the Shift from Asset Destruction to Functional Disruption.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-62/Is%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20Entering%20Phase%20III%20Residual%20Target%20Depletion%20and%20the%20Shift%20from%20Asset%20Destruction%20to%20Functional%20Disruption.pdf)
-
-- **EPINOVA-PB-2026-061** (2026-07-06)  
-  **Khamenei’s Funeral as a Geopolitical Roll Call: The Emerging Middle East–Eurasia Order**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.061](https://doi.org/10.67037/epinova.pb.2026.061)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-61/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-61)  
-  Source PDF: [`Khamenei’s Funeral as a Geopolitical Roll Call The Emerging Middle East–Eurasia Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-61/Khamenei%E2%80%99s%20Funeral%20as%20a%20Geopolitical%20Roll%20Call%20The%20Emerging%20Middle%20East%E2%80%93Eurasia%20Order.pdf)
 
 ---
 
