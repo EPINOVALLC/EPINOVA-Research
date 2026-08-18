@@ -1,16 +1,15 @@
 {
-  "epinova_id": "EPINOVA-PB-2026-059",
+  "epinova_id": "EPINOVA-PB-2026-069",
   "record_type": "Publication",
   "resource_type": "Report",
   "publication_type": "Policy Brief",
   "category": "policy-briefs",
   "publication_series": "EPINOVA Policy Brief Series",
   "series_code": "PB",
-  "series_number": "2026-059",
-  "title": "AI Capability Stratification",
-  "subtitle": "A Framework for the Future Distribution of AI Power",
-  "title_normalized": "ai capability stratification",
-  "publication_date": "2026-06-26",
+  "series_number": "2026-069",
+  "title": "From AI-Enabled Weapons to AI-Orchestrated Warfare",
+  "subtitle": "The Emerging Global Military AI Stack in 2026",
+  "publication_date": "2026-08-17",
   "version": "v1.0",
   "language": "en",
   "status": "Published",
@@ -24,14 +23,11 @@
       "orcid": "https://orcid.org/0009-0008-0660-8232"
     }
   ],
-  "contributors": [],
   "publisher": "EPINOVA LLC",
   "publisher_unit": "Global AI Governance and Policy Research Center",
   "place": "United States",
-  "copyright": "Copyright © 2026 Shaoyuan Wu",
-  "doi": "https://doi.org/10.67037/epinova.pb.2026.059",
-  "previous_doi": "",
-  "landing_page": "https://publications.epinova.org/epinova-pb-2026-059/",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.069",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-069/",
   "official_page": "https://epinova.org/policy-brief-1",
   "alternate_identifiers": [
     {
@@ -40,348 +36,336 @@
       "description": "Official EPINOVA publication page"
     },
     {
-      "identifier": "EPINOVA–2026–PB–59",
+      "identifier": "EPINOVA–2026–PB–69",
       "scheme": "EPINOVA policy brief number",
       "description": "Policy brief number printed in the PDF"
     },
     {
-      "identifier": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
+      "identifier": "From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf",
       "scheme": "File name",
       "description": "Source PDF file name"
     },
     {
-      "identifier": "AI Capability Stratification",
-      "scheme": "Short title",
-      "description": "Short form of the policy brief title"
+      "identifier": "Military AI stack",
+      "scheme": "Analytical concept",
+      "description": "Seven-layer socio-technical framework for assessing military AI capacity formation, operational conversion, and governance"
     },
     {
-      "identifier": "Surface Intelligence Domain",
+      "identifier": "AI-orchestrated warfare",
       "scheme": "Analytical concept",
-      "description": "Visible public-facing layer of AI capability in the framework"
+      "description": "Use of AI across technical and organizational layers to integrate information, rank options, allocate resources, coordinate units, sequence effects, and support reassessment"
     },
     {
-      "identifier": "Deep Intelligence Domain",
+      "identifier": "Decision compression",
       "scheme": "Analytical concept",
-      "description": "Permissioned, professional, organizational, and embedded domain of AI capability"
-    },
-    {
-      "identifier": "Dark-Domain Intelligence",
-      "scheme": "Analytical concept",
-      "description": "Restricted-visibility, high-threshold, high-resource, and high-consequence domain of AI capability"
-    },
-    {
-      "identifier": "Seven Layers of AI Capability",
-      "scheme": "Analytical concept",
-      "description": "Seven-layer stratification model developed in the policy brief"
+      "description": "Compression of information, decision time, organizations, choices, and operational sequences before formal authorization occurs"
     }
   ],
-  "description": "This policy brief proposes AI Capability Stratification as a structural framework for understanding the future distribution of AI power. It argues that public-facing AI represents only the visible surface of a broader capability structure, while deeper forms of AI power emerge through institutional embedding, proprietary knowledge, operational control, resource authority, real-world interfaces, and differentiated rule conditions.",
-  "abstract": "The future development of artificial intelligence should not be understood as a linear race among public-facing large models. As AI systems become embedded in institutions, workflows, operational systems, proprietary knowledge environments, resource-allocation mechanisms, and differentiated rule conditions, AI capability is likely to form a stratified structure. This policy brief proposes AI Capability Stratification as a structural framework for understanding the future distribution of artificial intelligence power. The framework shifts attention from model performance alone to the broader conditions under which AI capability is accessed, embedded, authorized, optimized, and connected to real-world systems. The model divides AI capability into three broad domains: Surface Intelligence Domain, Deep Intelligence Domain, and Dark-Domain Intelligence. These domains can be further divided into seven analytical layers: Public Interface Intelligence, Institutional Embedded Intelligence, Operational Control Intelligence, Proprietary Epistemic Intelligence, Objective-Specific Optimized Intelligence, High-Authority Resource Intelligence, and Boundary-Condition Intelligence. The central thesis is straightforward: Public AI determines visible access; Deep AI determines professional productivity; and Dark-domain AI determines how AI capability is linked to concentrated authority, resource command, real-world consequence, and differentiated rule conditions. This framework does not claim that deeper AI layers are always more intelligent, more advanced, or more dangerous. Rather, it argues that AI power depends on the interaction between model capability, data quality, access conditions, institutional embedding, resource authority, real-world interfaces, and rule space. The future distribution of AI power will therefore not be determined only by which model is the strongest. It will also be determined by who can use AI, what AI can access, what resources AI can influence, what systems AI can affect, and under what rules AI is allowed to operate.",
+  "description": "This policy brief examines the transition from AI-enabled weapons to AI-orchestrated warfare. It argues that the main unit of military AI competition is shifting from individual models or weapons to a broader military AI stack that integrates compute, trusted data, models, command platforms, sensors, weapons, autonomous systems, and allied networks. The brief identifies seven stack layers—energy and compute, data and models, integration and digital environments, command decision support, firepower orchestration, edge autonomy, and alliance governance—and compares major pathways across the United States, NATO, China, U.S. allies, Ukraine, Russia, and Israel. It concludes that the most consequential effect of military AI is decision compression: AI can shape what commanders see, how threats are ranked, which options appear feasible, and how quickly decisions must be made, even when humans retain formal authorization.",
+  "abstract": "Military artificial intelligence is entering a new phase. Public debate has often focused on AI-enabled weapons such as autonomous drones, machine-vision targeting, loitering munitions, and robotic platforms. Those systems remain important, but the principal direction of change is toward AI-orchestrated warfare: the integration of compute, military data, models, command platforms, sensors, weapons, autonomous systems, and allied networks into a continuously operating warfighting architecture. This brief introduces a seven-layer military AI stack covering energy and compute, data and models, integration and digital environments, command decision support, firepower orchestration, edge autonomy, and alliance governance. It compares pathways visible in the United States, NATO, China, Japan, South Korea, the United Kingdom, Germany, Ukraine, Russia, and Israel. The central strategic effect of the stack is decision compression. AI can compress information, decision time, organizational processes, choices, and operational sequences even when humans retain formal command authority. Military AI governance should therefore move beyond a narrow focus on fully autonomous weapons and cover decision-support platforms, target-generation systems, model updates, data provenance, supplier dependence, review time, human override, and degraded operations.",
   "keywords": [
-    "AI capability stratification",
-    "AI power",
-    "Surface Intelligence",
-    "Deep Intelligence",
-    "Dark-Domain Intelligence",
-    "Public Interface Intelligence",
-    "Institutional Embedded Intelligence",
-    "Operational Control Intelligence",
-    "Proprietary Epistemic Intelligence",
-    "Objective-Specific Optimized Intelligence",
-    "High-Authority Resource Intelligence",
-    "Boundary-Condition Intelligence",
-    "AI governance",
-    "AI systems",
-    "model capability",
-    "data quality",
-    "resource authority",
-    "real-world interfaces",
-    "rule space",
-    "institutional embedding",
-    "AGI",
-    "foundation models",
-    "frontier AI",
-    "AI regulation",
-    "AI risk management",
+    "military AI",
+    "AI-orchestrated warfare",
+    "AI-enabled weapons",
+    "military AI stack",
+    "decision compression",
+    "energy and compute",
+    "data and models",
+    "digital environments",
+    "command decision support",
+    "firepower orchestration",
+    "edge autonomy",
+    "alliance governance",
+    "Maven Smart System",
+    "MSS NATO",
+    "JADC2",
+    "kill web",
+    "mosaic warfare",
+    "autonomous systems",
+    "target production",
+    "human control",
+    "meaningful human control",
+    "military AI governance",
+    "AI assurance",
+    "interoperability",
+    "data sovereignty",
+    "platform dependence",
+    "Ukraine DELTA",
+    "China system-of-systems",
+    "Japan defense AI",
+    "South Korea defense AI",
+    "Israel targeting systems",
     "EPINOVA"
   ],
   "subjects": [
-    "Artificial intelligence",
-    "AI governance",
-    "AI policy",
-    "Technology policy",
+    "Military artificial intelligence",
     "Strategic studies",
-    "Public policy",
-    "Institutional governance",
-    "AI safety",
-    "AI regulation",
-    "Foundation models",
-    "Frontier AI",
-    "Risk management",
-    "Security studies",
-    "Information systems",
-    "Digital governance"
+    "Defense technology",
+    "Command and control",
+    "Military operations",
+    "Autonomous systems",
+    "AI governance",
+    "Alliance interoperability",
+    "International security",
+    "Cyber and information conflict",
+    "Defense acquisition",
+    "Public policy"
   ],
   "dates": [
     {
-      "date": "2026-06-26",
+      "date": "2026-08-17",
       "date_type": "Issued",
       "description": "First public release date printed in the PDF"
     },
     {
-      "date": "2026-06-27",
+      "date": "2026-08-17",
       "date_type": "Created",
-      "description": "PDF creation date from embedded metadata"
+      "description": "PDF creation date and metadata creation date"
     },
     {
-      "date": "2026-06-26",
+      "date": "2026-08-17",
       "date_type": "Date printed in PDF",
       "description": "Date displayed on the title page"
     },
     {
-      "date": "2026-06-26",
+      "date": "2026-08-18",
       "date_type": "Metadata updated",
-      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered."
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
     }
   ],
   "license": {
     "id": "cc-by-4.0",
     "name": "Creative Commons Attribution 4.0 International",
-    "title": "Creative Commons Attribution 4.0 International",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
   "files": [
     {
       "label": "Download PDF",
-      "filename": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
-      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59/AI%20Capability%20Stratification%20A%20Framework%20for%20the%20Future%20Distribution%20of%20AI%20Power.pdf",
+      "filename": "From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69/From%20AI-Enabled%20Weapons%20to%20AI-Orchestrated%20Warfare%20The%20Emerging%20Global%20Military%20AI%20Stack%20in%202026.pdf",
       "content_type": "application/pdf",
       "format": "application/pdf",
       "description": "Full-text PDF of the policy brief",
-      "pages": 12
+      "pages": 15
     }
   ],
   "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
-  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-59",
-  "source_repository": {
-    "platform": "GitHub",
-    "organization": "EPINOVALLC",
-    "repository": "EPINOVA-Research",
-    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
-  },
-  "series_information": {
-    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
-    "series_code": "PB",
-    "series_number": "2026-059",
-    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
-  },
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69",
   "methodology": {
-    "framework_name": "AI Capability Stratification Framework",
-    "source_basis": "Conceptual policy analysis and structural analogy using the public web, deep web, and dark web as a non-moral stratification model, combined with prior EPINOVA work on AI power, foundation-model research, AI risk-management frameworks, frontier-AI governance literature, and public AI governance instruments including the EU AI Act, NIST AI RMF, OECD AI principles, and OMB federal AI governance guidance.",
-    "case_context": "Future distribution of AI capability across public-facing systems, embedded organizational systems, proprietary and domain-specific AI, operational control systems, high-authority resource systems, and differentiated rule-space environments.",
-    "core_problem": "The central analytical problem is that public-facing model performance does not capture the full distribution of AI power once AI systems become embedded in institutions, proprietary data environments, operational workflows, resource-allocation structures, real-world interfaces, and differentiated rule conditions.",
+    "framework_name": "Seven-Layer Military AI Stack and Decision Compression Framework",
+    "source_basis": "Open-source policy analysis using government releases, institutional announcements, defense reporting, vendor statements, international governance documents, and comparative case synthesis.",
+    "case_context": "Global military AI developments through August 17, 2026, including the United States, NATO, China, Japan, South Korea, the United Kingdom, Germany, Ukraine, Russia, and Israel.",
+    "core_problem": "How military AI competition is shifting from individual AI-enabled weapons toward AI-orchestrated war systems that integrate compute, data, models, command platforms, sensors, weapons, autonomous systems, and alliance networks.",
     "central_claims": [
-      "Public-facing AI is only the visible surface of future AI power.",
-      "AI capability will stratify across access, data, authority, specialization, interface, resource authority, and rule space.",
-      "Deep AI will become a primary layer of professional productivity through institutional embedding and proprietary knowledge systems.",
-      "Dark-domain AI should be understood structurally rather than morally, as a domain of restricted visibility, high access thresholds, concentrated authority, resource connection, real-world consequence, and differentiated rule conditions.",
-      "AGI would not eliminate stratification because general capability does not automatically provide proprietary data, institutional memory, expert feedback, resource authority, operational interfaces, or special permissions.",
-      "AI governance must move beyond public-model regulation to address embedded, operational, proprietary, high-authority, and boundary-condition AI systems."
+      "The unit of military AI competition is shifting from the model or weapon to the stack.",
+      "The most consequential effect of military AI is compression, not necessarily autonomy.",
+      "The United States and China are developing different pathways toward orchestration.",
+      "Alliance interoperability is becoming a software and data-governance issue.",
+      "Battlefield adaptation can generate significant military value despite limited frontier compute.",
+      "Governance is broadening but remains fragmented and behind deployment."
     ],
     "analytical_lenses": [
       {
-        "name": "AI–Internet Stratification Analogy",
-        "description": "Uses the public web, deep web, and dark web analogy structurally to distinguish visibility, access, authority, specialization, operational connection, and rule conditions in AI systems."
+        "name": "Military AI Stack Analysis",
+        "description": "Separates seven interdependent layers: energy and compute, data and models, integration and digital environments, command decision support, firepower orchestration, edge autonomy, and alliance governance."
       },
       {
-        "name": "Surface Intelligence Domain",
-        "description": "Analyzes public-facing AI systems that shape mass adoption, public perception, and visible AI markets."
+        "name": "Operational Conversion",
+        "description": "Assesses how technical resources are translated into repeatable military effects."
       },
       {
-        "name": "Deep Intelligence Domain",
-        "description": "Analyzes permissioned, professional, organizational, and embedded AI systems tied to workflows, proprietary data, and institutional knowledge."
+        "name": "Decision Compression Analysis",
+        "description": "Identifies how AI compresses information, decision time, organizational processes, choices, and operational sequences."
       },
       {
-        "name": "Dark-Domain Intelligence",
-        "description": "Analyzes restricted-visibility, high-threshold, high-resource, high-consequence, and differentiated-rule AI systems without treating them as inherently illegal, malicious, or opaque."
+        "name": "Sovereignty–Interoperability Tradeoff",
+        "description": "Assesses how allies balance platform adoption against national control over data, mission logic, updates, and fallback capacity."
       },
       {
-        "name": "Seven-Layer Capability Model",
-        "description": "Classifies AI capability into Public Interface, Institutional Embedded, Operational Control, Proprietary Epistemic, Objective-Specific Optimized, High-Authority Resource, and Boundary-Condition Intelligence."
+        "name": "Edge Adaptation Analysis",
+        "description": "Assesses how small onboard models, machine vision, terminal guidance, and battlefield feedback generate military value under electronic warfare."
       },
       {
-        "name": "AGI Stratification Analysis",
-        "description": "Evaluates why general capability would not automatically erase stratification based on data, authority, interfaces, permissions, and rule conditions."
+        "name": "Human Control Beyond the Trigger",
+        "description": "Evaluates whether formal human authorization remains meaningful when AI systems shape attention, ranking, alternatives, timing, and operational sequence."
       },
       {
-        "name": "Layered Governance Analysis",
-        "description": "Links governance requirements to the structural position of AI systems across public, embedded, proprietary, high-authority, and boundary-condition environments."
+        "name": "Governance Gap Assessment",
+        "description": "Compares current international military AI and LAWS processes with wider decision-support, target-production, and operational-orchestration systems."
       }
     ]
   },
   "dimensions": [
     {
-      "name": "Audience Scale",
-      "code": "AS",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "AI systems vary from mass public access to narrow authorized communities, firms, agencies, military organizations, research institutions, or small expert groups.",
-      "interpretation": "Audience scale affects visibility, diffusion, public accountability, specialization, and institutional consequence."
+      "name": "Energy and Compute",
+      "code": "L1",
+      "indicator_type": "Military AI stack layer",
+      "description": "Electricity, chips, data centers, military cloud, cooling, communications, and offline compute.",
+      "strategic_test": "Can priority workloads continue through grid, network, supplier, or cooling disruption?"
     },
     {
-      "name": "Access Threshold",
-      "code": "AT",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "Technical, institutional, financial, legal, or security barriers determine who can use an AI system.",
-      "interpretation": "Higher access thresholds may reduce visibility while increasing specialization, control, and consequence."
+      "name": "Data and Models",
+      "code": "L2",
+      "indicator_type": "Military AI stack layer",
+      "description": "Military datasets, foundation models, computer vision, model routing, evaluation, and updating.",
+      "strategic_test": "Are data provenance, model behavior, and update effects known and controllable?"
     },
     {
-      "name": "Data Quality",
-      "code": "DQ",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "Systems differ by the relevance, exclusivity, reliability, timeliness, and domain value of their data.",
-      "interpretation": "In many domains, data quality and exclusivity may matter more than model scale."
+      "name": "Integration and Digital Environments",
+      "code": "L3",
+      "indicator_type": "Military AI stack layer",
+      "description": "Common operational pictures, data ontologies, digital twins, and simulation.",
+      "strategic_test": "Can heterogeneous systems exchange data without creating a single point of dependence?"
     },
     {
-      "name": "Domain Specificity",
-      "code": "DS",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "AI systems may be general-purpose or optimized for a particular sector, function, environment, task, or decision problem.",
-      "interpretation": "Specialization can produce stronger task-level performance even when general model capability is lower."
+      "name": "Command Decision Support",
+      "code": "L4",
+      "indicator_type": "Military AI stack layer",
+      "description": "Intelligence fusion, threat ranking, planning, wargaming, and course-of-action generation.",
+      "strategic_test": "Can commanders understand, challenge, and reject system recommendations?"
     },
     {
-      "name": "Resource Authority",
-      "code": "RA",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "AI systems may recommend, allocate, trigger, or command material, financial, computational, organizational, legal, administrative, or coercive resources.",
-      "interpretation": "Resource authority determines whether AI capability can move from assistance to consequential resource influence."
+      "name": "Firepower Orchestration",
+      "code": "L5",
+      "indicator_type": "Military AI stack layer",
+      "description": "Sensor-to-shooter connection, weapon-target matching, strike sequencing, and reassessment.",
+      "strategic_test": "Does faster coordination preserve verification, proportionality review, and escalation control?"
     },
     {
-      "name": "Real-World Intervention Capacity",
-      "code": "RWIC",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "Some systems remain advisory while others can affect workflows, machines, markets, infrastructure, administrative systems, military systems, or external environments.",
-      "interpretation": "Intervention capacity is a major dividing line between informational AI and operational AI."
+      "name": "Edge Autonomy",
+      "code": "L6",
+      "indicator_type": "Military AI stack layer",
+      "description": "Onboard perception, navigation, target tracking, terminal guidance, and swarm coordination.",
+      "strategic_test": "Can systems operate reliably under deception, communications loss, and electronic warfare?"
     },
     {
-      "name": "Rule Space",
-      "code": "RS",
-      "indicator_type": "Stratification variable",
-      "observed_pattern": "Public, enterprise, defense, intelligence, emergency, research, and critical-infrastructure systems operate under different legal, regulatory, organizational, ethical, and exceptional conditions.",
-      "interpretation": "Rule space determines what forms of AI capability are enabled, limited, normalized, or restricted."
+      "name": "Alliance and Governance",
+      "code": "L7",
+      "indicator_type": "Military AI stack layer",
+      "description": "Technical standards, permissions, supplier relationships, legal review, audit, and human control.",
+      "strategic_test": "Can allies interoperate without surrendering control over data, mission rules, or force authorization?"
+    },
+    {
+      "name": "Information Compression",
+      "code": "C1",
+      "indicator_type": "Decision-compression mechanism",
+      "description": "Converts large sensor flows into a common operational picture.",
+      "strategic_or_governance_risk": "Missing data and uncertainty become less visible."
+    },
+    {
+      "name": "Decision-Time Compression",
+      "code": "C2",
+      "indicator_type": "Decision-compression mechanism",
+      "description": "Reduces planning from days or hours to minutes or seconds.",
+      "strategic_or_governance_risk": "Less time for verification, legal review, consultation, and de-escalation."
+    },
+    {
+      "name": "Organizational Compression",
+      "code": "C3",
+      "indicator_type": "Decision-compression mechanism",
+      "description": "Automates handoffs among intelligence, planning, legal review, command, and fires.",
+      "strategic_or_governance_risk": "Responsibility becomes diffuse and human review can become procedural."
+    },
+    {
+      "name": "Choice Compression",
+      "code": "C4",
+      "indicator_type": "Decision-compression mechanism",
+      "description": "Ranks threats and presents a narrow set of recommended actions.",
+      "strategic_or_governance_risk": "The system gains agenda-setting power without formal command."
+    },
+    {
+      "name": "Operational-Sequence Compression",
+      "code": "C5",
+      "indicator_type": "Decision-compression mechanism",
+      "description": "Synchronizes reconnaissance, deception, electronic warfare, strikes, and reassessment.",
+      "strategic_or_governance_risk": "The adversary’s recovery window shrinks, increasing escalation and misperception risk."
     }
   ],
   "key_findings": [
-    "Public AI is only the visible surface of future AI power.",
-    "AI capability is likely to stratify across access, data, authority, specialization, interface, resource authority, and rule space.",
-    "Surface Intelligence shapes public perception, consumer adoption, user expectations, and the visible AI market, but it does not represent the full structure of AI power.",
-    "Deep Intelligence is likely to become a primary site of AI value accumulation through institutional embedding, operational control, proprietary knowledge, expert feedback, and objective-specific optimization.",
-    "Dark-Domain Intelligence should be understood as a structural category rather than a moral label; it does not imply illegality, malicious intent, or inherent opacity.",
-    "The seven layers are not a simple intelligence hierarchy; depth changes the structure of capability rather than necessarily increasing intrinsic model intelligence.",
-    "AGI would not eliminate stratification because access to data, institutions, resource authority, interfaces, and special permissions would still remain unevenly distributed.",
-    "AI governance must move beyond public-facing models and address embedded, operational, proprietary, high-authority, and boundary-condition AI systems."
+    "The unit of military AI competition is shifting from individual models or weapons to the full military AI stack.",
+    "AI can alter the tempo and structure of lethal decision-making without receiving formal command authority.",
+    "The United States is developing a platform-capital-combat-data system.",
+    "NATO’s adoption of MSS creates the possibility of a common digital warfighting environment while raising issues of platform concentration and data control.",
+    "China’s model emphasizes sovereign system-of-systems orchestration, domestic technological control, and autonomous mass.",
+    "Japan, South Korea, the United Kingdom, and Germany illustrate hybrid-sovereignty pathways.",
+    "Ukraine and Russia demonstrate that edge models and rapid battlefield feedback can generate tactical value without frontier compute.",
+    "Israel’s experience shows how algorithmic target-production systems can reshape the scale and tempo of targeting.",
+    "The five compressions of AI-orchestrated warfare are information, decision time, organization, choice, and operational sequence.",
+    "Military AI governance must extend beyond fully autonomous weapons to the full decision chain and stack."
   ],
   "policy_recommendations": [
-    "Distinguish model capability from system capability when evaluating AI power and risk.",
-    "Develop layered governance rather than one-size-fits-all rules for public-interface, deep, and dark-domain AI systems.",
-    "Assess AI systems by access, data, authority, resource connection, intervention capacity, and rule space, not only by benchmark performance or public model ranking.",
-    "Require documentation, internal review, sector-specific standards, independent audits, incident reporting, and clear institutional responsibility for proprietary and embedded AI systems.",
-    "Apply stronger authorization, accountability, oversight, escalation safeguards, and limits on resource-command authority for high-authority and boundary-condition AI systems.",
-    "Treat AGI governance as a stratification problem as well as a capability problem, because general intelligence would still be distributed through institutional embedding, data access, permissions, resource authority, and real-world interfaces."
+    "Govern the full decision chain through meaningful human control.",
+    "Require auditability, contestability, and exit capability.",
+    "Preserve data provenance, model and software versions, target-list changes, human interventions, rejected recommendations, and post-action assessments.",
+    "Build resilient infrastructure and safe degradation.",
+    "Build federated interoperability and measure operational outcomes beyond speed and target throughput.",
+    "Test allied loss of a shared model or provider to determine whether interoperability rests on open standards or vendor dependence.",
+    "Expand international governance beyond lethal autonomy to decision-support, target-production, and operational-orchestration systems."
   ],
   "watchpoints": [
     {
-      "timeframe": "Near term",
-      "indicator": "Rapid deployment of AI systems inside enterprise workflows, government administration, finance, health care, infrastructure, or defense without comparable public visibility",
-      "analytical_purpose": "Tracks the shift from public AI visibility to embedded AI consequence."
+      "timeframe": "2026–2027",
+      "indicator": "Maven program-of-record transition and oversight arrangements",
+      "analytical_purpose": "Tests whether AI-supported targeting and command workflows become normalized in the joint force."
     },
     {
-      "timeframe": "Near term",
-      "indicator": "Increasing use of proprietary data, institutional memory, expert feedback, and internal workflow data as sources of AI advantage",
-      "analytical_purpose": "Identifies the growth of Proprietary Epistemic Intelligence and Deep Intelligence."
+      "timeframe": "2026–2029",
+      "indicator": "U.S. base data-center lease terms, priority access, security boundaries, grid costs, and continuity obligations",
+      "analytical_purpose": "Assesses whether commercial hyperscale projects become defense-relevant compute infrastructure."
     },
     {
-      "timeframe": "Medium term",
-      "indicator": "AI systems connected to resource allocation, infrastructure operations, logistics, procurement, emergency response, or security decisions",
-      "analytical_purpose": "Detects the expansion of Operational Control and High-Authority Resource Intelligence."
+      "timeframe": "2026",
+      "indicator": "NATO DIANA demonstrations and MSS NATO ecosystem expansion",
+      "analytical_purpose": "Tests whether NATO’s common operating environment produces interoperability without platform lock-in."
     },
     {
-      "timeframe": "Medium term",
-      "indicator": "Different governance regimes emerging for consumer AI, enterprise AI, defense AI, critical-infrastructure AI, and frontier research systems",
-      "analytical_purpose": "Tracks rule-space differentiation as a driver of AI capability stratification."
-    },
-    {
-      "timeframe": "Ongoing",
-      "indicator": "Public debate continuing to rely primarily on model rankings, benchmark performance, or public chatbot capability",
-      "analytical_purpose": "Identifies analytical blind spots where visible model performance is mistaken for total AI power."
+      "timeframe": "2026–2027",
+      "indicator": "Independent evidence regarding China’s intelligent strike-planning system",
+      "analytical_purpose": "Separates public demonstration from operational reliability."
     },
     {
       "timeframe": "Ongoing",
-      "indicator": "AGI or frontier-model discussions assuming that general capability eliminates the importance of proprietary data, authorization, interfaces, and institutional embedding",
-      "analytical_purpose": "Tests whether future AI analysis accounts for the persistence of stratification."
-    }
-  ],
-  "related_works": [
-    {
-      "relation": "IsPartOf",
-      "identifier": "https://epinova.org/policy-brief-1",
-      "scheme": "URL",
-      "resource_type": "Publication series",
-      "description": "EPINOVA Policy Brief Series"
-    },
-    {
-      "relation": "IsSupplementedBy",
-      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
-      "scheme": "URL",
-      "resource_type": "Repository",
-      "description": "Supplementary repository and structural archive"
-    },
-    {
-      "relation": "References",
-      "identifier": "Wu, S. (2026). Beyond model capability: A system-level framework for AI power",
-      "scheme": "Bibliographic citation",
-      "resource_type": "Policy brief",
-      "description": "Referenced for the system-level definition of AI power and the six-dimensional AI power framework"
-    },
-    {
-      "relation": "References",
-      "identifier": "Bergman, M. K. (2001). The deep web: Surfacing hidden value",
-      "scheme": "Bibliographic citation",
-      "resource_type": "Journal article",
-      "description": "Referenced for the public web and deep web analogy"
-    },
-    {
-      "relation": "References",
-      "identifier": "NIST AI Risk Management Framework materials",
-      "scheme": "Bibliographic citation",
-      "resource_type": "Government framework",
-      "description": "Referenced for AI risk management, system context, intended use, and governance framing"
-    },
-    {
-      "relation": "References",
-      "identifier": "European Union Artificial Intelligence Act",
-      "scheme": "Bibliographic citation",
-      "resource_type": "Regulation",
-      "description": "Referenced for risk-based AI governance and regulatory context"
+      "indicator": "Legal-review, audit, override, model-substitution, and degraded-operations requirements in military AI procurement",
+      "analytical_purpose": "Assesses whether governance is catching up with deployment."
     }
   ],
   "references": [
-    "Anderljung, M., Barnhart, J., Korinek, A., Leung, J., O’Keefe, C., Whittlestone, J., Avin, S., Brundage, M., Bullock, J., Cass-Beggs, D., Chang, B., Collins, T., Fist, T., et al. (2023). Frontier AI regulation: Managing emerging risks to public safety. arXiv. https://arxiv.org/abs/2307.03718",
-    "Bergman, M. K. (2001). The deep web: Surfacing hidden value. Journal of Electronic Publishing, 7(1). https://doi.org/10.3998/3336451.0007.104",
-    "Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., et al. (2021). On the opportunities and risks of foundation models. arXiv. https://arxiv.org/abs/2108.07258",
-    "European Union. (2024). Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
-    "Gupta, A., Maynard, S. B., & Ahmad, A. (2021). The dark web phenomenon: A review and research agenda. arXiv. https://arxiv.org/abs/2104.07138",
-    "Kapoor, S., Stroebl, B., Siegel, Z. S., Nadgir, N., & Narayanan, A. (2024). AI agents that matter. arXiv. https://arxiv.org/abs/2407.01502",
-    "National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1",
-    "National Institute of Standards and Technology. (2024). Artificial intelligence risk management framework: Generative artificial intelligence profile (NIST AI 600-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.600-1",
-    "OECD. (2019). Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449). OECD Legal Instruments. https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449",
-    "OECD. (2024). OECD updates AI Principles to stay abreast of rapid technological developments. https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html",
-    "Office of Management and Budget. (2025). Accelerating federal use of AI through innovation, governance, and public trust (Memorandum M-25-21). Executive Office of the President. https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf",
-    "Shevlane, T., Farquhar, S., Garfinkel, B., Phuong, M., Whittlestone, J., Leung, J., Kokotajlo, D., Marchal, N., Anderljung, M., Kolt, N., Ho, L., Siddarth, D., et al. (2023). Model evaluation for extreme risks. arXiv. https://arxiv.org/abs/2305.15324",
-    "Wu, S. (2026). Beyond model capability: A system-level framework for AI power (Policy Brief No. EPINOVA–2026–PB–58). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058"
+    "Baptista, E., & Potkin, F. (2025, October 27). How China could use DeepSeek and AI for an era of war. Reuters. https://www.reuters.com/world/asia-pacific/robot-dogs-ai-drone-swarms-how-china-could-use-deepseek-an-era-war-2025-10-27/",
+    "Brave1. (2025, March 7). Brave1 tested drones with artificial intelligence [In Ukrainian]. https://market-brave1.delta.mil.gov.ua/brave1-proviv-vyprobuvannia-droniv-zi-shtuchnym-intelektom/",
+    "British Army. (2026, June 23). RUSI Land Warfare Conference 2026: Chief of the General Staff keynote speech. https://www.army.mod.uk/news/rusi-lwc-2026-chief-of-the-general-staff-speech/",
+    "Copp, T., Dwoskin, E., & Duncan, I. (2026, March 4). Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud. The Washington Post. https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
+    "Global Times. (2026a, July 31). First-ever footage: PLA Army drone swarm conducts combat-oriented training exercise. https://www.globaltimes.cn/page/202607/1367268.shtml",
+    "Global Times. (2026b, August 3). Official documentary reveals PLA Air Force intelligent strike-planning system; experts say it sharpens coordinated combat, shortens strike cycle. https://www.globaltimes.cn/page/202608/1367381.shtml",
+    "Israel Defense Forces. (2024, April 3). IDF use of AI and targeting practices: Response to the Guardian query published April 3, 2024. https://www.idf.il/en/mini-sites/israel-at-war/all-articles/idf-use-of-ai-and-targeting-practices-response-to-the-guardian-query-published-april-3-2024/",
+    "Janes. (2026, June 30). Maven Smart System achieves full operating capability with NATO. https://www.janes.com/defence-intelligence-insights/defence-news/security/maven-smart-system-achieves-full-operating-capability-with-nato",
+    "Japan Ministry of Defense. (2026a, February 13). Progress on the tactical AI satellite demonstration [In Japanese]. https://www.mod.go.jp/j/press/news/2026/02/13b.html",
+    "Japan Ministry of Defense. (2026b, March 13). Real-time digital twin [In Japanese]. https://www.mod.go.jp/j/press/news/2026/03/13a.html",
+    "Jeans, D. (2026, March 20). Pentagon to adopt Palantir AI as core U.S. military system, memo says. Reuters. https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
+    "Jiji Press. (2026, August 10). Japan mulls use of domestic AI in SDF command system. Nippon.com. https://www.nippon.com/en/news/yjj2026081000706/",
+    "Kang, J.-e. (2026, May 14). SK Telecom, defense ministry team up to develop military AI model. Yonhap News Agency. https://en.yna.co.kr/view/AEN20260514006500320",
+    "Lee, H. (2026, March 26). “Modern warfare is a data battle”: Korea to establish AX hubs, deploy AI command systems. Seoul Economic Daily. https://en.sedaily.com/politics/2026/03/26/modern-warfare-is-a-data-battle-korea-to-establish-ax-hubs",
+    "McKernan, B., & Davies, H. (2024, April 3). “The machine did it coldly”: Israel used AI to identify 37,000 Hamas targets. The Guardian. https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes",
+    "Ministry of Defence of Ukraine. (2025, October 28). DELTA: Basic training course in Army+. https://mod.gov.ua/en/news/delta-basic-training-course-in-army",
+    "Ministry of Defence of Ukraine. (2026, March 9). Independent assessment confirms DELTA remains compliant with all cybersecurity standards after scaling. https://mod.gov.ua/en/news/independent-assessment-confirms-delta-remains-compliant-with-all-cybersecurity-standards-after-scaling",
+    "NATO Communications and Information Agency. (2025, April 14). NATO acquires AI-enabled warfighting system. https://www.ncia.nato.int/newsroom/news/nato-acquires-aienabled-warfighting-system",
+    "North Atlantic Treaty Organization. (2026, July 13). NATO’s DIANA selects innovators to drive decision superiority for the Alliance. https://www.nato.int/en/news-and-events/articles/news/2026/07/13/natos-diana-selects-innovators-to-drive-decision-superiority-for-the-alliance",
+    "Preferred Networks. (2026, July 29). PFN awarded ATLA project to demonstrate operational-environment information-analysis support using generative AI [In Japanese]. https://www.preferred.jp/ja/news/1126",
+    "Rostec. (2026, April 14). Rostec tested an attack drone swarming technology. https://elements.rostec.ru/en/media/news/rostec-tested-an-attack-drone-swarming-technology/",
+    "Sabbagh, D. (2026, July 6). Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier. The Guardian. https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+    "Siebold, S. (2026, March 25). German army eyes AI tools to expedite wartime decision-making. Reuters. https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/",
+    "UK Ministry of Defence. (2026, June 10). Putting artificial intelligence (AI) at the heart of UK Defence. https://www.gov.uk/government/publications/putting-artificial-intelligence-ai-at-the-heart-of-uk-defence",
+    "United Nations General Assembly. (2025a, December 5). Artificial intelligence in the military domain and its implications for international peace and security (A/RES/80/58). United Nations Digital Library. https://digitallibrary.un.org/record/4095956",
+    "United Nations General Assembly. (2025b, December 5). Lethal autonomous weapons systems (A/RES/80/57). United Nations Digital Library. https://digitallibrary.un.org/record/4095989",
+    "United Nations General Assembly. (2025c, December 3). Possible risks of the integration of artificial intelligence into command, control and communications systems of nuclear weapons (A/RES/80/23). United Nations Digital Library. https://digitallibrary.un.org/record/4095461",
+    "United Nations Office at Geneva. (2026). 2026 Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems, second session. https://indico.un.org/event/1019358/",
+    "United Nations Office for Disarmament Affairs. (2026, June). Agenda: Informal exchanges on artificial intelligence in the military domain and its implications for international peace and security (Version 2). https://unodaweb-meetings.unoda.org/public/2026-06/Agenda%20vr2.pdf",
+    "United Nations Secretary-General. (2025, May 12). Secretary-General’s video message to the informal consultations on lethal autonomous weapons systems. https://www.un.org/sg/en/content/sg/statements/2025-05-12/secretary-generals-video-message-the-informal-consultations-lethal-autonomous-weapons-systems",
+    "United Press International. (2026, June 26). Japan weighs Palantir AI for SDF command operations. https://www.upi.com/Top_News/World-News/2026/06/26/japan-military AI-sdf/6241782510033/",
+    "U.S. Army Communications and Outreach Office. (2026, March 26). Army reaches conditional agreement with private industry for hyperscaled data centers. https://www.army.mil/article/291360/army_reaches_conditional_agreement_with_private_industry_for_hyperscaled_data_centers"
   ],
-  "recommended_citation": "Wu, Shaoyuan (2026), AI Capability Stratification: A Framework for the Future Distribution of AI Power, Policy Brief No. EPINOVA–2026–PB–59, Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.059.",
-  "citation_apa": "Wu, S. (2026). AI capability stratification: A framework for the future distribution of AI power. EPINOVA Policy Brief Series, EPINOVA-PB-2026-059. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.059.",
-  "short_citation": "Wu (2026), AI Capability Stratification, EPINOVA–2026–PB–59.",
+  "recommended_citation": "Wu, S. (2026). From AI-enabled weapons to AI-orchestrated warfare: The emerging global military AI stack in 2026 (Policy Brief No. EPINOVA–2026–PB–69). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.069",
+  "citation_apa": "Wu, S. (2026). From AI-enabled weapons to AI-orchestrated warfare: The emerging global military AI stack in 2026. EPINOVA Policy Brief Series, EPINOVA-PB-2026-069. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.069.",
+  "short_citation": "Wu (2026), From AI-Enabled Weapons to AI-Orchestrated Warfare, EPINOVA–2026–PB–69.",
   "imprint": {
     "title": "EPINOVA Policy Brief Series",
     "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
@@ -390,19 +374,33 @@
     "publisher": "EPINOVA LLC",
     "publisher_unit": "Global AI Governance and Policy Research Center",
     "edition": "v1.0",
-    "date": "2026-06-26",
-    "pagination": "12 pages"
+    "date": "2026-08-17",
+    "pagination": "15 pages"
   },
-  "figures": [
+  "figures": [],
+  "tables": [
     {
-      "number": "Figure 1",
-      "title": "AI Capability Stratification: Three Domains and Seven Layers",
-      "description": "Presents the AI Capability Stratification framework as an iceberg model, with Public Interface Intelligence at the visible surface and deeper layers embedded in institutions, operational systems, proprietary knowledge environments, high-authority resource structures, and differentiated rule conditions.",
-      "source": "Author’s framework.",
-      "note": "The figure is conceptual and does not imply a linear ranking of intelligence. Depth represents structural position, including access threshold, data environment, institutional embedding, resource authority, real-world intervention capacity, and rule space, rather than intrinsic model capability. Dark-Domain Intelligence is used analytically to describe restricted visibility and differentiated operating conditions, not illegality, malicious use, or inherent opacity."
+      "number": "Table 1",
+      "title": "The Seven-Layer Military AI Stack",
+      "description": "Defines the seven layers of the military AI stack, their operational functions, representative 2025–2026 indicators, and strategic tests.",
+      "source": "Author’s framework and synthesis using the cited cases.",
+      "note": "The table describes functions and policy tests; it does not rank national capability."
+    },
+    {
+      "number": "Table 2",
+      "title": "Six Pathways of Military AI Conversion",
+      "description": "Typology comparing platform-capital-combat-data, alliance operating environment, sovereign system-of-systems orchestration, hybrid sovereignty, distributed battlefield adaptation, and algorithmic target production.",
+      "source": "Author’s typology based on Sections 2–7.",
+      "note": "Categories are ideal types; states may combine more than one pathway. Table spans pages 9–10 in the PDF."
+    },
+    {
+      "number": "Table 3",
+      "title": "The Five Compressions of AI-Orchestrated Warfare",
+      "description": "Identifies five compression mechanisms with operational effects, strategic or governance risks, and minimum assurance questions.",
+      "source": "Author’s analytical framework.",
+      "note": "Compression describes a mechanism, not an assumption that every system achieves faster or better outcomes."
     }
   ],
-  "tables": [],
   "appendices": [],
   "funding": {
     "statement": "No external funding information is provided in the PDF.",
@@ -418,44 +416,36 @@
   "conference": null,
   "journal": null,
   "thesis": null,
-  "disclaimer": "This policy brief is an institutional publication of EPINOVA, prepared by Dr. Shaoyuan Wu in his capacity as Director of the Global AI Governance and Policy Research Center, EPINOVA LLC. The analysis is based on publicly available information and scenario-based analytical estimates and does not represent the official position of any government. The publication is intended solely for research and policy discussion purposes and does not constitute legal, military, operational, or sanctions-compliance advice.",
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
   "metadata_source": {
-    "source_file": "AI Capability Stratification A Framework for the Future Distribution of AI Power.pdf",
+    "source_file": "From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf",
     "source_type": "PDF",
     "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
     "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
     "created_by": "EPINOVA LLC",
-    "created_date": "2026-06-26",
-    "last_updated": "2026-06-26",
-    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, analytical note, conceptual framework, figure, governance implications, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 12 are preserved in the metadata references field."
+    "created_date": "2026-08-17",
+    "last_updated": "2026-08-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, key judgments, executive summary, why-this-matters section, analytical note, seven-layer military AI stack, U.S., NATO, China, ally, Ukraine/Russia, and Israel case sections, six pathways of military AI conversion, five compressions of AI-orchestrated warfare, policy implications, limitations, conclusion, tables, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 14–15 are preserved in the metadata references field. Tables 1–3 are separately described in the metadata."
   },
   "pdf_metadata": {
-    "title": "",
-    "author": "SY Wu",
+    "title": "Presentation",
+    "author": "Walnut Exporter",
     "creator": "Microsoft® PowerPoint® 2024",
     "producer": "Microsoft® PowerPoint® 2024",
-    "creation_date": "2026-06-27T18:35:02-04:00",
-    "modification_date": "2026-06-27T18:35:02-04:00",
-    "pages": 12
+    "creation_date": "D:20260818153909-04'00'",
+    "modification_date": "D:20260818153909-04'00'",
+    "pages": 15
   },
   "crossref": {
     "status": "registered",
-    "doi": "10.67037/epinova.pb.2026.059",
-    "doi_url": "https://doi.org/10.67037/epinova.pb.2026.059",
+    "doi": "10.67037/epinova.pb.2026.069",
     "deposit_ready": true,
-    "deposit_submitted": true,
-    "deposit_confirmed": true,
-    "deposit_result": "success",
-    "deposit_date": "2026-06-26",
-    "deposit_xml_file": "",
     "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
-    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-059/",
-    "crossref_doi_suffix": "epinova.pb.2026.059",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-069/",
+    "crossref_doi_suffix": "epinova.pb.2026.069",
     "intended_registration_agency": "Crossref",
     "record_type": "report",
-    "deposit_type": "Report",
-    "registration_status": "Registered",
-    "metadata_update_status": "updated_after_registration"
+    "registration_status": "Registered"
   },
   "datacite": {
     "status": "not_registered_for_this_publication",
@@ -465,7 +455,7 @@
     "resource_type": "Policy Brief",
     "use_for_dataset": false,
     "related_dataset_doi": "",
-    "notes": "This publication is registered with Crossref. No Zenodo/DataCite DOI is assigned for this publication. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
   },
   "orcid": {
     "put_code": "",
@@ -480,11 +470,43 @@
     "submission_status": "successfully_received",
     "confirmation_status": "confirmed_by_email",
     "deposit_xml_file": "",
-    "registered_doi": "10.67037/epinova.pb.2026.059",
-    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.059",
-    "registered_url": "https://publications.epinova.org/epinova-pb-2026-059/",
-    "registration_date": "2026-06-26",
+    "registered_doi": "10.67037/epinova.pb.2026.069",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.069",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-069/",
+    "registration_date": "2026-08-17",
     "registration_agency": "Crossref",
     "submitter_email": "sywu@epinova.org"
-  }
+  },
+  "title_normalized": "from ai-enabled weapons to ai-orchestrated warfare",
+  "contributors": [],
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "previous_doi": "",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, AI-Enabled Warfare, and Information Conflict",
+    "series_code": "PB",
+    "series_number": "2026-069",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, AI-enabled warfare, information conflict, systemic risk, logistics resilience, and global security governance into concise policy-facing analysis."
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    }
+  ]
 }

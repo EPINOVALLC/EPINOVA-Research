@@ -1,5 +1,5 @@
-Policy Brief/2026/EPINOVA–2026–PB-69/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
-Policy Brief/2026/EPINOVA–2026–PB-69/metadata.json
+docs/epinova-pb-2026-069/index.html
+docs/files/epinova-pb-2026-069/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -750,6 +750,8 @@ Policy Brief/2026/EPINOVA–2026–PB-67/Rerouting the Gulf Bypass Infrastructur
 Policy Brief/2026/EPINOVA–2026–PB-67/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-68/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
 Policy Brief/2026/EPINOVA–2026–PB-68/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-69/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
+Policy Brief/2026/EPINOVA–2026–PB-69/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
