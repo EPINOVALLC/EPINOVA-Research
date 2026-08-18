@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-059** (2026-06-26)  
+  **AI Capability Stratification: A Framework for the Future Distribution of AI Power**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.059](https://doi.org/10.67037/epinova.pb.2026.059)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-69/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69)  
+  Source PDF: [`From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69/From%20AI-Enabled%20Weapons%20to%20AI-Orchestrated%20Warfare%20The%20Emerging%20Global%20Military%20AI%20Stack%20in%202026.pdf)
+
 - **EPINOVA-PB-2026-068** (2026-08-12)  
   **Iran After Succession: Power, Access, and Institutional Rebalancing under Mojtaba Khamenei**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.065](https://doi.org/10.67037/epinova.pb.2026.065)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-65/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65)  
   Source PDF: [`Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65/Operational%20Control%20versus%20Systemic%20Connectivity%20The%20Emerging%20Structure%20of%20U.S.%E2%80%93China%20Competition%20under%20Networked%20Warfare.pdf)
-
-- **EPINOVA-PB-2026-064** (2026-07-27)  
-  **From Separate Wars to Linked Battlefields: The Emerging Risk of Continentalized Conflict**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.064](https://doi.org/10.67037/epinova.pb.2026.064)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-64/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64)  
-  Source PDF: [`From Separate Wars to Linked Battlefields The Continentalization of Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-64/From%20Separate%20Wars%20to%20Linked%20Battlefields%20The%20Continentalization%20of%20Networked%20Conflict.pdf)
 
 ---
 

@@ -1,7 +1,5 @@
-Policy Brief/2026/EPINOVA–2026–PB-68/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
-Policy Brief/2026/EPINOVA–2026–PB-68/metadata.json
-docs/epinova-pb-2026-068/index.html
-docs/files/epinova-pb-2026-068/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
+Policy Brief/2026/EPINOVA–2026–PB-69/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
+Policy Brief/2026/EPINOVA–2026–PB-69/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -750,6 +748,8 @@ Policy Brief/2026/EPINOVA–2026–PB-66/The Evolving Structure of the U.S.–Ir
 Policy Brief/2026/EPINOVA–2026–PB-66/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-67/Rerouting the Gulf Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz.pdf
 Policy Brief/2026/EPINOVA–2026–PB-67/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-68/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
+Policy Brief/2026/EPINOVA–2026–PB-68/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1476,6 +1476,7 @@ docs/epinova-pb-2026-064/index.html
 docs/epinova-pb-2026-065/index.html
 docs/epinova-pb-2026-066/index.html
 docs/epinova-pb-2026-067/index.html
+docs/epinova-pb-2026-068/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1613,6 +1614,7 @@ docs/files/epinova-pb-2026-064/From Separate Wars to Linked Battlefields The Con
 docs/files/epinova-pb-2026-065/Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf
 docs/files/epinova-pb-2026-066/The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf
 docs/files/epinova-pb-2026-067/Rerouting the Gulf Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz.pdf
+docs/files/epinova-pb-2026-068/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
