@@ -312,6 +312,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-D — Data Centers, Infrastructure, and Local Governance
 
+- **EPINOVA-WP-D-2026-003** (2026-08-21)  
+  **Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies: Financing Architectures, Capital Formation, and Deployment Timing**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.d.2026.003](https://doi.org/10.67037/epinova.wp.d.2026.003)  
+  Source folder: [`Working Paper/D/2026/EPINOVA–WP–D–2026–03/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9303)  
+  Source PDF: [`Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9303/Toward%20Measuring%20AI%20Infrastructure%20Investment%20and%20Economic%20Resilience%20Across%20Ten%20Economies%20Financing%20Architectures%2C%20Capital%20Formation%2C%20and%20Deployment%20Timing.pdf)
+
 - **EPINOVA-WP-D-2026-002** (2026-02-09)  
   **Why the South?: Institutional Friction and the Spatial Reorganization of Data Center Infrastructure in the United States**  
   Publication page: [https://doi.org/10.5281/zenodo.18572133](https://doi.org/10.5281/zenodo.18572133)  

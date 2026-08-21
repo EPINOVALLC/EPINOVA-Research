@@ -1,0 +1,542 @@
+{
+  "epinova_id": "EPINOVA-WP-D-2026-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper Series",
+  "series_code": "WP-D",
+  "series_number": "2026-03",
+  "series_subcategory": "D-Series",
+  "title": "Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies",
+  "subtitle": "Financing Architectures, Capital Formation, and Deployment Timing",
+  "title_normalized": "toward measuring ai infrastructure investment and economic resilience across ten economies",
+  "short_title": "Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies",
+  "publication_date": "2026-08-21",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_short": "EPINOVA",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.wp.d.2026.003",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-wp-d-2026-003/",
+  "official_page": "https://epinova.org/working-papers",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA–WP–D–2026–03",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number printed in the PDF"
+    },
+    {
+      "identifier": "Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "AI-IIS",
+      "scheme": "Measurement concept",
+      "description": "AI infrastructure investment intensity, valid only when numerator and GDP denominator periods and capital-formation scope are aligned"
+    },
+    {
+      "identifier": "PAIIS",
+      "scheme": "Measurement concept",
+      "description": "Public AI Infrastructure Investment Share for bounded financing pools with defensible total-investment denominators"
+    },
+    {
+      "identifier": "PrAIIS",
+      "scheme": "Measurement concept",
+      "description": "Private AI Infrastructure Investment Share for bounded financing pools with defensible total-investment denominators"
+    }
+  ],
+  "description": "This working paper develops a measurement framework for comparing AI infrastructure investment and economic-resilience context across ten economies. It argues that AI infrastructure financing cannot be assessed through headline investment totals alone because records differ in realization status, AI specificity, accounting basis, capital-formation eligibility, national coverage, and deployment timing. The study compares financing architectures in the United States, United Kingdom, Canada, Japan, South Korea, Germany, France, Singapore, China, and India, while treating AI-IIS, PAIIS, and PrAIIS as bounded measurement concepts rather than presently comparable national statistics. It concludes that meaningful cross-country investment comparison and later resilience testing require aligned scope, period matching, denominator completeness, and operational-capacity timing.",
+  "abstract": "Countries are expanding AI infrastructure through markedly different combinations of public and private capital, yet cross-country assessment is complicated by inconsistent investment accounting, incomplete national coverage, and the lag between expenditure and usable capacity. This study compares financing architectures across ten economies: the United States, United Kingdom, Canada, Japan, South Korea, Germany, France, Singapore, China, and India. Public AI Infrastructure Investment Share (PAIIS), Private AI Infrastructure Investment Share (PrAIIS), and AI infrastructure investment intensity (AI-IIS) are treated as bounded measurement concepts rather than presently comparable national statistics. The analysis distinguishes source quality, realization status, AI specificity, accounting basis, capital-formation eligibility, and deployment timing. Qualifying AI-specific realized monetary records are available from five economies, but national coverage remains incomplete and several records combine capital and operating expenditure. France provides completed-project funding with unresolved payment timing; Germany and Singapore provide procurement evidence; China provides realized broader-compute CAPEX that is too broad for an AI-only numerator; and India reports mission-wide expenditure without an infrastructure-specific split. The study therefore compares financing architecture, monetary evidence, and deployment timing rather than constructing national investment rankings. Macroeconomic and labor-market indicators are reported only as descriptive context. The findings show that scope, accounting treatment, realization status, deployment timing, and coverage must be aligned before meaningful cross-country investment comparisons or subsequent resilience analysis can be undertaken.",
+  "keywords": [
+    "AI infrastructure investment",
+    "public-private financing",
+    "investment measurement",
+    "AI compute",
+    "capital formation",
+    "deployment lag",
+    "cross-country comparison",
+    "economic resilience",
+    "PAIIS",
+    "PrAIIS",
+    "AI-IIS",
+    "public capital",
+    "private investment",
+    "AI infrastructure",
+    "data centers",
+    "GPU programs",
+    "AI compute capacity",
+    "measurement framework",
+    "deployment timing",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Artificial intelligence infrastructure",
+    "Investment measurement",
+    "Economic resilience",
+    "Public-private financing",
+    "Digital infrastructure",
+    "Capital formation",
+    "AI compute",
+    "Industrial policy",
+    "Comparative political economy",
+    "Public policy",
+    "Economics",
+    "Technology governance"
+  ],
+  "dates": [
+    {
+      "date": "2026-08-21",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-08-21",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-08-21",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-08-21",
+      "date_type": "Data freeze",
+      "description": "The PDF states that monetary observations were verified at the 19 August 2026 data freeze"
+    },
+    {
+      "date": "2026-08-21",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9303/Toward%20Measuring%20AI%20Infrastructure%20Investment%20and%20Economic%20Resilience%20Across%20Ten%20Economies%20Financing%20Architectures%2C%20Capital%20Formation%2C%20and%20Deployment%20Timing.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 17
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/D/2026/EPINOVA%E2%80%93WP%E2%80%93D%E2%80%932026%E2%80%9303",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Working Paper Series",
+    "series_code": "WP-D",
+    "series_number": "2026-03",
+    "series_description": "D-Series working papers examine AI and digital infrastructure, focusing on investment, financing, governance, deployment, resilience, and strategic dependence."
+  },
+  "methodology": {
+    "framework_name": "AI Infrastructure Financing, Deployment, and Resilience Measurement Framework",
+    "source_basis": "Comparative cross-country analysis using official or first-party AI-infrastructure project, program, financing, operating, accounting, and macroeconomic sources, supplemented where necessary by documented procurement mirrors and harmonized macroeconomic/labor-market data.",
+    "case_context": "Ten-economy comparison covering the United States, United Kingdom, Canada, Japan, South Korea, Germany, France, Singapore, China, and India, with monetary observations verified at the 19 August 2026 data freeze.",
+    "core_problem": "The central measurement problem is that AI infrastructure investment records differ across announcements, commitments, procurement awards, subsidies, public accounts, company CAPEX, completed projects, mission expenditures, and operating programs, making headline cross-country investment totals misleading unless scope, status, timing, accounting, and denominator coverage are aligned.",
+    "central_claims": [
+      "AI-IIS, PAIIS, and PrAIIS should be treated as bounded measurement concepts rather than presently comparable national statistics.",
+      "Public-private financing architecture is analytically distinct from investment scale.",
+      "Realized monetary evidence is not automatically capital formation because some records combine hardware, integration, operation, or unknown cost components.",
+      "Investment timing and usable AI-capacity activation must be coded separately because expenditure can precede service availability.",
+      "Descriptive macroeconomic and labor-market indicators are not direct resilience measures without a common shock, baseline, counterfactual, and recovery trajectory.",
+      "Meaningful cross-country comparison requires aligned scope, accounting treatment, realization status, deployment timing, and coverage."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Source-Quality Assessment",
+        "description": "Distinguishes audited accounts, official project documentation, institutional records, company reports, procurement evidence, and secondary mirrors."
+      },
+      {
+        "name": "Realization-Status Classification",
+        "description": "Separates realized expenditure, actual outturn, accepted or paid CAPEX, completed-project funding, procurement awards, budgets, commitments, announcements, and plans."
+      },
+      {
+        "name": "AI-Specificity Screen",
+        "description": "Separates AI-specific infrastructure from mission-wide, broader-compute, mixed-use AI/HPC, or insufficiently attributed spending."
+      },
+      {
+        "name": "Accounting-Basis Classification",
+        "description": "Distinguishes cash outturn, payment-basis CAPEX, acceptance-basis CAPEX, company-reported actual investment, incurred project cost, program execution, procurement awards, revised estimates, and mission-wide expenditure."
+      },
+      {
+        "name": "Capital-Formation Eligibility",
+        "description": "Assesses whether monetary evidence is CAPEX-only, mixed CAPEX/OPEX, or unknown before treating it as a capital-investment numerator."
+      },
+      {
+        "name": "Deployment-Lag Coding",
+        "description": "Separates expenditure and capital formation from service activation and operational availability."
+      },
+      {
+        "name": "Descriptive Outcome Context",
+        "description": "Uses macroeconomic and labor-market composites only as sample-relative descriptive context rather than resilience rankings."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "AI Infrastructure Investment Intensity",
+      "code": "AI-IIS",
+      "indicator_type": "Bounded measurement concept",
+      "formula": "AI-IIS_i,t = (I_AI,i,t / GDP_i,t) × 100",
+      "description": "Qualifying AI-infrastructure investment relative to nominal GDP over a matched period.",
+      "interpretation": "Valid only when numerator and denominator periods match and the numerator is sufficiently complete, consistently scoped, and capital-eligible."
+    },
+    {
+      "name": "Public AI Infrastructure Investment Share",
+      "code": "PAIIS",
+      "indicator_type": "Bounded financing-share concept",
+      "formula": "PAIIS_i = (I_public,AI,i / I_total,AI,i) × 100",
+      "description": "Public share of a defensible bounded AI-infrastructure financing pool.",
+      "interpretation": "Reported only when public and total denominators are known for a common project or program pool; not a national statistic when coverage is incomplete."
+    },
+    {
+      "name": "Private AI Infrastructure Investment Share",
+      "code": "PrAIIS",
+      "indicator_type": "Bounded financing-share concept",
+      "formula": "PrAIIS_i = (I_private,AI,i / I_total,AI,i) × 100",
+      "description": "Private share of a defensible bounded AI-infrastructure financing pool.",
+      "interpretation": "Reported only when private and total denominators are known for a common project or program pool; unresolved residual financing is not mechanically assigned."
+    },
+    {
+      "name": "Source Quality",
+      "code": "SQ",
+      "indicator_type": "Evidence-quality dimension",
+      "description": "Reliability and specificity of monetary or institutional evidence.",
+      "observed_pattern": "Sources range from audited public accounts and annual reports to official documentation and procurement mirrors.",
+      "interpretation": "Evidence type must be preserved rather than merged into a single investment total."
+    },
+    {
+      "name": "Realization Status",
+      "code": "RS",
+      "indicator_type": "Evidence-status dimension",
+      "description": "Whether a record is realized expenditure, outturn, accepted or paid CAPEX, completed-project funding, procurement award, commitment, budget, or announcement.",
+      "interpretation": "Only realized or closely verified monetary records support realized spending analysis."
+    },
+    {
+      "name": "AI Specificity",
+      "code": "AIS",
+      "indicator_type": "Scope dimension",
+      "description": "Whether the record is AI-specific, mission-wide, broader-compute, mixed-use AI/HPC, or unknown.",
+      "interpretation": "Broader-compute and mission-wide records cannot be used as AI-only numerators without a defensible split."
+    },
+    {
+      "name": "Capital-Formation Eligibility",
+      "code": "CFE",
+      "indicator_type": "Accounting dimension",
+      "description": "Whether the monetary amount represents CAPEX-only, mixed CAPEX/OPEX, or unknown cost composition.",
+      "interpretation": "Realized monetary evidence is not automatically realized capital formation."
+    },
+    {
+      "name": "Operational Availability",
+      "code": "OA",
+      "indicator_type": "Timing dimension",
+      "description": "Whether capacity was available within the 2023–2025 outcome window or activated afterward.",
+      "interpretation": "Same-year expenditure is not same-year AI-capability exposure when service activation occurs later."
+    }
+  ],
+  "framework_sequence": [
+    "Financing structure",
+    "Qualifying monetary evidence",
+    "Capital formation where identifiable",
+    "Operationalization",
+    "AI capability",
+    "Productive effects",
+    "Socioeconomic transmission"
+  ],
+  "key_findings": [
+    "The ten economies do not follow a single public-private AI-infrastructure financing model.",
+    "Qualifying AI-specific realized monetary records are available from the United States, United Kingdom, Canada, Japan, and South Korea, but national coverage remains incomplete.",
+    "France provides completed-project funding with unresolved payment timing; Germany and Singapore provide procurement-award evidence; China provides realized broader-compute CAPEX that is too broad for an AI-only numerator; India reports mission-wide expenditure without an infrastructure-specific split.",
+    "Japan used subsidies and policy finance to leverage privately owned GPU-cloud capacity.",
+    "South Korea combined public GPU-program funding with private CSP hosting and operation, but the hardware-versus-integration-and-operating-cost split remained unresolved.",
+    "The United States relied primarily on private hyperscale capital with decentralized public incentives and enabling measures.",
+    "The United Kingdom combined private data-center build-out with publicly funded compute and strategic capacity.",
+    "Canada combined catalytic public support with private/host delivery for dedicated AI computing capacity.",
+    "Valid monetary records could not be interpreted automatically as same-period usable AI capacity because service activation often occurred after expenditure.",
+    "The descriptive outcome composites reveal macroeconomic and labor-market variation but should not be interpreted as resilience rankings.",
+    "No cross-country correlation coefficient was estimated because comparable realized monetary observations were small, national coverage differed, accounting bases were not harmonized, and contemporaneous capability exposure was insufficient.",
+    "AI-IIS, PAIIS, and PrAIIS cannot yet be constructed as comparable national statistics from the available records."
+  ],
+  "forward_predictions": [],
+  "strategic_implications": [
+    "AI-infrastructure strategy should be evaluated through qualifying monetary scale, allocation of cost and risk, conversion speed, access, strategic purpose, and post-shock outcomes rather than headline investment announcements alone.",
+    "Public-private financing shares should not be treated as evidence of complementarity without information on crowding-in, risk sharing, deployment, access, and conversion efficiency.",
+    "Announced investment with long deployment delays or narrow access should not be assumed to improve economic resilience.",
+    "Future resilience testing should use post-operational panels, matched investment periods, explicit coverage denominators, and shock-specific resistance and recovery metrics."
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Working Paper Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Brynjolfsson, E., Rock, D., & Syverson, C. (2021). The productivity J-curve",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for the deployment-lag and complementary-investment logic"
+    },
+    {
+      "relation": "References",
+      "identifier": "Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for AI as a general-purpose technology"
+    },
+    {
+      "relation": "References",
+      "identifier": "Simmie, J., & Martin, R. (2010). The economic resilience of regions",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for evolutionary economic-resilience framing"
+    },
+    {
+      "relation": "References",
+      "identifier": "SoftBank Corp. (2026). FY2025 full-year investor briefing",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Corporate report",
+      "description": "Referenced for Japanese AI computing and AI data-center CAPEX evidence"
+    },
+    {
+      "relation": "References",
+      "identifier": "National Assembly Budget Office. (2026). Government GPU purchase program",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Government accounts analysis",
+      "description": "Referenced for South Korea GPU-program execution and deployment timing"
+    }
+  ],
+  "references": [
+    "Bom, P. R. D., & Ligthart, J. E. (2014). What have we learned from three decades of research on the productivity of public capital? Journal of Economic Surveys, 28(5), 889–916. https://doi.org/10.1111/joes.12037",
+    "Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘engines of growth’? Journal of Econometrics, 65(1), 83–108. https://doi.org/10.1016/0304-4076(94)01598-T",
+    "Bristow, G., & Healy, A. (2018). Innovation and regional economic resilience: An exploratory analysis. The Annals of Regional Science, 60(2), 265–284. https://doi.org/10.1007/s00168-017-0841-6",
+    "Brynjolfsson, E., Rock, D., & Syverson, C. (2021). The productivity J-curve: How intangibles complement general purpose technologies. American Economic Journal: Macroeconomics, 13(1), 333–372. https://doi.org/10.1257/mac.20180386",
+    "China Mobile Limited. (2025, March 20). 2024 annual results presentation. https://www.chinamobileltd.com/en/ir/webcasts/pre250320.pdf",
+    "China Telecom Corporation Limited. (2026, March 24). 2025 annual results. https://www.chinatelecom-h.com/en/ir/presentations/annpre260324.pdf",
+    "CNRS. (2024, March 28). GENCI and CNRS choose Eviden to make the Jean Zay supercomputer one of the most powerful in France. https://www.cnrs.fr/en/press/genci-and-cnrs-choose-eviden-make-jean-zay-supercomputer-one-most-powerful-france",
+    "de Vries, A. (2023). The growing energy footprint of artificial intelligence. Joule, 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004",
+    "Engel, E., Fischer, R., & Galetovic, A. (2013). The basic public finance of public-private partnerships. Journal of the European Economic Association, 11(1), 83–111. https://doi.org/10.1111/j.1542-4774.2012.01105.x",
+    "EuroHPC Joint Undertaking. (2023, October 3). Procurement contract for JUPITER, the first European exascale supercomputer, signed. https://www.eurohpc-ju.europa.eu/procurement-contract-jupiter-first-european-exascale-supercomputer-signed-2023-10-03_en",
+    "GENCI. (2024, November 20). New milestone for French AI flagship Jean Zay: H100 extension. https://www.genci.fr/en/news/new-milestone-french-ai-flagship-jean-zay-drive-major-ai-breakthroughs-thanks-record-eviden",
+    "Government of India, Ministry of Finance. (2026). Expenditure profile 2026–2027: Statement 6. https://www.indiabudget.gov.in/doc/eb/stat6.pdf",
+    "Guo, P. (2025). Digital infrastructure and firm resilience: Evidence from China. Emerging Markets Finance and Trade, 61(5), 1342–1359. https://doi.org/10.1080/1540496X.2024.2416478",
+    "International Monetary Fund. (2026, April 14). World Economic Outlook, April 2026: Statistical Appendix A tables. https://www.imf.org/-/media/files/publications/weo/2026/april/english/tablea.pdf",
+    "Juhasz, R., Lane, N., & Rodrik, D. (2024). The new economics of industrial policy. Annual Review of Economics, 16, 213–242. https://doi.org/10.1146/annurev-economics-081023-024638",
+    "Kydland, F. E., & Prescott, E. C. (1982). Time to build and aggregate fluctuations. Econometrica, 50(6), 1345–1370. https://doi.org/10.2307/1913386",
+    "Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 8(12), 2100707. https://doi.org/10.1002/advs.202100707",
+    "Martin, R. (2012). Regional economic resilience, hysteresis and recessionary shocks. Journal of Economic Geography, 12(1), 1–32. https://doi.org/10.1093/jeg/lbr019",
+    "Martin, R., & Sunley, P. (2015). On the notion of regional economic resilience: Conceptualization and explanation. Journal of Economic Geography, 15(1), 1–42. https://doi.org/10.1093/jeg/lbu015",
+    "Matvejevs, O., & Tkacevs, O. (2025). Invest one - get two extra: Public investment crowds in private investment. European Journal of Political Economy, 90, 102384. https://doi.org/10.1016/j.ejpoleco.2023.102384",
+    "Meta. (2025). Hello, Beaver Dam. Meta Data Centers. https://datacenters.atmeta.com/2025/11/hello-beaver-dam/",
+    "Ministry of Economy, Trade and Industry, Japan. (2024). Approval of cloud programs for AI computing resources. https://www.meti.go.jp/english/press/2024/0419_001.html",
+    "Ministry of Industry and Information Technology of China. (2025, May 30). Computing power interconnection action plan. https://app.www.gov.cn/govdata/gov/202505/30/530146/articleNew.html",
+    "National Assembly Budget Office. (2026). 2025 accounts analysis: Science and ICT Committee - government GPU purchase program. https://nabo.go.kr/board/file/down.do?fid=33319407",
+    "Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. Science, 381(6654), 187–192. https://doi.org/10.1126/science.adh2586",
+    "NSCC Singapore. (2026, June 8). NSCC Singapore launches next-generation supercomputer ASPIRE 2B. https://www.nscc.sg/portfolio/item/nscc-singapore-launches-next-generation-supercomputer-aspire-2b/",
+    "OECD. (2026a, April 16). Labour market situation: Employment and labour force participation remained stable in most OECD countries in Q4 2025. https://www.oecd.org/en/data/insights/statistical-releases/2026/04/labour-market-situation-updated-april-2026.html",
+    "OECD. (2026b). OECD compendium of productivity indicators 2026. OECD Publishing. https://doi.org/10.1787/734a5e68-en",
+    "Parliament of India, Ministry of Electronics and Information Technology. (2026, March). IndiaAI Mission expenditure [Rajya Sabha parliamentary answer]. https://sansad.in/getFile/annex/270/AU3246_wa5YLu.pdf?source=pqars",
+    "Public Services and Procurement Canada. (2025). Public Accounts of Canada 2025, Volume II: Innovation, Science and Industry transfer payments. https://www.tpsgc-pwgsc.gc.ca/recgen/cpc-pac/2025/vol2/isi/pt-tp-eng.html",
+    "RecordOwl. (2026). Hewlett-Packard Singapore sales Pte. Ltd.: Government procurement record [GeBIZ mirror]. https://recordowl.com/company/hewlett-packard-singapore-sales-pte-ltd",
+    "SAKURA internet Inc. (2026, April 27). Fiscal year ended March 2026 financial results. https://www.sakura.ad.jp/corporate/wp-content/uploads/2026/04/en-260427-ir_2.pdf",
+    "Sensier, M., Bristow, G., & Healy, A. (2016). Measuring regional economic resilience across Europe: Operationalizing a complex concept. Spatial Economic Analysis, 11(2), 128–151. https://doi.org/10.1080/17421772.2016.1129435",
+    "Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Hobbhahn, M., & Villalobos, P. (2022). Compute trends across three eras of machine learning. 2022 International Joint Conference on Neural Networks (IJCNN), 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914",
+    "Simmie, J., & Martin, R. (2010). The economic resilience of regions: Towards an evolutionary approach. Cambridge Journal of Regions, Economy and Society, 3(1), 27–43. https://doi.org/10.1093/cjres/rsp029",
+    "SoftBank Corp. (2026, May 11). FY2025 full-year investor briefing: Status of investments in AI computing infrastructure and AI data centers. https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf",
+    "UK Research and Innovation. (2025). Annual report and accounts 2024 to 2025. https://www.ukri.org/publications/annual-report-and-accounts-2024-to-2025/ukri-annual-report-and-accounts-2024-to-2025/",
+    "Wisconsin Legislative Fiscal Bureau. (2026). Sales tax exemption for WEDC certified data centers [Memorandum]. https://www.wpr.org/wp-content/uploads/2026/04/18-Hesselbein-Habush-Sinykin-ST-JG-Adobe-cloud-storage.pdf",
+    "World Bank. (2026a). Employment-to-population ratio, ages 15+, total (%) (modeled ILO estimate). Retrieved August 19, 2026, from https://data.worldbank.org/indicator/SL.EMP.TOTL.SP.ZS",
+    "World Bank. (2026b). Unemployment, youth total (% of total labor force ages 15–24) (modeled ILO estimate). Retrieved August 19, 2026, from https://data.worldbank.org/indicator/SL.UEM.1524.ZS",
+    "Zhang, J., Yang, Z., & He, B. (2023). Does digital infrastructure improve urban economic resilience? Evidence from the Yangtze River Economic Belt in China. Sustainability, 15(19), 14289. https://doi.org/10.3390/su151914289"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies: Financing Architectures, Capital Formation, and Deployment Timing (EPINOVA Working Paper No. EPINOVA–WP–D–2026–03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.d.2026.003",
+  "citation_apa": "Wu, S. (2026). Toward measuring AI infrastructure investment and economic resilience across ten economies: Financing architectures, capital formation, and deployment timing. EPINOVA Working Paper Series, EPINOVA-WP-D-2026-003. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.d.2026.003.",
+  "short_citation": "Wu (2026), Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies, EPINOVA–WP–D–2026–03.",
+  "imprint": {
+    "title": "EPINOVA Working Paper Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-08-21",
+    "pagination": "17 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Event-based Timing of Verified Monetary Evidence and Service Activation",
+      "description": "Timeline showing verified expenditure or acceptance events and service activation or expected online timing for SoftBank, SAKURA internet, Microsoft Wisconsin, Meta Wisconsin, and Korea GPU program.",
+      "source": "Author's compilation from SoftBank Corp. (2026), SAKURA internet Inc. (2026), Wisconsin Legislative Fiscal Bureau (2026), Meta (2025), and NABO (2026).",
+      "note": "Circles indicate reported expenditure or acceptance events, while squares indicate service activation or expected online timing. Colors distinguish labeled entities visually."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Public-Private AI Infrastructure Financing Architectures across Ten Economies",
+      "description": "Compares public role, private or operating role, evidence status, share status, and financing architecture for the United States, United Kingdom, Canada, Japan, South Korea, Germany, France, Singapore, China, and India.",
+      "source": "Author's compilation based on the sources cited in the text and reference list.",
+      "note": "Classifications describe observed financing and operating arrangements and are not national PAIIS or PrAIIS estimates."
+    },
+    {
+      "number": "Table 2",
+      "title": "Verified Realized and Excluded Monetary Evidence Records",
+      "description": "Lists realized and excluded monetary records for Japan SoftBank, Japan SAKURA internet, United States Microsoft Wisconsin, United States Meta/Degas Wisconsin, United States Epic Hosting Wisconsin, South Korea CSP total, United Kingdom AIRR, and Canada PAICE.",
+      "source": "Author's compilation based on SoftBank Corp. (2026), SAKURA internet Inc. (2026), Wisconsin Legislative Fiscal Bureau (2026), NABO (2026), UK Research and Innovation (2025), and Public Services and Procurement Canada (2025).",
+      "note": "Amounts retain original reported units and accounting status. Records are project- or program-level observations rather than comparable national totals, and overlapping contracts were not added to reported outturns. Table spans pages 11–12 in the PDF."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This working paper reflects the author’s analytical views based on publicly available information. The views expressed are solely those of the author and do not represent the official position of any government, organization, institution, or affiliated entity.",
+  "metadata_source": {
+    "source_file": "Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-08-21",
+    "last_updated": "2026-08-21",
+    "notes": "PDF supplied publication number, title, subtitle, author, ORCID, affiliation, date, abstract, keywords, introduction, literature review, analytical framework, methods, formulas for AI-IIS/PAIIS/PrAIIS, ten-economy financing-architecture comparison, realized and excluded monetary-evidence table, event-based timing figure, discussion, limitations, conclusion, references, recommended citation, and disclaimer. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 16–17 are preserved in the metadata references field. Figure 1 and Tables 1–2 are separately described in the metadata."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260821070613-04'00'",
+    "modification_date": "D:20260821070613-04'00'",
+    "pages": 17
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.d.2026.003",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-wp-d-2026-003/",
+    "crossref_doi_suffix": "epinova.wp.d.2026.003",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.d.2026.003",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.d.2026.003",
+    "registered_url": "https://publications.epinova.org/epinova-wp-d-2026-003/",
+    "registration_date": "2026-08-21",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  },
+  "policy_recommendations": [
+    "Separate announcements, commitments, procurement awards, budgets, completed-project funding, realized expenditure, and CAPEX before comparing AI-infrastructure investment across countries.",
+    "Report public and private financing shares only for bounded project or program pools with defensible denominators.",
+    "Track deployment timing and operational availability separately from spending and capital formation.",
+    "Avoid constructing national rankings when scope, accounting basis, realization status, and coverage are not harmonized.",
+    "Use descriptive macroeconomic and labor-market indicators only as context unless a common shock, baseline, and recovery trajectory are available.",
+    "Develop future post-operational datasets that align investment periods, operational capacity exposure, and resilience outcomes."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Next-stage research",
+      "indicator": "Explicit country-level coverage denominators for AI-specific infrastructure investment",
+      "analytical_purpose": "Determines whether AI-IIS and national public/private financing shares can be computed comparably."
+    },
+    {
+      "timeframe": "Next-stage research",
+      "indicator": "CAPEX/OPEX decompositions for mixed GPU, cloud, integration, and operating-cost programs",
+      "analytical_purpose": "Separates realized monetary expenditure from capital formation."
+    },
+    {
+      "timeframe": "Post-operational period",
+      "indicator": "Service activation dates, operating capacity, access rules, utilization, and downstream adoption",
+      "analytical_purpose": "Links investment evidence to usable AI-capability exposure."
+    },
+    {
+      "timeframe": "Future resilience testing",
+      "indicator": "Common disruptions with pre-shock baselines and post-shock resistance and recovery metrics",
+      "analytical_purpose": "Allows real resilience analysis rather than descriptive economic-context comparison."
+    }
+  ]
+}
