@@ -38,7 +38,7 @@
     }
   ],
   "description": "The First Edition, Framework Version 1.0, of the complete four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
-  "abstract": "This First Edition, Framework Version 1.0, presents an integrated framework for assessing artificial intelligence development and competitiveness across foundational capabilities, algorithms, applications, governance, risk, talent, workforce capacity, measurement systems, frontier indicators, and strategic outlook. The edition comprises Volume I: Foundations, Algorithms, and Applications; Volume II: Competitiveness, Governance, and Risk; Volume III: Talent and Workforce Capacity; and Volume IV: Frontier Indicator and Outlook. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, data conditions, governance environments, and measurement needs develop.",
+  "abstract": "This First Edition, Framework Version 1.0, presents an integrated framework for assessing artificial intelligence development and competitiveness across infrastructure and foundational capacity, algorithms and platforms, applications, competitiveness, governance and risk, talent and human capital, frontier and emerging AI indicators, and future outlook. The edition comprises Volume I: AI Infrastructure and Foundational Capacity; Volume II: Algorithms, Applications, and Competitiveness; Volume III: Governance, Risk, and Human Capital; and Volume IV: Frontier Indicators and Future Outlook. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, data conditions, governance environments, human-capital requirements, and measurement needs develop.",
   "keywords": [
     "artificial intelligence",
     "AI development",
@@ -79,28 +79,28 @@
       "identifier": "10.67037/epinova.bk.2026.002",
       "scheme": "DOI",
       "resource_type": "Book",
-      "description": "Volume I: Foundations, Algorithms, and Applications"
+      "description": "Volume I: AI Infrastructure and Foundational Capacity"
     },
     {
       "relation": "HasPart",
       "identifier": "10.67037/epinova.bk.2026.003",
       "scheme": "DOI",
       "resource_type": "Book",
-      "description": "Volume II: Competitiveness, Governance, and Risk"
+      "description": "Volume II: Algorithms, Applications, and Competitiveness"
     },
     {
       "relation": "HasPart",
       "identifier": "10.67037/epinova.bk.2026.004",
       "scheme": "DOI",
       "resource_type": "Book",
-      "description": "Volume III: Talent and Workforce Capacity"
+      "description": "Volume III: Governance, Risk, and Human Capital"
     },
     {
       "relation": "HasPart",
       "identifier": "10.67037/epinova.bk.2026.005",
       "scheme": "DOI",
       "resource_type": "Book",
-      "description": "Volume IV: Frontier Indicator and Outlook"
+      "description": "Volume IV: Frontier Indicators and Future Outlook"
     }
   ],
   "edition_number": 1,

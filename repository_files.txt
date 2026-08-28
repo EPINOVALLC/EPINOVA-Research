@@ -1,7 +1,11 @@
-Working Paper/D/2026/EPINOVA–WP–D–2026–03/Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf
-Working Paper/D/2026/EPINOVA–WP–D–2026–03/metadata.json
-docs/epinova-wp-d-2026-003/index.html
-docs/files/epinova-wp-d-2026-003/Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf
+Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf
+Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf
+Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf
+Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook_17..pdf
+Policy Brief/2026/EPINOVA–2026–PB-70/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
+Policy Brief/2026/EPINOVA–2026–PB-70/metadata.json
+docs/epinova-pb-2026-070/index.html
+docs/files/epinova-pb-2026-070/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -773,6 +777,8 @@ Working Paper/D/2026/EPINOVA–WP–D–2026–01/When AI Infrastructure Is Opti
 Working Paper/D/2026/EPINOVA–WP–D–2026–01/metadata.json
 Working Paper/D/2026/EPINOVA–WP–D–2026–02/Why the South.pdf
 Working Paper/D/2026/EPINOVA–WP–D–2026–02/metadata.json
+Working Paper/D/2026/EPINOVA–WP–D–2026–03/Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf
+Working Paper/D/2026/EPINOVA–WP–D–2026–03/metadata.json
 Working Paper/F/2025/2025-10-13/Gray-Zone Maritime Rights-Protection Strategy.pdf
 Working Paper/F/2025/2025-10-13/metadata.json
 Working Paper/F/2025/2025-11-15/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf
@@ -1498,6 +1504,7 @@ docs/epinova-wp-a-2026-03/index.html
 docs/epinova-wp-a-2026-04/index.html
 docs/epinova-wp-d-2026-001/index.html
 docs/epinova-wp-d-2026-002/index.html
+docs/epinova-wp-d-2026-003/index.html
 docs/epinova-wp-d-2026-01/index.html
 docs/epinova-wp-d-2026-02/index.html
 docs/epinova-wp-f-2025-001/index.html
@@ -1636,6 +1643,7 @@ docs/files/epinova-wp-a-2026-03/From Control Substitution to Structural Dominanc
 docs/files/epinova-wp-a-2026-04/Low-Observable Deployable Modular Surface Platform (LODMSP) From Fixed Decks to Deployable Mission Interfaces in Autonomous Maritime Systems.pdf
 docs/files/epinova-wp-d-2026-001/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
 docs/files/epinova-wp-d-2026-002/Why the South.pdf
+docs/files/epinova-wp-d-2026-003/Toward Measuring AI Infrastructure Investment and Economic Resilience Across Ten Economies Financing Architectures, Capital Formation, and Deployment Timing.pdf
 docs/files/epinova-wp-d-2026-01/When AI Infrastructure Is Optional but Governance Lock-In Is Not.pdf
 docs/files/epinova-wp-d-2026-02/Why the South.pdf
 docs/files/epinova-wp-f-2025-001/SFHAF and SFHARF New Archetypes under the MMC Framework.pdf

@@ -6,8 +6,8 @@
   "publication_type": "Book",
   "category": "books",
   "title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
-  "subtitle": "Competitiveness, Governance, and Risk",
-  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk",
+  "subtitle": "Algorithms, Applications, and Competitiveness",
+  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Algorithms, Applications, and Competitiveness",
   "series_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
   "series_type": "Multi-volume publication",
   "volume": "II",
@@ -36,22 +36,24 @@
       "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
     }
   ],
-  "description": "Volume II of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
-  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It examines how artificial intelligence capabilities are translated into national and institutional competitiveness, including governance systems, standards, regulatory capacity, security, resilience, and systemic risk. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, governance environments, risk conditions, and measurement needs develop.",
+  "description": "Volume II of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework, covering algorithms and platforms, AI applications, and competitiveness.",
+  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It examines how artificial intelligence capabilities are developed, deployed, and translated into broader economic and strategic outcomes. The volume covers algorithmic performance and innovation capacity, AI research and development ecosystems, technological autonomy, public and industrial applications, sectoral deployment, economic contribution and industrial output, labor-market and societal effects, and international competitiveness and influence. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, deployment patterns, industrial structures, competitive conditions, and measurement needs develop.",
   "keywords": [
+    "artificial intelligence",
+    "AI algorithms",
+    "AI platforms",
+    "AI applications",
+    "AI deployment",
     "AI competitiveness",
-    "AI governance",
-    "technology standards",
-    "AI risk",
-    "regulation",
-    "institutional capacity"
+    "technological autonomy",
+    "industrial transformation"
   ],
   "subjects": [
-    "AI governance",
-    "Technology policy",
+    "Artificial intelligence",
+    "Computer science",
+    "AI applications",
     "National competitiveness",
-    "Risk management",
-    "Public policy"
+    "Technology policy"
   ],
   "official_page": "https://publications.epinova.org/epinova-bk-2026-003/",
   "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-003",
@@ -72,8 +74,8 @@
     "title": "All rights reserved",
     "url": ""
   },
-  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, governance, and risk (Vol. 2, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.003",
-  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk. Vol. II. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.003",
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Algorithms, applications, and competitiveness (Vol. 2, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.003",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Algorithms, Applications, and Competitiveness. Vol. II. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.003",
   "alternate_identifiers": [
     {
       "scheme": "ISBN-13",
@@ -84,10 +86,10 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "10.67037/epinova.bk.2026.006",
+      "identifier": "10.67037/epinova.bk.2026.001",
       "scheme": "DOI",
-      "resource_type": "Book Series",
-      "description": "Four-volume set record"
+      "resource_type": "Book",
+      "description": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition"
     }
   ],
   "edition_number": 1,

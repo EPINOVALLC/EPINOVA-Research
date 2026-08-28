@@ -6,8 +6,8 @@
   "publication_type": "Book",
   "category": "books",
   "title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
-  "subtitle": "Frontier Indicator and Outlook",
-  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicator and Outlook",
+  "subtitle": "Frontier Indicators and Future Outlook",
+  "full_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook",
   "series_title": "Global Artificial Intelligence Development and Competitiveness Assessment Framework",
   "series_type": "Multi-volume publication",
   "volume": "IV",
@@ -36,22 +36,24 @@
       "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
     }
   ],
-  "description": "Volume IV of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework.",
-  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It develops measurement architecture, benchmarking methods, frontier indicators, comparative evaluation systems, and forward-looking analytical tools for assessing emerging AI capability and strategic trajectory. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, measurement systems, benchmarking practices, strategic environments, and future-readiness requirements develop.",
+  "description": "Volume IV of the First Edition, Framework Version 1.0, of the four-volume Global Artificial Intelligence Development and Competitiveness Assessment Framework, covering frontier and emerging AI indicators and future outlook.",
+  "abstract": "This volume forms part of the First Edition, Framework Version 1.0, of the Global Artificial Intelligence Development and Competitiveness Assessment Framework. It examines frontier and emerging dimensions of artificial intelligence development and future preparedness through indicators addressing emerging technologies, frontier capabilities, evolving infrastructure and sustainability conditions, strategic and societal transformation, comparative assessment, and long-term readiness. The volume concludes with the Framework's future outlook, highlighting strategic pathways, emerging trajectories, and longer-term implications for the distribution of AI capability and competitiveness. The Framework is designed as an open, extensible, and evolving assessment architecture that may be revised as AI technologies, frontier conditions, strategic environments, and future-readiness requirements develop.",
   "keywords": [
-    "AI indicators",
-    "AI benchmarking",
-    "measurement framework",
+    "artificial intelligence",
     "frontier AI",
-    "strategic outlook",
+    "emerging AI indicators",
+    "future outlook",
+    "AI readiness",
+    "strategic assessment",
+    "technology forecasting",
     "comparative assessment"
   ],
   "subjects": [
     "Artificial intelligence",
-    "Measurement",
-    "Benchmarking",
+    "Frontier technologies",
     "Technology forecasting",
-    "Strategic assessment"
+    "Strategic assessment",
+    "AI policy"
   ],
   "official_page": "https://publications.epinova.org/epinova-bk-2026-005/",
   "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-005",
@@ -72,8 +74,8 @@
     "title": "All rights reserved",
     "url": ""
   },
-  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier indicator and outlook (Vol. 4, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.005",
-  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicator and Outlook. Vol. IV. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.005",
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier indicators and future outlook (Vol. 4, 1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.005",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook. Vol. IV. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.005",
   "alternate_identifiers": [
     {
       "scheme": "ISBN-13",
@@ -84,10 +86,10 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "10.67037/epinova.bk.2026.006",
+      "identifier": "10.67037/epinova.bk.2026.001",
       "scheme": "DOI",
-      "resource_type": "Book Series",
-      "description": "Four-volume set record"
+      "resource_type": "Book",
+      "description": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition"
     }
   ],
   "edition_number": 1,

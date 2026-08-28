@@ -148,39 +148,39 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 ### Books
 
 - **EPINOVA-BK-2026-005** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicator and Outlook**  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
+  DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
+  Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
+  Source PDF: [`Volume IV Frontier Indicators and Future Outlook_17..pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/Volume%20IV%20Frontier%20Indicators%20and%20Future%20Outlook_17..pdf)
+
+- **EPINOVA-BK-2026-005** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook**  
   Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
   DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
   Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
   Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/sample.pdf)
 
 - **EPINOVA-BK-2026-004** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Talent and Workforce Capacity**  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
+  DOI: [10.67037/epinova.bk.2026.004](https://doi.org/10.67037/epinova.bk.2026.004)  
+  Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
+  Source PDF: [`Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/Volume%20III%20Governance%2C%20Risk%2C%20and%20Human%20Capital__8.27x11.69.pdf)
+
+- **EPINOVA-BK-2026-004** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
   Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
   DOI: [10.67037/epinova.bk.2026.004](https://doi.org/10.67037/epinova.bk.2026.004)  
   Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
   Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/sample.pdf)
 
 - **EPINOVA-BK-2026-003** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Competitiveness, Governance, and Risk**  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Algorithms, Applications, and Competitiveness**  
   Publication page: [https://publications.epinova.org/epinova-bk-2026-003/](https://publications.epinova.org/epinova-bk-2026-003/)  
   DOI: [10.67037/epinova.bk.2026.003](https://doi.org/10.67037/epinova.bk.2026.003)  
   Source folder: [`Book/EPINOVA-BK-2026-003/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-003)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/sample.pdf)
-
-- **EPINOVA-BK-2026-002** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Foundations, Algorithms, and Applications**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-002/](https://publications.epinova.org/epinova-bk-2026-002/)  
-  DOI: [10.67037/epinova.bk.2026.002](https://doi.org/10.67037/epinova.bk.2026.002)  
-  Source folder: [`Book/EPINOVA-BK-2026-002/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-002)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-002/sample.pdf)
-
-- **EPINOVA-BK-2026-001** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-001/](https://publications.epinova.org/epinova-bk-2026-001/)  
-  DOI: [10.67037/epinova.bk.2026.001](https://doi.org/10.67037/epinova.bk.2026.001)  
-  Source folder: [`Book/EPINOVA-BK-2026-001/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-001)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-001/sample.pdf)
+  Source PDF: [`Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/Volume%20II%20Algorithms%2C%20Applications%2C%20and%20Competitiveness_18.292%20%C3%97%2011.94.pdf)
 
 ---
 
@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-070** (2026-08-28)  
+  **Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.070](https://doi.org/10.67037/epinova.pb.2026.070)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-70/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70)  
+  Source PDF: [`Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70/Japan%27s%20Rising%20Strategic%20Value%20and%20the%20Potential%20Restructuring%20of%20the%20Asia-Pacific%20Order.pdf)
+
 - **EPINOVA-PB-2026-069** (2026-08-17)  
   **From AI-Enabled Weapons to AI-Orchestrated Warfare: The Emerging Global Military AI Stack in 2026**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.066](https://doi.org/10.67037/epinova.pb.2026.066)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-66/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66)  
   Source PDF: [`The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66/The%20Evolving%20Structure%20of%20the%20U.S.%E2%80%93Iran%E2%80%93Israel%20Conflict%20MCEA%20and%20NMF%20Analysis%20of%20Analytical%20Days%201%E2%80%93159%20Using%20MCCM%20v2.3.4.pdf)
-
-- **EPINOVA-PB-2026-065** (2026-07-30)  
-  **Operational Control versus Systemic Connectivity: The Emerging Structure of U.S.–China Competition under Networked Warfare**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.065](https://doi.org/10.67037/epinova.pb.2026.065)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-65/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65)  
-  Source PDF: [`Operational Control versus Systemic Connectivity The Emerging Structure of U.S.–China Competition under Networked Warfare.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-65/Operational%20Control%20versus%20Systemic%20Connectivity%20The%20Emerging%20Structure%20of%20U.S.%E2%80%93China%20Competition%20under%20Networked%20Warfare.pdf)
 
 ---
 
