@@ -1,11 +1,5 @@
-Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf
-Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf
-Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf
-Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook_17..pdf
-Policy Brief/2026/EPINOVA–2026–PB-70/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
-Policy Brief/2026/EPINOVA–2026–PB-70/metadata.json
-docs/epinova-pb-2026-070/index.html
-docs/files/epinova-pb-2026-070/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
+docs/epinova-wp-t-2026-001/index.html
+docs/files/epinova-wp-t-2026-001/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -592,18 +586,14 @@ Articles/articles_failed_index.json
 Book/EPINOVA-BK-2026-001/cover.png
 Book/EPINOVA-BK-2026-001/metadata.json
 Book/EPINOVA-BK-2026-001/sample.pdf
-Book/EPINOVA-BK-2026-002/cover.png
+Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf
 Book/EPINOVA-BK-2026-002/metadata.json
-Book/EPINOVA-BK-2026-002/sample.pdf
-Book/EPINOVA-BK-2026-003/cover.png
+Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf
 Book/EPINOVA-BK-2026-003/metadata.json
-Book/EPINOVA-BK-2026-003/sample.pdf
-Book/EPINOVA-BK-2026-004/cover.png
+Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf
 Book/EPINOVA-BK-2026-004/metadata.json
-Book/EPINOVA-BK-2026-004/sample.pdf
-Book/EPINOVA-BK-2026-005/cover.png
+Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook_17..pdf
 Book/EPINOVA-BK-2026-005/metadata.json
-Book/EPINOVA-BK-2026-005/sample.pdf
 Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
 Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
 Conference Papers/EPINOVA-2026-CP-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
@@ -758,6 +748,8 @@ Policy Brief/2026/EPINOVA–2026–PB-68/Iran After Succession Power, Access, an
 Policy Brief/2026/EPINOVA–2026–PB-68/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-69/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
 Policy Brief/2026/EPINOVA–2026–PB-69/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-70/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
+Policy Brief/2026/EPINOVA–2026–PB-70/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -815,6 +807,8 @@ Working Paper/F/2026/PINOVA–WP–F–2026–10/The War That Measured America W
 Working Paper/F/2026/PINOVA–WP–F–2026–10/metadata.json
 Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
 Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
+Working Paper/T/2026/EPINOVA–WP–T–2026–01/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
+Working Paper/T/2026/EPINOVA–WP–T–2026–01/metadata.json
 assets/global-ai-governance-logo.png
 doc/publication-manual.md
 docs/articles/archive/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
@@ -1488,6 +1482,7 @@ docs/epinova-pb-2026-066/index.html
 docs/epinova-pb-2026-067/index.html
 docs/epinova-pb-2026-068/index.html
 docs/epinova-pb-2026-069/index.html
+docs/epinova-pb-2026-070/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1628,6 +1623,7 @@ docs/files/epinova-pb-2026-066/The Evolving Structure of the U.S.–Iran–Israe
 docs/files/epinova-pb-2026-067/Rerouting the Gulf Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz.pdf
 docs/files/epinova-pb-2026-068/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
 docs/files/epinova-pb-2026-069/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
+docs/files/epinova-pb-2026-070/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf

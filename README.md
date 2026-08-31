@@ -154,13 +154,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
   Source PDF: [`Volume IV Frontier Indicators and Future Outlook_17..pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/Volume%20IV%20Frontier%20Indicators%20and%20Future%20Outlook_17..pdf)
 
-- **EPINOVA-BK-2026-005** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
-  DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
-  Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/sample.pdf)
-
 - **EPINOVA-BK-2026-004** (2026-06-30)  
   **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
   Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
@@ -168,19 +161,26 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
   Source PDF: [`Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/Volume%20III%20Governance%2C%20Risk%2C%20and%20Human%20Capital__8.27x11.69.pdf)
 
-- **EPINOVA-BK-2026-004** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
-  DOI: [10.67037/epinova.bk.2026.004](https://doi.org/10.67037/epinova.bk.2026.004)  
-  Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/sample.pdf)
-
 - **EPINOVA-BK-2026-003** (2026-06-30)  
   **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Algorithms, Applications, and Competitiveness**  
   Publication page: [https://publications.epinova.org/epinova-bk-2026-003/](https://publications.epinova.org/epinova-bk-2026-003/)  
   DOI: [10.67037/epinova.bk.2026.003](https://doi.org/10.67037/epinova.bk.2026.003)  
   Source folder: [`Book/EPINOVA-BK-2026-003/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-003)  
   Source PDF: [`Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/Volume%20II%20Algorithms%2C%20Applications%2C%20and%20Competitiveness_18.292%20%C3%97%2011.94.pdf)
+
+- **EPINOVA-BK-2026-002** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: AI Infrastructure and Foundational Capacity**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-002/](https://publications.epinova.org/epinova-bk-2026-002/)  
+  DOI: [10.67037/epinova.bk.2026.002](https://doi.org/10.67037/epinova.bk.2026.002)  
+  Source folder: [`Book/EPINOVA-BK-2026-002/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-002)  
+  Source PDF: [`Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-002/Volume%20I%20AI%20Infrastructure%20and%20Foundational%20Capacity_KDP_8.27x11.69_585p.pdf)
+
+- **EPINOVA-BK-2026-001** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-001/](https://publications.epinova.org/epinova-bk-2026-001/)  
+  DOI: [10.67037/epinova.bk.2026.001](https://doi.org/10.67037/epinova.bk.2026.001)  
+  Source folder: [`Book/EPINOVA-BK-2026-001/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-001)  
+  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-001/sample.pdf)
 
 ---
 
@@ -355,6 +355,15 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Temporary archival DOI: [10.5281/zenodo.19734514](https://doi.org/10.5281/zenodo.19734514)  
   Source folder: [`Working Paper/A/2026/EPINOVA–WP–A–2026–02/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302)  
   Source PDF: [`Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/A/2026/EPINOVA%E2%80%93WP%E2%80%93A%E2%80%932026%E2%80%9302/Beyond%20Theater%20Effects%20Perception-Driven%20Escalation%20and%20Loss-of-Control%20Thresholds%20in%20AI-Mediated%20Conflict.pdf)
+
+#### WP-T — Theory and Systems
+
+- **EPINOVA-WP-T-2026-001** (2026-08-31)  
+  **Beyond Centrality: Conditional Connectivity and Boundary Control in Interdependent Networks**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.t.2026.01](https://doi.org/10.67037/epinova.wp.t.2026.01)  
+  Source folder: [`Working Paper/T/2026/EPINOVA–WP–T–2026–01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/T/2026/EPINOVA%E2%80%93WP%E2%80%93T%E2%80%932026%E2%80%9301)  
+  Source PDF: [`Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/T/2026/EPINOVA%E2%80%93WP%E2%80%93T%E2%80%932026%E2%80%9301/Beyond%20Centrality%20Conditional%20Connectivity%2C%20Boundary%20Control%2C%20and%20Systemic%20Power%20in%20Interdependent%20Networks.pdf)
 
 #### WP-Other — Other Working Papers
 
