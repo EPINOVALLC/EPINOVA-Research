@@ -1,0 +1,559 @@
+{
+  "epinova_id": "EPINOVA-WP-T-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper Series",
+  "series_code": "WP-T",
+  "series_number": "2026-001",
+  "title": "Beyond Centrality",
+  "subtitle": "Conditional Connectivity and Boundary Control in Interdependent Networks",
+  "publication_date": "2026-08-31",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.wp.t.2026.01",
+  "landing_page": "https://publications.epinova.org/epinova-wp-t-2026-001/",
+  "official_page": "https://epinova.org/working-papers",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA–WP–T–2026–01",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number printed in the PDF"
+    },
+    {
+      "identifier": "Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "NBNS",
+      "scheme": "Framework acronym",
+      "description": "Node-Boundary-Network-System framework"
+    },
+    {
+      "identifier": "Conditional usability",
+      "scheme": "Analytical concept",
+      "description": "Actor-, function-, direction-, and time-specific usability of a relation or transition"
+    },
+    {
+      "identifier": "Boundary power",
+      "scheme": "Analytical concept",
+      "description": "Capacity to alter indexed admissibility conditions for relations, resources, information, authority, or functions across domains"
+    },
+    {
+      "identifier": "Systemic power",
+      "scheme": "Analytical concept",
+      "description": "Attributable capacity to deliberately produce durable changes in rules, interoperability, architecture, or functional reproduction across networks"
+    }
+  ],
+  "description": "This working paper develops a Node-Boundary-Network-System framework for analyzing conditional connectivity and boundary control in interdependent networks. It argues that power cannot be inferred from centrality, brokerage, dependence, jurisdiction, or cross-network position alone when the usability of a relation varies by actor, function, direction, and time. The paper defines boundaries as indexed admissibility states, distinguishes rules from implementation interfaces, decomposes control into rights bundles, and separates structural exposure, available leverage, boundary action, admissible capacity, target response, network adaptation, and system transformation. A semiconductor-export-control walkthrough using NVIDIA A100/H100 product-time evidence illustrates the coding logic without claiming a causal estimate of policy effectiveness.",
+  "abstract": "Network analysis has transformed the study of power by showing how centrality, brokerage, dependence, exit options, and network topology shape influence. Contemporary network science also provides mature tools for multilayer, temporal, and interdependent networks, while weaponized-interdependence research demonstrates that jurisdiction and domestic institutions can convert structural position into coercive leverage. This article develops a Node-Boundary-Network-System framework centered on conditional usability. A boundary is defined as an actor-, function-, direction-, and time-indexed admissibility state. Rules define admissibility criteria; interfaces implement crossing; and control-rights bundles identify who may set, interpret, authorize, veto, enforce, or override those conditions. The framework separates structural position, available leverage, boundary action, admissible capacity, target response, network adaptation, and system transformation, and distinguishes systemic effects from systemic power. Capacity equations are restricted to explicitly ratio-scaled admissible capacity and separate authorized flow, unauthorized flow, and probabilistic approval. A semiconductor-export-control walkthrough uses a concrete NVIDIA A100/H100 product-time trace to illustrate the coding logic without claiming a causal estimate of policy effectiveness. Four discriminating hypotheses and a three-layer comparison strategy specify how NBNS can be tested against topology-only baselines and near-neighbor theories that already incorporate jurisdiction, institutions, dependence, and cross-network position.",
+  "keywords": [
+    "network power",
+    "conditional connectivity",
+    "boundary control",
+    "interdependence",
+    "access",
+    "decentralization",
+    "systemic power",
+    "strategic distance",
+    "AI governance",
+    "Node-Boundary-Network-System",
+    "NBNS",
+    "conditional usability",
+    "boundary power",
+    "admissible capacity",
+    "control-rights bundle",
+    "implementation interface",
+    "cross-network conversion",
+    "weaponized interdependence",
+    "cross-network weaponization",
+    "multilayer networks",
+    "temporal networks",
+    "systems theory",
+    "semiconductor export controls",
+    "NVIDIA A100",
+    "NVIDIA H100",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Network theory",
+    "International political economy",
+    "Strategic studies",
+    "Systems theory",
+    "AI governance",
+    "Technology governance",
+    "Semiconductor export controls",
+    "Interdependence",
+    "Power theory",
+    "Complex systems",
+    "Security studies",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-08-31",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-08-31",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-08-31",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-08-31",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    },
+    {
+      "date": "2026-08-30",
+      "date_type": "Source verification cutoff",
+      "description": "External source verification cutoff stated in the research and source statement"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Papers/2026/EPINOVA%E2%80%93WP%E2%80%93T-2026-01/Beyond%20Centrality%20Conditional%20Connectivity%2C%20Boundary%20Control%2C%20and%20Systemic%20Power%20in%20Interdependent%20Networks.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 26
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Papers/2026/EPINOVA%E2%80%93WP%E2%80%93T-2026-01",
+  "methodology": {
+    "framework_name": "Node-Boundary-Network-System (NBNS) Framework",
+    "source_basis": "Conceptual and theoretical synthesis using network theory, interdependence theory, weaponized interdependence, cross-network weaponization, protocol and standards scholarship, access-control logic, control-rights theory, complex-adaptive-systems theory, and a public-source semiconductor-export-control coding walkthrough.",
+    "case_context": "Theoretical framework development with a bounded illustrative walkthrough of U.S. advanced-semiconductor export controls using NVIDIA A100/H100 product-time evidence from 2022-2024.",
+    "core_problem": "The central analytical problem is how a technically or physically existing relation becomes usable by a specific actor, for a specific function, in a specific direction, at a specific time, and how changes in that conditional usability convert structural exposure into boundary action, target response, network adaptation, and possible system transformation.",
+    "central_claims": [
+      "Power cannot be inferred from centrality, brokerage, dependence, jurisdiction, or cross-network position alone when the usability of relations varies selectively.",
+      "A boundary should be coded as an actor-, function-, direction-, and time-indexed admissibility state rather than an abstract system border.",
+      "Rules define admissibility criteria, interfaces implement crossing, and control-rights bundles identify who can set, interpret, authorize, veto, enforce, or override access conditions.",
+      "Structural exposure and target dependence create potential vulnerability, while control rights and discretion determine whether that exposure becomes available leverage.",
+      "Boundary action changes admissibility; target response, network adaptation, and durable system transformation occur later and only under additional conditions.",
+      "Systemic effects and systemic power are analytically distinct; large unintended cascades are not by themselves evidence of systemic power.",
+      "NBNS earns independent theoretical value only when indexed admissibility, implementation-interface evidence, and disaggregated control rights improve explanation after strong near-neighbor baselines are included."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Conditional Usability",
+        "description": "Treats access as usable by whom, for what function, in which direction, and at what time."
+      },
+      {
+        "name": "Boundary State",
+        "description": "Codes admissibility independently from formal rule language, implementation evidence, and observed flow."
+      },
+      {
+        "name": "Rule-Interface Distinction",
+        "description": "Separates criteria that define admissibility from mechanisms that implement crossing."
+      },
+      {
+        "name": "Control-Rights Bundles",
+        "description": "Decomposes ownership, operation, authorization, exclusion, rule setting, enforcement, and adjudication."
+      },
+      {
+        "name": "Admissible Capacity and Flow",
+        "description": "Distinguishes baseline capacity, admissible authorized capacity, realized authorized flow, unauthorized flow, and probabilistic approval."
+      },
+      {
+        "name": "Boundary-Conditioned Causal Sequence",
+        "description": "Separates structural exposure, available leverage, boundary action, capacity/usability change, target response, network adaptation, and system transformation."
+      },
+      {
+        "name": "Incremental Comparison Strategy",
+        "description": "Tests NBNS against topology/resources baselines and stronger baselines that include dependence, jurisdiction, institutions, and cross-network position."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Boundary State",
+      "code": "B",
+      "indicator_type": "Admissibility condition",
+      "description": "Actor-, function-, direction-, and time-specific admissibility condition governing whether and to what extent a relation or transition can be used.",
+      "observed_pattern": "May be open, filtered, restricted, or denied depending on authorization and implementation evidence.",
+      "interpretation": "Relation existence should not be equated with usable access."
+    },
+    {
+      "name": "Rules",
+      "code": "R",
+      "indicator_type": "Admissibility criteria",
+      "description": "Laws, licenses, contracts, platform policies, certification rules, technical standards, procurement rules, or institutional mandates that define admissibility.",
+      "observed_pattern": "Rule text can establish a license requirement or eligibility condition but does not alone prove implementation or denial.",
+      "interpretation": "Rules explain why crossing is permitted, restricted, or denied."
+    },
+    {
+      "name": "Interfaces",
+      "code": "I",
+      "indicator_type": "Implementation mechanism",
+      "description": "Technical, physical, organizational, or procedural mechanisms through which crossing is operationally implemented.",
+      "observed_pattern": "Examples include API gateways, customs processes, cloud accounts, identity providers, port terminals, licensing procedures, and software protocols.",
+      "interpretation": "Interfaces explain how crossing is accomplished or blocked."
+    },
+    {
+      "name": "Control-Rights Bundle",
+      "code": "C",
+      "indicator_type": "Control configuration",
+      "description": "Rights or capabilities to set, authorize, veto, exclude, enforce, or adjudicate a boundary condition.",
+      "observed_pattern": "Ownership, operation, authorization, veto/exclusion, rule setting, enforcement, and adjudication may be distributed across actors.",
+      "interpretation": "Control should not be inferred from ownership alone."
+    },
+    {
+      "name": "Admissible Capacity",
+      "code": "K_adm",
+      "indicator_type": "Capacity measure",
+      "description": "Legally and operationally admissible share of baseline capacity for a specified actor-function-direction-time tuple.",
+      "observed_pattern": "Equation (5) restricts capacity calculation to explicitly ratio-scaled admissible-capacity shares.",
+      "interpretation": "Formal rules, ordinal scores, or approval probabilities should not be used as capacity multipliers without a justified mapping."
+    },
+    {
+      "name": "Authorized and Unauthorized Flow",
+      "code": "X_auth/X_unauth",
+      "indicator_type": "Flow distinction",
+      "description": "Observed total flow is separated into authorized/lawful flow and unauthorized/evasive or noncompliant flow.",
+      "observed_pattern": "Observed flow can remain positive despite zero authorized capacity if implementation is incomplete or actors evade restrictions.",
+      "interpretation": "Observed flow is not the same as admissible capacity."
+    },
+    {
+      "name": "Strategic Distance",
+      "code": "D_s",
+      "indicator_type": "Generalized task cost",
+      "description": "Minimum generalized cost, latency, and risk over feasible paths for a fixed task, quantity, and deadline.",
+      "observed_pattern": "Boundary change affects strategic distance by removing paths or changing the cost, latency, or risk of remaining paths.",
+      "interpretation": "Strategic distance can rebound even when geographic distance remains unchanged."
+    }
+  ],
+  "key_findings": [
+    "Existing network and interdependence theories already explain centrality, brokerage, dependence, jurisdiction, institutional capacity, multilayer relations, temporal connectivity, and cross-network weaponization.",
+    "The residual problem is how a potential or technically existing relation becomes usable by a particular actor for a particular purpose, direction, and time.",
+    "NBNS centers on conditional usability and treats a boundary as an indexed admissibility state.",
+    "Rules, interfaces, and control-rights bundles must be separated to avoid double counting the same empirical restriction.",
+    "Control is a bundle of separable rights rather than a synonym for ownership or jurisdiction.",
+    "Structural exposure and target dependence are not enough; available leverage depends on relevant boundary-control rights and discretion.",
+    "Boundary action is distinct from access state, target response, network adaptation, and system transformation.",
+    "Systemic effects and systemic power are not equivalent; systemic power requires attributable and purposeful capacity to produce durable change.",
+    "Capacity equations should be used only where admissible capacity is ratio-scaled and separately measured from observed flow.",
+    "The NVIDIA A100/H100 export-control walkthrough illustrates coding logic while leaving causal effectiveness and direct admissible capacity unestimated.",
+    "NBNS should be tested against strong near-neighbor baselines rather than only topology-only models."
+  ],
+  "policy_recommendations": [
+    "Use actor-function-direction-time coding when analyzing access, sanctions, export controls, platform restrictions, alliance permissions, and infrastructure usability.",
+    "Separate formal rule changes from implemented boundary states and observed flow outcomes.",
+    "Distinguish ownership, operation, authorization, exclusion, rule-setting, enforcement, and adjudication when identifying who controls a boundary.",
+    "Avoid coding a license requirement or presumption of denial as actual denial without transaction- or implementation-level evidence.",
+    "Measure authorized flow and unauthorized/evasive flow separately when assessing restrictions.",
+    "Treat rerouting, substitution, bypass, and rewiring as network adaptations rather than access states.",
+    "Reserve claims of systemic power for cases with evidence of purposeful and attributable capacity to produce durable cross-network changes.",
+    "Test NBNS incrementally against models that already include dependence, jurisdiction, institutions, resources, and cross-network position."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Research design",
+      "indicator": "Actor-function-direction-time unit definition before outcome analysis",
+      "analytical_purpose": "Prevents access, implementation, flow, and adaptation from being collapsed into one variable."
+    },
+    {
+      "timeframe": "Research design",
+      "indicator": "Independent evidence of boundary state rather than rule text alone",
+      "analytical_purpose": "Distinguishes formal policy from implemented admissibility."
+    },
+    {
+      "timeframe": "Research design",
+      "indicator": "Separate coding of control-right configurations",
+      "analytical_purpose": "Identifies who can set, authorize, veto, enforce, or adjudicate access conditions."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Comparison of topology/resource models, near-neighbor models, and NBNS Layer C variables",
+      "analytical_purpose": "Assesses whether NBNS adds explanatory value beyond existing theories."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Longitudinal evidence for rerouting, substitution, recomposition, fragmentation, or integration",
+      "analytical_purpose": "Prevents durable system transformation from being inferred from an initial access change alone."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Direct or bounded estimates of admissible capacity",
+      "analytical_purpose": "Avoids treating formal restrictions or revenue outcomes as direct capacity measures."
+    }
+  ],
+  "references": [
+    "Allen, G. C. (2024, November 26). The true impact of allied export controls on the U.S. and Chinese semiconductor manufacturing equipment industries. Center for Strategic and International Studies. https://www.csis.org/analysis/true-impact-allied-export-controls-us-and-chinese-semiconductor-manufacturing-equipment",
+    "Beaumier, G., & Cartwright, M. (2024). Cross-network weaponization in the semiconductor supply chain. International Studies Quarterly, 68(1), sqae003. https://doi.org/10.1093/isq/sqae003",
+    "Bonacich, P. (1987). Power and centrality: A family of measures. American Journal of Sociology, 92(5), 1170-1182. https://doi.org/10.1086/228631",
+    "Brockmann, D., & Helbing, D. (2013). The hidden geometry of complex, network-driven contagion phenomena. Science, 342(6164), 1337-1342. https://doi.org/10.1126/science.1245200",
+    "Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E., & Havlin, S. (2010). Catastrophic cascade of failures in interdependent networks. Nature, 464, 1025-1028. https://doi.org/10.1038/nature08932",
+    "Bureau of Industry and Security. (2022, October 7). Commerce implements new export controls on advanced computing and semiconductor manufacturing items to the People's Republic of China (PRC). U.S. Department of Commerce. https://www.bis.gov/node/20292",
+    "Bureau of Industry and Security. (2023, October 17). Commerce strengthens restrictions on advanced computing semiconductors, semiconductor manufacturing equipment, and supercomputing items to countries of concern. U.S. Department of Commerce. https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment",
+    "Burt, R. S. (1992). Structural holes: The social structure of competition. Harvard University Press. https://www.hup.harvard.edu/books/9780674843714",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42-79. https://doi.org/10.1162/isec_a_00351",
+    "Galloway, A. R. (2004). Protocol: How control exists after decentralization. MIT Press. https://mitpress.mit.edu/9780262072472/protocol/",
+    "Goujon, R., Piper, L. D., Kleinhans, J.-P., & Kratz, A. (2022, October 21). Freeze-in-place: The impact of US tech controls on China. Rhodium Group. https://rhg.com/research/freeze-in-place/",
+    "Granovetter, M. S. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360-1380. https://doi.org/10.1086/225469",
+    "Grewal, D. S. (2008). Network power: The social dynamics of globalization. Yale University Press. https://yalebooks.yale.edu/book/9780300151343/network-power/",
+    "Hafner-Burton, E. M., Kahler, M., & Montgomery, A. H. (2009). Network analysis for international relations. International Organization, 63(3), 559-592. https://doi.org/10.1017/S0020818309090195",
+    "Holland, J. H. (1992). Complex adaptive systems. Daedalus, 121(1), 17-30. https://www.jstor.org/stable/20025416",
+    "Holme, P., & Saramäki, J. (2012). Temporal networks. Physics Reports, 519(3), 97-125. https://doi.org/10.1016/j.physrep.2012.03.001",
+    "Hu, V. C., Ferraiolo, D., Kuhn, R., Schnitzer, A., Sandlin, K., Miller, R., & Scarfone, K. (2019). Guide to attribute based access control (ABAC) definition and considerations (NIST Special Publication 800-162, Update 2). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-162",
+    "Keohane, R. O., & Nye, J. S. (2012). Power and interdependence (4th ed.). Longman. https://www.pearson.com/en-us/subject-catalog/p/power-and-interdependence/P200000002485",
+    "Kivelä, M., Arenas, A., Barthelemy, M., Gleeson, J. P., Moreno, Y., & Porter, M. A. (2014). Multilayer networks. Journal of Complex Networks, 2(3), 203-271. https://doi.org/10.1093/comnet/cnu016",
+    "Kleinhans, J.-P., Goujon, R., Hess, J., & Piper, L. D. (2023, April 4). Running on ice: China's chipmakers in a post-October 7 world. Rhodium Group. https://rhg.com/research/running-on-ice/",
+    "Lamont, M., & Molnár, V. (2002). The study of boundaries in the social sciences. Annual Review of Sociology, 28, 167-195. https://doi.org/10.1146/annurev.soc.28.110601.141107",
+    "Meadows, D. H. (2008). Thinking in systems: A primer (D. Wright, Ed.). Chelsea Green Publishing. https://www.chelseagreen.com/product/thinking-in-systems/",
+    "NVIDIA Corporation. (2022a, September 1). Current report (Form 8-K). U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1045810/000104581022000151/nvda-20220831.htm",
+    "NVIDIA Corporation. (2022b). Quarterly report (Form 10-Q) for the quarter ended July 31, 2022. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/nvda-20220731.htm",
+    "NVIDIA Corporation. (2024). Annual report (Form 10-K) for the fiscal year ended January 28, 2024. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+    "Schlager, E., & Ostrom, E. (1992). Property-rights regimes and natural resources: A conceptual analysis. Land Economics, 68(3), 249-262. https://doi.org/10.2307/3146375",
+    "Wu, S. (2026a). AI capability stratification: A framework for the future distribution of AI power (Policy Brief No. EPINOVA-2026-PB-59). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.059",
+    "Wu, S. (2026b). Beyond model capability: A system-level framework for AI power (Policy Brief No. EPINOVA-2026-PB-58). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058",
+    "Wu, S. (2026c). Global AI power mapping: Domains, alliances, and rule spaces (Policy Brief No. EPINOVA-2026-PB-60). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.060"
+  ],
+  "recommended_citation": "Wu, S. (2026). Beyond Centrality: Conditional Connectivity and Boundary Control in Interdependent Networks (EPINOVA Working Paper No. EPINOVA–WP–T–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.01",
+  "citation_apa": "Wu, S. (2026). Beyond centrality: Conditional connectivity and boundary control in interdependent networks. EPINOVA Working Paper Series, EPINOVA-WP-T-2026-001. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.01.",
+  "short_citation": "Wu (2026), Beyond Centrality, EPINOVA–WP–T–2026–01.",
+  "imprint": {
+    "title": "EPINOVA Working Paper Series",
+    "series": "T-Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-08-31",
+    "pagination": "26 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Causal Architecture of Boundary-Conditioned Network Power",
+      "description": "Shows how structural position/target dependence and boundary-control rights/discretion jointly shape available leverage, leading to boundary action, admissible-capacity or effective-usability change, target response, network adaptation, and possible system transformation, with dashed arrows indicating longer-run feedback.",
+      "source": "Author’s conceptual synthesis drawing on Farrell and Newman (2019), Beaumier and Cartwright (2024), Schlager and Ostrom (1992), Hu et al. (2019), Holland (1992), and Meadows (2008)."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Positioning NBNS Relative to the Closest Literatures",
+      "description": "Compares NBNS with centrality/brokerage, weaponized interdependence, cross-network weaponization, multilayer/temporal networks, protocol/standards power, systems/complex adaptation, and ABAC.",
+      "source": "Author’s synthesis based on the closest literatures."
+    },
+    {
+      "number": "Table 2",
+      "title": "Illustrative Control-Rights Bundle",
+      "description": "Defines ownership, operation, authorization, veto/exclusion, rule setting, enforcement, and adjudication/override as separable rights.",
+      "source": "Author’s conceptual adaptation of Schlager and Ostrom (1992), supplemented by Hu et al. (2019)."
+    },
+    {
+      "number": "Table 3",
+      "title": "Core Concepts and Non-overlapping Analytical Questions",
+      "description": "Assigns distinct analytical questions to actor, node, boundary, rule, interface, control-rights bundle, network, and system.",
+      "source": "Author’s framework informed by network, access-control, control-rights, protocol, and systems literatures."
+    },
+    {
+      "number": "Table 4",
+      "title": "Distinguishing States, Actions, Adaptations, and Transformations",
+      "description": "Separates access states, boundary actions, network adaptations, and system transformations to avoid collapsing different causal stages.",
+      "source": "Author’s framework informed by Buldyrev et al. (2010), Holland (1992), and Meadows (2008)."
+    },
+    {
+      "number": "Table 5",
+      "title": "NBNS Coding of the Semiconductor-Control Walkthrough",
+      "description": "Applies NBNS coding to the A100/H100 semiconductor-control trace, separating actor/product/function/period, controller and control rights, rule conditions, implementation interface, boundary-state coding, admissible capacity and flow, observed supplier response, broader target adaptation, and alternative explanations/system outcome.",
+      "source": "U.S. Bureau of Industry and Security (2022, 2023); NVIDIA Corporation (2022a, 2022b, 2024); Goujon et al. (2022); Kleinhans et al. (2023); Allen (2024); and Beaumier and Cartwright (2024)."
+    },
+    {
+      "number": "Table 6",
+      "title": "Core Hypotheses of the NBNS Framework",
+      "description": "States four hypotheses: boundary-conditioned leverage, enforced selective access, concentration of implementation rights, and conditional rewiring.",
+      "source": "Author’s hypotheses derived from the NBNS mechanism and near-neighbor literatures."
+    },
+    {
+      "number": "Table 7",
+      "title": "Illustrative Operational Measures",
+      "description": "Maps structural position, rule condition, boundary state, control rights, admissible capacity, substitutability, target adaptation, system outcome, and strategic distance to possible indicators and evidence.",
+      "source": "Author’s operationalization drawing on network, access-control, control-rights, cascade, adaptation, and systems literatures."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This working paper presents theoretical and exploratory analysis intended to develop and examine conceptual frameworks for complex systems, networks, power, and structural transformation. It does not constitute legal advice, predictive assessment, or an official position of EPINOVA LLC or any affiliated institution. Any policy implications discussed are analytical in nature and should not be interpreted as institutional recommendations.",
+  "metadata_source": {
+    "source_file": "Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-08-31",
+    "last_updated": "2026-08-31",
+    "notes": "PDF supplied publication number, title, subtitle, author, ORCID, affiliation, date, abstract, keywords, T-Series information, recommended citation, disclaimer, introduction, theoretical baseline, NBNS core mechanism, equations (1)-(9), semiconductor export-control walkthrough, derived implications, AI illustration, hypotheses, operational measures, research designs, scope conditions, conclusion, research and source statement, references, Figure 1, and Tables 1-7. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 25-26 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "",
+    "creator": "",
+    "producer": "",
+    "creation_date": "",
+    "modification_date": "",
+    "pages": 26
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.t.2026.01",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-wp-t-2026-001/",
+    "crossref_doi_suffix": "epinova.wp.t.2026.01",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.t.2026.01",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.t.2026.01",
+    "registered_url": "https://publications.epinova.org/epinova-wp-t-2026-001/",
+    "registration_date": "2026-08-31",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  },
+  "title_normalized": "beyond centrality conditional connectivity and boundary control in interdependent networks",
+  "contributors": [],
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "previous_doi": "",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Working Paper Series - T-Series",
+    "series_code": "WP-T",
+    "series_number": "2026-001",
+    "series_description": "The WP-T series develops general theoretical frameworks for analyzing power, networks, systems, boundaries, and structural transformation across multiple domains. It emphasizes transferable concepts that can support later applied research in AI, governance, geopolitics, infrastructure, and security."
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Working Paper Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Near-neighbor theory used as a strong baseline for jurisdictional and institutional conversion of centrality into leverage"
+    },
+    {
+      "relation": "References",
+      "identifier": "Beaumier, G., & Cartwright, M. (2024). Cross-network weaponization in the semiconductor supply chain",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Near-neighbor theory used as a baseline for cross-network leverage in semiconductor supply chains"
+    },
+    {
+      "relation": "References",
+      "identifier": "Hu et al. (2019). Guide to attribute based access control",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Technical report",
+      "description": "Referenced for fine-grained subject/object/operation/environment authorization logic"
+    },
+    {
+      "relation": "References",
+      "identifier": "Schlager, E., & Ostrom, E. (1992). Property-rights regimes and natural resources",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for the bundle-of-rights logic adapted to boundary control"
+    },
+    {
+      "relation": "References",
+      "identifier": "NVIDIA Corporation. (2022a, 2022b, 2024)",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Corporate filings",
+      "description": "Used for the A100/H100 semiconductor-control coding walkthrough"
+    }
+  ],
+  "full_title": "Beyond Centrality: Conditional Connectivity and Boundary Control in Interdependent Networks",
+  "research_and_source_statement": "This article is a conceptual and theoretical study. It reports no newly collected participant-, firm-, or country-level dataset and does not present a validated quantitative NBNS index. The semiconductor section is an illustrative coding walkthrough built from public regulatory documents, corporate filings, and existing research; its product-time trace is not a causal estimate of the overall effectiveness of export controls. The author's earlier AI-power publications are treated as conceptual antecedents rather than independent validation. External source verification for this revision was conducted through August 30, 2026."
+}

@@ -129,6 +129,7 @@ WORKING_PAPER_SERIES_ORDER = [
     "F",
     "D",
     "A",
+    "T",
     "Other",
 ]
 
@@ -137,6 +138,7 @@ WORKING_PAPER_SERIES_LABELS = {
     "A": "WP-A — AI Strategic Nodes and Structural Governance",
     "D": "WP-D — Data Centers, Infrastructure, and Local Governance",
     "F": "WP-F — Conflict, Escalation, and Networked Warfare",
+    "T": "WP-T — Theory and Systems",
     "Other": "WP-Other — Other Working Papers",
 }
 

@@ -1250,6 +1250,7 @@ def working_paper_subcategory(meta: dict) -> tuple[str, str]:
         "E": "AI Economy, Firms, and Organizational Transformation",
         "F": "Networked Conflict, Security, and Strategic Systems",
         "G": "Maritime, Arctic, and Geostrategic Systems",
+        "T": "Theory & Systems",
     }
     legacy_subgroup_map = {"EPINOVA-WP-2025-001": "F"}
     if epinova_id in legacy_subgroup_map:
