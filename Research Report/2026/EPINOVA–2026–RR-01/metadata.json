@@ -1,0 +1,662 @@
+{
+  "epinova_id": "EPINOVA-RR-2026-001",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Research Report",
+  "category": "research-reports",
+  "publication_series": "EPINOVA Research Report Series",
+  "series_code": "RR",
+  "series_number": "2026-001",
+  "title": "India’s AI Power in a Distributed and Uneven Technological Order",
+  "subtitle": "Boundary Control, Strategic Autonomy, and Cognitive Security",
+  "publication_date": "2026-09-01",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.rr.2026.001",
+  "landing_page": "https://publications.epinova.org/epinova-rr-2026-001/",
+  "official_page": "https://epinova.org/research-reports",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "description": "Official EPINOVA research reports page"
+    },
+    {
+      "identifier": "EPINOVA–2026–RR-01",
+      "scheme": "EPINOVA research report number",
+      "description": "Research report number printed in the PDF"
+    },
+    {
+      "identifier": "India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "ANP",
+      "scheme": "Framework acronym",
+      "description": "AI National Power"
+    },
+    {
+      "identifier": "ABP",
+      "scheme": "Framework acronym",
+      "description": "AI Boundary Power"
+    },
+    {
+      "identifier": "Boundary autonomy",
+      "scheme": "Analytical concept",
+      "description": "Target-side ability to switch, bypass, substitute, diversify, or internalize when another actor controls a critical interface"
+    },
+    {
+      "identifier": "Cognitive security",
+      "scheme": "Application-domain lens",
+      "description": "Capacity to preserve trustworthy judgment, authenticated communication, operational continuity, and technological choice in an AI-mediated information environment"
+    },
+    {
+      "identifier": "India Power",
+      "scheme": "Attribution shorthand",
+      "description": "Nationally mobilizable AI capacity demonstrably available to or exercisable through Indian national systems"
+    },
+    {
+      "identifier": "Indian Power",
+      "scheme": "Attribution map shorthand",
+      "description": "Wider India-linked technological footprint associated with Indian-headquartered firms, Indian-origin professionals, and India-linked research or organizational networks"
+    }
+  ],
+  "description": "This research report examines India’s emerging AI power through the interaction of usable national capacity, technological dependence, boundary control, strategic autonomy, and cognitive security. It argues that India’s position is best understood as a distributed and vertically uneven mixed-control system: strong software capacity, digital public infrastructure, multilingual public technology, a large technical workforce, expanding compute access, and globally distributed technical networks coexist with dependence on externally controlled upstream technologies. The report distinguishes access from mobilizable capability, territorial presence from control, boundary power from boundary autonomy, and systemic influence from narrower bilateral effects. It concludes that India’s long-term AI power will depend on conversion, substitutability, resilient public infrastructure, selective boundary control, and the ability to preserve agency without full technological autarky.",
+  "abstract": "This research report examines India’s emerging AI power through the interaction of usable national capacity, technological dependence, boundary control, strategic autonomy, and cognitive security. Rather than treating AI power as equivalent to frontier-model performance, compute scale, or investment volume, it analyzes how technical, institutional, organizational, and infrastructural capabilities are converted into nationally usable power under conditions of uneven interdependence. India is used as a mechanism-rich case because substantial software capacity, digital public infrastructure, multilingual public technology, expanding compute access, and globally distributed technical networks coexist with continued dependence on externally controlled upstream technologies. The report distinguishes access from mobilizable capability, territorial presence from control, boundary power from boundary autonomy, and persistent systemic influence from narrower bilateral effects. It also examines how procurement, regulation, interoperability, substitution, and institutional conversion shape India’s ability to preserve agency without requiring full technological autarky. The report is based on publicly available evidence through August 31, 2026 and is intended as a theory-guided analytical study rather than a national AI ranking or predictive assessment.",
+  "keywords": [
+    "India",
+    "AI power",
+    "AI National Power",
+    "AI Boundary Power",
+    "ANP",
+    "ABP",
+    "boundary autonomy",
+    "strategic autonomy",
+    "cognitive security",
+    "technological dependence",
+    "digital public infrastructure",
+    "DPI",
+    "IndiaAI",
+    "BHASHINI",
+    "UPI",
+    "MOSIP",
+    "India Stack",
+    "semiconductor policy",
+    "Global Capability Centres",
+    "GCCs",
+    "AI compute",
+    "public procurement",
+    "payment data localization",
+    "synthetic media regulation",
+    "interoperability",
+    "systemic influence",
+    "boundary control",
+    "mixed control",
+    "technological sovereignty",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "India technology policy",
+    "Strategic studies",
+    "Technology sovereignty",
+    "Digital public infrastructure",
+    "Cognitive security",
+    "Semiconductor policy",
+    "Public procurement",
+    "Digital regulation",
+    "International political economy",
+    "Information integrity",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-09-01",
+      "date_type": "Issued",
+      "description": "Initial public release date printed in the PDF"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page and version history"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    },
+    {
+      "date": "2026-08-31",
+      "date_type": "Evidence cutoff",
+      "description": "Public evidence cutoff stated in the report"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Reports/2026/EPINOVA%E2%80%932026%E2%80%93RR-01/India%E2%80%99s%20AI%20Power%20in%20a%20Distributed%20and%20Uneven%20Technological%20Order%20Boundary%20Control%2C%20Strategic%20Autonomy%2C%20and%20Cognitive%20Security.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the research report",
+      "pages": 47
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Reports/2026/EPINOVA%E2%80%932026%E2%80%93RR-01",
+  "methodology": {
+    "framework_name": "AI Power, Boundary Autonomy, and Cognitive-Security Conversion Framework",
+    "source_basis": "Theory-guided single-country analytical case study based on publicly available legal, regulatory, parliamentary, central-bank, ministry, corporate first-party, peer-reviewed, industry, and high-quality news sources through August 31, 2026.",
+    "case_context": "India’s emerging AI power in a distributed and vertically uneven technological order, with attention to IndiaAI, BHASHINI, semiconductor conversion, Global Capability Centres, payment-data localization, India Stack, UPI, MOSIP, AI governance, and cognitive security.",
+    "core_problem": "The central analytical problem is how India can build, exercise, and preserve AI-related agency when ownership, infrastructure, knowledge, and technological control are distributed across national and transnational systems.",
+    "central_claims": [
+      "India’s AI power is vertically uneven rather than simply high or low.",
+      "Access to AI resources does not equal nationally usable power.",
+      "India’s strongest capabilities lie downstream and institutionally: software integration, GCCs, digital public infrastructure, public administration, multilingual AI, and a population-scale domestic market.",
+      "India remains dependent on externally controlled upstream technologies including advanced accelerators, semiconductor equipment, EDA, high-performance memory, cloud-management layers, and parts of the frontier-model ecosystem.",
+      "India’s strongest demonstrated boundary power lies in interfaces where Indian institutions possess enforceable jurisdiction or participation control.",
+      "Payment-data localization provides the clearest demonstrated effective ABP case.",
+      "Strategic autonomy under AI interdependence is better understood as selective autonomy and boundary autonomy than full technological autarky.",
+      "India’s DPI and MOSIP experience suggests that institutional architecture can diffuse internationally without India retaining control over foreign systems.",
+      "India’s AI-specific systemic influence remains emerging, while adjacent DPI influence is more mature.",
+      "Cognitive security requires multilingual verification, provenance, authentication, continuity, substitutability, redundant infrastructure, protected language resources, privacy, due process, proportionality, contestability, and oversight."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Usable National Capacity",
+        "description": "Assesses AI-relevant capabilities that the Indian national system can actually mobilize and sustain."
+      },
+      {
+        "name": "AI Boundary Power",
+        "description": "Assesses relational ability to alter the conditions under which other actors access, transfer, integrate, deploy, or use a resource or function."
+      },
+      {
+        "name": "Boundary Autonomy",
+        "description": "Assesses India’s ability to switch, bypass, substitute, diversify, or selectively internalize when another actor controls a critical interface."
+      },
+      {
+        "name": "Systemic Influence",
+        "description": "Assesses persistent and sufficiently broad effects across networks, rules, or future participation conditions."
+      },
+      {
+        "name": "Conversion",
+        "description": "Tracks how distributed resources across ownership, geography, and organizational boundaries become usable national capability."
+      },
+      {
+        "name": "Attribution Discipline",
+        "description": "Separates nationally mobilizable capacity from the wider India-linked technological footprint."
+      },
+      {
+        "name": "Cognitive-Security Stress Test",
+        "description": "Uses an illustrative information-shock scenario to evaluate integrity, provenance, authentication, multilingual capability, continuity, substitutability, and interface governance."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Territorial-Infrastructural Capacity",
+      "code": "ANP-TI",
+      "indicator_type": "AI National Power resource base",
+      "description": "Data centers, IndiaAI shared compute, NIC/MeghRaj, cloud regions, network proximity, and domestic hosting capacity.",
+      "observed_pattern": "Installed data-center capacity rose from about 375 MW in 2020 to about 1,575 MW by August 2026; IndiaAI shared capacity exceeded 45,000 GPUs by June 2026.",
+      "interpretation": "India’s territorial AI infrastructure is expanding, but India-located capacity does not equal sovereign compute or crisis-time substitutability."
+    },
+    {
+      "name": "Human-Epistemic Capacity",
+      "code": "ANP-HE",
+      "indicator_type": "AI National Power resource base",
+      "description": "Engineers, semiconductor designers, universities, expert communities, and global professional networks.",
+      "observed_pattern": "Government reporting cited industry estimates that India employed nearly 20% of the global semiconductor chip-design workforce and hosted about 7% of semiconductor-domain GCCs.",
+      "interpretation": "Large knowledge depth exists, but identity, location, or workforce share does not establish IP ownership or national mobilizability."
+    },
+    {
+      "name": "Economic-Industrial Capacity",
+      "code": "ANP-EI",
+      "indicator_type": "AI National Power resource base",
+      "description": "Software/IT services, Global Capability Centres, startups, domestic demand, and semiconductor projects.",
+      "observed_pattern": "India’s GCC sector was estimated at 2,117 centres, about 2.36 million professionals, and US$98.4 billion expected revenue in FY2025–26.",
+      "interpretation": "India has a large downstream conversion layer, but foreign-parent control and client orientation create mixed control."
+    },
+    {
+      "name": "Political-Administrative Mobilization",
+      "code": "ANP-PAM",
+      "indicator_type": "AI National Power conversion mechanism",
+      "description": "IndiaAI, compute subsidy, public AI pipeline, procurement, regulation, and implementation institutions.",
+      "observed_pattern": "Government-wide exercise identified 762 AI problem statements; IndiaAI progress summary reported 62 prototypes and 20 deployments.",
+      "interpretation": "Administrative conversion is visible, but discovery pipelines, prototypes, and deployed systems should not be treated as a single conversion funnel."
+    },
+    {
+      "name": "Cultural-Linguistic Fit",
+      "code": "ANP-CLF",
+      "indicator_type": "AI National Power conditioning variable",
+      "description": "Multilingual society, language resources, and public-language AI infrastructure.",
+      "observed_pattern": "BHASHINI supported 36 Indian text languages and 23 Indian voice languages, powered more than 800 government websites, and processed more than 24 million AI inferences per day.",
+      "interpretation": "Multilingual diversity becomes an AI-power asset only when institutional infrastructure can operate across it."
+    },
+    {
+      "name": "Payment-Data Localization",
+      "code": "ABP-PDL",
+      "indicator_type": "Demonstrated boundary power case",
+      "description": "RBI payment-data localization, audit, onboarding restriction, target compliance, and restored access.",
+      "observed_pattern": "Restrictions were imposed on payment firms for non-compliance and Mastercard access was restored after satisfactory compliance.",
+      "interpretation": "This is the clearest demonstrated effective state ABP case in the report."
+    },
+    {
+      "name": "IndiaAI Procurement Boundary",
+      "code": "ABP-IAC",
+      "indicator_type": "AI-specific operational procurement gate",
+      "description": "IndiaAI compute empanelment, pricing, service rules, provider obligations, SLAs, and user allocation.",
+      "observed_pattern": "Empanelled cloud service providers serve approved users under rules for hardware/software compatibility, accessibility, uptime, and provisioning.",
+      "interpretation": "Demonstrates an AI-specific operational gate but not payment-style coercive bargaining leverage."
+    },
+    {
+      "name": "Synthetic-Generated Information Rules",
+      "code": "ABP-SGI",
+      "indicator_type": "Formal regulatory boundary authority",
+      "description": "Duties for defined synthetic audio, visual, and audio-visual media, including labeling, metadata/identifier, and intermediary due diligence.",
+      "observed_pattern": "2026 duties were established, but no payment-like enforcement or realized platform-response sequence is shown through the evidence cutoff.",
+      "interpretation": "Formal boundary authority exists; effective ABP and realized effects remain unassessed."
+    },
+    {
+      "name": "Boundary Autonomy",
+      "code": "BA",
+      "indicator_type": "Strategic autonomy construct",
+      "description": "Switching, substitution, diversification, fallback, workload portability, provider choice, redesign, and selective internalization.",
+      "observed_pattern": "Provider diversity and routine compute allocation exist, but severe upstream disruption continuity is not publicly demonstrated.",
+      "interpretation": "India has stronger substitutability at service-provider and institutional layers than at frontier-hardware layers."
+    },
+    {
+      "name": "Systemic Influence",
+      "code": "SI",
+      "indicator_type": "Later outcome construct",
+      "description": "Persistent and sufficiently broad changes across networks, rules, or future participation conditions.",
+      "observed_pattern": "MOSIP and UPI show stronger adjacent-DPI diffusion; AI governance and standards influence remain earlier-stage.",
+      "interpretation": "India’s AI-specific systemic influence remains emerging rather than established at broad scale."
+    },
+    {
+      "name": "Cognitive Security",
+      "code": "CS",
+      "indicator_type": "Application-domain stress-test lens",
+      "description": "Integrity, provenance, authentication, multilingual capability, continuity, substitutability, and interface governance under AI-mediated information shock.",
+      "observed_pattern": "India has multilingual, compute, public-digital, regulatory, and Responsible AI components, but integrated nationwide performance under compound shock is not demonstrated.",
+      "interpretation": "Cognitive resilience is both a technical and institutional problem."
+    }
+  ],
+  "key_findings": [
+    "India’s AI power is vertically uneven: strong software, DPI, multilingual AI, technical talent, and expanding compute coexist with dependence on externally controlled upstream technologies.",
+    "Access does not equal usable power: IndiaAI shows that externally sourced compute can be converted into nationally organized capability through procurement, subsidy, allocation, and service rules without transferring ownership of the underlying technology.",
+    "Boundary power is strongest where India controls participation conditions, including payments regulation, public procurement, platform rules, and interoperability.",
+    "Strategic autonomy does not require full technological self-sufficiency; the more realistic objective is preserving switching, substitution, diversification, fallback, and selective internalization at critical interfaces.",
+    "Digital public infrastructure can diffuse without creating foreign control; India’s DPI and MOSIP experience suggests that open and customizable architectures can extend institutional influence while leaving operational ownership with adopting states.",
+    "Cognitive resilience depends on both technology and governance, combining multilingual verification, provenance, continuity, alternative providers, protected public infrastructure, privacy, contestability, due process, and oversight.",
+    "India’s long-term AI advantage will depend on conversion from technical access and distributed capabilities into durable, governable, and resilient national capacity.",
+    "The report separates nationally mobilizable capacity from the wider India-linked technological footprint to avoid attributing overseas or foreign-controlled capability to India without evidence.",
+    "India’s semiconductor position shows knowledge and design depth, but upstream dependencies in fabrication, EDA, equipment, advanced memory, and accelerator supply remain consequential.",
+    "AI-specific systemic influence remains less mature than adjacent DPI influence."
+  ],
+  "policy_recommendations": [
+    "Protect critical continuity and increase substitutability at externally controlled chokepoints.",
+    "Identify critical public workloads and specify minimum service levels, provider concentration limits, data/model exportability, fallback compute, migration time, and recovery objectives.",
+    "Deepen high-value conversion where India already has a large human and organizational base.",
+    "Track whether semiconductor design capability becomes owned IP, validated products, production, packaging, equipment/material competence, and resilient supplier relationships.",
+    "Evaluate GCC development by product ownership, R&D mandates, senior technical responsibility, and AI architecture rather than headcount alone.",
+    "Exercise and diffuse interface power only where evidence supports credible control or institutional attraction.",
+    "Distinguish formal rules from enforced target response and distinguish MoUs from operational foreign deployment.",
+    "Use open architectures to generate interoperability and institutional embeddedness without overstating foreign control.",
+    "Preserve privacy, due process, proportionality, appeal, contestability, and independent oversight in cognitive-security systems."
+  ],
+  "references": [
+    "Anthropic. (2026). Transparency Hub: Voluntary commitments. Retrieved August 31, 2026, from https://www.anthropic.com/transparency/voluntary-commitments",
+    "Arora, A., Arunachalam, V. S., Asundi, J., & Fernandes, R. (2001). The Indian software services industry. Research Policy, 30(8), 1267–1287. https://doi.org/10.1016/S0048-7333(00)00148-7",
+    "Athreye, S. S. (2005). The Indian software industry and its evolving service capability. Industrial and Corporate Change, 14(3), 393–418. https://doi.org/10.1093/icc/dth056",
+    "Bradford, A. (2020). The Brussels effect: How the European Union rules the world. Oxford University Press. https://doi.org/10.1093/oso/9780190088583.001.0001",
+    "Chandra, B., Dunietz, J., Roberts, K., Lee, Y., Fontana, P., & Awad, G. (2024). Reducing risks posed by synthetic content: An overview of technical approaches to digital content transparency (NIST AI 100-4). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.AI.100-4",
+    "Coalition for Content Provenance and Authenticity. (n.d.). C2PA and Content Credentials explainer (Version 2.2). Retrieved August 31, 2026, from https://spec.c2pa.org/specifications/specifications/2.2/explainer/Explainer.html",
+    "Edler, J., Blind, K., Kroll, H., & Schubert, T. (2023). Technology sovereignty as an emerging frame for innovation policy: Defining rationales, ends and means. Research Policy, 52(6), 104765. https://doi.org/10.1016/j.respol.2023.104765",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "IndiaAI. (2025). End-user policy for AI services on the cloud. Digital India Corporation, Ministry of Electronics and Information Technology. https://compute.indiaai.gov.in/files/end-user-policy.pdf",
+    "IndiaAI. (2026a). IndiaAI Cloud Computing Portal. Government of India. Retrieved August 31, 2026, from https://compute.indiaai.gov.in/",
+    "IndiaAI. (2026b). Service level agreement. Government of India. Retrieved August 31, 2026, from https://compute.indiaai.gov.in/sla",
+    "International Telecommunication Union. (2026). E.AIQ: Framework for quality evaluation of conversational AI (C-AI) system [ITU-T work item]. Retrieved August 31, 2026, from https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=20851",
+    "Ishwarbharath, S., & Suresh, H. (2026, May 6). India’s offshore tech hubs hit $98.4 bln revenue in FY26, nearing 2030 forecast, report says. Reuters. https://www.reuters.com/world/india/indias-offshore-tech-hubs-hit-984-bln-revenue-fy26-nearing-2030-forecast-report-2026-05-06/",
+    "Jayashankar, P., Johnston, W. J., & Sheth, J. (2025). Multilingualism as strategy—AI-enabled STP for inclusive market development in emerging economies. Marketing Strategy Journal, 4, 100011. https://doi.org/10.1016/j.msj.2025.100011",
+    "Jiang, M. (2024). Models of state digital sovereignty from the Global South: Diverging experiences from China, India and South Africa. Policy & Internet, 16(4), 727–738. https://doi.org/10.1002/poi3.427",
+    "Kaushik, H. (2026). India and digital sovereignty: Norm entrepreneurship in global digital governance. Asian Journal of Comparative Politics, 11(2), 135–161. https://doi.org/10.1177/20578911261419896",
+    "Kerr, W. R. (2008). Ethnic scientific communities and international technology diffusion. The Review of Economics and Statistics, 90(3), 518–537. https://doi.org/10.1162/rest.90.3.518",
+    "Lehdonvirta, V., Wu, B., Hawkins, Z. J., Caira, C., & Russo, L. (2025). Measuring domestic public cloud compute availability for artificial intelligence (OECD Artificial Intelligence Papers No. 49). OECD Publishing. https://doi.org/10.1787/8602a322-en",
+    "Migration Advisory Committee. (2025). Professionals in IT and engineering review. UK Government. https://www.gov.uk/government/publications/professionals-in-it-and-engineering-review/professionals-in-it-and-engineering-accessible",
+    "Ministry of Electronics and Information Technology. (2017). Guidelines for government departments for adoption/procurement of cloud services. Government of India. https://www.meity.gov.in/writereaddata/files/Guidelines-Procurement_Cloud_Services.pdf",
+    "Ministry of Electronics and Information Technology. (2026a). Annual report 2025–26. Government of India. https://www.meity.gov.in/static/uploads/2026/04/46face7d48c8f6a97030f713ad5fdab4.pdf",
+    "Ministry of Electronics and Information Technology. (2026b, February 10). Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026 (G.S.R. 120(E)). Government of India. https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf",
+    "Ministry of Interior, Morocco, & University Mohammed VI Polytechnic. (2026). Collaborations between governments and academic institutions to build capacity and provide L3 support. https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf",
+    "Monnappa, C. (2026, May 27). India’s GCC model shifts from cost to capability as AI, talent strains bite. Reuters. https://www.reuters.com/world/india/indias-gcc-model-shifts-cost-capability-ai-talent-strains-bite-2026-05-27/",
+    "MOSIP. (2021, May 31). The Philippine Statistics Authority (PSA) crosses critical milestones for the Philippine Identification System (PhilSys). https://www.mosip.io/news_events/the-philippine-statistics-authority-psa-crosses-critical-milestones-for-the-philippine-identification-system-philsys",
+    "MOSIP. (2022, February 23). Ethiopia’s National ID Program (NIDP) extends their partnership with MOSIP. https://www.mosip.io/news_events/ethiopia-s-national-id-program-nidp-extends-their-partnership-with-mosip",
+    "MOSIP. (2026a). Modular Open Source Identity Platform. Retrieved August 31, 2026, from https://www.mosip.io/",
+    "MOSIP. (2026b). MOSIP progress report 2026. https://connect.mosip.io/resources_pdf_2026/MOSIP_Progress_Report.pdf",
+    "Nanda, R., & Khanna, T. (2010). Diasporas and domestic entrepreneurs: Evidence from the Indian software industry. Journal of Economics & Management Strategy, 19(4), 991–1012. https://doi.org/10.1111/j.1530-9134.2010.00275.x",
+    "National Science Board. (2026). The state of U.S. science and engineering 2026. National Center for Science and Engineering Statistics, National Science Foundation. https://ncses.nsf.gov/pubs/nsbsep20261/stem-talent-education-training-and-workforce-2",
+    "NPCI International Payments Limited. (2025, July 16). NPCI International expands UPI–PayNow linkage to drive cross-border remittances [Press release]. https://www.nipl.com/uploads/NPCI_International_Expands_UPI_Pay_Now_Linkage_to_Drive_Cross_Border_Remittances_eafe4d399a.pdf",
+    "Parsheera, S. (2024). Stack is the new black?: Evolution and outcomes of the ‘India-Stackification’ process. Computer Law & Security Review, 52, 105947. https://doi.org/10.1016/j.clsr.2024.105947",
+    "Press Information Bureau. (2026a, February 19). Championing inclusive and multilingual AI for the Global South, India unveils New Delhi Frontier AI Commitments. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230201&lang=1&reg=3",
+    "Press Information Bureau. (2026b, August 5). Digital India BHASHINI Division conducts BHASHINI Rajyam workshop: Lucknow chapter to advance language-first digital governance in Uttar Pradesh. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294908&lang=2&reg=48",
+    "Press Information Bureau. (2026c, August 15). DLI Scheme-backed chip design startup Aheesa Digital Innovations achieved first-pass silicon success with VIHAAN. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299883&lang=1&reg=3",
+    "Press Information Bureau. (2026d, August 6). Government expands sovereign AI infrastructure through IndiaAI Mission and semiconductor initiatives. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295477&lang=1&reg=1",
+    "Press Information Bureau. (2026e, August 12). Government promotes sustainable growth of data centres through energy-efficient and clean energy measures. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298108&lang=1&reg=1",
+    "Press Information Bureau. (2026f, March 11). India AI Impact Summit 2026 witnessed extensive participation of public, with approximately 6 lakh attendees in person. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238195&lang=2&reg=48",
+    "Press Information Bureau. (2026g, March 13). India has emerged as a global hub for semiconductor design and R&D. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239608&lang=1&reg=3",
+    "Press Information Bureau. (2026h, July 29). India strengthens global digital cooperation through Digital Public Infrastructure partnerships with 24 countries. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291054&lang=1&reg=1",
+    "Press Information Bureau. (2026i, July 29). IndiaAI Mission advances AI-driven governance and public service delivery through collaborative roadmaps, innovation challenges and capacity building. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&lang=2&reg=48",
+    "Press Information Bureau. (2026j, August 14). Manufacturing momentum: Building a self-reliant India [Factsheet]. Government of India. https://www.pib.gov.in/FactsheetDetails.aspx?ModuleId=16&NoteId=150923&id=150923&lang=1&reg=6",
+    "Press Information Bureau. (2026k, August 13). Semiconductor and AI revolution [Factsheet]. Government of India. https://www.pib.gov.in/FactsheetDetails.aspx?Id=150860&lang=1&reg=3",
+    "Press Information Bureau. (2026l, August 24). UPI completes 10 years of digital payments revolution—Globally recognised as world’s largest real-time payment system. Government of India. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2302657&lang=1&reg=48",
+    "Raghunath, P. (2026). Big data discourses | Data in India’s digital public infrastructure (DPI): A deliberative policy ecology approach. International Journal of Communication, 20, 417–434. https://doi.org/10.65476/0s5f9h65",
+    "Reserve Bank of India. (2018, April 6). Storage of payment system data. https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11244",
+    "Reserve Bank of India. (2021a, April 23). RBI takes supervisory action on card networks—American Express Banking Corp. and Diners Club International Ltd. https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51471",
+    "Reserve Bank of India. (2021b, July 14). Reserve Bank of India takes supervisory action on Mastercard Asia/Pacific Pte. Ltd. https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51895",
+    "Reserve Bank of India. (2022, June 16). Reserve Bank of India lifts the business restrictions imposed on Mastercard Asia/Pacific Pte. Ltd. https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53877",
+    "Reserve Bank of India. (2023, February 21). UPI–PayNow linkage: Frequently asked questions. https://www.rbi.org.in/commonperson/english/Scripts/FAQs.aspx?Id=3415",
+    "Reserve Bank of India. (2024, October 18). Survey on computer software and information technology enabled services exports: 2023–24. https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58937",
+    "Royal Monetary Authority of Bhutan. (2026). Annual payment system report 2025. https://www.rma.org.bt/media/Publication/Payments%20%26%20Settlement%20Systems/Annual%20Payment%20System%20Report%202025.pdf",
+    "Tanner, B., Kerry, C. F., Wyckoff, A. W., Kyosovska, N., Renda, A., & Tabassi, E. (2026). Is AI sovereignty possible? Balancing autonomy and interdependence. Brookings Institution & Centre for European Policy Studies. https://www.brookings.edu/articles/is-ai-sovereignty-possible-balancing-autonomy-and-interdependence/",
+    "Venugopal, A., & Roy, M. (2026, May 25). Global firms rethink GCC hiring in India as AI shifts skill demand. Reuters. https://www.reuters.com/world/india/global-firms-rethink-gcc-hiring-india-ai-shifts-skill-demand-2026-05-25/",
+    "Wu, S. (2026). Two structures of AI power: National capacity, relational boundary control, and systemic influence in the emerging AI order (EPINOVA Working Paper No. EPINOVA–WP–T–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.002"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). India’s AI Power in a Distributed and Uneven Technological Order: Boundary Control, Strategic Autonomy, and Cognitive Security (Research Report No. EPINOVA–2026–RR-01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.001",
+  "citation_apa": "Wu, S. (2026). India’s AI power in a distributed and uneven technological order: Boundary control, strategic autonomy, and cognitive security. EPINOVA Research Report Series, EPINOVA-RR-2026-001. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.001.",
+  "short_citation": "Wu (2026), India’s AI Power in a Distributed and Uneven Technological Order, EPINOVA–2026–RR-01.",
+  "imprint": {
+    "title": "EPINOVA Research Report Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-09-01",
+    "pagination": "47 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Analytical Application of the AI Power Framework to India",
+      "description": "Shows ANP, ABP, and boundary autonomy as distinct parallel analytical objects, with systemic influence as a later outcome and cognitive security as an outer application-domain lens.",
+      "source": "Author’s synthesis from the definitions and coding rules specified in the report and Wu (2026)."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Territory × Organizational Control Map: Mobilizable Capacity, External Dependence, and the Wider India-Linked Footprint",
+      "description": "Maps nationally mobilizable core, domestic external dependence, external organizational extension, and wider India-linked footprint by location and primary organizational control.",
+      "source": "Author’s analytical classification based on the attribution rules in Section 2."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Cognitive-Security Architecture as an Illustrative Application-Domain Lens",
+      "description": "Maps integrity, provenance, authentication, multilingual capability, continuity, substitutability, and interface governance to the broader AI-power framework.",
+      "source": "Author’s synthesis based on Chandra et al. (2024), C2PA (n.d.), Wu (2026), PIB (2026b, 2026k), and MeitY (2026b)."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Role-Based Evidence Map for India’s AI National Power",
+      "description": "Applies the AI National Power role architecture to Indian evidence across territorial-infrastructural, human-epistemic, economic-industrial, political-administrative, cultural-linguistic, and normative-strategic categories.",
+      "source": "Author’s synthesis based on Wu (2026), Press Information Bureau (2026b, 2026d, 2026g, 2026i, 2026k), and Ministry of Electronics and Information Technology (2026a)."
+    },
+    {
+      "number": "Table 2",
+      "title": "Evidence-State Map of India’s Vertically Uneven AI Stack",
+      "description": "Distinguishes capability availability, national control, ownership, normal-time availability, administrative mobilizability, and disruption resilience across India’s AI stack.",
+      "source": "Author’s synthesis based on PIB (2026b, 2026c, 2026g, 2026j, 2026k), Ishwarbharath and Suresh (2026), and MeitY (2026a)."
+    },
+    {
+      "number": "Table 3",
+      "title": "Selected Indian AI-Relevant Boundary Relations",
+      "description": "Codes India-related boundary relations across payment data, IndiaAI cloud providers, digital intermediaries, government cloud providers, UPI interoperability, and frontier accelerator/equipment exposure.",
+      "source": "Author’s coding based on RBI (2018, 2021a, 2021b, 2022), MeitY (2017, 2026a, 2026b), IndiaAI (2025, 2026a, 2026b), and cases reviewed in the text."
+    },
+    {
+      "number": "Table 4",
+      "title": "Systemic-Influence Maturity of AI-Relevant and Adjacent Digital-Infrastructure Cases",
+      "description": "Assesses persistence, breadth, and maturity for RBI payment localization, UPI-PayNow, Bhutan iUPI/National QR, wider UPI foreign presence, India Stack cooperation, MOSIP, New Delhi Frontier AI Commitments, and ITU E.AIQ.",
+      "source": "Author’s assessment based on Wu (2026), Royal Monetary Authority of Bhutan (2026), PIB (2026f, 2026h), MOSIP (2026a, 2026b), Anthropic (2026), ITU (2026), Parsheera (2024), and Raghunath (2026)."
+    },
+    {
+      "number": "Table 5",
+      "title": "Illustrative Cognitive-Security Stress-Test Criteria",
+      "description": "Specifies hypothetical tests, evidence required for resilience claims, and current public-evidence status for integrity, provenance/authentication, multilingual coverage, continuity, substitutability, and interface governance.",
+      "source": "Author’s synthesis based on Chandra et al. (2024), C2PA (n.d.), MeitY (2026b), and capability evidence reviewed in Section 10."
+    },
+    {
+      "number": "Table 6",
+      "title": "Five Conversion Tests for India’s AI-Power Trajectory to 2030",
+      "description": "Operationalizes 2030 scenario monitoring through compute conversion, semiconductor conversion, GCC/organizational conversion, DPI external conversion, and cognitive-security conversion.",
+      "source": "Author’s analytical synthesis based on Wu (2026) and the evidence reviewed in the report."
+    },
+    {
+      "number": "Table A1",
+      "title": "Case-Level Evidence State and Main Coding",
+      "description": "Appendix table documenting observation periods, evidence states, and main coding for IndiaAI, NIC, RBI payment localization, IndiaAI provider empanelment, SGI rules, cloud procurement, UPI-PayNow, MOSIP, New Delhi commitments, cognitive security, BHASHINI, GCCs, semiconductor conversion, Bhutan iUPI, India Stack cooperation, and ITU E.AIQ.",
+      "source": "Author’s qualitative codebook."
+    },
+    {
+      "number": "Table A2",
+      "title": "Case-Level Limitations, Confidence, and Key Sources",
+      "description": "Appendix table documenting limitations, confidence judgments, and key sources for the principal cases and constructs.",
+      "source": "Author’s qualitative codebook and listed sources."
+    }
+  ],
+  "appendices": [
+    {
+      "title": "Appendix A. Qualitative Codebook and Case Evidence Matrix",
+      "description": "Provides case-level evidence states, maturity coding, limitations, confidence judgments, and key sources for the principal findings and case interpretations."
+    }
+  ],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This research report presents a theory-guided analytical assessment of India’s emerging AI power, technological dependence, boundary control, strategic autonomy, and cognitive security. The frameworks, classifications, and case interpretations developed in this report are intended as analytical and diagnostic tools. They should not be interpreted as definitive measures of national power, deterministic predictions, comprehensive assessments of technological sovereignty, or official evaluations of any government, firm, institution, or technology provider. Empirical claims are based on publicly available information and remain subject to source limitations, reporting gaps, changing institutional conditions, and further verification. The views expressed in this report are solely those of the author and do not necessarily represent the position of any external institution, government, organization, partner entity, or affiliated institution.",
+  "metadata_source": {
+    "source_file": "India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "notes": "PDF supplied title, author, date, report number, about-this-report statement, table of contents, executive summary, key findings, research design, evidence strategy, India ANP evidence map, vertically uneven AI stack, mobilizable capacity and wider India-linked footprint, conversion mechanism, selective ABP, boundary autonomy, systemic-influence maturity, cognitive-security stress-test lens, strategic implications, 2030 conversion tests, conclusion, Appendix A codebook, references, author and institutional affiliation, disclaimer, version history, citation recommendation, Figures 1-3, Tables 1-6, Table A1, and Table A2. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 40-43 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "",
+    "creator": "",
+    "producer": "",
+    "creation_date": "",
+    "modification_date": "",
+    "pages": 47
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.rr.2026.001",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-rr-2026-001/",
+    "crossref_doi_suffix": "epinova.rr.2026.001",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Research Report",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.rr.2026.001",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.rr.2026.001",
+    "registered_url": "https://publications.epinova.org/epinova-rr-2026-001/",
+    "registration_date": "2026-09-01",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  },
+  "title_normalized": "indias ai power in a distributed and uneven technological order boundary control strategic autonomy and cognitive security",
+  "contributors": [],
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "previous_doi": "",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Research Report Series",
+    "series_code": "RR",
+    "series_number": "2026-001",
+    "series_description": "The EPINOVA Research Report Series publishes longer-form analytical reports on AI governance, strategic competition, technological sovereignty, infrastructure, cognitive security, and institutional transformation."
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Research Report Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). Two structures of AI power",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Primary conceptual framework applied in this research report"
+    },
+    {
+      "relation": "References",
+      "identifier": "RBI payment-data localization sources, 2018–2022",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Regulatory documents",
+      "description": "Used for the demonstrated ABP case"
+    },
+    {
+      "relation": "References",
+      "identifier": "PIB IndiaAI and semiconductor sources, 2026",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Government releases and factsheets",
+      "description": "Used for IndiaAI compute, public AI deployment, semiconductor, BHASHINI, and DPI evidence"
+    },
+    {
+      "relation": "References",
+      "identifier": "MOSIP progress report 2026",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Institutional report",
+      "description": "Used for adjacent-DPI architecture-diffusion evidence"
+    },
+    {
+      "relation": "References",
+      "identifier": "Chandra et al. (2024) and C2PA (n.d.)",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Technical guidance",
+      "description": "Used for cognitive-security integrity, provenance, authentication, and transparency concepts"
+    }
+  ],
+  "full_title": "India’s AI Power in a Distributed and Uneven Technological Order: Boundary Control, Strategic Autonomy, and Cognitive Security",
+  "conversion_tests_2030": [
+    {
+      "test": "Compute Conversion",
+      "key_question": "Does headline access become resilient operational capacity?",
+      "evidence_to_track": "Operational compute; supplier concentration; portability; public fallback; crisis continuity",
+      "strategic_meaning": "ANP and boundary autonomy"
+    },
+    {
+      "test": "Semiconductor Conversion",
+      "key_question": "Does design depth move into owned products and production?",
+      "evidence_to_track": "Domestic IP; silicon validation; production; packaging; equipment/material depth",
+      "strategic_meaning": "Upstream autonomy and industrial capacity"
+    },
+    {
+      "test": "GCC/Organizational Conversion",
+      "key_question": "Does AI move India into higher-value functions?",
+      "evidence_to_track": "Product ownership; R&D mandates; AI architecture; senior technical roles; India-plus shifts",
+      "strategic_meaning": "Durability of India’s organizational advantage"
+    },
+    {
+      "test": "DPI External Conversion",
+      "key_question": "Does cooperation become repeated institutional embedding?",
+      "evidence_to_track": "Operational linkages; national rollouts; interoperability; rule adoption; persistence",
+      "strategic_meaning": "Systemic influence"
+    },
+    {
+      "test": "Cognitive-Security Conversion",
+      "key_question": "Do dispersed capabilities become an integrated resilience architecture?",
+      "evidence_to_track": "Provenance; authentication; multilingual verification; fallback; cross-platform crisis protocols",
+      "strategic_meaning": "Political-administrative conversion under stress"
+    }
+  ],
+  "version_history": [
+    {
+      "version": "1.0",
+      "date": "2026-09-01",
+      "description": "Initial public release as EPINOVA Research Report No. EPINOVA–2026–RR-01."
+    }
+  ]
+}

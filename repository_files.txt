@@ -1,7 +1,7 @@
-Working Paper/T/2026/EPINOVA–WP–T–2026–02/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
-Working Paper/T/2026/EPINOVA–WP–T–2026–02/metadata.json
-docs/epinova-wp-t-2026-002/index.html
-docs/files/epinova-wp-t-2026-002/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
+Research Report/2026/EPINOVA–2026–RR-01/India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf
+Research Report/2026/EPINOVA–2026–RR-01/metadata.json
+docs/epinova-rr-2026-001/index.html
+docs/files/epinova-rr-2026-001/India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -811,6 +811,8 @@ Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-M
 Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/metadata.json
+Working Paper/T/2026/EPINOVA–WP–T–2026–02/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
+Working Paper/T/2026/EPINOVA–WP–T–2026–02/metadata.json
 assets/global-ai-governance-logo.png
 doc/publication-manual.md
 docs/articles/archive/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
@@ -1537,6 +1539,7 @@ docs/epinova-wp-f-2026-07/index.html
 docs/epinova-wp-f-2026-08/index.html
 docs/epinova-wp-f-2026-09/index.html
 docs/epinova-wp-t-2026-001/index.html
+docs/epinova-wp-t-2026-002/index.html
 docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
 docs/files/epinova-2026-ja-01/The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf
 docs/files/epinova-bk-2026-001/cover.png
@@ -1678,6 +1681,7 @@ docs/files/epinova-wp-f-2026-07/Systemic Warfare in the Networked Age.pdf
 docs/files/epinova-wp-f-2026-08/Who Loses Control First.pdf
 docs/files/epinova-wp-f-2026-09/A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf
 docs/files/epinova-wp-t-2026-001/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
+docs/files/epinova-wp-t-2026-002/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
 docs/index-methodology-papers/index.html
 docs/index.html
 docs/journal-articles/index.html

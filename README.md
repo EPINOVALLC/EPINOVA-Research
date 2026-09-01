@@ -276,6 +276,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Research Reports
 
+- **EPINOVA-RR-2026-001** (2026-09-01)  
+  **India’s AI Power in a Distributed and Uneven Technological Order: Boundary Control, Strategic Autonomy, and Cognitive Security**  
+  Publication page: [https://epinova.org/research-reports](https://epinova.org/research-reports)  
+  DOI: [10.67037/epinova.rr.2026.001](https://doi.org/10.67037/epinova.rr.2026.001)  
+  Source folder: [`Research Report/2026/EPINOVA–2026–RR-01/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-01)  
+  Source PDF: [`India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-01/India%E2%80%99s%20AI%20Power%20in%20a%20Distributed%20and%20Uneven%20Technological%20Order%20Boundary%20Control%2C%20Strategic%20Autonomy%2C%20and%20Cognitive%20Security.pdf)
+
 - **EPINOVA-RR-2025-001** (2025-12-31)  
   **From Detection to Depletion: Cost-Exchange Limits in the Russia–Ukraine Drone War**  
   Publication page: [https://epinova.org/publications](https://epinova.org/publications)  
