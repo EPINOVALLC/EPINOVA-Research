@@ -358,6 +358,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-T — Theory and Systems
 
+- **EPINOVA-WP-T-2026-002** (2026-09-01)  
+  **Two Structures of AI Power: National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.t.2026.002](https://doi.org/10.67037/epinova.wp.t.2026.002)  
+  Source folder: [`Working Paper/T/2026/EPINOVA–WP–T–2026–02/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/T/2026/EPINOVA%E2%80%93WP%E2%80%93T%E2%80%932026%E2%80%9302)  
+  Source PDF: [`Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/T/2026/EPINOVA%E2%80%93WP%E2%80%93T%E2%80%932026%E2%80%9302/Two%20Structures%20of%20AI%20Power%20National%20Capacity%2C%20Relational%20Boundary%20Control%2C%20and%20Systemic%20Influence%20in%20the%20Emerging%20AI%20Order.pdf)
+
 - **EPINOVA-WP-T-2026-001** (2026-08-31)  
   **Beyond Centrality: Conditional Connectivity and Boundary Control in Interdependent Networks**  
   Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  

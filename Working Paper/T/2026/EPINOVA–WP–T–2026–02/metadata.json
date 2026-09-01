@@ -1,0 +1,566 @@
+{
+  "epinova_id": "EPINOVA-WP-T-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Working Paper",
+  "category": "working-papers",
+  "publication_series": "EPINOVA Working Paper Series",
+  "series_code": "WP-T",
+  "series_number": "2026-002",
+  "title": "Two Structures of AI Power",
+  "subtitle": "National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order",
+  "publication_date": "2026-09-01",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.wp.t.2026.002",
+  "landing_page": "https://publications.epinova.org/epinova-wp-t-2026-002/",
+  "official_page": "https://epinova.org/working-papers",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "description": "Official EPINOVA working papers page"
+    },
+    {
+      "identifier": "EPINOVA–WP–T–2026–02",
+      "scheme": "EPINOVA working paper number",
+      "description": "Working paper number printed in the PDF"
+    },
+    {
+      "identifier": "Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "ANP",
+      "scheme": "Framework acronym",
+      "description": "AI National Power"
+    },
+    {
+      "identifier": "ABP",
+      "scheme": "Framework acronym",
+      "description": "AI Boundary Power"
+    },
+    {
+      "identifier": "Boundary autonomy",
+      "scheme": "Analytical concept",
+      "description": "Target-side capacity to reduce exposure to another actor's boundary control through switching, bypass, substitution, localization, or internalization"
+    },
+    {
+      "identifier": "Systemic influence",
+      "scheme": "Analytical concept",
+      "description": "Persistent and sufficiently broad change in feasible option sets, network connections, or governing rules within a pre-specified domain"
+    }
+  ],
+  "description": "This working paper develops a two-structure framework for analyzing AI power in the emerging AI order. It distinguishes AI National Power, defined as the usable capacity of a national system to generate, mobilize, govern, and sustain AI-relevant resources, from AI Boundary Power, defined as an actor-level relational capacity to alter another actor's access to AI-relevant resources at a specified interface. The paper further separates boundary control from target-side boundary autonomy and from systemic influence as a later outcome. Through mechanism illustrations involving advanced-computing export controls and European Union AI regulation, it argues that national depth and boundary control are distinct but potentially complementary forms of AI power.",
+  "abstract": "Artificial intelligence competition is often measured through models, compute, investment, and adoption, yet these indicators conflate resources, relational leverage, and system-level outcomes. This article develops a two-structure framework that distinguishes AI National Power (ANP) from AI Boundary Power (ABP). ANP is the usable capacity of a national system to generate, mobilize, govern, and sustain AI-relevant resources. ABP is an actor-level relational capacity to alter the conditions under which another actor can obtain, transfer, integrate, deploy, or continue using an AI-relevant resource at a specified interface. The framework further separates boundary control from target-side boundary autonomy and from systemic influence as a later outcome. Through conceptual synthesis, operationalization, and mechanism illustrations involving advanced-computing export controls and European Union AI regulation, the article identifies effective control, interface criticality, enforceability, substitutability, and organizational conversion as key conditioning mechanisms. It argues that national depth and boundary control are distinct but potentially complementary forms of AI power. Their interaction helps explain why technologically capable states may remain externally constrained, why narrower actors can exercise consequential leverage, and why durable influence depends on more than possession of advanced AI.",
+  "keywords": [
+    "AI power",
+    "AI National Power",
+    "AI Boundary Power",
+    "ANP",
+    "ABP",
+    "national power",
+    "boundary power",
+    "boundary autonomy",
+    "systemic influence",
+    "technological interdependence",
+    "AI sovereignty",
+    "structural power",
+    "AI governance",
+    "compute",
+    "data",
+    "models",
+    "platforms",
+    "cloud infrastructure",
+    "technical standards",
+    "procurement",
+    "finance",
+    "security authorization",
+    "advanced-computing export controls",
+    "EU AI Act",
+    "Brussels Effect",
+    "target substitutability",
+    "organizational conversion",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "International political economy",
+    "Strategic studies",
+    "Technology sovereignty",
+    "Network power",
+    "Structural power",
+    "Digital regulation",
+    "Export controls",
+    "European Union AI regulation",
+    "Artificial intelligence policy",
+    "Power theory",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-09-01",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-09-01",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Papers/2026/EPINOVA%E2%80%93WP%E2%80%93T-2026-02/Two%20Structures%20of%20AI%20Power%20National%20Capacity%2C%20Relational%20Boundary%20Control%2C%20and%20Systemic%20Influence%20in%20the%20Emerging%20AI%20Order.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the working paper",
+      "pages": 17
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Papers/2026/EPINOVA%E2%80%93WP%E2%80%93T-2026-02",
+  "methodology": {
+    "framework_name": "Two-Structure AI Power Framework",
+    "source_basis": "Conceptual synthesis, operationalization, and mechanism-centered comparison using AI governance literature, technology-sovereignty research, network and structural power theory, regulatory power theory, export-control evidence, and European Union AI regulation.",
+    "case_context": "Theoretical framework development with bounded mechanism illustrations involving U.S. advanced-computing export controls and European Union general-purpose AI regulation.",
+    "core_problem": "The central analytical problem is how AI power should be conceptualized when national capability, control over consequential interfaces, target-side autonomy, and durable system-level effects do not coincide.",
+    "central_claims": [
+      "AI power should not be reduced to model benchmarks, compute, investment, or adoption because these indicators conflate resources, relational leverage, and outcomes.",
+      "AI National Power is a state-level construct concerning usable national capacity to generate, mobilize, govern, and sustain AI-relevant resources.",
+      "AI Boundary Power is a controller-target-interface-time relation concerning effective control over another actor's access to AI-relevant resources or functions.",
+      "Boundary autonomy is a target-side capacity to reduce exposure to another actor's boundary control.",
+      "Systemic influence is a later outcome and should not be inferred directly from high ANP or high ABP.",
+      "National depth and boundary control are distinct but potentially complementary forms of AI power.",
+      "Durable influence depends on organizational conversion, effective control, interface criticality, target substitutability, enforceability, adaptation, and network structure."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "AI National Power",
+        "description": "Assesses usable national-system capacity to generate, sustain, mobilize, govern, and convert AI-relevant resources into specified effects."
+      },
+      {
+        "name": "AI Boundary Power",
+        "description": "Assesses controller-target-interface-time relations in which an actor alters another actor's ability to obtain, transfer, integrate, deploy, or continue using AI-relevant resources."
+      },
+      {
+        "name": "Boundary Autonomy",
+        "description": "Assesses target-side switching, multi-homing, bypass, substitution, redesign, localization, and internalization capacity."
+      },
+      {
+        "name": "Systemic Influence",
+        "description": "Assesses persistent and sufficiently broad changes in feasible option sets, network connections, or governing rules in a pre-specified domain."
+      },
+      {
+        "name": "Organizational Conversion",
+        "description": "Assesses how resource stocks become usable national capability through coordination, procurement, authority, implementation institutions, and resilience."
+      },
+      {
+        "name": "Interface Control",
+        "description": "Assesses effective discretion, criticality, enforceability, and substitutability at AI-relevant boundaries."
+      },
+      {
+        "name": "Measurement Role Separation",
+        "description": "Separates resource inputs, conversion mechanisms, constructs, target autonomy, and later outcomes to reduce circularity."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "AI National Power",
+      "code": "ANP",
+      "indicator_type": "State-level capacity construct",
+      "description": "Usable capacity of a territorially and politically constituted national system to generate, sustain, mobilize, govern, and convert AI-relevant resources into economic, administrative, scientific, social, and strategic effects.",
+      "observed_pattern": "Resource bases include territorial-infrastructural capacity, human-epistemic capacity, and economic-industrial capacity; conversion depends on political-administrative mobilization.",
+      "interpretation": "Presence of assets is not equivalent to mobilizable national capability."
+    },
+    {
+      "name": "AI Boundary Power",
+      "code": "ABP",
+      "indicator_type": "Relational interface construct",
+      "description": "Effective capacity of an actor to change the conditions under which another actor can obtain, transfer, integrate, deploy, or continue using an AI-relevant resource or function at a specified interface.",
+      "observed_pattern": "Observed through licensing, pricing, authentication, filtering/throttling, interoperability, certification, standards, procurement, market access, denial, or termination.",
+      "interpretation": "ABP is a controller-target-interface-time relation rather than a generic actor-level stock."
+    },
+    {
+      "name": "Boundary Autonomy",
+      "code": "BA",
+      "indicator_type": "Target-side autonomy construct",
+      "description": "Capacity of a target to reduce exposure to another actor's boundary control through switching, multi-homing, bypass, substitution, redesign, localization, or internalization.",
+      "observed_pattern": "Greater pre-intervention substitutability should reduce subsequent access or deployment-capacity losses under comparable restrictions.",
+      "interpretation": "Boundary autonomy can reduce vulnerability without making the target a gatekeeper."
+    },
+    {
+      "name": "Systemic Influence",
+      "code": "SI",
+      "indicator_type": "Later outcome construct",
+      "description": "Persistent and sufficiently broad changes in other actors' feasible option sets, network connections, or governing rules within a pre-specified domain.",
+      "observed_pattern": "May appear as durable standards adoption, network rewiring, repeated architecture changes, supply-chain redesign, or compliance spillovers.",
+      "interpretation": "Systemic influence is not guaranteed by high ANP, high ABP, or one strong boundary intervention."
+    },
+    {
+      "name": "Effective Control",
+      "code": "EC",
+      "indicator_type": "ABP conditioning mechanism",
+      "description": "Actual discretion over relevant access conditions or terms.",
+      "observed_pattern": "Formal authority alone does not establish consequential ABP without discretion and implementation ability.",
+      "interpretation": "Control must be documented at the relevant interface."
+    },
+    {
+      "name": "Interface Criticality",
+      "code": "IC",
+      "indicator_type": "ABP conditioning mechanism",
+      "description": "Functional importance of the controlled interface for the target's intended task.",
+      "observed_pattern": "Restrictions matter more when the interface is difficult to avoid or replace for the target's use case.",
+      "interpretation": "A central interface may have low leverage if it is not critical to the target."
+    },
+    {
+      "name": "Substitutability",
+      "code": "SUB",
+      "indicator_type": "Target-side conditioning mechanism",
+      "description": "Availability, quality, cost, and timing of alternative routes, suppliers, standards, or internal capacity.",
+      "observed_pattern": "Higher switching costs and longer substitution times should increase restrictive boundary effects.",
+      "interpretation": "ABP rises as target substitutability decreases."
+    },
+    {
+      "name": "Enforceability",
+      "code": "ENF",
+      "indicator_type": "ABP conditioning mechanism",
+      "description": "Ability to enforce changed access conditions at acceptable political, legal, technical, or commercial cost.",
+      "observed_pattern": "Weak enforcement can reduce the realized effect of formally strong boundary conditions.",
+      "interpretation": "Legal rules are insufficient without practical enforcement."
+    }
+  ],
+  "key_findings": [
+    "AI competition is often measured through indicators that conflate resources, relational leverage, autonomy, and outcomes.",
+    "AI National Power and AI Boundary Power should be treated as distinct analytical structures.",
+    "ANP concerns usable national-system capacity, not simple possession of domestic AI assets.",
+    "ABP concerns relational control at a specified interface, not generic national or actor-level power.",
+    "Boundary autonomy belongs to the target side and should not be collapsed into boundary control.",
+    "Systemic influence is a later outcome requiring persistence and breadth.",
+    "National depth and boundary control can be complementary but are not jointly sufficient to guarantee systemic influence.",
+    "The European Union can exercise AI Boundary Power through market-access regulation even though ANP is reserved for states.",
+    "U.S. advanced-computing export controls illustrate compute-boundary control through jurisdiction, licensing, product coverage, and enforcement.",
+    "Product redesign and subsequent rule expansion illustrate that boundary power can migrate, persist, or dissipate depending on adjacent scarcity and target substitution.",
+    "Middle powers can build AI agency through selective capacity, boundary architecture, supplier diversification, interoperability, trusted partnerships, and fallback arrangements rather than full-stack autarky."
+  ],
+  "policy_recommendations": [
+    "Separate national AI capacity, interface-level boundary control, target-side autonomy, and systemic influence in AI power assessment.",
+    "Do not treat model benchmarks, compute totals, investment, or adoption as a single AI power leaderboard without specifying mechanism and unit of analysis.",
+    "Measure ANP by sector and time horizon through resource bases, mobilizability, organizational conversion, and usable capability.",
+    "Measure ABP through boundary maps that identify controller, target, interface, direction, time window, discretion, criticality, substitutability, and enforceability.",
+    "Treat boundary autonomy as a core resilience variable for states, firms, and institutions exposed to externally controlled AI interfaces.",
+    "Code systemic influence only when durable and broad changes are demonstrated within a pre-specified domain.",
+    "For middle powers, prioritize diversified suppliers, interoperable architectures, trusted partnerships, public digital infrastructure, standards expertise, and fallback arrangements rather than attempting full-stack autarky in every layer.",
+    "For regulators, distinguish jurisdictional ABP from proven system-level spillover and measure whether compliance architectures, product designs, or market-entry rules persist beyond initial implementation."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Research design",
+      "indicator": "Clear unit-of-analysis assignment for ANP, ABP, boundary autonomy, and systemic influence",
+      "analytical_purpose": "Prevents national capacity, relational leverage, and later outcomes from being collapsed into one variable."
+    },
+    {
+      "timeframe": "Research design",
+      "indicator": "Sector-specific definition of usable national AI capacity",
+      "analytical_purpose": "Avoids converting broad resource inventories into unsupported national scores."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Substitution time and switching cost after AI-relevant boundary restrictions",
+      "analytical_purpose": "Tests whether target-side substitutability conditions the effect of boundary power."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Evidence that resource stocks are converted into deployable sectoral AI capability",
+      "analytical_purpose": "Tests whether organizational conversion conditions ANP."
+    },
+    {
+      "timeframe": "Empirical testing",
+      "indicator": "Boundary erosion, redesign, or rule expansion across adjacent AI layers",
+      "analytical_purpose": "Tests whether boundary power migrates, persists, or dissipates after substitution."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "General-purpose AI model compliance under the EU AI Act and Commission enforcement after August 2, 2026",
+      "analytical_purpose": "Assesses whether EU jurisdictional ABP produces broader systemic influence or remains a market-access condition."
+    }
+  ],
+  "references": [
+    "Bradford, A. (2020). The Brussels effect: How the European Union rules the world. Oxford University Press. https://doi.org/10.1093/oso/9780190088583.001.0001",
+    "Bureau of Industry and Security. (2023, October 17). Commerce strengthens restrictions on advanced computing semiconductors, semiconductor manufacturing equipment, and supercomputing items to countries of concern. U.S. Department of Commerce. https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment",
+    "Castells, M. (2011). A network theory of power. International Journal of Communication, 5, 773–787. https://ijoc.org/index.php/ijoc/article/view/1136",
+    "Edler, J., Blind, K., Kroll, H., & Schubert, T. (2023). Technology sovereignty as an emerging frame for innovation policy: Defining rationales, ends and means. Research Policy, 52(6), 104765. https://doi.org/10.1016/j.respol.2023.104765",
+    "European Commission. (2026). Guidelines for providers of general-purpose AI models. Shaping Europe’s Digital Future. https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "European Parliament & Council of the European Union. (2024). Regulation (EU) 2024/1689 of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "International Energy Agency. (2025). Energy and AI. https://www.iea.org/reports/energy-and-ai",
+    "Kim, R. M., Kuehnert, B., Lazar, S., Singh, R., & Heidari, H. (2025). The AI Power Disparity Index: Toward a compound measure of AI actors’ power to shape the AI ecosystem. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 8(2), 1453–1464. https://doi.org/10.1609/aies.v8i2.36645",
+    "Kwok, J. C. Y. (2026). Data colonialism and Indigenous languages in AI: A critical review of existing initiatives and their struggles with data sovereignty. AI & Society, 41, 6719–6729. https://doi.org/10.1007/s00146-026-03091-w",
+    "Lehdonvirta, V., Wu, B., Hawkins, Z. J., Caira, C., & Russo, L. (2025). Measuring domestic public cloud compute availability for artificial intelligence (OECD Artificial Intelligence Papers No. 49). OECD Publishing. https://doi.org/10.1787/8602a322-en",
+    "Mann, M. (1984). The autonomous power of the state: Its origins, mechanisms and results. European Journal of Sociology, 25(2), 185–213. https://doi.org/10.1017/S0003975600004239",
+    "NVIDIA Corporation. (2025a). Annual report (Form 10-K), fiscal year ended January 26, 2025. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+    "NVIDIA Corporation. (2025b). Current report (Form 8-K), event reported April 9, 2025. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1045810/000104581025000082/nvda-20250409.htm",
+    "Papyshev, G., & Yarime, M. (2023). The state’s role in governing artificial intelligence: Development, control, and promotion through national strategies. Policy Design and Practice, 6(1), 79–102. https://doi.org/10.1080/25741292.2022.2162252",
+    "Radu, R. (2021). Steering the governance of artificial intelligence: National strategies in perspective. Policy and Society, 40(2), 178–193. https://doi.org/10.1080/14494035.2021.1929728",
+    "Stanford Institute for Human-Centered Artificial Intelligence. (2026). The AI Index 2026 annual report. Stanford University. https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf",
+    "Strange, S. (1988). States and markets. Pinter.",
+    "Tanner, B., Kerry, C. F., Wyckoff, A. W., Kyosovska, N., Renda, A., & Tabassi, E. (2026). Is AI sovereignty possible? Balancing autonomy and interdependence. Brookings Institution & Centre for European Policy Studies. https://www.brookings.edu/articles/is-ai-sovereignty-possible-balancing-autonomy-and-interdependence/",
+    "UN Trade and Development. (2025). Technology and innovation report 2025: Inclusive artificial intelligence for development. United Nations. https://unctad.org/publication/technology-and-innovation-report-2025",
+    "Woods, A. K. (2023). Digital sovereignty + artificial intelligence. In A. Chander & H. Sun (Eds.), Data sovereignty: From the digital silk road to the return of the state (pp. 115–136). Oxford University Press. https://doi.org/10.1093/oso/9780197582794.003.0006",
+    "Wu, S. (2026a). Beyond centrality: Conditional connectivity and boundary control in interdependent networks (EPINOVA Working Paper No. EPINOVA–WP–T–2026–01). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.01",
+    "Wu, S. (2026b). Beyond model capability: A system-level framework for AI power (Policy Brief No. EPINOVA–2026–PB–58). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.058"
+  ],
+  "recommended_citation": "Wu, Shaoyuan. (2026). Two Structures of AI Power: National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order (EPINOVA Working Paper No. EPINOVA–WP–T–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.002",
+  "citation_apa": "Wu, S. (2026). Two structures of AI power: National capacity, relational boundary control, and systemic influence in the emerging AI order. EPINOVA Working Paper Series, EPINOVA-WP-T-2026-002. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.002.",
+  "short_citation": "Wu (2026), Two Structures of AI Power, EPINOVA–WP–T–2026–02.",
+  "imprint": {
+    "title": "EPINOVA Working Paper Series",
+    "series": "T-Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-09-01",
+    "pagination": "17 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Analytical Architecture of AI Power",
+      "description": "Shows AI-system level capabilities, resources, permissions, and interfaces aggregating through specified mobilization rules into AI National Power, alongside the relational level of AI Boundary Power and Target Boundary Autonomy, with systemic influence as a later outcome.",
+      "source": "Author's framework."
+    },
+    {
+      "number": "Figure 2",
+      "title": "State Configurations in the National-Boundary Power Space",
+      "description": "Maps states across AI National Power and state AI Boundary Power, distinguishing dependent or peripheral states, domestically deep AI states, boundary-positioned states, and comprehensive AI power configurations.",
+      "source": "Author's analytical map."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Role-Based Architecture of AI National Power",
+      "description": "Separates territorial-infrastructural capacity, human-epistemic capacity, economic-industrial capacity, political-administrative mobilization, cultural-linguistic fit, and normative-strategic orientation by analytical role.",
+      "source": "Author's framework."
+    },
+    {
+      "number": "Table 2",
+      "title": "Analytical Axes and Relational Metadata for AI Boundaries",
+      "description": "Defines object/interface, control mechanism, application domain, and relational metadata for AI Boundary Power observations.",
+      "source": "Author's framework."
+    },
+    {
+      "number": "Table 3",
+      "title": "Measurement Roles and Illustrative Indicators",
+      "description": "Separates national resource inputs, national conversion mechanisms, conditioning variables, usable ANP, ABP relation, boundary autonomy, and systemic influence to reduce circularity.",
+      "source": "Author's framework."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This working paper presents theoretical and exploratory analysis intended to develop and examine conceptual frameworks for complex systems, networks, power, and structural transformation. It does not constitute legal advice, predictive assessment, or an official position of EPINOVA LLC or any affiliated institution. Any policy implications discussed are analytical in nature and should not be interpreted as institutional recommendations.",
+  "metadata_source": {
+    "source_file": "Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-09-01",
+    "last_updated": "2026-09-01",
+    "notes": "PDF supplied publication number, title, subtitle, author, ORCID, affiliation, date, executive summary, keywords, T-Series information, recommended citation, disclaimer, theoretical positioning, analytical architecture, AI National Power, AI Boundary Power, boundary autonomy, systemic influence, five propositions, measurement strategy, mechanism illustrations, implications for international order and middle-power strategy, limitations and research agenda, conclusion, references, Figure 1, Figure 2, and Tables 1-3. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 16-17 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "",
+    "author": "SY Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260901103652-04'00'",
+    "modification_date": "D:20260901103652-04'00'",
+    "pages": 17
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.wp.t.2026.002",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-wp-t-2026-002/",
+    "crossref_doi_suffix": "epinova.wp.t.2026.002",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Working Paper",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.wp.t.2026.002",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.wp.t.2026.002",
+    "registered_url": "https://publications.epinova.org/epinova-wp-t-2026-002/",
+    "registration_date": "2026-09-01",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  },
+  "title_normalized": "two structures of ai power national capacity relational boundary control and systemic influence in the emerging ai order",
+  "contributors": [],
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "previous_doi": "",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Working Paper Series - T-Series",
+    "series_code": "WP-T",
+    "series_number": "2026-002",
+    "series_description": "The WP-T series develops general theoretical frameworks for analyzing power, networks, systems, boundaries, and structural transformation across multiple domains. It emphasizes transferable concepts that can support later applied research in AI, governance, geopolitics, infrastructure, and security."
+  },
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/working-papers",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Working Paper Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026a). Beyond centrality: Conditional connectivity and boundary control in interdependent networks",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Working paper",
+      "description": "Referenced as the general conditional-connectivity and boundary-control framework adapted to AI-specific interfaces"
+    },
+    {
+      "relation": "References",
+      "identifier": "Bradford, A. (2020). The Brussels effect",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Book",
+      "description": "Referenced for regulatory power through market access"
+    },
+    {
+      "relation": "References",
+      "identifier": "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Journal article",
+      "description": "Referenced for jurisdictional and institutional conversion of network position into coercive leverage"
+    },
+    {
+      "relation": "References",
+      "identifier": "European Parliament & Council of the European Union. (2024). Regulation (EU) 2024/1689",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Regulation",
+      "description": "Referenced for EU AI Act general-purpose AI obligations"
+    },
+    {
+      "relation": "References",
+      "identifier": "NVIDIA Corporation. (2025a, 2025b)",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Corporate filings",
+      "description": "Used for the advanced-computing export-control mechanism illustration"
+    }
+  ],
+  "full_title": "Two Structures of AI Power: National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order",
+  "propositions": [
+    {
+      "code": "P1",
+      "title": "Substitutability conditions restrictive boundary effects",
+      "statement": "For comparably exposed targets facing restrictions of similar severity and functional scope, higher pre-intervention switching costs and longer substitution times should be associated with larger subsequent losses of deployment capacity."
+    },
+    {
+      "code": "P2",
+      "title": "Organizational conversion conditions national capacity",
+      "statement": "Holding technical resource stocks approximately constant, states with stronger lawful coordination, procurement, implementation, and mobilization capacity should convert a larger share of those resources into usable sectoral AI capability."
+    },
+    {
+      "code": "P3",
+      "title": "National depth and state boundary power are complementary but not jointly sufficient",
+      "statement": "Among states compared over the same sector, target set, and time window, the marginal association between ANP and the breadth and durability of external influence should increase as effective state ABP rises, while high ANP and high ABP at an initial time do not guarantee systemic influence."
+    },
+    {
+      "code": "P4",
+      "title": "Boundary autonomy reduces vulnerability",
+      "statement": "Among targets facing restrictions of similar severity, greater pre-intervention switching, bypass, substitution, or internalization capacity should be associated with smaller subsequent losses of access or deployment capacity."
+    },
+    {
+      "code": "P5",
+      "title": "Boundary erosion can produce migration or dissipation of power",
+      "statement": "When substitution reduces control at one AI layer, leverage should move to an adjacent interface only if that interface remains scarce and consequential; otherwise, overall boundary power should decline rather than automatically migrate."
+    }
+  ]
+}
