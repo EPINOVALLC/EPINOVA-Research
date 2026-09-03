@@ -296,6 +296,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-F — Conflict, Escalation, and Networked Warfare
 
+- **EPINOVA-WP-F-2026-012** (2026-09-03)  
+  **The Decoupling of Geographic and Strategic Distance: Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.f.2026.012](https://doi.org/10.67037/epinova.wp.f.2026.012)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–12/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9312)  
+  Source PDF: [`The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9312/The%20Decoupling%20of%20Geographic%20and%20Strategic%20Distance%20Homeland%20Vulnerability%2C%20Effect%20Projection%2C%20and%20System%20Defense%20in%20Networked%20Warfare.pdf)
+
 - **EPINOVA-WP-F-2026-011** (2026-06-18)  
   **From Wartime Leverage to Post-MOU State Capacity: Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing**  
   Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
@@ -309,13 +316,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.wp.f.2026.010](https://doi.org/10.67037/epinova.wp.f.2026.010)  
   Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–10/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310)  
   Source PDF: [`The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310/The%20War%20That%20Measured%20America%20Why%20Washington%20Entered%20the%20U.S.%E2%80%93Iran%20Conflict%2C%20What%20It%20Revealed%2C%20and%20How%20It%20Accelerated%20a%20Eurasian%20Counter-System.pdf)
-
-- **EPINOVA-WP-F-2026-009** (2026-03-20)  
-  **A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict**  
-  Publication page: [https://doi.org/10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
-  Temporary archival DOI: [10.5281/zenodo.19139977](https://doi.org/10.5281/zenodo.19139977)  
-  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–09/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309)  
-  Source PDF: [`A Systemic Theory of Escalation and the Loss-of-Control Threshold in Networked Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9309/A%20Systemic%20Theory%20of%20Escalation%20and%20the%20Loss-of-Control%20Threshold%20in%20Networked%20Conflict.pdf)
 
 #### WP-D — Data Centers, Infrastructure, and Local Governance
 
