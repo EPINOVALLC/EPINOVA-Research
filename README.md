@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-071** (2026-09-07)  
+  **The Machine Audience of War: AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.071](https://doi.org/10.67037/epinova.pb.2026.071)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-71/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71)  
+  Source PDF: [`The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71/The%20Machine%20Audience%20of%20War%20AI-Generated%20Video%2C%20Narrative%20Occupancy%2C%20and%20Machine-Mediated%20Information%20Competition%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
+
 - **EPINOVA-PB-2026-070** (2026-08-28)  
   **Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.067](https://doi.org/10.67037/epinova.pb.2026.067)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-67/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-67)  
   Source PDF: [`Rerouting the Gulf Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-67/Rerouting%20the%20Gulf%20Bypass%20Infrastructure%20and%20the%20Changing%20Strategic%20Value%20of%20the%20Strait%20of%20Hormuz.pdf)
-
-- **EPINOVA-PB-2026-066** (2026-08-06)  
-  **The Evolving Structure of the U.S.–Iran–Israel Conflict: MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.066](https://doi.org/10.67037/epinova.pb.2026.066)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-66/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66)  
-  Source PDF: [`The Evolving Structure of the U.S.–Iran–Israel Conflict MCEA and NMF Analysis of Analytical Days 1–159 Using MCCM v2.3.4.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-66/The%20Evolving%20Structure%20of%20the%20U.S.%E2%80%93Iran%E2%80%93Israel%20Conflict%20MCEA%20and%20NMF%20Analysis%20of%20Analytical%20Days%201%E2%80%93159%20Using%20MCCM%20v2.3.4.pdf)
 
 ---
 

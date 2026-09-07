@@ -1,7 +1,7 @@
-Working Paper/F/2026/PINOVA–WP–F–2026–12/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
-Working Paper/F/2026/PINOVA–WP–F–2026–12/metadata.json
-docs/epinova-wp-f-2026-012/index.html
-docs/files/epinova-wp-f-2026-012/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
+Policy Brief/2026/EPINOVA–2026–PB-71/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-71/metadata.json
+docs/epinova-pb-2026-071/index.html
+docs/files/epinova-pb-2026-071/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -811,6 +811,8 @@ Working Paper/F/2026/PINOVA–WP–F–2026–10/The War That Measured America W
 Working Paper/F/2026/PINOVA–WP–F–2026–10/metadata.json
 Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
 Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
+Working Paper/F/2026/PINOVA–WP–F–2026–12/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
+Working Paper/F/2026/PINOVA–WP–F–2026–12/metadata.json
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/metadata.json
 Working Paper/T/2026/EPINOVA–WP–T–2026–02/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
@@ -1533,6 +1535,7 @@ docs/epinova-wp-f-2026-009/index.html
 docs/epinova-wp-f-2026-01/index.html
 docs/epinova-wp-f-2026-010/index.html
 docs/epinova-wp-f-2026-011/index.html
+docs/epinova-wp-f-2026-012/index.html
 docs/epinova-wp-f-2026-02/index.html
 docs/epinova-wp-f-2026-03/index.html
 docs/epinova-wp-f-2026-04/index.html
@@ -1676,6 +1679,7 @@ docs/files/epinova-wp-f-2026-009/A Systemic Theory of Escalation and the Loss-of
 docs/files/epinova-wp-f-2026-01/When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf
 docs/files/epinova-wp-f-2026-010/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
 docs/files/epinova-wp-f-2026-011/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
+docs/files/epinova-wp-f-2026-012/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
 docs/files/epinova-wp-f-2026-02/Derivative-State Drift.pdf
 docs/files/epinova-wp-f-2026-03/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
 docs/files/epinova-wp-f-2026-04/Losing the Narrative.pdf

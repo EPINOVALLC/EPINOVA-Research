@@ -1,0 +1,519 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-071",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-071",
+  "title": "The Machine Audience of War",
+  "subtitle": "AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict",
+  "full_title": "The Machine Audience of War: AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict",
+  "title_normalized": "the machine audience of war ai-generated video narrative occupancy and machine-mediated information competition in the us-israel-iran conflict",
+  "publication_date": "2026-09-07",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.071",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-071/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA policy brief page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–71",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Narrative occupancy",
+      "scheme": "Analytical concept",
+      "description": "Persistent representation of a specific claim, interpretation, or actor relationship across machine-accessible information objects over time"
+    },
+    {
+      "identifier": "Machine addressability",
+      "scheme": "Analytical concept",
+      "description": "Degree to which an information object can be discovered, parsed, and retrieved by automated systems"
+    },
+    {
+      "identifier": "Machine audience",
+      "scheme": "Analytical concept",
+      "description": "Non-human systems that consume, index, retrieve, classify, summarize, recommend, or mediate political information"
+    },
+    {
+      "identifier": "Epistemic compression",
+      "scheme": "Analytical concept",
+      "description": "Loss of distinctions among event, claim, depiction, simulation, allegation, denial, and verification during repeated representation or summarization"
+    }
+  ],
+  "description": "This policy brief examines AI-generated video in the U.S.–Israel–Iran conflict through the concepts of narrative occupancy, machine addressability, and machine audience. It argues that synthetic wartime media should not be assessed only by whether it persuades or deceives human audiences. As search systems, retrieval pipelines, large language models, and AI agents increasingly mediate digital information, synthetic content may remain discoverable and retrievable beyond its period of direct human attention. The brief analyzes three illustrative cases: Iranian state-linked synthetic mobilization, President Donald Trump’s Kharg Island post as synthetic battlefield representation, and Prime Minister Benjamin Netanyahu’s AI-generated campaign video as relational fabrication. It concludes that the central policy challenge is not only detecting synthetic media, but preserving distinctions among what occurred, what was claimed, what was depicted, and what was generated across machine-mediated information systems.",
+  "abstract": "AI-generated video in the U.S.–Israel–Iran conflict should be assessed not only by its ability to persuade or deceive human audiences. As search systems, retrieval pipelines, large language models, and AI agents increasingly mediate digital information, synthetic content may remain retrievable beyond its period of direct human attention. This policy brief introduces narrative occupancy, the persistent representation of a claim or association across machine-accessible information objects, and machine addressability, the degree to which such information can be discovered, parsed, and retrieved by automated systems. Together, these concepts extend information-warfare analysis from human attention toward machine-mediated information competition. The brief analyzes three illustrative cases: Iranian state-linked synthetic mobilization, President Donald Trump’s Kharg Island post as synthetic battlefield representation, and Prime Minister Benjamin Netanyahu’s AI-generated campaign video as relational fabrication. It emphasizes that machine accessibility should not be confused with retrieval, acceptance, influence, or proof of agent-directed intent. The policy problem extends beyond deepfake detection: machine-mediated systems must preserve distinctions among an event, a depiction, an allegation, a denial, and independently verified evidence.",
+  "keywords": [
+    "AI-generated video",
+    "synthetic media",
+    "machine audience",
+    "narrative occupancy",
+    "machine addressability",
+    "epistemic compression",
+    "machine-mediated information competition",
+    "information warfare",
+    "deepfakes",
+    "synthetic political representation",
+    "relational fabrication",
+    "synthetic mobilization",
+    "synthetic battlefield representation",
+    "U.S.–Israel–Iran conflict",
+    "Iran",
+    "Israel",
+    "United States",
+    "Kharg Island",
+    "Donald Trump",
+    "Benjamin Netanyahu",
+    "Mojtaba Khamenei",
+    "C2PA",
+    "provenance",
+    "retrieval systems",
+    "AI agents",
+    "MCCM",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Information warfare",
+    "AI governance",
+    "Synthetic media",
+    "Strategic communication",
+    "Political communication",
+    "Cognitive security",
+    "Digital provenance",
+    "Conflict monitoring",
+    "Machine-mediated information systems",
+    "International security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-09-07",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-09-07",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-09-07",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-09-07",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    },
+    {
+      "date": "2026-09-06T12:00:00-04:00",
+      "date_type": "Analytical cutoff",
+      "description": "Analytical cutoff stated in the policy brief"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71/The%20Machine%20Audience%20of%20War%20AI-Generated%20Video%2C%20Narrative%20Occupancy%2C%20and%20Machine-Mediated%20Information%20Competition%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-071",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, geopolitics, emerging security, systemic risk, information conflict, AI governance, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Narrative Occupancy, Machine Addressability, and Machine Audience Framework",
+    "source_basis": "Exploratory, mechanism-oriented policy assessment based on publicly available reporting, research literature on deepfakes and synthetic media, AI-agent and crawler analysis, C2PA provenance specifications, Cloudflare automated traffic analysis, CSIS and Brookings conflict-information analysis, and EPINOVA MCCM-related conflict-monitoring work.",
+    "case_context": "AI-generated political and wartime video in the U.S.–Israel–Iran conflict, with three illustrative cases: Iranian state-linked synthetic mobilization, Trump’s Kharg Island post, and Netanyahu’s AI-generated campaign video.",
+    "core_problem": "The central analytical problem is whether synthetic wartime claims can remain machine-accessible after direct human attention declines, and whether automated systems preserve evidentiary status when retrieving, summarizing, and re-presenting contested information.",
+    "central_claims": [
+      "AI-generated wartime video should be assessed not only by human persuasion or deception, but also by machine-mediated persistence and retrieval.",
+      "Narrative occupancy describes persistent representation of a claim, interpretation, or actor relationship across machine-accessible information objects over time.",
+      "Machine addressability describes discoverability, parsability, and retrievability by automated systems, not proof of acceptance, influence, or downstream action.",
+      "Machine audience is analytical shorthand for heterogeneous non-human systems, including crawlers, search indexes, retrieval systems, language models, recommendation systems, and AI agents.",
+      "Synthetic political representation can compress grievances, visualize unverified battlefield outcomes, or fabricate relationships even when not accepted as authentic evidence.",
+      "The central integrity challenge is preservation of distinctions among event, claim, depiction, simulation, allegation, denial, correction, and verification.",
+      "The evidence does not justify adding a new quantified MCCM indicator; synthetic-content production should be tracked as an input to existing narrative-amplification and information-distortion mechanisms."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Narrative Occupancy",
+        "description": "Tracks persistence of claims, interpretations, or actor relationships across machine-accessible information objects over time."
+      },
+      {
+        "name": "Machine Addressability",
+        "description": "Assesses whether information can be discovered, parsed, and retrieved by automated systems while distinguishing accessibility from influence."
+      },
+      {
+        "name": "Machine Audience",
+        "description": "Treats crawlers, search systems, retrieval tools, language models, recommendation systems, and agents as heterogeneous intermediaries of political information."
+      },
+      {
+        "name": "Synthetic Political Representation",
+        "description": "Assesses how generative media visually constructs events, relationships, coalitions, or imagined outcomes."
+      },
+      {
+        "name": "Epistemic Status Preservation",
+        "description": "Evaluates whether systems preserve distinctions among what occurred, what was claimed, what was depicted, and what was verified."
+      },
+      {
+        "name": "MCCM Monitoring Integration",
+        "description": "Treats synthetic-content observations as provenance-rich inputs to narrative warfare monitoring without prematurely creating a new quantified indicator."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Narrative Occupancy",
+      "code": "NO",
+      "indicator_type": "Information persistence construct",
+      "description": "Persistent representation of a specific claim, interpretation, or actor relationship across machine-accessible information objects over time.",
+      "observed_pattern": "Synthetic artifacts can generate derivative reporting, screenshots, transcripts, commentary, fact-checks, and machine-generated summaries.",
+      "interpretation": "Occupancy is not persuasion, dominance, or propaganda success."
+    },
+    {
+      "name": "Temporal Persistence",
+      "code": "NO-TP",
+      "indicator_type": "Narrative occupancy dimension",
+      "description": "Whether the proposition remains retrievable across multiple observation points.",
+      "interpretation": "Persistence should be measured separately from engagement."
+    },
+    {
+      "name": "Source Lineage",
+      "code": "NO-SL",
+      "indicator_type": "Narrative occupancy dimension",
+      "description": "Distinguishes independent sources from derivative reporting, reposts, or summaries originating from the same artifact.",
+      "interpretation": "Repeated references may not equal independent corroboration."
+    },
+    {
+      "name": "Stance and Epistemic Status",
+      "code": "NO-SES",
+      "indicator_type": "Narrative occupancy dimension",
+      "description": "Distinguishes assertion, quotation, denial, satire, correction, verification, depiction, and simulation.",
+      "interpretation": "Entity co-occurrence should not be treated as occupancy of the same claim."
+    },
+    {
+      "name": "Machine Addressability",
+      "code": "MA",
+      "indicator_type": "Machine access construct",
+      "description": "Degree to which an information object can be discovered, parsed, and retrieved by automated systems.",
+      "observed_pattern": "Crawling and indexing create machine accessibility but do not prove retrieval, acceptance, model incorporation, influence, or action.",
+      "interpretation": "Addressability is descriptive rather than optimization-oriented."
+    },
+    {
+      "name": "Machine Audience",
+      "code": "MACH-AUD",
+      "indicator_type": "Mediation construct",
+      "description": "Non-human systems that serve as intermediate consumers and processors of political information.",
+      "observed_pattern": "Includes crawlers, search indexes, recommendation systems, retrieval-augmented generation systems, language models, and AI agents.",
+      "interpretation": "Machine audience is heterogeneous and should not be treated as a single interpreting subject."
+    },
+    {
+      "name": "Epistemic Compression",
+      "code": "ECOMP",
+      "indicator_type": "Integrity risk mechanism",
+      "description": "Loss of distinctions among event, claim, depiction, simulation, allegation, denial, and verification during repeated representation or summarization.",
+      "observed_pattern": "A qualified report about an AI-generated depiction may be summarized later as though the depicted event occurred.",
+      "interpretation": "Qualification, provenance, negation, and source dependence are substantive information."
+    },
+    {
+      "name": "Synthetic Mobilization",
+      "code": "SM",
+      "indicator_type": "Synthetic representation function",
+      "description": "Use of generative media to compress grievances, identities, histories, and political targets into a mobilizing frame.",
+      "case": "Iranian state-linked video ending with “One vengeance for all.”"
+    },
+    {
+      "name": "Synthetic Battlefield Representation",
+      "code": "SBR",
+      "indicator_type": "Synthetic representation function",
+      "description": "Visualization of a threatened, imagined, or unverified battlefield outcome without waiting for physical evidence.",
+      "case": "Trump’s Kharg Island post."
+    },
+    {
+      "name": "Relational Fabrication",
+      "code": "RF",
+      "indicator_type": "Synthetic representation function",
+      "description": "Synthetic depiction of distinct actors as participating in a shared interaction or coordinated relationship not established by independent evidence.",
+      "case": "Netanyahu AI-generated campaign video."
+    }
+  ],
+  "key_findings": [
+    "Generative AI is lowering the cost and increasing the speed and scale of wartime narrative production.",
+    "The U.S.–Israel–Iran conflict illustrates synthetic mobilization, synthetic battlefield representation, and relational fabrication as overlapping analytical functions.",
+    "Human attention is an incomplete measure of information availability in an environment mediated by search, retrieval, language models, and AI agents.",
+    "Machine addressability should not be confused with retrieval, acceptance, model incorporation, influence, or downstream action.",
+    "Narrative occupancy is an observable property of information persistence rather than evidence of persuasion or propaganda success.",
+    "Correction can improve epistemic accuracy if systems preserve negation, provenance, and source dependence, but can reinforce erroneous association if qualifiers are lost.",
+    "Synthetic artifacts should remain evidentially distinct from verified physical events, recoverable evidence, technical data, and reliable independent reporting.",
+    "Epistemic compression is a key risk when event, claim, depiction, simulation, allegation, denial, and verification collapse during derivative processing.",
+    "The current evidence does not demonstrate deliberate machine-targeted propaganda, agent-directed intent, or actual downstream machine retrieval in the examined cases.",
+    "Synthetic-content production should be tracked within MCCM as a provenance-rich input to existing narrative-amplification and information-distortion mechanisms rather than a new quantified indicator at this stage."
+  ],
+  "policy_recommendations": [
+    "Complement reach, engagement, and sentiment monitoring with limited retrieval-oriented testing of machine-mediated visibility.",
+    "Preserve source attribution, evidentiary qualification, correction, negation, and source dependence when automated systems handle contested wartime claims.",
+    "Treat terms such as claimed, depicted, AI-generated, denied, and independently verified as substantive information rather than stylistic qualifiers.",
+    "Extend provenance practices beyond original media assets into screenshots, transcripts, quotations, news reports, and machine-generated summaries.",
+    "Test whether systems can identify derivative references that originate from a single synthetic artifact rather than treating repetition as independent corroboration.",
+    "Maintain a minimal monitoring record for synthetic-content tracking, including original artifact and publication date, claim/depicton/denial/verification status, original source and derivative lineage, retrieval date/system/query, and whether qualification was preserved in output.",
+    "Avoid treating machine accessibility as machine belief or measured influence without separate evidence of retrieval, incorporation, output generation, or downstream action."
+  ],
+  "monitoring_record_fields": [
+    {
+      "field": "Original artifact and publication date",
+      "analytical_purpose": "Fix the object of analysis"
+    },
+    {
+      "field": "Claim, depiction, denial, or verification status",
+      "analytical_purpose": "Preserve epistemic qualification"
+    },
+    {
+      "field": "Original source and derivative lineage",
+      "analytical_purpose": "Avoid duplicate corroboration"
+    },
+    {
+      "field": "Retrieval date, system, and query",
+      "analytical_purpose": "Support reproducibility"
+    },
+    {
+      "field": "Qualification preserved in output?",
+      "analytical_purpose": "Detect epistemic-status loss"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wirtschafter, V. (2026). Generative AI as a weapon of war in Iran",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy analysis",
+      "description": "Referenced for conflict-related AI-generated content indicators"
+    },
+    {
+      "relation": "References",
+      "identifier": "Jensen, B., Vacca, N., & Macias, J. M., III. (2026). How to lose an information war in 10 days",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy analysis",
+      "description": "Referenced for Iranian-linked use of AI-generated imagery and information operations"
+    },
+    {
+      "relation": "References",
+      "identifier": "Weiss, A., Albertson, Z., & Lanfear, E. (2026). Content Independence Day, one year on",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Industry analysis",
+      "description": "Referenced for automated web traffic and crawler categories"
+    },
+    {
+      "relation": "References",
+      "identifier": "Coalition for Content Provenance and Authenticity. (2026). C2PA specifications, version 2.4",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Technical specification",
+      "description": "Referenced for digital-content provenance assertions"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026b). The evolving structure of the U.S.–Iran–Israel conflict",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Referenced for MCCM v2.3.4 conflict-monitoring context"
+    }
+  ],
+  "references": [
+    "Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2023). GEO: Generative engine optimization. arXiv. https://doi.org/10.48550/arXiv.2311.09735",
+    "Arguello, A. V. (2026, March 25). Iran posts AI video showing missile striking Statue of Liberty. The Algemeiner. https://www.algemeiner.com/2026/03/25/iran-posts-ai-video-showing-missile-striking-statue-liberty/",
+    "Chesney, R., & Citron, D. K. (2019). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107(6), 1753–1820. https://www.californialawreview.org/print/deep-fakes-a-looming-challenge-for-privacy-democracy-and-national-security",
+    "Coalition for Content Provenance and Authenticity. (2026). C2PA specifications, version 2.4. https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html",
+    "Jensen, B., Vacca, N., & Macias, J. M., III. (2026, May 5). How to lose an information war in 10 days. Center for Strategic and International Studies. https://www.csis.org/analysis/how-lose-information-war-10-days",
+    "Paris, B., & Donovan, J. (2019, September 18). Deepfakes and cheap fakes: The manipulation of audio and visual evidence. Data & Society Research Institute. https://datasociety.net/research-library/deepfakes-and-cheap-fakes-the-manipulation-of-audio-and-visual-evidence/",
+    "Reuters. (2026, August 31). Trump was sending message to Iran with Kharg Island post, says Vance. https://www.reuters.com/world/middle-east/trump-was-sending-message-iran-with-kharg-island-post-says-vance-2026-08-31/",
+    "Stewart, P., & Lawder, D. (2026, August 31). Trump says Iran’s Kharg is being “blown to smithereens,” but gives no details. Reuters. https://www.reuters.com/world/middle-east/us-iran-exchange-fire-flare-up-bessent-signals-more-sanctions-2026-08-31/",
+    "ToI Staff, & Tress, L. (2026, September 5). In AI-made Likud ad, Mamdani, Khamenei and Erdogan prematurely celebrate Netanyahu’s defeat. The Times of Israel. https://www.timesofisrael.com/in-ai-made-likud-ad-mamdani-khamenei-and-erdogan-celebrate-netanyahus-expected-defeat/",
+    "Vaccari, C., & Chadwick, A. (2020). Deepfakes and disinformation: Exploring the impact of synthetic political video on deception, uncertainty, and trust in news. Social Media + Society, 6(1). https://doi.org/10.1177/2056305120903408",
+    "Weiss, A., Albertson, Z., & Lanfear, E. (2026, July 1). Content Independence Day, one year on: Building the business model for the agentic Internet. Cloudflare. https://blog.cloudflare.com/agentic-internet-bot-report/",
+    "Wirtschafter, V. (2026, April 8). Generative AI as a weapon of war in Iran. Brookings Institution. https://www.brookings.edu/articles/generative-ai-as-a-weapon-of-war-in-iran/",
+    "Wu, S. (2026a). Escalation without collapse: High-pressure systemic equilibrium in the U.S.–Israel–Iran conflict, Days 1–50 (Policy Brief No. EPINOVA–2026–PB–35). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19645873",
+    "Wu, S. (2026b). The evolving structure of the U.S.–Iran–Israel conflict: MCEA and NMF analysis of analytical days 1–159 using MCCM v2.3.4 (Policy Brief No. EPINOVA–2026–PB–66). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.066",
+    "Wu, S. (2026c). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026d). What cannot be recovered cannot be leveraged: Debris, evidence, and power in the Iran battlefield (Policy Brief No. EPINOVA–2026–PB–24). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19432715",
+    "Yayboke, E. (2025, September 19). Channeling Augustus: On agentic offensive information operations. Center for Strategic and International Studies. https://www.csis.org/analysis/channeling-augustus-agentic-offensive-information-operations"
+  ],
+  "recommended_citation": "Wu, S. (2026). The Machine Audience of War: AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict (Policy Brief No. EPINOVA–2026–PB–71). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.071",
+  "citation_apa": "Wu, S. (2026). The machine audience of war: AI-generated video, narrative occupancy, and machine-mediated information competition in the U.S.–Israel–Iran conflict. EPINOVA Policy Brief Series, EPINOVA-PB-2026-071. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.071.",
+  "short_citation": "Wu (2026), The Machine Audience of War, EPINOVA–2026–PB–71.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-09-07",
+    "pagination": "12 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Human and Machine Pathways of Synthetic Information Persistence",
+      "description": "Conceptual diagram showing physical-evidence and synthetic-presence pathways, machine addressability, human and machine pathways, epistemic-status preservation, qualified retrieval, and epistemic compression.",
+      "source": "Author’s conceptual synthesis based on Paris and Donovan (2019), Vaccari and Chadwick (2020), Yayboke (2025), Weiss et al. (2026), Wu (2026a), and Wu (2026d).",
+      "note": "Machine addressability does not imply retrieval, acceptance, or downstream influence."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Three Analytical Uses of AI-Generated Video in the U.S.–Israel–Iran Conflict",
+      "description": "Compares Iranian state-linked synthetic mobilization, Trump’s Kharg Island synthetic battlefield representation, and Netanyahu campaign-video relational fabrication by representation, analytical lens, and primary compression.",
+      "source": "Author’s analysis based on Arguello (2026), Reuters (2026), Stewart and Lawder (2026), and ToI Staff and Tress (2026)."
+    },
+    {
+      "number": "Table 2",
+      "title": "Minimal Monitoring Record for Synthetic-Content Tracking",
+      "description": "Specifies record fields for artifact/date, claim/depicton/denial/verification status, source lineage, retrieval date/system/query, and qualification preservation.",
+      "source": "Author’s monitoring framework."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
+  "metadata_source": {
+    "source_file": "The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-09-07",
+    "last_updated": "2026-09-07",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, core judgment, key judgments, executive summary, why-this-matters section, analytic note and case selection, definitions of narrative occupancy and machine addressability, machine audience, epistemic compression, three case illustrations, MCCM monitoring implications, policy implications, limitations, conclusion, references, Figure 1, Table 1, and Table 2. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 12 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order",
+    "author": "Shaoyuan Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260906180357-04'00'",
+    "modification_date": "D:20260906180357-04'00'",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.071",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-071/",
+    "crossref_doi_suffix": "epinova.pb.2026.071",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.071",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.071",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-071/",
+    "registration_date": "2026-09-07",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
