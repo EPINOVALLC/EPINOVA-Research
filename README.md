@@ -152,7 +152,21 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
   DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
   Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
+  Source PDF: [`Volume IV Frontier Indicators and Future Outlook..pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/Volume%20IV%20Frontier%20Indicators%20and%20Future%20Outlook..pdf)
+
+- **EPINOVA-BK-2026-005** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Frontier Indicators and Future Outlook**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-005/](https://publications.epinova.org/epinova-bk-2026-005/)  
+  DOI: [10.67037/epinova.bk.2026.005](https://doi.org/10.67037/epinova.bk.2026.005)  
+  Source folder: [`Book/EPINOVA-BK-2026-005/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-005)  
   Source PDF: [`Volume IV Frontier Indicators and Future Outlook_17..pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-005/Volume%20IV%20Frontier%20Indicators%20and%20Future%20Outlook_17..pdf)
+
+- **EPINOVA-BK-2026-004** (2026-06-30)  
+  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
+  Publication page: [https://publications.epinova.org/epinova-bk-2026-004/](https://publications.epinova.org/epinova-bk-2026-004/)  
+  DOI: [10.67037/epinova.bk.2026.004](https://doi.org/10.67037/epinova.bk.2026.004)  
+  Source folder: [`Book/EPINOVA-BK-2026-004/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-004)  
+  Source PDF: [`Volume III Governance, Risk, and Human Capital.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-004/Volume%20III%20Governance%2C%20Risk%2C%20and%20Human%20Capital.pdf)
 
 - **EPINOVA-BK-2026-004** (2026-06-30)  
   **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Governance, Risk, and Human Capital**  
@@ -166,21 +180,7 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   Publication page: [https://publications.epinova.org/epinova-bk-2026-003/](https://publications.epinova.org/epinova-bk-2026-003/)  
   DOI: [10.67037/epinova.bk.2026.003](https://doi.org/10.67037/epinova.bk.2026.003)  
   Source folder: [`Book/EPINOVA-BK-2026-003/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-003)  
-  Source PDF: [`Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/Volume%20II%20Algorithms%2C%20Applications%2C%20and%20Competitiveness_18.292%20%C3%97%2011.94.pdf)
-
-- **EPINOVA-BK-2026-002** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: AI Infrastructure and Foundational Capacity**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-002/](https://publications.epinova.org/epinova-bk-2026-002/)  
-  DOI: [10.67037/epinova.bk.2026.002](https://doi.org/10.67037/epinova.bk.2026.002)  
-  Source folder: [`Book/EPINOVA-BK-2026-002/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-002)  
-  Source PDF: [`Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-002/Volume%20I%20AI%20Infrastructure%20and%20Foundational%20Capacity_KDP_8.27x11.69_585p.pdf)
-
-- **EPINOVA-BK-2026-001** (2026-06-30)  
-  **Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition**  
-  Publication page: [https://publications.epinova.org/epinova-bk-2026-001/](https://publications.epinova.org/epinova-bk-2026-001/)  
-  DOI: [10.67037/epinova.bk.2026.001](https://doi.org/10.67037/epinova.bk.2026.001)  
-  Source folder: [`Book/EPINOVA-BK-2026-001/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-001)  
-  Source PDF: [`sample.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-001/sample.pdf)
+  Source PDF: [`Volume II Algorithms, Applications, and Competitiveness.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Book/EPINOVA-BK-2026-003/Volume%20II%20Algorithms%2C%20Applications%2C%20and%20Competitiveness.pdf)
 
 ---
 

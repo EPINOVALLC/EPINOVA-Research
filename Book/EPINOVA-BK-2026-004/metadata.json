@@ -19,12 +19,12 @@
   "publication_year": 2026,
   "language": "en",
   "version": "1.0",
-  "status": "Forthcoming",
+  "status": "Published",
   "visibility": "Public",
   "publisher": "EPINOVA Press LLC",
   "place": "Carrollton, Georgia, United States",
   "format": "Paperback",
-  "trim_size": "8.5 × 11 inches",
+  "trim_size": "8.27 × 11.69 inches (A4)",
   "page_count": null,
   "creators": [
     {
@@ -65,7 +65,7 @@
       "description": "Official book cover"
     },
     {
-      "filename": "sample.pdf",
+      "filename": "Volume III Governance, Risk, and Human Capital.pdf",
       "content_type": "application/pdf",
       "description": "Public sample of the book"
     }
@@ -82,6 +82,12 @@
       "scheme": "ISBN-13",
       "identifier": "979-8-89958-003-1",
       "description": "Paperback edition ISBN"
+    },
+    {
+      "scheme": "ASIN",
+      "identifier": "B0HHYJCHG4",
+      "url": "https://www.amazon.com/dp/B0HHYJCHG4",
+      "description": "Amazon paperback product page"
     }
   ],
   "related_works": [
@@ -97,5 +103,9 @@
   "framework_version": "1.0",
   "version_release_date": "2026-06-30",
   "version_status": "Current official version",
-  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026."
+  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026.",
+  "paperback_release_date": "2026-09-10",
+  "availability": "Available",
+  "amazon_asin": "B0HHYJCHG4",
+  "amazon_url": "https://www.amazon.com/dp/B0HHYJCHG4"
 }

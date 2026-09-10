@@ -20,12 +20,12 @@
   "publication_year": 2026,
   "language": "en",
   "version": "1.0",
-  "status": "Forthcoming",
+  "status": "Published",
   "visibility": "Public",
   "publisher": "EPINOVA Press LLC",
   "place": "Carrollton, Georgia, United States",
   "format": "Four-volume paperback set",
-  "trim_size": "8.5 × 11 inches per volume",
+  "trim_size": "8.27 × 11.69 inches (A4) per volume",
   "page_count": null,
   "creators": [
     {
@@ -60,9 +60,9 @@
   "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/2026/EPINOVA-BK-2026-001",
   "files": [
     {
-      "filename": "cover.png",
-      "content_type": "image/png",
-      "description": "Official image of the complete four-volume edition"
+      "filename": "cover.pdf",
+      "content_type": "application/pdf",
+      "description": "Official PDF cover of the complete four-volume edition"
     }
   ],
   "copyright": "© 2026 Shaoyuan Wu. All rights reserved.",
@@ -72,7 +72,14 @@
   },
   "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete four-volume edition (1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.001",
   "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.001",
-  "alternate_identifiers": [],
+  "alternate_identifiers": [
+    {
+      "scheme": "ASIN",
+      "identifier": "B0HHYH4ZG8",
+      "url": "https://www.amazon.com/dp/B0HHYH4ZG8",
+      "description": "Amazon series page for the complete four-volume edition"
+    }
+  ],
   "related_works": [
     {
       "relation": "HasPart",
@@ -107,5 +114,9 @@
   "framework_version": "1.0",
   "version_release_date": "2026-06-30",
   "version_status": "Current official version",
-  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026."
+  "version_statement": "First Edition, Framework Version 1.0, released June 30, 2026.",
+  "paperback_release_date": "2026-09-10",
+  "availability": "Available",
+  "amazon_series_asin": "B0HHYH4ZG8",
+  "amazon_series_url": "https://www.amazon.com/dp/B0HHYH4ZG8"
 }

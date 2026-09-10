@@ -1,7 +1,15 @@
-Policy Brief/2026/EPINOVA–2026–PB-71/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
-Policy Brief/2026/EPINOVA–2026–PB-71/metadata.json
-docs/epinova-pb-2026-071/index.html
-docs/files/epinova-pb-2026-071/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
+Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_19_37.png
+Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_39_18.png
+Book/EPINOVA-BK-2026-001/cover.pdf
+Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
+Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
+Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital.pdf
+Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook..pdf
+docs/files/epinova-bk-2026-001/cover.pdf
+docs/files/epinova-bk-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
+docs/files/epinova-bk-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
+docs/files/epinova-bk-2026-004/Volume III Governance, Risk, and Human Capital.pdf
+docs/files/epinova-bk-2026-005/Volume IV Frontier Indicators and Future Outlook.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -752,6 +760,8 @@ Policy Brief/2026/EPINOVA–2026–PB-69/From AI-Enabled Weapons to AI-Orchestra
 Policy Brief/2026/EPINOVA–2026–PB-69/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-70/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
 Policy Brief/2026/EPINOVA–2026–PB-70/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-71/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-71/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1491,6 +1501,7 @@ docs/epinova-pb-2026-067/index.html
 docs/epinova-pb-2026-068/index.html
 docs/epinova-pb-2026-069/index.html
 docs/epinova-pb-2026-070/index.html
+docs/epinova-pb-2026-071/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1636,6 +1647,7 @@ docs/files/epinova-pb-2026-067/Rerouting the Gulf Bypass Infrastructure and the 
 docs/files/epinova-pb-2026-068/Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf
 docs/files/epinova-pb-2026-069/From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf
 docs/files/epinova-pb-2026-070/Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf
+docs/files/epinova-pb-2026-071/The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
