@@ -1,15 +1,9 @@
-Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_19_37.png
-Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_39_18.png
-Book/EPINOVA-BK-2026-001/cover.pdf
-Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
-Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
-Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital.pdf
-Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook..pdf
-docs/files/epinova-bk-2026-001/cover.pdf
-docs/files/epinova-bk-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
-docs/files/epinova-bk-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
-docs/files/epinova-bk-2026-004/Volume III Governance, Risk, and Human Capital.pdf
-docs/files/epinova-bk-2026-005/Volume IV Frontier Indicators and Future Outlook.pdf
+Conference Papers/EPINOVA-2026-CP-02/Beyond Buffer-State Logic Node-Based Agency in the Caspian-Middle East Conflict Network.pdf
+Conference Papers/EPINOVA-2026-CP-02/Beyond_Buffer_State_Logic_Node_Based_Agency_Presentation.pptx
+Conference Papers/EPINOVA-2026-CP-02/PROCEEDINGS OF THE CONFERENCE_260912_214121.pdf
+Conference Papers/EPINOVA-2026-CP-02/metadata.json
+docs/epinova-2026-cp-02/index.html
+docs/files/epinova-2026-cp-02/Beyond Buffer-State Logic Node-Based Agency in the Caspian-Middle East Conflict Network.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -593,16 +587,17 @@ Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/article.txt
 Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/metadata.json
 Articles/articles_archive_index.json
 Articles/articles_failed_index.json
-Book/EPINOVA-BK-2026-001/cover.png
+Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_19_37.png
+Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_39_18.png
+Book/EPINOVA-BK-2026-001/cover.pdf
 Book/EPINOVA-BK-2026-001/metadata.json
-Book/EPINOVA-BK-2026-001/sample.pdf
-Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity_KDP_8.27x11.69_585p.pdf
+Book/EPINOVA-BK-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
 Book/EPINOVA-BK-2026-002/metadata.json
-Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness_18.292 × 11.94.pdf
+Book/EPINOVA-BK-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
 Book/EPINOVA-BK-2026-003/metadata.json
-Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital__8.27x11.69.pdf
+Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital.pdf
 Book/EPINOVA-BK-2026-004/metadata.json
-Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook_17..pdf
+Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook..pdf
 Book/EPINOVA-BK-2026-005/metadata.json
 Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
 Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
@@ -1559,13 +1554,18 @@ docs/epinova-wp-t-2026-001/index.html
 docs/epinova-wp-t-2026-002/index.html
 docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
 docs/files/epinova-2026-ja-01/The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf
+docs/files/epinova-bk-2026-001/cover.pdf
 docs/files/epinova-bk-2026-001/cover.png
+docs/files/epinova-bk-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
 docs/files/epinova-bk-2026-002/cover.png
 docs/files/epinova-bk-2026-002/sample.pdf
+docs/files/epinova-bk-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
 docs/files/epinova-bk-2026-003/cover.png
 docs/files/epinova-bk-2026-003/sample.pdf
+docs/files/epinova-bk-2026-004/Volume III Governance, Risk, and Human Capital.pdf
 docs/files/epinova-bk-2026-004/cover.png
 docs/files/epinova-bk-2026-004/sample.pdf
+docs/files/epinova-bk-2026-005/Volume IV Frontier Indicators and Future Outlook.pdf
 docs/files/epinova-bk-2026-005/cover.png
 docs/files/epinova-bk-2026-005/sample.pdf
 docs/files/epinova-imp-2025-001/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
