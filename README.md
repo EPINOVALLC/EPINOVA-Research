@@ -276,6 +276,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Research Reports
 
+- **EPINOVA-RR-2026-002** (2026-09-15)  
+  **The U.S.–Israel–Iran Conflict on Day 200: Strategic Objectives, Systemic Costs, and the Rewiring of Networked War**  
+  Publication page: [https://epinova.org/research-reports](https://epinova.org/research-reports)  
+  DOI: [10.67037/epinova.rr.2026.002](https://doi.org/10.67037/epinova.rr.2026.002)  
+  Source folder: [`Research Report/2026/EPINOVA–2026–RR-02/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-02)  
+  Source PDF: [`The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-02/The%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20on%20Day%20200%20Strategic%20Objectives%2C%20Systemic%20Costs%2C%20and%20the%20Rewiring%20of%20Networked%20War.pdf)
+
 - **EPINOVA-RR-2026-001** (2026-09-01)  
   **India’s AI Power in a Distributed and Uneven Technological Order: Boundary Control, Strategic Autonomy, and Cognitive Security**  
   Publication page: [https://epinova.org/research-reports](https://epinova.org/research-reports)  

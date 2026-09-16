@@ -1,0 +1,587 @@
+{
+  "epinova_id": "EPINOVA-RR-2026-002",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Research Report",
+  "category": "research-reports",
+  "publication_series": "EPINOVA Research Report Series",
+  "series_code": "RR",
+  "series_number": "2026-002",
+  "title": "The U.S.–Israel–Iran Conflict on Day 200",
+  "subtitle": "Strategic Objectives, Systemic Costs, and the Rewiring of Networked War",
+  "full_title": "The U.S.–Israel–Iran Conflict on Day 200: Strategic Objectives, Systemic Costs, and the Rewiring of Networked War",
+  "title_normalized": "the us-israel-iran conflict on day 200 strategic objectives systemic costs and the rewiring of networked war",
+  "publication_date": "2026-09-15",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.rr.2026.002",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-rr-2026-002/",
+  "official_page": "https://epinova.org/research-reports",
+  "description": "This research report provides a strategic and systemic assessment of the U.S.–Israel–Iran conflict on Day 200. It examines how the war evolved from direct military confrontation into a broader contest involving maritime access, logistics, energy, financial markets, infrastructure, technological adaptation, alliance relationships, and cross-theater connectivity. Rather than treating battlefield activity as the sole measure of conflict intensity, the report analyzes how military operations interact with the wider systems that sustain military capability, transmit disruption, and shape strategic pressure. It combines public-source reporting, author-compiled datasets, and MCCM v2.3.4 analytical coding, while distinguishing publicly confirmed evidence, reported or contested claims, and author-derived analytical estimates. The report concludes that by Day 200 the conflict is best understood as escalation without demonstrated systemic collapse: high systemic pressure persists across an interconnected conflict system, while key functions continue through adaptation, redundancy, and partial recovery.",
+  "abstract": "This report provides a strategic and systemic assessment of the U.S.–Israel–Iran conflict on Day 200, examining how the war has evolved from direct military confrontation into a broader contest involving maritime access, logistics, energy, financial markets, infrastructure, technological adaptation, alliance relationships, and cross-theater connectivity. Rather than treating battlefield activity as the sole measure of conflict intensity, the report examines how military operations interact with the wider systems that sustain military capability, transmit disruption, and shape strategic pressure. The assessment combines public-source reporting, author-compiled datasets, and MCCM v2.3.4 analytical coding. It distinguishes among publicly confirmed evidence, reported or contested claims, and author-derived analytical estimates. MCCM outputs are used as a structured analytical ledger rather than as independently validated empirical measurements. The report concludes that the defining condition on Day 200 is escalation without demonstrated systemic collapse: high pressure persists across an increasingly interconnected conflict system, while important functions continue despite disruption and several recovery and resilience buffers are assessed as being under strain.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "Day 200",
+    "networked war",
+    "systemic costs",
+    "MCCM v2.3.4",
+    "strategic objectives",
+    "systemic pressure",
+    "Hormuz",
+    "contested access",
+    "logistics rewiring",
+    "Central Asia",
+    "Caspian",
+    "Gulf",
+    "energy markets",
+    "shipping",
+    "LNG",
+    "cloud infrastructure",
+    "financial transmission",
+    "war costs",
+    "readiness",
+    "state balance sheets",
+    "uncrewed systems",
+    "node-based agency",
+    "cross-theater coupling",
+    "machine-mediated information competition",
+    "systemic warfare",
+    "resilience",
+    "redundancy",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Networked warfare",
+    "Middle East security",
+    "Iran-U.S. conflict",
+    "Israel-Iran conflict",
+    "Maritime security",
+    "Energy security",
+    "Critical infrastructure",
+    "Logistics resilience",
+    "Financial transmission",
+    "Conflict monitoring",
+    "AI and digital infrastructure",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-09-15",
+      "date_type": "Issued",
+      "description": "Initial public release date printed in the PDF"
+    },
+    {
+      "date": "2026-09-15",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-09-15",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page and version history"
+    },
+    {
+      "date": "2026-09-15",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    },
+    {
+      "date": "2026-09-15T12:00:00-04:00",
+      "date_type": "Analytical cutoff",
+      "description": "Day 200 analytical cutoff"
+    },
+    {
+      "date": "2026-09-14T12:00:00-04:00/2026-09-15T12:00:00-04:00",
+      "date_type": "Analytical window",
+      "description": "Day 200 noon-to-noon observation window"
+    }
+  ],
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "description": "Official EPINOVA research reports page"
+    },
+    {
+      "identifier": "EPINOVA–2026–RR-02",
+      "scheme": "EPINOVA research report number",
+      "description": "Research report number printed in the PDF"
+    },
+    {
+      "identifier": "The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "MCCM v2.3.4",
+      "scheme": "Analytical framework",
+      "description": "Author-coded 35-variable analytical ledger used to assess conflict pressure through Day 200"
+    },
+    {
+      "identifier": "Day 200",
+      "scheme": "Analytical day",
+      "description": "September 14, 2026, 12:00 ET through September 15, 2026, 12:00 ET"
+    },
+    {
+      "identifier": "Contested-access regime",
+      "scheme": "Analytical concept",
+      "description": "Condition in which physical passage, opacity, insurance, coercion, and competing governance claims jointly shape effective access"
+    },
+    {
+      "identifier": "Operationalized redundancy",
+      "scheme": "Analytical concept",
+      "description": "Portfolio of partial alternatives that preserves selected flows without fully substituting for the primary route"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Reports/2026/EPINOVA%E2%80%932026%E2%80%93RR-02/The%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict%20on%20Day%20200%20Strategic%20Objectives%2C%20Systemic%20Costs%2C%20and%20the%20Rewiring%20of%20Networked%20War.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the research report",
+      "pages": 44
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Reports/2026/EPINOVA%E2%80%932026%E2%80%93RR-02",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Research Report Series",
+    "series_code": "RR",
+    "series_number": "2026-002",
+    "series_description": "The EPINOVA Research Report Series publishes longer-form analytical reports on AI governance, strategic competition, technological sovereignty, infrastructure, cognitive security, systemic conflict, and institutional transformation."
+  },
+  "methodology": {
+    "framework_name": "MCCM v2.3.4 Day 200 Strategic and Systemic Assessment Framework",
+    "source_basis": "Strategic and systemic assessment combining public-source reporting, author-compiled datasets, MCCM v2.3.4 analytical coding, logistics monitoring, market and financial indicators, and explicit evidence-classification rules.",
+    "case_context": "The U.S.–Israel–Iran conflict through analytical Day 200, with the final Day 200 window running from September 14, 2026, 12:00 ET through September 15, 2026, 12:00 ET.",
+    "core_problem": "How operational military effects convert, or fail to convert, into political outcomes under accumulating systemic costs, contested maritime access, logistics rewiring, infrastructure disruption, and cross-theater connectivity.",
+    "central_claims": [
+      "The conflict on Day 200 is best understood as a prolonged contest over conversion of military power into political and systemic effects rather than as conventional victory, defeat, or stalemate.",
+      "Operational advantage did not produce a comprehensive political settlement.",
+      "The conflict’s most consequential transformation is systemic rather than territorial.",
+      "Hormuz has become a contested-access regime rather than a fully open or physically closed chokepoint.",
+      "Eurasian alternatives and Gulf bypass routes provide selective redundancy rather than full substitution for Persian Gulf maritime scale.",
+      "MCCM v2.3.4 indicates high author-coded systemic pressure without independently validating a system-wide loss-of-control threshold breach."
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Strategic Trajectory",
+      "code": "ST",
+      "indicator_type": "Conflict-structure dimension",
+      "description": "Evolution from prewar negotiations to June MOU objective compression and Day 200 systemic pressure.",
+      "observed_pattern": "Objective compression around the June MOU was followed by re-expansion under sustained coercive pressure.",
+      "interpretation": "The war altered capabilities, costs, bargaining assets, and settlement feasibility without resolving core disputes."
+    },
+    {
+      "name": "Geographic and Functional Footprint",
+      "code": "GFF",
+      "indicator_type": "Exposure dimension",
+      "description": "Direct military exposure and wider systemic exposure across military, economic, resource, route, and macroeconomic layers.",
+      "observed_pattern": "At least 13 states in the core direct military footprint; indirect macroeconomic footprint is global.",
+      "interpretation": "The conflict is regional militarily but global systemically."
+    },
+    {
+      "name": "War Costs and Readiness",
+      "code": "WCR",
+      "indicator_type": "Sustainment dimension",
+      "description": "Direct fiscal cost, readiness pressure, replenishment timelines, liquidity, trade, inflation, and import capacity.",
+      "observed_pattern": "U.S. DoD costs estimated at approximately $38 billion through August 1; interceptor rebuilding likely requires at least five years.",
+      "interpretation": "Sustainment and regeneration capacity are strategically more important than headline spending alone."
+    },
+    {
+      "name": "Contested Maritime Access",
+      "code": "CMA",
+      "indicator_type": "Access dimension",
+      "description": "Physical passage, opacity, insurance, coercion, AIS-dark movements, and competing governance claims around Hormuz and related routes.",
+      "observed_pattern": "Visible traffic contracted sharply while substantial oil flows continued through selective passage and opaque movements.",
+      "interpretation": "Hormuz is neither conventionally open nor physically closed; it is a contested-access regime."
+    },
+    {
+      "name": "Logistics Rewiring",
+      "code": "LR",
+      "indicator_type": "Network adaptation dimension",
+      "description": "Activation of Gulf east-coast ports, Red Sea pipelines, Central Asian rail, TIR road links, Caspian shipping, and north–south corridors.",
+      "observed_pattern": "Evidence supports operationalized redundancy but not full replacement of Hormuz maritime scale.",
+      "interpretation": "Strategic value lies in optionality, diversification, and threshold delay."
+    },
+    {
+      "name": "MCCM v2.3.4 Pressure",
+      "code": "MCCM",
+      "indicator_type": "Author-coded analytical ledger",
+      "description": "35-variable model across ten realms comparing escalation, transmission, resilience, thresholds, institutional order, narrative pressure, and external-node dependency.",
+      "observed_pattern": "Period III risk-adjusted mean is 0.857, higher than Period I at 0.699 and Period II at 0.712; Day 200 final systemic pressure is 0.992.",
+      "interpretation": "MCCM indicates high coded pressure without independently validating systemic collapse."
+    }
+  ],
+  "key_findings": [
+    "Operational advantage did not produce a comprehensive political settlement by Day 200.",
+    "MCCM’s risk-oriented mean was 0.699 in Period I, 0.712 in Period II, and 0.857 in Period III.",
+    "The conflict is regional militarily but global systemically.",
+    "U.S. replenishment requires a multi-year planning horizon, especially for missile-defense interceptor inventories.",
+    "Hormuz has become a contested-access regime.",
+    "Eurasian alternatives gained importance without replacing Gulf maritime scale.",
+    "Uncrewed systems span aerial, surface, and underwater domains, though operational integration remains unevenly documented.",
+    "Digital infrastructure has become a physical wartime node.",
+    "Middle and small states can gain leverage through control of strategic interfaces when usable control and observable counterpart effects exist.",
+    "The strongest Day 200 characterization is escalation without demonstrated systemic collapse."
+  ],
+  "policy_recommendations": [
+    "Assess U.S. operational control through replenishment schedules, inventory depth, production capacity, and competing operational demands rather than aggregate defense spending alone.",
+    "Treat basing resilience as a function of continuity, dispersal, mobility, redundant communications, backup digital capacity, repair speed, and function-shifting capacity.",
+    "Distinguish operational degradation from political conversion when evaluating campaign effectiveness.",
+    "Recognize that Israeli local operational control does not automatically resolve nuclear, missile, regional-network, or Hormuz-security disputes.",
+    "Assess Iranian Hormuz leverage as both an immediate coercive tool and a driver of longer-term adaptation toward bypass infrastructure and alternative routes.",
+    "Treat Gulf and middle-power resilience as a problem of functional interfaces.",
+    "Evaluate international verification and shared information systems as components of escalation control and bargaining conditions."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Missile-defense interceptor production and replenishment timelines",
+      "analytical_purpose": "Tracks sustainability of U.S. operational control."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Hormuz visible traffic, AIS-dark crossings, insurance costs, selective passage, and governance claims",
+      "analytical_purpose": "Tracks the contested-access regime."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Central Asia rail, TIR road links, Caspian port-system activity, and north–south corridor throughput",
+      "analytical_purpose": "Tracks operationalized redundancy and route diversification."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "AWS Bahrain/UAE recovery, cloud-region redundancy, and AI/data-center hardening",
+      "analytical_purpose": "Tracks physical resilience of digital infrastructure."
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "IAEA verification access, nuclear monitoring continuity, and field verification capacity",
+      "analytical_purpose": "Tracks informational conditions for bargaining and escalation control."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Research Report Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026j). MCCM v2.3.4: Complete Day 1–200 embedded analytical series and Day 200 summary",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Unpublished author-coded dataset",
+      "description": "Primary author-coded dataset used for MCCM Day 200 assessment"
+    },
+    {
+      "relation": "References",
+      "identifier": "EPINOVA, & AIPAMS. (2026). Iran–Caspian port system monitor through Day 200",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Unpublished dataset",
+      "description": "Primary Caspian monitoring source used in logistics rewiring analysis"
+    }
+  ],
+  "references": [
+    "Bank of Israel. (2026a). Exchange rates. Retrieved September 15, 2026, from https://www.boi.org.il/en/economic-roles/financial-markets/exchange-rates/",
+    "Bank of Israel. (2026b, September 7). Foreign exchange reserves at the Bank of Israel, August 2026. https://www.boi.org.il/en/communication-and-publications/press-releases/foreign-exchange-reserves-at-the-bank-of-israel-august-2026/",
+    "Bank of Israel. (2026c, July 6). Research Department staff forecast, July 2026. https://www.boi.org.il/en/communication-and-publications/regular-publications/research-department-staff-forecast/research-department-staff-forecast-july-2026/",
+    "Congressional Budget Office. (2026, September 15). Estimating the cost of combat operations against Iran. https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf",
+    "EPINOVA, & AIPAMS. (2026). Iran–Caspian port system monitor through Day 200 [Unpublished data set].",
+    "Hostetler, J. (2026a, June 15). Current price of Ethereum for June 15, 2026. Fortune. https://fortune.com/article/price-of-ethereum-06-15-2026/",
+    "Hostetler, J. (2026b, September 15). Current price of Ethereum for Sept. 15, 2026. Fortune. https://fortune.com/article/price-of-ethereum-09-15-2026/",
+    "Hunder, M., & Dysa, Y. (2026, March 20). Ukraine deploys units to 5 Middle East countries to intercept drones. Defense News. https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/",
+    "International Road Transport Union. (2025, March 31). Faster China trade on display following new transport deal. https://www.iru.org/news-resources/newsroom/faster-china-trade-display-following-new-transport-deal",
+    "Ministry of Transport of the Republic of Kazakhstan. (2026, June 25). В Астане прошло 14-е заседание Казахстанско-Туркменской межправкомиссии [The 14th meeting of the Kazakhstan–Turkmenistan Intergovernmental Commission was held in Astana]. https://www.gov.kz/memleket/entities/transport/press/news/details/1247332?lang=ru",
+    "Reuters. (2026a, March 1). Abu Dhabi complex housing embassies damaged as retaliatory strikes widen in Gulf. https://www.reuters.com/world/middle-east/several-loud-blasts-heard-over-dubai-doha-second-day-witnesses-say-2026-03-01/",
+    "Reuters. (2026b, September 15). Amazon’s AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage. https://www.reuters.com/world/middle-east/amazons-aws-is-unable-restore-access-bahrain-one-uae-cloud-data-zone-after-war-2026-09-15/",
+    "Reuters. (2026c, September 15). Bitcoin and crypto stocks remain down after US Senate fails to advance regulatory bill. https://www.reuters.com/business/bitcoin-crypto-stocks-remain-down-after-us-senate-fails-advance-regulatory-bill-2026-09-15/",
+    "Reuters. (2026d, June 17). The deal: Calm now, risks ahead. https://www.reuters.com/world/middle-east/deal-calm-now-risks-ahead-2026-06-17/",
+    "Reuters. (2026e, September 15). Gold edges down as oil-driven inflation fears lift rate-hike bets. https://www.reuters.com/world/india/gold-holds-ground-investors-await-fed-policy-cues-2026-09-15/",
+    "Reuters. (2026f, June 19). Gulf airlines get back to business as flights near pre-war levels. https://www.reuters.com/world/middle-east/gulf-airlines-get-back-business-flights-near-pre-war-levels-2026-06-19/",
+    "Reuters. (2026g, September 15). Hormuz traffic dwindles after Middle East attacks intensify. https://www.reuters.com/world/middle-east/hormuz-traffic-dwindles-after-middle-east-attacks-intensify-2026-09-15/",
+    "Reuters. (2026h, March 17). How does the Iran war affect fertiliser supplies, prices and food security? https://www.reuters.com/business/energy/how-does-iran-war-affect-fertiliser-supplies-prices-food-security-2026-03-17/",
+    "Reuters. (2026i, March 2). Iran conflict widens to Lebanon, Kuwait mistakenly downs US jets. https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02/",
+    "Reuters. (2026j, September 8). Iran says it captured US submarine drone in Strait of Hormuz. https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
+    "Reuters. (2026k, September 15). Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says. https://www.reuters.com/world/middle-east/iran-war-cost-hits-38-billion-forecast-rise-3-billion-month-cbo-says-2026-09-15/",
+    "Reuters. (2026l, February 28). Iranian leader Khamenei killed in air strikes as U.S., Israel launch attacks. https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+    "Reuters. (2026m, February 28). Iranian missiles shake Gulf cities after US, Israeli strikes on Iran. https://www.reuters.com/world/middle-east/iran-fires-missiles-gulf-arab-states-one-killed-abu-dhabi-2026-02-28/",
+    "Reuters. (2026n, September 15). LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends. https://www.reuters.com/business/energy/lng-demand-china-india-expected-recover-when-mideast-war-ends-2026-09-15/",
+    "Reuters. (2026o, September 15). Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations. https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
+    "Reuters. (2026p, September 9). Oil vessel transit costs through Hormuz escalated after Iran war, ENOC exec says. https://www.reuters.com/world/middle-east/oil-vessel-transit-costs-through-hormuz-escalated-after-iran-war-enoc-exec-says-2026-09-09/",
+    "Reuters. (2026q, September 9). One third of Gulf oil is still missing despite “dark crossings,” data shows. https://www.reuters.com/business/energy/one-third-gulf-oil-is-still-missing-despite-dark-crossings-data-shows-2026-09-09/",
+    "Reuters. (2026r, March 27). Services firms feel the squeeze as oil rally from Iran war fails to spur drilling. https://www.reuters.com/business/energy/services-firms-feel-squeeze-oil-rally-iran-war-fails-spur-drilling-2026-03-27/",
+    "Reuters. (2026s, February 27). Trump says of Iran: “Sometimes you have to use force.” https://www.reuters.com/world/middle-east/trump-says-more-iran-talks-expected-friday-2026-02-27/",
+    "Reuters. (2026t, September 15). Trump’s Ukraine energy truce won’t fix global diesel crunch. https://www.reuters.com/commentary/reuters-open-interest/trumps-ukraine-energy-truce-wont-fix-global-diesel-crunch-2026-09-15/",
+    "Reuters. (2026u, March 27). Twelve US troops wounded in Iran strike on base in Saudi Arabia, US official says. https://www.reuters.com/world/middle-east/twelve-us-troops-wounded-iran-strike-base-saudi-arabia-us-official-says-2026-03-27/",
+    "Reuters. (2026v, March 26). US deploys uncrewed drone boats in conflict with Iran. https://www.reuters.com/business/aerospace-defense/us-deploys-uncrewed-drone-boats-conflict-with-iran-2026-03-26/",
+    "Reuters. (2026w, June 17). US official says parties can still walk away from Iran deal, sequencing will be key. https://www.reuters.com/world/europe/us-official-says-parties-can-still-walk-away-iran-deal-sequencing-will-be-key-2026-06-17/",
+    "Reuters. (2026x, February 26). US-Iran talks end with no deal but potential signs of progress. https://www.reuters.com/world/middle-east/us-iran-nuclear-talks-resume-geneva-against-backdrop-military-threat-2026-02-26/",
+    "Reuters. (2026y, August 29). War weighs on Iran’s economy as US intensifies sanctions. https://www.reuters.com/world/asia-pacific/war-weighs-irans-economy-us-intensifies-sanctions-2026-08-29/",
+    "Reuters. (2026z, March 28). Yemen’s Houthis enter Iran war with attack on Israel, while US Marines arrive in region. https://www.reuters.com/world/asia-pacific/rubio-sees-us-action-iran-completed-weeks-airstrikes-rumble-2026-03-28/",
+    "Reuters Connect. (2026, March 1). Pro-Iranian group’s drones target US military base in Iraq’s Erbil [Video]. https://www.reutersconnect.com/item/pro-iranian-groups-drones-target-us-military-base-in-iraqs-erbil/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBOTc5NDAxMDMyMDI2UlAx",
+    "U.S. Department of the Treasury, Bureau of the Fiscal Service. (2026). Debt to the penny [Data set]. FiscalData. https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
+    "U.S. Securities and Exchange Commission. (2026, March 11). iShares Staked Ethereum Trust ETF (Form 424B3). https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/iset20260311_424b3.htm",
+    "Wu, S. (2026a). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure: The China–Russia–Central Asia–Caspian network (EPINOVA Policy Brief No. EPINOVA–2026–PB–63). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.063",
+    "Wu, S. (2026b). A systemic theory of escalation and the loss-of-control threshold in networked conflict (EPINOVA Working Paper No. EPINOVA–WP–F–2026–09). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19139977",
+    "Wu, S. (2026c). Bargaining under systemic pressure: U.S. objective compression, Iranian leverage institutionalization, and the reconfiguration of negotiating goals in the 85-day conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–51). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.051",
+    "Wu, S. (2026d). Beyond buffer-state logic: Node-based agency in the Caspian–Middle East conflict network. In Conference proceedings of the 1st RCASBC International Conference 2026: Rethinking rule-based global order: Middle and small states in a changing world. Hong Kong Research Center for Asian Studies–Bangladesh Center & Department of International Relations, University of Chittagong. https://publications.epinova.org/epinova-2026-cp-02/",
+    "Wu, S. (2026e). China State Railway Group monthly Central Asia freight-train dataset, January–August 2026 [Author-compiled dataset].",
+    "Wu, S. (2026f). From separate wars to linked battlefields: The emerging risk of continentalized conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–64). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.064",
+    "Wu, S. (2026g). Is the U.S.–Israel–Iran conflict entering Phase III? Residual target depletion and the shift from asset destruction to functional disruption (EPINOVA Policy Brief No. EPINOVA–2026–PB–62). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.062",
+    "Wu, S. (2026h). Israel’s strategic position after the U.S.–Iran MOU: Options, constraints, and implementation risks (EPINOVA Policy Brief No. EPINOVA–2026–PB–57). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.057",
+    "Wu, S. (2026i). MarineTraffic_Master validation workbook [Unpublished validation dataset].",
+    "Wu, S. (2026j). MCCM v2.3.4: Complete Day 1–200 embedded analytical series and Day 200 summary [Unpublished author-coded dataset].",
+    "Wu, S. (2026k). Operational control versus systemic connectivity: The emerging structure of U.S.–China competition under networked warfare (EPINOVA Policy Brief No. EPINOVA–2026–PB–65). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.065",
+    "Wu, S. (2026l). Rerouting the Gulf: Bypass infrastructure and the changing strategic value of the Strait of Hormuz (EPINOVA Policy Brief No. EPINOVA–2026–PB–67). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.067",
+    "Wu, S. (2026m). Systemic warfare in the networked age: Operational systems, information competition, and cumulative pressure (EPINOVA Working Paper No. EPINOVA–WP–F–2026–07). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19078936",
+    "Wu, S. (2026n). The machine audience of war: AI-generated video, narrative occupancy, and machine-mediated information competition in the U.S.–Israel–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–71). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.071",
+    "Wu, S. (2026o). Three conflicts inside one war: The fragmentation of the U.S.–Israel–Iran conflict into U.S.–Iran, Iran–Israel, and U.S.–Israel tracks (EPINOVA Policy Brief No. EPINOVA–2026–PB–56). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.056",
+    "Yahoo Finance. (2026). U.S. Dollar Index (DX-Y.NYB) historical data. Retrieved September 15, 2026, from https://finance.yahoo.com/quote/DX-Y.NYB/history/"
+  ],
+  "recommended_citation": "Wu, S. (2026). The U.S.–Israel–Iran conflict on Day 200: Strategic objectives, systemic costs, and the rewiring of networked war (Research Report No. EPINOVA–2026–RR-02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.002",
+  "citation_apa": "Wu, S. (2026). The U.S.–Israel–Iran conflict on Day 200: Strategic objectives, systemic costs, and the rewiring of networked war. EPINOVA Research Report Series, EPINOVA-RR-2026-002. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.002.",
+  "short_citation": "Wu (2026), The U.S.–Israel–Iran Conflict on Day 200, EPINOVA–2026–RR-02.",
+  "imprint": {
+    "title": "EPINOVA Research Report Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-09-15",
+    "pagination": "44 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "China–Central Asia Freight-Train Activity, January–August 2026",
+      "description": "Monthly Central Asia train count and TEU activity with left axis for TEU and right axis for train count.",
+      "source": "Author-compiled monthly China State Railway Group series (Wu, 2026e)."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Caspian Port-System Activity Relative to the Historical Reference",
+      "description": "Caspian port-system activity means and Day 200 snapshot relative to a historical reference.",
+      "source": "EPINOVA/AIPAMS Iran–Caspian Port System Monitor (EPINOVA & AIPAMS, 2026)."
+    },
+    {
+      "number": "Figure 3",
+      "title": "MCCM v2.3.4 Raw and Risk-Adjusted Dynamics, Day 1–200",
+      "description": "Time-series comparison of raw MCCM mean and risk-adjusted composite through 200 analytical days.",
+      "source": "Author calculations from MCCM v2.3.4 (Wu, 2026j)."
+    },
+    {
+      "number": "Figure 4",
+      "title": "Day 200 MCCM Realm Scores",
+      "description": "Bar chart of ten MCCM realm scores on Day 200.",
+      "source": "MCCM v2.3.4 Day 200 summary (Wu, 2026j)."
+    },
+    {
+      "number": "Figure 5",
+      "title": "MCCM 35-Variable Systemic Radar: Day 1, Day 110 MOU, and Day 200",
+      "description": "Radar chart comparing 35 MCCM raw variables across Day 1, Day 110 MOU, and Day 200.",
+      "source": "Author calculations. Radar architecture: MCCM v2.1.1; data basis: MCCM v2.3.4 three-node series (Wu, 2026j)."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Strategic Objectives Across Three Analytical Snapshots: Prewar, June MOU, and Day 200",
+      "description": "Compares U.S., Iranian, nuclear, ballistic-missile, regional-network, Hormuz, and Israel-related positions across T1, T2, and T3.",
+      "source": "Reuters reporting on the February 26–27 negotiations and the June MOU; EPINOVA bargaining, alliance, and conflict-structure analysis."
+    },
+    {
+      "number": "Table 2",
+      "title": "Cumulative Military and Systemic Exposure Through Day 200",
+      "description": "Summarizes working counts for core direct military footprint, expanded/cross-theater exposure, direct economic disruption, direct resource exposure, resource-system routes, and indirect macroeconomic footprint.",
+      "source": "Author coding from the MCCM event ledger and public-source reporting (Wu, 2026j)."
+    },
+    {
+      "number": "Table 3",
+      "title": "Resource-System Exposure on Day 200",
+      "description": "Maps direct production/processing, route/chokepoint systems, and illustrative indirect exposure.",
+      "source": "Author coding based on public reporting on energy, fertilizer, shipping, and trade effects."
+    },
+    {
+      "number": "Table 4",
+      "title": "War Costs, Readiness, and Balance-Sheet Indicators by Actor",
+      "description": "Compares United States, Israel, and Iran on fiscal costs, reserves, trade, inflation, debt uncertainty, and readiness constraints.",
+      "source": "CBO estimates, Reuters reporting, and Bank of Israel official publications."
+    },
+    {
+      "number": "Table 5",
+      "title": "Market, Shipping, LNG, and Cloud Infrastructure Indicators Across Three Analytical Reference Points",
+      "description": "Compares Brent, WTI, Hormuz transits, Gulf oil exports, LNG, and AWS Gulf cloud status across prewar, MOU, and Day 200 reference points.",
+      "source": "Reuters reporting on energy markets, maritime traffic, LNG, and cloud infrastructure."
+    },
+    {
+      "number": "Table 6",
+      "title": "Sectoral and Second-Order Industrial Effects",
+      "description": "Summarizes observed conflict effects for refining/diesel, fertilizer/food inputs, maritime insurance, aviation, oilfield services, and cloud/AI infrastructure.",
+      "source": "Reuters sector reporting."
+    },
+    {
+      "number": "Table 7",
+      "title": "Financial Transmission Indicators Across the Prewar, MOU, and Day 200 Analytical Reference Points",
+      "description": "Compares DXY, USD/ILS, USD/IRR free market, spot gold, Bitcoin, Ethereum, and U.S. total public debt.",
+      "source": "Bank of Israel, Yahoo Finance, Reuters, Fortune, SEC, and U.S. Treasury FiscalData."
+    },
+    {
+      "number": "Table 8",
+      "title": "Structural Changes Observed by Day 200 and Their Strategic Significance",
+      "description": "Summarizes cross-domain uncrewed systems, operational knowledge, node-based agency, cross-theater coupling, recovery, dark logistics, cloud/AI infrastructure, and machine-mediated information competition.",
+      "source": "Reuters and EPINOVA studies."
+    },
+    {
+      "number": "Table 9",
+      "title": "MCCM Period-Level Raw and Risk-Adjusted Means, Analytical Days 1–200",
+      "description": "Reports Period I, II, and III raw and risk-adjusted means and interpretations.",
+      "source": "Author calculations from MCCM v2.3.4 (Wu, 2026j)."
+    },
+    {
+      "number": "Table 10",
+      "title": "MCCM Day 200 Summary Metrics",
+      "description": "Reports raw MCCM mean, risk-adjusted composite, ten-realm weighted mean, final systemic pressure, LoCT proximity, calibrated NFI risk, and calibrated threshold risk.",
+      "source": "MCCM v2.3.4 Day 200 summary (Wu, 2026j)."
+    },
+    {
+      "number": "Table A1",
+      "title": "Country-Level Evidence Ledger for the Core Direct Military Footprint Through Day 200",
+      "description": "Documents country-level exposure subtype, minimum qualifying event, analytical-day assignment, and verification status for the 13-state core direct military footprint.",
+      "source": "Author compilation from Reuters and Reuters Connect reporting on qualifying military-exposure events through the Day 200 cutoff."
+    }
+  ],
+  "appendices": [
+    {
+      "title": "Appendix A. Methodology, Coding Rules, and Data Limitations",
+      "description": "Defines analytical-day convention, evidence classification, direct and indirect footprint definitions, MCCM limitations and metric definitions, Caspian and rail limitations, and items excluded from the factual baseline."
+    }
+  ],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This report is an independent research publication of EPINOVA. It is based on publicly available information, official statements, media reporting, author-compiled datasets, and author-coded analytical models. Some conflict-related claims remain contested, incomplete, or subject to revision as additional evidence becomes available. MCCM scores, footprint classifications, logistics indicators, and other derived measures are analytical estimates rather than independently validated empirical or predictive measures. They should not be interpreted as probabilities, official assessments, or definitive measurements of military effectiveness, escalation risk, or economic impact. The analysis does not represent the official position of any government, military, institution, or third party. It is provided solely for research and policy discussion and does not constitute legal, military, operational, intelligence, investment, financial, or sanctions-compliance advice.",
+  "version_history": [
+    {
+      "version": "1.0",
+      "date": "2026-09-15",
+      "description": "Initial public release as EPINOVA Research Report No. EPINOVA–2026–RR-02."
+    }
+  ],
+  "metadata_source": {
+    "source_file": "The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-09-15",
+    "last_updated": "2026-09-15",
+    "notes": "PDF supplied title, subtitle, author, date, report number, About This Report, Executive Summary, Key Judgments, strategic trajectory, geographic and functional footprint, war costs, markets and infrastructure, financial transmission, logistics rewiring, innovation and structural change, MCCM v2.3.4 quantitative assessment, policy implications, conclusion, Appendix A, references, author and institutional affiliation, disclaimer, version history, citation recommendation, Figures 1-5, Tables 1-10, and Table A1. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF pages 37-40 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "The U.S.–Israel–Iran Conflict on Day 200: Strategic Objectives, Systemic Costs, and the Rewiring of Networked War",
+    "author": "Shaoyuan Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260916024110-04'00'",
+    "modification_date": "D:20260916024110-04'00'",
+    "pages": 44
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.rr.2026.002",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-rr-2026-002/",
+    "crossref_doi_suffix": "epinova.rr.2026.002",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Research Report",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.rr.2026.002",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.rr.2026.002",
+    "registered_url": "https://publications.epinova.org/epinova-rr-2026-002/",
+    "registration_date": "2026-09-15",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}
