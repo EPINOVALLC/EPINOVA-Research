@@ -1,0 +1,533 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-072",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-072",
+  "title": "Beyond Maritime Substitution",
+  "subtitle": "Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience",
+  "full_title": "Beyond Maritime Substitution: Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience",
+  "title_normalized": "beyond maritime substitution rail trucking and the emerging architecture of irans overland supply resilience",
+  "publication_date": "2026-09-18",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "Copyright © 2026 Shaoyuan Wu",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.072",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-072/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "description": "Official EPINOVA policy brief page"
+    },
+    {
+      "identifier": "EPINOVA–2026–PB–72",
+      "scheme": "EPINOVA policy brief number",
+      "description": "Policy brief number printed in the PDF"
+    },
+    {
+      "identifier": "Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf",
+      "scheme": "File name",
+      "description": "Source PDF file name"
+    },
+    {
+      "identifier": "Capacity conversion",
+      "scheme": "Analytical concept",
+      "description": "Process by which nominal gateway and corridor capacity becomes reliable delivered supply inside Iran"
+    },
+    {
+      "identifier": "Inland absorption",
+      "scheme": "Analytical concept",
+      "description": "Operational availability of Iranian inland logistics capacity across customs, trucks, drivers, fuel, warehousing, roads, and last-mile distribution"
+    },
+    {
+      "identifier": "Effective delivered supply",
+      "scheme": "Analytical concept",
+      "description": "Border-entry flow converted into final delivered supply after inland capacity availability and distribution reliability are applied"
+    },
+    {
+      "identifier": "Land diversion paradox",
+      "scheme": "Analytical mechanism",
+      "description": "Maritime capacity decline increases land demand, border and modal load, congestion and cost, thereby reducing marginal land effectiveness"
+    },
+    {
+      "identifier": "Converted capacity",
+      "scheme": "Analytical concept",
+      "description": "Share of potential flow that survives border friction, operational variability, and inland constraints to become reliable delivered supply"
+    }
+  ],
+  "description": "This policy brief examines Iran’s emerging overland supply architecture under sustained maritime constraint. It argues that Iran’s logistics adaptation is moving beyond discrete alternative corridors toward a functionally differentiated rail–road system linking Chinese gateways, Central Asian transit networks, Iranian border crossings, and domestic distribution. Rail and trucking are treated as complementary rather than interchangeable modes: rail supports scheduled, containerized, heavier-volume flows, while trucking adds flexibility for urgent, high-value, smaller-lot, and final-distribution cargo. The brief analyzes China–Central Asia rail data, Horgos and Alashankou gateway patterns, China–Iran block-train services, TIR and trucking evidence, APRIN Dry Port specifications, and reported Iranian border, fuel, and driver constraints. It concludes that the central issue is capacity conversion: overland resilience depends on how much nominal gateway and corridor access becomes reliable delivered supply inside Iran, not on route count alone.",
+  "abstract": "This policy brief examines Iran’s emerging overland supply architecture under sustained maritime constraint. It argues that Iran’s logistics adaptation is moving beyond discrete alternative corridors toward a functionally differentiated rail–road system linking Chinese gateways, Central Asian transit networks, Iranian border crossings, and domestic distribution. Rail and trucking are complementary rather than interchangeable modes: rail supports scheduled, containerized, heavier-volume flows, while trucking adds flexibility for urgent, high-value, smaller-lot, fragmented, project, and final-distribution cargo. The analysis combines official railway and border statistics, published facility capacity, current reporting on route use and disruption, and commercial logistics materials used only to identify marketed service characteristics. It finds that China–Central Asia rail data show moderate, not indiscriminate, expansion; Horgos provides the stronger westbound gateway signal; and TIR and operator evidence indicate growing commercial readiness while also showing that advertised “direct” services can include transloading. The brief concludes that Iran’s overland system has become more operationally mature and commercially differentiated, but its strategic role remains threshold delay and selective continuity rather than maritime-scale substitution. The central issue is capacity conversion: resilience depends on how much nominal gateway and corridor access becomes reliable delivered supply inside Iran.",
+  "keywords": [
+    "Iran logistics",
+    "overland supply resilience",
+    "maritime substitution",
+    "capacity conversion",
+    "rail-road architecture",
+    "China–Central Asia rail",
+    "Horgos",
+    "Alashankou",
+    "Sarakhs",
+    "Incheh Borun",
+    "TIR",
+    "trucking",
+    "APRIN Dry Port",
+    "Caspian multimodal routes",
+    "Iran border crossings",
+    "supply resilience",
+    "logistics rewiring",
+    "threshold delay",
+    "converted capacity",
+    "land diversion paradox",
+    "Hormuz pressure",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Logistics resilience",
+    "Maritime security",
+    "Supply chains",
+    "Iran",
+    "Central Asia",
+    "Rail transport",
+    "Road transport",
+    "TIR customs transit",
+    "Critical infrastructure",
+    "Geopolitical risk",
+    "International security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-09-18",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-09-18",
+      "date_type": "Created",
+      "description": "PDF creation date and metadata creation date"
+    },
+    {
+      "date": "2026-09-18",
+      "date_type": "Date printed in PDF",
+      "description": "Date displayed on the title page"
+    },
+    {
+      "date": "2026-09-18",
+      "date_type": "Metadata updated",
+      "description": "Metadata updated after Crossref registration confirmation email was received and DOI status was marked as registered"
+    },
+    {
+      "date": "2026-09-18",
+      "date_type": "Data cutoff",
+      "description": "Public-source data cutoff stated in the policy brief"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72/Beyond%20Maritime%20Substitution%20Rail%2C%20Trucking%2C%20and%20the%20Emerging%20Architecture%20of%20Iran%E2%80%99s%20Overland%20Supply%20Resilience.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-072",
+    "series_description": "Policy brief series translating EPINOVA research on strategic competition, geopolitics, emerging security, systemic risk, infrastructure, logistics, and global security governance into concise policy-facing analysis."
+  },
+  "methodology": {
+    "framework_name": "Capacity Conversion and Rail–Road Overland Supply Resilience Framework",
+    "source_basis": "Exploratory policy assessment combining official railway and border statistics, published facility capacity, reporting on route use and disruption, and commercial logistics materials treated as marketed service evidence rather than independently verified performance.",
+    "case_context": "Iran’s China–Central Asia–Iran rail–road logistics adaptation under sustained maritime constraint through September 18, 2026.",
+    "core_problem": "The central analytical problem is how nominal gateway and corridor access is converted into reliable delivered supply inside Iran under maritime pressure, border friction, fuel and driver constraints, and inland distribution bottlenecks.",
+    "central_claims": [
+      "Iran’s overland adaptation is becoming a functionally differentiated rail–road architecture rather than a collection of discrete alternative corridors.",
+      "Rail and trucking are complementary, not interchangeable, modes of overland resilience.",
+      "China–Central Asia regional rail data should not be interpreted as Iran-bound cargo.",
+      "TIR reduces customs-transit and guarantee friction but does not imply same-vehicle continuity or zero cargo handling from China to Iran.",
+      "The binding issue is capacity conversion rather than route count.",
+      "The overland architecture provides selective continuity and threshold delay rather than maritime-scale substitution.",
+      "Diversion can create its own constraints by increasing pressure on borders, trucks, drivers, fuel, warehousing, and inland distribution."
+    ],
+    "analytical_lenses": [
+      {
+        "name": "Capacity Conversion",
+        "description": "Assesses how nominal access becomes reliable delivered supply."
+      },
+      {
+        "name": "Inland Absorption",
+        "description": "Captures customs, trucks, drivers, fuel, warehousing, roads, and last-mile constraints on Iranian inland logistics."
+      },
+      {
+        "name": "Functional Differentiation",
+        "description": "Distinguishes rail and trucking by cargo fit, batch economics, schedule profile, last-mile role, and analytical risk."
+      },
+      {
+        "name": "Gateway Conversion",
+        "description": "Separates China-side rail-gateway signals from Iran-bound throughput."
+      },
+      {
+        "name": "Land Diversion Paradox",
+        "description": "Identifies how maritime constraint increases land demand and thereby raises congestion, cost, and marginal capacity loss."
+      },
+      {
+        "name": "Evidence Grading",
+        "description": "Separates what observed indicators support from what they do not prove."
+      }
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Inland Absorption",
+      "code": "AINLAND",
+      "indicator_type": "Capacity-conversion factor",
+      "description": "Operational availability of nominal Iranian inland capacity across customs, trucks, drivers, fuel, warehousing, roads, and last-mile distribution.",
+      "observed_pattern": "One binding component can cap inland absorption even when other elements retain spare capacity.",
+      "interpretation": "Resilience depends on the weakest inland conversion component."
+    },
+    {
+      "name": "Effective Capacity",
+      "code": "CEFFECTIVE",
+      "indicator_type": "End-to-end throughput heuristic",
+      "description": "End-to-end throughput ceiling across China gateway, transit, Iran gateway, and discounted Iranian inland capacity.",
+      "observed_pattern": "Expansion at one node raises network capacity only when remaining stages can absorb the additional flow.",
+      "interpretation": "Route availability cannot be equated with delivered supply."
+    },
+    {
+      "name": "Effective Delivered Supply",
+      "code": "EDS",
+      "indicator_type": "Delivered-supply heuristic",
+      "description": "Realized border-entry flow converted into final delivery after inland availability and distribution reliability are applied.",
+      "observed_pattern": "Ainland measures capacity availability; Rdistribution measures reliability conditional on that capacity.",
+      "interpretation": "Border entry does not automatically become delivered supply."
+    },
+    {
+      "name": "Rail Layer",
+      "code": "RAIL",
+      "indicator_type": "Mode function",
+      "description": "Scheduled, repeatable, containerized, heavier-volume flows through China–Central Asia–Iran alignments.",
+      "observed_pattern": "China–Central Asia rail traffic grew moderately through August 2026; Horgos provides the strongest westbound gateway signal.",
+      "interpretation": "Rail supports repeatability and consolidated movement but should not be read as maritime-equivalent throughput."
+    },
+    {
+      "name": "Trucking Layer",
+      "code": "ROAD",
+      "indicator_type": "Mode function",
+      "description": "Flexible dispatch, urgent replenishment, smaller-lot access, high-value goods, project cargo, and final-distribution reach.",
+      "observed_pattern": "Operator evidence shows commercial readiness and advertised China–Iran service ranges while also showing transloading in some “direct” services.",
+      "interpretation": "Firm-level road advantage does not imply system-level road substitution."
+    },
+    {
+      "name": "TIR Layer",
+      "code": "TIR",
+      "indicator_type": "Customs-transit mechanism",
+      "description": "Standardized customs-transit documentation and guarantee arrangement for sealed transit movements.",
+      "observed_pattern": "Intermodal TIR institutionalization is visible in the broader Central Asian network.",
+      "interpretation": "TIR reduces procedural friction but does not eliminate handoffs or guarantee same-vehicle continuity."
+    },
+    {
+      "name": "Land Diversion Paradox",
+      "code": "LDP",
+      "indicator_type": "Endogenous constraint mechanism",
+      "description": "Maritime capacity decline increases land demand, border and mode load, congestion and cost, which can reduce marginal land effectiveness.",
+      "observed_pattern": "Expanded land traffic produced longer queues, infrastructure strain, higher costs, and reported fuel/driver pressures.",
+      "interpretation": "Diversion can erode the effectiveness of the alternatives intended to absorb maritime shock."
+    }
+  ],
+  "formulas": [
+    {
+      "number": "Equation 1",
+      "title": "Inland-Absorption Coefficient",
+      "formula": "A_inland ≈ min(a_customs, a_trucks, a_drivers, a_fuel, a_warehousing, a_roads, a_last-mile)",
+      "description": "Conservative heuristic for the share of nominal Iranian inland logistics capacity that is operationally available."
+    },
+    {
+      "number": "Equation 2",
+      "title": "Effective Capacity",
+      "formula": "C_effective = min(C_China gateway, C_transit, C_Iran gateway, C_Iran inland^nom × A_inland)",
+      "description": "Heuristic for end-to-end throughput ceiling across gateway, transit, Iranian entry, and inland constraints."
+    },
+    {
+      "number": "Equation 3",
+      "title": "Effective Delivered Supply",
+      "formula": "EDS = min(F_entry, C_Iran inland^nom × A_inland) × R_distribution",
+      "description": "Heuristic for realized delivered supply after border entry, inland availability, and distribution reliability."
+    },
+    {
+      "number": "Mechanism",
+      "title": "Land Diversion Paradox",
+      "formula": "Maritime Capacity ↓ → Land Demand ↑ → Border / Mode Load ↑ → Congestion & Cost ↑ → Marginal Land Effectiveness ↓",
+      "description": "Analytical mechanism describing how overland diversion can generate its own congestion and cost constraints."
+    }
+  ],
+  "key_findings": [
+    "Iran’s overland adaptation has moved beyond route availability toward a structured rail–road architecture.",
+    "The overland system remains a resilience system rather than a system-scale replacement for maritime logistics.",
+    "China–Central Asia rail data show moderate system growth rather than indiscriminate expansion.",
+    "Horgos is the stronger westbound gateway signal, while Alashankou’s cumulative outbound traffic remained below 2025 despite recent recovery.",
+    "Rail and trucking are functionally complementary rather than direct substitutes.",
+    "TIR should not be equated with a single tractor, driver, or zero cargo handling from China to Iran.",
+    "The binding issue is capacity conversion: border processing, trucks, drivers, fuel, warehousing, and domestic distribution determine how much nominal access becomes delivered supply inside Iran.",
+    "The overland architecture provides continuity and threshold delay under constraint rather than maritime-scale substitution.",
+    "Expanded land diversion can increase congestion and cost, reducing the marginal effectiveness of overland alternatives."
+  ],
+  "policy_recommendations": [
+    "Track converted throughput rather than route counts.",
+    "Separate regional Central Asia rail data from Iran-bound data.",
+    "Assess rail and road by function, cargo fit, frequency, utilization, border dwell, terminal handling, dispatch availability, transload count, fuel and driver conditions, and final-delivery reliability.",
+    "Record pricing boundaries before comparing crisis-era logistics quotes.",
+    "Treat inland absorption as a leading indicator by monitoring border queues, customs release time, truck and driver availability, fuel access, warehouse conditions, and APRIN utilization.",
+    "Code recurring capacity only after repeated movements, realized transit, and downstream release are observed."
+  ],
+  "evidence_table": [
+    {
+      "indicator": "Central Asia train totals",
+      "what_it_supports": "Regional rail activity and gateway trends",
+      "what_it_does_not_prove": "Iran-bound volume or cargo composition"
+    },
+    {
+      "indicator": "Xi’an–Tehran frequency reports",
+      "what_it_supports": "Corridor-specific service acceleration",
+      "what_it_does_not_prove": "Observed on-time performance for every departure"
+    },
+    {
+      "indicator": "September 55-container block train",
+      "what_it_supports": "Operational route variant via Uzbekistan and Sarakhs",
+      "what_it_does_not_prove": "Sustained recurring capacity until repeated movements are observed"
+    },
+    {
+      "indicator": "TIR / FTL / LTL marketing",
+      "what_it_supports": "Commercial readiness and product availability",
+      "what_it_does_not_prove": "Zero transloading, same tractor/driver, or guaranteed door-to-door time"
+    },
+    {
+      "indicator": "APRIN published capacity",
+      "what_it_supports": "Nominal terminal design capability",
+      "what_it_does_not_prove": "Current utilization or China–Iran throughput"
+    },
+    {
+      "indicator": "Border and fuel stress reports",
+      "what_it_supports": "Live downstream constraints on land logistics",
+      "what_it_does_not_prove": "A uniform nationwide failure of all road transport"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "Supplementary repository and structural archive"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026a). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Policy brief",
+      "description": "Earlier EPINOVA assessment of the China–Russia–Central Asia–Caspian network"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026d). The U.S.–Israel–Iran conflict on Day 200",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Research report",
+      "description": "Referenced for the Day 200 finding that Eurasian alternatives provide network diversification rather than route substitution"
+    }
+  ],
+  "references": [
+    "APRIN Dry Port. (n.d.). Infrastructure & facilities. Retrieved September 18, 2026, from https://www.aprindryport.com/services/infrastructure-facilities",
+    "China Iran Trucks. (n.d.). China–Iran transit time: 21–23 days Wuqia to Tehran, and what moves it. Retrieved September 18, 2026, from https://chinairantrucks.com/en/articles/22-days/",
+    "China State Railway Group. (2026, September 14). 2026年8月中亚班列开行信息按境内口岸站统计 [August 2026 Central Asia train operations by domestic border station; data set]. China Railway Express data portal. https://www.crexpress.cn/#/rankingExportPorts",
+    "DuoTrans. (2026, July 29). 伊朗专线 [Iran dedicated logistics service]. https://www.duotrans.cn/yilangzhuanxian/",
+    "Faucon, B., & Bayan, H. (2026a, September 11). Iranians are running out of gas as economic squeeze takes hold. The Wall Street Journal. https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b",
+    "Faucon, B., & Bayan, H. (2026b, September 17). Iran’s attempts to get around the Hormuz blockade are hitting a wall. The Wall Street Journal. https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe",
+    "Financial Times. (2026, September 18). Iran activates land routes to bypass US blockade. https://www.ft.com/content/f69943f7-b173-444c-a79e-c9396a0380bd",
+    "Interfax. (2026, September 10). First block train launches from China to Iran in transit through Uzbekistan. https://www.interfax.com/newsroom/top-stories/119080/",
+    "International Road Transport Union. (n.d.). How TIR works. https://www.iru.org/what-we-do/facilitating-trade-and-transit/tir/how-tir-works",
+    "International Road Transport Union. (2026, April 17). China launches first intermodal TIR shipment. https://www.iru.org/news-resources/newsroom/china-launches-first-intermodal-tir-shipment",
+    "Sykes, P., & Motevalli, G. (2026, May 8). Iran turns to China rail link to try to bypass US blockade. Bloomberg. https://www.bloomberg.com/news/articles/2026-05-08/iran-turns-to-china-rail-link-to-try-to-bypass-us-blockade",
+    "Tianshan Net–Xinjiang Daily. (2026, May 19). 前四月霍尔果斯公路口岸客货运量增加明显 [Horgos road-port passenger and freight volumes rose markedly in the first four months]. https://www.btzx.com.cn/web/2026/5/19/ARTI1779158569974927.html",
+    "Xinjiang Uygur Autonomous Region People’s Government. (2026, July 8). 上半年新疆边检机关查验出入境人员240.8万人次 [Xinjiang border inspection data for the first half of 2026]. https://www.xinjiang.gov.cn/xinjiang/bmdt/202607/558143734cc047eb8d871b6461fd0870.shtml",
+    "Wu, S. (2026a). A preliminary assessment of eastward and northward logistics alternatives under Hormuz pressure: The China–Russia–Central Asia–Caspian network (Policy Brief No. EPINOVA–2026–PB-63). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.063",
+    "Wu, S. (2026b). Beyond Hormuz: Iran’s ten-corridor logistics adaptation under blockade pressure (Policy Brief No. EPINOVA–2026–PB-42). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.042",
+    "Wu, S. (2026c). Russia–Iran northern supply capacity: A three-channel assessment of sustained throughput under constraint (Policy Brief No. EPINOVA–2026–PB-27). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.5281/zenodo.19476666",
+    "Wu, S. (2026d). The U.S.–Israel–Iran conflict on Day 200: Strategic objectives, systemic costs, and the rewiring of networked war (Research Report No. EPINOVA–2026–RR-02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.002"
+  ],
+  "recommended_citation": "Wu, S. (2026). Beyond maritime substitution: Rail, trucking, and the emerging architecture of Iran’s overland supply resilience (Policy Brief No. EPINOVA–2026–PB–72). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.072",
+  "citation_apa": "Wu, S. (2026). Beyond maritime substitution: Rail, trucking, and the emerging architecture of Iran’s overland supply resilience. EPINOVA Policy Brief Series, EPINOVA-PB-2026-072. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.072.",
+  "short_citation": "Wu (2026), Beyond Maritime Substitution, EPINOVA–2026–PB–72.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "place": "United States",
+    "publisher": "EPINOVA LLC",
+    "publisher_unit": "Global AI Governance and Policy Research Center",
+    "edition": "v1.0",
+    "date": "2026-09-18",
+    "pagination": "11 pages"
+  },
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Principal China–Iran Rail, Trucking, and Caspian Multimodal Links",
+      "description": "Schematic map of China–Iran rail, trucking, and Caspian multimodal links, including Chinese gateways, Central Asian transit alignments, Iranian border crossings, and Caspian routes.",
+      "source": "Author rendering based on China State Railway Group (2026), China Iran Trucks (n.d.), Interfax (2026), International Road Transport Union (2026), APRIN Dry Port (n.d.), and open-source geographic references.",
+      "note": "Routes are schematic corridor alignments rather than exact track- or highway-centerline geometry."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Monthly Outbound China–Central Asia Rail TEU by Gateway, January–August 2026",
+      "description": "Line chart comparing outbound TEU for all Central Asia trains, Horgos, and Alashankou.",
+      "source": "Author calculations from China State Railway Group data (2026)."
+    },
+    {
+      "number": "Figure 3",
+      "title": "Outbound and Return Central Asia Rail TEU at Horgos and Alashankou, January–August 2026",
+      "description": "Bar chart comparing outbound and return TEU at Horgos and Alashankou.",
+      "source": "Author calculations from China State Railway Group data (2026)."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "China–Central Asia Rail Traffic by Gateway, January–August 2026",
+      "description": "Compares all Central Asia, Horgos, and Alashankou train and TEU activity by direction and year-on-year change.",
+      "source": "China State Railway Group, August 2026 monthly dataset, published September 14, 2026; calculations by author."
+    },
+    {
+      "number": "Table 2",
+      "title": "Functional Differentiation of Rail and Trucking in Iran’s Overland Supply Architecture",
+      "description": "Compares rail and trucking by primary function, typical cargo fit, batch economics, schedule profile, last-mile role, core evidence, and analytical risk.",
+      "source": "Author’s analysis based on China State Railway Group (2026), IRU (n.d., 2026), Sykes and Motevalli (2026), Interfax (2026), China Iran Trucks (n.d.), and DuoTrans (2026)."
+    },
+    {
+      "number": "Table 3",
+      "title": "What the Current Evidence Shows and Does Not Show",
+      "description": "Evidence-grading table distinguishing what current indicators support from what they do not prove.",
+      "source": "Author’s assessment."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This policy brief is an institutional research publication of EPINOVA LLC. It is based on publicly available information and does not represent the official position of any government or external organization. It is intended solely for research and policy discussion and does not constitute legal, sanctions-compliance, customs, investment, military, or operational shipping advice.",
+  "metadata_source": {
+    "source_file": "Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf",
+    "source_type": "PDF",
+    "extraction_method": "PDF text extraction, rendered-page inspection, PDF embedded metadata extraction, author-reported Crossref registration confirmation, and EPINOVA metadata schema alignment",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-09-18",
+    "last_updated": "2026-09-18",
+    "notes": "PDF supplied publication number, title, subtitle, author, affiliation, date, core assessment, key judgments, executive summary, evidence scope and methodological note, capacity-conversion formulas, rail-gateway analysis, trucking and TIR analysis, land diversion paradox, monitoring implications, limitations, conclusion, references, Figure 1-3, and Table 1-3. Crossref registration confirmation email was reported by the author, so DOI status is marked as registered. References appearing on PDF page 11 are preserved in the metadata references field."
+  },
+  "pdf_metadata": {
+    "title": "Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order",
+    "author": "Shaoyuan Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20260918191459-04'00'",
+    "modification_date": "D:20260918191459-04'00'",
+    "pages": 11
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.072",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registered under EPINOVA LLC prefix 10.67037 and resolving to the official EPINOVA landing page. Crossref Web Deposit Form record type used: Report; deposit type used: Report.",
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-072/",
+    "crossref_doi_suffix": "epinova.pb.2026.072",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No Zenodo/DataCite DOI is indicated for this PDF. Datasets, code, figures, and supplementary materials may be assigned DataCite-based DOIs separately if needed."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.1",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.072",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.072",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-072/",
+    "registration_date": "2026-09-18",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

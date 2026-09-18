@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-072** (2026-09-18)  
+  **Beyond Maritime Substitution: Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.072](https://doi.org/10.67037/epinova.pb.2026.072)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-72/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72)  
+  Source PDF: [`Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72/Beyond%20Maritime%20Substitution%20Rail%2C%20Trucking%2C%20and%20the%20Emerging%20Architecture%20of%20Iran%E2%80%99s%20Overland%20Supply%20Resilience.pdf)
+
 - **EPINOVA-PB-2026-071** (2026-09-07)  
   **The Machine Audience of War: AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.068](https://doi.org/10.67037/epinova.pb.2026.068)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-68/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-68)  
   Source PDF: [`Iran After Succession Power, Access, and Institutional Rebalancing under Mojtaba Khamenei.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-68/Iran%20After%20Succession%20Power%2C%20Access%2C%20and%20Institutional%20Rebalancing%20under%20Mojtaba%20Khamenei.pdf)
-
-- **EPINOVA-PB-2026-067** (2026-08-10)  
-  **Rerouting the Gulf: Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.067](https://doi.org/10.67037/epinova.pb.2026.067)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-67/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-67)  
-  Source PDF: [`Rerouting the Gulf Bypass Infrastructure and the Changing Strategic Value of the Strait of Hormuz.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-67/Rerouting%20the%20Gulf%20Bypass%20Infrastructure%20and%20the%20Changing%20Strategic%20Value%20of%20the%20Strait%20of%20Hormuz.pdf)
 
 ---
 
