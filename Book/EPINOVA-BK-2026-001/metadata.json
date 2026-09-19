@@ -15,8 +15,8 @@
   "number_of_volumes": 4,
   "edition": "First Edition",
   "isbn": "",
-  "doi": "10.67037/epinova.bk.2026.001",
-  "publication_date": "2026-06-30",
+  "doi": null,
+  "publication_date": "2026-09-10",
   "publication_year": 2026,
   "language": "en",
   "version": "1.0",
@@ -70,8 +70,8 @@
     "title": "All rights reserved",
     "url": ""
   },
-  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete four-volume edition (1st ed., Version 1.0). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.001",
-  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.001",
+  "citation_apa": "Wu, S. (2026). Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete four-volume edition (1st ed., Version 1.0). EPINOVA Press LLC.",
+  "recommended_citation": "Wu, Shaoyuan. Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition. First Edition, Framework Version 1.0. EPINOVA Press LLC, 2026.",
   "alternate_identifiers": [
     {
       "scheme": "ASIN",

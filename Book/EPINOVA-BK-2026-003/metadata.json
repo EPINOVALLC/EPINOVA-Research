@@ -15,7 +15,7 @@
   "edition": "First Edition",
   "isbn": "979-8-89958-002-4",
   "doi": "10.67037/epinova.bk.2026.003",
-  "publication_date": "2026-06-30",
+  "publication_date": "2026-09-10",
   "publication_year": 2026,
   "language": "en",
   "version": "1.0",
@@ -92,8 +92,8 @@
   "related_works": [
     {
       "relation": "IsPartOf",
-      "identifier": "10.67037/epinova.bk.2026.001",
-      "scheme": "DOI",
+      "identifier": "https://publications.epinova.org/epinova-bk-2026-001/",
+      "scheme": "URL",
       "resource_type": "Book",
       "description": "Global Artificial Intelligence Development and Competitiveness Assessment Framework: Complete Four-Volume Edition"
     }
