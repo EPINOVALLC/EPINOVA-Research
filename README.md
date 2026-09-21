@@ -303,6 +303,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 #### WP-F — Conflict, Escalation, and Networked Warfare
 
+- **EPINOVA-WP-F-2026-013** (2026-09-21)  
+  **The Limits of Strategic Reach: Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality**  
+  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
+  DOI: [10.67037/epinova.wp.f.2026.013](https://doi.org/10.67037/epinova.wp.f.2026.013)  
+  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–13/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9313)  
+  Source PDF: [`The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9313/The%20Limits%20of%20Strategic%20Reach%20Commitment%20Overhang%2C%20Power%20Conversion%2C%20and%20the%20Erosion%20of%20Strategic%20Optionality.pdf)
+
 - **EPINOVA-WP-F-2026-012** (2026-09-03)  
   **The Decoupling of Geographic and Strategic Distance: Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare**  
   Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
@@ -316,13 +323,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.wp.f.2026.011](https://doi.org/10.67037/epinova.wp.f.2026.011)  
   Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–11/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9311)  
   Source PDF: [`From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9311/From%20Wartime%20Leverage%20to%20Post-MOU%20State%20Capacity%20Iran%E2%80%99s%20Reconstruction%2C%20Institutional%20Recovery%2C%20and%20Strategic%20Network%20Rebalancing.pdf)
-
-- **EPINOVA-WP-F-2026-010** (2026-06-16)  
-  **The War That Measured America: Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System**  
-  Publication page: [https://epinova.org/working-papers](https://epinova.org/working-papers)  
-  DOI: [10.67037/epinova.wp.f.2026.010](https://doi.org/10.67037/epinova.wp.f.2026.010)  
-  Source folder: [`Working Paper/F/2026/PINOVA–WP–F–2026–10/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310)  
-  Source PDF: [`The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Working%20Paper/F/2026/PINOVA%E2%80%93WP%E2%80%93F%E2%80%932026%E2%80%9310/The%20War%20That%20Measured%20America%20Why%20Washington%20Entered%20the%20U.S.%E2%80%93Iran%20Conflict%2C%20What%20It%20Revealed%2C%20and%20How%20It%20Accelerated%20a%20Eurasian%20Counter-System.pdf)
 
 #### WP-D — Data Centers, Infrastructure, and Local Governance
 

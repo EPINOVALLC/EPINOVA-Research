@@ -1,3 +1,7 @@
+Working Paper/F/2026/PINOVA–WP–F–2026–13/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
+Working Paper/F/2026/PINOVA–WP–F–2026–13/metadata.json
+docs/epinova-wp-f-2026-013/index.html
+docs/files/epinova-wp-f-2026-013/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
