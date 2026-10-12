@@ -1,0 +1,277 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-073",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-073",
+  "title": "ASEAN in the Emerging AI Power Order",
+  "subtitle": "Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy",
+  "full_title": "ASEAN in the Emerging AI Power Order: Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy",
+  "publication_date": "2026-10-11",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.073",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-073/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "description": "This policy brief examines ASEAN’s place in the emerging AI power order as a distributed regional coordination and overlap environment rather than a unified AI power. It distinguishes AI National Power at the member-state level, AI Boundary Power at specific controller–target–interface relations, Boundary Autonomy as the ability to preserve functions through credible alternatives, and Systemic Influence as a separate outcome requiring persistent, sufficiently broad, and credibly attributable effects. The brief compares the differentiated functional roles of ASEAN’s eleven members, analyzes four regional mechanisms—aggregation, interoperability, option-set expansion, and mediation—and examines overlap among U.S., Chinese, domestic, Japanese, Korean, European, Indian, and Gulf-linked technological systems. A diagnostic Malaysia–Singapore advanced-compute case illustrates how locally held legal and regulatory interfaces can become strategically consequential without creating a unified ASEAN enforcement regime. The brief concludes that ASEAN’s strategic relevance lies in interoperable pluralism: preserving multiple workable connections, strengthening nationally controlled interfaces, and converting coordination and investment into operational interoperability, credible alternatives, and durable local capability.",
+  "abstract": "Southeast Asia is often portrayed as a contested space between U.S. and Chinese artificial-intelligence ecosystems. This brief argues that ASEAN is best understood as a distributed regional coordination and overlap environment. AI National Power remains attributable to member-state systems and their usable, mobilizable functions. AI Boundary Power is relational; Boundary Autonomy describes a target's credible ability to switch, substitute, bypass, or internalize at an interface; and Systemic Influence requires a separate showing of persistent, sufficiently broad, credibly attributable effects. Four mechanisms warrant attention: aggregation of complementary nodes, interoperability among systems, expansion of credible national options, and mediation across external technology and governance agendas. The immediate policy opportunity is interoperable pluralism: preserving multiple workable connections, securing nationally controlled interfaces, and converting investments into capabilities that can operate across organizational and technological boundaries.",
+  "keywords": [
+    "ASEAN",
+    "AI power order",
+    "AI National Power",
+    "AI Boundary Power",
+    "Boundary Autonomy",
+    "Systemic Influence",
+    "strategic autonomy",
+    "interoperable pluralism",
+    "regional coordination",
+    "technological overlap",
+    "Southeast Asia",
+    "advanced compute",
+    "cloud infrastructure",
+    "AI governance",
+    "option-set expansion",
+    "interoperability",
+    "regional mediation",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "Geopolitics of AI",
+    "Southeast Asia",
+    "ASEAN",
+    "Strategic autonomy",
+    "Technology policy",
+    "Cloud infrastructure",
+    "Semiconductor governance",
+    "Digital governance",
+    "Regional institutions",
+    "International security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-10-11",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-10-11",
+      "date_type": "Metadata updated",
+      "description": "Crossref registration confirmed by email"
+    },
+    {
+      "date": "2026-09-30",
+      "date_type": "Evidence cutoff",
+      "description": "Evidence cutoff stated in the analytical scope"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-73",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-073"
+  },
+  "methodology": {
+    "framework_name": "ANP–ABP–Boundary Autonomy–Systemic Influence Regional Coordination Framework",
+    "geographic_scope": "ASEAN’s eleven member states, including Timor-Leste following its admission in October 2025.",
+    "evidentiary_scope": "Evidence cutoff: September 30, 2026. Functional roles are overlapping and time-indexed. Supported, Bounded/Function-Specific, Formation-Stage, and Evidence-Constrained labels qualify claims rather than rank countries.",
+    "core_problem": "How differentiated national AI capabilities, locally administered boundary rights, and overlapping external technological systems interact through ASEAN coordination without being collapsed into a single regional stock of AI power."
+  },
+  "regional_mechanisms": [
+    {
+      "name": "Aggregation",
+      "description": "Regional complementarity without proof of joint mobilization."
+    },
+    {
+      "name": "Interoperability",
+      "description": "Reduced coordination costs across national rules and technological systems while enforcement remains national."
+    },
+    {
+      "name": "Option-set expansion",
+      "description": "Potential strategic advantage from multiple suppliers, hosting sites, model ecosystems, and legal pathways, conditional on demonstrated substitution."
+    },
+    {
+      "name": "Mediation",
+      "description": "ASEAN’s recurring institutional role across external technology and governance forums without implying equidistance or enforceable regional control."
+    }
+  ],
+  "key_findings": [
+    "ASEAN is a consequential coordination environment rather than a unified AI power.",
+    "Member-state functions matter more than a single readiness ranking.",
+    "Technological overlap is not equivalent to geopolitical alignment.",
+    "Interoperability may increase strategic options without pooling sovereignty.",
+    "Selected advanced-compute interfaces show consequential local boundary control.",
+    "No current evidence establishes region-wide Systemic Influence.",
+    "The 2030 policy test is conversion rather than institutional symbolism."
+  ],
+  "policy_recommendations": [
+    "Turn regional AI guidance into verifiable interoperability.",
+    "Measure nationally usable capacity rather than announced infrastructure.",
+    "Test substitution at critical interfaces.",
+    "Convert hosting and industrial investment into domestic learning.",
+    "Preserve multiple external partnerships while distinguishing control rights."
+  ],
+  "pathways_2030": [
+    {
+      "name": "Interoperable pluralism",
+      "description": "Regional guidance supports recurring cross-border functions, meaningful substitutability, and differentiated partnerships."
+    },
+    {
+      "name": "Parallel expansion",
+      "description": "Infrastructure and policy investments proliferate while systems remain administratively or technically disconnected."
+    },
+    {
+      "name": "Fragmented dependence",
+      "description": "Critical interfaces become concentrated or incompatible and external restrictions force costly adaptation."
+    }
+  ],
+  "tests_2030": [
+    "Number and functional significance of cross-border arrangements actually operating.",
+    "Demonstrated portability or recovery of priority AI services after provider interruption.",
+    "Transparent evidence of domestic value capture from hosted infrastructure.",
+    "Interoperability of governance and compliance procedures without suppression of national experimentation.",
+    "Inclusion of lower-capacity members in operational rather than merely ceremonial regional programs."
+  ],
+  "references": [
+    "Amazon Web Services. (2024, August 21). AWS launches infrastructure region in Malaysia.",
+    "ASEAN Secretariat. (2024). ASEAN guide on AI governance and ethics.",
+    "ASEAN Secretariat. (2025). ASEAN responsible AI roadmap (2025–2030).",
+    "ASEAN Secretariat. (2026a). ASEAN digital masterplan 2030.",
+    "ASEAN Secretariat. (2026b, May 22). ASEAN and the U.S. convened the AI Ministerial to deepen cooperation on AI development and governance.",
+    "ASEAN Secretariat. (2026c, July 18). Secretary-General of ASEAN shares ASEAN’s perspectives on global AI governance at the 2026 High-Level Meeting on Global AI Governance.",
+    "Board of Investments. (2026, April 20). Philippines, US partner in first-ever AI-native industrial acceleration.",
+    "FPT AI Factory. (2026, March 25). FPT AI Factory accelerates AI reasoning capabilities across Southeast Asia and Japan with NVIDIA.",
+    "Google Cloud. (2026, January 21). Google Cloud launches new region in Bangkok, Thailand.",
+    "Google Indonesia. (2025, November 13). e-Conomy SEA 2025: Ekonomi digital Indonesia mendekati GMV $100 miliar tahun ini.",
+    "Government of Timor-Leste. (2026, April 17). Government promotes public consultation on Timor-Leste’s Digital Transformation Strategy 2026–2036.",
+    "Government of Viet Nam. (2026, August 28). Decision No. 1671/QD-TTg approving the National Strategy on Artificial Intelligence through 2030, with a vision to 2045.",
+    "Infocomm Media Development Authority. (2025, September 19). ASEAN Working Group on AI Governance (WG-AI).",
+    "Infocomm Media Development Authority. (2026, May 20). Accelerate real-world deployment: Major collaborations to drive effective, responsible AI deployment across Singapore’s key industries.",
+    "Lao News Agency. (2026, April 7). Laos unveils G-Chat v2, LaoAI to secure and modernise public communications.",
+    "Ministry of Communication and Digital Affairs. (2026a, May 6). Indonesia pilih jalan tengah dalam perebutan teknologi global.",
+    "Ministry of Communication and Digital Affairs. (2026b, July 6). Compute cluster jadi kunci daya saing AI Indonesia.",
+    "Ministry of Digital. (2026a, July 28). AI Malaysia—Driving the journey towards an AI Nation by 2030.",
+    "Ministry of Digital. (2026b, September 11). Announcement of the inaugural Board of Directors of AI Malaysia Berhad.",
+    "Ministry of Digital Development and Information. (2026, September 8). New Digital Infrastructure Bill to strengthen the foundations for Singapore’s digital economy.",
+    "Ministry of Home Affairs. (2025, March 3). Transcript of media conference regarding the case involving three men charged for fraud by false representation.",
+    "Ministry of Information. (2026, June 24). AI technology for disseminating legal knowledge: A new step by the Ministry of Legal Affairs.",
+    "Ministry of Investment, Trade and Industry. (2025, July 14). Export, transshipment and transit of high-performance AI chips of U.S. origin now subject to a strategic trade permit.",
+    "Ministry of Post and Telecommunications. (2026, February 5). Cambodia’s National AI Strategy and digital government progress presented at the World Governments Summit.",
+    "Ministry of Transport and Infocommunications. (2026, June 2). Announcement of Digital Brunei 2030.",
+    "Office of the President of the Philippines. (2026, July 13). Executive Order No. 119: Updating the government data classification, establishing a data residency framework, and for other purposes.",
+    "Philippine Statistics Authority. (2026, April 30). Digital economy contributes 9.8 percent to the Philippine economy in 2025.",
+    "Reuters. (2026a, March 13). China's ByteDance gets access to top Nvidia AI chips, WSJ reports.",
+    "Reuters. (2026b, June 26). Malaysia customs seizes AI chips worth $13 mln at Kuala Lumpur airport.",
+    "Royal Thai Government. (2026, September 4). Government to expedite relevant measures and regulations on establishing data centers.",
+    "Wu, S. (2026). Two structures of AI power: National capacity, relational boundary control, and systemic influence in the emerging AI order (EPINOVA Working Paper No. EPINOVA–WP–T–2026–02). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.wp.t.2026.002",
+    "Viet Nam Government News. (2026, August 26). Viet Nam's Law on E-commerce."
+  ],
+  "recommended_citation": "Wu, S. (2026). ASEAN in the Emerging AI Power Order: Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy (Policy Brief No. EPINOVA–2026–PB–73). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.073",
+  "citation_apa": "Wu, S. (2026). ASEAN in the emerging AI power order: Distributed national nodes, overlapping technological systems, and strategic autonomy. EPINOVA Policy Brief Series, EPINOVA-PB-2026-073. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.073.",
+  "short_citation": "Wu (2026), ASEAN in the Emerging AI Power Order, EPINOVA–2026–PB–73.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "publisher": "EPINOVA LLC",
+    "edition": "v1.0",
+    "date": "2026-10-11",
+    "pagination": "12 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "ASEAN Member-State Functional Node Configurations and Evidence States",
+      "description": "Compares the eleven ASEAN member states by functional node configuration, evidence state, and key evidence limits."
+    }
+  ],
+  "appendices": [],
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
+  "metadata_source": {
+    "source_file": "ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf",
+    "source_type": "PDF",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-10-11",
+    "last_updated": "2026-10-11",
+    "notes": "Crossref registration confirmation email was reported by the author. Metadata reflects the PDF title, key judgments, executive summary, analytical scope, member-state role table, four regional mechanisms, Malaysia–Singapore diagnostic case, policy priorities, 2030 pathways and tests, limitations, conclusion, and references."
+  },
+  "pdf_metadata": {
+    "title": "ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy",
+    "author": "Shaoyuan Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261011224736-04'00'",
+    "modification_date": "D:20261011224736-04'00'",
+    "pages": 12
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.073",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-073/",
+    "crossref_doi_suffix": "epinova.pb.2026.073",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief"
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "registered_doi": "10.67037/epinova.pb.2026.073",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.073",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-073/",
+    "registration_date": "2026-10-11",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  }
+}

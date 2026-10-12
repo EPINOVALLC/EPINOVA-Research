@@ -1,7 +1,7 @@
-Working Paper/F/2026/PINOVA–WP–F–2026–13/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
-Working Paper/F/2026/PINOVA–WP–F–2026–13/metadata.json
-docs/epinova-wp-f-2026-013/index.html
-docs/files/epinova-wp-f-2026-013/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
+Policy Brief/2026/EPINOVA–2026–PB-73/ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf
+Policy Brief/2026/EPINOVA–2026–PB-73/metadata.json
+docs/epinova-pb-2026-073/index.html
+docs/files/epinova-pb-2026-073/ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -824,6 +824,8 @@ Working Paper/F/2026/PINOVA–WP–F–2026–11/From Wartime Leverage to Post-M
 Working Paper/F/2026/PINOVA–WP–F–2026–11/metadata.json
 Working Paper/F/2026/PINOVA–WP–F–2026–12/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
 Working Paper/F/2026/PINOVA–WP–F–2026–12/metadata.json
+Working Paper/F/2026/PINOVA–WP–F–2026–13/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
+Working Paper/F/2026/PINOVA–WP–F–2026–13/metadata.json
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/Beyond Centrality Conditional Connectivity, Boundary Control, and Systemic Power in Interdependent Networks.pdf
 Working Paper/T/2026/EPINOVA–WP–T–2026–01/metadata.json
 Working Paper/T/2026/EPINOVA–WP–T–2026–02/Two Structures of AI Power National Capacity, Relational Boundary Control, and Systemic Influence in the Emerging AI Order.pdf
@@ -1551,6 +1553,7 @@ docs/epinova-wp-f-2026-01/index.html
 docs/epinova-wp-f-2026-010/index.html
 docs/epinova-wp-f-2026-011/index.html
 docs/epinova-wp-f-2026-012/index.html
+docs/epinova-wp-f-2026-013/index.html
 docs/epinova-wp-f-2026-02/index.html
 docs/epinova-wp-f-2026-03/index.html
 docs/epinova-wp-f-2026-04/index.html
@@ -1704,6 +1707,7 @@ docs/files/epinova-wp-f-2026-01/When Decapitation No Longer Matters AI-Delegated
 docs/files/epinova-wp-f-2026-010/The War That Measured America Why Washington Entered the U.S.–Iran Conflict, What It Revealed, and How It Accelerated a Eurasian Counter-System.pdf
 docs/files/epinova-wp-f-2026-011/From Wartime Leverage to Post-MOU State Capacity Iran’s Reconstruction, Institutional Recovery, and Strategic Network Rebalancing.pdf
 docs/files/epinova-wp-f-2026-012/The Decoupling of Geographic and Strategic Distance Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare.pdf
+docs/files/epinova-wp-f-2026-013/The Limits of Strategic Reach Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality.pdf
 docs/files/epinova-wp-f-2026-02/Derivative-State Drift.pdf
 docs/files/epinova-wp-f-2026-03/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
 docs/files/epinova-wp-f-2026-04/Losing the Narrative.pdf
