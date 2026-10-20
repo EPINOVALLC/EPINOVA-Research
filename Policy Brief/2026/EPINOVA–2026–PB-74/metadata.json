@@ -1,0 +1,221 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-074",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-074",
+  "title": "South Korea’s AI Power Under Uneven Interdependence",
+  "subtitle": "Semiconductor Depth, National Conversion, and the KIC Model-Selection Case",
+  "full_title": "South Korea’s AI Power Under Uneven Interdependence: Semiconductor Depth, National Conversion, and the KIC Model-Selection Case",
+  "publication_date": "2026-10-19",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.074",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-074/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "description": "This policy brief examines South Korea’s AI power under uneven technological interdependence. It argues that Korea combines globally consequential semiconductor and high-bandwidth-memory capabilities with growing domestic models, public compute programs, cloud and telecommunications capacity, and industrial and administrative AI applications, but these strengths do not constitute a nationally controlled end-to-end AI stack. The brief distinguishes AI National Power, AI Boundary Power, Boundary Autonomy, and Systemic Influence, and evaluates Korea’s capacity conversion across memory, compute, domestic models, industrial AI, and public-sector deployment. It uses the Korea Investment Corporation as a diagnostic case of mixed-origin institutional AI, where Chinese-developed Qwen3 and BGE-M3 reportedly operate alongside U.S.-developed models for differentiated internal functions. The case does not establish foreign control, strategic realignment, or durable dependence; instead, it highlights the importance of deployment architecture, continuing control rights, switching costs, security review, and function-preserving substitution. The brief concludes that South Korea’s future AI power will depend on converting specialized technological depth into sustainable national functions, exercising effective control at consequential interfaces, and preserving credible alternatives under disruption.",
+  "abstract": "South Korea combines globally consequential AI-memory manufacturing with domestic models, public-private compute allocation, advanced cloud and telecommunications organizations, and manufacturing applications. These strengths do not comprise a nationally controlled end-to-end AI stack. Advanced accelerators, semiconductor equipment, packaging relationships, model software, and overseas production sites create external interfaces over which Korean actors exercise only partial authority. The analytical question is how Korean institutions convert heterogeneous resources into functions they can access and sustain, while retaining credible alternatives where consequential interfaces are controlled elsewhere. KIC provides a diagnostic institutional case. Its reported use of Chinese-developed language and retrieval models is compatible with substantial domestic model-development capacity and close U.S.-linked semiconductor and security relationships. Yet reported use volumes, the timing of its GPU expansion contract, and unknown system architecture prevent strong claims about which models are operationally indispensable, whether foreign actors possess continuing technical control, or whether cross-border adoption has become systemic influence. The practical implication is not model-origin neutrality at any cost: it is function-based procurement subject to verifiable security, legal, and continuity controls.",
+  "keywords": [
+    "South Korea",
+    "AI power",
+    "uneven interdependence",
+    "semiconductor depth",
+    "HBM4",
+    "national conversion",
+    "AI National Power",
+    "AI Boundary Power",
+    "Boundary Autonomy",
+    "Systemic Influence",
+    "Korea Investment Corporation",
+    "KIC",
+    "Qwen3",
+    "BGE-M3",
+    "Llama 3",
+    "Gemma 3",
+    "public compute",
+    "sovereign AI models",
+    "industrial AI",
+    "strategic autonomy",
+    "model procurement",
+    "function-preserving substitution",
+    "semiconductor supply chains",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "AI governance",
+    "Geopolitics of AI",
+    "South Korea",
+    "Semiconductors",
+    "High-bandwidth memory",
+    "Public compute",
+    "AI procurement",
+    "Strategic autonomy",
+    "Technology policy",
+    "Supply-chain interdependence",
+    "International security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-10-19",
+      "date_type": "Issued",
+      "description": "First public release date printed in the PDF"
+    },
+    {
+      "date": "2026-10-19",
+      "date_type": "Metadata updated",
+      "description": "Crossref registration confirmed by email"
+    }
+  ],
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 14
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-74",
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-074"
+  },
+  "methodology": {
+    "framework_name": "ANP–ABP–Boundary Autonomy–Systemic Influence Capacity-Conversion Framework",
+    "core_problem": "How specialized technological depth is converted into nationally usable and sustainable functions under externally controlled interfaces and uneven technological interdependence.",
+    "evidence_rules": [
+      "Available boundary-control capacity, exercised control, and observed target effects are coded separately.",
+      "Operating or repeatedly allocated capacity is distinguished from procured resources, infrastructure under construction, announced partnerships, and policy objectives.",
+      "Official and corporate claims are attributed to their publishers rather than treated as independent evaluations.",
+      "The KIC case is diagnostic and not a representative sample of Korean public-sector procurement."
+    ]
+  },
+  "key_findings": [
+    "South Korea possesses substantial specialized AI capacity, but national conversion remains uneven.",
+    "Strategic supply-chain importance does not automatically translate into AI Boundary Power.",
+    "KIC demonstrates mixed-origin model adoption without establishing foreign control or durable dependence.",
+    "Boundary Autonomy depends on verified function-preserving substitution rather than supplier diversity alone.",
+    "South Korea’s future AI power depends on converting specialized resources into sustainable functions, effective interface control, and credible alternatives under disruption."
+  ],
+  "policy_recommendations": [
+    "Register critical AI functions and map models, data flows, licenses, operators, update privileges, and hosting jurisdictions.",
+    "Benchmark Korean and foreign models on the same authorized tasks, hardware budgets, security tests, and total operating costs.",
+    "Run model and embedding replacement exercises and supplier-interruption tests for critical workflows.",
+    "Report public-compute maturity using GPU type, allocable hours, admission rules, queue time, utilization, outages, and unique project identifiers.",
+    "Review named HBM, equipment, and model-service interfaces for functional substitutes and external restrictions."
+  ],
+  "references": [
+    "Beijing Academy of Artificial Intelligence (BAAI). (n.d.). BGE-M3 model card [Model repository; version may change]. Hugging Face.",
+    "Bureau of Industry and Security (BIS). (2025, March 28). Additions to the Entity List (Effective March 25, 2025). Federal Register, 90, 14046–14052.",
+    "Han, J.-h. (2026, October 19). Sovereign wealth fund managing KRW 339 trillion uses Chinese models for core internal AI. Yonhap News Agency.",
+    "Ministry of the Interior and Safety (MOIS). (2026, July 13). Pilot launch of an AI legal assistant developed by public officials.",
+    "Ministry of Science and ICT (MSIT). (2025a). GPU Procurement Project (First Supplementary Budget, KRW 1.46 Trillion) Selects Participants.",
+    "Ministry of Science and ICT (MSIT). (2025b). MSIT Selects Five Elite Teams for the Sovereign AI Foundation Model Project.",
+    "Ministry of Science and ICT (MSIT). (2025c). MSIT to Establish the National AI Computing Center as a “Catalyst for Genuine Growth in AI”.",
+    "Ministry of Science and ICT (MSIT). (2025d). National AI Strategy Committee launched as Korea’s top-level AI policy body.",
+    "Ministry of Science and ICT (MSIT). (2025e, February 20). Korea to Expand AI Computing Infrastructure to Strengthen National AI Capabilities and Achieve Global Leadership.",
+    "Ministry of Science and ICT (MSIT). (2026a). AI Basic Act and Enforcement Decree Enter into Force.",
+    "Ministry of Science and ICT (MSIT). (2026b). National AI Computing Center, a Key Infrastructure for Korea’s AI Highway, Breaks Ground in Haenam.",
+    "Ministry of Science and ICT (MSIT). (2026c). Phase 1 Evaluation Results Released for Sovereign AI Foundation Model Project.",
+    "Ministry of Science and ICT (MSIT). (2026d). Phase 2 Evaluation Results Unveiled for the Sovereign AI Foundation Model Project.",
+    "Ministry of Trade, Industry and Resources (MOTIR). (2026, August 5). M.AX Delivers Tangible Results on the Factory Floor.",
+    "Qwen Team. (2025). Qwen3-8B model card [A public variant; does not establish the variant used by KIC]. Hugging Face.",
+    "Reuters. (2026, October 15). SK Hynix conditions new US factory on more US chip equipment exports to China, sources say.",
+    "Samsung Electronics. (2026, February 12). Samsung Ships Industry-First Commercial HBM4 with Ultimate Performance for AI Computing.",
+    "SK hynix. (2024). SK hynix Partners with TSMC to Strengthen HBM Technological Leadership.",
+    "SK hynix. (2026, July 29). SK hynix Announces 2Q26 Financial Results.",
+    "SK Telecom. (2026, July 16). SK Telecom plans AI-supported summer network quality monitoring.",
+    "Wu, S. (2026a). Beyond centrality: Conditional connectivity and boundary control in interdependent networks (EPINOVA Working Paper No. EPINOVA–WP–T–2026–01).",
+    "Wu, S. (2026b). Two structures of AI power: National capacity, relational boundary control, and systemic influence in the emerging AI order (EPINOVA Working Paper No. EPINOVA–WP–T–2026–02)."
+  ],
+  "recommended_citation": "Wu, S. (2026). South Korea’s AI Power Under Uneven Interdependence: Semiconductor Depth, National Conversion, and the KIC Model-Selection Case (Policy Brief No. EPINOVA–2026–PB–74). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.074",
+  "citation_apa": "Wu, S. (2026). South Korea’s AI power under uneven interdependence: Semiconductor depth, national conversion, and the KIC model-selection case. EPINOVA Policy Brief Series, EPINOVA-PB-2026-074. Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.074.",
+  "short_citation": "Wu (2026), South Korea’s AI Power Under Uneven Interdependence, EPINOVA–2026–PB–74.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "location": "United States",
+    "publisher": "EPINOVA LLC",
+    "edition": "v1.0",
+    "date": "2026-10-19",
+    "pagination": "14 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Selected Evidence of Korean Capacity Conversion"
+    },
+    {
+      "number": "Table 2",
+      "title": "KIC Evidence Ledger: Observed Disclosure Versus Remaining Uncertainty"
+    },
+    {
+      "number": "Table 3",
+      "title": "Proposed Implementation Responsibilities and Deliverables"
+    }
+  ],
+  "appendices": [],
+  "metadata_source": {
+    "source_file": "South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf",
+    "source_type": "PDF",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "notes": "Metadata aligned to the PDF title, key judgments, executive summary, analytical scope, evidence rules, Korean capacity-conversion analysis, external interfaces, KIC diagnostic case, implementation priorities, political implications, five monitoring priorities through 2030, limitations, conclusion, Tables 1–3, and references. Crossref confirmation was reported by the author."
+  },
+  "pdf_metadata": {
+    "pages": 14
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.pb.2026.074",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-074/",
+    "crossref_doi_suffix": "epinova.pb.2026.074",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "registered_doi": "10.67037/epinova.pb.2026.074",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.074",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-074/",
+    "registration_date": "2026-10-19",
+    "registration_agency": "Crossref",
+    "submitter_email": "sywu@epinova.org"
+  },
+  "monitoring_priorities_2030": [
+    "Compute conversion",
+    "Domestic-model adoption",
+    "Industrial AI durability",
+    "Boundary autonomy",
+    "External boundary leverage"
+  ]
+}

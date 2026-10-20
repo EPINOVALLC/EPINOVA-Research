@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-074** (2026-10-19)  
+  **South Korea’s AI Power Under Uneven Interdependence: Semiconductor Depth, National Conversion, and the KIC Model-Selection Case**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.074](https://doi.org/10.67037/epinova.pb.2026.074)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-74/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-74)  
+  Source PDF: [`South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-74/South%20Korea%E2%80%99s%20AI%20Power%20under%20Uneven%20Interdependence%20Semiconductor%20Depth%2C%20National%20Conversion%2C%20and%20the%20KIC%20Model-Selection%20Case.pdf)
+
 - **EPINOVA-PB-2026-073** (2026-10-11)  
   **ASEAN in the Emerging AI Power Order: Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.070](https://doi.org/10.67037/epinova.pb.2026.070)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-70/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70)  
   Source PDF: [`Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70/Japan%27s%20Rising%20Strategic%20Value%20and%20the%20Potential%20Restructuring%20of%20the%20Asia-Pacific%20Order.pdf)
-
-- **EPINOVA-PB-2026-069** (2026-08-17)  
-  **From AI-Enabled Weapons to AI-Orchestrated Warfare: The Emerging Global Military AI Stack in 2026**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.069](https://doi.org/10.67037/epinova.pb.2026.069)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-69/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69)  
-  Source PDF: [`From AI-Enabled Weapons to AI-Orchestrated Warfare The Emerging Global Military AI Stack in 2026.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-69/From%20AI-Enabled%20Weapons%20to%20AI-Orchestrated%20Warfare%20The%20Emerging%20Global%20Military%20AI%20Stack%20in%202026.pdf)
 
 ---
 
