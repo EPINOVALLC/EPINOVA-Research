@@ -1,0 +1,151 @@
+{
+  "epinova_id": "EPINOVA-BK-2026-006",
+  "record_id": "EPINOVA-BK-2026-006",
+  "record_type": "Publication",
+  "resource_type": "Text",
+  "publication_type": "Book",
+  "category": "books",
+  "title": "The Global AI Power Order",
+  "subtitle": "National Capacity, Boundary Control, and Systemic Influence under Uneven Technological Interdependence",
+  "full_title": "The Global AI Power Order: National Capacity, Boundary Control, and Systemic Influence under Uneven Technological Interdependence",
+  "series_title": null,
+  "series_type": null,
+  "volume": null,
+  "volume_number": null,
+  "edition": "First Edition",
+  "edition_number": 1,
+  "isbn": "979-8-89958-005-5",
+  "doi": "10.67037/epinova.bk.2026.006",
+  "doi_verification_status": "Provided in companion Executive Brief; external registration not independently verified",
+  "publication_date": null,
+  "publication_year": 2026,
+  "publication_year_status": "Provisional until official publication date is confirmed",
+  "language": "en",
+  "version": "1.0",
+  "version_status": "Planned first-edition release; final book PDF not supplied",
+  "version_release_date": null,
+  "status": "In preparation",
+  "visibility": "Pending publication",
+  "publisher": "EPINOVA Press LLC",
+  "imprint": "EPINOVA NEXUS",
+  "place": "Carrollton, Georgia, United States",
+  "format": "Paperback",
+  "trim_size": null,
+  "page_count": null,
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "role": "Author",
+      "orcid": "https://orcid.org/0009-0008-0660-8232",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC"
+    }
+  ],
+  "description": "A comparative and system-level study of national AI capacity, relational boundary control, target-side autonomy, and systemic influence within the emerging global AI power order.",
+  "abstract": "This book examines how artificial intelligence capabilities become consequential forms of power under uneven technological interdependence. It distinguishes AI National Power (ANP), the conversion of resources into nationally usable capacity; AI Boundary Power (ABP), effective relational control over access to consequential AI-related functions; Boundary Autonomy, the capacity of affected actors to establish credible alternatives; and Systemic Influence, persistent, sufficiently broad, and credibly attributable structural change. Drawing on a structured comparison of thirteen principal national AI systems across five functional domains, the study examines capacity conversion, resource dependence, institutional organization, and operational maturity. It assesses semiconductor and computing boundaries alongside model, cloud, platform, data, procurement, market-access, regulatory, talent, capital, and security interfaces, and maps technological domains, international networks, strategic nodes, and overlapping regional configurations, including ASEAN. The evidence supports an emerging global AI order that is uneven, polycentric, and non-exclusive rather than a single national ranking or partition into mutually exclusive blocs. All eight candidate Systemic Influence claims remain Not Adjudicated under the specified evidentiary requirements; this is not evidence that their effects are absent. The empirical classification cutoff is 30 September 2026. The accompanying Research Supplement documents detailed evidence registers and adjudication decisions corresponding to the book's empirical classifications.",
+  "keywords": [
+    "artificial intelligence",
+    "AI power",
+    "AI National Power",
+    "AI Boundary Power",
+    "Boundary Autonomy",
+    "Systemic Influence",
+    "global AI governance",
+    "technological interdependence",
+    "technological sovereignty",
+    "AI capability stratification",
+    "strategic autonomy",
+    "semiconductor and computing boundaries",
+    "AI governance and rule spaces",
+    "comparative national AI systems",
+    "ASEAN",
+    "systemic risk"
+  ],
+  "subjects": [
+    "Artificial intelligence—Political aspects",
+    "International relations",
+    "Technology and national power",
+    "Technology governance",
+    "Strategic competition",
+    "Critical infrastructure",
+    "Global AI order"
+  ],
+  "empirical_classification_cutoff": "2026-09-30",
+  "research_scope": {
+    "principal_national_system_cases": 13,
+    "functions_assessed": 5,
+    "tier_a_case_function_adjudications": 65,
+    "systemic_influence_candidate_claims": 8,
+    "systemic_influence_status": "All eight Not Adjudicated at the empirical cutoff",
+    "principal_framework_concepts": [
+      "AI National Power",
+      "AI Boundary Power",
+      "Boundary Autonomy",
+      "Systemic Influence"
+    ]
+  },
+  "official_page": "https://publications.epinova.org/epinova-bk-2026-006/",
+  "official_page_status": "Proposed landing-page URL; not independently verified as live",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Book/EPINOVA-BK-2026-006",
+  "repository_folder_status": "Planned repository folder; pending upload",
+  "files": [
+    {
+      "asset_type": "Research Supplement",
+      "filename": "Research_Supplement/The_Global_AI_Power_Order_Research_Supplement.pdf",
+      "content_type": "application/pdf",
+      "description": "Companion evidence and adjudication records S1–S6; final PDF pending editorial approval",
+      "status": "Pending release"
+    },
+    {
+      "asset_type": "Executive Brief",
+      "filename": "Executive_Brief/AI_Power_Executive_Brief.pdf",
+      "content_type": "application/pdf",
+      "description": "Eight-page companion overview; final public file upload pending",
+      "status": "Pending release"
+    }
+  ],
+  "copyright": "© 2026 Shaoyuan Wu. All rights reserved.",
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "citation_apa": "Wu, S. (2026). The global AI power order: National capacity, boundary control, and systemic influence under uneven technological interdependence (1st ed.). EPINOVA Press LLC. https://doi.org/10.67037/epinova.bk.2026.006",
+  "recommended_citation": "Wu, Shaoyuan. The Global AI Power Order: National Capacity, Boundary Control, and Systemic Influence under Uneven Technological Interdependence. First Edition. EPINOVA Press LLC, 2026. https://doi.org/10.67037/epinova.bk.2026.006",
+  "citation_status": "Provisional: confirm publication year, edition, and DOI registration before public release",
+  "alternate_identifiers": [
+    {
+      "scheme": "ISBN-13",
+      "identifier": "979-8-89958-005-5",
+      "description": "Paperback edition ISBN"
+    }
+  ],
+  "related_materials": [
+    {
+      "title": "The Global AI Power Order: Research Supplement — Detailed Evidence and Adjudication Records",
+      "role": "Companion evidence supplement",
+      "identifier": null,
+      "identifier_status": "No separate DOI confirmed",
+      "sections": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "publication_status": "Editorial working version provided"
+    },
+    {
+      "title": "The Global AI Power Order: Executive Brief",
+      "role": "Companion executive overview",
+      "identifier": null,
+      "identifier_status": "Book DOI must not be used as brief DOI",
+      "publication_status": "Final PDF provided; public release not independently verified"
+    }
+  ],
+  "availability": "Book publication pending; companion download links to appear after approved PDFs are added",
+  "amazon_asin": null,
+  "amazon_url": null,
+  "publication_notes": "Stand-alone monograph. No full-text book PDF is listed for public distribution. The companion PDFs have their own availability state and do not share the book ISBN/DOI as their own identifiers. To publish a companion, add the final PDF at its listed relative path and change only that file's status to Available; the landing-page generator will link it on the next build. The Research Supplement working copy must not be exposed as a final download."
+}

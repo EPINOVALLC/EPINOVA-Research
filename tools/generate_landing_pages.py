@@ -261,6 +261,10 @@ def normalize_record_schema(meta: dict) -> dict:
     Supports fields used by journal-article metadata such as record_id, author,
     citation.apa, and pdf_filename, while preserving existing metadata behavior.
     """
+    # Null dates are valid for pre-publication records; sorting and search need strings.
+    if meta.get("publication_date") is None:
+        meta["publication_date"] = ""
+
     if not meta.get("epinova_id"):
         meta["epinova_id"] = meta.get("record_id") or meta.get("publication_id") or meta.get("identifier") or meta.get("id") or ""
 
@@ -541,8 +545,46 @@ def all_creators_plain(meta: dict) -> list[str]:
 
 def local_file_url(meta: dict, filename: str, absolute: bool = False) -> str:
     slug = meta.get("_slug", "untitled")
-    path = f"/files/{slug}/{quote(filename, safe='')}"
+    # Preserve separators for publication subfolders, percent-encode name components.
+    clean = str(filename).replace("\\\\", "/").lstrip("/")
+    path = f"/files/{slug}/{quote(clean, safe='/')}"
     return f"{SITE_BASE_URL}{path}" if absolute else path
+
+
+def is_companion_file(item: dict) -> bool:
+    role = str(item.get("asset_type", "") or item.get("role", "")).lower()
+    return "supplement" in role or "executive brief" in role or "companion" in role
+
+
+def is_released_file(item: dict) -> bool:
+    state = str(item.get("status", "") or "").lower()
+    unreleased = ("pending", "editorial", "working", "draft", "planned",
+                  "in preparation", "not approved", "unreleased", "private")
+    return not any(mark in state for mark in unreleased)
+
+
+def is_safe_file_name(filename: str) -> bool:
+    path = Path(str(filename).replace("\\\\", "/"))
+    return bool(filename) and not path.is_absolute() and ".." not in path.parts
+
+
+def is_copied_file(meta: dict, item: dict) -> bool:
+    filename = str(item.get("filename") or "")
+    if not is_safe_file_name(filename):
+        return False
+    return (OUTPUT_DIR / "files" / meta.get("_slug", "untitled") / filename).is_file()
+
+
+def available_files(meta: dict, companion: bool | None = None) -> list[dict]:
+    result = []
+    for item in meta.get("files", []) if isinstance(meta.get("files"), list) else []:
+        if not isinstance(item, dict) or not is_released_file(item):
+            continue
+        if companion is not None and is_companion_file(item) != companion:
+            continue
+        if is_copied_file(meta, item):
+            result.append(item)
+    return result
 
 
 def is_pdf_filename(filename: str) -> bool:
@@ -550,11 +592,11 @@ def is_pdf_filename(filename: str) -> bool:
 
 
 def first_pdf_url(meta: dict) -> str:
-    for item in meta.get("files", []) if isinstance(meta.get("files", []), list) else []:
-        if isinstance(item, dict):
-            fn = item.get("filename", "")
-            if fn and is_pdf_filename(fn):
-                return local_file_url(meta, fn, absolute=True)
+    # Citation PDF must identify the cited publication, not a companion brief.
+    for item in available_files(meta, companion=False):
+        fn = item.get("filename", "")
+        if fn and is_pdf_filename(fn):
+            return local_file_url(meta, fn, absolute=True)
     return ""
 
 
@@ -565,6 +607,9 @@ def copy_record_files(meta: dict) -> None:
 
     source_dir = Path(metadata_abs_path).parent
     target_dir = OUTPUT_DIR / "files" / meta.get("_slug", "untitled")
+    # Replace generated output each build so withdrawn files cannot linger as public assets.
+    if target_dir.exists():
+        shutil.rmtree(target_dir)
     target_dir.mkdir(parents=True, exist_ok=True)
 
     files = meta.get("files", [])
@@ -576,7 +621,11 @@ def copy_record_files(meta: dict) -> None:
             continue
 
         filename = file_entry.get("filename", "")
-        if not filename:
+        if not is_safe_file_name(filename):
+            print(f"Warning: skipped unsafe or unspecified filename: {filename!r}")
+            continue
+        if not is_released_file(file_entry):
+            # Never copy an editorial or planned PDF into a public deployment.
             continue
 
         candidate_names = []
@@ -762,60 +811,73 @@ def related_works_html(meta: dict) -> str:
 
 
 def file_preview_html(meta: dict) -> str:
-    files = meta.get("files", [])
-    if not isinstance(files, list) or not files:
-        return """
-<section class="record-section"><h2>Files</h2><p class="muted">No files listed.</p></section>
-"""
-
+    # Main-publication assets only. Companion PDFs get their own section.
+    items = available_files(meta, companion=False)
     preview = ""
-    for item in files:
-        if isinstance(item, dict) and is_pdf_filename(item.get("filename", "")):
-            filename = item.get("filename", "")
+    for item in items:
+        filename = str(item.get("filename", ""))
+        if is_pdf_filename(filename):
             preview_url = local_file_url(meta, filename)
             preview = f"""
 <div class="file-preview desktop-pdf-preview">
-  <div class="file-preview-title">PDF preview</div>
+  <div class="file-preview-title">Publication PDF preview</div>
   <iframe src="{h(preview_url)}" title="{h(filename)}"></iframe>
 </div>
-
 <div class="mobile-pdf-actions">
-  <div class="mobile-pdf-title">PDF preview</div>
-  <p class="muted">Mobile browsers may not display embedded PDF previews reliably. Open the PDF directly for the best reading experience.</p>
+  <div class="mobile-pdf-title">Publication PDF</div>
+  <p class="muted">Open the PDF directly for the best reading experience.</p>
   <a class="button mobile-pdf-button" href="{h(preview_url)}" target="_blank" rel="noopener">Open PDF</a>
-  <a class="button mobile-pdf-button" href="{h(preview_url)}" download>Download PDF</a>
 </div>
 """
             break
 
-    rows = []
-    for file_entry in files:
-        if not isinstance(file_entry, dict):
-            continue
-        fn = file_entry.get("filename", "File")
-        file_type = file_entry.get("content_type", "")
-        desc = file_entry.get("description", "")
-        download_url = local_file_url(meta, fn) if fn else ""
-        name_html = f"<a href='{h(download_url)}'>{h(fn)}</a>" if fn else ""
-        action_html = f"<a class='button small' href='{h(download_url)}'>Download</a>" if fn else ""
-        rows.append(
-            f"<tr><td>{name_html}<br><span class='muted'>{h(desc)}</span></td>"
-            f"<td>{h(file_type)}</td><td class='right'>{action_html}</td></tr>"
-        )
+    if not items:
+        # A book landing page does not imply an open-access full-text edition.
+        return """<section class="record-section"><h2>Publication files</h2>
+<p class="muted">No full-text download is currently offered on this page.</p></section>"""
 
-    return f"""
-<section class="record-section">
-  <h2>Files</h2>
-  {preview}
-  <div class="panel">
-    <div class="panel-heading">Files</div>
-    <table class="file-table">
-      <thead><tr><th>Name</th><th>Type</th><th></th></tr></thead>
-      <tbody>{''.join(rows)}</tbody>
-    </table>
-  </div>
-</section>
-"""
+    rows = []
+    for item in items:
+        fn = item.get("filename", "")
+        url = local_file_url(meta, fn)
+        rows.append(f"<tr><td><a href='{h(url)}'>{h(Path(fn).name)}</a>"
+                    f"<br><span class='muted'>{h(item.get('description', ''))}</span></td>"
+                    f"<td>{h(item.get('content_type', ''))}</td>"
+                    f"<td class='right'><a class='button small' href='{h(url)}'>Download</a></td></tr>")
+    return f"""<section class="record-section"><h2>Publication files</h2>
+{preview}<div class="panel"><table class="file-table">
+<thead><tr><th>Name</th><th>Type</th><th></th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table></div></section>"""
+
+
+def companion_materials_html(meta: dict) -> str:
+    files = meta.get("files", [])
+    if not isinstance(files, list):
+        return ""
+    companions = [x for x in files if isinstance(x, dict) and is_companion_file(x)]
+    if not companions:
+        return ""
+    rows = []
+    for item in companions:
+        title = str(item.get("asset_type") or item.get("role") or "Companion material")
+        desc = str(item.get("description") or "")
+        if is_released_file(item) and is_copied_file(meta, item):
+            url = local_file_url(meta, item.get("filename", ""))
+            action = f"<a class='button small' href='{h(url)}'>Download PDF</a>"
+            status = "Available"
+        else:
+            # File names and upload plans alone must not create broken download links.
+            action = "<span class='muted'>Not yet available</span>"
+            status = "Pending release"
+        rows.append(f"<tr><td><strong>{h(title)}</strong>"
+                    f"<br><span class='muted'>{h(desc)}</span></td>"
+                    f"<td>{h(status)}</td><td class='right'>{action}</td></tr>")
+    return f"""<section class="record-section"><h2>Companion materials</h2>
+<p>Companion documents support the book's evidence record and provide a concise
+overview. They are separate from the full book and do not carry its ISBN or DOI.</p>
+<div class="panel"><table class="file-table">
+<thead><tr><th>Material</th><th>Availability</th><th></th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table></div></section>"""
 
 
 def sidebar_details_html(meta: dict) -> str:
@@ -835,6 +897,10 @@ def sidebar_details_html(meta: dict) -> str:
 
     edition = meta.get("edition") or meta.get("book_edition") or ""
     edition_html = f"<dt>Edition</dt><dd>{h(edition)}</dd>" if edition else ""
+    imprint = meta.get("imprint") or ""
+    imprint_html = f"<dt>Imprint</dt><dd>{h(imprint)}</dd>" if imprint else ""
+    cutoff = meta.get("empirical_classification_cutoff") or ""
+    cutoff_html = f"<dt>Empirical cutoff</dt><dd>{h(cutoff)}</dd>" if cutoff else ""
 
     return f"""
 <div class="sidebar-box">
@@ -847,6 +913,8 @@ def sidebar_details_html(meta: dict) -> str:
     {series_html}
     {volume_html}
     {edition_html}
+    {imprint_html}
+    {cutoff_html}
     <dt>Resource type</dt><dd>{h(meta_value(meta, 'resource_type', ''))}</dd>
     <dt>Publication type</dt><dd>{h(meta_value(meta, 'publication_type', ''))}</dd>
     <dt>Publication date</dt><dd>{h(meta_value(meta, 'publication_date', ''))}</dd>
@@ -1085,6 +1153,8 @@ def schema_json_ld(meta: dict | None = None) -> str:
     license_data = meta.get("license", {})
     if isinstance(license_data, dict) and license_data.get("url"):
         data["license"] = license_data.get("url")
+    if not data["datePublished"]:
+        data.pop("datePublished")
     return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + "</script>"
 
 
@@ -1180,11 +1250,12 @@ def render_record_page(meta: dict) -> str:
 <main class="container">
   <div class="record-grid">
     <article class="record-main">
-      <section class="record-info-row"><div><span>Published {h(publication_date)}</span><span class="muted"> | Version {h(version)}</span></div><div class="label-group"><span class="label">{h(publication_type)}</span><span class="label label-open">Open</span><span class="label">{h(status)}</span></div></section>
+      <section class="record-info-row"><div><span>{f"Published {h(publication_date)}" if publication_date and status.lower() == "published" else "Publication date pending" if not publication_date else h(publication_date)}</span><span class="muted"> | Version {h(version)}</span></div><div class="label-group"><span class="label">{h(publication_type)}</span><span class="label">{h(status)}</span></div></section>
       <section><h1>{h(title)}</h1>{f'<p class="record-subtitle">{h(subtitle)}</p>' if subtitle else ''}<div class="creators">{creators_html(meta)}</div></section>
       <section class="record-section rich-text"><h2>Description</h2><p>{h(description)}</p></section>
       <section class="record-section rich-text"><h2>Abstract</h2><p>{h(abstract)}</p></section>
       {file_preview_html(meta)}
+      {companion_materials_html(meta)}
       <section class="record-section"><h2>Keywords</h2>{list_html(meta.get('keywords', []))}</section>
       <section class="record-section"><h2>Subjects</h2>{list_html(meta.get('subjects', []))}</section>
       <section class="record-section"><h2>Recommended citation</h2><p>{h(recommended_citation)}</p></section>
@@ -1205,6 +1276,9 @@ def publication_year(meta: dict) -> str:
     publication_date = meta.get("publication_date", "") or ""
     if len(publication_date) >= 4 and publication_date[:4].isdigit():
         return publication_date[:4]
+    status = str(meta.get("status", "") or "").lower()
+    if any(x in status for x in ("preparation", "forthcoming", "pending", "draft")):
+        return "Forthcoming"
     return "Undated"
 
 

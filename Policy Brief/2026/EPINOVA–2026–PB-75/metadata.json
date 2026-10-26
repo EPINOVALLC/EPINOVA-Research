@@ -1,0 +1,602 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-075",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-075",
+  "title": "The Reconfiguration of War Power",
+  "subtitle": "Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination",
+  "full_title": "The Reconfiguration of War Power: Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination",
+  "title_normalized": "the reconfiguration of war power cross-theater coupling strategic capacity and asymmetric war termination",
+  "publication_date": "2026-10-23",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.075",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-075/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–75",
+      "scheme": "EPINOVA publication number",
+      "description": "Identifier printed on PDF cover"
+    },
+    {
+      "identifier": "The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf",
+      "scheme": "Source PDF filename"
+    }
+  ],
+  "description": "This policy brief examines how the Russia–Ukraine war and the U.S.–Israel–Iran conflict interact through shared military resources, industrial capacity, technological knowledge, energy markets, and institutional commitments. It develops Cross-Theater Conflict Coupling (CTCC) as an evidence-gated framework distinguishing shared interfaces, activation, receipt, recipient-side conversion, functional consequences, and feedback. The brief compares PAC-3 allocation pressure, historical Shahed–Geran industrial adaptation, Ukrainian counter-drone expertise in Gulf states, sanctions-conditioned Russian diesel trade, and strategic petroleum reserve accounting. It then examines asymmetric war termination through conditional scenarios involving localized humanitarian pauses, nationwide armistices, prolonged confrontation, and hypothetical Russian occupation of Ukraine. It argues that lower battlefield consumption does not automatically release transferable strategic capacity: the net effects depend on authorization, ownership, pre-existing obligations, replenishment, transfer time, recipient-side usability, and identifiable feedback.",
+  "abstract": "The strategic problem is not whether the wars in Ukraine and the Middle East touch the same supply chains, technologies, policies, and markets. They do. The question for decision-makers is whether a change originating in one conflict actually alters what forces and institutions in another conflict can do, and when. CTCC (Cross-Theater Conflict Coupling) provides a structured test, separating shared exposure from activated transmission, delivery, conversion, functional consequence, and feedback. The evidence recorded through 23 October 2026 points to distinct mechanisms rather than a single pattern of reciprocal support. Russian adaptation of Iranian-origin Shahed designs is historically documented industrial learning, but it does not prove new 2026 Iranian-to-Russian or Russian-to-Iranian deliveries. Ukrainian specialists have operated in Gulf states, yet their net effect on interceptions has not been independently measured. The Iran war has raised identifiable pressure within the PAC-3 and allied procurement system, but the Ukraine-specific number of missiles displaced cannot be established. U.S. licensing and a named Russian diesel tanker show progression in a commercial chain without confirming U.S. import, incremental refinery output, or additional Russian war finance.",
+  "keywords": [
+    "Cross-Theater Conflict Coupling (CTCC)",
+    "asymmetric war termination",
+    "strategic capacity reconfiguration",
+    "war-system interdependence",
+    "defense-industrial constraints",
+    "resource allocation",
+    "energy security",
+    "strategic resilience",
+    "recipient-side conversion",
+    "functional consequence",
+    "cross-theater transmission",
+    "Russia–Ukraine war",
+    "U.S.–Israel–Iran conflict",
+    "PAC-3",
+    "PURL",
+    "Shahed–Geran",
+    "Ukrainian counter-drone expertise",
+    "Russian diesel trade",
+    "strategic petroleum reserves",
+    "ceasefire",
+    "NATO",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Networked warfare",
+    "Cross-theater conflict",
+    "Defense industrial base",
+    "War termination",
+    "Geopolitics",
+    "Energy security",
+    "Military logistics",
+    "Strategic resource allocation",
+    "Causal identification",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-10-23",
+      "date_type": "Issued",
+      "description": "Publication date printed on the PDF"
+    },
+    {
+      "date": "2026-10-23",
+      "date_type": "Evidence cutoff",
+      "description": "CTCC source-graded observation cutoff, U.S. Eastern Time"
+    },
+    {
+      "date": "2026-10-24",
+      "date_type": "Metadata generated",
+      "description": "Local metadata JSON prepared after author-reported Crossref DOI confirmation"
+    }
+  ],
+  "license": {
+    "status": "not_specified_in_pdf",
+    "note": "The PDF does not specify a Creative Commons or other reuse license; do not infer one from prior EPINOVA publications."
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 19
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-75",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "archive_status": "not_verified",
+    "notes": "Repository path is the intended EPINOVA directory; GitHub PDF upload was not verified. The website generator resolves files[].filename relative to metadata.json."
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-075"
+  },
+  "methodology": {
+    "framework_name": "Cross-Theater Conflict Coupling (CTCC)",
+    "research_design": "Source-graded diagnostic cross-theater case comparison and conditional scenario stress test; not a probability forecast or a direct causal estimate of peace dividends.",
+    "source_basis": "CTCC v6.0 record and cited public official, commercial, media, and statistical sources as of 23 October 2026.",
+    "theater_scope": [
+      "Russia–Ukraine war",
+      "U.S.–Israel–Iran conflict"
+    ],
+    "primary_domains": [
+      "PAC-3/PURL defense allocation",
+      "Shahed–Geran industrial learning and possible reciprocal supply",
+      "Ukrainian counter-drone expert deployments",
+      "Russian diesel under sanctions authorization",
+      "Strategic petroleum reserves and energy buffers"
+    ],
+    "evidence_cutoff": "2026-10-23",
+    "evidence_cutoff_timezone": "America/New_York",
+    "core_test": "Shared exposure is insufficient: distinguish activation, receipt, conversion, functional consequence, and feedback with resource-specific counterfactual checks.",
+    "qualification": "NOT_IDENTIFIED marks missing causal evidence; it does not mean a zero effect or proven absence."
+  },
+  "ctcc_evidence_gates": [
+    {
+      "gate": "G1",
+      "name": "Shared Interface",
+      "minimum_evidence": "Documented overlap in a resource, supplier, production system, rule, route, stock, or expertise",
+      "does_not_establish": "War-conditioned activation or strategically consequential transfer"
+    },
+    {
+      "gate": "G2",
+      "name": "Activation",
+      "minimum_evidence": "Identifiable conflict-conditioned allocation, authorization, deployment, restriction, or operational-priority change",
+      "does_not_establish": "Completed transfer or recipient receipt"
+    },
+    {
+      "gate": "G3",
+      "name": "Receipt",
+      "minimum_evidence": "Dated, attributable receipt of the relevant material, people, technology, or information by a specified recipient",
+      "does_not_establish": "Recipient conversion or improved performance"
+    },
+    {
+      "gate": "G4",
+      "name": "Conversion",
+      "minimum_evidence": "Observable incorporation into production, training, infrastructure, doctrine, operational processes, or institutional arrangements",
+      "does_not_establish": "Net functional gain attributable to originating conflict"
+    },
+    {
+      "gate": "G5",
+      "name": "Functional Consequence",
+      "minimum_evidence": "Identified change in usable capacity, performance, resilience, or options, with resource, recipient, and interval specified",
+      "does_not_establish": "Cross-theater causal attribution without a credible counterfactual"
+    },
+    {
+      "gate": "G6",
+      "name": "Feedback",
+      "minimum_evidence": "Documented return transmission or induced response affecting originating theater",
+      "does_not_establish": "Net reciprocal gain or sustained systemic influence solely from parallel developments"
+    }
+  ],
+  "propositions": [
+    {
+      "code": "P1",
+      "name": "Effective-bottleneck transmission"
+    },
+    {
+      "code": "P2",
+      "name": "Policy-mediated anticipation"
+    },
+    {
+      "code": "P3",
+      "name": "Recipient-side conversion dependence"
+    },
+    {
+      "code": "P4",
+      "name": "Conditional substitution and migration of dependency"
+    },
+    {
+      "code": "P5",
+      "name": "Adversarial adaptation and feedback qualification"
+    }
+  ],
+  "case_evidence_stages": [
+    {
+      "pathway": "PAC-3/PURL allocation",
+      "highest_supported_gate": "G1",
+      "finding": "Shared procurement and constrained interceptor availability",
+      "unresolved": "Iran-attributable allocation activation, exact Ukraine-bound rounds displaced and functional effects"
+    },
+    {
+      "pathway": "Shahed–Geran historical industrial adaptation",
+      "highest_supported_gate": "G4",
+      "finding": "Historical Iranian-origin knowledge converted into Russian production",
+      "unresolved": "Quantified attributable effects within historical observation period"
+    },
+    {
+      "pathway": "Shahed–Geran 2026 reciprocal supply",
+      "highest_supported_gate": "G1 (historical interface)",
+      "finding": "Potential pathway based on historical relationship",
+      "unresolved": "Verified contemporary activation, physical deliveries, recipient-side use, and return effects"
+    },
+    {
+      "pathway": "Ukrainian counter-drone experts in Gulf states",
+      "highest_supported_gate": "G3 (reported personnel deployment)",
+      "finding": "Personnel deployment and reported host-country receipt",
+      "unresolved": "Independently verified operational integration, interception improvement, and reciprocal benefits"
+    },
+    {
+      "pathway": "Russian diesel under U.S. sanctions authorization",
+      "highest_supported_gate": "G2",
+      "finding": "OFAC authorization and reported loading/shipping",
+      "unresolved": "Confirmed U.S. buyer receipt, additive sales, and incremental war finance"
+    },
+    {
+      "pathway": "Strategic petroleum reserves and energy buffers",
+      "highest_supported_gate": "G1 (shared energy market)",
+      "finding": "Documented stocks and emergency-release measures",
+      "unresolved": "Attributable cross-theater flows, recipient conversion, and strategic effects"
+    }
+  ],
+  "energy_buffer_measurements": [
+    {
+      "series": "IEA collective action",
+      "observed_value": "About 330 million barrels released by 15 October 2026; about 100 million in remaining releases",
+      "caveat": "Aggregate program figures must not be double-counted with national releases"
+    },
+    {
+      "series": "U.S. Strategic Petroleum Reserve",
+      "observed_value": "415.442 million barrels (6 March) to 282.683 million barrels (16 October); net −132.759 million barrels",
+      "caveat": "Stock change does not equal individually verified releases or deliveries"
+    },
+    {
+      "series": "Japan state crude stocks",
+      "observed_value": "41.68 million kL (31 March) to 28.99 million kL (31 July); net −12.69 million kL",
+      "caveat": "Changes in holdings do not uniquely identify emergency-release shipments or end users"
+    },
+    {
+      "series": "Japan July diesel production and exports",
+      "observed_value": "Production: 3,188,748 kL; exports: 782,311 kL",
+      "caveat": "Aggregate figures do not establish destination or final use"
+    }
+  ],
+  "scenario_matrix": {
+    "title": "Ukraine Condition × Iran Trajectory",
+    "nature": "Conditional 3-by-3 stress test; not a forecast, measured probability, or quantitative release estimate",
+    "ukraine_conditions": [
+      {
+        "id": "U1",
+        "name": "High-intensity war continues"
+      },
+      {
+        "id": "U2",
+        "name": "Nationwide armistice"
+      },
+      {
+        "id": "U3",
+        "name": "Full Russian conquest and occupation",
+        "status": "Hypothetical extreme counterfactual"
+      }
+    ],
+    "iran_trajectories": [
+      {
+        "id": "I1",
+        "name": "Easing within approximately three months"
+      },
+      {
+        "id": "I2",
+        "name": "Persistence over approximately twelve months"
+      },
+      {
+        "id": "I3",
+        "name": "Material re-escalation"
+      }
+    ],
+    "cells": [
+      {
+        "ukraine": "U1",
+        "iran": "I1",
+        "assessment": "Iran-related relief may ease some shared bottlenecks while Ukraine and NATO demand persists"
+      },
+      {
+        "ukraine": "U1",
+        "iran": "I2",
+        "assessment": "Prolonged simultaneous demand maintains interceptor, industry, and energy pressure"
+      },
+      {
+        "ukraine": "U1",
+        "iran": "I3",
+        "assessment": "Iran re-escalation compounds industrial, maritime, logistical, and Ukrainian requirements"
+      },
+      {
+        "ukraine": "U2",
+        "iran": "I1",
+        "assessment": "Ukraine consumption declines but replenishment and security requirements limit immediate transfer"
+      },
+      {
+        "ukraine": "U2",
+        "iran": "I2",
+        "assessment": "Rearmament, guarantees, and Iran demand may sustain shared bottlenecks"
+      },
+      {
+        "ukraine": "U2",
+        "iran": "I3",
+        "assessment": "Redeployment is conditional on verified surplus after other obligations"
+      },
+      {
+        "ukraine": "U3",
+        "iran": "I1",
+        "assessment": "Occupation burden and NATO reinforcement may absorb nominally released resources"
+      },
+      {
+        "ukraine": "U3",
+        "iran": "I2",
+        "assessment": "Occupation, Russian force regeneration, and NATO deterrence sustain pressure; Iran transfers remain unverified"
+      },
+      {
+        "ukraine": "U3",
+        "iran": "I3",
+        "assessment": "Dual occupation and Iran escalation burdens compound without making Baltic invasion inevitable"
+      }
+    ]
+  },
+  "key_findings": [
+    "Observed cross-war connections do not by themselves establish net reciprocal strategic gains.",
+    "The Shahed–Geran lineage supports historical industrial conversion, not verified new two-way 2026 transfers.",
+    "Ukrainian counter-drone expert deployments in Gulf states are reported, but independently measured operational gains remain unidentified.",
+    "PAC-3/PURL case demonstrates shared procurement pressure without quantified Iran-attributable Ukraine-specific displacement.",
+    "Russian diesel sanctions authorization and reported loading do not establish completed U.S. import or net additional Russian fiscal benefits.",
+    "A Ukraine ceasefire may reduce combat consumption while preserving or increasing occupation, deterrence, security-guarantee, and replenishment obligations.",
+    "The 75% territory claim came from an interviewer question, not a verified Ukrainian settlement threshold.",
+    "The announced Oleshky local humanitarian ceasefire beginning 29 October 2026 was prospective at the 23 October cutoff, not implemented or nationwide.",
+    "A potential year-long Iran confrontation was reported as a contingency, not a binding operational order or probability forecast.",
+    "The usable, time-indexed and legally/operationally transferable capacity matters more than gross stocks or announced volumes."
+  ],
+  "policy_recommendations": [
+    "Maintain subtype-specific procurement, authorization, production, inventory, delivery, and use ledgers for scarce military resources.",
+    "Subtract contractual obligations, allied replenishment, forward deterrence, occupation and reconstruction needs before assigning net capacity released by reduced fighting.",
+    "Audit expert deployments using integration dates, compatible threat conditions, command/radar interoperability, and independently measured operational outcomes.",
+    "Reconcile energy buffers across IEA aggregate authorizations, national stock series, ownership, repayment rights, refinery output, trade and vessel-level receipt records.",
+    "Specify geographic and functional ceasefire limits, verification rights, protected corridors, breach triggers and observed compliance.",
+    "Reassess Russian force availability and Baltic risks alongside occupation cost, reconstitution, NATO posture, and alliance commitments.",
+    "Use matched time windows and plausible counterfactuals for product-specific CTCC causal testing."
+  ],
+  "decision_triggers": [
+    {
+      "question": "Was Ukraine-bound PAC-3 allocation actually displaced?",
+      "required_evidence": "Same-variant planned/revised schedules, accepted batches, inventory and mission logs"
+    },
+    {
+      "question": "Was there new Iran–Russia reciprocal drone transfer in 2026?",
+      "required_evidence": "Manufacturing provenance, dated custody chain, and recipient-side use"
+    },
+    {
+      "question": "Did Ukrainian teams improve Gulf interception outcomes?",
+      "required_evidence": "Comparable threats and interceptions, adoption dates, and alternative explanations"
+    },
+    {
+      "question": "Did sanctioned Russian diesel reach a U.S. buyer?",
+      "required_evidence": "Contract, bill of lading, confirmed discharge, customs and settlement records"
+    },
+    {
+      "question": "Did the Oleshky local pause enter into effect?",
+      "required_evidence": "Independent start/compliance observations, attacks, aid deliveries, evacuation records"
+    },
+    {
+      "question": "Did Ukrainian war cessation release net usable strategic resources?",
+      "required_evidence": "Consumption, occupation, replenishment and NATO requirements with temporal lags"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "References",
+      "identifier": "Wu, S. (2026). From connections to consequences",
+      "scheme": "Bibliographic citation",
+      "resource_type": "Unpublished research manuscript",
+      "description": "Archived CTCC manuscript cited by the brief; no DOI supplied in PDF"
+    }
+  ],
+  "references": [
+    "Agency for Natural Resources and Energy. (2026a, May 15). Status of oil stockpiles (May 2026): Holdings as of March 31, 2026 [Government statistical bulletin, in Japanese]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040456663",
+    "Agency for Natural Resources and Energy. (2026b, September 15). Status of oil stockpiles (September 2026): Holdings as of July 31, 2026 [Government statistical bulletin, in Japanese]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040505471",
+    "CK Economics. (2026, October 22). U.S. strategic petroleum reserve stocks [Data series]. https://www.ckeconomics.com/data/us-strategic-petroleum-reserve-stocks",
+    "e-Stat. (2026). July 2026 country-by-commodity trade tables: Southwest Asia, Southeast Asia, and Oceania [Data files]. https://www.e-stat.go.jp/",
+    "European Union. (2008). Consolidated version of the Treaty on European Union, Article 42(7). EUR-Lex. https://eur-lex.europa.eu/eli/treaty/teu_2008/art_42/oj/eng",
+    "Fenbert, A. (2026, July 9). Ukraine to receive Patriot missiles from allies—but unclear when, Zelensky says amid air defense crisis. The Kyiv Independent. https://kyivindependent.com/ukraine-to-receive-patriot-missiles-from-allies-but-unclear-when-zelensky-says-amid-air-defense-crisis/",
+    "Financial Times. (2026, October 23). US is prepared for long stand-off with Iran, says Trump envoy. https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d",
+    "Holland, S., & Dysa, Y. (2026, October 23). Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month. Reuters. https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/",
+    "Institute for the Study of War. (2026, October 16). Russian offensive campaign assessment, October 16, 2026. https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-16-2026",
+    "Interfax. (2026, October 18). Novak discusses contracts and delivery timetable for diesel supplied to the United States [News report, in Russian]. https://www.interfax.ru/business/1123252",
+    "Interfax-Ukraine. (2026, March 17). Zelenskyy: 201 Ukrainian military experts already in the Middle East, 34 more ready to deploy [News report]. https://en.interfax.com.ua/news/general/1152400-amp.html",
+    "International Energy Agency. (2026, October 15). IEA Governing Board statement on energy markets and security. https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security",
+    "Japan Customs. (2026). Export principal commodity and HS codes: Gas oil (3030105) [Classification table]. https://www.customs.go.jp/toukei/sankou/code/GH202601e.html",
+    "Japan Organization for Metals and Energy Security. (2026, March 26). Kikuma National Oil Stockpiling Base: Start of national stockpile release to Taiyo Oil [Press release]. https://www.jogmec.go.jp/news/release/release_01252.html",
+    "Ministry of Defence of Ukraine. (2026, July 23). A year of PURL: Nearly $7 billion for critical weapons. Government of Ukraine. https://www.kmu.gov.ua/en/news/rik-purl-maizhe-7-mlrd-dlia-postavok-krytychnoho-ozbroiennia-dlia-ukrainy",
+    "Ministry of Economy, Trade and Industry. (2026, September 14). July 2026 petroleum statistics: Crude oil and gas oil tables [Data tables]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040505103",
+    "Norman-Diamond, G. (2026, October 21). Ukraine’s Zelenskyy open to freezing front lines in ceasefire with Russia. Fox News. https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+    "North Atlantic Treaty Organization. (1949, April 4). The North Atlantic Treaty (Articles 4–5). https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
+    "Office of Foreign Assets Control. (2026, October 9). General License No. 135: Authorizing transactions related to the sale, delivery, offloading, and importation of diesel fuel of Russian Federation origin [General license]. U.S. Department of the Treasury. https://ofac.treasury.gov/media/937216/download?inline=",
+    "Reuters. (2026a, October 23). First Russian diesel from Putin-Trump deal heading for US, data shows. https://www.reuters.com/business/energy/tanker-carrying-40000-t-russian-diesel-heads-new-york-after-putin-trump-deal-2026-10-23/",
+    "Reuters. (2026b, October 23). Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing. https://www.reuters.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-evacuation-timing-2026-10-23/",
+    "Reuters. (2026c, October 18). Turkey will get some diesel from US-Russia supply deal, energy minister says. https://www.reuters.com/business/energy/turkey-will-get-some-diesel-us-russia-supply-deal-energy-minister-says-2026-10-18/",
+    "Reuters. (2026d, March 20). Ukraine deploys units to intercept targets in Middle East [News report]. https://www.reuters.com/world/europe/ukraine-deploys-units-intercept-targets-middle-east-2026-03-20/",
+    "Riviera Maritime Media. (2026, October 23). First Russian diesel shipment to US in the making following sanctions waiver. https://www.rivieramm.com/news-content-hub/first-russian-diesel-shipment-to-us-in-the-making-following-sanctions-waiver-90357",
+    "The White House. (2026, October 23). First lady Melania Trump secures ceasefire between Russia and Ukraine localized to Oleshky [Statement]. https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+    "U.S. Department of Energy. (2026). Strategic Petroleum Reserve sales and exchanges [Government notices]. https://www.energy.gov/hgeo/opr/spr-sales-and-exchanges",
+    "U.S. Energy Information Administration. (n.d.). Weekly U.S. ending stocks of crude oil in SPR (WCSSTUS1) [Data series]. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W",
+    "Wu, S. (2026). From connections to consequences [Unpublished CTCC research manuscript, archived October 12, 2026]. Global AI Governance and Policy Research Center, EPINOVA LLC."
+  ],
+  "recommended_citation": "Wu, S. (2026). The Reconfiguration of War Power: Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination (Policy Brief No. EPINOVA–2026–PB–75). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.075",
+  "citation_apa": "Wu, S. (2026). The reconfiguration of war power: Cross-theater coupling, strategic capacity, and asymmetric war termination (Policy Brief No. EPINOVA–2026–PB–75). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.075",
+  "short_citation": "Wu (2026), The Reconfiguration of War Power, EPINOVA–2026–PB–75.",
+  "imprint": {
+    "title": "EPINOVA Policy Brief Series",
+    "institution": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+    "publisher": "EPINOVA LLC",
+    "location": "United States",
+    "edition": "v1.0",
+    "date": "2026-10-23",
+    "pagination": "19 pages"
+  },
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "CTCC Evidence Gates: From Shared Interfaces to Cross-Theater Consequences",
+      "pages": [
+        3
+      ],
+      "description": "Six gate criteria G1–G6, minimum observable evidence, and causal conclusions not established by each gate."
+    },
+    {
+      "number": "Table 2",
+      "title": "Cross-Theater Evidence Stages and Outstanding Causal Gaps",
+      "pages": [
+        4,
+        5
+      ],
+      "description": "Claims and highest supported gate for PAC-3, historical/current Shahed–Geran, Ukrainian specialists, Russian diesel and strategic petroleum reserves; continued on page 5."
+    },
+    {
+      "number": "Table 3",
+      "title": "Energy Buffer Measurements and Accounting Boundaries",
+      "pages": [
+        8
+      ],
+      "description": "IEA collective actions, U.S. SPR, Japanese state crude and diesel production/export figures with non-additivity and identification cautions."
+    },
+    {
+      "number": "Table 4",
+      "title": "Conditional Conflict Trajectories: Ukraine Status × Iran Scenario",
+      "pages": [
+        13
+      ],
+      "description": "Nine-cell stress test crossing three Ukraine conditions with three Iran trajectories, with conditional planning assumptions."
+    },
+    {
+      "number": "Table 5",
+      "title": "Evidence Triggers for Reassessing Cross-Theater Consequences",
+      "pages": [
+        15
+      ],
+      "description": "Data required to update six unresolved causal claims and decision-relevant revisions."
+    }
+  ],
+  "appendices": [
+    {
+      "label": "Annex A",
+      "title": "Measurement and Documentation Rules",
+      "page_start": 19,
+      "sections": [
+        "Inventory Accounting",
+        "Net Releasable Capacity",
+        "Recipient-Side Usability",
+        "Commercial Additionality",
+        "Time Coding",
+        "Evidence Coding"
+      ],
+      "description": "Auditing rules for stocks versus flows, ownership, counterfactual net resource release, operational usability, commercial additionality, time windows and five evidence statuses."
+    }
+  ],
+  "measurement_rules": {
+    "inventory_accounting": "Keep physical inventory separate from authorizations, contracts, prospective output, and deliveries; reconcile ownership, units and dates.",
+    "net_releasable_capacity": "Subtract continuing operational demand, replenishment, reserve and contract requirements plus adjustment delays from nominal resources released.",
+    "recipient_side_usability": "Identify authorization, movement, technical compatibility, integration and absorption before claiming functional effects.",
+    "commercial_additionality": "Distinguish changed destinations from additional production, net revenue or strategic gain against alternative markets and demand.",
+    "time_coding": "Event, observation, publication and analytical dates kept separate; analytical day in U.S. Eastern Time runs 12:00 to following 12:00.",
+    "evidence_status_values": [
+      "CONFIRMED",
+      "REPORTED",
+      "PROSPECTIVE",
+      "NOT_IDENTIFIED",
+      "CONTRADICTED/SUPERSEDED"
+    ]
+  },
+  "funding": {
+    "statement": "No external funding information is specified in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software deposit is specified in the PDF.",
+    "repository_url": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
+  "metadata_source": {
+    "source_file": "The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Original PDF page text and embedded metadata inspection, direct References transcription, and EPINOVA PB-73/PB-74 schema comparison",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "notes": "Source PDF dated October 23, 2026. Confirmed 19 pages, 28 citations across PDF pages 17–18, five numbered tables (Table 2 spanning two pages), no numbered figures, and Annex A on page 19. DOI registration confirmed by author-reported email; Crossref reference-deposit outcome has not been supplied."
+  },
+  "pdf_metadata": {
+    "title": "The Reconfiguration of War Power\n Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination",
+    "author": "Shaoyuan Wu",
+    "subject": "Policy Brief",
+    "keywords": "Cross-Theater Conflict Coupling (CTCC);Asymmetric War Termination;Strategic Capacity Reconfiguration;War-System Interdependence;Defense-Industrial Constraints;Resource Allocation;Energy Security;Strategic Resilience",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261024181602-04'00'",
+    "modification_date": "D:20261024181602-04'00'",
+    "pages": 19,
+    "sha256": "61c82f76059a31b7e202723261c27019bbfa906e04982b00d5643c8b242a7b1c"
+  },
+  "crossref": {
+    "status": "registered_author_reported",
+    "doi": "10.67037/epinova.pb.2026.075",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-075/",
+    "crossref_doi_suffix": "epinova.pb.2026.075",
+    "record_type": "report",
+    "registration_status": "Registered (author reported confirmation email; no independent deposit-log audit)"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief"
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "registered_author_reported",
+    "confirmation_status": "confirmed_by_email_author_reported",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.075",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.075",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-075/",
+    "registration_date": null,
+    "registration_agency": "Crossref",
+    "reference_deposit_status": "not_confirmed",
+    "reference_count_in_pdf": 28
+  }
+}

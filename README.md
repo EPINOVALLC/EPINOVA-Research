@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-075** (2026-10-23)  
+  **The Reconfiguration of War Power: Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.075](https://doi.org/10.67037/epinova.pb.2026.075)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-75/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-75)  
+  Source PDF: [`The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-75/The%20Reconfiguration%20of%20War%20Power%20Cross-Theater%20Coupling%2C%20Strategic%20Capacity%2C%20and%20Asymmetric%20War%20Termination.pdf)
+
 - **EPINOVA-PB-2026-074** (2026-10-19)  
   **South Korea’s AI Power Under Uneven Interdependence: Semiconductor Depth, National Conversion, and the KIC Model-Selection Case**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.071](https://doi.org/10.67037/epinova.pb.2026.071)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-71/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71)  
   Source PDF: [`The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71/The%20Machine%20Audience%20of%20War%20AI-Generated%20Video%2C%20Narrative%20Occupancy%2C%20and%20Machine-Mediated%20Information%20Competition%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
-
-- **EPINOVA-PB-2026-070** (2026-08-28)  
-  **Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.070](https://doi.org/10.67037/epinova.pb.2026.070)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-70/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70)  
-  Source PDF: [`Japan's Rising Strategic Value and the Potential Restructuring of the Asia-Pacific Order.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-70/Japan%27s%20Rising%20Strategic%20Value%20and%20the%20Potential%20Restructuring%20of%20the%20Asia-Pacific%20Order.pdf)
 
 ---
 
