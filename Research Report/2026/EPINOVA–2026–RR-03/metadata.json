@@ -1,0 +1,664 @@
+{
+  "epinova_id": "EPINOVA-RR-2026-003",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Research Report",
+  "category": "research-reports",
+  "publication_series": "EPINOVA Research Report Series",
+  "series_code": "RR",
+  "series_number": "2026-003",
+  "title": "From Connections to Consequences",
+  "subtitle": "Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars",
+  "full_title": "From Connections to Consequences: Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars",
+  "title_normalized": "from connections to consequences cross-theater conflict coupling and strategic capacity in interconnected wars",
+  "publication_date": "2026-10-27",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "copyright": "",
+  "doi": "https://doi.org/10.67037/epinova.rr.2026.003",
+  "previous_doi": "",
+  "landing_page": "https://publications.epinova.org/epinova-rr-2026-003/",
+  "official_page": "https://epinova.org/research-reports",
+  "description": "This research report develops Cross-Theater Conflict Coupling (CTCC) to examine how the Russia–Ukraine and U.S.–Israel–Iran wars interact through shared defense resources, technology, expertise, and policy-controlled access. Using PAC-3, Shahed–Geran, Ukrainian counter-drone assistance, Russian diesel, and strategic petroleum reserves, it distinguishes connections from verified transmission, recipient conversion, and consequential effects, including conditional war-termination scenarios.",
+  "abstract": "This research report develops Cross-Theater Conflict Coupling (CTCC) as a mechanism-based framework for identifying when developments in one war produce consequential changes in another war system. Focusing on the Russia–Ukraine war and the U.S.–Israel–Iran conflict, it examines competition over shared defense-industrial resources, technology and operational-knowledge transfer, and policy-mediated changes in access and strategic choice. It specifies five conditional propositions and six claim-specific evidence gates (G1–G6), distinguishing shared interfaces, activation decisions, receipt, recipient conversion, observed decision or functional consequences, and direction-specific feedback from causal attribution. Structured comparison and process tracing examine PAC-3 MSE allocation and PURL, Shahed–Geran industrial adaptation and proposed reverse transfers, Ukrainian counter-drone assistance in Gulf states, Russian diesel authorization and shipment claims, and strategic petroleum buffers. The analysis also explores conditional scenarios of asymmetric war termination, distinguishing lower combat activity from net releasable strategic capacity after continuing obligations, production constraints, and adversarial adjustment. The report finds different levels of evidence across the cases and does not treat connections, announcements, nominal stocks, or asserted ceasefires as proof of realized cross-war gains. Its assessments are based on evidence available through October 26, 2026, and do not constitute forecasts or definitive causal estimates.",
+  "keywords": [
+    "cross-theater conflict coupling",
+    "CTCC",
+    "strategic capacity",
+    "asymmetric war termination",
+    "effective bottlenecks",
+    "G1–G6 evidence gates",
+    "recipient-side conversion",
+    "process tracing",
+    "war-system reconstitution",
+    "military-industrial interdependence",
+    "PAC-3 MSE",
+    "PURL",
+    "Shahed–Geran",
+    "Ukrainian counter-drone assistance",
+    "Sky Map",
+    "Russian diesel",
+    "strategic petroleum reserves",
+    "policy conditionality",
+    "Russia–Ukraine war",
+    "U.S.–Israel–Iran conflict",
+    "NATO",
+    "cross-war resource allocation",
+    "dynamic counterfactuals",
+    "institutional access",
+    "energy buffers"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Defense-industrial interdependence",
+    "Military technology transfer",
+    "Research methodology",
+    "Causal inference",
+    "War termination",
+    "Military logistics",
+    "Energy security",
+    "Sanctions and trade policy",
+    "Russia–Ukraine war",
+    "Middle East security",
+    "NATO security",
+    "Public policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-10-27",
+      "date_type": "Issued",
+      "description": "Initial public release date printed on the report cover and version history"
+    },
+    {
+      "date": "2026-10-27",
+      "date_type": "Created",
+      "description": "PDF creation date recorded in embedded PDF metadata"
+    },
+    {
+      "date": "2026-10-27",
+      "date_type": "Date printed in PDF",
+      "description": "Date on the report title page and version history"
+    },
+    {
+      "date": "2026-10-27",
+      "date_type": "Metadata updated",
+      "description": "RR-03 publication metadata assembled from the revised PDF following author-reported Crossref registration confirmation"
+    },
+    {
+      "date": "2026-10-26",
+      "date_type": "Research evidence cutoff",
+      "description": "Report-wide latest evidence date; not the publication date"
+    }
+  ],
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–RR-03",
+      "scheme": "EPINOVA research report number",
+      "description": "Research report number printed on cover and every interior page"
+    },
+    {
+      "identifier": "From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf",
+      "scheme": "File name",
+      "description": "Exact revised PDF filename; must match files[].filename"
+    },
+    {
+      "identifier": "CTCC",
+      "scheme": "Research framework",
+      "description": "Cross-Theater Conflict Coupling, original framework defined in this research report"
+    },
+    {
+      "identifier": "G1–G6",
+      "scheme": "Evidence framework",
+      "description": "Six claim-specific evidence gates, with decision and functional outcome distinctions at G5"
+    },
+    {
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "description": "Official EPINOVA research reports directory"
+    }
+  ],
+  "license": {
+    "id": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf",
+      "url": "https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-03/From%20Connections%20to%20Consequences%20Cross-Theater%20Conflict%20Coupling%20and%20Strategic%20Capacity%20in%20Interconnected%20Wars.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the research report (intended repository URL; upload not yet verified)",
+      "pages": 116
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-03",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research"
+  },
+  "series_information": {
+    "series_name": "EPINOVA Research Report Series",
+    "series_code": "RR",
+    "series_number": "2026-002",
+    "series_description": "The EPINOVA Research Report Series publishes longer-form analytical reports on AI governance, strategic competition, technological sovereignty, infrastructure, cognitive security, systemic conflict, and institutional transformation."
+  },
+  "methodology": {
+    "framework_name": "Cross-Theater Conflict Coupling (CTCC)",
+    "source_basis": "Public official documents, institutional records, industry disclosures, contemporaneous reporting, dated legal instruments, energy and cargo signals, and structured comparative assessment of source independence and evidentiary limits.",
+    "case_context": "Russia–Ukraine and U.S.–Israel–Iran conflict systems, with report-wide evidence cutoff on October 26, 2026.",
+    "core_problem": "When and through what verifiable resource, technology, knowledge, or policy-mediated pathways does a change associated with one war alter usable strategic capacity, institutional decisions, or war-sustaining functions in another?",
+    "research_design": "Structured focused comparison; within-case process tracing; stage-specific documentary tests; evolving no-source-war and no-policy counterfactuals; positive, negative and incomplete-pathway comparisons.",
+    "propositions": [
+      {
+        "id": "P1",
+        "name": "Effective-bottleneck transmission",
+        "claim": "Cross-theater scarcity affects a target war system when a demonstrably common, non-substitutable resource bottleneck remains binding after buffers."
+      },
+      {
+        "id": "P2",
+        "name": "Policy-mediated anticipation",
+        "claim": "Credible access-rule changes may induce independently observed decisions before physical delivery; decision consequences differ from functional capacity gains."
+      },
+      {
+        "id": "P3",
+        "name": "Conversion dependence",
+        "claim": "Transferred equipment or expertise changes usable capability only where recipient technical, organizational and threat-specific interfaces support conversion."
+      },
+      {
+        "id": "P4",
+        "name": "Conditional substitution and dependency migration",
+        "claim": "Rewiring and adaptation may relax one constraint while creating exposure to another component, skill or regulatory interface."
+      },
+      {
+        "id": "P5",
+        "name": "Adversarial and feedback qualification",
+        "claim": "Durable effects depend on opponent adaptation; genuine feedback requires a dated identifiable return pathway rather than coincidence."
+      }
+    ],
+    "evidence_gates": [
+      {
+        "gate": "G1",
+        "name": "Shared interface",
+        "minimum": "Specific supplier, stock, rule, route, productive system or expertise relevant to both theaters"
+      },
+      {
+        "gate": "G2",
+        "name": "Activation",
+        "minimum": "Dated source-war-conditioned authorization, allocation, restriction, deployment or communicated condition"
+      },
+      {
+        "gate": "G3",
+        "name": "Receipt",
+        "minimum": "Dated custody or material, personnel or information arrival at a defined recipient"
+      },
+      {
+        "gate": "G4",
+        "name": "Conversion",
+        "minimum": "Identified technical, industrial, doctrinal or organizational integration"
+      },
+      {
+        "gate": "G5-D",
+        "name": "Decision consequence",
+        "minimum": "Observed consequential decision or behavior of affected actor beyond the originating G2 act"
+      },
+      {
+        "gate": "G5-F",
+        "name": "Functional consequence",
+        "minimum": "Observed usable capacity, output, performance or resilience change"
+      },
+      {
+        "gate": "G6",
+        "name": "Feedback",
+        "minimum": "Dated, direction-specific return pathway with identified actors, object, control interface, and recipient-side to source-theater sequence"
+      }
+    ],
+    "central_claims": [
+      "Shared connection is insufficient evidence of activated cross-war transmission, recipient conversion, or causal effects.",
+      "Authorization, production, contractual allocation, shipment, receipt, operational use and attributable effect require independent records.",
+      "Cross-theater effects depend on effective bottlenecks, timing, substitution, reciprocal obligations and recipient compatibility.",
+      "Decreased hostilities or asymmetric war termination do not automatically generate net transferable strategic capacity.",
+      "The cases reveal multiple partial mechanisms and unresolved downstream evidence rather than a verified generalized mutual benefit."
+    ]
+  },
+  "dimensions": [
+    {
+      "name": "Shared Resource Competition and Allocation",
+      "code": "RC",
+      "indicator_type": "Transmission pathway",
+      "description": "Competing inventories, suppliers, procurement authority and delivered missile variants across war systems.",
+      "observed_pattern": "Cross-theater air-defense procurement and PURL pressure are reported; object-matched Ukraine-specific MSE displacement is not identified.",
+      "interpretation": "Finite production and allocation interfaces do not alone determine realized recipient war-system effects."
+    },
+    {
+      "name": "Adaptive Technology and Knowledge Transfer",
+      "code": "AT",
+      "indicator_type": "Transmission pathway",
+      "description": "Industrial learning, variant development, personnel and military operational knowledge crossing theater boundaries.",
+      "observed_pattern": "Historical Iranian-origin Shahed production localized in Russia; reverse 2026 Geran flow unverified; Ukraine-to-Gulf personnel and software training reported.",
+      "interpretation": "Industrial or advisory transmission differs from recipient-side operational conversion and verified benefit."
+    },
+    {
+      "name": "Policy-Controlled Access and Conditional Commitments",
+      "code": "PC",
+      "indicator_type": "Transmission pathway",
+      "description": "Sanctions authorization, license scope, procurement channels, diplomatic threats, regulatory gating and energy-target restraint.",
+      "observed_pattern": "General License 135 and later legal instruments are documented while U.S. receipt, reciprocal restraint, and material benefits remain unverified at cutoff.",
+      "interpretation": "Institutional permissions and strategic expectations can change before material implementation."
+    },
+    {
+      "name": "Energy Inventory and Strategic Buffers",
+      "code": "EB",
+      "indicator_type": "Measurement dimension",
+      "description": "International petroleum reserves, U.S. Strategic Petroleum Reserve, national holdings, deliveries, refinery absorption and ownership accounting.",
+      "observed_pattern": "Reserve announcements and inventory observations span different stocks, dates and physical units.",
+      "interpretation": "Nominal or awarded barrels cannot be equated with freely releasable, delivered or militarily useful net capacity."
+    },
+    {
+      "name": "Asymmetric War Termination",
+      "code": "WT",
+      "indicator_type": "Conditional-scenario dimension",
+      "description": "Localized pauses, national ceasefire, prolonged fighting, territorial conquest, commitment overhang, NATO deterrence and Iran-war trajectories.",
+      "observed_pattern": "Three-by-three scenario analysis rather than empirically verified future outcomes.",
+      "interpretation": "Available strategic capacity after termination depends on residual obligations, inventories, replacement needs and evolving opposing behavior."
+    }
+  ],
+  "key_findings": [
+    "Cross-war connections and institutional access do not, by themselves, establish strategically consequential cross-war effects.",
+    "PAC-3/PURL evidence supports shared industrial scarcity and reported delivery pressure, not a verified same-variant numerical diversion from Ukraine caused by the Iran war.",
+    "Historical Shahed-to-Geran industrial absorption is established; a completed 2026 model-specific Russian return shipment to Iran and its operational effects remain unverified.",
+    "Ukrainian counter-drone assistance and reported Sky Map placement/training demonstrate partial transmission; recipient-integrated performance gains and reciprocal energy flows remain unquantified.",
+    "Regulatory diesel authorization, production and tanker destination signals are not equivalent to completed U.S. customs receipt or attributable Russian military capacity gains.",
+    "International oil reserve releases, refinery use and national balance sheets have noninterchangeable accounting denominators.",
+    "Asymmetric termination does not automatically produce a peace dividend or net releasable military resources; residual obligations and opponent adaptation can offset lower consumption.",
+    "Attribution requires event-specific records, source independence, matched functional units and independently evolving counterfactuals."
+  ],
+  "policy_recommendations": [
+    "Maintain owner–variant–time ledgers separating authorization, procurement, payment, production, transfer, receipt and usable inventories.",
+    "For war termination specify geographic scope, protected functions, start time, monitoring, verification, civilian access and response to violations.",
+    "Test PAC-3/PURL claims with original and revised schedules, variant/lot acceptance and recipient-level operating consequences.",
+    "Authenticate model-specific Geran manufacture-to-custody chains and recipient records before attributing 2026 reciprocal gains.",
+    "Evaluate transferred defensive software and expertise against recipient activation dates, matched threats, co-located defenses and operational performance.",
+    "Track Russian diesel by product, origin, vessel IMO, legal and customs entry, commercial receipts, fiscal effects and functional consequences.",
+    "Reconcile petroleum storage and release denominators at owner, country, physical commodity and time-window levels.",
+    "Test any nationwide termination with predeclared 1-, 4-, 12- and 26-week comparative production, consumption, stocks and delivery windows."
+  ],
+  "watchpoints": [
+    {
+      "timeframe": "After planned October 27, 2026 start",
+      "indicator": "Oleshky localized humanitarian ceasefire implementation, monitoring, evacuation and violations",
+      "analytical_purpose": "Distinguish announced agreement from implemented local cessation and spillover"
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Ukraine-specific PAC-3 MSE batch schedules, original allocation, actual receipt and usable inventory",
+      "analytical_purpose": "Assess attributable recipient-side diversion and functional outcomes"
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Authenticated Geran variant custody or cross-border receipt by Iran in 2026",
+      "analytical_purpose": "Test alleged reciprocal material transmission separately from historical technological lineage"
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "U.S./Gulf Sky Map acceptance, activation, threat-normalized interception and training records",
+      "analytical_purpose": "Test G4 conversion and G5 functional effects"
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Russian diesel U.S. customs discharge, vessel identity, trade origin and sales fiscal chain",
+      "analytical_purpose": "Differentiate destination signals, legal permission and actual additional usable supply"
+    },
+    {
+      "timeframe": "Ongoing",
+      "indicator": "Owner-specific strategic petroleum withdrawals, arrivals, refinery receipts and stock returns",
+      "analytical_purpose": "Measure net energy-buffer availability without double counting"
+    },
+    {
+      "timeframe": "If conflict status changes",
+      "indicator": "Independent verification of nationwide Ukraine cessation and 1/4/12/26-week net obligations and releases",
+      "analytical_purpose": "Measure asymmetric termination effects under continuing NATO, reconstruction and deterrence obligations"
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/research-reports",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Research Report Series"
+    },
+    {
+      "relation": "IsSupplementedBy",
+      "identifier": "https://github.com/EPINOVALLC/EPINOVA-Research",
+      "scheme": "URL",
+      "resource_type": "Repository",
+      "description": "EPINOVA research repository and archive; RR-03 directory upload not yet verified"
+    }
+  ],
+  "references": [
+    "Agence France-Presse. (2026, October 13). Weapons procurement for Kyiv continuing—US NATO ambassador [October 12 interview with Matthew Whitaker, original AFP wire carried by The Jordan Times]. https://jordantimes.com/news/world/weapons-procurement-for-kyiv-continuing-us-nato-ambassador",
+    "Agency for Natural Resources and Energy. (2026a, May 15). Status of oil stockpiles (May 2026): Holdings as of March 31, 2026 [Government statistical bulletin, in Japanese]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040456663",
+    "Agency for Natural Resources and Energy. (2026b, September 15). Status of oil stockpiles (September 2026): Holdings as of July 31, 2026 [Government statistical bulletin, in Japanese]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040505471",
+    "Al Jazeera. (2026, September 13). Trump tells Zelenskyy to stop hitting Russian diesel supplies. https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies",
+    "Al-Ghusbi, O., & Rousseau, C. (2025, May 29). Airborne axis: Inside the deal that brought Iranian drone production to Russia. C4ADS. https://c4ads.org/reports/airborne-axis/",
+    "Arhirova, H., & Spike, J. (2026, October 13). Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv. Associated Press. https://apnews.com/article/russia-ukraine-war-zelenkyy-no-warning-missile-strike-10c54e55f31aded2db95242fdb4fd153",
+    "ArmyInform. (2026, October 12). Кораблі, аеродроми та НПЗ: Міністерство оборони повідомило про результати далекобійний ударів у вересні [Ukraine’s Defence Ministry summary of September long-range strikes; 12 identified refinery sites; not strike-attempt denominator]. https://armyinform.com.ua/2026/10/12/korabli-aerodromy-ta-npz-ministerstvo-oborony-povidomylo-pro-rezultaty-dalekobijnyj-udariv-u-veresni/",
+    "Associated Press. (2026, October 24). What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky. https://apnews.com/article/7d8aadbf684780223434e705913ecbf3",
+    "Astakhova, O., & Soldatkin, V. (2026, October 12). Russia says its diesel exports may exceed volumes announced by Trump. Reuters. https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
+    "Azhar, B., Winston, K., & Espejo, S. (2026, October 9). NYMEX ULSD crack weakens after Trump announces additional diesel supplies from Russia. S&P Global Energy. https://www.spglobal.com/energy/en/news-research/latest-news/shipping/100926-nymex-ulsd-crack-weakens-after-trump-announces-additional-diesel-supplies-from-russia",
+    "Babel. (2026, October 12). Monitors: Tanker that was supposed to bring diesel to the US actually brought fertilizers. https://babel.ua/en/news/130913-monitors-tanker-that-was-supposed-to-bring-diesel-to-the-us-actually-brought-fertilizers",
+    "Banco, E., Flynn, D., & Slattery, G. (2026, October 12). US hopes diesel deal can 'soften' Moscow on peace talks, sources say. Reuters. https://www.reuters.com/business/energy/us-hopes-diesel-deal-can-soften-moscow-peace-talks-sources-say-2026-10-12/",
+    "Bloomberg. (2026, March 10). Germany helps secure scarce air-defense missiles for Ukraine. https://www.bloomberg.com/news/articles/2026-03-10/germany-helps-procure-scarce-air-defense-missiles-for-ukraine",
+    "Boeing. (2026, October 5). Boeing receives contract to accelerate Patriot seeker output. https://www.boeing.com/features/2026/10/boeing-receives-contract-to-accelerate-patriot-seeker-output",
+    "Bogage, J., & Bose, N. (2026, October 13). Trump says US still sharing intel with Ukraine, defends Russian diesel deal. Reuters. https://www.reuters.com/world/europe/trump-says-us-still-sharing-intel-with-ukraine-defends-russian-diesel-deal-2026-10-13/",
+    "Bondar, K., & Errera, N. (2026, September 4). From Shahed to Geran: How Russia continues to reinvent the one-way attack drone. Center for Strategic and International Studies. https://www.csis.org/analysis/shahed-geran-how-russia-continues-reinvent-one-way-attack-drone",
+    "Burrows, E., & Finley, B. (2026, August 27). Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say [Original AP investigation; official denials in same report]. Associated Press. https://apnews.com/article/patriot-missiles-iran-war-russia-ukraine-trump-09c7d8030a2e11fbd8ee3f7176b3f2d4",
+    "Cabinet of Ministers of Ukraine. (2026, March 13). Intercepting Kinzhal, Iskander, and Zircon missiles: Key facts about PAC-3 missiles for the Patriot air defense system delivered to Ukraine by Germany. https://www.kmu.gov.ua/en/news/zbyvaiut-kyndzhaly-iskandery-i-tsyrkony-shcho-vidomo-pro-rakety-pac-3-dlia-patriot-iaki-ukraina-otrymala-vid-nimechchyny",
+    "Cancian, M. F., & Park, C. H. (2026, July 27). Renewed Iran war would test diminished interceptor inventories [Estimated model, not declassified stock inventory]. Center for Strategic and International Studies. https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories",
+    "Center for Analysis of World Arms Trade. (2026, October 13). Summary of the Russian Ministry of Defence account as of 12:10 Moscow time on October 13 [Attributed republication, Russian]. https://armstrade.org/includes/periodics/news/2026/1013/124593303/detail.shtml",
+    "Center for Strategic and International Studies. (2026, March 10). Unpacking Iran’s drone campaign in the Gulf: Early lessons for future drone warfare. https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare",
+    "CK Economics. (2026, October 22). U.S. strategic petroleum reserve stocks [EIA-derived data series]. https://www.ckeconomics.com/data/us-strategic-petroleum-reserve-stocks",
+    "Collier, D. (2011). Understanding process tracing. PS: Political Science & Politics, 44(4), 823–830. https://doi.org/10.1017/S1049096511001429",
+    "Congressional Budget Office. (2026, July). Options to counter small unmanned aircraft systems [Analytical cost and system-architecture model; not Prince Sultan site expenditure or Sky Map performance]. https://www.cbo.gov/publication/62563",
+    "Congressional Research Service. (2026, August 31). U.S. security assistance to Ukraine since 2022 (IF12040) [Congressional research report; PURL financial categories drawn from Special Inspector General records]. https://www.everycrsreport.com/reports/IF12040.html",
+    "Dahlgren, M., Bazylczyk, P., & Karako, T. (2025, July 21). Mesh sensing for air and missile defense: A vision for passive, proliferated sensor networks. Center for Strategic and International Studies. https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-07/250717_Dahlgren_Mesh_Sensing.pdf?VersionId=ZT4ChND3Qt891rtfaLcxEdL0Cz.wPsFj",
+    "Decker, A. (2024, July 20). Ukraine’s cheap sensors are helping troops fight off waves of Russian drones. Defense One. https://www.defenseone.com/defense-systems/2024/07/ukraines-cheap-sensors-are-helping-troops-fight-waves-russian-drones/398204/",
+    "Defence Intelligence of Ukraine. (2026, October 5). War & Sanctions: Data concerning the Geran-4 modification. https://gur.gov.ua/ua/content/warsanctions-optychna-navihatsiia-nova-bch-ta-kompas-hur-publikuie-dani-pro-novu-modyfikatsiiu-vorozhykh-heran4.html",
+    "Defense Security Cooperation Agency. (2022a, May 25). Use of program code JU for Foreign Military Sales Letters of Offer and Acceptance for Ukraine (Policy Memorandum 22-52). https://samm.dsca.mil/policy-memoranda/dsca-22-52",
+    "Defense Security Cooperation Agency. (2022b, July 22). Mandatory Letter of Offer and Acceptance note for program code JU (Policy Memorandum 22-61). https://samm.dsca.mil/policy-memoranda/dsca-22-61",
+    "Defense Security Cooperation Agency. (2025, December 16). Assignment of semi-permanent program code WD for USAI–PURL (Policy Memorandum 25-115). https://samm.dsca.mil/policy-memoranda/dsca-25-115",
+    "Defense Security Cooperation Agency. (2026, June 8). Appendix 8 guidance on JUMPSTART (Policy Memorandum 26-15). https://samm.dsca.mil/policy-memoranda/dsca-26-15",
+    "Department of Defense Inspector General. (2026, June 8). Reannouncement of the evaluation of counter-UAS interoperability [Project announcement, not findings]. https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/4513202/project-announcement-reannouncement-of-the-evaluation-of-the-interoperability-o/",
+    "DiSavino, S. (2026, October 13). Oil prices mixed as US-Russia diesel deal hopes offset Saudi Yemen attacks. Reuters. https://www.reuters.com/business/energy/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-2026-10-13/",
+    "DTEK Grids. (2025, November 27). Number of emergencies in the Dnipropetrovsk region increased 6 times due to the schedules [Operator-attributed experience; not independently audited rate]. https://grids.dtek.com/en/media-center/press/kilkist-avariy-na-dnipropetrovschini-zrosla-u-6-raziv-cherez-grafiki-energetiki-prosyat-zhiteliv-oblasti-pro-dopomo/",
+    "DTEK Grids. (2026a, February 9). Russians attacked a DTEK Dnipro Grids repair crew vehicle during frontline line-restoration work [Operator account of February 7 incident; destroyed repair vehicle, no casualties]. https://grids.dtek.com/en/media-center/press/na-dnipropetrovschini-rosiyani-atakuvali-remontnu-brigadu-dtek-dniprovski-elektromerezhi/",
+    "DTEK Grids. (2026b, May 13). Over the course of two days, DTEK Dnipro Grids energy workers restored electricity to 32,800 families after enemy attacks [Same-facility repeat strike reported; not linked to October anonymous assets]. https://grids.dtek.com/en/media-center/press/za-dvi-dobi-energetiki-dtek-dniprovski-elektromerezhi-vidnovili-svitlo-dlya-328-tisyach-rodin-pislya-vorozhikh-obstrili/",
+    "DTEK Grids. (2026c, June 17). DTEK Dnipro Grids energised 139 settlements after two attacks on a power facility [Operator-attributed same-day strike/reconnection, not verified physical asset repair]. https://grids.dtek.com/en/media-center/press/energetiki-dtek-dniprovski-elektromerezhi-zazhivili-139-naselenikh-punktiv-dnipropetrovschini-pislya-ataki-na-energoob/",
+    "DTEK Grids. (2026d, June 19). The enemy attacked power facilities in the Dnipropetrovsk region again [June 18 facility struck twice; more than 25,000 homes reportedly reconnected in less than one hour]. https://grids.dtek.com/en/media-center/press/vorog-znovu-atakuvav-energoobekti-dnipropetrovschi/",
+    "DTEK Grids. (2026e, July 10). Dnipro Grids restores electricity after attacks and bad weather [Mixed-source restoration aggregate]. https://grids.dtek.com/en/media-center/press/dtek-dniprovski-elektromerezhi-za-dobu-vidnovili-svitlo-dlya-48-tisyach-rodin-pislya-obstriliv-ta-negod/",
+    "DTEK Grids. (2026f, September 23). Over the course of the day, DTEK Kyiv Regional Grids restored electricity to 57,000 families in the Kyiv region after enemy attacks [Prior cohort repaired while a new cohort lost power]. https://grids.dtek.com/en/media-center/press/za-dobu-energetiki-dtek-kiivski-regionalni-elektromerezhi-povernuli-svitlo-dlya-57-tisyach-rodin-kiivschini-pislya-vorozhikh-at/",
+    "DTEK Grids. (2026g, September 24). DTEK Dnipro Grids restores power to 13,000 homes after severe weather [Initial storm-service recovery and residual stock]. https://grids.dtek.com/en/media-center/press/energetiki-dtek-dniprovski-elektromerezhi-usuvayut-naslidki-negodi-zi-svitlom-vzhe-13-tisyach-ose/",
+    "DTEK Grids. (2026h, September 25). Electricity restored to 36,000 homes following severe weather [Later recovery report of same storm; do not sum partial stages]. https://grids.dtek.com/en/media-center/press/36-tisyach-osel-znovu-zi-svitlom-dtek-dniprovski-elektromerezhi-zavershili-osnovni-roboti-z-likvidatsii-naslidkiv-nego/",
+    "DTEK Grids. (2026i, September 28). Enemy drones once again attacked DTEK Dnipro Grids power facilities and station in the Dnipropetrovsk region [Prepolicy FPV strike and operator-attributed reconnection]. https://grids.dtek.com/en/media-center/press/na-dnipropetrovschini-vorozhi-droni-znovu-atakuvali-energoobekti-ta-dilnitsyu-dtek-dniprovski-elektromer/",
+    "DTEK Grids. (2026j, October 1). Restoring electricity after the strikes: DTEK Grids DSO restored electricity to more than 3 million homes in September [Nonunique restoration-occurrence baseline; operator disclosure]. https://grids.dtek.com/en/media-center/press/povertaemo-svitlo-pislya-obstriliv-dlya-ponad-3-mln-osel-vidnovili-elektriku-osr-dtek-merezhi-u-veresn/",
+    "DTEK Grids. (2026k, October 5). Over the course of the week, DTEK Grids DSO restored electricity to almost 400 settlements, de-energized by the attacks [Operator regional-week report for September 28–October 4]. https://grids.dtek.com/en/media-center/press/osr-dtek-merezhi-za-tizhden-povernuli-svitlo-u-mayzhe-400-naselenikh-punktiv-znestrumlenikh-obstrilam/",
+    "DTEK Grids. (2026l, October 7). FPV drone once again attacked DTEK Dnipro Grids station [Repeated facility strikes; public facility ID withheld]. https://grids.dtek.com/en/media-center/press/fpv-dron-znovu-atakuvav-dilnitsyu-dtek-dniprovski-elektromerez/",
+    "DTEK Grids. (2026m, October 9). The enemy attacked two DTEK Dnipro Grids power facilities [Operator incident release; event times October 8, 20:00 and October 9, 05:36 Kyiv]. https://grids.dtek.com/en/media-center/press/vorog-atakuvav-dva-energoobekti-dtek-dniprovski-elektromere/",
+    "DTEK Grids. (2026n, October 12). Over the course of the week, DTEK Grids DSO restored electricity to almost 1.9 million homes, de-energized by the attacks [Operator regional-week report for October 5–11]. https://grids.dtek.com/en/media-center/press/osr-dtek-merezhi-za-tizhden-povernuli-svitlo-u-mayzhe-19-milyoniv-osel-znestrumlenikh-obstril/",
+    "DTEK Group. (2025, November 8). Russia has attacked a DTEK thermal power plant as part of a major strike on Ukraine’s energy sector [Operator statement; facility name withheld for security reasons]. https://dtek.com/en/media-center/news/russia-has-attacked-a-dtek-thermal-power-plant-as-part-of-a-major-terrorist-strike-on-ukraines-energy-sector/",
+    "Dysa, Y. (2026, August 5). Ukraine says missile interceptor deliveries have fallen to third of 2025 level. Reuters. https://www.reuters.com/world/europe/ukraine-says-missile-interceptor-deliveries-have-fallen-third-2025-level-2026-08-05/",
+    "EADaily. (2026, October 12). Russian diesel did not reach the USA: Tanker from Russia brought the old cargo. https://eadaily.com/en/news/2026/10/12/russian-diesel-did-not-reach-the-usa-tanker-from-russia-brought-the-old-cargo",
+    "European Union. (2008). Consolidated version of the Treaty on European Union. Official Journal of the European Union, C 115, 13–45. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12008M%2FTXT",
+    "Farrell, H., & Newman, A. L. (2019). Weaponized interdependence: How global economic networks shape state coercion. International Security, 44(1), 42–79. https://doi.org/10.1162/isec_a_00351",
+    "Faytuks Network. (2026, April 27). BDA: Satellite image shows Prince Sultan Air Base active and operational after Iranian strikes [April 21 image assessment]. https://faytuksnetwork.com/middle-east/bda-satellite-image-shows-prince-sultan-air-base-still-very-active-after-strike-damage/",
+    "Federal Government of Germany. (2026a, March 11). Regierungspressekonferenz vom 11. März 2026 [Federal press briefing]. https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-11-maerz-2026-2410052",
+    "Federal Government of Germany. (2026b, August 24). Regierungspressekonferenz vom 24. August 2026 [Federal press briefing]. https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-24-august-2026-2450038",
+    "Federal Government of Germany & Ukraine. (2026, April 14). Declaration on a strategic partnership between Germany and Ukraine [Joint declaration, Annex II]. https://www.bundesregierung.de/resource/blob/974430/2420522/27a0f239d9401c2a41d27d04e0457c53/2026-04-14-erklaerung-deutsch-ukr-regierungskonsultationen-data.pdf?download=1",
+    "Fenbert, A. (2026, July 9). Ukraine to receive Patriot missiles from allies—but unclear when, Zelensky says amid air defense crisis. The Kyiv Independent. https://kyivindependent.com/ukraine-to-receive-patriot-missiles-from-allies-but-unclear-when-zelensky-says-amid-air-defense-crisis/",
+    "Financial Times. (2026a, April 10). Ukrainian interceptors downed Iran’s drones in Middle East, says Volodymyr Zelenskyy. https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213",
+    "Financial Times. (2026b, October 23). US is prepared for long stand-off with Iran, says Trump envoy. https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d",
+    "Flynn, D., & Harmash, O. (2026, October 3; updated October 5). Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says [Original on-record interview conducted October 2]. Reuters. https://www.reuters.com/business/aerospace-defense/ukraine-will-hit-russian-refineries-response-moscows-new-doctrine-airstrikes-2026-10-03/",
+    "Flynn, D., & Holland, S. (2026, October 11). Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy. Reuters. https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11/",
+    "Flynn, D., & Polityuk, P. (2026, October 12). Kyiv says Russia hits energy targets despite Trump ceasefire announcement. Reuters. https://www.reuters.com/business/energy/ukraine-accuses-russia-violating-trumps-energy-ceasefire-eu-imposes-new-2026-10-12/",
+    "George, A. L., & Bennett, A. (2005). Case studies and theory development in the social sciences. MIT Press. https://mitpress.mit.edu/9780262572224/case-studies-and-theory-development-in-the-social-sciences/",
+    "Gordon, C., & Losey, S. (2026, March 28). Key USAF E-3 AWACS aircraft damaged in Iranian attack on Saudi air base. Air & Space Forces Magazine. https://www.airandspaceforces.com/key-e-3-awacs-aircraft-damaged-iranian-attack-saudi-air-base/",
+    "Government of the Netherlands. (2026a, February 9; published February 23). Situation in Ukraine: Air-defence ammunition and Dutch operational readiness (Kamerstuk 36 045, no. 268). https://zoek.officielebekendmakingen.nl/kst-36045-268.html",
+    "Government of the Netherlands. (2026b, February 12). Weapons, ammunition, equipment and F-16 simulators for Ukraine. https://www.rijksoverheid.nl/actueel/nieuws/2026/02/12/wapens-munitie-materieel-en-f-16-simulatoren-voor-oekraine",
+    "Government of the Netherlands. (2026c, February 27; subsequently published). Deliveries of military goods to Ukraine (Kamerstuk 22 054, no. 479). https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?did=2026D09037&id=2026Z03955",
+    "Government Publishing Office. (2022). Ending Importation of Russian Oil Act, Pub. L. No. 117-109 (136 Stat. 1154). https://www.govinfo.gov/content/pkg/PLAW-117publ109/html/PLAW-117publ109.htm",
+    "Government Publishing Office. (2026). Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, Pub. L. No. 119-111 (140 Stat. 1026). https://www.govinfo.gov/content/pkg/PLAW-119publ111/html/PLAW-119publ111.htm",
+    "Harmash, O., & Flynn, D. (2026, October 13). Allies gave Ukraine no warning of impending missile attack, Zelenskiy says. Reuters. https://www.reuters.com/business/energy/russia-hits-no-energy-targets-ukraine-first-time-since-trumps-truce-2026-10-13/",
+    "Herbert Smith Freehills Kramer. (2026, October 12). OFAC issues General License 135 authorizing transactions involving Russian-origin diesel fuel. https://www.hsfkramer.com/notes/sanctions/2026-posts/ofac-issues-general-license-135-authorizing-transactions-involving-russian-origin-diesel-fuel",
+    "Holland, S., & Dysa, Y. (2026, October 23). Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month. Reuters. https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/",
+    "Hunder, M. (2026, February 27). Ukraine may form joint ventures with allies to boost defences against ballistic missiles. Reuters. https://www.reuters.com/business/aerospace-defense/ukraine-may-form-joint-ventures-with-allies-boost-defences-against-ballistic-2026-02-27/",
+    "Hunder, M., & Dysa, Y. (2026, March 20). Ukraine deploys units to five Middle East countries to intercept drones. Reuters. https://www.reuters.com/world/europe/ukraine-deploys-units-intercept-targets-middle-east-2026-03-20/",
+    "Institute for the Study of War. (2026, October 16). Russian offensive campaign assessment, October 16, 2026. https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-16-2026",
+    "Interfax. (2026a, October 5). Russian oil companies receive maximum payments under damper for 4.5 years in Sept 2026, totaling 305.5 bln rubles. https://www.interfax.com/newsroom/top-stories/119393/",
+    "Interfax. (2026b, October 18). Novak discusses contracts and delivery timetable for diesel supplied to the United States [News report, in Russian]. https://www.interfax.ru/business/1123252",
+    "Interfax-Ukraine. (2026a, March 17). Zelenskyy: 201 Ukrainian military experts already in the Middle East, 34 more ready to deploy [News report]. https://en.interfax.com.ua/news/general/1152400-amp.html",
+    "Interfax-Ukraine. (2026b, August 23). Zelenskyy statements on Patriot PAC-2/PAC-3 annual plan [News report]. https://interfax.com.ua/news/general/1195390.html",
+    "Interfax-Ukraine. (2026c, October 13). Power curbs, outages stay in force until midnight — Ukrenergo [Operator account reported by the news agency]. https://en.interfax.com.ua/news/economic/1219035-amp.html",
+    "Interfax-Ukraine. (2026d, October 14). Енергооб'єкти Києва та області зазнали масованого удару балістикою, у столиці перебої зі світлом – мер [Attributed statements by Kyiv mayor and DTEK; not separate audited strikes]. https://interfax.com.ua/news/general/1219609.html",
+    "Interfax-Ukraine. (2026e, October 14). Російська атака на енергетику залишила без світла 600 тис. абонентів і пошкодила 30 об'єктів – Зеленський [Ukrainian president's reported statement, figures not independently audited; 26 electricity-system elements plus four oil/gas objects]. https://interfax.com.ua/news/general/1219667.html",
+    "International Energy Agency. (2026, October 15). IEA Governing Board statement on energy markets and security. https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security",
+    "Japan Customs. (2026). Export principal commodity and HS codes: Gas oil (3030105) [Classification table]. https://www.customs.go.jp/toukei/sankou/code/GH202601e.html",
+    "Japan Organization for Metals and Energy Security. (2026, March 26). Kikuma National Oil Stockpiling Base: Start of national stockpile release to Taiyo Oil [Press release]. https://www.jogmec.go.jp/news/release/release_01252.html",
+    "Jeans, D. (2026, April 22). US turns to Ukrainian counter-drone tech after Iran attacks, sources say. Reuters. https://www.reuters.com/business/aerospace-defense/us-turns-ukrainian-counter-drone-tech-after-iran-attacks-sources-say-2026-04-22/",
+    "Johnson, M., Seddon, M., & Clover, C. (2026, September 1). Russia secretly helping Iran develop supersonic cruise missiles. Financial Times. https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3",
+    "Joint Interagency Task Force 401. (2026a, March 10). The standard guidelines for test and evaluation of counter-unmanned aircraft systems technologies. U.S. Department of War. https://www.war.gov/News/Releases/Release/Article/4429866/the-standard-guidelines-for-test-and-evaluation-of-counter-unmanned-aircraft-sy/",
+    "Joint Interagency Task Force 401. (2026b, April 6). Joint task force commits over $600 million to procure new counter-UAS capability. U.S. Department of War. https://www.war.gov/serve-from-netstorage/News/News-Stories/Article/Article/4452647/joint-task-force-commits-over-600-million-to-procure-new-counter-uas-capability/index.html",
+    "Joint Interagency Task Force 401. (2026c, April 28). JIATF-401 publishes testing and evaluation criteria to inform future demonstrations and exercises [Official announcement; full criteria not independently inspected]. https://www.war.gov/News/Releases/External/Article/4473626/jiatf-401-publishes-testing-and-evaluation-criteria-to-inform-future-demonstrat/",
+    "Judah, J., Foy, H., Seddon, M., & Zilber, N. (2026, March 25). Russia sending drones to Iran, western intelligence says. Financial Times. https://www.ft.com/content/d5d7291b-8a53-42cd-b10a-4e02fbcf9047",
+    "Kakissis, J. (2026, October 13; updated October 13). The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR [Direct interview with the Ukrainian president; claims attributed to the speaker]. NPR. https://www.knpr.org/npr/2026-10-13/the-trump-administration-warns-ukraine-it-could-cut-off-intel-zelenskyy-tells-npr",
+    "Katola, Z. (2026, October 13). Ukraine says it hit 12 Russian refineries in September. No refinery strikes reported since Trump’s “energy ceasefire” [Open-source monitoring statement; not complete strike-attempt enumeration]. Euromaidan Press. https://euromaidanpress.com/2026/10/13/ukraine-says-it-hit-12-russian-refineries-in-september-no-refinery-strikes-reported-since-trumps-energy-ceasefire/",
+    "Ledakis, M. (2026, October 9). Russia’s shadow fleet freight rates fracture on Black Sea premiums. S&P Global Energy. https://www.spglobal.com/energy/en/news-research/latest-news/shipping/100926-russias-shadow-fleet-freight-rates-fracture-on-black-sea-premiums",
+    "Lloyd’s List. (2026, October 26). Russian diesel tankers head for US after Washington issues sanctions waiver [Shipping intelligence and analyst assessments]. https://www.lloydslist.com/LL1158807/Russian-diesel-tankers-head-for-US-after-Washington-issues-sanctions-waiver",
+    "Lockheed Martin. (n.d.). PAC-3 Edge [Product and development timeline]. https://www.lockheedmartin.com/en-us/products/pac-3-edge.html",
+    "Lockheed Martin. (2026a, January 8). Lockheed Martin and U.S. government reach historic deal to accelerate PAC-3 MSE production. https://www.lockheedmartin.com/en-us/news/features/2026/Lockheed-Martin-and-U-S-Government-Reach-Historic-Deal-to-Turbo-Charge-PAC-3-Missile-Segment-Enhancement-MSE-Production-for-U-S-and-Allies.html",
+    "Lockheed Martin. (2026b, July 20). Lockheed Martin introduces PAC-3 ACE: A high-performance, low-cost interceptor [Press release]. https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-introduces-pac-3-acetm-high-performance-low-cost/",
+    "Lockheed Martin. (2026c, September 17). Lockheed Martin fast-tracks PAC-3 MSE components in less than one month in partnership with GM Defense [Press release]. https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-fast-tracks-pac-3r-mse-components-less-one-month",
+    "Lockheed Martin. (2026d, October 9). Lockheed Martin debuts PAC-3 Edge for the U.S. Army's future interceptor program [Press release]. https://news.lockheedmartin.com/2026-10-09-Lockheed-Martin-Debuts-PAC-3-Edge-TM-for-the-U-S-Armys-Innovative-Future-Interceptor-Program",
+    "Ministry of Defence of Ukraine. (2026a, January 23). Mykhailo Fedorov and the U.S. Chargé d’Affaires discuss cooperation on air defense and drones. https://mod.gov.ua/en/news/mykhailo-fedorov-and-the-u-s-charge-d-affaires-discuss-cooperation-on-air-defense-and-drones",
+    "Ministry of Defence of Ukraine. (2026b, February 13). $38 billion in support of Ukraine for drones, air defence and Patriot missiles: Outcomes of one of the most successful Ramstein-format meetings. https://mod.gov.ua/en/news/38-billion-in-support-of-ukraine-for-drones-air-defence-and-patriot-missiles-outcomes-of-one-of-the-most-successful-ramstein-format-meetings",
+    "Ministry of Defence of Ukraine. (2026c, February 16). Shooting down Su-34s and intercepting Kinzhal and Zircon missiles: Why Patriot missiles are critical and what types are used. https://mod.gov.ua/en/news/shooting-down-su-34s-and-intercepting-kinzhal-and-zircon-missiles-why-patriot-missiles-are-critical-and-what-types-are-used",
+    "Ministry of Defence of Ukraine. (2026d, June 10). Ukraine and Germany step up efforts to accelerate the delivery of air defence munitions. https://mod.gov.ua/en/news/ukraine-and-germany-step-up-efforts-to-accelerate-the-delivery-of-air-defence-munitions",
+    "Ministry of Defence of Ukraine. (2026e, June 19). $4 billion in support and record air defence contributions: Ramstein-format participant countries announce new assistance for Ukraine. https://mod.gov.ua/en/news/4-billion-in-support-and-record-air-defence-contributions-ramstein-format-participant-countries-announce-new-assistance-for-ukraine",
+    "Ministry of Defence of Ukraine. (2026f, July 23). A year of PURL: Nearly USD 7 billion for deliveries of critical weapons to Ukraine. https://www.kmu.gov.ua/en/news/rik-purl-maizhe-7-mlrd-dlia-postavok-krytychnoho-ozbroiennia-dlia-ukrainy",
+    "Ministry of Defence of Ukraine. (2026g, August 7). Air defence intercepted over 5,300 aerial targets during mass attacks in July [News release, Ukrainian]. https://mod.gov.ua/news/ukrainska-ppo-perekhopyla-ponad-5-300-povitrianykh-tsilei-pid-chas-masovanykh-atak-u-lypni",
+    "Ministry of Economy, Trade and Industry. (2026, September 14). July 2026 petroleum statistics: Crude oil and gas oil tables [Data tables]. e-Stat. https://www.e-stat.go.jp/stat-search/file-download?fileKind=2&statInfId=000040505103",
+    "Ministry of Finance, Japan. (2026a, August 28). Trade statistics of Japan: July 2026 country-by-commodity exports (Table 26-02: Southeast Asia) [Data set]. e-Stat. https://www.e-stat.go.jp/stat-search/files?layout=dataset&query=28042910&stat_infid=000040494509",
+    "Ministry of Finance, Japan. (2026b, August 28). Trade statistics of Japan: July 2026 country-by-commodity exports (Table 26-03: Southwest Asia) [Data set]. e-Stat. https://www.e-stat.go.jp/stat-search/files?alpha=7%2C8%2C9&layout=dataset&stat_infid=000040494510",
+    "Ministry of Finance, Japan. (2026c, August 28). Trade statistics of Japan: July 2026 country-by-commodity exports (Table 26-08: Oceania) [Data set]. e-Stat. https://www.e-stat.go.jp/stat-search/files?layout=dataset&page=1&query=220410000&stat_infid=000040494515",
+    "Naftogaz Group. (2026a, May 5). Three employees killed during emergency response after an earlier strike [Operator memorial statement; no independently measured repair delay]. https://www.naftogaz.com/en/news/oleksandr-kozin-yuriy-musienko-ta-myhaylo-dub-troe-pratsivnykiv-naftogazu-yaki-zagynuly-vid-ataky-rosiyan",
+    "Naftogaz Group. (2026b, July 6). Russia continues to target Naftogaz Group gas production facility in Kharkiv region [Two strikes attributed to the same facility]. https://www.naftogaz.com/en/news/rosiyany-bezperervno-atakuyut-gazovydobuvnyy-ob-ekt-grupy-naftogaz-na-harkivschyni",
+    "Naftogaz Group. (2026c, July 21). Russia attacks Naftogaz gas production facilities in Kharkiv region for the third consecutive day [Sunday and Monday described as distinct assets]. https://www.naftogaz.com/en/news/russia-attacks-naftogaz-gas-production-facilities-in-kharkiv-region-for-the-third-consecutive-day",
+    "Naftogaz Group. (2026d, August 2). Russia destroys 37 Naftogaz Group filling stations in the first seven months of 2026 [Aggregate repair/reopen/re-strike claim; site-level list unavailable]. https://www.naftogaz.com/en/news/za-sim-misyatsiv-2026-roku-rosiya-zruynuvala-37-azk-hrupy-naftohaz",
+    "Naftogaz Group. (2026e, August 17). Russia attacks Naftogaz Group facilities 13 times in one week [Operator weekly incident count; one asset attacked repeatedly]. https://www.naftogaz.com/en/news/russia-attacked-naftogaz-group-facilities-13-times-in-one-week",
+    "Naftogaz Group. (2026f, October 2). Russia attacks Naftogaz gas crew in Kharkiv region [En-route repair crew vehicle struck; 14 crew attacks and nearly 3,300 emergency events have distinct denominators]. https://www.naftogaz.com/en/news/russia-attacks-naftogaz-gas-crew-in-kharkiv-region",
+    "Naftogaz Group. (2026g, October 12). Naftogaz restores gas supply to Pryluky residents [Operator statement]. https://www.naftogaz.com/en/news/naftogaz-restores-gas-supply-to-pryluky-residents",
+    "Naftogaz Group. (2026h, October 12). Russia hits Naftogaz gas production facility in Kharkiv region [Operator statement]. https://www.naftogaz.com/en/news/russia-hits-naftogaz-gas-production-facility-in-kharkiv-region",
+    "NATO. (1949, April 4). The North Atlantic Treaty. https://www.nato.int/cps/en/natohq/official_texts_17120.htm",
+    "NATO. (2026a, March 26). Press conference for the launch of the 2025 Secretary General Annual Report [Original transcript: PURL continuity and unanswered reported diversion question]. https://www.nato.int/fr/news-and-events/events/transcripts/2026/03/26/press-conference-for-launch-of-annual-report",
+    "NATO. (2026b, May 20). Pre-ministerial press conference [NATO Secretary General statement: around 70% of missiles for Ukraine Patriot batteries supplied by PURL, including PAC-3]. https://www.nato.int/fr/news-and-events/events/transcripts/2026/05/20/pre-ministerial-press-conference",
+    "NATO. (2026c, June 1). Keynote address by Deputy Secretary General Radmila Šekerinská to the NATO Parliamentary Assembly spring session [Around 70% of Patriot missiles attributed to PURL]. https://www.nato.int/en/news-and-events/events/transcripts/2026/06/01/keynote-address-by-nato-deputy-secretary-general-radmila-shekerinska-to-the-nato-parliamentary-assembly-spring-session",
+    "NATO. (2026d, June 3). Joint press conference by Secretary General Mark Rutte and President Volodymyr Zelenskyy [Original transcript: no immediate PURL impact and future stock risk]. https://www.nato.int/en/news-and-events/events/transcripts/2026/06/03/joint-press-conference-by-the-nato-secretary-general-mark-rutte-with-the-president-of-ukraine-volodymyr-zelenskyy",
+    "NATO. (2026e, July 6). Pre-summit press conference [Original transcript: continued deliveries and use, finite stocks]. https://www.nato.int/en/news-and-events/events/transcripts/2026/07/06/pre-summit-press-conference-by-nato-secretary-general-mark-rutte-ahead-of-the-2026-nato-summit-in-ankara",
+    "NATO. (2026f, July 9). NATO’s support to Ukraine [Video transcript; Rutte statement of around 75% of Patriot missiles since PURL launch]. https://www.nato.int/en/multimedia/multimedia/videos/2026/07/09/natos-support-to-ukraine",
+    "Norman-Diamond, G. (2026, October 21). Ukraine’s Zelenskyy open to freezing front lines in ceasefire with Russia. Fox News. https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+    "Office of Foreign Assets Control. (2026, October 9). General License No. 135: Authorizing transactions related to the sale, delivery, offloading, and importation of diesel fuel of Russian Federation origin [General license]. U.S. Department of the Treasury. https://ofac.treasury.gov/media/937216/download?inline=",
+    "Peach, S. (2026, March 26). Russia denies Western intelligence reports saying it is sending drones to Iran. Novaya Gazeta Europe. https://novayagazeta.eu/amp/en/articles/2026/03/26/russia-denies-western-intelligence-reports-saying-it-is-sending-drones-to-iran-en-news",
+    "Peleschuk, D. (2026, October 14). Russian strikes kill three, damage dozens of power facilities [Ukraine-reported interception count; not attack-attempt/Patriot engagement denominator]. Reuters. https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/",
+    "President of Ukraine. (2026a, March 28). The president of Ukraine and the Amir of the State of Qatar agreed on a 10-year defense partnership. https://www.president.gov.ua/en/news/prezident-ukrayini-ta-emir-derzhavi-katar-domovilisya-pro-pa-103585",
+    "President of Ukraine. (2026b, May 11). Volodymyr Zelenskyy discussed implementation and joint projects with the president of the UAE. https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-iz-prezidentom-oae-situaciyu-v-104329",
+    "President of Ukraine. (2026c, October 11). Ukraine is ready to refrain from striking Russian energy infrastructure—and we count on the same readiness from Russia—Address by the President. https://www.president.gov.ua/en/news/ukrayina-gotova-ne-zavdavati-udariv-po-rosijskij-energetici-106845",
+    "President of Ukraine. (2026d, October 12). Address by the president of Ukraine to the participants of the Warsaw Security Forum [Address]. https://www.president.gov.ua/en/news/zvernennya-prezidenta-ukrayini-do-uchasnikiv-varshavskogo-be-106853",
+    "Qatar News Agency. (2026a, March 28). Deputy prime minister and minister of state for defense affairs meets Ukraine's NSDC secretary, armed forces staff chief. https://qna.org.qa/en/news/news-details?date=28%2F03%2F2026&id=deputy-prime-minister-and-minister-of-state-for-defense-affairs-meets-ukraines-nsdc-secretary-armed-forces-staff-chief",
+    "Qatar News Agency. (2026b, March 28). Ministry of defense announces successful interception of drone attack [Official Qatari Ministry of Defense statement reported by QNA]. https://qna.org.qa/en/news/news-details?date=28%2F03%2F2026&id=ministry-of-defense-announces-successful-interception-of-drone-attack",
+    "Radio Svoboda. (2026, October 10). У Генштабі ЗСУ заявили про третє від початку жовтня ураження ЛВДС «Самара» в Росії [Ukrainian General Staff account of repeat attacks on the Samara oil-pumping facility; not refinery count]. https://www.radiosvoboda.org/a/news-henshtab-ataka-lvds-samara/33874158.html",
+    "Rashid, R. (2026, October 5). Fuel from South Korea being shipped to Russia as Ukraine war grinds on. The Guardian. https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+    "Ravid, B. (2026, October 11). Trump bears down on Zelensky as Russia keeps up attacks on Ukraine. Axios. https://www.axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky",
+    "Reuters. (2026a, March 27). Twelve US troops wounded in Iran strike on base in Saudi Arabia, US official says. https://www.reuters.com/world/middle-east/twelve-us-troops-wounded-iran-strike-base-saudi-arabia-us-official-says-2026-03-27/",
+    "Reuters. (2026b, September 13). Trump tells Ukraine’s Zelenskiy to stop hitting Russian diesel. https://www.reuters.com/business/energy/trump-tells-ukraines-zelenskiy-stop-hitting-russian-diesel-2026-09-13/",
+    "Reuters. (2026c, October 11). US threatens to block arms for Ukraine over refinery attacks, FT reports [Secondary report of the Financial Times claim; not independently verified in this dispatch]. https://www.reuters.com/world/europe/us-threatens-block-arms-ukraine-over-refinery-attacks-ft-reports-2026-10-11/",
+    "Reuters. (2026d, October 12). Logistics, rising global prices could create diesel shortage in Ukraine, industry outlet says. https://www.reuters.com/business/energy/logistics-rising-global-prices-could-create-diesel-shortage-ukraine-industry-2026-10-12/",
+    "Reuters. (2026e, October 12). Patriot interceptor deliveries to Poland will be delayed, top general says. https://www.reuters.com/business/aerospace-defense/patriot-interceptor-deliveries-poland-will-be-delayed-top-general-says-2026-10-12/",
+    "Reuters. (2026f, October 12). What's in the diesel deal between Putin and Trump? https://www.reuters.com/business/energy/what-is-diesel-deal-between-putin-trump-2026-10-12/",
+    "Reuters. (2026g, October 13). Kremlin says contacts on Trump's Russia-Ukraine energy ceasefire are continuing. https://www.reuters.com/world/kremlin-says-contacts-trumps-russia-ukraine-energy-ceasefire-are-continuing-2026-10-13/",
+    "Reuters. (2026h, October 18). Turkey will get some diesel from US-Russia supply deal, energy minister says. https://www.reuters.com/business/energy/turkey-will-get-some-diesel-us-russia-supply-deal-energy-minister-says-2026-10-18/",
+    "Reuters. (2026i, October 23). Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing. https://www.reuters.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-evacuation-timing-2026-10-23/",
+    "Reuters. (2026j, October 26). Russia says Ukraine has repeatedly struck Oleshky with artillery and drones ahead of local ceasefire [Attributed allegation, not independently verified]. https://www.reuters.com/world/europe/russia-says-ukraine-has-repeatedly-struck-oleshky-with-artillery-drones-ahead-2026-10-26/",
+    "Reuters. (2026k, October 26). Russian refiners ramp up diesel output after US deal, sources say [Industry-source estimates of production and quota effects; no independent physical shipment or causal audit]. https://www.reuters.com/business/energy/russian-refiners-ramp-up-diesel-output-after-us-deal-sources-say-2026-10-26/",
+    "Reuters Connect. (2026, February 12). UK and allies pledge $35 billion in further military aid to Ukraine [Video transcript containing Boris Pistorius remarks]. https://www.reutersconnect.com/item/uk-and-allies-pledge-35-billion-in-further-military-aid-to-ukraine/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNTAxMzEyMDIyMDI2UlAx",
+    "Riviera Maritime Media. (2026, October 23). First Russian diesel shipment to US in the making following sanctions waiver. https://www.rivieramm.com/news-content-hub/first-russian-diesel-shipment-to-us-in-the-making-following-sanctions-waiver-90357",
+    "Robertson, N., & Francis, E. (2026, May 11; updated May 12). As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine. The Washington Post. https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
+    "Romanenko, V. (2026, October 13). Zelenskyy: Ukraine has not struck Russian oil refineries for two days, but Kremlin did not listen to Trump [Directly attributed presidential social-media statement; original post access restricted]. Ukrainska Pravda. https://www.pravda.com.ua/eng/news/2026/10/13/8057773/",
+    "Rushton, J., & Zadorozhnyy, T. (2026, October 12). US threatens to cut intel sharing, arms shipments to Ukraine to protect Russian oil refineries, sources confirm. The Kyiv Independent. https://kyivindependent.com/us-threatens-to-cut-intel-sharing-with-ukraine-in-push-to-protect-russian-oil-refineries-sources-confirm/",
+    "S&P Global. (2026a, September 25). Russia says sanctions should be lifted for it to satisfy international diesel demand. https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/092526-russia-says-sanctions-should-be-lifted-for-it-to-satisfy-international-diesel-demand",
+    "S&P Global. (2026b, September 29). Russia’s Black Sea diesel exports fall to zero for first time on record. https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/092926-russias-black-sea-diesel-exports-fall-to-zero-for-first-time-on-record",
+    "Simón, L. (2026, March 10). Deterrence at scale: Cross-theater defense cooperation in an age of precise mass. Center for Strategic and International Studies. https://www.csis.org/analysis/deterrence-scale-cross-theater-defense-cooperation-age-precise-mass",
+    "Slattery, G., & Pamuk, H. (2026, April 16). U.S. to delay weapons deliveries to some European countries due to Iran war, sources say. Reuters. https://www.reuters.com/world/middle-east/us-officials-tell-european-countries-expect-weapons-delivery-delays-sources-say-2026-04-16/",
+    "Special Inspector General for Operation Atlantic Resolve. (2026, May). Operation Atlantic Resolve: Special Inspector General report to the U.S. Congress, January 1–March 31, 2026 (Table 8, p. 22) [Official PDF indexed source text; original PDF bytes/page image not independently retrieved]. https://oig.usaid.gov/sites/default/files/2026-05/Special_IG_OAR_Q2_Final_Report.pdf",
+    "Sprenger, S. (2026, October 13). Lockheed eyes fresh PAC-3 interceptor production options for Ukraine, Europe. Defense News. https://www.defensenews.com/industry/2026/10/13/lockheed-eyes-fresh-pac-3-interceptor-production-options-for-ukraine-europe/",
+    "TankerTrackers. (2026, October 11). MINERVA ZEN cargo classification correction [Social media source; excerpt only]. X. https://x.com/TankerTrackers/status/2109512855351410954",
+    "The Bell. (2026, October 5). Нефтегазовые доходы бюджета продолжили падать в сентябре [Federal oil and gas receipts continued to decline in September]. https://thebell.io/neftegazovye-dokhody-byudzheta-prodolzhili-padat-v-sentyabre",
+    "The Washington Post. (2026a, October 11). How Ukraine uses precision drone strikes to hobble Russian oil refineries [Visual investigation]. https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/",
+    "The Washington Post. (2026b, October 26). Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war. https://www.washingtonpost.com/world/2026/10/26/saudi-arabia-turkey-pakistan-send-officials-iran-push-end-us-war/",
+    "The White House. (2026a, October 16). Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (Executive Order 14436). https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+    "The White House. (2026b, October 23). First lady Melania Trump secures ceasefire between Russia and Ukraine, localized to Oleshky [Official statement]. https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+    "Turner, E., & Norways, K. (2026, October 2). Russia could partially open diesel exports in case of surplus output: Novak. S&P Global. https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/100226-russia-could-partially-open-diesel-exports-in-case-of-surplus-output-novak",
+    "U.S. Army. (2026a, April 10). U.S. Army advances accelerated PAC-3 MSE production through contract action. https://www.army.mil/article/291670/u_s_army_advances_accelerated_pac_3_mse_production_through_contract_action",
+    "U.S. Army. (2026b, May 14). Joint interagency task force enables standardized counter-UAS assessment. https://www.army.mil/article/292468/joint_interagency_task_force_enables_standardized_counter_uas_assessment",
+    "U.S. Army. (2026c, July 29). U.S. Army awards replacing a 1-year undefinitized contract action with a 7-year undefinitized contract action. https://www.army.mil/article/294215/u_s_army_awards_replacing_a_1_year_undefinitized_contract_action_with_a_7_year_undefinitized_contract_action",
+    "U.S. Army. (2026d, September 29). JIATF-401 accelerates kinetic drone defeat [Other-system evaluation at Yuma, not Sky Map performance].",
+    "U.S. Army Center for Army Lessons Learned. (2026, April 30). Listening to the sky: Acoustic drone detection systems—Ukraine and emerging technologies (No. 26-1115). https://api.army.mil/e2/c/downloads/2026/04/30/af450e75/no-26-1115-listening-to-the-sky-acoustic-drone-detection-in-ukraine-mar-26.pdf",
+    "U.S. Department of Defense Office of Inspector General. (2026, September 14). Operation Epic Fury: Lead Inspector General report to the United States Congress, April 1–June 30, 2026 (pp. 14, 16–18, 25) [Official oversight report drawing on U.S. European Command and acquisition-office submissions]. https://oig.usaid.gov/sites/default/files/2026-09/Lead_IG_OEF_Q3_Final_Report_0.pdf",
+    "U.S. Department of Energy. (2026). Strategic Petroleum Reserve sales and exchanges [Government notices]. https://www.energy.gov/hgeo/opr/spr-sales-and-exchanges",
+    "U.S. Department of War. (2026, April 9). Contracts for April 9, 2026 [Official announcement; original page indexed; original-page body access blocked; corroborating archived transcript available]. https://www.war.gov/News/Contracts/Contract/Article/4455545/contracts-for-april-9-2026/ ; corroborating transcript: https://www.publicnow.com/view/004626B338F80B9E271732901557E25C382424B6",
+    "U.S. Energy Information Administration. (n.d.). Weekly U.S. ending stocks of crude oil in SPR (WCSSTUS1) [Data series]. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W",
+    "U.S. Senate Foreign Relations Committee. (2026, October 11). Ranking Member Shaheen and six bipartisan senators’ statement on legality of imports of Russian diesel fuel [Press release]. https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-and-6-bipartisan-senatorsstatement-on-legality-of-imports-of-russian-diesel-fuel",
+    "UK Parliament. (2026, October 6). Ukraine: Military Aid (Written Question 29156; Ministry of Defence answer). https://questions-statements.parliament.uk/written-questions/detail/2026-09-11/29156",
+    "Ukrainska Pravda. (2026a, September 14). Iran requested advanced drones from Russia — FT. https://www.pravda.com.ua/eng/news/2026/09/14/8053255/",
+    "Ukrainska Pravda. (2026b, October 12). US weapons supplies to Ukraine via PURL continue—NATO source. https://www.pravda.com.ua/eng/news/2026/10/12/8057642/",
+    "Ukrinform. (2026a, March 11). Ukraine gets German Patriot missiles agreed at Ramstein – Zelensky. https://www.ukrinform.net/rubric-ato/4100532-ukraine-gets-german-patriot-missiles-agreed-at-ramstein-zelensky.html",
+    "Ukrinform. (2026b, October 25). Zelensky on Oleshky evacuation: Russia will try to force residents to flee to its territory. https://www.ukrinform.net/rubric-society/4178076-zelensky-on-oleshky-evacuation-russia-will-try-to-force-residents-to-its-territory.html",
+    "Vialko, D. (2026, October 24). Ukraine and Russia agree on ceasefire timing in Oleshky, ombudsman says. RBC-Ukraine. https://newsukraine.rbc.ua/news/ukraine-and-russia-agree-on-ceasefire-timing-1792859700.html",
+    "Vladimirova, A., Aung, S., & Tizer, A. (2026, October 23). Russian diesel tanker heads to New York as Kremlin claims regular shipments. S&P Global Energy. https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/102326-russian-diesel-tanker-heads-to-new-york-as-kremlin-claims-regular-shipments",
+    "War & Sanctions. (2026, September 11). DMITRY POKROVSKY (IMO 9683726) [Ukrainian Defence Intelligence vessel dossier; source-attributed route claim]. https://war-sanctions.gur.gov.ua/en/transport/shadow-fleet/1003",
+    "Zengerle, P., & Volcovici, V. (2026, October 13). 'Gift to our adversary': More Republicans balk at Trump's Russia diesel deal. Reuters. https://www.reuters.com/legal/government/gift-our-adversary-more-republicans-balk-trumps-russia-diesel-deal-2026-10-13/"
+  ],
+  "recommended_citation": "Wu, S. (2026). From connections to consequences: Cross-theater conflict coupling and strategic capacity in interconnected wars (Research Report No. EPINOVA–2026–RR-03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.003",
+  "citation_apa": "Wu, S. (2026). From connections to consequences: Cross-theater conflict coupling and strategic capacity in interconnected wars (Research Report No. EPINOVA–2026–RR-03). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.rr.2026.003",
+  "short_citation": "Wu (2026), From Connections to Consequences, EPINOVA–2026–RR-03.",
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Claim-Specific Evidence Gates (G1–G6) and Attribution Boundaries",
+      "description": "Minimum observations for shared interface, activation, receipt, conversion, consequential decision/function and return feedback, including limits of inference.",
+      "source": "Author's original conceptualization and operationalization of the CTCC framework (Sections 3–4)."
+    },
+    {
+      "number": "Table 2",
+      "title": "Cross-Case Comparison of Transmission Claims and Highest Justified Evidence Stages",
+      "description": "Cross-case evidence stages, identified links and missing downstream proof across material, knowledge, policy and energy pathways; table continues across two PDF pages.",
+      "source": "Author's comparative analysis of official, institutional, industry and contemporary reporting (Sections 5–8)."
+    },
+    {
+      "number": "Table 3",
+      "title": "Conditional Three-by-Three Scenario Matrix: Ukraine Termination Pathways and Iran Conflict Trajectories",
+      "description": "Conditional interactions between three Ukraine war-termination pathways and three Iran-conflict trajectories; not a forecast.",
+      "source": "Author-developed CTCC scenario-based analysis and conditional war-termination hypotheses (Section 9.10)."
+    },
+    {
+      "number": "Table 4",
+      "title": "Updated Claim-Specific Evidence Limits as of October 26, 2026",
+      "description": "Audit scorecard of strongest supported stages and outstanding evidence for PAC-3, Geran, Gulf assistance, petroleum buffers, diesel, localized pauses and NATO-related hypothetical scenarios.",
+      "source": "CTCC source-specific assessment using official documents, news and shipment evidence (Sections 5–10)."
+    }
+  ],
+  "appendices": [],
+  "funding": {
+    "statement": "No external funding information is provided in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No standalone software artifact is specified in the PDF.",
+    "repository_url": "",
+    "programming_language": "",
+    "development_status": "Not specified in the PDF"
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This report is an independent research publication of EPINOVA LLC, prepared for academic research, strategic analysis, and policy discussion. The interpretations, analytical judgments, and conclusions expressed herein are those of the author and do not represent the official positions of any government, military institution, international organization, or other entity referenced in the study. The analysis draws on publicly available information, including official statements, institutional records, industry disclosures, and contemporary reporting, with an evidence cutoff of October 26, 2026. Although reasonable efforts have been made to assess source reliability, consistency, and evidentiary limitations, the completeness and independent verifiability of all underlying information cannot be guaranteed. The Cross-Theater Conflict Coupling (CTCC) framework is an original analytical approach developed in this research. Its theoretical propositions, evidence classifications, and conditional scenarios should not be interpreted as independently validated predictions or definitive causal determinations. Reported developments are distinguished from verified observations, and unresolved causal relationships remain subject to further investigation. All prospective conflict trajectories, war-termination scenarios, and strategic capacity assessments are conditional analytical exercises rather than forecasts or endorsements of particular military or political outcomes. The findings may be revised as additional evidence becomes available. This publication does not constitute official intelligence assessment, military operational guidance, or legal or financial advice.",
+  "version_history": [
+    {
+      "version": "1.0",
+      "date": "2026-10-27",
+      "description": "Initial public release as EPINOVA Research Report No. EPINOVA–2026–RR-03."
+    }
+  ],
+  "metadata_source": {
+    "source_file": "From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Direct PDF text and layout extraction using PyMuPDF, page-image inspection of cover and version/citation page, full-text table and reference extraction, supplied EPINOVA RR-02 66-field metadata schema, and user-reported Crossref confirmation.",
+    "source": "EPINOVA metadata schema adapted from Zenodo/InvenioRDM-style publication records",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "notes": "Revised 116-page PDF checked; the phrase All rights reserved and earlier copyright notice are absent. The author elected CC BY 4.0 for EPINOVA publication metadata; the PDF does not separately print a Creative Commons license notice. Rights ownership is not independently established by the revised PDF, so copyright field is blank. Bibliography from 13 PDF pages (pages 102–114), containing 189 references, was reconstructed from hanging-indent layout. The report contains Tables 1–4, no independent numbered figures, and version 1.0 confirmed by rendered last-page version-history table. PDF evidence cutoff is 2026-10-26, while publication is 2026-10-27. The landing-page and repository file links are expected publication destinations, not independently verified live uploads; files[].filename is exact. The user reported receipt of the DOI Crossref confirmation email; reference-deposit completion was not established."
+  },
+  "pdf_metadata": {
+    "title": "From Connections to Consequences: Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars",
+    "author": "Shaoyuan Wu",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261027063715-04'00'",
+    "modification_date": "D:20261027063715-04'00'",
+    "pages": 116
+  },
+  "crossref": {
+    "status": "registered",
+    "doi": "10.67037/epinova.rr.2026.003",
+    "deposit_ready": true,
+    "notes": "Crossref DOI registration confirmed by author receipt of system confirmation email. Web Deposit record type Report / deposit type Report. Landing-page availability and independent DOI resolution were not verified in this metadata generation; References Deposit status not confirmed.",
+    "crossref_url": "https://publications.epinova.org/epinova-rr-2026-003/",
+    "crossref_doi_suffix": "epinova.rr.2026.003",
+    "intended_registration_agency": "Crossref",
+    "record_type": "report",
+    "registration_status": "Registered"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Research Report",
+    "use_for_dataset": false,
+    "related_dataset_doi": "",
+    "notes": "No separate DataCite DOI is stated in the publication."
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "successfully_received",
+    "confirmation_status": "confirmed_by_email",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.rr.2026.003",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.rr.2026.003",
+    "registered_url": "https://publications.epinova.org/epinova-rr-2026-003/",
+    "registration_date": "2026-10-27",
+    "registration_agency": "Crossref",
+    "submitter_email": ""
+  }
+}

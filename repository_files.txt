@@ -1,12 +1,8 @@
-Book/EPINOVA-BK-2026-006/Executive_Brief/AI_Power_Executive_Brief.pdf
-Book/EPINOVA-BK-2026-006/Research_Supplement/The_Global_AI_Power_Order_Research_Supplement.pdf
-Book/EPINOVA-BK-2026-006/metadata.json
-Policy Brief/2026/EPINOVA–2026–PB-75/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
-Policy Brief/2026/EPINOVA–2026–PB-75/metadata.json
-docs/epinova-bk-2026-006/index.html
-docs/epinova-pb-2026-075/index.html
-docs/files/epinova-pb-2026-075/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
-tools/old/generate_landing_pages.py
+Research Report/2026/EPINOVA–2026–RR-03/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
+Research Report/2026/EPINOVA–2026–RR-03/metadata.json
+docs/epinova-rr-2026-003/index.html
+docs/files/epinova-rr-2026-003/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
+tools/old/generate_landing_pages (2).py
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -602,6 +598,9 @@ Book/EPINOVA-BK-2026-004/Volume III Governance, Risk, and Human Capital.pdf
 Book/EPINOVA-BK-2026-004/metadata.json
 Book/EPINOVA-BK-2026-005/Volume IV Frontier Indicators and Future Outlook..pdf
 Book/EPINOVA-BK-2026-005/metadata.json
+Book/EPINOVA-BK-2026-006/Executive_Brief/AI_Power_Executive_Brief.pdf
+Book/EPINOVA-BK-2026-006/Research_Supplement/The_Global_AI_Power_Order_Research_Supplement.pdf
+Book/EPINOVA-BK-2026-006/metadata.json
 Conference Papers/EPINOVA-2026-CP-01/IEEE_IMNS_2026_Conference_Program.pdf
 Conference Papers/EPINOVA-2026-CP-01/MPE_IEEE_IMNS_2026_Conference_Presentation_Template_Based.pptx
 Conference Papers/EPINOVA-2026-CP-01/Multiverse Path Encryption for Securing Interpretation under Adversarial Access.pdf
@@ -770,6 +769,8 @@ Policy Brief/2026/EPINOVA–2026–PB-73/ASEAN in the Emerging AI Power Order Di
 Policy Brief/2026/EPINOVA–2026–PB-73/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-74/South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf
 Policy Brief/2026/EPINOVA–2026–PB-74/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-75/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
+Policy Brief/2026/EPINOVA–2026–PB-75/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1435,6 +1436,7 @@ docs/epinova-bk-2026-002/index.html
 docs/epinova-bk-2026-003/index.html
 docs/epinova-bk-2026-004/index.html
 docs/epinova-bk-2026-005/index.html
+docs/epinova-bk-2026-006/index.html
 docs/epinova-imp-2025-001/index.html
 docs/epinova-imp-2026-001/index.html
 docs/epinova-imp-2026-01/index.html
@@ -1518,6 +1520,7 @@ docs/epinova-pb-2026-071/index.html
 docs/epinova-pb-2026-072/index.html
 docs/epinova-pb-2026-073/index.html
 docs/epinova-pb-2026-074/index.html
+docs/epinova-pb-2026-075/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1579,19 +1582,14 @@ docs/files/epinova-2026-cp-01/Multiverse Path Encryption for Securing Interpreta
 docs/files/epinova-2026-cp-02/Beyond Buffer-State Logic Node-Based Agency in the Caspian-Middle East Conflict Network.pdf
 docs/files/epinova-2026-ja-01/The Strait of Hormuz and the Partial De-Universalization of the Petrodollar Chokepoint Power and Settlement Control in the Gulf Energy Order.pdf
 docs/files/epinova-bk-2026-001/cover.pdf
-docs/files/epinova-bk-2026-001/cover.png
 docs/files/epinova-bk-2026-002/Volume I AI Infrastructure and Foundational Capacity.pdf
 docs/files/epinova-bk-2026-002/cover.png
-docs/files/epinova-bk-2026-002/sample.pdf
 docs/files/epinova-bk-2026-003/Volume II Algorithms, Applications, and Competitiveness.pdf
 docs/files/epinova-bk-2026-003/cover.png
-docs/files/epinova-bk-2026-003/sample.pdf
 docs/files/epinova-bk-2026-004/Volume III Governance, Risk, and Human Capital.pdf
 docs/files/epinova-bk-2026-004/cover.png
-docs/files/epinova-bk-2026-004/sample.pdf
 docs/files/epinova-bk-2026-005/Volume IV Frontier Indicators and Future Outlook.pdf
 docs/files/epinova-bk-2026-005/cover.png
-docs/files/epinova-bk-2026-005/sample.pdf
 docs/files/epinova-imp-2025-001/Survivor Governance Risk Index Conceptual and Methodological White Book.pdf
 docs/files/epinova-imp-2026-001/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
 docs/files/epinova-imp-2026-01/Political Credit Index (PCI) Measuring Political Credibility as Strategic Intangible Capital.pdf
@@ -1675,6 +1673,7 @@ docs/files/epinova-pb-2026-071/The Machine Audience of War AI-Generated Video, N
 docs/files/epinova-pb-2026-072/Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf
 docs/files/epinova-pb-2026-073/ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf
 docs/files/epinova-pb-2026-074/South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf
+docs/files/epinova-pb-2026-075/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
@@ -1707,7 +1706,6 @@ docs/files/epinova-wp-f-2025-03/Strategic Discontinuity in AI-Enabled Warfare.pd
 docs/files/epinova-wp-f-2025-04/Survivor Governance.pdf
 docs/files/epinova-wp-f-2025-05/A Fiber-Aware Extension to the Minimum Viable, Auditable (MVA) Framework for Counter-UAS Assessment.pdf
 docs/files/epinova-wp-f-2025-06/Permanent Presence under Uncertainty.pdf
-docs/files/epinova-wp-f-2026-001/When Decapitation No Longer Matters AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic（EPINOVA–WP–F–2026–01）.pdf
 docs/files/epinova-wp-f-2026-002/Derivative-State Drift.pdf
 docs/files/epinova-wp-f-2026-003/The Global Strategic Chain Reactions of the U.S.–Iran War.pdf
 docs/files/epinova-wp-f-2026-004/Losing the Narrative.pdf
@@ -1746,6 +1744,7 @@ tools/fix_all_mojibake.py
 tools/generate_landing_pages.py
 tools/import_epinova_articles.py
 tools/normalize_non_pb_metadata_ids.py
+tools/old/generate_landing_pages.py
 tools/old/update_metadata_links.py
 tools/update_metadata.py
 tools/update_readme_latest_publications.py

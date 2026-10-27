@@ -276,6 +276,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Research Reports
 
+- **EPINOVA-RR-2026-003** (2026-10-27)  
+  **From Connections to Consequences: Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars**  
+  Publication page: [https://epinova.org/research-reports](https://epinova.org/research-reports)  
+  DOI: [10.67037/epinova.rr.2026.003](https://doi.org/10.67037/epinova.rr.2026.003)  
+  Source folder: [`Research Report/2026/EPINOVA–2026–RR-03/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-03)  
+  Source PDF: [`From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Research%20Report/2026/EPINOVA%E2%80%932026%E2%80%93RR-03/From%20Connections%20to%20Consequences%20Cross-Theater%20Conflict%20Coupling%20and%20Strategic%20Capacity%20in%20Interconnected%20Wars.pdf)
+
 - **EPINOVA-RR-2026-002** (2026-09-15)  
   **The U.S.–Israel–Iran Conflict on Day 200: Strategic Objectives, Systemic Costs, and the Rewiring of Networked War**  
   Publication page: [https://epinova.org/research-reports](https://epinova.org/research-reports)  

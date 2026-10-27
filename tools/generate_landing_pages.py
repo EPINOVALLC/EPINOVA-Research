@@ -880,6 +880,61 @@ overview. They are separate from the full book and do not carry its ISBN or DOI.
 <tbody>{''.join(rows)}</tbody></table></div></section>"""
 
 
+def book_imprint_html(meta: dict) -> str:
+    """Show imprint only for Books, never for reports or other record types.
+
+    Older book metadata may store imprint as a string or a structured object.
+    Render structured objects as readable, escaped fields rather than repr(dict).
+    """
+    if infer_category_from_metadata(meta) != "books":
+        return ""
+
+    imprint = meta.get("imprint")
+    if not imprint:
+        return ""
+
+    if isinstance(imprint, dict):
+        fields = [
+            ("Name", "title"),
+            ("Publisher", "publisher"),
+            ("Institution", "institution"),
+            ("Unit", "publisher_unit"),
+            ("Place", "place"),
+            ("Edition", "edition"),
+            ("Date", "date"),
+            ("Pagination", "pagination"),
+        ]
+        parts = []
+        seen = set()
+        for label, key in fields:
+            value = imprint.get(key)
+            if key == "place" and not value:
+                value = imprint.get("location")
+            if value is None or value == "":
+                continue
+            value_str = str(value).strip()
+            if not value_str or value_str in seen:
+                continue
+            seen.add(value_str)
+            parts.append(f"<div><span class='muted'>{h(label)}:</span> {h(value_str)}</div>")
+        # Preserve unfamiliar future book-imprint fields, without duplicate location.
+        consumed = {key for _, key in fields} | {"location"}
+        for key, value in imprint.items():
+            if key in consumed or value is None or value == "":
+                continue
+            value_str = str(value).strip()
+            if not value_str or value_str in seen:
+                continue
+            seen.add(value_str)
+            parts.append(f"<div><span class='muted'>{h(str(key).replace('_', ' ').title())}:</span> {h(value_str)}</div>")
+        value_html = "".join(parts)
+    else:
+        # Scalar imprint values remain compatible with legacy Book records.
+        value_html = h(imprint)
+
+    return f"<dt>Imprint</dt><dd>{value_html}</dd>" if value_html else ""
+
+
 def sidebar_details_html(meta: dict) -> str:
     doi = meta_value(meta, "doi", "")
     previous_doi = meta_value(meta, "previous_doi", "")
@@ -897,8 +952,7 @@ def sidebar_details_html(meta: dict) -> str:
 
     edition = meta.get("edition") or meta.get("book_edition") or ""
     edition_html = f"<dt>Edition</dt><dd>{h(edition)}</dd>" if edition else ""
-    imprint = meta.get("imprint") or ""
-    imprint_html = f"<dt>Imprint</dt><dd>{h(imprint)}</dd>" if imprint else ""
+    imprint_html = book_imprint_html(meta)
     cutoff = meta.get("empirical_classification_cutoff") or ""
     cutoff_html = f"<dt>Empirical cutoff</dt><dd>{h(cutoff)}</dd>" if cutoff else ""
 

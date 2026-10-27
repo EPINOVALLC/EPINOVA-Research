@@ -1,0 +1,1661 @@
+import json
+import re
+import shutil
+from pathlib import Path
+from html import escape
+from urllib.parse import quote
+from datetime import date
+from collections import defaultdict
+
+# =========================================================
+# EPINOVA Landing Page Generator
+# Integrated version: metadata landing pages + archived Articles
+#
+# Reads:
+# - all metadata.json files outside docs/ and Articles/, including Book records
+# - Articles/articles_archive_index.json
+#
+# Generates:
+# - docs/index.html
+# - docs/<category>/index.html, including /books/
+# - docs/<epinova-id-slug>/index.html for normal metadata records
+# - docs/files/<slug>/<filename> for publication files
+# - docs/articles/archive/<article-folder>/article.html for archived articles
+#
+# Article behavior:
+# - Archived Articles do NOT receive Zenodo-like landing pages.
+# - /articles/ lists Articles from Articles/articles_archive_index.json.
+# - Each Article link points directly to its copied article.html.
+# =========================================================
+
+REPO_NAME = "EPINOVA-Research"
+METADATA_NAME = "metadata.json"
+
+SITE_TITLE = "EPINOVA Publications"
+SITE_BASE_URL = "https://publications.epinova.org"
+EPINOVA_MAIN_SITE = "https://epinova.org"
+
+CENTER_NAME = "Global AI Governance and Policy Research Center"
+PUBLISHER_NAME = "Global AI Governance and Policy Research Center, EPINOVA LLC"
+
+OUTPUT_DIR_NAME = "docs"
+
+LOGO_CANDIDATES = [
+    "assets/global-ai-governance-logo.png",
+    "assets/global-ai-governance-logo.jpg",
+    "assets/global-ai-governance-logo.webp",
+    "assets/logo.png",
+    "assets/logo.jpg",
+]
+OUTPUT_LOGO_PATH = "assets/global-ai-governance-logo.png"
+
+ARTICLE_ARCHIVE_SOURCE_DIR_NAME = "Articles"
+ARTICLE_ARCHIVE_INDEX_NAME = "articles_archive_index.json"
+ARTICLE_ARCHIVE_FAILED_INDEX_NAME = "articles_failed_index.json"
+ARTICLE_ARCHIVE_OUTPUT_SUBDIR = "articles/archive"
+
+CATEGORY_ORDER = [
+    "books",
+    "articles",
+    "journal-articles",
+    "conference-papers",
+    "policy-briefs",
+    "working-papers",
+    "white-papers",
+    "research-reports",
+    "policy-reports",
+    "index-methodology-papers",
+]
+
+CATEGORY_LABELS = {
+    "books": "Books",
+    "book-chapters": "Book Chapters",
+    "articles": "Articles",
+    "journal-articles": "Journal Articles",
+    "conference-papers": "Conference Papers",
+    "policy-briefs": "Policy Briefs",
+    "working-papers": "Working Papers",
+    "white-papers": "White Papers",
+    "research-reports": "Research Reports",
+    "policy-reports": "Policy Reports",
+    "reports": "Reports",
+    "other": "Other",
+    "uncategorized": "Uncategorized",
+    "index-methodology-papers": "Index Methodology Papers",
+}
+
+HIDDEN_CATEGORIES = {"reports"}
+
+CATEGORY_ALIASES = {
+    "book": "books",
+    "books": "books",
+    "monograph": "books",
+    "monographs": "books",
+    "reference-book": "books",
+    "reference-books": "books",
+    "book-chapter": "book-chapters",
+    "book-chapters": "book-chapters",
+    "bch": "book-chapters",
+    "bk": "books",
+    "journal-article": "journal-articles",
+    "journal article": "journal-articles",
+    "journal articles": "journal-articles",
+    "ja": "journal-articles",
+    "conference-paper": "conference-papers",
+    "conference paper": "conference-papers",
+    "conference papers": "conference-papers",
+    "conference-article": "conference-papers",
+    "conference article": "conference-papers",
+    "conference articles": "conference-papers",
+    "proceedings-paper": "conference-papers",
+    "proceedings paper": "conference-papers",
+    "cp": "conference-papers",
+    "external-publications": "journal-articles",
+    "external-publication": "journal-articles",
+    "white-books": "white-papers",
+    "white-book": "white-papers",
+    "whitebook": "white-papers",
+    "whitepapers": "white-papers",
+}
+
+SKIP_PARTS = {"docs", "site", "generated", ".git", "__pycache__"}
+
+CREATOR = {
+    "name": "Shaoyuan Wu",
+    "affiliation": PUBLISHER_NAME,
+    "orcid": "https://orcid.org/0009-0008-0660-8232",
+}
+
+
+def find_repo_root() -> Path:
+    current = Path(".").resolve()
+    if current.name == REPO_NAME:
+        return current
+    candidate = current / REPO_NAME
+    if candidate.exists() and candidate.is_dir():
+        return candidate.resolve()
+    for parent in [current] + list(current.parents):
+        if parent.name == REPO_NAME:
+            return parent.resolve()
+    return current
+
+
+ROOT = find_repo_root()
+OUTPUT_DIR = ROOT / OUTPUT_DIR_NAME
+
+
+def h(value) -> str:
+    return escape(str(value or ""), quote=True)
+
+
+def normalize_slug(value: str) -> str:
+    value = (value or "").strip().lower()
+    value = value.replace("–", "-").replace("—", "-").replace("−", "-")
+    value = value.replace("_", "-").replace(" ", "-")
+    value = value.replace(".", "-").replace("/", "-").replace("\\", "-")
+    allowed = []
+    for ch in value:
+        if ch.isalnum() or ch == "-":
+            allowed.append(ch)
+    value = "".join(allowed)
+    while "--" in value:
+        value = value.replace("--", "-")
+    return value.strip("-") or "untitled"
+
+
+def normalize_category(category: str) -> str:
+    category = normalize_slug(category or "uncategorized")
+    return CATEGORY_ALIASES.get(category, category)
+
+
+def infer_category_from_metadata(meta: dict) -> str:
+    """
+    Infer site category when metadata does not explicitly provide a category.
+
+    This keeps older metadata files working while allowing newer records such as
+    Journal Article metadata to be routed automatically into /journal-articles/.
+    """
+    raw_category = meta.get("category", "")
+    if raw_category:
+        return normalize_category(raw_category)
+
+    publication_type = normalize_slug(str(meta.get("publication_type", "")))
+    record_type = normalize_slug(str(meta.get("record_type", "")))
+    epinova_id = str(meta.get("epinova_id", "") or meta.get("record_id", "") or meta.get("publication_id", ""))
+
+    if publication_type in {
+        "book",
+        "books",
+        "monograph",
+        "monographs",
+        "reference-book",
+        "reference-books",
+        "edited-book",
+        "edited-books",
+    } or "-BK-" in epinova_id:
+        return "books"
+    if publication_type in {"book-chapter", "book-chapters"} or "-BCH-" in epinova_id:
+        return "book-chapters"
+    if publication_type in {"journal-article", "journal-articles"} or "-JA-" in epinova_id:
+        return "journal-articles"
+    if publication_type in {
+        "conference-paper",
+        "conference-papers",
+        "conference-article",
+        "conference-articles",
+        "proceedings-paper",
+        "proceedings-papers",
+    } or "-CP-" in epinova_id:
+        return "conference-papers"
+    if publication_type in {"policy-brief", "policy-briefs"} or "-PB-" in epinova_id:
+        return "policy-briefs"
+    if publication_type in {"working-paper", "working-papers"} or "-WP-" in epinova_id:
+        return "working-papers"
+    if publication_type in {"white-paper", "white-papers", "white-book", "whitebook"} or "-WHT-" in epinova_id or "-IWB-" in epinova_id:
+        return "white-papers"
+    if publication_type in {"policy-report", "policy-reports"} or "-PR-" in epinova_id:
+        return "policy-reports"
+    if publication_type in {"research-report", "research-reports"} or "-RR" in epinova_id or "-RR-" in epinova_id:
+        return "research-reports"
+    if publication_type in {"index-methodology-paper", "index-methodology-papers"} or "-IMP-" in epinova_id:
+        return "index-methodology-papers"
+    if publication_type in {"article", "articles"} or record_type == "article":
+        return "articles"
+
+    return "uncategorized"
+
+
+def normalize_creator_entry(item) -> dict | None:
+    if not item:
+        return None
+    if isinstance(item, str):
+        return {"name": item}
+    if not isinstance(item, dict):
+        return {"name": str(item)}
+
+    name = item.get("name") or item.get("display_name") or item.get("full_name")
+    affiliation = item.get("affiliation", "")
+    if isinstance(affiliation, list):
+        names = []
+        for aff in affiliation:
+            if isinstance(aff, dict):
+                dept = aff.get("department", "")
+                org = aff.get("name", "")
+                names.append(", ".join(x for x in [dept, org] if x))
+            elif aff:
+                names.append(str(aff))
+        affiliation = "; ".join(x for x in names if x)
+
+    out = {"name": name or ""}
+    if affiliation:
+        out["affiliation"] = affiliation
+    if item.get("orcid"):
+        out["orcid"] = item.get("orcid")
+    return out if out.get("name") else None
+
+
+def normalize_record_schema(meta: dict) -> dict:
+    """
+    Harmonize metadata variants used across EPINOVA records.
+
+    Supports fields used by journal-article metadata such as record_id, author,
+    citation.apa, and pdf_filename, while preserving existing metadata behavior.
+    """
+    # Null dates are valid for pre-publication records; sorting and search need strings.
+    if meta.get("publication_date") is None:
+        meta["publication_date"] = ""
+
+    if not meta.get("epinova_id"):
+        meta["epinova_id"] = meta.get("record_id") or meta.get("publication_id") or meta.get("identifier") or meta.get("id") or ""
+
+    if not meta.get("category"):
+        meta["category"] = infer_category_from_metadata(meta)
+    else:
+        meta["category"] = normalize_category(meta.get("category", ""))
+
+    publication_type_raw = str(meta.get("publication_type", "")).strip().lower()
+
+    if publication_type_raw in {"white book", "whitebook"}:
+        meta["publication_type"] = "White Paper"
+    elif publication_type_raw in {
+        "book",
+        "monograph",
+        "reference book",
+        "edited book",
+        "multi-volume book",
+        "multivolume book",
+    }:
+        meta["publication_type"] = "Book"
+    elif publication_type_raw in {"book chapter", "chapter"}:
+        meta["publication_type"] = "Book Chapter"
+    elif publication_type_raw in {
+        "conference article",
+        "conference paper",
+        "proceedings paper",
+        "conference proceeding paper",
+    }:
+        meta["publication_type"] = "Conference Paper"
+
+    if not meta.get("creators"):
+        source_creators = meta.get("author") or meta.get("authors") or meta.get("creator") or []
+        if isinstance(source_creators, dict):
+            source_creators = [source_creators]
+        elif isinstance(source_creators, str):
+            source_creators = [source_creators]
+        creators = [normalize_creator_entry(x) for x in source_creators if x]
+        creators = [x for x in creators if x]
+        if creators:
+            meta["creators"] = creators
+
+    citation = meta.get("citation", {})
+    if isinstance(citation, dict):
+        if not meta.get("citation_apa") and citation.get("apa"):
+            meta["citation_apa"] = citation.get("apa")
+        if not meta.get("recommended_citation") and citation.get("apa"):
+            meta["recommended_citation"] = citation.get("apa")
+
+    if not meta.get("files"):
+        pdf_filename = meta.get("pdf_filename") or meta.get("file") or meta.get("filename")
+        if pdf_filename:
+            meta["files"] = [{
+                "filename": pdf_filename,
+                "content_type": "application/pdf" if str(pdf_filename).lower().endswith(".pdf") else "application/octet-stream",
+                "description": "Publication PDF"
+            }]
+
+    return meta
+
+
+def get_slug(meta: dict) -> str:
+    epinova_id = meta.get("epinova_id", "") or meta.get("record_id", "") or meta.get("publication_id", "")
+    if epinova_id:
+        return normalize_slug(epinova_id)
+    return normalize_slug(meta.get("title", ""))[:90] or "untitled"
+
+
+def article_archive_index_path() -> Path:
+    return ROOT / ARTICLE_ARCHIVE_SOURCE_DIR_NAME / ARTICLE_ARCHIVE_INDEX_NAME
+
+
+def article_archive_source_dir() -> Path:
+    return ROOT / ARTICLE_ARCHIVE_SOURCE_DIR_NAME
+
+
+def article_archive_public_path(folder_name: str) -> str:
+    return f"/{ARTICLE_ARCHIVE_OUTPUT_SUBDIR}/{quote(folder_name, safe='')}/article.html"
+
+
+def record_href(meta: dict) -> str:
+    if meta.get("_is_article_archive"):
+        return meta.get("_direct_url", "") or article_archive_public_path(meta.get("_article_folder_name", ""))
+    return f"/{h(meta.get('_slug', 'untitled'))}/"
+
+
+def should_skip(metadata_path: Path) -> bool:
+    if any(part in SKIP_PARTS for part in metadata_path.parts):
+        return True
+    try:
+        rel = metadata_path.relative_to(ROOT)
+        if rel.parts and rel.parts[0] == ARTICLE_ARCHIVE_SOURCE_DIR_NAME:
+            # Articles are loaded from Articles/articles_archive_index.json.
+            return True
+    except ValueError:
+        pass
+    return False
+
+
+def load_metadata_files() -> list[dict]:
+    records = []
+    for path in sorted(ROOT.rglob(METADATA_NAME)):
+        if should_skip(path):
+            continue
+        try:
+            meta = json.loads(path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            print(f"Warning: failed to read {path}: {exc}")
+            continue
+        meta = normalize_record_schema(meta)
+
+        meta["_metadata_path"] = str(path.relative_to(ROOT))
+        meta["_metadata_abs_path"] = str(path)
+        meta["_slug"] = get_slug(meta)
+        meta["_page_url"] = f"{SITE_BASE_URL}/{meta['_slug']}/"
+        records.append(meta)
+    records.sort(key=lambda r: (r.get("publication_date", ""), r.get("epinova_id", ""), r.get("title", "")), reverse=True)
+    return records
+
+
+def load_article_archive_records() -> list[dict]:
+    index_path = article_archive_index_path()
+    if not index_path.exists():
+        print(f"Warning: article archive index not found: {index_path}")
+        return []
+    try:
+        raw = json.loads(index_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"Warning: failed to read article archive index {index_path}: {exc}")
+        return []
+    if not isinstance(raw, list):
+        print(f"Warning: article archive index is not a list: {index_path}")
+        return []
+
+    records = []
+    seen_folders = set()
+    for item in raw:
+        if not isinstance(item, dict):
+            continue
+        if item.get("status") and item.get("status") != "archived":
+            continue
+        title = item.get("title") or item.get("expected_title") or "Untitled Article"
+        publication_date = item.get("date") or item.get("publication_date") or ""
+        folder_value = item.get("folder") or ""
+
+        # Cloudflare builds on Linux, while articles_archive_index.json may
+        # contain Windows absolute paths such as:
+        # D:\...\EPINOVA-Research\Articles\2026-04-21_xxx
+        # pathlib.Path(...).name does NOT treat backslashes as separators on Linux.
+        # Therefore normalize backslashes before extracting the final folder name.
+        if folder_value:
+            folder_name = Path(str(folder_value).replace("\\", "/")).name
+        else:
+            folder_name = f"{publication_date}_{normalize_slug(title)[:80]}"
+
+        if not folder_name:
+            folder_name = normalize_slug(title)[:80] or "untitled-article"
+        if folder_name in seen_folders:
+            continue
+        seen_folders.add(folder_name)
+
+        direct_url = article_archive_public_path(folder_name)
+        slug = f"article-{normalize_slug(folder_name)}"
+        desc = item.get("description", "") or "Archived EPINOVA article preserved from the GoDaddy blog system."
+        original_url = item.get("url", "")
+        records.append({
+            "epinova_id": "",
+            "record_type": "Publication",
+            "resource_type": "Text",
+            "publication_type": "Article",
+            "category": "articles",
+            "title": title,
+            "full_title": title,
+            "subtitle": "",
+            "publication_date": publication_date,
+            "version": "v1.0",
+            "language": "en",
+            "status": "Archived",
+            "visibility": "Public",
+            "creators": [CREATOR],
+            "publisher": PUBLISHER_NAME,
+            "description": desc,
+            "abstract": desc,
+            "keywords": [],
+            "subjects": ["AI governance", "Strategic systems analysis", "Technology policy"],
+            "original_page": original_url,
+            "official_page": original_url,
+            "files": [{"filename": "article.html", "content_type": "text/html", "description": "Preserved HTML copy of the EPINOVA article."}],
+            "_metadata_path": str(index_path.relative_to(ROOT)),
+            "_metadata_abs_path": str(index_path),
+            "_slug": slug,
+            "_page_url": f"{SITE_BASE_URL}{direct_url}",
+            "_is_article_archive": True,
+            "_article_folder_name": folder_name,
+            "_article_source_folder": folder_value,
+            "_direct_url": direct_url,
+        })
+    records.sort(key=lambda r: (r.get("publication_date", ""), r.get("title", "")), reverse=True)
+    print(f"Loaded archived articles: {len(records)} from {index_path}")
+    return records
+
+
+def copy_article_archive_files(article_records: list[dict]) -> None:
+    if not article_records:
+        return
+    source_root = article_archive_source_dir()
+    target_root = OUTPUT_DIR / ARTICLE_ARCHIVE_OUTPUT_SUBDIR
+    target_root.mkdir(parents=True, exist_ok=True)
+
+    index_path = article_archive_index_path()
+    if index_path.exists():
+        shutil.copy2(index_path, target_root / ARTICLE_ARCHIVE_INDEX_NAME)
+    failed_index = source_root / ARTICLE_ARCHIVE_FAILED_INDEX_NAME
+    if failed_index.exists():
+        shutil.copy2(failed_index, target_root / ARTICLE_ARCHIVE_FAILED_INDEX_NAME)
+
+    copied_count = 0
+
+    for meta in article_records:
+        folder_value = meta.get("_article_source_folder", "") or ""
+        folder_name = meta.get("_article_folder_name", "") or ""
+
+        # Cloudflare builds on Linux, so Windows absolute paths stored in
+        # articles_archive_index.json cannot be used directly. Always reduce
+        # the saved path to its final archive-folder name and then read from
+        # repository-local Articles/<folder_name>.
+        if folder_value:
+            normalized_folder_value = folder_value.replace("\\", "/")
+            folder_name = Path(normalized_folder_value).name
+
+        if not folder_name:
+            print(f"Warning: missing archived article folder name for: {meta.get('title', '')}")
+            continue
+
+        source_dir = source_root / folder_name
+        target_dir = target_root / folder_name
+
+        if not source_dir.exists() or not source_dir.is_dir():
+            print(f"Warning: archived article folder not found: {source_dir}")
+            continue
+
+        if target_dir.exists():
+            shutil.rmtree(target_dir)
+
+        shutil.copytree(
+            source_dir,
+            target_dir,
+            ignore=shutil.ignore_patterns(".DS_Store", "Thumbs.db", "__pycache__"),
+        )
+        copied_count += 1
+
+    print(f"Copied archived article folders: {copied_count}/{len(article_records)}")
+
+
+def first_creator(meta: dict) -> str:
+    creators = meta.get("creators", [])
+    if isinstance(creators, list) and creators:
+        first = creators[0]
+        if isinstance(first, dict):
+            return first.get("name", "")
+        return str(first)
+    return meta.get("author", "")
+
+
+def all_creators_plain(meta: dict) -> list[str]:
+    names = []
+    creators = meta.get("creators", [])
+    if isinstance(creators, list):
+        for creator in creators:
+            if isinstance(creator, dict):
+                name = creator.get("name", "")
+                if name:
+                    names.append(name)
+            elif creator:
+                names.append(str(creator))
+    return names
+
+
+def local_file_url(meta: dict, filename: str, absolute: bool = False) -> str:
+    slug = meta.get("_slug", "untitled")
+    # Preserve separators for publication subfolders, percent-encode name components.
+    clean = str(filename).replace("\\\\", "/").lstrip("/")
+    path = f"/files/{slug}/{quote(clean, safe='/')}"
+    return f"{SITE_BASE_URL}{path}" if absolute else path
+
+
+def is_companion_file(item: dict) -> bool:
+    role = str(item.get("asset_type", "") or item.get("role", "")).lower()
+    return "supplement" in role or "executive brief" in role or "companion" in role
+
+
+def is_released_file(item: dict) -> bool:
+    state = str(item.get("status", "") or "").lower()
+    unreleased = ("pending", "editorial", "working", "draft", "planned",
+                  "in preparation", "not approved", "unreleased", "private")
+    return not any(mark in state for mark in unreleased)
+
+
+def is_safe_file_name(filename: str) -> bool:
+    path = Path(str(filename).replace("\\\\", "/"))
+    return bool(filename) and not path.is_absolute() and ".." not in path.parts
+
+
+def is_copied_file(meta: dict, item: dict) -> bool:
+    filename = str(item.get("filename") or "")
+    if not is_safe_file_name(filename):
+        return False
+    return (OUTPUT_DIR / "files" / meta.get("_slug", "untitled") / filename).is_file()
+
+
+def available_files(meta: dict, companion: bool | None = None) -> list[dict]:
+    result = []
+    for item in meta.get("files", []) if isinstance(meta.get("files"), list) else []:
+        if not isinstance(item, dict) or not is_released_file(item):
+            continue
+        if companion is not None and is_companion_file(item) != companion:
+            continue
+        if is_copied_file(meta, item):
+            result.append(item)
+    return result
+
+
+def is_pdf_filename(filename: str) -> bool:
+    return filename.lower().endswith(".pdf")
+
+
+def first_pdf_url(meta: dict) -> str:
+    # Citation PDF must identify the cited publication, not a companion brief.
+    for item in available_files(meta, companion=False):
+        fn = item.get("filename", "")
+        if fn and is_pdf_filename(fn):
+            return local_file_url(meta, fn, absolute=True)
+    return ""
+
+
+def copy_record_files(meta: dict) -> None:
+    metadata_abs_path = meta.get("_metadata_abs_path")
+    if not metadata_abs_path:
+        return
+
+    source_dir = Path(metadata_abs_path).parent
+    target_dir = OUTPUT_DIR / "files" / meta.get("_slug", "untitled")
+    # Replace generated output each build so withdrawn files cannot linger as public assets.
+    if target_dir.exists():
+        shutil.rmtree(target_dir)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    files = meta.get("files", [])
+    if not isinstance(files, list):
+        return
+
+    for file_entry in files:
+        if not isinstance(file_entry, dict):
+            continue
+
+        filename = file_entry.get("filename", "")
+        if not is_safe_file_name(filename):
+            print(f"Warning: skipped unsafe or unspecified filename: {filename!r}")
+            continue
+        if not is_released_file(file_entry):
+            # Never copy an editorial or planned PDF into a public deployment.
+            continue
+
+        candidate_names = []
+        for candidate in [
+            filename,
+            file_entry.get("original_filename", ""),
+            meta.get("pdf_filename", ""),
+        ]:
+            candidate = str(candidate or "").strip()
+            if candidate and candidate not in candidate_names:
+                candidate_names.append(candidate)
+
+        source_file = source_dir / filename
+
+        # Fallback 1: try metadata aliases beside metadata.json.
+        if not source_file.exists():
+            for candidate in candidate_names:
+                candidate_path = source_dir / candidate
+                if candidate_path.exists() and candidate_path.is_file():
+                    source_file = candidate_path
+                    break
+
+        # Fallback 2: search by exact candidate filename across repository.
+        if not source_file.exists():
+            for candidate in candidate_names:
+                matches = [
+                    p for p in ROOT.rglob(candidate)
+                    if p.is_file()
+                    and OUTPUT_DIR_NAME not in p.parts
+                    and ".git" not in p.parts
+                ]
+                if matches:
+                    source_file = matches[0]
+                    break
+
+        # Fallback 3: compare normalized stems and ignore Windows duplicate
+        # suffixes such as " (1)", " (2)", etc.
+        if not source_file.exists():
+            def comparable_stem(value: str) -> str:
+                stem = Path(value).stem
+                stem = re.sub(r"\s*\(\d+\)\s*$", "", stem)
+                return normalize_slug(stem)
+
+            target_norms = {comparable_stem(candidate) for candidate in candidate_names}
+            matches = []
+            for p in ROOT.rglob("*.pdf"):
+                if OUTPUT_DIR_NAME in p.parts or ".git" in p.parts:
+                    continue
+                if comparable_stem(p.name) in target_norms:
+                    matches.append(p)
+            if matches:
+                source_file = matches[0]
+
+        target_file = target_dir / filename
+        target_file.parent.mkdir(parents=True, exist_ok=True)
+
+        if source_file.exists() and source_file.is_file():
+            shutil.copy2(source_file, target_file)
+            print(f"Copied file: {source_file} -> {target_file}")
+        else:
+            print(f"Warning: source file not found for {meta.get('epinova_id', '')}: {filename}")
+            print(f"  Expected near metadata: {source_dir / filename}")
+
+
+def meta_value(meta: dict, key: str, fallback: str = "Not specified") -> str:
+    value = meta.get(key, "")
+    if value is None or value == "":
+        return fallback
+    return str(value)
+
+
+def linkify_urls(text: str) -> str:
+    parts = text.split()
+    out = []
+    for part in parts:
+        clean = part.rstrip(".,);]")
+        suffix = part[len(clean):]
+        if clean.startswith("https://") or clean.startswith("http://"):
+            out.append(f'<a href="{clean}">{clean}</a>{suffix}')
+        else:
+            out.append(part)
+    return " ".join(out)
+
+
+def creators_html(meta: dict) -> str:
+    creators = meta.get("creators", [])
+    if not isinstance(creators, list) or not creators:
+        return "<p class='muted'>No creator information provided.</p>"
+    items = []
+    for creator in creators:
+        if not isinstance(creator, dict):
+            items.append(f"<li>{h(creator)}</li>")
+            continue
+        name = creator.get("name", "")
+        affiliation = creator.get("affiliation", "")
+        orcid = creator.get("orcid", "")
+        line = [f"<strong>{h(name)}</strong>"]
+        if affiliation:
+            line.append(f"<br><span class='muted'>{h(affiliation)}</span>")
+        if orcid:
+            line.append(f"<br><a href='{h(orcid)}'>{h(orcid)}</a>" if str(orcid).startswith("http") else f"<br><span class='muted'>{h(orcid)}</span>")
+        items.append(f"<li>{''.join(line)}</li>")
+    return "<ul class='plain-list'>" + "\n".join(items) + "</ul>"
+
+
+def list_html(values) -> str:
+    if not values:
+        return "<p class='muted'>Not specified.</p>"
+    if isinstance(values, str):
+        return f"<p>{h(values)}</p>"
+    if isinstance(values, list):
+        items = []
+        for item in values:
+            if isinstance(item, dict):
+                label = item.get("title") or item.get("name") or item.get("identifier") or str(item)
+                items.append(f"<li>{h(label)}</li>")
+            else:
+                items.append(f"<li>{h(item)}</li>")
+        return "<ul>" + "\n".join(items) + "</ul>"
+    return f"<p>{h(values)}</p>"
+
+
+def references_html(meta: dict) -> str:
+    refs = meta.get("references", [])
+    if not refs:
+        return "<p class='muted'>No references listed.</p>"
+    items = []
+    for ref in refs:
+        if isinstance(ref, dict):
+            text = ref.get("reference") or ref.get("citation") or ref.get("title") or str(ref)
+            url = ref.get("url", "")
+            if url:
+                items.append(f"<li>{linkify_urls(h(text))}<br><a href='{h(url)}'>{h(url)}</a></li>")
+            else:
+                items.append(f"<li>{linkify_urls(h(text))}</li>")
+        else:
+            items.append(f"<li>{linkify_urls(h(ref))}</li>")
+    return "<ol class='references'>" + "\n".join(items) + "</ol>"
+
+
+def alternate_ids_html(meta: dict) -> str:
+    ids = meta.get("alternate_identifiers", [])
+    if not isinstance(ids, list) or not ids:
+        return "<p class='muted'>No alternate identifiers listed.</p>"
+    rows = []
+    for item in ids:
+        if not isinstance(item, dict):
+            continue
+        identifier = item.get("identifier", "")
+        scheme = item.get("scheme", "")
+        description = item.get("description", "")
+        if str(identifier).startswith("http"):
+            identifier_html = f"<a href='{h(identifier)}'>{h(identifier)}</a>"
+        elif str(scheme).upper() == "DOI":
+            identifier_html = f"<a href='https://doi.org/{h(identifier)}'>{h(identifier)}</a>"
+        else:
+            identifier_html = h(identifier)
+        rows.append(f"<tr><td>{h(scheme)}</td><td>{identifier_html}</td><td>{h(description)}</td></tr>")
+    return "<table><thead><tr><th>Scheme</th><th>Identifier</th><th>Description</th></tr></thead><tbody>" + "\n".join(rows) + "</tbody></table>"
+
+
+def related_works_html(meta: dict) -> str:
+    works = meta.get("related_works", [])
+    if not isinstance(works, list) or not works:
+        return "<p class='muted'>No related works listed.</p>"
+    rows = []
+    for item in works:
+        if not isinstance(item, dict):
+            continue
+        relation = item.get("relation", "")
+        identifier = item.get("identifier", "")
+        scheme = item.get("scheme", "")
+        resource_type = item.get("resource_type", "")
+        description = item.get("description", "")
+        if str(identifier).startswith("http"):
+            identifier_html = f"<a href='{h(identifier)}'>{h(identifier)}</a>"
+        elif str(scheme).upper() == "DOI":
+            identifier_html = f"<a href='https://doi.org/{h(identifier)}'>{h(identifier)}</a>"
+        else:
+            identifier_html = h(identifier)
+        rows.append(f"<tr><td>{h(relation)}</td><td>{identifier_html}</td><td>{h(resource_type)}</td><td>{h(description)}</td></tr>")
+    return "<table><thead><tr><th>Relation</th><th>Identifier</th><th>Type</th><th>Description</th></tr></thead><tbody>" + "\n".join(rows) + "</tbody></table>"
+
+
+def file_preview_html(meta: dict) -> str:
+    # Main-publication assets only. Companion PDFs get their own section.
+    items = available_files(meta, companion=False)
+    preview = ""
+    for item in items:
+        filename = str(item.get("filename", ""))
+        if is_pdf_filename(filename):
+            preview_url = local_file_url(meta, filename)
+            preview = f"""
+<div class="file-preview desktop-pdf-preview">
+  <div class="file-preview-title">Publication PDF preview</div>
+  <iframe src="{h(preview_url)}" title="{h(filename)}"></iframe>
+</div>
+<div class="mobile-pdf-actions">
+  <div class="mobile-pdf-title">Publication PDF</div>
+  <p class="muted">Open the PDF directly for the best reading experience.</p>
+  <a class="button mobile-pdf-button" href="{h(preview_url)}" target="_blank" rel="noopener">Open PDF</a>
+</div>
+"""
+            break
+
+    if not items:
+        # A book landing page does not imply an open-access full-text edition.
+        return """<section class="record-section"><h2>Publication files</h2>
+<p class="muted">No full-text download is currently offered on this page.</p></section>"""
+
+    rows = []
+    for item in items:
+        fn = item.get("filename", "")
+        url = local_file_url(meta, fn)
+        rows.append(f"<tr><td><a href='{h(url)}'>{h(Path(fn).name)}</a>"
+                    f"<br><span class='muted'>{h(item.get('description', ''))}</span></td>"
+                    f"<td>{h(item.get('content_type', ''))}</td>"
+                    f"<td class='right'><a class='button small' href='{h(url)}'>Download</a></td></tr>")
+    return f"""<section class="record-section"><h2>Publication files</h2>
+{preview}<div class="panel"><table class="file-table">
+<thead><tr><th>Name</th><th>Type</th><th></th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table></div></section>"""
+
+
+def companion_materials_html(meta: dict) -> str:
+    files = meta.get("files", [])
+    if not isinstance(files, list):
+        return ""
+    companions = [x for x in files if isinstance(x, dict) and is_companion_file(x)]
+    if not companions:
+        return ""
+    rows = []
+    for item in companions:
+        title = str(item.get("asset_type") or item.get("role") or "Companion material")
+        desc = str(item.get("description") or "")
+        if is_released_file(item) and is_copied_file(meta, item):
+            url = local_file_url(meta, item.get("filename", ""))
+            action = f"<a class='button small' href='{h(url)}'>Download PDF</a>"
+            status = "Available"
+        else:
+            # File names and upload plans alone must not create broken download links.
+            action = "<span class='muted'>Not yet available</span>"
+            status = "Pending release"
+        rows.append(f"<tr><td><strong>{h(title)}</strong>"
+                    f"<br><span class='muted'>{h(desc)}</span></td>"
+                    f"<td>{h(status)}</td><td class='right'>{action}</td></tr>")
+    return f"""<section class="record-section"><h2>Companion materials</h2>
+<p>Companion documents support the book's evidence record and provide a concise
+overview. They are separate from the full book and do not carry its ISBN or DOI.</p>
+<div class="panel"><table class="file-table">
+<thead><tr><th>Material</th><th>Availability</th><th></th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table></div></section>"""
+
+
+def sidebar_details_html(meta: dict) -> str:
+    doi = meta_value(meta, "doi", "")
+    previous_doi = meta_value(meta, "previous_doi", "")
+    doi_html = f"<a href='{h(doi)}'>{h(doi)}</a>" if doi.startswith("http") else h(doi)
+    previous_doi_html = f"<dt>Previous DOI</dt><dd><a href='https://doi.org/{h(previous_doi)}'>{h(previous_doi)}</a></dd>" if previous_doi else ""
+
+    isbn = meta.get("isbn") or meta.get("isbn_13") or meta.get("isbn13") or ""
+    isbn_html = f"<dt>ISBN</dt><dd>{h(isbn)}</dd>" if isbn else ""
+
+    series_title = meta.get("series_title") or meta.get("book_series") or ""
+    series_html = f"<dt>Series</dt><dd>{h(series_title)}</dd>" if series_title else ""
+
+    volume = meta.get("volume") or meta.get("volume_number") or ""
+    volume_html = f"<dt>Volume</dt><dd>{h(volume)}</dd>" if volume else ""
+
+    edition = meta.get("edition") or meta.get("book_edition") or ""
+    edition_html = f"<dt>Edition</dt><dd>{h(edition)}</dd>" if edition else ""
+    imprint = meta.get("imprint") or ""
+    imprint_html = f"<dt>Imprint</dt><dd>{h(imprint)}</dd>" if imprint else ""
+    cutoff = meta.get("empirical_classification_cutoff") or ""
+    cutoff_html = f"<dt>Empirical cutoff</dt><dd>{h(cutoff)}</dd>" if cutoff else ""
+
+    return f"""
+<div class="sidebar-box">
+  <h2>Details</h2>
+  <dl class="details-list">
+    <dt>DOI</dt><dd>{doi_html}</dd>
+    {previous_doi_html}
+    <dt>EPINOVA ID</dt><dd>{h(meta_value(meta, 'epinova_id', ''))}</dd>
+    {isbn_html}
+    {series_html}
+    {volume_html}
+    {edition_html}
+    {imprint_html}
+    {cutoff_html}
+    <dt>Resource type</dt><dd>{h(meta_value(meta, 'resource_type', ''))}</dd>
+    <dt>Publication type</dt><dd>{h(meta_value(meta, 'publication_type', ''))}</dd>
+    <dt>Publication date</dt><dd>{h(meta_value(meta, 'publication_date', ''))}</dd>
+    <dt>Version</dt><dd>{h(meta_value(meta, 'version', ''))}</dd>
+    <dt>Status</dt><dd>{h(meta_value(meta, 'status', ''))}</dd>
+    <dt>Language</dt><dd>{h(meta_value(meta, 'language', ''))}</dd>
+    <dt>Publisher</dt><dd>{h(meta_value(meta, 'publisher', ''))}</dd>
+    <dt>Place</dt><dd>{h(meta_value(meta, 'place', ''))}</dd>
+  </dl>
+</div>
+"""
+
+
+def sidebar_rights_html(meta: dict) -> str:
+    license_data = meta.get("license", {})
+    if isinstance(license_data, dict):
+        license_title = license_data.get("title", "") or license_data.get("name", "")
+        license_url = license_data.get("url", "")
+    else:
+        license_title = str(license_data)
+        license_url = ""
+    license_html = f"<a href='{h(license_url)}'>{h(license_title)}</a>" if license_url else h(license_title or "Not specified")
+    return f"""
+<div class="sidebar-box">
+  <h2>Rights</h2>
+  <dl class="details-list"><dt>License</dt><dd>{license_html}</dd><dt>Copyright</dt><dd>{h(meta_value(meta, 'copyright', ''))}</dd></dl>
+</div>
+"""
+
+
+def sidebar_citation_html(meta: dict) -> str:
+    citation = meta_value(meta, "citation_apa", "") or meta_value(meta, "recommended_citation", "")
+    return f"<div class='sidebar-box'><h2>Citation</h2><p class='citation-text'>{h(citation)}</p></div>"
+
+
+def sidebar_export_html(meta: dict) -> str:
+    items = []
+    repository_folder = meta_value(meta, "repository_folder", "")
+    official_page = meta_value(meta, "official_page", "")
+    metadata_path = meta.get("_metadata_path", "")
+    if repository_folder:
+        items.append(f"<li><a href='{h(repository_folder)}'>Repository folder</a></li>")
+    if official_page:
+        items.append(f"<li><a href='{h(official_page)}'>Official EPINOVA page</a></li>")
+    if metadata_path:
+        items.append(f"<li><span class='muted'>Metadata path:</span><br>{h(metadata_path)}</li>")
+    if not items:
+        items.append("<li class='muted'>No export links listed.</li>")
+    return f"<div class='sidebar-box'><h2>Export</h2><ul class='sidebar-links'>{''.join(items)}</ul></div>"
+
+
+def page_css() -> str:
+    return """
+:root { --text:#202020; --muted:#666; --border:#d9d9d9; --soft:#f7f7f7; --link:#0b5cad; --dark:#050505; --green:#2f7d32; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--text); background:#fff; line-height:1.55; }
+a { color:var(--link); overflow-wrap:anywhere; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.topbar { background:var(--dark); color:#fff; border-bottom:1px solid #222; }
+.topbar-inner { max-width:1180px; min-height:160px; margin:0 auto; padding:12px 24px; display:flex; align-items:center; justify-content:center; }
+.brand-logo-wrap { width:620px; height:100px; overflow:hidden; display:flex; align-items:center; justify-content:center; }
+.brand-logo { width:560px; height:auto; object-fit:contain; display:block; transform:translateX(-18px) scale(1.05); transform-origin:center center; }
+.publication-nav-bar { width:100%; background:#f4f4f4; border-top:1px solid #d6d6d6; border-bottom:1px solid #d6d6d6; }
+.publication-nav { max-width:1180px; margin:0 auto; padding:10px 24px; display:flex; align-items:center; justify-content:space-between; gap:22px; }
+.nav-left, .nav-right { display:flex; align-items:center; gap:18px; flex:0 0 auto; }
+.nav-link, .nav-dropdown-button { color:#222; font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; white-space:nowrap; }
+.nav-link { display:inline-flex; align-items:center; }
+.nav-dropdown { position:relative; }
+.nav-dropdown-button { border:0; background:transparent; padding:8px 0; cursor:pointer; font-family:inherit; }
+.nav-dropdown-button::after { content:" ▼"; font-size:10px; letter-spacing:0; }
+.nav-dropdown-menu { display:none; position:absolute; top:100%; left:0; min-width:270px; background:#fff; border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,.12); padding:8px 0; z-index:1000; }
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu { display:block; }
+.nav-dropdown-menu a { display:block; padding:9px 14px; color:#222; font-size:13px; font-weight:600; letter-spacing:0; text-transform:none; white-space:nowrap; }
+.nav-dropdown-menu a:hover { background:#f4f4f4; text-decoration:none; }
+.site-search { flex:1 1 auto; max-width:420px; display:flex; align-items:center; gap:6px; }
+.site-search input { width:100%; border:1px solid var(--border); border-radius:4px; padding:7px 9px; font-size:13px; font-family:inherit; background:#fff; }
+.site-search button { border:1px solid #777; border-radius:4px; padding:7px 10px; background:#fff; color:#222; font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:.04em; cursor:pointer; }
+.site-search button:hover { background:#eee; }
+.container { max-width:1180px; margin:0 auto; padding:32px 24px 48px; }
+.record-grid { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:34px; align-items:start; }
+.record-info-row { display:flex; justify-content:space-between; gap:18px; align-items:center; margin-bottom:20px; color:var(--muted); font-size:14px; }
+.label-group { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+.label { display:inline-flex; border:1px solid var(--border); background:#f1f1f1; border-radius:4px; padding:4px 8px; font-size:12px; color:#333; }
+.label-open { color:var(--green); border-color:#b6d7b9; background:#f5fbf5; }
+h1 { font-size:34px; line-height:1.22; margin:0 0 8px; font-weight:700; }
+.record-subtitle { font-size:20px; line-height:1.35; margin:0 0 18px; color:#444; font-weight:500; }
+h2 { font-size:22px; line-height:1.3; margin:32px 0 12px; }
+h3 { font-size:17px; margin:0 0 10px; }
+.record-section { margin-top:28px; }
+.plain-list { padding-left:20px; }
+.muted { color:var(--muted); }
+.panel, .file-preview, .sidebar-box { border:1px solid var(--border); border-radius:4px; background:#fff; overflow:hidden; margin-top:14px; }
+.panel-heading, .file-preview-title, .sidebar-box h2 { background:var(--soft); border-bottom:1px solid var(--border); padding:10px 14px; font-weight:700; }
+.file-preview iframe { width:100%; height:620px; border:0; background:#eee; }
+table { width:100%; border-collapse:collapse; font-size:14px; }
+th, td { border-top:1px solid var(--border); padding:9px 10px; text-align:left; vertical-align:top; }
+thead th { background:var(--soft); border-top:0; }
+.file-table td.right { text-align:right; white-space:nowrap; }
+.button { display:inline-block; border:1px solid #777; border-radius:4px; padding:7px 11px; color:#111; background:#fff; }
+.button.small { padding:4px 8px; font-size:13px; }
+.sidebar-box { margin-bottom:18px; }
+.sidebar-box h2 { margin:0; font-size:17px; }
+.details-list { margin:0; padding:14px; }
+.details-list dt { font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; margin-top:12px; font-weight:700; }
+.details-list dt:first-child { margin-top:0; }
+.details-list dd { margin:4px 0 0; overflow-wrap:anywhere; }
+.sidebar-links { margin:0; padding:14px 14px 14px 32px; }
+.citation-text { margin:0; padding:14px; font-size:14px; overflow-wrap:anywhere; }
+.references li, .latest-list li, .category-list li { margin-bottom:10px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin-top:24px; }
+.card { display:block; border:1px solid var(--border); border-radius:6px; padding:18px; color:var(--text); background:#fff; }
+.latest-category-block, .year-block { margin-top:22px; }
+.subcategory-block { margin-top:34px; }
+.subcategory-block h2 { font-size:21px; margin:0 0 16px; padding-bottom:6px; border-bottom:1px solid var(--border); }
+.search-page-box { display:flex; gap:8px; max-width:720px; margin:24px 0 12px; }
+.search-page-box input { flex:1 1 auto; border:1px solid var(--border); border-radius:4px; padding:10px 12px; font-size:15px; font-family:inherit; }
+.search-page-box button { border:1px solid #777; border-radius:4px; padding:10px 14px; background:#fff; color:#222; font-weight:700; cursor:pointer; }
+.footer { background:var(--dark); color:#ccc; margin-top:48px; }
+.footer-inner { max-width:1180px; margin:0 auto; padding:28px 24px; display:grid; grid-template-columns:1.5fr 1fr 1fr; gap:24px; font-size:14px; }
+.footer h2 { color:#fff; margin:0 0 10px; font-size:14px; text-transform:uppercase; letter-spacing:.08em; }
+.footer a { color:#fff; }
+.footer-bottom { border-top:1px solid #222; padding-top:14px; margin-top:14px; grid-column:1 / -1; color:#aaa; font-size:13px; }
+.mobile-pdf-actions { display:none; }
+
+@media (max-width:900px){
+  .publication-nav { padding:10px 16px; gap:12px; flex-wrap:wrap; }
+  .site-search { order:3; flex:1 0 100%; max-width:none; }
+  .nav-left, .nav-right { gap:14px; }
+  .nav-link, .nav-dropdown-button { font-size:12px; }
+  .nav-dropdown-menu { min-width:240px; }
+  .record-grid{grid-template-columns:1fr;}
+  .topbar-inner{min-height:116px;}
+  .brand-logo-wrap{width:660px;height:96px;overflow:visible;}
+  .brand-logo{width:600px;max-height:86px;transform:translateX(-18px);}
+  h1{font-size:28px;}
+  .record-subtitle{font-size:18px;}
+  .footer-inner{grid-template-columns:1fr;}
+}
+
+@media (max-width:700px){
+  .desktop-pdf-preview { display:none; }
+  .mobile-pdf-actions { display:block; margin-top:14px; padding:14px; border:1px solid var(--border); border-radius:6px; background:#f7f7f7; }
+  .mobile-pdf-title { font-weight:700; margin-bottom:6px; }
+  .mobile-pdf-actions p { margin:0 0 12px; }
+  .mobile-pdf-button { display:block; width:100%; text-align:center; margin-top:8px; padding:10px 12px; }
+  .search-page-box { flex-direction:column; }
+  .search-page-box button { width:100%; }
+}
+"""
+
+
+def head_meta(meta: dict | None = None, title: str = SITE_TITLE) -> str:
+    if not meta:
+        return f"""
+  <meta name="description" content="{h(SITE_TITLE)}">
+  <meta property="og:title" content="{h(SITE_TITLE)}">
+  <meta property="og:site_name" content="{h(SITE_TITLE)}">
+"""
+    page_url = meta.get("_page_url", "")
+    record_title = meta.get("title", title)
+    description = meta.get("abstract") or meta.get("description") or record_title
+    doi = str(meta.get("doi") or "")
+    pdf_url = first_pdf_url(meta)
+    citation_authors = "\n".join(f'  <meta name="citation_author" content="{h(name)}">' for name in all_creators_plain(meta))
+    citation_doi = ""
+    if doi and not doi.startswith("To be assigned"):
+        citation_doi = f'  <meta name="citation_doi" content="{h(doi.replace("https://doi.org/", ""))}">'
+    citation_pdf = ""
+    if pdf_url:
+        citation_pdf = f"""
+  <meta name="citation_pdf_url" content="{h(pdf_url)}">
+  <link rel="alternate" type="application/pdf" href="{h(pdf_url)}">
+  <link rel="item" type="application/pdf" href="{h(pdf_url)}">
+"""
+    return f"""
+  <meta name="description" content="{h(description)}">
+  <meta name="citation_title" content="{h(record_title)}">
+{citation_authors}
+{citation_doi}
+  <meta name="citation_publication_date" content="{h(meta.get('publication_date', ''))}">
+  <meta name="citation_abstract_html_url" content="{h(page_url)}">
+{citation_pdf}
+  <meta property="og:title" content="{h(record_title)}">
+  <meta property="og:description" content="{h(description)}">
+  <meta property="og:url" content="{h(page_url)}">
+  <meta property="og:site_name" content="{h(SITE_TITLE)}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{h(record_title)}">
+  <meta name="twitter:description" content="{h(description)}">
+  <link rel="canonical" href="{h(page_url)}">
+"""
+
+
+def schema_json_ld(meta: dict | None = None) -> str:
+    if not meta:
+        return ""
+    creators = [{"@type": "Person", "name": name} for name in all_creators_plain(meta)]
+    identifier = str(meta.get("doi") or "")
+    if identifier and not identifier.startswith("http") and not identifier.startswith("To be assigned"):
+        identifier = f"https://doi.org/{identifier}"
+    if identifier.startswith("To be assigned"):
+        identifier = meta.get("_page_url", "")
+    category = meta.get("category")
+    if category == "books":
+        schema_type = "Book"
+    elif category == "book-chapters":
+        schema_type = "Chapter"
+    elif category == "articles":
+        schema_type = "Article"
+    else:
+        schema_type = "ScholarlyArticle"
+
+    data = {
+        "@context": "https://schema.org",
+        "@type": schema_type,
+        "@id": identifier or meta.get("_page_url", ""),
+        "name": meta.get("title", ""),
+        "headline": meta.get("title", ""),
+        "description": meta.get("abstract") or meta.get("description", ""),
+        "datePublished": meta.get("publication_date", ""),
+        "version": meta.get("version", ""),
+        "identifier": identifier or meta.get("epinova_id", ""),
+        "url": meta.get("_page_url", ""),
+        "author": creators,
+        "creator": creators,
+        "publisher": {"@type": "Organization", "name": meta.get("publisher", PUBLISHER_NAME)},
+    }
+
+    if category == "books":
+        isbn = meta.get("isbn") or meta.get("isbn_13") or meta.get("isbn13") or ""
+        if isbn:
+            data["isbn"] = str(isbn)
+        edition = meta.get("edition") or meta.get("book_edition") or ""
+        if edition:
+            data["bookEdition"] = str(edition)
+    license_data = meta.get("license", {})
+    if isinstance(license_data, dict) and license_data.get("url"):
+        data["license"] = license_data.get("url")
+    if not data["datePublished"]:
+        data.pop("datePublished")
+    return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + "</script>"
+
+
+def site_header() -> str:
+    return f"""
+<header class="topbar">
+  <div class="topbar-inner logo-only-header">
+    <div class="brand-logo-wrap">
+      <img class="brand-logo" src="/{h(OUTPUT_LOGO_PATH)}" alt="Global AI Governance and Policy Research Center, EPINOVA LLC">
+    </div>
+  </div>
+</header>
+
+<div class="publication-nav-bar">
+  <nav class="publication-nav" aria-label="Publication navigation">
+    <div class="nav-left">
+      <a class="nav-link" href="/">Main</a>
+      <div class="nav-dropdown">
+        <button class="nav-dropdown-button" type="button" aria-haspopup="true">Publications</button>
+        <div class="nav-dropdown-menu">
+          <a href="/books/">Books</a>
+          <a href="/articles/">Articles</a>
+          <a href="/journal-articles/">Journal Articles</a>
+          <a href="/conference-papers/">Conference Papers</a>
+          <a href="/policy-briefs/">Policy Briefs</a>
+          <a href="/working-papers/">Working Papers</a>
+          <a href="/white-papers/">White Papers</a>
+          <a href="/index-methodology-papers/">Index Methodology Papers</a>
+          <a href="/research-reports/">Research Reports</a>
+          <a href="/policy-reports/">Policy Reports</a>
+        </div>
+      </div>
+    </div>
+
+    <form class="site-search" action="/search/" method="get">
+      <input type="search" name="q" placeholder="Search publications..." aria-label="Search publications">
+      <button type="submit">Search</button>
+    </form>
+
+    <div class="nav-right">
+      <a class="nav-link" href="{h(EPINOVA_MAIN_SITE)}">EPINOVA</a>
+    </div>
+  </nav>
+</div>
+"""
+
+
+def site_footer() -> str:
+    return f"""
+<footer class="footer">
+  <div class="footer-inner">
+    <div><h2>About</h2><p>{h(CENTER_NAME)} publishes structured open-access research outputs through EPINOVA LLC.</p></div>
+    <div><h2>Publications</h2><p><a href="/">Publication index</a><br><a href="/books/">Books</a><br><a href="/articles/">Articles</a><br><a href="/journal-articles/">Journal Articles</a><br><a href="/conference-papers/">Conference Papers</a><br><a href="/policy-briefs/">Policy Briefs</a><br><a href="/working-papers/">Working Papers</a><br><a href="/white-papers/">White Papers</a><br><a href="/index-methodology-papers/">Index Methodology Papers</a></p></div>
+    <div><h2>Links</h2><p><a href="{h(EPINOVA_MAIN_SITE)}">EPINOVA main site</a><br><a href="https://github.com/EPINOVALLC/EPINOVA-Research">GitHub repository</a></p></div>
+    <div class="footer-bottom">Generated on {date.today().isoformat()} from EPINOVA metadata records and archived Articles.</div>
+  </div>
+</footer>
+"""
+
+
+def html_doc(title: str, body: str, meta: dict | None = None) -> str:
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{h(title)}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+{head_meta(meta, title)}
+  <style>{page_css()}</style>
+{schema_json_ld(meta)}
+</head>
+<body>
+{site_header()}
+{body}
+{site_footer()}
+</body>
+</html>
+"""
+
+
+def render_record_page(meta: dict) -> str:
+    title, subtitle = display_title_parts(meta)
+    publication_type = meta_value(meta, "publication_type")
+    publication_date = meta_value(meta, "publication_date")
+    version = meta_value(meta, "version")
+    status = meta_value(meta, "status")
+    description = meta_value(meta, "description", "")
+    abstract = meta_value(meta, "abstract", "")
+    recommended_citation = meta_value(meta, "recommended_citation", "")
+    citation_apa = meta_value(meta, "citation_apa", "")
+    body = f"""
+<main class="container">
+  <div class="record-grid">
+    <article class="record-main">
+      <section class="record-info-row"><div><span>{f"Published {h(publication_date)}" if publication_date and status.lower() == "published" else "Publication date pending" if not publication_date else h(publication_date)}</span><span class="muted"> | Version {h(version)}</span></div><div class="label-group"><span class="label">{h(publication_type)}</span><span class="label">{h(status)}</span></div></section>
+      <section><h1>{h(title)}</h1>{f'<p class="record-subtitle">{h(subtitle)}</p>' if subtitle else ''}<div class="creators">{creators_html(meta)}</div></section>
+      <section class="record-section rich-text"><h2>Description</h2><p>{h(description)}</p></section>
+      <section class="record-section rich-text"><h2>Abstract</h2><p>{h(abstract)}</p></section>
+      {file_preview_html(meta)}
+      {companion_materials_html(meta)}
+      <section class="record-section"><h2>Keywords</h2>{list_html(meta.get('keywords', []))}</section>
+      <section class="record-section"><h2>Subjects</h2>{list_html(meta.get('subjects', []))}</section>
+      <section class="record-section"><h2>Recommended citation</h2><p>{h(recommended_citation)}</p></section>
+      <section class="record-section"><h2>APA citation</h2><p>{h(citation_apa)}</p></section>
+      <section class="record-section"><h2>Alternate identifiers</h2>{alternate_ids_html(meta)}</section>
+      <section class="record-section"><h2>Related works</h2>{related_works_html(meta)}</section>
+      <section class="record-section"><h2>References</h2>{references_html(meta)}</section>
+    </article>
+    <aside class="record-sidebar">{sidebar_details_html(meta)}{sidebar_rights_html(meta)}{sidebar_citation_html(meta)}</aside>
+  </div>
+</main>
+"""
+    page_title = full_display_title(meta) or title
+    return html_doc(f"{page_title} | {SITE_TITLE}", body, meta)
+
+
+def publication_year(meta: dict) -> str:
+    publication_date = meta.get("publication_date", "") or ""
+    if len(publication_date) >= 4 and publication_date[:4].isdigit():
+        return publication_date[:4]
+    status = str(meta.get("status", "") or "").lower()
+    if any(x in status for x in ("preparation", "forthcoming", "pending", "draft")):
+        return "Forthcoming"
+    return "Undated"
+
+
+def full_display_title(meta: dict) -> str:
+    full_title = meta.get("full_title", "") or meta.get("title_full", "")
+    if full_title:
+        return full_title
+    title = meta.get("title", "") or ""
+    subtitle = meta.get("subtitle", "") or ""
+    return f"{title}: {subtitle}" if title and subtitle else title
+
+
+def display_title_parts(meta: dict) -> tuple[str, str]:
+    """
+    Return the main title and subtitle for the record page header.
+
+    This keeps the main title in <h1> and shows the subtitle directly below it.
+    It also supports metadata files that only have full_title/title_full by
+    splitting at the first colon when subtitle is missing.
+    """
+    title = meta.get("title", "") or ""
+    subtitle = meta.get("subtitle", "") or ""
+
+    if not subtitle:
+        full_title = meta.get("full_title", "") or meta.get("title_full", "") or ""
+        if full_title and full_title != title and full_title.startswith(title):
+            rest = full_title[len(title):].strip()
+            if rest.startswith(":"):
+                subtitle = rest[1:].strip()
+        elif not title and full_title:
+            title = full_title
+
+    return title, subtitle
+
+
+def working_paper_subcategory(meta: dict) -> tuple[str, str]:
+    epinova_id = meta.get("epinova_id", "") or ""
+    subgroup_labels = {
+        "A": "AI-Strategic Nodes and Structural Governance",
+        "B": "AI Governance and Institutional Systems",
+        "C": "Compute Infrastructure and Data-Center Governance",
+        "D": "Domestic Governance, Infrastructure, and Policy Friction",
+        "E": "AI Economy, Firms, and Organizational Transformation",
+        "F": "Networked Conflict, Security, and Strategic Systems",
+        "G": "Maritime, Arctic, and Geostrategic Systems",
+        "T": "Theory & Systems",
+    }
+    legacy_subgroup_map = {"EPINOVA-WP-2025-001": "F"}
+    if epinova_id in legacy_subgroup_map:
+        code = legacy_subgroup_map[epinova_id]
+        return code, subgroup_labels.get(code, f"Working Paper Series {code}")
+    parts = epinova_id.split("-")
+    if len(parts) >= 5 and parts[1] == "WP":
+        code = parts[2]
+        return code, subgroup_labels.get(code, f"Working Paper Series {code}")
+    return "Z", "Other Working Papers"
+
+
+
+def search_index_records(records: list[dict]) -> list[dict]:
+    out = []
+    for meta in records:
+        category = meta.get("category", "uncategorized") or "uncategorized"
+        if category in HIDDEN_CATEGORIES:
+            continue
+
+        keywords = meta.get("keywords", [])
+        keywords_text = " ".join(str(x) for x in keywords) if isinstance(keywords, list) else str(keywords or "")
+
+        subjects = meta.get("subjects", [])
+        subjects_text = " ".join(str(x) for x in subjects) if isinstance(subjects, list) else str(subjects or "")
+
+        title = full_display_title(meta)
+        category_label = CATEGORY_LABELS.get(category, category.replace("-", " ").title())
+        description = meta.get("abstract") or meta.get("description") or ""
+        out.append({
+            "title": title,
+            "epinova_id": meta.get("epinova_id", ""),
+            "publication_type": meta.get("publication_type", ""),
+            "category": category_label,
+            "publication_date": meta.get("publication_date", ""),
+            "href": record_href(meta),
+            "description": description,
+            "keywords": keywords_text,
+            "subjects": subjects_text,
+            "search_text": " ".join([
+                title,
+                meta.get("epinova_id", ""),
+                meta.get("publication_type", ""),
+                category_label,
+                meta.get("publication_date", ""),
+                meta.get("abstract") or "",
+                meta.get("description") or "",
+                keywords_text,
+                subjects_text,
+            ]).lower(),
+        })
+    return out
+
+
+def render_search_page(records: list[dict]) -> str:
+    search_data = json.dumps(search_index_records(records), ensure_ascii=False).replace("</", "<\\/")
+
+    body = f"""
+<main class="container">
+  <p><a href="/">← EPINOVA Publications</a></p>
+  <h1>Search Publications</h1>
+  <p class="muted">Search EPINOVA publication records by title, identifier, publication type, keyword, subject, abstract, or date.</p>
+
+  <div class="search-page-box">
+    <input id="searchInput" type="search" placeholder="Enter keywords..." aria-label="Search publications">
+    <button id="searchButton" type="button">Search</button>
+  </div>
+
+  <p id="searchSummary" class="muted"></p>
+  <ul id="searchResults" class="category-list"></ul>
+
+  <script>
+    const SEARCH_DATA = {search_data};
+
+    const input = document.getElementById("searchInput");
+    const button = document.getElementById("searchButton");
+    const results = document.getElementById("searchResults");
+    const summary = document.getElementById("searchSummary");
+
+    function escapeHtml(value) {{
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }}
+
+    function getQuery() {{
+      const params = new URLSearchParams(window.location.search);
+      return params.get("q") || "";
+    }}
+
+    function runSearch(rawQuery) {{
+      const query = String(rawQuery || "").trim().toLowerCase();
+      results.innerHTML = "";
+
+      if (!query) {{
+        summary.textContent = "Enter one or more keywords to search the publication index.";
+        return;
+      }}
+
+      const terms = query.split(/\\s+/).filter(Boolean);
+      const matches = SEARCH_DATA.filter(item =>
+        terms.every(term => item.search_text.includes(term))
+      );
+
+      summary.textContent = `${{matches.length}} result${{matches.length === 1 ? "" : "s"}} for “${{rawQuery}}”.`;
+
+      if (!matches.length) {{
+        results.innerHTML = "<li>No matching records found.</li>";
+        return;
+      }}
+
+      results.innerHTML = matches.map(item => {{
+        const id = item.epinova_id ? `<strong>${{escapeHtml(item.epinova_id)}}</strong> — ` : "";
+        const detail = [item.publication_type, item.category, item.publication_date].filter(Boolean).join(" · ");
+        const description = item.description || "";
+        const desc = description ? `<br><span class="muted">${{escapeHtml(description).slice(0, 260)}}${{description.length > 260 ? "..." : ""}}</span>` : "";
+        return `<li>${{id}}<a href="${{escapeHtml(item.href)}}">${{escapeHtml(item.title)}}</a><br><span class="muted">${{escapeHtml(detail)}}</span>${{desc}}</li>`;
+      }}).join("");
+    }}
+
+    button.addEventListener("click", () => {{
+      const q = input.value.trim();
+      const url = q ? `/search/?q=${{encodeURIComponent(q)}}` : "/search/";
+      window.history.replaceState(null, "", url);
+      runSearch(q);
+    }});
+
+    input.addEventListener("keydown", event => {{
+      if (event.key === "Enter") {{
+        event.preventDefault();
+        button.click();
+      }}
+    }});
+
+    const initialQuery = getQuery();
+    input.value = initialQuery;
+    runSearch(initialQuery);
+  </script>
+</main>
+"""
+    return html_doc(f"Search Publications | {SITE_TITLE}", body)
+
+
+def render_index_page(records: list[dict]) -> str:
+    category_counts = defaultdict(int)
+    for meta in records:
+        category = meta.get("category", "uncategorized") or "uncategorized"
+        if category not in HIDDEN_CATEGORIES:
+            category_counts[category] += 1
+
+    cards = []
+    for category in CATEGORY_ORDER:
+        if category in HIDDEN_CATEGORIES:
+            continue
+        label = CATEGORY_LABELS.get(category, category.replace("-", " ").title())
+        count = category_counts.get(category, 0)
+        cards.append(f"<a class='card' href='/{h(category)}/'><h2>{h(label)}</h2><p>{count} publication{'s' if count != 1 else ''}</p></a>")
+    for category in sorted(category_counts.keys()):
+        if category in CATEGORY_ORDER or category in HIDDEN_CATEGORIES:
+            continue
+        label = CATEGORY_LABELS.get(category, category.replace("-", " ").title())
+        count = category_counts.get(category, 0)
+        cards.append(f"<a class='card' href='/{h(category)}/'><h2>{h(label)}</h2><p>{count} publication{'s' if count != 1 else ''}</p></a>")
+
+    latest_category_order = [
+        ("books", "A. Books"),
+        ("articles", "B. Articles"),
+        ("journal-articles", "C. Journal Articles"),
+        ("conference-papers", "D. Conference Papers"),
+        ("policy-briefs", "E. Policy Briefs"),
+        ("working-papers", "F. Working Papers"),
+        ("white-papers", "G. White Papers"),
+        ("policy-reports", "H. Policy Reports"),
+        ("research-reports", "I. Research Reports"),
+        ("index-methodology-papers", "J. Index Methodology Papers"),
+    ]
+    records_by_category = defaultdict(list)
+    for meta in records:
+        category = meta.get("category", "uncategorized") or "uncategorized"
+        if category not in HIDDEN_CATEGORIES:
+            records_by_category[category].append(meta)
+    latest_sections = []
+    for category, label in latest_category_order:
+        group = records_by_category.get(category, [])
+        if not group:
+            continue
+        group = sorted(group, key=lambda r: (r.get("publication_date", ""), r.get("epinova_id", ""), r.get("title", "")), reverse=True)
+        items = []
+        for meta in group[:5]:
+            epinova_id = meta.get("epinova_id", "")
+            title = full_display_title(meta)
+            publication_type = meta.get("publication_type", "")
+            publication_date = meta.get("publication_date", "")
+            id_html = f"<strong>{h(epinova_id)}</strong> — " if epinova_id else ""
+            detail = " · ".join(x for x in [publication_type, publication_date] if x)
+            detail_html = f" <span class='muted'>({h(detail)})</span>" if detail else ""
+            items.append(f"<li>{id_html}<a href='{h(record_href(meta))}'>{h(title)}</a>{detail_html}</li>")
+        latest_sections.append(f"<section class='latest-category-block'><h3>{h(label)}</h3><ul class='latest-list'>{''.join(items)}</ul></section>")
+
+    body = f"""
+<main class="container">
+  <h1>{h(SITE_TITLE)}</h1>
+  <p class="muted">Publication landing pages for {h(PUBLISHER_NAME)}.</p>
+  <div class="grid">{''.join(cards)}</div>
+  <section class="record-section"><h2>Latest records</h2>{''.join(latest_sections)}</section>
+</main>
+"""
+    return html_doc(SITE_TITLE, body)
+
+
+def render_category_page(category: str, records: list[dict]) -> str:
+    label = CATEGORY_LABELS.get(category, category.replace("-", " ").title())
+
+    if category == "working-papers":
+        subgrouped = defaultdict(lambda: defaultdict(list))
+        for meta in records:
+            subgroup_code, subgroup_label = working_paper_subcategory(meta)
+            subgrouped[(subgroup_code, subgroup_label)][publication_year(meta)].append(meta)
+        sections = []
+        for subgroup_code, subgroup_label in sorted(subgrouped.keys(), key=lambda x: x[0]):
+            year_groups = subgrouped[(subgroup_code, subgroup_label)]
+            year_sections = []
+            for year in sorted(year_groups.keys(), reverse=True):
+                group_records = sorted(year_groups[year], key=lambda r: (r.get("publication_date", ""), r.get("epinova_id", ""), r.get("title", "")), reverse=True)
+                items = []
+                for meta in group_records:
+                    title = full_display_title(meta)
+                    id_html = f"<strong>{h(meta.get('epinova_id', ''))}</strong> — " if meta.get("epinova_id") else ""
+                    items.append(f"<li>{id_html}<a href='{h(record_href(meta))}'>{h(title)}</a><br><span class='muted'>{h(meta.get('publication_type', ''))} · {h(meta.get('publication_date', ''))}</span></li>")
+                year_sections.append(f"<div class='year-block'><h3>{h(year)}</h3><ul class='category-list'>{''.join(items)}</ul></div>")
+            sections.append(f"<section class='subcategory-block'><h2>{h(subgroup_code)}. {h(subgroup_label)}</h2>{''.join(year_sections)}</section>")
+        body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(sections)}</main>"
+        return html_doc(f"{label} | {SITE_TITLE}", body)
+
+    if category in {"books", "book-chapters", "articles", "journal-articles", "conference-papers", "policy-briefs", "white-papers", "research-reports", "policy-reports", "index-methodology-papers"}:
+        records_by_year = defaultdict(list)
+        for meta in records:
+            records_by_year[publication_year(meta)].append(meta)
+        year_sections = []
+        for year in sorted(records_by_year.keys(), reverse=True):
+            group_records = sorted(records_by_year[year], key=lambda r: (r.get("publication_date", ""), r.get("epinova_id", ""), r.get("title", "")), reverse=True)
+            items = []
+            for meta in group_records:
+                title = full_display_title(meta)
+                id_html = f"<strong>{h(meta.get('epinova_id', ''))}</strong> — " if meta.get("epinova_id") else ""
+                original = meta.get("original_page") or meta.get("official_page") or ""
+                original_html = f" <span class='muted'>· <a href='{h(original)}'>Original</a></span>" if category == "articles" and original else ""
+                items.append(f"<li>{id_html}<a href='{h(record_href(meta))}'>{h(title)}</a>{original_html}<br><span class='muted'>{h(meta.get('publication_type', ''))} · {h(meta.get('publication_date', ''))}</span></li>")
+            year_sections.append(f"<div class='year-block'><h2>{h(year)}</h2><ul class='category-list'>{''.join(items)}</ul></div>")
+        body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p>{''.join(year_sections)}</main>"
+        return html_doc(f"{label} | {SITE_TITLE}", body)
+
+    items = []
+    for meta in records:
+        title = full_display_title(meta)
+        id_html = f"<strong>{h(meta.get('epinova_id', ''))}</strong> — " if meta.get("epinova_id") else ""
+        items.append(f"<li>{id_html}<a href='{h(record_href(meta))}'>{h(title)}</a><br><span class='muted'>{h(meta.get('publication_type', ''))} · {h(meta.get('publication_date', ''))}</span></li>")
+    body = f"<main class='container'><p><a href='/'>← EPINOVA Publications</a></p><h1>{h(label)}</h1><p class='muted'>{len(records)} publication{'s' if len(records) != 1 else ''}</p><ul class='category-list'>{''.join(items)}</ul></main>"
+    return html_doc(f"{label} | {SITE_TITLE}", body)
+
+
+def clean_output_dir() -> None:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def copy_assets() -> None:
+    asset_dir = OUTPUT_DIR / "assets"
+    asset_dir.mkdir(parents=True, exist_ok=True)
+    copied = False
+    for candidate in LOGO_CANDIDATES:
+        source = ROOT / candidate
+        if source.exists() and source.is_file():
+            shutil.copy2(source, OUTPUT_DIR / OUTPUT_LOGO_PATH)
+            copied = True
+            print(f"Copied logo: {source}")
+            break
+    if not copied:
+        print("Warning: no logo found. Expected one of:")
+        for candidate in LOGO_CANDIDATES:
+            print(f"  - {ROOT / candidate}")
+
+
+def write_page(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+
+
+def main() -> None:
+    print(f"Repository root: {ROOT}")
+    print(f"Output directory: {OUTPUT_DIR}")
+
+    publication_records = load_metadata_files()
+    article_records = load_article_archive_records()
+    records = publication_records + article_records
+
+    if not records:
+        print("No metadata records or archived Articles found.")
+        return
+
+    clean_output_dir()
+    copy_assets()
+
+    for meta in publication_records:
+        copy_record_files(meta)
+
+    copy_article_archive_files(article_records)
+
+    for meta in publication_records:
+        slug = meta["_slug"]
+        write_page(OUTPUT_DIR / slug / "index.html", render_record_page(meta))
+
+    write_page(OUTPUT_DIR / "index.html", render_index_page(records))
+    write_page(OUTPUT_DIR / "search" / "index.html", render_search_page(records))
+
+    category_groups = defaultdict(list)
+    for meta in records:
+        category = meta.get("category", "uncategorized") or "uncategorized"
+        category_groups[category].append(meta)
+
+    for category, group_records in category_groups.items():
+        if category in HIDDEN_CATEGORIES:
+            continue
+        write_page(OUTPUT_DIR / category / "index.html", render_category_page(category, group_records))
+
+    print(f"Generated {len(publication_records)} landing pages.")
+    print(f"Linked {len(article_records)} archived Articles directly to article.html.")
+    print(f"Site output: {OUTPUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()
