@@ -34,17 +34,17 @@
     "url": ""
   },
   "copyright": "© 2026 EPINOVA LLC. All rights reserved.",
-  "recommended_citation": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
-  "citation_apa": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17. EPINOVA LLC. https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
-  "original_page": "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
+  "recommended_citation": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17. EPINOVA LLC. https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
+  "citation_apa": "Wu, Shaoyuan. (2026). 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17. EPINOVA LLC. https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
+  "original_page": "https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
   "canonical_url": "",
   "source_status": "archived_from_godaddy_blog_with_images",
   "repository_folder": "Articles/2026-03-17_2026-us-and-allies-iran-conflict-cost-monitor-mccm-march-17",
-  "official_page": "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
+  "official_page": "https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
   "alternate_identifiers": [
     {
       "scheme": "URL",
-      "identifier": "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
+      "identifier": "https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17",
       "description": "Original EPINOVA article page."
     }
   ],
@@ -80,6 +80,12 @@
     },
     {
       "filename": "assets/image-003.jpg",
+      "original_url": "https://img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20(11)-51492ef.png/:/rs=w:1280",
+      "content_type": "image/jpeg",
+      "description": "Locally archived image from the original EPINOVA article."
+    },
+    {
+      "filename": "assets/image-004.jpg",
       "original_url": "https://img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20(10)-2179950.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
       "content_type": "image/jpeg",
       "description": "Locally archived image from the original EPINOVA article."

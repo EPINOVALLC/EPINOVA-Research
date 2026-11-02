@@ -1,0 +1,392 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-076",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-076",
+  "title": "If Strikes Resume",
+  "subtitle": "Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict",
+  "full_title": "If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict",
+  "title_normalized": "if strikes resume military readiness regeneration and strategic optionality in the us israel iran conflict",
+  "publication_date": "2026-11-02",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.076",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-076/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–76",
+      "scheme": "EPINOVA publication number",
+      "description": "Identifier printed on PDF cover"
+    },
+    {
+      "identifier": "If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "Source PDF filename"
+    }
+  ],
+  "description": "This policy brief examines the readiness, force regeneration, and strategic optionality of the United States, Israel, and Iran amid preparations for possible renewed strikes. It separates military preparation from political authorization and short-term tactical effects from sustainable strategic outcomes. Drawing on public evidence and conditional production–launch sensitivity tests, it compares offensive capabilities, missile-defense replenishment, Iran’s uncertain missile and drone production recovery, and cross-theater commitments. The brief considers three pathways—continued armed bargaining, limited strikes and retaliation, and sustained reciprocal attrition—alongside regional and maritime spillover, Gulf defenses, diplomacy, and energy-route alternatives. It argues that a tactically successful operation need not improve net strategic conversion or preserve future options; those judgments require evidence of durable effects, replenishment burdens, and genuinely available capacity.",
+  "short_description": "This policy brief assesses U.S., Israeli, and Iranian military readiness, force regeneration, and strategic optionality amid possible renewed strikes. It contrasts continued bargaining, limited exchanges, and sustained attrition, while examining air-defense replenishment, uncertain Iranian production, Gulf security, diplomacy, and energy routes. It argues that tactical gains do not necessarily translate into durable strategic benefits or preserved future options.",
+  "abstract": "This policy brief examines the military readiness, force regeneration, and strategic optionality of the United States, Israel, and Iran amid preparations for possible renewed conflict in November 2026. It distinguishes military preparations from political authorization and immediate strike capabilities from sustainable strategic outcomes. Drawing on publicly available reporting, defense assessments, and conditional sensitivity analysis, the study evaluates U.S. and Israeli offensive and defensive constraints, Iran’s uncertain missile and drone production recovery, and the implications of interceptor replenishment and regional commitments. It compares three prospective pathways: continued armed bargaining, limited renewed strikes and retaliation, and sustained reciprocal attrition, while considering potential regional and maritime spillover. The analysis further examines Gulf defense arrangements, diplomatic mediation, and alternative energy routes as factors shaping strategic options and costs. It argues that tactical success does not necessarily produce positive net strategic conversion or preserve future strategic optionality. Sustainable outcomes depend on verified operational effects, regeneration capacity, replenishment burdens, institutional commitments, and the ability to retain feasible responses to subsequent contingencies. The scenarios are conditional and do not constitute predictions of renewed strikes or their outcomes.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "military readiness",
+    "force regeneration",
+    "strategic optionality",
+    "strategic free capacity",
+    "net strategic conversion",
+    "commitment overhang",
+    "missile defense",
+    "PAC-3 MSE",
+    "Iran missile production",
+    "drone production",
+    "interceptor replenishment",
+    "cross-theater commitments",
+    "conditional sensitivity analysis",
+    "escalation dynamics",
+    "Gulf security",
+    "Strait of Hormuz",
+    "Iraq–Turkey Ceyhan oil corridor",
+    "diplomatic mediation",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Middle East security",
+    "Military readiness",
+    "Defense-industrial capacity",
+    "Force regeneration",
+    "Strategic resource allocation",
+    "War and peace",
+    "Military logistics",
+    "Energy security",
+    "Maritime security",
+    "Geopolitics",
+    "Policy analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-11-02",
+      "date_type": "Issued",
+      "description": "Publication date printed on PDF"
+    },
+    {
+      "date": "2026-11-02T07:47:00-05:00",
+      "date_type": "Evidence cutoff",
+      "description": "Data cutoff specified in report: November 2, 2026, 07:47 EST"
+    },
+    {
+      "date": "2026-11-02",
+      "date_type": "Metadata generated",
+      "description": "Local metadata prepared following author-reported Crossref registration confirmation"
+    }
+  ],
+  "license": {
+    "status": "not_specified_in_pdf",
+    "note": "The supplied PB-76 PDF does not specify a Creative Commons or other reuse license. Prior EPINOVA licenses are not automatically applied to this publication."
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 11
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-76",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "archive_status": "not_verified",
+    "notes": "Expected repository directory only; upload and public landing-page accessibility have not been verified. The landing-page generator resolves files[].filename adjacent to metadata.json."
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-076"
+  },
+  "methodology": {
+    "framework_name": "Strategic readiness, regeneration, net conversion, free capacity, and optionality assessment",
+    "research_design": "Comparative source-graded policy analysis of three actors, conditional thirty-day production–launch sensitivity tests, and three unranked forward scenarios; not a forecast, treatment-effect estimate, or prediction of strike authorization.",
+    "source_basis": "Publicly available official statements, defense assessments, reporting, and independent analysis through November 2, 2026, 07:47 EST.",
+    "theater_scope": [
+      "U.S.–Israel–Iran conflict",
+      "Gulf and Strait of Hormuz",
+      "Cross-theater air-defense obligations related to Ukraine"
+    ],
+    "primary_domains": [
+      "U.S. strike readiness and interceptor replenishment",
+      "Israeli defense and munitions production",
+      "Iranian missile and drone regeneration",
+      "Regional defense, diplomacy and energy rerouting",
+      "Strategic free capacity and future option sets"
+    ],
+    "evidence_cutoff": "2026-11-02T07:47:00-05:00",
+    "evidence_cutoff_timezone": "America/New_York",
+    "prospective_assessment_window": {
+      "start": "2026-11-04",
+      "end": "2026-12-31"
+    },
+    "core_test": "Distinguish planned action, authorized action, available usable stocks, regeneration, marginal strategic costs/benefits, and the future choices left feasible after commitments.",
+    "qualification": "Readiness does not demonstrate launch authorization; conditional manufacturing rates are not verified accepted output, inventories, or forecasts."
+  },
+  "ctcc_evidence_gates": [],
+  "propositions": [],
+  "case_evidence_stages": [],
+  "energy_buffer_measurements": [
+    {
+      "series": "Global oil inventories",
+      "observed_value": "Nearly 1 billion barrels reportedly drawn from global inventories since Hormuz disruption",
+      "caveat": "Attributed estimate from an ADNOC executive, not an independently audited stock series."
+    },
+    {
+      "series": "Iraq–Turkey Ceyhan corridor",
+      "observed_value": "Reported increase in crude exports from approximately 350,000 to 500,000 barrels per day",
+      "caveat": "Source-attributed, uncertain observation window and durability; this is corridor throughput rather than net additional global oil production."
+    }
+  ],
+  "scenario_matrix": {
+    "title": "Prospective Escalation States and Regional–Maritime Spillover",
+    "nature": "Three qualitative alternatives for November 4–December 31, 2026; no probability ranking or predicted victor. Regional and maritime spillover may accompany any pathway.",
+    "scenarios": [
+      {
+        "id": "A",
+        "name": "Armed bargaining without renewed large-scale strikes",
+        "assessment": "Preserves immediate stocks while bargaining continues; underlying military and maritime disputes remain."
+      },
+      {
+        "id": "B",
+        "name": "Short strikes and bounded retaliation",
+        "assessment": "Tactical damage may occur without durable reduction of adversary regeneration or establishment of a stable settlement."
+      },
+      {
+        "id": "C",
+        "name": "Multiweek reciprocal attrition",
+        "assessment": "Resupply lead times, base protection, launcher availability, maintenance, and force-protection burdens increase in importance."
+      }
+    ],
+    "independent_spillover_flag": "Regional and maritime escalation affecting shipping, energy infrastructure, and additional facilities is separately evaluated under any scenario."
+  },
+  "key_findings": [
+    "Preparations for possible renewed U.S.–Israeli operations do not establish political authorization or a scheduled November 4 strike.",
+    "U.S. and Israeli offensive capacity coexists with finite missile-defense replenishment and base-protection obligations.",
+    "Iran retains retaliatory capabilities, but visible solid-propellant damage and unknown dispersed production prevent confident estimates of present usable missile/drone inventories.",
+    "Conditional 100–300 missiles per month and CIR-attributed roughly 10,000 drones per month are not verified launch-ready output.",
+    "Thirty-day production–launch comparisons are sensitivity analyses, not predictions of endurance or a winner.",
+    "Potential foreign military sales, contracts, and industrial production plans do not establish missiles already delivered or removed from another theater.",
+    "Gulf defense acquisitions and alternative energy transit may change obligations and costs without instantly expanding available military stocks.",
+    "Diplomatic channels involving Qatar, China and Oman are separate; a circulating draft or reported meeting does not establish an agreement.",
+    "Net strategic conversion and the set of feasible future strategic options must be assessed separately.",
+    "A tactically favorable strike need not yield a durable net strategic benefit, and no quantified overstretch threshold is identified by the public evidence."
+  ],
+  "policy_recommendations": [
+    "For defense allocators, require a binding contract, revised production slot, physically released inventory or verifiable delivery before asserting same-variant cross-theater displacement.",
+    "For air-defense and industrial planners, revise readiness only after verified acceptance, resupply lead times, repair completion or launcher availability change relative to the baseline.",
+    "For Gulf and maritime authorities, assess normalization using repeated ship transits, cargo deliveries and insurance conditions rather than isolated price moves.",
+    "For diplomatic and humanitarian monitoring, distinguish implemented restraint from announcements and track civilian harm, displacement, aid access and energy-infrastructure restoration by event time."
+  ],
+  "decision_triggers": [
+    {
+      "question": "Has a new strike been politically authorized?",
+      "required_evidence": "Authenticated decision or implementation record, not transport movements or contingency planning alone."
+    },
+    {
+      "question": "Has additional Iranian missile or drone regeneration become operationally usable?",
+      "required_evidence": "Verified production acceptance, compatible model mix, delivered inventories and launcher availability."
+    },
+    {
+      "question": "Has a PAC-3 MSE commitment displaced another recipient or mission?",
+      "required_evidence": "Original and revised same-variant allocation schedules, accepted receipts and identifiable mission consequence."
+    },
+    {
+      "question": "Have defense stocks or base functions improved durably?",
+      "required_evidence": "Comparable resupply, repair and operational-readiness records over a matched time window."
+    },
+    {
+      "question": "Has shipping or energy trade normalized?",
+      "required_evidence": "Repeated verified maritime transits, product- and direction-specific cargo movements, and insurance conditions."
+    },
+    {
+      "question": "Has renewed fighting produced a net strategic result?",
+      "required_evidence": "Verified functional change, attributable cumulative benefits/costs, and separately evaluated future option set."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "References",
+      "identifier": "10.67037/epinova.wp.f.2026.013",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "The Limits of Strategic Reach: Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality (Wu, 2026), cited in this brief."
+    }
+  ],
+  "references": [
+    "Al-Samarraie, J. (2026, November 2). Iraqi oil exports via Turkey’s Ceyhan port surge to 500,000 BPD. https://www.iraqinews.com/iraq/iraq-crude-oil-exports-turkey-ceyhan-surge-500000-bpd-basra-integration-2026/",
+    "Associated Press. (2026, October 31). Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds. https://apnews.com/article/iran-war-us-base-damage-trump-26e0f05e01d6f56ff46f7c1a14384f7c",
+    "Bob, Y. J. (2026, August 13). Israeli officials stunned by Iran’s rapid military recovery after 2026 war—exclusive. The Jerusalem Post. https://www.jpost.com/israel-news/defense-news/article-905474",
+    "Cicurel, A., Tobin, Y., Brody, J., Havdala, S., & Gabber, R. (2026, April 7). Operations Epic Fury and Roaring Lion: 4/7/26 update. Jewish Institute for National Security of America. https://jinsa.org/wp-content/uploads/2026/04/Operations-Epic-Fury-and-Roaring-Lion-04-07-26.pdf",
+    "Congressional Research Service. (2026a, October 5). U.S. military operations against Iran: Munitions and missile defense (IN12668). https://www.everycrsreport.com/reports/IN12668.html",
+    "Congressional Research Service. (2026b, October 20). U.S. military operations against Iran’s missile and nuclear programs (IN12665). https://www.everycrsreport.com/files/2026-10-20_IN12665_78c0865a91e52bb5d2ec9e318c4650b9b822711a.html",
+    "Demir, S. (2026, October 12). Iran says reviewing US proposals for talks as indirect messages continue. Anadolu Agency. https://m.aa.com.tr/en/middle-east/iran-says-reviewing-us-proposals-for-talks-as-indirect-messages-continue/4085816",
+    "Doyle, G., Nardelli, A., & Wickham, A. (2026, October 9). Iran protects capacity to build missiles as Trump pauses strikes. Bloomberg. https://www.spokesman.com/stories/2026/oct/09/iran-protects-capacity-to-build-missiles-as-trump-/",
+    "El Deeb, S. (2026, November 1). United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran. Associated Press. https://apnews.com/article/470d52d5df78eeb6bf9b9fb15a37d0e6",
+    "Fabian, E. (2026, October 29). Over 10 US military transports landed at Israeli airbases over past week, analysts say. The Times of Israel. https://www.timesofisrael.com/liveblog_entry/over-10-us-military-transports-landed-at-israeli-airbases-over-past-week-analysts-say/",
+    "Hirtenstein, A., Mills, A., & Saul, J. (2026, March 4). Iran could disrupt the Strait of Hormuz with drones for months. Reuters. https://www.reuters.com/business/aerospace-defense/iran-could-disrupt-strait-hormuz-with-drones-months-2026-03-04/",
+    "Iran International. (2026, October 4). Iran’s army says it is working to extend missile range. https://www.iranintl.com/en/202610043703",
+    "Israel Ministry of Defense. (2026a, March 9). Israel MOD accelerates production of aerial munitions to support the ongoing campaign in Iran. https://mod.gov.il/en/press-releases/press-room/israel-mod-accelerates-production-of-aerial-munitions-to-support-the-ongoing-campaign-in-iran",
+    "Israel Ministry of Defense. (2026b, October 8). First Iron Dome Tamir interceptor fully produced in the U.S. delivered to Israel. https://www.mod.gov.il/en/press-releases/press-room/first-iron-dome-tamir-interceptor-fully-produced-in-the-us-delivered-to-israel",
+    "Johnson, M., Seddon, M., & Clover, C. (2026, September 2). Russia secretly helping Iran develop supersonic cruise missiles. Financial Times. https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3",
+    "Lair, S., Hosford, S., Duitsman, M., & Ford, J. (2026, October 14). Iranian missile production infrastructure after Epic Fury. Foreign Policy Research Institute. https://www.fpri.org/article/2026/10/iranian-missile-production-infrastructure-after-epic-fury/",
+    "Lieber, D. (2026, October 29). No clear winner in Israeli election as negotiations to follow in order to form government. CBS News. https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
+    "Miller, J., Rivers, M., & Faulders, K. (2026, October 22). U.S. and Israel drawing up plans to resume attacks on Iran post-election, sources say. ABC News. https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+    "Mills, A., Ghania, Y., & Alashray, E. (2026, October 31). Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms. Reuters. https://www.reuters.com/world/middle-east/iranian-envoys-meet-qatari-mediators-threat-looms-us-strikes-after-midterms-2026-10-31/",
+    "Ministry of Foreign Affairs of the People’s Republic of China. (2026a, November 2). Joint statement on deepening the China–Oman strategic partnership. https://www.fmprc.gov.cn/zyxw/202611/t20261102_12051564.shtml",
+    "Ministry of Foreign Affairs of the People’s Republic of China. (2026b, November 2). Wang Yi meets with Ali Bagheri, deputy secretary of Iran’s Supreme National Security Council. https://www.fmprc.gov.cn/web/wjdt_674879/gjldrhd_674881/202611/t20261102_12051622.shtml",
+    "Ravid, B. (2026, November 1). Trump has frank call with Netanyahu about next move in Iran war. Axios. https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+    "Reuters. (2026a, November 2). Iranians have left Doha talks, draft proposal for US deal being circulated, official says. https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/",
+    "Reuters. (2026b, November 2). World’s energy supply buffers have been eroded, ADNOC CEO says. https://www.reuters.com/business/energy/nearly-1-billion-oil-barrels-drained-global-inventories-since-hormuz-disruption-2026-11-02/",
+    "SBS News. (2026, October 25). U.S. aircraft carrier reloads bunker busters amid signs of potential re-strikes on Iran: WSJ. https://news.sbs.co.kr/english/article.do?news_id=N1008813877",
+    "Shafaq News. (2026, November 1). Iraq’s oil exports via Turkiye reach 500,000 bpd. https://www.shafaq.com/en/Economy/Iraq-s-oil-exports-via-Turkiye-reach-500-000-bpd",
+    "Sherlock, R., Estrin, D., & Al-Shalchi, H. (2026, October 22). U.S. and Israel are planning for a possible attack on Iran, source tells NPR. https://www.mainepublic.org/npr-news/2026-10-22/u-s-and-israel-are-planning-for-a-possible-attack-on-iran-source-tells-npr",
+    "Stone, M., Shalal, A., & Balmforth, T. (2026, October 30). U.S. approves $2.1 billion Patriot missile sale to Ukraine. Reuters. https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30/",
+    "The National. (2026, November 1). UAE does not want new round of conflict but is braced for worst, says Dr Gargash. https://www.thenationalnews.com/news/gulf/2026/11/01/uae-does-not-want-new-round-of-conflict-but-is-braced-for-worst-says-dr-gargash/",
+    "The War Zone. (2026, October 27). Where are the aircraft carriers? October 27, 2026. https://www.twz.com/sea/where-are-the-aircraft-carriers-october-27-2026",
+    "United Kingdom Maritime Trade Operations. (2026). Recent maritime security incidents and advisories. https://www.ukmto.org/recent-incidents",
+    "Wu, S. (2026, September 21). The limits of strategic reach: Commitment overhang, power conversion, and the erosion of strategic optionality (EPINOVA Working Paper No. EPINOVA–WP–F–2026–13). EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.013",
+    "Xinhua. (2026, September 23). IRGC says Iran has technological infrastructure to make missiles with far longer ranges. https://english.news.cn/20260923/a1b39a60bb7946c384f841980bc18f79/c.html"
+  ],
+  "recommended_citation": "Wu, S. (2026). If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict (Policy Brief No. EPINOVA–2026–PB–76). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.076",
+  "citation_apa": "Wu, S. (2026). If strikes resume: Military readiness, regeneration, and strategic optionality in the U.S.–Israel–Iran conflict (Policy Brief No. EPINOVA–2026–PB–76). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.076",
+  "short_citation": "Wu (2026), If Strikes Resume, EPINOVA–2026–PB–76.",
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Three-Actor Readiness, Regeneration Evidence, and Decision Gaps",
+      "pages": [
+        4
+      ],
+      "description": "Non-ranked comparison of currently usable or demonstrated capabilities, replenishment/recovery evidence, and decision/information gaps for the United States, Israel, and Iran."
+    },
+    {
+      "number": "Table 2",
+      "title": "Thirty-Day Iranian Production–Launch Sensitivity: Reference Capacity Versus Assumed Usable Output",
+      "pages": [
+        5
+      ],
+      "description": "Conditional 30-day missile/drone output versus assumed launch-rate balances; explicitly sensitivity tests, not verified inventories or forecasts."
+    }
+  ],
+  "appendices": [],
+  "measurement_rules": {
+    "preparedness_vs_authorization": "Contingency planning, transports and resupply are not authenticated strike orders.",
+    "stocks_vs_flows": "Keep production capacity, accepted output, procurement authorization, inventory, delivery and launch-ready status separate.",
+    "comparability": "Do not equate historical launch aggregates with current accepted production of the same model and operational function.",
+    "strategic_net_conversion": "Compare attributable benefits with replacement, force protection, escalation, and regional burden over an explicit horizon.",
+    "strategic_optionality": "Evaluate the feasible vector of future military/diplomatic choices separately from positive or negative net conversion.",
+    "maritime_and_energy": "Distinguish prices, inventory changes, physical shipments, export corridor throughput and attributable global supply increments.",
+    "scenario_status": "A, B and C are unranked conditional pathways; regional/maritime spillover is a separate flag."
+  },
+  "funding": {
+    "statement": "No external funding information is specified in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software deposit is specified in the PDF.",
+    "repository_url": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
+  "metadata_source": {
+    "source_file": "If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Embedded PDF metadata inspection; PDF text and page-layout review; reference transcription from 33 hanging-indent bibliography entries; EPINOVA PB-75 metadata schema adaptation.",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "notes": "Source PDF dated November 2, 2026; 11 PDF pages, 33 bibliography entries on pages 10–11, two numbered tables (pages 4–5), no numbered figures. Evidence cutoff is November 2, 2026, 07:47 EST; prospective scenario period Nov 4–Dec 31. Crossref registration reported confirmed by author email; separate reference deposit not confirmed. Version v1.0 denotes first metadata release (not explicitly printed as edition in source PDF). No Creative Commons license appears in source PDF."
+  },
+  "pdf_metadata": {
+    "title": "If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict",
+    "author": "Shaoyuan Wu",
+    "subject": "Policy Brief",
+    "keywords": "U.S.–Israel–Iran conflict;military readiness;force regeneration;strategic optionality;missile defense;cross-theater commitments;escalation dynamics;Strait of Hormuz",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261102110907-05'00'",
+    "modification_date": "D:20261102110907-05'00'",
+    "pages": 11,
+    "sha256": "73847bf4d0d029071379dae4ebebd1058da32a46de02498f6c5d4994807aeaac"
+  },
+  "crossref": {
+    "status": "registered_author_reported",
+    "doi": "10.67037/epinova.pb.2026.076",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-076/",
+    "crossref_doi_suffix": "epinova.pb.2026.076",
+    "record_type": "report",
+    "registration_status": "Registered (author reported confirmation email; independent deposit log not inspected)"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief"
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "registered_author_reported",
+    "confirmation_status": "confirmed_by_email_author_reported",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.076",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.076",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-076/",
+    "registration_date": null,
+    "registration_agency": "Crossref",
+    "reference_deposit_status": "not_confirmed",
+    "reference_count_in_pdf": 33
+  }
+}

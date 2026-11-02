@@ -30,7 +30,7 @@ MCCM is designed as a rolling monitoring instrument rather than a definitive acc
   
 
 
-![](assets/image-001.jpg)
+![](//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20\(4\)-079ad3c.png/:/rs=w:1280)
 
 **Note:**  
 Ranges reflect scenario-bounded estimates. Low = minimum confirmed observable losses. Mid = most probable range based on publicly available reporting and operational cost parameters. High = upper-bound scenario including reported but not independently verified high-value asset losses. Figures exclude Global Shock (systemic market spillovers). All values are incremental (24-hour estimate). 
@@ -38,7 +38,7 @@ Ranges reflect scenario-bounded estimates. Low = minimum confirmed observable lo
   
 
 
-![](assets/image-002.jpg)
+![](assets/image-001.jpg)
 
 **Note:**
 
@@ -47,7 +47,7 @@ Cumulative totals represent aggregated daily scenario ranges. High range include
   
 
 
-![](assets/image-003.jpg)
+![](assets/image-002.jpg)
 
 **Note:**
 

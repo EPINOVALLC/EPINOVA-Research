@@ -1,0 +1,315 @@
+# The Four-Volume GAID&CEF Series Is Now Available
+
+Original URL: https://epinova.org/f/the-four-volume-gaidcef-series-is-now-available
+
+Publication date: undated
+
+Archive note: This is a locally preserved Markdown copy of an EPINOVA article originally generated through the GoDaddy blog system.
+
+---
+
+# EPINOVA Research Signals
+
+* * *
+
+  * ![//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/blob-3d70a7e.png/:/rs=w:1300,h:800/fx-gs](assets/image-001.png)
+  * ![//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/%E5%9B%BE%E7%89%872.png/:/rs=w:1300,h:800/fx-gs](assets/image-002.jpg)
+  * ![//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/ChatGPT%20Image%202026%E5%B9%B49%E6%9C%8820%E6%97%A5%2012_02_26.png/:/rs=w:1300,h:800](assets/image-003.jpg)
+  * ![//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/ChatGPT%20Image%202026%E5%B9%B49%E6%9C%8817%E6%97%A5%2023_19_59-b314aa6.png/:/rs=w:1300,h:800](assets/image-004.jpg)
+  * ![//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/ChatGPT%20Image%202026%E5%B9%B49%E6%9C%8812%E6%97%A5%2019_45_53.png/:/rs=w:1300,h:800](assets/image-005.jpg)
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * ![//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/blob-3d70a7e.png/:/rs=w:1300,h:800/fx-gs](assets/image-001.png)
+  * ![//img1.wsimg.com/isteam/ip/d913c808-979b-43fc-ba09-a740a2452077/%E5%9B%BE%E7%89%872.png/:/rs=w:1300,h:800/fx-gs](assets/image-002.jpg)
+  * ![//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/ChatGPT%20Image%202026%E5%B9%B49%E6%9C%8820%E6%97%A5%2012_02_26.png/:/rs=w:1300,h:800](assets/image-003.jpg)
+  * ![//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/ChatGPT%20Image%202026%E5%B9%B49%E6%9C%8817%E6%97%A5%2023_19_59-b314aa6.png/:/rs=w:1300,h:800](assets/image-004.jpg)
+
+
+
+Figure 1. Strategic Reach, Net Conversion, and Strategic Optionality 
+
+  
+
+
+**Working Paper | EPINOVA–2026–WP–F–13**
+
+The Limits of Strategic Reach: 
+
+Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality
+
+  * ![image0](assets/image-006.jpg)
+  * ![image1](assets/image-007.jpg)
+  * ![image2](assets/image-008.jpg)
+  * ![image3](assets/image-009.jpg)
+  * ![image4](assets/image-010.jpg)
+  * ![image5](assets/image-011.jpg)
+  * ![image6](assets/image-012.jpg)
+  * ![image7](assets/image-013.jpg)
+  * ![image8](assets/image-014.jpg)
+  * ![image9](assets/image-015.jpg)
+  * ![image10](assets/image-016.jpg)
+  * ![image11](assets/image-017.jpg)
+  * ![image12](assets/image-018.jpg)
+  * ![image13](assets/image-019.jpg)
+  * ![image14](assets/image-020.jpg)
+  * ![image15](assets/image-021.jpg)
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
+
+
+## Research Updates
+
+* * *
+
+#### Research Report | EPINOVA–2026–RR–03
+
+**From Connections to Consequences:**
+
+**Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars**
+
+This research report develops Cross-Theater Conflict Coupling (CTCC) as an evidence-based framework for examining how the Russia–Ukraine and U.S.–Israel–Iran conflicts interact through shared military-industrial resources, technological adaptation, operational knowledge, energy systems, and policy-controlled access. Through five conditional propositions and six evidence gates (G1–G6), it analyzes PAC-3 MSE allocation, Shahed–Geran industrial conversion, Ukrainian counter-drone assistance to Gulf states, Russian diesel diplomacy, and international energy buffers. The report further examines asymmetric war termination and its implications for strategic capacity, resource reallocation, and continuing military obligations. It argues that cross-war connections do not automatically produce strategic gains; their consequences depend on verified transmission, recipient-side conversion, institutional constraints, temporal dynamics, and attributable outcomes.
+
+[Read More](<https://publications.epinova.org/epinova-rr-2026-003/>)
+
+#### Policy Brief | EPINOVA–2026–PB–75
+
+**The Reconfiguration of War Power:**
+
+**Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination**
+
+This policy brief examines the reconfiguration of strategic capacity across the Russia–Ukraine war and the U.S.–Israel–Iran conflict through the Cross-Theater Conflict Coupling (CTCC) framework. It distinguishes shared exposure from actual transmission, recipient-side conversion, functional consequences, and feedback, using comparative evidence from PAC-3 allocation, Shahed–Geran industrial adaptation, Ukrainian counter-drone expertise in Gulf states, Russian diesel trade, and strategic petroleum reserves. The brief further analyzes how different forms of war termination, including localized ceasefires, nationwide armistices, prolonged confrontation, and hypothetical territorial conquest, may reshape military commitments, industrial bottlenecks, deterrence requirements, and cross-theater resource availability. It argues that reduced fighting in one theater does not automatically generate transferable capacity or strategic gains elsewhere. Instead, the direction and magnitude of cross-theater effects depend on verified resource flows, operational conversion, continuing obligations, adjustment delays, and attributable outcomes.
+
+[Read More](<https://publications.epinova.org/epinova-pb-2026-075/>)
+
+#### Policy Brief | EPINOVA–2026–PB–74
+
+**South Korea’s AI Power Under Uneven Interdependence:**
+
+**Semiconductor Depth, National Conversion, and the KIC Model-Selection Case**
+
+This policy brief examines South Korea’s AI power under uneven technological interdependence, distinguishing specialized technological capacity from nationally usable power, relational boundary control, and operational autonomy. It analyzes Korea’s strengths in advanced semiconductor manufacturing, high-bandwidth memory, public compute, domestic AI models, and industrial applications while identifying persistent dependencies on externally controlled technological interfaces. The Korea Investment Corporation (KIC) serves as a diagnostic case of mixed-origin institutional AI adoption, involving Chinese-developed Qwen3 and BGE-M3 alongside U.S.-developed models. The brief argues that model adoption does not itself establish foreign control, durable dependence, or systemic influence. It concludes that South Korea’s long-term AI power depends on converting specialized resources into sustainable national capabilities, exercising effective control at consequential interfaces, and preserving credible functional alternatives under disruption.
+
+[Read More](<https://publications.epinova.org/epinova-pb-2026-074/>)
+
+#### Policy Brief | EPINOVA–2026–PB–73
+
+**ASEAN in the Emerging AI Power Order:**
+
+**Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy**
+
+****
+
+This policy brief examines ASEAN’s place in the emerging AI power order as a distributed regional coordination and overlap environment rather than a unified AI power. It distinguishes AI National Power at the member-state level, AI Boundary Power at specific controller–target–interface relations, Boundary Autonomy as the ability to preserve functions through credible alternatives, and Systemic Influence as a separate outcome requiring persistent, sufficiently broad, and credibly attributable effects. The brief compares the differentiated functional roles of ASEAN’s eleven members, analyzes aggregation, interoperability, option-set expansion, and mediation as regional mechanisms, and examines overlap among U.S., Chinese, domestic, Japanese, Korean, European, Indian, and Gulf-linked technological systems. It concludes that ASEAN’s strategic relevance lies in interoperable pluralism: preserving multiple workable connections, strengthening nationally controlled interfaces, and converting coordination and investment into operational interoperability, credible alternatives, and durable local capability. ASEAN in the Emerging AI Power …
+
+[Read More](<https://publications.epinova.org/epinova-pb-2026-073/>)
+
+#### Working Paper | EPINOVA–2026–WP–F–13
+
+**The Limits of Strategic Reach:**
+
+**Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality**
+
+This working paper develops a diagnostic framework for analyzing the limits of strategic reach through commitment overhang, strategic free capacity, and strategic optionality. It argues that great-power sustainability cannot be assessed through fiscal affordability or aggregate national power alone because strategic commitments draw on partially nonfungible resources and impose different temporal burdens. The paper distinguishes burn commitments that consume current capability from lock-in commitments that encumber future capacity, and integrates protection recursion, regeneration bottlenecks, portfolio interaction, competitive expansion feedback, control-induced diversification, and justificatory portability. The 2026 U.S.–Israel–Iran conflict illustrates high-burn depletion and restoration liabilities; Greenland illustrates prospective lock-in; and Canada–EU cooperation illustrates diversification intent. The paper concludes that strategic reach can continue to expand while discretionary capacity for future contingencies contracts, and that negative net conversion, declining free capacity, and loss of strategic optionality should be treated as distinct analytical outcomes.
+
+[Read More](<https://publications.epinova.org/epinova-wp-f-2026-013/>)
+
+#### Policy Brief | EPINOVA–2026–PB–72
+
+**Beyond Maritime Substitution:**
+
+**Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience**
+
+This policy brief examines Iran’s emerging overland supply architecture under sustained maritime constraint. It argues that Iran’s logistics adaptation is moving beyond discrete alternative corridors toward a functionally differentiated rail–road system linking Chinese gateways, Central Asian transit networks, Iranian border crossings, and domestic distribution. Rail and trucking are treated as complementary rather than interchangeable modes: rail supports scheduled, containerized, heavier-volume flows, while trucking adds flexibility for urgent, high-value, smaller-lot, and final-distribution cargo. The brief analyzes China–Central Asia rail data, Horgos and Alashankou gateway patterns, China–Iran block-train services, TIR and trucking evidence, APRIN Dry Port specifications, and reported Iranian border, fuel, and driver constraints. It concludes that the central issue is capacity conversion: overland resilience depends on how much nominal gateway and corridor access becomes reliable delivered supply inside Iran, not on route count alone.
+
+[Read More](<https://publications.epinova.org/epinova-pb-2026-071/>)
+
+#### Research Report | EPINOVA–2026–RR–02
+
+**The U.S.–Israel–Iran Conflict on Day 200**
+
+**Strategic Objectives, Systemic Costs, and the Rewiring of Networked War**
+
+  
+
+
+This research report provides a strategic and systemic assessment of the U.S.–Israel–Iran conflict on Day 200. It examines how the war evolved from direct military confrontation into a broader contest involving maritime access, logistics, energy, financial markets, infrastructure, technological adaptation, alliance relationships, and cross-theater connectivity. Rather than treating battlefield activity as the sole measure of conflict intensity, the report analyzes how military operations interact with the wider systems that sustain military capability, transmit disruption, and shape strategic pressure. It combines public-source reporting, author-compiled datasets, and MCCM v2.3.4 analytical coding, while distinguishing publicly confirmed evidence, reported or contested claims, and author-derived analytical estimates. The report concludes that by Day 200 the conflict is best understood as escalation without demonstrated systemic collapse: high systemic pressure persists across an interconnected conflict system, while key functions continue through adaptation, redundancy, and partial recovery. 
+
+[Read More](<https://publications.epinova.org/epinova-rr-2026-002/>)
+
+#### Conference Papers | EPINOVA-2026-CP-02
+
+**Beyond Buffer-State Logic:**
+
+**Node-Based Agency in the Caspian–Middle East Conflict Network**
+
+  
+
+
+This conference paper, presented at the 1st RCASBC International Conference 2026, hosted by the Hong Kong Research Center for Asian Studies–Bangladesh Center (RCASBC) and the Department of International Relations, University of Chittagong, develops node-based agency as a framework for explaining how middle and small states can convert control over strategic connections into bounded influence under networked conflict. Moving beyond traditional buffer-state logic, it distinguishes structural centrality from actual control, implementation, counterpart effects, bargaining returns, and resilience. Through comparative analysis of Caspian logistics, Gulf basing and airspace access, and Ukraine’s transfer of counter-drone expertise, the paper shows that strategic importance alone does not constitute agency; meaningful leverage requires verified control over a consequential interface and observable effects on another actor’s options or behavior. 
+
+[Read More](<https://publications.epinova.org/epinova-2026-cp-02/>)
+
+#### Books | The Four-Volume GAID&CEF Series Is Now Available
+
+**Global Artificial Intelligence Development and Competitiveness Assessment Framework (GAID &CEF) **
+
+  
+
+
+EPINOVA LLC is pleased to announce the publication of the complete four-volume _Global Artificial Intelligence Development and Competitiveness Assessment Framework (GAID &CEF)_ series.
+
+  
+
+
+The GAID&CEF project was developed as a systematic framework for examining artificial intelligence development and competitiveness across national and regional AI ecosystems. Rather than reducing AI capability to model performance, investment levels, or a small number of headline indicators, the Framework examines the broader combination of infrastructure, resources, algorithms, applications, governance, human capital, and emerging technologies that shape the development and long-term competitiveness of AI ecosystems.
+
+  
+
+
+The four-volume structure reflects this multidimensional approach. Each volume addresses a distinct part of the AI development system while contributing to an integrated analytical framework.
+
+[Read More](</books>)
+
+#### Policy Brief | EPINOVA–2026–PB–71
+
+**The Machine Audience of War:**
+
+**AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict**
+
+This policy brief examines AI-generated video in the U.S.–Israel–Iran conflict through the concepts of narrative occupancy, machine addressability, and machine audience. It argues that synthetic wartime media should not be assessed only by whether it persuades or deceives human audiences. As search systems, retrieval pipelines, large language models, and AI agents increasingly mediate digital information, synthetic content may remain discoverable and retrievable beyond its period of direct human attention. The brief analyzes three illustrative cases: Iranian state-linked synthetic mobilization, President Donald Trump’s Kharg Island post as synthetic battlefield representation, and Prime Minister Benjamin Netanyahu’s AI-generated campaign video as relational fabrication. It concludes that the central policy challenge is not only detecting synthetic media, but preserving distinctions among what occurred, what was claimed, what was depicted, and what was generated across machine-mediated information systems.
+
+[Read More](<https://publications.epinova.org/epinova-pb-2026-072/>)
+
+#### Working Paper | EPINOVA–2026–WP–F–12
+
+**The Decoupling of Geographic and Strategic Distance:**
+
+**Homeland Vulnerability, Effect Projection, and System Defense in Networked Warfare**
+
+  
+
+
+This working paper develops a framework for analyzing the partial decoupling of geographic distance from strategic distance in networked warfare. It argues that an actor may lack the capacity to deliver sustained conventional firepower against a distant homeland while retaining the ability to generate strategically consequential effects through interconnected military, logistical, industrial, digital, financial, energy, maritime, and informational systems. The paper introduces strategic distance, systemic connectivity, effect projection, the system homeland, and system defense as related concepts. Using Iran’s confrontation with the United States as an illustrative case, it shows how maritime uncertainty, cyber and informational pressure, threats to external operational nodes, and cumulative demands on logistics, inventories, alliances, markets, and political attention can generate homeland-relevant effects without direct territorial penetration. 
+
+[Read More](<https://publications.epinova.org/epinova-wp-f-2026-012/>)
+
+#### Research Report | EPINOVA–2026–RR–01
+
+**India’s AI Power in a Distributed and Uneven Technological Order:**
+
+**Boundary Control, Strategic Autonomy, and Cognitive Security**
+
+  
+
+
+This research report examines India’s emerging AI power through the interaction of usable national capacity, technological dependence, boundary control, strategic autonomy, and cognitive security. It argues that India’s position is best understood as a distributed and vertically uneven mixed-control system: strong software capacity, digital public infrastructure, multilingual public technology, a large technical workforce, expanding compute access, and globally distributed technical networks coexist with dependence on externally controlled upstream technologies. The report distinguishes access from mobilizable capability, territorial presence from control, boundary power from boundary autonomy, and systemic influence from narrower bilateral effects. It concludes that India’s long-term AI power will depend on conversion, substitutability, resilient public infrastructure, selective boundary control, and the ability to preserve agency without full technological autarky.
+
+[Read More](<https://publications.epinova.org/epinova-rr-2026-001/>)
+
+[All Posts](<https://epinova.org/?blog=y>)
+
+### The Four-Volume GAID&CEF Series Is Now Available
+
+September 10, 2026|AI & Society
+
+[![Global Artificial Intelligence Development and Competitiveness Assessment Framework GAID&CEF Series AI Development and Competitiveness Framework](assets/image-022.jpg)Global Artificial Intelligence Development and Competitiveness Assessment Framework (GAID&CEF)](<https://epinovapress.org/books>)
+
+EPINOVA LLC is pleased to announce the publication of the complete four-volume _Global Artificial Intelligence Development and Competitiveness Assessment Framework (GAID &CEF)_ series.
+
+The GAID&CEF project was developed as a systematic framework for examining artificial intelligence development and competitiveness across national and regional AI ecosystems. Rather than reducing AI capability to model performance, investment levels, or a small number of headline indicators, the Framework examines the broader combination of infrastructure, resources, algorithms, applications, governance, human capital, and emerging technologies that shape the development and long-term competitiveness of AI ecosystems.
+
+The four-volume structure reflects this multidimensional approach. Each volume addresses a distinct part of the AI development system while contributing to an integrated analytical framework.
+
+##   
+
+
+#### **Volume I —** _**AI Infrastructure and Foundational Capacity**_
+
+The first volume examines the foundational conditions required for sustained AI development.
+
+Its analysis covers compute power and hardware resources, data resources and AI model quality, system stability and security, AI developer ecosystems, and sustainable AI compute resources. These dimensions provide a basis for assessing whether an AI ecosystem possesses the physical, digital, organizational, and resource foundations necessary to support AI development at scale.
+
+The volume therefore moves beyond headline measures of model performance to examine the underlying capacity that makes AI development possible, resilient, scalable, and sustainable.
+
+**Amazon:**  
+<https://www.amazon.com/dp/B0HHYBYD4J>
+
+##   
+
+
+#### **Volume II —** _**Algorithms, Applications, and Competitiveness**_
+
+The second volume moves from foundational capacity to the development, deployment, and conversion of AI capabilities.
+
+It examines algorithms and platforms, research and development, technological autonomy, AI applications, industrial deployment, and broader competitiveness. Particular attention is given to how technological capabilities are translated into economic contribution, industrial resilience, productivity, labor-market effects, and international competitiveness.
+
+This distinction is important because advanced infrastructure or technical capability does not automatically produce effective applications or sustained competitive advantage.
+
+**Amazon:**  
+<https://www.amazon.com/dp/B0HHYQXC34>
+
+##   
+
+
+#### Volume III — _Governance, Risk, and Human Capital_
+
+The third volume focuses on the institutional and human dimensions of AI development.
+
+It addresses AI governance, regulatory capacity, transparency and accountability, safety and systemic risk, education and research capacity, advanced skills, talent mobility, and workforce transformation.
+
+These dimensions are increasingly central to the sustainability of AI ecosystems. Long-term AI development depends not only on technological innovation, but also on the ability of institutions, organizations, and workforces to govern, absorb, manage, and adapt to rapid technological change.
+
+**Amazon:**  
+<https://www.amazon.com/dp/B0HHYJCHG4>
+
+##   
+
+
+#### Volume IV — _Frontier Indicators and Future Outlook_
+
+The fourth volume extends the Framework toward emerging technologies and longer-term AI readiness.
+
+It examines frontier models, green AI, AI–quantum integration, embodied intelligence, neuromorphic computing, AI-enabled scientific discovery, and other emerging forms of technological convergence.
+
+The volume also considers the infrastructure, institutional readiness, cross-domain integration, and adaptive capacity required to respond to future technological shifts. Its concluding _Future Outlook_ examines how technological change, governance evolution, institutional adaptation, and strategic uncertainty may reshape future patterns of AI development and competitiveness.
+
+**Amazon:**  
+<https://www.amazon.com/dp/B0HHYQF217>
+
+##   
+
+
+#### A Four-Volume Framework for AI Development and Competitiveness
+
+Taken together, the four volumes provide an integrated view of AI development from foundational capacity through technological deployment, governance, human capital, and frontier readiness.
+
+The Framework is designed to support structured comparison across countries and regions while recognizing that AI ecosystems are inherently multidimensional. Infrastructure, algorithms, applications, institutions, talent, governance, and emerging technologies interact with one another rather than developing independently.
+
+The objective of GAID&CEF is therefore broader than producing a single ranking. It provides a structured analytical basis for identifying strengths, constraints, dependencies, development pathways, and longer-term changes within AI ecosystems.
+
+The completion of the four-volume series marks the publication of the full GAID&CEF analytical framework and establishes a foundation for its continued application, refinement, and extension in future research.
+
+##   
+
+
+#### Explore the Complete Series
+
+The complete four-volume _Global Artificial Intelligence Development and Competitiveness Assessment Framework_ series is now available on Amazon:
+
+<https://www.amazon.com/dp/B0HHYH4ZG8>
+
+Developed by **EPINOVA LLC**.  
+Published by **EPINOVA Press**.
+
+Share this post:
+
+[Back to top](</>)
+
+Copyright © 2025–2026 EPINOVA LLC
+
+Email: [contactus@epinova.org](<mailto:contactus@epinova.org>) Phone: +1 678-667-8001
+
+All Rights Reserved.
+
+  * [Home](</>)
+  * [Publications](</publications>)
+  * [About Us](</about-us>)
+  * [Contact US](</contact-us>)
+  * [Privacy Policy](</privacy-policy>)

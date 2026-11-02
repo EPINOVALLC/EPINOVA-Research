@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-076** (2026-11-02)  
+  **If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.076](https://doi.org/10.67037/epinova.pb.2026.076)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-76/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-76)  
+  Source PDF: [`If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-76/If%20Strikes%20Resume%20Military%20Readiness%2C%20Regeneration%2C%20and%20Strategic%20Optionality%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
+
 - **EPINOVA-PB-2026-075** (2026-10-23)  
   **The Reconfiguration of War Power: Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.072](https://doi.org/10.67037/epinova.pb.2026.072)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-72/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72)  
   Source PDF: [`Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72/Beyond%20Maritime%20Substitution%20Rail%2C%20Trucking%2C%20and%20the%20Emerging%20Architecture%20of%20Iran%E2%80%99s%20Overland%20Supply%20Resilience.pdf)
-
-- **EPINOVA-PB-2026-071** (2026-09-07)  
-  **The Machine Audience of War: AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.071](https://doi.org/10.67037/epinova.pb.2026.071)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-71/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71)  
-  Source PDF: [`The Machine Audience of War AI-Generated Video, Narrative Occupancy, and Machine-Mediated Information Competition in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-71/The%20Machine%20Audience%20of%20War%20AI-Generated%20Video%2C%20Narrative%20Occupancy%2C%20and%20Machine-Mediated%20Information%20Competition%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
 
 ---
 

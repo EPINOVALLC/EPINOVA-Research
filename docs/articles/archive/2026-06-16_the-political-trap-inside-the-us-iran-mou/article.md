@@ -14,7 +14,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 June 16, 2026|Global AI Governance & Policy
 
-![](//img1.wsimg.com/isteam/stock/40013/:/rs=w:1280)
+![](assets/image-001.jpg)
 
 #### **Asymmetric Responsibility, Implementation Risks, and the U.S.–Israel–Iran Bargaining Game**
 

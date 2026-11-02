@@ -1,6 +1,6 @@
 # 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17
 
-Original URL: https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17
+Original URL: https://epinova.org/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-17
 
 Publication date: 2026-03-17
 
@@ -8,7 +8,7 @@ Archive note: This is a locally preserved Markdown copy of an EPINOVA article or
 
 ---
 
-[All Posts](<https://epinova.org/articles?blog=y>)
+[All Posts](<https://epinova.org/?blog=y>)
 
 ### 2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17
 
@@ -42,9 +42,9 @@ MCCM is designed as a **rolling monitoring instrument rather than a definitive a
 
 ![](assets/image-002.jpg)
 
-![](//img1.wsimg.com/isteam/ip/72794385-c268-4646-803e-f2c2f2ffba70/%E4%B8%8B%E8%BD%BD%20\(11\)-51492ef.png/:/rs=w:1280)
-
 ![](assets/image-003.jpg)
+
+![](assets/image-004.jpg)
 
   
 

@@ -1,8 +1,123 @@
-Research Report/2026/EPINOVA–2026–RR-03/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
-Research Report/2026/EPINOVA–2026–RR-03/metadata.json
-docs/epinova-rr-2026-003/index.html
-docs/files/epinova-rr-2026-003/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
-tools/old/generate_landing_pages (2).py
+Articles/2026-06-16_the-political-trap-inside-the-us-iran-mou/assets/image-001.jpg
+Articles/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.html
+Articles/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.md
+Articles/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.txt
+Articles/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/assets/image-001.jpg
+Articles/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/metadata.json
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.html
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.md
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.txt
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-001.png
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-002.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-003.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-004.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-005.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-006.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-007.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-008.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-009.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-010.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-011.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-012.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-013.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-014.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-015.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-016.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-017.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-018.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-019.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-020.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-021.jpg
+Articles/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/metadata.json
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/article.html
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/article.md
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/article.txt
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-001.png
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-002.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-003.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-004.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-005.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-006.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-007.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-008.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-009.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-010.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-011.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-012.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-013.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-014.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-015.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-016.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-017.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-018.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-019.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-020.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-021.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-022.jpg
+Articles/undated_the-four-volume-gaidcef-series-is-now-available/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-76/If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-76/metadata.json
+docs/articles/archive/2026-06-16_the-political-trap-inside-the-us-iran-mou/assets/image-001.jpg
+docs/articles/archive/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.html
+docs/articles/archive/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.md
+docs/articles/archive/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/article.txt
+docs/articles/archive/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/assets/image-001.jpg
+docs/articles/archive/2026-11-01_beyond-the-adviser-role-knowledge-power-and-autonomous-agency-in-international-r/metadata.json
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.html
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.md
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/article.txt
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-001.png
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-002.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-003.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-004.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-005.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-006.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-007.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-008.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-009.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-010.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-011.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-012.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-013.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-014.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-015.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-016.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-017.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-018.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-019.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-020.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/assets/image-021.jpg
+docs/articles/archive/undated_measuring-ai-beyond-models-the-gaidcef-four-volume-framework/metadata.json
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/article.html
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/article.md
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/article.txt
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-001.png
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-002.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-003.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-004.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-005.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-006.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-007.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-008.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-009.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-010.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-011.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-012.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-013.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-014.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-015.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-016.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-017.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-018.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-019.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-020.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-021.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-022.jpg
+docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/metadata.json
+docs/epinova-pb-2026-076/index.html
+docs/files/epinova-pb-2026-076/If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf
+tools/import_epinova_articles_fixed.py
+tools/old/import_epinova_articles.py
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -780,6 +895,8 @@ Research Report/2026/EPINOVA–2026–RR-01/India’s AI Power in a Distributed 
 Research Report/2026/EPINOVA–2026–RR-01/metadata.json
 Research Report/2026/EPINOVA–2026–RR-02/The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf
 Research Report/2026/EPINOVA–2026–RR-02/metadata.json
+Research Report/2026/EPINOVA–2026–RR-03/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
+Research Report/2026/EPINOVA–2026–RR-03/metadata.json
 White Paper/2026/IWB-2026-01/AI-Strategic Node Framework (AI-SNF) Conceptual and Methodological White Book.pdf
 White Paper/2026/IWB-2026-01/metadata.json
 Working Paper/A/2026/EPINOVA–WP–A–2026–01/Greenland as a Structural AI Strategic Node（EPINOVA–WP–A–2026–01）.pdf
@@ -1527,6 +1644,7 @@ docs/epinova-rr-2025-001/index.html
 docs/epinova-rr-2025-01/index.html
 docs/epinova-rr-2026-001/index.html
 docs/epinova-rr-2026-002/index.html
+docs/epinova-rr-2026-003/index.html
 docs/epinova-wp-2025-001/index.html
 docs/epinova-wp-2025-01/index.html
 docs/epinova-wp-a-2026-001/index.html
@@ -1680,6 +1798,7 @@ docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits 
 docs/files/epinova-rr-2025-01/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
 docs/files/epinova-rr-2026-001/India’s AI Power in a Distributed and Uneven Technological Order Boundary Control, Strategic Autonomy, and Cognitive Security.pdf
 docs/files/epinova-rr-2026-002/The U.S.–Israel–Iran Conflict on Day 200 Strategic Objectives, Systemic Costs, and the Rewiring of Networked War.pdf
+docs/files/epinova-rr-2026-003/From Connections to Consequences Cross-Theater Conflict Coupling and Strategic Capacity in Interconnected Wars.pdf
 docs/files/epinova-wp-2025-001/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-2025-01/Gray-Zone Maritime Rights-Protection Strategy.pdf
 docs/files/epinova-wp-a-2026-002/Beyond Theater Effects Perception-Driven Escalation and Loss-of-Control Thresholds in AI-Mediated Conflict.pdf
@@ -1744,6 +1863,7 @@ tools/fix_all_mojibake.py
 tools/generate_landing_pages.py
 tools/import_epinova_articles.py
 tools/normalize_non_pb_metadata_ids.py
+tools/old/generate_landing_pages (2).py
 tools/old/generate_landing_pages.py
 tools/old/update_metadata_links.py
 tools/update_metadata.py

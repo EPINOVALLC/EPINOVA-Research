@@ -1,0 +1,1366 @@
+import re
+import json
+import time
+import mimetypes
+import argparse
+import os
+import requests
+import html2text
+import xml.etree.ElementTree as ET
+from datetime import datetime
+from pathlib import Path
+from urllib.parse import urljoin, urlparse, unquote
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
+
+TOOLS_DIR = Path(__file__).resolve().parent
+ROOT = TOOLS_DIR.parent
+OUTPUT_DIR = Path(os.environ.get("EPINOVA_ARTICLES_DIR", str(ROOT / "Articles")))
+
+PUBLISHER = "Global AI Governance and Policy Research Center, EPINOVA LLC"
+MIN_EXPECTED_ARTICLES = 40
+
+# -----------------------------------------------------------------------------
+# Sitemap auto-discovery
+# -----------------------------------------------------------------------------
+# Keep this True to automatically discover newly published GoDaddy blog articles.
+# The static ARTICLE_CATALOG below remains as a curated correction layer for
+# older pages, short slugs, and pages whose title/date metadata are unstable.
+AUTO_DISCOVER_FROM_SITEMAP = True
+AUTO_DISCOVER_FROM_ARTICLE_LISTING = True
+ARTICLE_LISTING_URLS = ["https://epinova.org/articles"]
+
+# WordPress-specific sitemap_index.xml/post-sitemap.xml/page-sitemap.xml
+# are not reliable paths for the GoDaddy Websites + Marketing site.
+SITEMAP_SEED_URLS = ["https://epinova.org/sitemap.xml"]
+
+# Only discover article/blog pages. This prevents contact/about/publication index
+# pages from being treated as article records.
+SITEMAP_ARTICLE_PATH_PREFIXES = (
+    "/f/",                  # Confirmed by epinova.org/f/beyond-the-adviser-role
+    "/articles/f/",         # Legacy article links
+    "/publications/f/",     # Legacy publication links
+)
+
+MAX_SITEMAP_DISCOVERED_ARTICLES = 300
+
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 EPINOVA Article Archiver"
+}
+
+CREATOR = {
+    "name": "Shaoyuan Wu",
+    "affiliation": PUBLISHER,
+    "orcid": "https://orcid.org/0009-0008-0660-8232"
+}
+
+ARTICLE_CATALOG = [
+    # 2026-11-01: exact public URL supplied by the author, checked at import time.
+    ("2026-11-01", "Beyond the Adviser Role: Knowledge, Power, and Autonomous Agency in International Relations"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-16", "The Political Trap Inside the U.S.–Iran MOU"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-15", "Israel’s Dilemma: From Battlefield Center to Settlement Outsider"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-13", "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East"),
+    # Latest manually confirmed article. Sitemap auto-discovery should also find it.
+    ("2026-06-05", "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy"),
+    ("2026-05-26", "The Ceasefire at Sea Is Fraying"),
+    ("2026-05-20", "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal"),
+    ("2026-04-21", "MCCM v2.3+: Escalation and the Loss-of-Control Threshold"),
+    ("2026-04-12", "2026 MCCM 2.0+(23 Variables Ver.): April 12"),
+    ("2026-04-11", "The Quiet Surge: How AI Procurement Is Reshaping the Logic of War"),
+    ("2026-04-11", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 11"),
+    ("2026-04-10", "SHI and Caspian Port Dynamics in Iran: April 9–10, 2026"),
+    ("2026-04-10", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 10"),
+    ("2026-04-09", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 9"),
+    ("2026-04-08", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 8"),
+    ("2026-04-07", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 7"),
+    ("2026-04-06", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 6"),
+    ("2026-04-05", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 5"),
+    ("2026-04-04", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 4"),
+    ("2026-04-03", "MCCM Daily War Cost Dynamics (K-Line): Feb 28–Apr 3, 2026"),
+    ("2026-04-03", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 3"),
+    ("2026-04-02", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 2"),
+    ("2026-04-01", "MCCM Daily Direct War Cost by Actor: Feb 28 – Apr 1, 2026"),
+    ("2026-04-01", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): April 1"),
+    ("2026-03-31", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 31"),
+    ("2026-03-31", "The Strategic Misalignment of U.S. Power"),
+    ("2026-03-30", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 30"),
+    ("2026-03-29", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 29"),
+    ("2026-03-28", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 28"),
+    ("2026-03-27", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 27"),
+    ("2026-03-26", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 26"),
+    ("2026-03-25", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 25"),
+    ("2026-03-25", "Diverging Thresholds: The Emerging Strategic Split Between the United States and Israel in the Iran Conflict"),
+    ("2026-03-24", "From Overmatch Deterrence to Cost Imposition: Structural Shifts in the U.S.–Iran Conflict"),
+    ("2026-03-24", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 24"),
+    ("2026-03-23", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 23"),
+    ("2026-03-22", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 22"),
+    ("2026-03-21", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 21"),
+    ("2026-03-20", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 20"),
+    ("2026-03-19", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 19"),
+    ("2026-03-19", "War as Training Data: Ukraine and the Future of Datafied Conflict"),
+    ("2026-03-18", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 18"),
+    ("2026-03-17", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 17"),
+    ("2026-03-16", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 16"),
+    ("2026-03-15", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 15"),
+    ("2026-03-14", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 14"),
+    ("2026-03-13", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 13"),
+    ("2026-03-12", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 12"),
+    ("2026-03-11", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 11"),
+    ("2026-03-10", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 10"),
+    ("2026-03-09", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 9"),
+    ("2026-03-08", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 8"),
+    ("2026-03-07", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 7"),
+    ("2026-03-06", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 6"),
+    ("2026-03-05", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 5"),
+    ("2026-03-04", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 4"),
+    ("2026-03-03", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 3"),
+    ("2026-03-02", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 2"),
+    ("2026-03-01", "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 1"),
+    ("2026-02-28", "2026 Middle East Conflict Cost Monitor (MCCM)"),
+    ("2026-02-27", "Beyond Rankings: What Really Defines AI National Power?"),
+    ("2026-02-09", "Why the South?"),
+    ("2026-02-02", "When AI Infrastructure Is Optional but Governance Lock-In Is Not"),
+    ("2026-01-15", "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power"),
+    ("2026-01-15", "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic"),
+    ("2025-12-29", "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability"),
+    ("2025-12-26", "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy for AI Development"),
+    ("2025-12-23", "A Fiber-Aware MVA Framework for Counter-UAS Assessment"),
+    ("2025-12-20", "Survivor Governance: Authority Concentration under AI-Driven State Contraction"),
+    ("2025-12-16", "From Space Infrastructure to AI State Capacity: South Korea’s National AI Trajectory Analysis Through KASA’s 2026 Strategy"),
+    ("2025-12-12", "Strategic Discontinuity in AI-Enabled Warfare: Machine-Led vs Human-Led OODA"),
+    ("2025-12-04", "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective"),
+    ("2025-11-20", "Rethinking the Human–AI Division of Labor: From Irreplaceable Work to Meta-Functional Governance and Coevolution"),
+    ("2025-11-15", "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework"),
+    ("2025-10-20", "Geopolitical Consequences of Cloud Outages: The Systemic Risks of AWS Architecture, National Security, and Digital Sovereignty"),
+    ("2025-10-13", "Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal"),
+    ("2025-05-10", "An Analysis of the 2025 India-Pakistan Conflict: From Regional Flashpoint to Global Faultline"),
+    ("2025-05-05", "Epistemic Humility in AGI: Toward Ethical & Adaptive Intelligence"),
+    ("2025-05-03", "Pinocchio or Frankenstein: AGI Frameworks Review and Forward"),
+    ("2025-04-08", "AI: From Information Cocoon to Cognitive Cocoon?"),
+    ("2025-02-13", "How AI and Corporate Principles Are Reshaping Government?"),
+]
+
+MANUAL_URL_OVERRIDES = {
+    "Beyond the Adviser Role: Knowledge, Power, and Autonomous Agency in International Relations":
+        "https://epinova.org/f/beyond-the-adviser-role",
+    # Latest manually confirmed article.
+    "The Political Trap Inside the U.S.–Iran MOU":
+        "https://epinova.org/articles/f/the-political-trap-inside-the-us%E2%80%93iran-mou",
+
+    # Latest manually confirmed article.
+    "Israel’s Dilemma: From Battlefield Center to Settlement Outsider":
+        "https://epinova.org/articles/f/israel%E2%80%99s-dilemma-from-battlefield-center-to-settlement-outsider",
+
+    # Latest manually confirmed article.
+    "Will the War Really End? The U.S.–Iran MOU, Israel’s Shadow Role, and the Next Struggle for the Middle East":
+        "https://epinova.org/articles/f/will-the-war-really-end",
+
+    # Latest manually confirmed article.
+        "Canada’s “AI for All” Strategy: From Research Strength to Sovereign AI Industrial Policy":
+        "https://epinova.org/articles/f/canada%E2%80%99s-%E2%80%9Cai-for-all%E2%80%9D-strategy",
+    "The Ceasefire at Sea Is Fraying":
+        "https://epinova.org/articles/f/the-ceasefire-at-sea-is-fraying",
+
+    "Caspian Fast-Cycle Turnover: A May 15 Port-Rhythm Signal":
+        "https://epinova.org/articles/f/caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal",
+    "Caspian Fast-Cycle Turnover: A May 15 Port Rhythm Signal":
+        "https://epinova.org/articles/f/caspian-fast-cycle-turnover-a-may-15-port-rhythm-signal",
+
+    # Short / encoded GoDaddy URLs that should bypass slug reconstruction.
+    "MCCM Daily Direct War Cost by Actor: Feb 28 – Apr 1, 2026":
+        "https://epinova.org/articles/f/mccm-daily-direct-war-cost-by-actor-feb-28-%E2%80%93-apr-1-2026",
+    "MCCM Daily Direct War Cost by Actor: Feb 28 - Apr 1, 2026":
+        "https://epinova.org/articles/f/mccm-daily-direct-war-cost-by-actor-feb-28-%E2%80%93-apr-1-2026",
+
+    "Diverging Thresholds: The Emerging Strategic Split Between the United States and Israel in the Iran Conflict":
+        "https://epinova.org/articles/f/diverging-thresholds",
+
+    "From Overmatch Deterrence to Cost Imposition: Structural Shifts in the U.S.–Iran Conflict":
+        "https://epinova.org/articles/f/from-overmatch-deterrence-to-cost-imposition",
+    "From Overmatch Deterrence to Cost Imposition: Structural Shifts in the U.S.-Iran Conflict":
+        "https://epinova.org/articles/f/from-overmatch-deterrence-to-cost-imposition",
+
+    # The live page URL uses March 15-1 although the catalog title is March 16.
+    "2026 U.S. & Allies–Iran Conflict Cost Monitor (MCCM): March 16":
+        "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-15-1",
+    "2026 U.S. & Allies-Iran Conflict Cost Monitor (MCCM): March 16":
+        "https://epinova.org/articles/f/2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-march-15-1",
+
+    "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework":
+        "https://epinova.org/articles/f/single-few-human%E2%80%93ai-firms-and-single-few-human%E2%80%93ai%E2%80%93robot-firms",
+    "Single-/Few-Human-AI Firms and Single-/Few-Human-AI-Robot Firms: New Archetypes under the MMC Framework":
+        "https://epinova.org/articles/f/single-few-human%E2%80%93ai-firms-and-single-few-human%E2%80%93ai%E2%80%93robot-firms",
+
+    # This is not the Single/Few-Human page; keep it as its own short-slug override.
+    "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power":
+        "https://epinova.org/articles/f/greenland-as-a-structural-ai-strategic-node",
+}
+
+
+def normalize_text_for_match(text: str) -> str:
+    text = (text or "")
+    text = text.replace("&amp;", "&")
+    text = text.replace("–", "-").replace("—", "-").replace("−", "-")
+    text = text.replace("’", "'").replace("‘", "'")
+    text = text.replace("“", '"').replace("”", '"')
+    text = re.sub(r"\s+", " ", text)
+    return text.strip().lower()
+
+
+def get_manual_url_override(title: str) -> str | None:
+    clean_title = " ".join((title or "").split())
+    if clean_title in MANUAL_URL_OVERRIDES:
+        return MANUAL_URL_OVERRIDES[clean_title]
+
+    clean_key = normalize_text_for_match(clean_title)
+    for key, url in MANUAL_URL_OVERRIDES.items():
+        if normalize_text_for_match(key) == clean_key:
+            return url
+    return None
+
+
+def manual_url_warning(title: str, url: str) -> str:
+    title_norm = normalize_text_for_match(title)
+    url_norm = normalize_text_for_match(url)
+    if "greenland" in title_norm and "single-few-human" in url_norm:
+        return "WARNING: title is Greenland, but URL appears to be Single-/Few-Human-AI. Check catalog mapping."
+    if "single" in title_norm and "greenland" in url_norm:
+        return "WARNING: title is Single-/Few-Human-AI, but URL appears to be Greenland. Check catalog mapping."
+    return ""
+
+
+def normalize_slug(text: str) -> str:
+    text = (text or "").strip().lower()
+    text = text.replace("–", "-").replace("—", "-")
+    text = text.replace("&", "and")
+    text = text.replace("+", "plus")
+    text = text.replace("?", "")
+    text = text.replace(":", "")
+    text = text.replace("(", "").replace(")", "")
+    text = text.replace(".", "")
+    text = text.replace(",", "")
+    text = text.replace("/", "-").replace("\\", "-")
+    text = text.replace(" ", "-")
+    text = re.sub(r"[^a-z0-9\-]+", "", text)
+    text = re.sub(r"-+", "-", text)
+    return text.strip("-") or "untitled"
+
+
+def normalize_url(url: str) -> str:
+    url = (url or "").strip()
+    url = url.replace("\\/", "/")
+    url = url.replace("&amp;", "&")
+    url = url.split("#")[0]
+    url = url.split("?")[0]
+    return url.rstrip(".").rstrip("/")
+
+
+def xml_local_name(tag: str) -> str:
+    """Return local XML tag name without namespace."""
+    return tag.split("}", 1)[-1] if "}" in tag else tag
+
+
+def fetch_sitemap_xml(url: str) -> str:
+    r = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
+    r.raise_for_status()
+    # A normal HTML page, including a branded error page, is not an XML sitemap.
+    if not r.text.lstrip().startswith(("<?xml", "<urlset", "<sitemapindex")):
+        raise ValueError("Response is not a sitemap XML document")
+    return r.text
+
+
+def sitemap_seeds_from_robots() -> list[str]:
+    """Follow any Sitemap: entries published by the site's own robots.txt."""
+    try:
+        r = requests.get("https://epinova.org/robots.txt", headers=REQUEST_HEADERS, timeout=20)
+        if r.status_code == 404:
+            return []
+        r.raise_for_status()
+        seeds = []
+        for line in r.text.splitlines():
+            if line.lower().lstrip().startswith("sitemap:"):
+                url = line.split(":", 1)[1].strip()
+                if url.startswith("https://") and urlparse(url).netloc.lower() in {"epinova.org", "www.epinova.org"}:
+                    seeds.append(normalize_url(url))
+        return list(dict.fromkeys(seeds))
+    except requests.RequestException as e:
+        print(f"Info: robots.txt sitemap discovery unavailable: {e}")
+        return []
+
+
+def parse_sitemap_xml(xml_text: str) -> tuple[list[str], list[dict]]:
+    """
+    Parse sitemap XML.
+
+    Returns:
+      - child_sitemaps: sitemap URLs found in <sitemapindex>
+      - url_records: page URL records found in <urlset>
+    """
+    child_sitemaps: list[str] = []
+    url_records: list[dict] = []
+
+    try:
+        root = ET.fromstring(xml_text.encode("utf-8"))
+    except Exception:
+        root = ET.fromstring(xml_text)
+
+    root_name = xml_local_name(root.tag)
+
+    if root_name == "sitemapindex":
+        for node in root:
+            if xml_local_name(node.tag) != "sitemap":
+                continue
+            loc = ""
+            for child in node:
+                if xml_local_name(child.tag) == "loc":
+                    loc = clean_text(child.text or "")
+                    break
+            if loc:
+                child_sitemaps.append(normalize_url(loc))
+
+    elif root_name == "urlset":
+        for node in root:
+            if xml_local_name(node.tag) != "url":
+                continue
+
+            loc = ""
+            lastmod = ""
+
+            for child in node:
+                child_name = xml_local_name(child.tag)
+                if child_name == "loc":
+                    loc = clean_text(child.text or "")
+                elif child_name == "lastmod":
+                    lastmod = clean_text(child.text or "")
+
+            if loc:
+                url_records.append({
+                    "url": normalize_url(loc),
+                    "lastmod": lastmod,
+                })
+
+    return child_sitemaps, url_records
+
+
+def is_article_url_from_sitemap(url: str) -> bool:
+    parsed = urlparse(url)
+    path = parsed.path or ""
+
+    if parsed.netloc.lower() not in {"epinova.org", "www.epinova.org"}:
+        return False
+
+    return any(path.startswith(prefix) for prefix in SITEMAP_ARTICLE_PATH_PREFIXES)
+
+
+def title_guess_from_article_url(url: str) -> str:
+    """
+    Build a loose expected title from the URL slug.
+    The real title is still extracted later from og:title / h1 / page title.
+    """
+    path = urlparse(url).path.rstrip("/")
+    slug = path.split("/")[-1]
+    slug = unquote(slug)
+    slug = slug.replace("–", "-").replace("—", "-")
+    slug = re.sub(r"-+", " ", slug)
+    slug = clean_text(slug)
+    return slug.title() if slug else "Untitled Article"
+
+
+def publication_date_from_lastmod(lastmod: str) -> str:
+    """Best-effort sitemap date. Note: lastmod is not necessarily publication date."""
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})", clean_text(lastmod))
+    return m.group(1) if m else ""
+
+
+def sitemap_to_catalog_items() -> list[dict]:
+    """
+    Discover EPINOVA article URLs from sitemap files and convert them into
+    catalog-style items accepted by try_archive_catalog_item().
+    """
+    discovered: list[dict] = []
+    seen_sitemaps: set[str] = set()
+    seen_urls: set[str] = set()
+    queue = list(dict.fromkeys(SITEMAP_SEED_URLS + sitemap_seeds_from_robots()))
+
+    while queue:
+        sitemap_url = normalize_url(queue.pop(0))
+        if sitemap_url in seen_sitemaps:
+            continue
+        seen_sitemaps.add(sitemap_url)
+
+        try:
+            xml_text = fetch_sitemap_xml(sitemap_url)
+            child_sitemaps, url_records = parse_sitemap_xml(xml_text)
+        except requests.HTTPError as exc:
+            if exc.response is not None and exc.response.status_code == 404:
+                # Optional sitemap endpoint is not published; use the other sources.
+                continue
+            print(f"Info: sitemap request unsuccessful: {sitemap_url} | {exc}")
+            continue
+        except Exception as exc:
+            print(f"Info: sitemap unavailable or invalid: {sitemap_url} | {exc}")
+            continue
+
+        for child_url in child_sitemaps:
+            if child_url not in seen_sitemaps:
+                queue.append(child_url)
+
+        for record in url_records:
+            url = normalize_url(record.get("url", ""))
+            if not url or url in seen_urls:
+                continue
+            if not is_article_url_from_sitemap(url):
+                continue
+
+            seen_urls.add(url)
+            guessed_title = title_guess_from_article_url(url)
+            guessed_date = publication_date_from_lastmod(record.get("lastmod", ""))
+
+            discovered.append({
+                "date": guessed_date,
+                "title": guessed_title,
+                "slug": normalize_slug(guessed_title),
+                "candidate_urls": [url],
+                "manual_url_override": False,
+                "manual_url": "",
+                # Sitemap items may not have an exact expected title. The script
+                # should render the page and extract the real title from metadata.
+                "skip_strict_title_validation": True,
+                "source": "sitemap",
+            })
+
+            if len(discovered) >= MAX_SITEMAP_DISCOVERED_ARTICLES:
+                return discovered
+
+    return discovered
+
+
+def article_listing_to_catalog_items() -> list[dict]:
+    """Discover current GoDaddy blog links from the rendered /articles page.
+
+    This is a supplemental discovery method, not a completeness guarantee:
+    some site themes paginate or lazy-load historical blog posts.
+    """
+    results = []
+    seen = set()
+    for listing_url in ARTICLE_LISTING_URLS:
+        try:
+            html, visible_text, final_url = render_page(listing_url)
+            soup = BeautifulSoup(html, "html.parser")
+            for a in soup.select("a[href]"):
+                candidate = normalize_url(urljoin(final_url, a.get("href", "")))
+                if not is_article_url_from_sitemap(candidate) or candidate in seen:
+                    continue
+                seen.add(candidate)
+                guessed_title = clean_text(a.get_text(" ", strip=True))
+                # Generic blog-card links often contain "Read More" only.
+                if len(guessed_title) < 12 or guessed_title.lower() in {"read more", "continue reading"}:
+                    guessed_title = title_guess_from_article_url(candidate)
+                results.append({
+                    "date": "",  # Let the actual post page provide a date if available.
+                    "title": guessed_title,
+                    "slug": normalize_slug(guessed_title),
+                    "candidate_urls": [candidate],
+                    "manual_url_override": False,
+                    "manual_url": "",
+                    "skip_strict_title_validation": True,
+                    "source": "article_listing",
+                })
+            print(f"Article listing discovered {len(results)} blog links: {listing_url}")
+        except Exception as exc:
+            print(f"Info: article listing discovery unavailable: {listing_url} | {exc}")
+    return results
+
+
+def article_identity_key(url: str) -> str:
+    """Recognize the same blog slug across /f/ and /articles/f/ paths."""
+    path = unquote(urlparse(normalize_url(url)).path).lower()
+    for prefix in SITEMAP_ARTICLE_PATH_PREFIXES:
+        if path.startswith(prefix):
+            return "article:" + path[len(prefix):].rstrip("/")
+    return normalize_url(url).lower()
+
+
+def extract_published_date(soup: BeautifulSoup) -> str:
+    """Use explicit page publication metadata; never silently fabricate today's date."""
+    selectors = [
+        'meta[property="article:published_time"]',
+        'meta[itemprop="datePublished"]',
+        'meta[name="datePublished"]',
+        'time[datetime]',
+    ]
+    for selector in selectors:
+        node = soup.select_one(selector)
+        if node:
+            raw = node.get("content") or node.get("datetime") or ""
+            m = re.match(r"^(\d{4}-\d{2}-\d{2})", raw)
+            if m:
+                return m.group(1)
+    for node in soup.select('script[type="application/ld+json"]'):
+        match = re.search(r'"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})', node.string or node.get_text())
+        if match:
+            return match.group(1)
+    return ""
+
+
+def clean_text(text: str) -> str:
+    return " ".join((text or "").split())
+
+
+def compact_text(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", clean_text(text).lower())
+
+
+def html_escape(text: str) -> str:
+    return (
+        str(text or "")
+        .replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+    )
+
+
+def render_page(url: str) -> tuple[str, str, str]:
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=REQUEST_HEADERS["User-Agent"])
+        response = page.goto(url, wait_until="domcontentloaded", timeout=90000)
+        if response is not None and response.status >= 400:
+            raise RuntimeError(f"HTTP {response.status} for {url}")
+        page.wait_for_timeout(8000)
+        html = page.content()
+        visible_text = page.evaluate("() => document.body.innerText")
+        final_url = normalize_url(page.url)
+        browser.close()
+        return html, visible_text, final_url
+
+
+def mccm_daily_slug(title: str) -> str | None:
+    m = re.search(r":\s*(March|April)\s+(\d{1,2})$", title)
+    if not m:
+        return None
+
+    month = m.group(1).lower()
+    day = m.group(2)
+
+    if "U.S. & Allies–Iran Conflict Cost Monitor" in title:
+        return f"2026-us-allies%E2%80%93iran-conflict-cost-monitor-mccm-{month}-{day}"
+
+    return None
+
+
+def slug_variants(slug: str) -> list[str]:
+    """
+    Generate likely GoDaddy slug variants.
+    Handles en dash encoded as %E2%80%93, em dash, shortened long titles,
+    and common AI/geopolitical compounds.
+    """
+    base = slug.strip("/")
+    variants = [base]
+
+    # Date/number ranges: 9-10 -> 9%E2%80%9310; feb-28-apr -> feb-28%E2%80%93apr
+    variants.append(re.sub(r"(?<=\d)-(?=\d)", "%E2%80%93", base))
+    variants.append(re.sub(r"(?<=\d)-(?=[a-z])", "%E2%80%93", base))
+
+    replacements = {
+        "human-ai": "human%E2%80%93ai",
+        "ai-human": "ai%E2%80%93human",
+        "ai-robot": "ai%E2%80%93robot",
+        "human-ai-robot": "human%E2%80%93ai%E2%80%93robot",
+        "allies-iran": "allies%E2%80%93iran",
+        "us-allies-iran": "us-allies%E2%80%93iran",
+        "china-philippines": "china%E2%80%93philippines",
+        "cost-frequency": "cost%E2%80%93frequency",
+        "machine-led": "machine%E2%80%93led",
+        "human-led": "human%E2%80%93led",
+        "9-10": "9%E2%80%9310",
+        "28-apr": "28%E2%80%93apr",
+        "apr-1": "apr%E2%80%931",
+    }
+
+    for old, new in replacements.items():
+        if old in base:
+            variants.append(base.replace(old, new))
+
+    # Long-title truncation variants.
+    cut_markers = [
+        "-perception-integrity",
+        "-temporal-dominance",
+        "-and-the-arctic",
+        "-ai-delegated-execution",
+        "-the-potential-failure",
+        "-a-partially-observable",
+        "-game-theoretic-framework",
+        "-cost-frequency",
+        "-and-strategic-stability",
+        "-authority-concentration",
+        "-under-ai-driven",
+        "-machine-led-vs-human-led",
+        "-an-international-law-perspective",
+        "-from-irreplaceable-work",
+        "-meta-functional-governance",
+        "-new-archetypes",
+        "-under-the-mmc-framework",
+        "-asymmetric-costs",
+        "-a-case-study",
+        "-from-regional-flashpoint",
+        "-to-global-faultline",
+    ]
+
+    for marker in cut_markers:
+        if marker in base:
+            variants.append(base.split(marker)[0])
+
+    out = []
+    seen = set()
+    for v in variants:
+        if v and v not in seen:
+            seen.add(v)
+            out.append(v)
+    return out
+
+
+def catalog_to_seed_urls() -> list[dict]:
+    manual = {
+        # Latest manually confirmed article
+        "The Ceasefire at Sea Is Fraying":
+            "the-ceasefire-at-sea-is-fraying",
+
+        # MCCM / AIPAMS series
+        "MCCM v2.3+: Escalation and the Loss-of-Control Threshold":
+            "mccm-v23-escalation-and-the-loss-of-control-threshold",
+        "2026 MCCM 2.0+(23 Variables Ver.): April 12":
+            "2026-mccm-2023-variables-ver-april-12",
+        "SHI and Caspian Port Dynamics in Iran: April 9–10, 2026":
+            "shi-and-caspian-port-dynamics-in-iran-april-9-10-2026",
+        "MCCM Daily War Cost Dynamics (K-Line): Feb 28–Apr 3, 2026":
+            "mccm-daily-war-cost-dynamics-k-line-feb-28-apr-3-2026",
+        "MCCM Daily Direct War Cost by Actor: Feb 28 – Apr 1, 2026":
+            "mccm-daily-direct-war-cost-by-actor-feb-28-apr-1-2026",
+        "2026 Middle East Conflict Cost Monitor (MCCM)":
+            "2026-middle-east-conflict-cost-monitor-mccm",
+
+        # Confirmed / short slugs
+        "The Quiet Surge: How AI Procurement Is Reshaping the Logic of War":
+            "the-quiet-surge-how-ai-procurement-is-reshaping-the-logic-of-war",
+        "The Strategic Misalignment of U.S. Power":
+            "the-strategic-misalignment-of-us-power",
+        "War as Training Data: Ukraine and the Future of Datafied Conflict":
+            "war-as-training-data-ukraine-and-the-future-of-datafied-conflict",
+        "Beyond Rankings: What Really Defines AI National Power?":
+            "beyond-rankings-what-really-defines-ai-national-power",
+        "Why the South?":
+            "why-the-south",
+
+        # Long articles where GoDaddy may use only main-title slug
+        "When AI Infrastructure Is Optional but Governance Lock-In Is Not":
+            "when-ai-infrastructure-is-optional-but-governance-lock-in-is-not",
+        "Greenland as a Structural AI Strategic Node: Perception Integrity, Temporal Dominance, and the Arctic Reconfiguration of Algorithmic Power":
+            "greenland-as-a-structural-ai-strategic-node",
+        "When Decapitation No Longer Matters: AI-Delegated Execution and the Potential Failure of Preemptive Strike Logic":
+            "when-decapitation-no-longer-matters",
+        "Permanent Presence under Uncertainty: A Partially Observable Game-Theoretic Framework for Unmanned Systems, Cost–Frequency Dynamics, and Strategic Stability":
+            "permanent-presence-under-uncertainty",
+        "Survivor Governance: Authority Concentration under AI-Driven State Contraction":
+            "survivor-governance",
+        "Strategic Discontinuity in AI-Enabled Warfare: Machine-Led vs Human-Led OODA":
+            "strategic-discontinuity-in-ai-enabled-warfare",
+        "Unmanned Algorithmic Warfare and Human Role Reconfiguration: An International Law Perspective":
+            "unmanned-algorithmic-warfare-and-human-role-reconfiguration",
+        "Single-/Few-Human–AI Firms and Single-/Few-Human–AI–Robot Firms: New Archetypes under the MMC Framework":
+            "single-few-human-ai-firms-and-single-few-human-ai-robot-firms",
+        "Gray-Zone Maritime Rights-Protection Strategy: Asymmetric Costs and Sustainable Presence, A Case Study of the China–Philippines Dispute over Scarborough Shoal":
+            "gray-zone-maritime-rights-protection-strategy",
+        "An Analysis of the 2025 India-Pakistan Conflict: From Regional Flashpoint to Global Faultline":
+            "an-analysis-of-the-2025-india-pakistan-conflict",
+
+        # Confirmed older publication slugs
+        "Artificial Intelligence as National Power: Implications of the 2025 U.S. National Security Strategy for AI Development":
+            "artificial-intelligence-as-national-power",
+        "From Space Infrastructure to AI State Capacity: South Korea’s National AI Trajectory Analysis Through KASA’s 2026 Strategy":
+            "from-space-infrastructure-to-ai-state-capacity",
+        "Rethinking the Human–AI Division of Labor: From Irreplaceable Work to Meta-Functional Governance and Coevolution":
+            "rethinking-the-human-ai-division-of-labor",
+        "Geopolitical Consequences of Cloud Outages: The Systemic Risks of AWS Architecture, National Security, and Digital Sovereignty":
+            "geopolitical-consequences-of-cloud-outages",
+        "Epistemic Humility in AGI: Toward Ethical & Adaptive Intelligence":
+            "epistemic-humility-in-agi-toward-ethical-adaptive-intelligence",
+        "Pinocchio or Frankenstein: AGI Frameworks Review and Forward":
+            "pinocchio-or-frankenstein-agi-frameworks-review-and-forward",
+        "AI: From Information Cocoon to Cognitive Cocoon?":
+            "ai-from-information-cocoon-to-cognitive-cocoon",
+        "How AI and Corporate Principles Are Reshaping Government?":
+            "how-ai-and-corporate-principles-are-reshaping-government",
+    }
+
+    rows = []
+    for date_value, title in ARTICLE_CATALOG:
+        manual_url = get_manual_url_override(title)
+        auto_slug = mccm_daily_slug(title)
+        slug = manual.get(title) or auto_slug or normalize_slug(title)
+
+        candidate_urls = []
+        if manual_url:
+            # Manual URL has highest priority and uses skip_strict_title_validation.
+            candidate_urls.append(manual_url)
+
+        for sv in slug_variants(slug):
+            candidate_urls.extend([
+                f"https://epinova.org/articles/f/{sv}",
+                f"https://epinova.org/f/{sv}",
+                f"https://epinova.org/publications/f/{sv}",
+            ])
+
+        # Remove duplicate URLs while preserving order.
+        deduped_urls = []
+        seen = set()
+        for u in candidate_urls:
+            if u not in seen:
+                seen.add(u)
+                deduped_urls.append(u)
+
+        rows.append({
+            "date": date_value,
+            "title": title,
+            "slug": slug,
+            "candidate_urls": deduped_urls,
+            "manual_url_override": bool(manual_url),
+            "manual_url": manual_url or "",
+            "skip_strict_title_validation": bool(manual_url),
+        })
+    return rows
+
+
+def title_matches_page(expected_title: str, visible_text: str) -> bool:
+    """
+    Relaxed title validation for GoDaddy pages.
+
+    It tolerates:
+    - en dash / hyphen differences;
+    - short GoDaddy slugs where only the main title appears;
+    - page bodies that do not repeat the full catalog title;
+    - title/date inconsistencies such as the March 16 page using a March 15-1 URL.
+    """
+    expected = normalize_text_for_match(clean_text(expected_title))
+    page = normalize_text_for_match(clean_text(visible_text))
+
+    if not expected or not page:
+        return False
+
+    if expected in page:
+        return True
+
+    if expected[:35] in page:
+        return True
+
+    main_title = expected.split(":")[0].strip()
+    if len(main_title) >= 10 and main_title in page:
+        return True
+
+    compact_expected = compact_text(expected)
+    compact_page = compact_text(page)
+    if len(compact_expected) >= 20 and compact_expected[:45] in compact_page:
+        return True
+
+    stop_words = {
+        "through", "between", "framework", "analysis", "toward", "under",
+        "with", "from", "into", "and", "the", "for", "of", "in", "on",
+        "as", "to", "by", "a", "an", "its", "how", "what", "when",
+        "u", "s", "ai", "mccm",
+    }
+    words = [w for w in re.split(r"[^a-z0-9]+", expected) if len(w) >= 5 and w not in stop_words]
+    if not words:
+        return False
+
+    hits = sum(1 for w in words if w in page)
+    return hits >= min(3, len(words)) or (hits / max(len(words), 1)) >= 0.55
+
+
+def get_title(soup: BeautifulSoup, fallback: str = "") -> str:
+    for tag in [
+        soup.find("meta", property="og:title"),
+        soup.find("meta", attrs={"name": "twitter:title"}),
+    ]:
+        if tag and tag.get("content"):
+            title = tag["content"]
+            title = title.replace("| EPINOVA", "").replace("- EPINOVA", "")
+            return clean_text(title)
+
+    h1 = soup.find("h1")
+    if h1:
+        return clean_text(h1.get_text(" ", strip=True))
+
+    if soup.title:
+        title = soup.title.get_text(" ", strip=True)
+        title = title.replace("| EPINOVA", "").replace("- EPINOVA", "")
+        return clean_text(title)
+
+    return fallback or "Untitled Article"
+
+
+def get_description(soup: BeautifulSoup) -> str:
+    for selector in [
+        {"property": "og:description"},
+        {"name": "description"},
+        {"name": "twitter:description"},
+    ]:
+        tag = soup.find("meta", selector)
+        if tag and tag.get("content"):
+            return clean_text(tag["content"])
+    return ""
+
+
+def is_nav_line(line: str) -> bool:
+    text = clean_text(line).lower()
+    return text in {
+        "home", "publications", "articles", "working paper", "working papers",
+        "reports", "policy brief", "policy briefs", "white papers", "centers",
+        "global ai governance", "ai & societal evolution", "ai & emerging tech",
+        "ai & human resilience", "maritime history & tech", "showcase", "about us",
+        "contact us", "back to top",
+    }
+
+
+def is_stop_line(line: str) -> bool:
+    text = clean_text(line).lower()
+    stop_keywords = [
+        "share this post", "back to top", "copyright ©", "all rights reserved",
+        "email:", "phone:", "privacy policy", "terms and conditions", "powered by godaddy",
+    ]
+    return any(kw in text for kw in stop_keywords)
+
+
+def extract_article_text_from_visible_text(visible_text: str, expected_title: str) -> str:
+    lines = [line.strip() for line in visible_text.splitlines() if line.strip()]
+    start = None
+    expected = clean_text(expected_title).lower()
+    expected_main = expected.split(":")[0].strip()
+    expected_short = expected[:35]
+
+    for i, line in enumerate(lines):
+        low = clean_text(line).lower()
+        if expected_short in low or (len(expected_main) >= 10 and expected_main in low):
+            start = i
+            break
+
+    if start is None:
+        return ""
+
+    kept = []
+    for line in lines[start:]:
+        if is_stop_line(line):
+            break
+        if is_nav_line(line):
+            continue
+        kept.append(line)
+    return "\n\n".join(kept)
+
+
+def remove_noise(node) -> None:
+    noise_selectors = [
+        "script", "style", "noscript", "iframe", "form", "nav", "footer", "header",
+        "[role='navigation']", "[aria-label='Main Navigation']", "[data-aid='HEADER']",
+        "[data-aid='FOOTER']", "[data-aid='NAVIGATION']", "[data-aid='SOCIAL_LINKS']",
+        "[data-aid='FOOTER_COOKIE_BANNER_RENDERED']", ".cookie", ".cookie-banner",
+    ]
+    for selector in noise_selectors:
+        for tag in node.select(selector):
+            tag.decompose()
+
+
+def extract_article_node(soup: BeautifulSoup, expected_title: str, article_text_reference: str) -> BeautifulSoup:
+    """
+    Prefer a DOM node so image positions are preserved. If no reliable DOM node is found,
+    the caller will fall back to visible-text reconstruction.
+    """
+    remove_noise(soup)
+    reference_len = max(len(clean_text(article_text_reference)), 1)
+    candidates = []
+
+    selectors = [
+        "article", "main article", "[data-aid='BLOG_POST_PAGE']", "[data-aid='BLOG_POST_CONTENT']",
+        "[data-aid='BLOG_CONTENT']", ".blog-post", ".post-content", "main", "[role='main']",
+        "section", "div", "body",
+    ]
+
+    for selector in selectors:
+        for node in soup.select(selector):
+            text = clean_text(node.get_text(" ", strip=True))
+            if len(text) < 250:
+                continue
+            if not title_matches_page(expected_title, text):
+                continue
+
+            penalty = 0
+            bad_phrases = [
+                "Home Publications Articles Working Paper",
+                "Centers Global AI Governance",
+                "About Us Contact US",
+                "Privacy Policy Terms and Conditions",
+                "This website uses cookies",
+            ]
+            for phrase in bad_phrases:
+                if phrase.lower() in text.lower():
+                    penalty += 4000
+
+            length_distance = abs(len(text) - reference_len)
+            image_bonus = len(node.find_all("img")) * 250
+            score = -length_distance - penalty + image_bonus
+            candidates.append((score, node))
+
+    if candidates:
+        candidates.sort(key=lambda x: x[0], reverse=True)
+        return candidates[0][1]
+
+    return build_article_html_from_text(soup, article_text_reference)
+
+
+def build_article_html_from_text(soup: BeautifulSoup, article_text: str):
+    article = soup.new_tag("article")
+    for block in article_text.split("\n\n"):
+        block = block.strip()
+        if not block:
+            continue
+        p = soup.new_tag("p")
+        p.string = block
+        article.append(p)
+    return article
+
+
+def image_ext(url: str, content_type: str = "") -> str:
+    ext = Path(urlparse(url).path).suffix.lower()
+    if ext in [".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"]:
+        return ext
+    guessed = mimetypes.guess_extension(content_type.split(";")[0].strip())
+    return guessed or ".jpg"
+
+
+def extract_img_src(img) -> str:
+    src = (
+        img.get("src") or img.get("data-src") or img.get("data-lazy-src")
+        or img.get("data-srclazy") or ""
+    )
+
+    if src.startswith("data:image"):
+        src = img.get("data-srclazy") or img.get("data-src") or img.get("data-lazy-src") or ""
+        if not src:
+            srcset = img.get("data-srcsetlazy") or img.get("data-srcset") or img.get("srcset") or ""
+            if srcset:
+                src = srcset.split(",")[0].strip().split(" ")[0]
+    return src
+
+
+def download_images(article_node, article_url: str, out_dir: Path) -> list[dict]:
+    assets_dir = out_dir / "assets"
+    assets_dir.mkdir(parents=True, exist_ok=True)
+
+    image_records = []
+    seen = {}
+    counter = 1
+
+    for img in article_node.find_all("img"):
+        src = extract_img_src(img)
+        if not src or src.startswith("data:image"):
+            continue
+
+        remote_url = normalize_url(urljoin(article_url, src))
+        low = remote_url.lower()
+        if any(x in low for x in [
+            "transparent_placeholder", "favicon", "logo", "social", "facebook", "twitter",
+            "linkedin", "instagram", "pixel", "tracking", "trustedsite", "meter/epinova",
+        ]):
+            continue
+
+        if remote_url in seen:
+            img["src"] = seen[remote_url]
+            continue
+
+        try:
+            r = requests.get(remote_url, headers=REQUEST_HEADERS, timeout=30)
+            r.raise_for_status()
+            content_type = r.headers.get("content-type", "")
+            ext = image_ext(remote_url, content_type)
+            filename = f"image-{counter:03d}{ext}"
+            local_path = assets_dir / filename
+            local_rel = f"assets/{filename}"
+            local_path.write_bytes(r.content)
+
+            img["src"] = local_rel
+            img["alt"] = img.get("alt", "")
+            for attr in [
+                "srcset", "data-src", "data-srcset", "data-lazy-src", "data-srclazy",
+                "data-srcsetlazy", "sizes", "data-lazyimg",
+            ]:
+                if img.has_attr(attr):
+                    del img[attr]
+
+            seen[remote_url] = local_rel
+            image_records.append({
+                "filename": local_rel,
+                "original_url": remote_url,
+                "content_type": mimetypes.guess_type(local_rel)[0] or content_type or "image",
+                "description": "Locally archived image from the original EPINOVA article."
+            })
+            counter += 1
+        except Exception as exc:
+            print(f"Warning: failed to download image: {remote_url} | {exc}")
+
+    return image_records
+
+
+def html_to_markdown(html: str) -> str:
+    converter = html2text.HTML2Text()
+    converter.body_width = 0
+    converter.ignore_links = False
+    converter.ignore_images = False
+    converter.protect_links = True
+    return converter.handle(html).strip()
+
+
+def build_metadata(
+    title: str,
+    description: str,
+    publication_date: str,
+    url: str,
+    folder_name: str,
+    image_records: list[dict],
+) -> dict:
+    year = publication_date[:4] if publication_date[:4].isdigit() else "undated"
+    epinova_id = f"EPINOVA-ART-{year}-{normalize_slug(title)[:40]}"
+    files = [
+        {"filename": "article.html", "content_type": "text/html", "description": "Archived HTML copy of the original EPINOVA article, including locally preserved images."},
+        {"filename": "article.md", "content_type": "text/markdown", "description": "Markdown preservation copy of the article."},
+        {"filename": "article.txt", "content_type": "text/plain", "description": "Plain-text preservation copy of the article."},
+    ] + image_records
+    citation = f"Wu, Shaoyuan. ({year}). {title}. EPINOVA LLC. {url}"
+    return {
+        "epinova_id": epinova_id,
+        "title": title,
+        "full_title": title,
+        "subtitle": "",
+        "creators": [CREATOR],
+        "category": "articles",
+        "resource_type": "Text",
+        "publication_type": "Article",
+        "publication_date": publication_date,
+        "version": "v1.0",
+        "status": "Archived from EPINOVA GoDaddy blog",
+        "language": "en",
+        "publisher": PUBLISHER,
+        "place": "Carrollton, Georgia, United States",
+        "doi": "To be assigned after Crossref registration",
+        "previous_doi": "",
+        "abstract": description,
+        "description": description,
+        "keywords": [],
+        "subjects": ["AI governance", "Strategic systems analysis", "Technology policy"],
+        "license": {"title": "All rights reserved", "url": ""},
+        "copyright": f"© {year} EPINOVA LLC. All rights reserved.",
+        "recommended_citation": citation,
+        "citation_apa": citation,
+        "original_page": url,
+        "canonical_url": "",
+        "source_status": "archived_from_godaddy_blog_with_images",
+        "repository_folder": f"Articles/{folder_name}",
+        "official_page": url,
+        "alternate_identifiers": [{"scheme": "URL", "identifier": url, "description": "Original EPINOVA article page."}],
+        "related_works": [],
+        "references": [],
+        "files": files,
+    }
+
+
+def try_archive_catalog_item(item: dict, order_number: int) -> dict | None:
+    expected_date = item["date"]
+    expected_title = item["title"]
+    last_error = ""
+
+    for idx, candidate_url in enumerate(item["candidate_urls"]):
+        try:
+            html, visible_text, final_url = render_page(candidate_url)
+
+            is_manual_candidate = (
+                bool(item.get("manual_url_override"))
+                and idx == 0
+                and normalize_url(candidate_url) == normalize_url(item.get("manual_url", ""))
+            )
+            skip_strict_title_validation = bool(item.get("skip_strict_title_validation")) or is_manual_candidate
+
+            if skip_strict_title_validation:
+                # Skip *exact* title matching but reject obvious redirects/404s.
+                page_path = urlparse(final_url).path
+                if not is_article_url_from_sitemap(final_url):
+                    last_error = f"non-article redirect: {final_url}"
+                    continue
+                if len(visible_text.strip()) < 250:
+                    last_error = f"page has insufficient article text: {final_url}"
+                    continue
+                if is_manual_candidate:
+                    warning = manual_url_warning(expected_title, candidate_url)
+                    if warning:
+                        print(f"  {warning}")
+                    print(f"  Manual override URL used; skipped strict title validation: {candidate_url}")
+                else:
+                    print(f"  Sitemap-discovered URL used; skipped strict title validation: {candidate_url}")
+            elif not title_matches_page(expected_title, visible_text):
+                last_error = f"title not found in page body at {candidate_url}"
+                continue
+
+            soup = BeautifulSoup(html, "html.parser")
+            title = get_title(soup, fallback=expected_title)
+            if title in {"EIPINOVA", "EPINOVA", "Publications", "Articles"}:
+                title = expected_title
+            description = get_description(soup)
+
+            article_text_reference = extract_article_text_from_visible_text(visible_text, expected_title)
+            if len(article_text_reference) < 250 and skip_strict_title_validation:
+                # Manual/sitemap pages may not repeat the exact expected catalog title.
+                # Use a cleaned visible-text fallback rather than failing the page.
+                fallback_lines = [line.strip() for line in visible_text.splitlines() if line.strip()]
+                kept = []
+                for line in fallback_lines:
+                    if is_stop_line(line):
+                        break
+                    if is_nav_line(line):
+                        continue
+                    kept.append(line)
+                article_text_reference = "\n\n".join(kept)
+
+            if len(article_text_reference) < 250:
+                last_error = f"too little visible body content at {candidate_url}"
+                continue
+
+            article_node = extract_article_node(soup, expected_title, article_text_reference)
+            article_text = article_node.get_text("\n", strip=True)
+            article_text = "\n".join(line.strip() for line in article_text.splitlines() if line.strip())
+
+            # If DOM extraction is clearly too broad or too short, use visible-text reconstruction.
+            if len(article_text) < 250 or len(article_text) > max(2500, len(article_text_reference) * 3):
+                article_node = build_article_html_from_text(soup, article_text_reference)
+                article_text = article_text_reference
+
+            publication_date = extract_published_date(soup) or expected_date or "undated"
+            folder_name = f"{publication_date}_{normalize_slug(expected_title)[:80]}"
+            out_dir = OUTPUT_DIR / folder_name
+            out_dir.mkdir(parents=True, exist_ok=True)
+
+            image_records = download_images(article_node, final_url, out_dir)
+            article_html_inner = str(article_node)
+            article_md_body = html_to_markdown(article_html_inner)
+
+            archived_html = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{html_escape(title)}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {{
+      max-width: 880px;
+      margin: 40px auto;
+      padding: 0 24px;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.65;
+      color: #222;
+    }}
+    img {{
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 24px 0;
+    }}
+    .meta {{
+      color: #666;
+      font-size: 14px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 16px;
+      margin-bottom: 28px;
+    }}
+  </style>
+</head>
+<body>
+  <h1>{html_escape(title)}</h1>
+  <div class="meta">
+    <p><strong>Original URL:</strong> <a href="{html_escape(final_url)}">{html_escape(final_url)}</a></p>
+    <p><strong>Publication date:</strong> {html_escape(publication_date)}</p>
+    <p><strong>Archive note:</strong> This is a locally preserved copy of an EPINOVA article originally generated through the GoDaddy blog system.</p>
+  </div>
+  {article_html_inner}
+</body>
+</html>
+"""
+
+            article_md = f"""# {title}
+
+Original URL: {final_url}
+
+Publication date: {publication_date}
+
+Archive note: This is a locally preserved Markdown copy of an EPINOVA article originally generated through the GoDaddy blog system.
+
+---
+
+{article_md_body}
+"""
+
+            (out_dir / "article.html").write_text(archived_html, encoding="utf-8")
+            (out_dir / "article.md").write_text(article_md, encoding="utf-8")
+            (out_dir / "article.txt").write_text(article_text, encoding="utf-8")
+
+            metadata = build_metadata(
+                title=title,
+                description=description,
+                publication_date=publication_date,
+                url=final_url,
+                folder_name=folder_name,
+                image_records=image_records,
+            )
+            (out_dir / "metadata.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2), encoding="utf-8")
+
+            return {
+                "title": title,
+                "expected_title": expected_title,
+                "date": publication_date,
+                "url": final_url,
+                "folder": str(out_dir),
+                "images": len(image_records),
+                "status": "archived",
+            }
+        except Exception as exc:
+            last_error = f"{candidate_url} | {exc}"
+
+    print(f"  Failed all URL variants for: {expected_title}")
+    print(f"  Last error: {last_error}")
+    return {
+        "title": expected_title,
+        "date": expected_date,
+        "url": "",
+        "folder": "",
+        "images": 0,
+        "status": "failed",
+        "error": last_error,
+    }
+
+
+def write_indexes(results: list[dict]) -> tuple[list[dict], list[dict], Path, Path]:
+    """
+    Write archive indexes immediately.
+
+    This function is intentionally called after every processed article, so if
+    the script is interrupted, articles_archive_index.json and
+    articles_failed_index.json still reflect the latest completed item.
+    """
+    archived = [r for r in results if r.get("status") == "archived"]
+    failed = [r for r in results if r.get("status") == "failed"]
+    results_sorted = sorted(
+        results,
+        key=lambda r: (r.get("date") or "", r.get("title") or ""),
+        reverse=True,
+    )
+
+    index_path = OUTPUT_DIR / "articles_archive_index.json"
+    failed_path = OUTPUT_DIR / "articles_failed_index.json"
+
+    index_path.write_text(
+        json.dumps(results_sorted, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    failed_path.write_text(
+        json.dumps(failed, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    return archived, failed, index_path, failed_path
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Archive EPINOVA articles (incrementally).")
+    parser.add_argument("--latest-only", action="store_true", help="Import just Beyond the Adviser Role, leaving old records untouched.")
+    parser.add_argument("--no-discovery", action="store_true", help="Use the hand-curated article catalog only.")
+    parser.add_argument("--force", action="store_true", help="Re-import previously archived articles.")
+    args = parser.parse_args()
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    manual_items = catalog_to_seed_urls()
+    if args.latest_only:
+        manual_items = [x for x in manual_items if "beyond the adviser role" in x["title"].lower()]
+    do_discovery = not (args.no_discovery or args.latest_only)
+    sitemap_items = sitemap_to_catalog_items() if do_discovery and AUTO_DISCOVER_FROM_SITEMAP else []
+    listing_items = article_listing_to_catalog_items() if do_discovery and AUTO_DISCOVER_FROM_ARTICLE_LISTING else []
+
+    # Manual entries first, including newest, even if sitemap/listing are absent.
+    catalog_items = []
+    seen_candidate_urls = set()
+    for item in manual_items + sitemap_items + listing_items:
+        urls = item.get("candidate_urls", [])
+        keys = {article_identity_key(u) for u in urls}
+        if keys and keys.issubset(seen_candidate_urls):
+            continue
+        seen_candidate_urls.update(keys)
+        catalog_items.append(item)
+
+    print(f"Manual catalog: {len(manual_items)} | Sitemap: {len(sitemap_items)} | Article listing: {len(listing_items)}")
+    print(f"Merged catalog: {len(catalog_items)} | Output: {OUTPUT_DIR}")
+
+    index_file = OUTPUT_DIR / "articles_archive_index.json"
+    previous = []
+    if index_file.exists():
+        try:
+            previous = json.loads(index_file.read_text(encoding="utf-8"))
+            if not isinstance(previous, list):
+                raise ValueError("index must be a JSON array")
+        except Exception as exc:
+            raise RuntimeError(f"Existing index cannot be read; refusing to overwrite: {index_file} | {exc}") from exc
+    results = previous[:]
+
+    def record_key(row):
+        url = row.get("url", "")
+        if url:
+            return article_identity_key(url)
+        return "title:" + normalize_text_for_match(row.get("expected_title") or row.get("title", ""))
+
+    def find_record(item):
+        item_urls = {article_identity_key(u) for u in item.get("candidate_urls", [])}
+        item_title = normalize_text_for_match(item.get("title", ""))
+        for idx, row in enumerate(results):
+            if row.get("url") and article_identity_key(row["url"]) in item_urls:
+                return idx, row
+            if normalize_text_for_match(row.get("expected_title") or row.get("title", "")) == item_title:
+                return idx, row
+        return None, None
+
+    archived, failed, index_path, failed_path = write_indexes(results)
+    for i, item in enumerate(catalog_items, start=1):
+        pos, old = find_record(item)
+        if (not args.force and old and old.get("status") == "archived"
+                and old.get("folder") and Path(old["folder"]).joinpath("metadata.json").exists()):
+            print(f"[{i}/{len(catalog_items)}] Already archived: {item['title']}")
+            continue
+
+        print(f"[{i}/{len(catalog_items)}] Importing: {item['title']}")
+        result = try_archive_catalog_item(item, i)
+        if result:
+            result["order_number"] = i
+            result["total_items"] = len(catalog_items)
+            result["source"] = item.get("source", "manual_catalog")
+            if pos is not None:
+                results[pos] = result
+            else:
+                results.append(result)
+            archived, failed, index_path, failed_path = write_indexes(results)
+            print(f"  {result.get('status')}: {result.get('folder') or result.get('error', '')}")
+        time.sleep(0.8)
+
+    archived, failed, index_path, failed_path = write_indexes(results)
+    print(f"Archived in index: {len(archived)} | Failed in index: {len(failed)}")
+    print(f"Index: {index_path} | Failed: {failed_path}")
+    if not args.latest_only and len(archived) < MIN_EXPECTED_ARTICLES:
+        print(f"WARNING: Only {len(archived)} archived records; expected at least {MIN_EXPECTED_ARTICLES}.")
+
+
+if __name__ == "__main__":
+    main()
