@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-077** (2026-11-09)  
+  **Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict: Political Transitions, Credible Constraints, and the Limits of Military Leverage**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.077](https://doi.org/10.67037/epinova.pb.2026.077)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-77/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-77)  
+  Source PDF: [`Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-77/Political%20Transitions%20and%20Armed%20Bargaining%20in%20the%20U.S.%E2%80%93Israel%E2%80%93Iran%20Conflict.pdf)
+
 - **EPINOVA-PB-2026-076** (2026-11-02)  
   **If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.073](https://doi.org/10.67037/epinova.pb.2026.073)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-73/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-73)  
   Source PDF: [`ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-73/ASEAN%20in%20the%20Emerging%20AI%20Power%20Order%20Distributed%20National%20Nodes%2C%20Overlapping%20Technological%20Systems%2C%20and%20Strategic%20Autonomy.pdf)
-
-- **EPINOVA-PB-2026-072** (2026-09-18)  
-  **Beyond Maritime Substitution: Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.072](https://doi.org/10.67037/epinova.pb.2026.072)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-72/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72)  
-  Source PDF: [`Beyond Maritime Substitution Rail, Trucking, and the Emerging Architecture of Iran’s Overland Supply Resilience.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-72/Beyond%20Maritime%20Substitution%20Rail%2C%20Trucking%2C%20and%20the%20Emerging%20Architecture%20of%20Iran%E2%80%99s%20Overland%20Supply%20Resilience.pdf)
 
 ---
 

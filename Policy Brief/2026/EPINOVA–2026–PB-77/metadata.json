@@ -1,0 +1,428 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-077",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-077",
+  "title": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict",
+  "subtitle": "Political Transitions, Credible Constraints, and the Limits of Military Leverage",
+  "full_title": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict: Political Transitions, Credible Constraints, and the Limits of Military Leverage",
+  "title_normalized": "political transitions and armed bargaining in the u s israel iran conflict political transitions credible constraints and the limits of military leverage",
+  "publication_date": "2026-11-09",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.077",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-077/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–77",
+      "scheme": "EPINOVA publication number",
+      "description": "Identifier printed on PDF cover"
+    },
+    {
+      "identifier": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf",
+      "scheme": "Source PDF filename"
+    }
+  ],
+  "description": "This policy brief examines how political transitions in the United States and Israel may reshape military decisions, diplomatic negotiations, and armed bargaining with Iran. It distinguishes electoral and coalition changes from implemented policy, analyzes military reconstitution and regional trade disruptions, and identifies three possible pathways: continued armed bargaining, reciprocal agreement implementation, and renewed major military operations. The brief argues that political change does not automatically alter military orders, diplomatic engagement does not establish an implemented settlement, and limited strikes do not necessarily constitute a wider campaign. Strategic assessments require verified decisions, observable actions, reciprocal compliance, and measurable consequences.",
+  "short_description": "This policy brief assesses how political transitions in the United States and Israel may affect armed bargaining with Iran. It examines institutional constraints, military operations, negotiations, and regional disruptions through three possible conflict pathways. It argues that political signals, diplomatic contacts, and isolated strikes must be distinguished from implemented decisions and verified strategic outcomes.",
+  "abstract": "This policy brief assesses how congressional turnover in the United States and coalition formation in Israel may influence the conduct of the conflict involving Iran, while recognizing that electoral outcomes and government formation do not automatically change military orders or legal authority. Drawing on public legislative records, official statements, reported military operations, diplomatic activity, and trade observations available through November 9, 2026, it examines the interaction of political transition, coercive action, negotiations, and regional infrastructure risks. The analysis distinguishes three evidence-based conflict pathways: continued armed bargaining, implementation of reciprocal obligations under an agreement, and renewed major operations supported by corroborated campaign expansion. It proposes 72-hour reassessment intervals and identifies decision thresholds for legal authority, delivered military readiness, diplomatic compliance, and operational scope, without treating scenarios as forecasts. The central conclusion is that political change can affect incentives before it produces implemented policy. Diplomatic contacts do not demonstrate an operative settlement, and isolated military actions do not by themselves prove a sustained new campaign. The strategic effects of force regeneration, trade disruption, and Iran’s longer-term recovery remain empirical questions requiring independently supported outcomes.",
+  "keywords": [
+    "U.S.–Israel–Iran conflict",
+    "political transitions",
+    "armed bargaining",
+    "credible constraints",
+    "military leverage",
+    "congressional war powers",
+    "Israeli coalition formation",
+    "executive authority",
+    "military reconstitution",
+    "strategic optionality",
+    "reciprocal agreement implementation",
+    "interdiction",
+    "limited military operations",
+    "campaign expansion",
+    "conflict pathway classification",
+    "Strait of Hormuz",
+    "regional infrastructure security",
+    "cross-theater conflict",
+    "Iranian strategic recovery",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "International security",
+    "Strategic studies",
+    "Middle East security",
+    "Geopolitical conflict",
+    "War and peace",
+    "Military policy",
+    "War powers and legislative oversight",
+    "Coalition politics",
+    "Diplomatic bargaining",
+    "Military operations",
+    "Defense logistics",
+    "Maritime security",
+    "Energy infrastructure security",
+    "Public policy analysis"
+  ],
+  "dates": [
+    {
+      "date": "2026-11-09",
+      "date_type": "Issued",
+      "description": "Publication date printed on PDF"
+    },
+    {
+      "date": "2026-11-09",
+      "date_type": "Metadata generated",
+      "description": "Local metadata prepared following author-reported Crossref registration confirmation"
+    }
+  ],
+  "license": {
+    "status": "not_specified_in_pdf",
+    "note": "The supplied PB-77 PDF does not specify a Creative Commons or other reuse license; no license has been inferred from other EPINOVA publications."
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 12
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-77",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "archive_status": "not_verified",
+    "notes": "Expected repository directory only. Upload and public landing-page accessibility have not been independently verified. The landing-page generator resolves files[].filename adjacent to metadata.json."
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-077"
+  },
+  "methodology": {
+    "framework_name": "Evidence-based pathways for political transition, armed bargaining, and military policy change",
+    "research_design": "Qualitative policy assessment of legislated and proposed authority, Israeli coalition procedures, observed limited military actions, diplomatic bargaining, conflict path classification, and conditional post-conflict options. The classification thresholds are diagnostic proposals, not validated predictions.",
+    "source_basis": "Public legislative materials, government and military statements, media reports, trade observations, and author analysis, including materials dated through November 9, 2026. Statements and reports are attributed rather than treated as independently verified outcomes.",
+    "theater_scope": [
+      "United States, Israel, and Iran",
+      "Strait of Hormuz and Gulf shipping",
+      "Yemen and Iraq regional infrastructure exposure",
+      "China–Iran and Central Asia overland trade access"
+    ],
+    "primary_domains": [
+      "U.S. Congress, executive war powers, military aid, and transition timing",
+      "Israeli coalition formation and implemented defense authority",
+      "Limited military strikes, interdiction and readiness",
+      "Diplomatic mediation, reciprocal obligations and implementation",
+      "Iran recovery, trade routes, and regional infrastructure risks",
+      "Conflict pathway evidence thresholds and reassessment"
+    ],
+    "evidence_cutoff": null,
+    "evidence_cutoff_timezone": "America/New_York",
+    "prospective_assessment_window": null,
+    "core_test": "Do adopted authorities and documented executed actions support a change from armed bargaining to reciprocal agreement implementation or a broader coordinated or sustained military campaign?",
+    "qualification": "The paper recommends, but does not report implementation of, a 72-hour reassessment cycle. Proposed thresholds have not been independently validated; electoral outcomes, coalition mandates, public claims and diplomatic contact do not establish operational or legal effect."
+  },
+  "ctcc_evidence_gates": [],
+  "propositions": [],
+  "case_evidence_stages": [],
+  "energy_buffer_measurements": [],
+  "scenario_matrix": {
+    "title": "Three Conflict Pathways and Evidence for Reclassification",
+    "nature": "Conditional analytical states (A, B, C), assessed by theater and actor pair; not probability estimates or forecasts. A recommended 72-hour evidence review has not been implemented as an established monitoring process.",
+    "scenarios": [
+      {
+        "id": "A",
+        "name": "Continued armed bargaining",
+        "assessment": "Limited coercion and active diplomacy coexist without verified reciprocal implementation or newly established major operations. Retain only while both positive conditions remain supported."
+      },
+      {
+        "id": "B",
+        "name": "Agreement implementation",
+        "assessment": "Entry requires verifiable reciprocal performance of obligations when due. Delayed or disputed steps are B pending or at risk and do not automatically revert to A."
+      },
+      {
+        "id": "C",
+        "name": "Renewed major operations",
+        "assessment": "Entry requires corroborated executed actions demonstrating a broader, coordinated, or sustained campaign compared with the same-theater baseline; an isolated strike or alert is a warning, not confirmation."
+      }
+    ],
+    "independent_spillover_flag": "Maritime and infrastructure disruptions are evaluated separately from attributed military campaign classifications; local incidents do not by themselves establish an expanded campaign."
+  },
+  "key_findings": [
+    "Political transitions can change incentives before changing legal authority or military orders; the brief does not identify a specific strike altered by November political developments.",
+    "U.S. congressional opposition to Iran hostilities is documented but not uniform, and concurrent resolutions alone do not establish the legality or implementation status of a particular military order.",
+    "An Israeli presidential coalition-formation mandate does not itself install a cabinet or revise current military policy.",
+    "Limited strikes, interdiction and negotiations can coexist; operational presence and diplomacy do not by themselves establish a broader war or an implemented settlement.",
+    "Military procurement and production must be distinguished from accepted delivery, deployed readiness, and net strategic outcome.",
+    "The three-pathway classification requires corroborated evidence of reciprocal obligations or campaign-level expansion and must remain conditional under uncertainty.",
+    "Hormuz vessel counts are direction-specific and exclude some vessel classes; aggregate movement alone cannot establish maritime normalization or disruption causes.",
+    "Overland China–Iran and regional cargo routes offer potential redundancy, but advertised corridors do not demonstrate completed delivery, available capacity or strategic autonomy.",
+    "Regional infrastructure attacks require separate attribution and impact measurement before being classified as broader campaign spillover.",
+    "Iran’s longer-term military recovery and domestic institutional adaptation are empirical questions, not demonstrated outcomes of political transition or trade announcements."
+  ],
+  "policy_recommendations": [
+    "For congressional committees, seek documented mission bases, expenditure, accepted replenishment, and competing theater demands before subsequent funding or oversight decisions.",
+    "For Israeli decision makers and observers, distinguish coalition formation from installed executive authority, adopted orders and subsequent implementation.",
+    "For military planners, separate announced procurement, verified accepted deliveries, operational integration and sustained strategic effects.",
+    "For negotiators, evaluate bilateral performance against agreed deadlines before classifying a diplomatic process as an implemented agreement.",
+    "For maritime and infrastructure authorities, analyze route-specific commercial movements, service disruption, and confirmed attribution rather than inferring normalization or a larger military campaign from isolated events.",
+    "For strategic analysts, reassess conflict states on an explicit evidence schedule and retain pending or unresolved classifications when corroborating data are insufficient."
+  ],
+  "decision_triggers": [
+    {
+      "question": "Has U.S. political transition changed the authority for a specific Iran operation?",
+      "required_evidence": "Identifiable adopted legal, appropriations or executive measures, followed by records of operational implementation or restraint."
+    },
+    {
+      "question": "Has Israeli coalition change altered implemented defense policy?",
+      "required_evidence": "Installed cabinet, adopted orders, and independently observable implementation rather than a coalition-formation mandate."
+    },
+    {
+      "question": "Has a proposed accord entered real implementation (Pathway B)?",
+      "required_evidence": "Verifiable reciprocal performance of obligations as they become due under the actual agreement."
+    },
+    {
+      "question": "Has an isolated military action become renewed major operations (Pathway C)?",
+      "required_evidence": "Corroborated broader, coordinated, or sustained executed operations relative to a specified same-theater, same-actor baseline."
+    },
+    {
+      "question": "Has military reconstitution become deployed readiness?",
+      "required_evidence": "Accepted output, repaired equipment, delivered stocks, unit integration and available capability rather than procurement announcements."
+    },
+    {
+      "question": "Has Hormuz or overland transport returned to reliable operations?",
+      "required_evidence": "Direction-specific maritime transits, cargo delivery, insurance conditions, border throughput and repeatable corridor performance."
+    },
+    {
+      "question": "Has a regional infrastructure incident produced an attributable wider campaign?",
+      "required_evidence": "Corroborated actor attribution, continuity and scope of action, and separately measured human or service effects."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "References",
+      "identifier": "10.67037/epinova.wp.f.2026.013",
+      "scheme": "DOI",
+      "resource_type": "Working Paper",
+      "description": "The Limits of Strategic Reach: Commitment Overhang, Power Conversion, and the Erosion of Strategic Optionality (Wu, 2026a)."
+    },
+    {
+      "relation": "References",
+      "identifier": "10.67037/epinova.pb.2026.076",
+      "scheme": "DOI",
+      "resource_type": "Policy Brief",
+      "description": "If Strikes Resume: Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict (Wu, 2026b)."
+    }
+  ],
+  "references": [
+    "Associated Press. (2026a, November 5). Calling control of Congress in the 2026 midterm elections. https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/",
+    "Associated Press. (2026b, November 6). US military carries out new targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals. https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55",
+    "Associated Press. (2026c, November 7). U.S. military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade. https://apnews.com/article/bc902d3400cb5d022f8bafd247ef975b",
+    "Associated Press. (2026d, November 8). Israel’s president gives Eisenkot the first chance to form the next government. https://apnews.com/article/bec07675825bee5895315e2ea1cb5751",
+    "Associated Press. (2026e, November 9). Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news. https://apnews.com/article/9b6fa963ea4766a08956e53506494468",
+    "Bertelsmann Stiftung. (2026). BTI 2026 country report: Iran. https://bti-project.org/en/reports/country-report/IRN",
+    "Congressional Research Service. (2019, March 8). The war powers resolution: Concepts and practice (R42699). https://www.congress.gov/crs_external_products/R/PDF/R42699/R42699.15.pdf",
+    "Douthat, R., Messick, G., & Court, A. (2026, November 8). 60 Minutes transcript: Donald Trump, the 2026 post-midterm elections interview. CBS News. https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/",
+    "EPINOVA LLC. (2026, September 27). Iran shipping & logistics: Integrated analytical architecture (Version 1.0) [Internal research baseline]. https://docs.google.com/document/d/1L3oWoacgiK_inmbOd5dy5R0IPYz57d9dVyq-hBDvB3o/edit",
+    "Fabian, E. (2026, November 8). Katz urges unity in light of Iran nuclear threat at memorial for 1956 Suez War. The Times of Israel. https://www.timesofisrael.com/liveblog_entry/katz-urges-unity-in-light-of-iran-nuclear-threat-at-memorial-for-1956-suez-war/",
+    "Hand, M. (2026, November 8). Crew abandon tanker in Hormuz, US strikes bulker in Gulf of Oman. Seatrade Maritime News. https://www.seatrade-maritime.com/security/crew-abandon-tanker-in-hormuz-us-strikes-bulker-in-gulf-of-oman",
+    "Interfax. (2026, September 10). First block train launches from China to Iran in transit through Uzbekistan. https://www.interfax.com/newsroom/top-stories/119080/",
+    "Levaton, S. (2026, November 7). Herzog announces he will task Eisenkot tomorrow with forming new government. The Times of Israel. https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/",
+    "Lloyd’s List Intelligence. (2026, November 5). Strait of Hormuz brief: 5 November, 2026. https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-5-november-2026",
+    "Loft, P. (2026, August 27). Iran in 2026: Six months after the US/Israeli strikes (Research Briefing CBP-11075). UK House of Commons Library. https://commonslibrary.parliament.uk/research-briefings/cbp-11075/",
+    "Mack, E. (2026, November 3). Trump says Israel will stop receiving $4B in US aid by year’s end, can still buy weapons. Fox News. https://www.foxnews.com/politics/trump-says-israel-stop-receiving-4b-us-aid-years-end-can-still-buy-weapons",
+    "Ministry of Foreign Affairs of the People’s Republic of China. (2026a, November 9). Foreign Ministry spokesperson Guo Jiakun’s regular press conference on November 9, 2026 [Transcript]. https://dm.china-embassy.gov.cn/fyrth/202611/t20261109_12056081.htm",
+    "Ministry of Foreign Affairs of the People’s Republic of China. (2026b, November 9). Special envoy of the Chinese government on the Middle East issue Zhai Jun visits Iran [Press release]. https://www.mfa.gov.cn/wjdt_674879/sjxw_674887/202611/t20261109_12055908.shtml",
+    "President of the State of Israel. (2026, November 8). President Herzog tasks Gadi Eisenkot with forming a government [Press release]. https://www.president.gov.il/en/president-herzog-tasks-gadi-eisenkot-with-forming-a-government/",
+    "PUKMEDIA. (2026, November 9). Dana Gas confirms Khor Mor attack, production halted as joint probe ordered. https://www.pukmedia.org/EN/Details/83364",
+    "Qatar Ministry of Foreign Affairs. (2026, November 3). Advisor to Prime Minister, official spokesperson for Ministry of Foreign Affairs: Qatar continues its efforts to bridge gap between Washington, Tehran. https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2026/11/03/advisor-to-prime-minister--official-spokesperson-for-ministry-of-foreign-affairs--qatar-continues-its-efforts-to-bridge-gap-between-washington--tehran",
+    "Ravid, B. (2026, November 8). Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call. Axios. https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan",
+    "Reuters. (2026a, November 7). Explosions heard in areas in southern Iran, Iranian media report. https://www.reuters.com/world/middle-east/explosions-heard-irans-qeshm-island-iranian-media-reports-2026-11-07/",
+    "Reuters. (2026b, November 7). Houthi-run health ministry says airstrikes kill 33 near Yemen capital. https://www.reuters.com/world/middle-east/houthi-run-health-ministry-says-airstrikes-it-blames-saudi-arabia-kill-27-near-2026-11-07/",
+    "Reuters. (2026c, November 8). Trump says he is highly unlikely to order Iran strikes if talks progress. https://www.reuters.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-both-sides-report-ships-hit-2026-11-08/",
+    "Reuters. (2026d, November 9). Iraq’s Khor Mor gas field suspends output after suspected drone attack, operator says. https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
+    "Sharon, J. (2026, November 7). Netanyahu demands “national unity” government as he claims Arab parties “want to eliminate Israel.” The Times of Israel. https://www.timesofisrael.com/liveblog_entry/netanyahu-demands-national-unity-government-as-he-claims-arab-parties-want-to-eliminate-israel/",
+    "Sherman, A., & Jacobson, L. (2026, November 3). Trump’s Election Day surprise: End US aid to Israel. But other strong financial ties would remain. PolitiFact. https://politifact.com/article/2026/nov/03/trump-netanyahu-israel-gaza-el-sayed-michigan/",
+    "Soltanzadeh, A. (2026, October 21). Can Iran’s rail network offset expanding US sanctions? Deutsche Welle. https://www.dw.com/en/us-sanctions-target-irans-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413",
+    "Stewart, P. (2026, November 7). Expanding on naval blockade, US military looks to restrict Iranian land commerce. Reuters. https://www.reuters.com/world/middle-east/expanding-naval-blockade-us-military-looks-restrict-iranian-land-commerce-2026-11-07/",
+    "U.S. Central Command. (2026a, November 7). CENTCOM launches task force to disrupt Iranian ground transit routes supporting illegal shipments [Press release]. https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/",
+    "U.S. Central Command. (2026b, November 7). U.S. forces disable cargo vessel attempting to violate naval blockade [Press release]. https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/",
+    "U.S. Congress. (2026a, June 23). H. Con. Res. 86, 119th Congress (enrolled). U.S. Government Publishing Office. https://www.govinfo.gov/content/pkg/BILLS-119hconres86enr/html/BILLS-119hconres86enr.htm",
+    "U.S. Congress. (2026b, October 1). House calendars, 119th Congress, 2nd session: History of bills and resolutions. U.S. Government Publishing Office. https://www.govinfo.gov/content/pkg/CCAL-119hcal-2026-10-01/html/CCAL-119hcal-2026-10-01-pt11.htm",
+    "U.S. Senate. (n.d.). Frequently asked questions about a new Congress. https://www.senate.gov/general/common/generic/NewCongress_faq.htm",
+    "U.S. Senate. (2026, September 24). Roll call vote 244: On H. Con. Res. 89, 119th Congress, 2nd session. https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.htm",
+    "U.S.-China Economic and Security Review Commission. (2026, March 16). China-Iran fact sheet: A short primer on the relationship. https://www.uscc.gov/research/china-iran-fact-sheet-short-primer-relationship",
+    "Wu, S. (2026a, September 21). The limits of strategic reach: Commitment overhang, power conversion, and the erosion of strategic optionality (EPINOVA Working Paper No. EPINOVA–WP–F–2026–13). EPINOVA LLC. https://doi.org/10.67037/epinova.wp.f.2026.013",
+    "Wu, S. (2026b, November 2). If strikes resume: Military readiness, regeneration, and strategic optionality in the U.S.–Israel–Iran conflict (EPINOVA Policy Brief No. EPINOVA–2026–PB–76). EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.076"
+  ],
+  "recommended_citation": "Wu, S. (2026). Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict: Political Transitions, Credible Constraints, and the Limits of Military Leverage (Policy Brief No. EPINOVA–2026–PB–77). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.077",
+  "citation_apa": "Wu, S. (2026). Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict: political transitions, credible constraints, and the limits of military leverage (Policy Brief No. EPINOVA–2026–PB–77). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.077",
+  "short_citation": "Wu (2026), Political Transitions and Armed Bargaining, EPINOVA–2026–PB–77.",
+  "figures": [
+    {
+      "number": "Figure 1",
+      "title": "Political Transition Points and the Decisions That Could Change War Policy",
+      "pages": [
+        3
+      ],
+      "description": "Schematic of distinct political transition timing and conditions for policy change; timing is illustrative, not proof of implementation."
+    },
+    {
+      "number": "Figure 2",
+      "title": "Actors, Instruments, and Observations in Armed Bargaining",
+      "pages": [
+        6
+      ],
+      "description": "Analytical schematic linking actor decisions to executed instruments and observed evidence, with feedback treated as a hypothesis."
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Evidence Required to Assess Military Reconstitution",
+      "pages": [
+        4
+      ],
+      "description": "Four assessment levels: procurement, production or repair, operational fielding, and net strategic effect, with distinctions between observations and unwarranted inferences."
+    },
+    {
+      "number": "Table 2",
+      "title": "Minimum Evidence for the Three Conflict Pathways",
+      "pages": [
+        7
+      ],
+      "description": "Evidence thresholds and reclassification rules for Pathway A, B and C including pending or watch status."
+    },
+    {
+      "number": "Table 3",
+      "title": "Iran’s Potential Post-Conflict Strengths, Constraints, and External Options",
+      "pages": [
+        7
+      ],
+      "description": "Qualitative inventory of domestic and external assets and structural constraints; illustrative and unweighted."
+    },
+    {
+      "number": "Table 4",
+      "title": "Decision Thresholds and Responses by Responsible Authority",
+      "pages": [
+        8
+      ],
+      "description": "Evidence requests and conditional responses for congressional committees, Israeli leadership, military planners, negotiators and maritime authorities."
+    }
+  ],
+  "appendices": [],
+  "measurement_rules": {
+    "political_signal_vs_authority": "Election projections, congressional debate and a coalition-formation mandate are distinct from adopted laws, installed authority and executed orders.",
+    "proposal_vs_implementation": "Negotiation proposals and diplomatic contacts do not establish reciprocal agreement compliance.",
+    "limited_action_vs_major_campaign": "An isolated strike, elevated alert or interdiction does not constitute renewed major operations without corroborated expansion, coordination or persistence.",
+    "stocks_vs_flows": "Procurement authorization, accepted production, delivered inventory and deployed readiness must be assessed separately.",
+    "route_count_vs_normalization": "Vessel transits are direction- and class-specific; commercial normalization additionally requires sustained route access, delivered cargo and insurance conditions.",
+    "attribution_vs_effect": "Observed civilian or infrastructure disruption does not establish an actor responsible for a broader military campaign.",
+    "scenario_status": "Pathways A, B and C are conditional state classifications, not forecasts; pending and watch classifications remain valid under incomplete information."
+  },
+  "funding": {
+    "statement": "No external funding information is specified in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software deposit is specified in the PDF.",
+    "repository_url": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "The analysis in this publication is based on publicly available information, official statements, media reporting, and the author’s independent analysis. It does not represent the official position of any government. This publication is intended solely for research and policy discussion and does not constitute legal, military, operational, or sanctions compliance advice.",
+  "metadata_source": {
+    "source_file": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Embedded PDF metadata inspection, page-layout and text review; transcription and reflow of 39 bibliography entries from PDF pages 10–12; EPINOVA PB-76 metadata schema adaptation.",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-11-09",
+    "last_updated": "2026-11-09",
+    "notes": "PDF dated November 9, 2026, 12 pages, 39 bibliography entries on pages 10–12, 2 numbered figures (pages 3 and 6), 4 numbered tables (pages 4, 7, 7 and 8). Crossref report DOI registration confirmed by author, not independently verified. Crossref references deposit has not been confirmed. Version v1.0 denotes the initial metadata release and is not an explicit PDF edition. No Creative Commons reuse license is stated in the supplied PDF. Expected landing page and repository publication have not been verified."
+  },
+  "pdf_metadata": {
+    "title": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict",
+    "author": "Shaoyuan Wu",
+    "subject": "Policy Brief",
+    "keywords": "Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict\r\nPolitical transitions, credible constraints, and the limits of military leverage",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261109104622-05'00'",
+    "modification_date": "D:20261109104622-05'00'",
+    "pages": 12,
+    "sha256": "a88d8f9503c84eb333a6ed29c145966e4b95fe6ce4130c943ee4315b97d47740"
+  },
+  "crossref": {
+    "status": "registered_author_reported",
+    "doi": "10.67037/epinova.pb.2026.077",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-077/",
+    "crossref_doi_suffix": "epinova.pb.2026.077",
+    "record_type": "report",
+    "registration_status": "Registered (author reported confirmation email; independent Crossref deposit log not inspected)"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief"
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "registered_author_reported",
+    "confirmation_status": "confirmed_by_email_author_reported",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.077",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.077",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-077/",
+    "registration_date": null,
+    "registration_agency": "Crossref",
+    "reference_deposit_status": "not_confirmed",
+    "reference_count_in_pdf": 39
+  }
+}

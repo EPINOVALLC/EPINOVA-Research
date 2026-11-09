@@ -1,0 +1,76 @@
+{
+  "epinova_id": "EPINOVA-ART-undated-the-limits-of-americas-political-reset",
+  "title": "The Limits of America’s Political Reset",
+  "full_title": "The Limits of America’s Political Reset",
+  "subtitle": "",
+  "creators": [
+    {
+      "name": "Shaoyuan Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "category": "articles",
+  "resource_type": "Text",
+  "publication_type": "Article",
+  "publication_date": "undated",
+  "version": "v1.0",
+  "status": "Archived from EPINOVA GoDaddy blog",
+  "language": "en",
+  "publisher": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+  "place": "Carrollton, Georgia, United States",
+  "doi": "To be assigned after Crossref registration",
+  "previous_doi": "",
+  "abstract": "Author: Dr. Shaoyuan Wu",
+  "description": "Author: Dr. Shaoyuan Wu",
+  "keywords": [],
+  "subjects": [
+    "AI governance",
+    "Strategic systems analysis",
+    "Technology policy"
+  ],
+  "license": {
+    "title": "All rights reserved",
+    "url": ""
+  },
+  "copyright": "© undated EPINOVA LLC. All rights reserved.",
+  "recommended_citation": "Wu, Shaoyuan. (undated). The Limits of America’s Political Reset. EPINOVA LLC. https://epinova.org/f/the-limits-of-america%E2%80%99s-political-reset",
+  "citation_apa": "Wu, Shaoyuan. (undated). The Limits of America’s Political Reset. EPINOVA LLC. https://epinova.org/f/the-limits-of-america%E2%80%99s-political-reset",
+  "original_page": "https://epinova.org/f/the-limits-of-america%E2%80%99s-political-reset",
+  "canonical_url": "",
+  "source_status": "archived_from_godaddy_blog_with_images",
+  "repository_folder": "Articles/undated_the-limits-of-americas-political-reset",
+  "official_page": "https://epinova.org/f/the-limits-of-america%E2%80%99s-political-reset",
+  "alternate_identifiers": [
+    {
+      "scheme": "URL",
+      "identifier": "https://epinova.org/f/the-limits-of-america%E2%80%99s-political-reset",
+      "description": "Original EPINOVA article page."
+    }
+  ],
+  "related_works": [],
+  "references": [],
+  "files": [
+    {
+      "filename": "article.html",
+      "content_type": "text/html",
+      "description": "Archived HTML copy of the original EPINOVA article, including locally preserved images."
+    },
+    {
+      "filename": "article.md",
+      "content_type": "text/markdown",
+      "description": "Markdown preservation copy of the article."
+    },
+    {
+      "filename": "article.txt",
+      "content_type": "text/plain",
+      "description": "Plain-text preservation copy of the article."
+    },
+    {
+      "filename": "assets/image-001.jpg",
+      "original_url": "https://img1.wsimg.com/isteam/stock/97633/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "content_type": "image/jpeg",
+      "description": "Locally archived image from the original EPINOVA article."
+    }
+  ]
+}
