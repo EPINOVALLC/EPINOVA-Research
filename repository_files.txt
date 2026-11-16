@@ -1,18 +1,7 @@
-Articles/undated_the-limits-of-americas-political-reset/article.html
-Articles/undated_the-limits-of-americas-political-reset/article.md
-Articles/undated_the-limits-of-americas-political-reset/article.txt
-Articles/undated_the-limits-of-americas-political-reset/assets/image-001.jpg
-Articles/undated_the-limits-of-americas-political-reset/metadata.json
-Policy Brief/2026/EPINOVA–2026–PB-77/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
-Policy Brief/2026/EPINOVA–2026–PB-77/metadata.json
-docs/articles/archive/undated_the-limits-of-americas-political-reset/article.html
-docs/articles/archive/undated_the-limits-of-americas-political-reset/article.md
-docs/articles/archive/undated_the-limits-of-americas-political-reset/article.txt
-docs/articles/archive/undated_the-limits-of-americas-political-reset/assets/image-001.jpg
-docs/articles/archive/undated_the-limits-of-americas-political-reset/metadata.json
-docs/epinova-pb-2026-077/index.html
-docs/files/epinova-pb-2026-077/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
-tools/import_epinova_articles.py
+Policy Brief/2026/EPINOVA–2026–PB-78/AI in China's Higher Education From National Strategy to Educational Value.pdf
+Policy Brief/2026/EPINOVA–2026–PB-78/metadata.json
+docs/epinova-pb-2026-078/index.html
+docs/files/epinova-pb-2026-078/AI in China's Higher Education From National Strategy to Educational Value.pdf
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -653,6 +642,11 @@ Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-02
 Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-021.jpg
 Articles/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-022.jpg
 Articles/undated_the-four-volume-gaidcef-series-is-now-available/metadata.json
+Articles/undated_the-limits-of-americas-political-reset/article.html
+Articles/undated_the-limits-of-americas-political-reset/article.md
+Articles/undated_the-limits-of-americas-political-reset/article.txt
+Articles/undated_the-limits-of-americas-political-reset/assets/image-001.jpg
+Articles/undated_the-limits-of-americas-political-reset/metadata.json
 Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_19_37.png
 Book/EPINOVA-BK-2026-001/ChatGPT Image 2026年9月10日 04_39_18.png
 Book/EPINOVA-BK-2026-001/cover.pdf
@@ -840,6 +834,8 @@ Policy Brief/2026/EPINOVA–2026–PB-75/The Reconfiguration of War Power Cross-
 Policy Brief/2026/EPINOVA–2026–PB-75/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-76/If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-76/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-77/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
+Policy Brief/2026/EPINOVA–2026–PB-77/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1554,6 +1550,11 @@ docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/as
 docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-021.jpg
 docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/assets/image-022.jpg
 docs/articles/archive/undated_the-four-volume-gaidcef-series-is-now-available/metadata.json
+docs/articles/archive/undated_the-limits-of-americas-political-reset/article.html
+docs/articles/archive/undated_the-limits-of-americas-political-reset/article.md
+docs/articles/archive/undated_the-limits-of-americas-political-reset/article.txt
+docs/articles/archive/undated_the-limits-of-americas-political-reset/assets/image-001.jpg
+docs/articles/archive/undated_the-limits-of-americas-political-reset/metadata.json
 docs/articles/index.html
 docs/assets/global-ai-governance-logo.png
 docs/books/index.html
@@ -1652,6 +1653,7 @@ docs/epinova-pb-2026-073/index.html
 docs/epinova-pb-2026-074/index.html
 docs/epinova-pb-2026-075/index.html
 docs/epinova-pb-2026-076/index.html
+docs/epinova-pb-2026-077/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1807,6 +1809,7 @@ docs/files/epinova-pb-2026-073/ASEAN in the Emerging AI Power Order Distributed 
 docs/files/epinova-pb-2026-074/South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf
 docs/files/epinova-pb-2026-075/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
 docs/files/epinova-pb-2026-076/If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf
+docs/files/epinova-pb-2026-077/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
@@ -1876,7 +1879,7 @@ repository_files.txt
 tools/checklist.txt
 tools/fix_all_mojibake.py
 tools/generate_landing_pages.py
-tools/import_epinova_articles_fixed.py
+tools/import_epinova_articles.py
 tools/normalize_non_pb_metadata_ids.py
 tools/old/generate_landing_pages (2).py
 tools/old/generate_landing_pages.py

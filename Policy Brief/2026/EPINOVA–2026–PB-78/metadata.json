@@ -1,0 +1,346 @@
+{
+  "epinova_id": "EPINOVA-PB-2026-078",
+  "record_type": "Publication",
+  "resource_type": "Report",
+  "publication_type": "Policy Brief",
+  "category": "policy-briefs",
+  "publication_series": "EPINOVA Policy Brief Series",
+  "series_code": "PB",
+  "series_number": "2026-078",
+  "title": "AI in China's Higher Education: From National Strategy to Educational Value",
+  "subtitle": "Faculty Development, Disciplinary Implementation, and the Evidence Needed to Assess Learning",
+  "full_title": "AI in China's Higher Education: From National Strategy to Educational Value: Faculty Development, Disciplinary Implementation, and the Evidence Needed to Assess Learning",
+  "title_normalized": "ai in china s higher education from national strategy to educational value faculty development disciplinary implementation and the evidence needed to assess learning",
+  "publication_date": "2026-11-16",
+  "version": "v1.0",
+  "language": "en",
+  "status": "Published",
+  "visibility": "Public",
+  "creators": [
+    {
+      "name": "Wu, Shaoyuan",
+      "given_name": "Shaoyuan",
+      "family_name": "Wu",
+      "affiliation": "Global AI Governance and Policy Research Center, EPINOVA LLC",
+      "orcid": "https://orcid.org/0009-0008-0660-8232"
+    }
+  ],
+  "contributors": [],
+  "publisher": "EPINOVA LLC",
+  "publisher_unit": "Global AI Governance and Policy Research Center",
+  "place": "United States",
+  "doi": "https://doi.org/10.67037/epinova.pb.2026.078",
+  "landing_page": "https://publications.epinova.org/epinova-pb-2026-078/",
+  "official_page": "https://epinova.org/policy-brief-1",
+  "alternate_identifiers": [
+    {
+      "identifier": "EPINOVA–2026–PB–78",
+      "scheme": "EPINOVA publication number",
+      "description": "Identifier printed on PDF cover"
+    },
+    {
+      "identifier": "AI in China's Higher Education From National Strategy to Educational Value.pdf",
+      "scheme": "Source PDF filename"
+    }
+  ],
+  "description": "This policy brief examines how China's national AI strategy is being translated into higher education policy, faculty development, and discipline-specific teaching. Drawing on official policy documents, university training notices, international guidance, and sixteen selected faculty training session summaries, it identifies the gap between AI adoption and demonstrated educational value. The analysis compares teaching applications across the humanities, social sciences, economics, archaeology, laboratories, and physical education, emphasizing disciplinary validity, teacher oversight, student autonomy, and safety. It proposes distinct evidence layers for access, implementation, assisted performance, and durable independent capability, alongside safeguards for privacy and equity. The brief argues that training certificates, usage metrics, efficiency gains, and polished AI outputs cannot substitute for independently verified learning, retention, transfer, and responsible educational decisions.",
+  "short_description": "This policy brief examines China's integration of AI into higher education through national policy, faculty training, and sixteen selected teaching sessions. It distinguishes adoption and assisted performance from durable learning, independent reasoning, and equitable educational value. It proposes discipline-specific verification, accountable teacher oversight, and evidence-based evaluation before AI programs are scaled.",
+  "abstract": "This policy brief examines how China's national artificial intelligence strategy is being translated into higher education policy, faculty development, and disciplinary teaching practices. Drawing on official policy documents, university training notices, international guidance, and sixteen selected faculty training session summaries, it analyzes the relationship between institutional implementation and educational value. The cases span humanities, social sciences, economics, archaeology, experimental teaching, and physical education, highlighting differences in disciplinary validity, human oversight, and safety requirements. The brief distinguishes AI access, implementation fidelity, assisted task performance, and durable independent learning as separate levels of evidence. It argues that training participation, adoption rates, efficiency gains, and polished AI outputs do not independently demonstrate educational effectiveness. Policy recommendations address evidence quality, faculty competence, institutional accountability, technical governance, equitable access, and risk proportionate evaluation. The analysis concludes that China's next challenge is to convert expanding AI integration into verifiable improvements in learning, independent reasoning, knowledge transfer, and educational opportunity, while preserving innovation and appropriate safeguards.",
+  "keywords": [
+    "China higher education",
+    "AI in education",
+    "AI education policy",
+    "AI + Education Action Plan",
+    "education digitalization",
+    "faculty development",
+    "AI-empowered teaching",
+    "teacher competency",
+    "discipline-specific pedagogy",
+    "educational value",
+    "independent learning",
+    "knowledge transfer",
+    "learning assessment",
+    "implementation fidelity",
+    "human oversight",
+    "human-AI collaboration",
+    "educational equity",
+    "student autonomy",
+    "AI risk management",
+    "model version governance",
+    "higher education governance",
+    "EPINOVA"
+  ],
+  "subjects": [
+    "Higher education policy",
+    "Artificial intelligence in education",
+    "Education governance",
+    "Faculty development",
+    "Educational assessment",
+    "Digital education",
+    "Teaching and learning",
+    "Educational technology",
+    "AI governance",
+    "Academic integrity and independent mastery",
+    "Education equity and accessibility",
+    "Technology risk management",
+    "China education policy"
+  ],
+  "dates": [
+    {
+      "date": "2026-11-16",
+      "date_type": "Issued",
+      "description": "Publication date printed on PDF"
+    },
+    {
+      "date": "2026-11-16",
+      "date_type": "Metadata generated",
+      "description": "Metadata prepared using the supplied PDF and author-reported Crossref registration confirmation"
+    }
+  ],
+  "license": {
+    "status": "not_specified_in_pdf",
+    "note": "The supplied PB-78 PDF does not state a Creative Commons or other reuse license. No license was inferred from other publications."
+  },
+  "files": [
+    {
+      "label": "Download PDF",
+      "filename": "AI in China's Higher Education From National Strategy to Educational Value.pdf",
+      "content_type": "application/pdf",
+      "format": "application/pdf",
+      "description": "Full-text PDF of the policy brief",
+      "pages": 10
+    }
+  ],
+  "repository_url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+  "repository_folder": "Policy Brief/2026/EPINOVA–2026–PB-78",
+  "source_repository": {
+    "platform": "GitHub",
+    "organization": "EPINOVALLC",
+    "repository": "EPINOVA-Research",
+    "url": "https://github.com/EPINOVALLC/EPINOVA-Research",
+    "archive_status": "not_verified",
+    "notes": "Expected repository directory only. This local metadata file has not been uploaded or verified in GitHub, and the corresponding landing page has not been checked. The landing-page generator expects files[].filename adjacent to metadata.json."
+  },
+  "series_information": {
+    "series_name": "EPINOVA Policy Brief Series on AI Governance, Strategic Competition, Geopolitics, and Emerging Security",
+    "series_code": "PB",
+    "series_number": "2026-078"
+  },
+  "methodology": {
+    "framework_name": "Policy implementation and layered evidence assessment for AI in higher education",
+    "research_design": "Qualitative policy analysis combining national education directives, public university training notices, sixteen purposively selected faculty-training session summaries, international AI education guidance, and published faculty adoption research. Includes two illustrative micro-level validation tests and six policy implementation levels; no nationally representative or causal learning-outcome estimate.",
+    "source_basis": "Official Chinese education and AI policy documents from 2025–2026; university notices on 2026 faculty training; the author’s archive of sixteen session summaries and competency materials; UNESCO and NIST guidance; published studies of faculty adoption.",
+    "theater_scope": [],
+    "primary_domains": [
+      "National education digitalization and AI policy",
+      "Faculty training and professional competence",
+      "Discipline-specific teaching implementation",
+      "Student independent mastery and transfer",
+      "Human review, accessibility and safety",
+      "Technical procurement, vendor accountability and statistical governance"
+    ],
+    "evidence_cutoff": null,
+    "evidence_cutoff_timezone": null,
+    "prospective_assessment_window": null,
+    "core_test": "Distinguish AI access, training completion, and assisted task performance from independently verified changes in learning, retention, transfer, educational equity, and safety.",
+    "qualification": "Sixteen session summaries are purposive examples and have not been fully re-audited. Proposed classroom stress tests are illustrative, not observed failures. The brief does not estimate national uptake rates, causal learning effects, or measured net educational value."
+  },
+  "ctcc_evidence_gates": [],
+  "propositions": [],
+  "case_evidence_stages": [],
+  "energy_buffer_measurements": [],
+  "scenario_matrix": null,
+  "key_findings": [
+    "China's 2025–2026 policy architecture encompasses AI literacy, curricula, teacher capacity, research infrastructure, evaluation, and safeguards; stated policy objectives are not themselves evidence of local implementation.",
+    "Faculty training transmits practices and policy expectations, but attendance, course count, or certification does not demonstrate subsequent classroom performance or student learning.",
+    "The sixteen selected sessions illustrate diverse instructional workflows; they are not a representative sample of Chinese universities or an independent evaluation of teaching outcomes.",
+    "Disciplinary validity standards differ across humanities, language, economics, archaeology, laboratories, and physical education; safety-critical applications require stronger human and independent protections.",
+    "Teachers are framed as learning designers and accountable reviewers of AI-generated output rather than merely prompt operators.",
+    "AI access and participation, implementation fidelity, assisted performance, and durable independent capability are distinct evidence layers.",
+    "Efficient or polished AI-assisted outputs cannot establish independent mastery, retention, or transfer to unfamiliar tasks.",
+    "Educational value should account for privacy, accessibility, student autonomy, teacher verification labor, displaced independent practice, and potential harms.",
+    "Model updates, retrieval changes, and vendor data practices can undermine reproducibility and require risk-proportionate revalidation.",
+    "The policy challenge is to make educational-effect evaluation operational without conflating proposed safeguards with observed failures or suppressing low-risk innovation."
+  ],
+  "policy_recommendations": [
+    "At the national and provincial levels, require auditable evaluation summaries before promoting exemplary AI cases as transferable models, while allowing discipline-specific implementation.",
+    "Universities should specify permissible AI use and assess independent or delayed learning outcomes alongside teacher review protocols and student alternatives.",
+    "Training programs should evaluate implemented course artifacts, disciplinary judgment, and follow-up practice rather than rely on certificates or attendance counts.",
+    "Technology providers and institutions should document versions, retrieval sources, data flows, privacy protections, accessibility, change notices, and regression tests; consequential functions require validated fallback arrangements.",
+    "Procurement and employer partnerships should be assessed against independently documented learning, fairness, security, and public-interest outcomes instead of platform adoption alone.",
+    "Assessment systems should report denominators, baselines, missing data, nonrandom selection, negative findings, and differences between descriptive, associational, and causal claims.",
+    "Preserve student autonomy, meaningful human appeal, and proportionate safeguards while isolating demonstrable safety-critical failures rather than banning all educational uses."
+  ],
+  "decision_triggers": [
+    {
+      "question": "Can an AI teaching pilot be described as improving student learning?",
+      "required_evidence": "An aligned outcome rubric, a baseline, documented AI permissions and human review, plus at least one independent or delayed assessment of student capability."
+    },
+    {
+      "question": "Can a faculty training certificate establish competent classroom implementation?",
+      "required_evidence": "Implemented course artifacts, demonstrable disciplinary judgment, observed teaching practice and follow-up assessment rather than completion counts."
+    },
+    {
+      "question": "Should a national exemplary program be expanded to other institutions?",
+      "required_evidence": "An auditable evaluation synopsis covering its unit of intervention, baseline, use conditions, independent outcomes, accessibility and failure reporting."
+    },
+    {
+      "question": "Has a model or vendor change affected educational validity?",
+      "required_evidence": "Documented material changes, regression evaluation on a frozen test set, and reauthorization or validated fallback for consequential use cases."
+    },
+    {
+      "question": "Are AI-supported learning benefits equitably distributed?",
+      "required_evidence": "Subgroup-specific access and outcome data, disability and language accommodations, error-correction burdens, privacy records, and meaningful appeals."
+    },
+    {
+      "question": "Can outcomes be compared across courses or institutions?",
+      "required_evidence": "Comparable units and assessment instruments, denominators, missingness, exposure intensity, uncertainty measures when justified, and appropriate causal limitations."
+    },
+    {
+      "question": "Should a safety-sensitive AI-controlled function continue operating?",
+      "required_evidence": "A proportionate risk assessment, independent physical or human protections, incident response and reauthorization following credible material harm."
+    }
+  ],
+  "related_works": [
+    {
+      "relation": "IsPartOf",
+      "identifier": "https://epinova.org/policy-brief-1",
+      "scheme": "URL",
+      "resource_type": "Publication series",
+      "description": "EPINOVA Policy Brief Series"
+    },
+    {
+      "relation": "References",
+      "identifier": "10.3389/frai.2026.1847439",
+      "scheme": "DOI",
+      "resource_type": "Journal article",
+      "description": "Gao and Yang (2026), faculty adoption of AI-assisted teaching tools in Chinese higher education."
+    },
+    {
+      "relation": "References",
+      "identifier": "10.1007/s10639-026-13931-3",
+      "scheme": "DOI",
+      "resource_type": "Journal article",
+      "description": "Luo and Day (2026), lecturer readiness to adopt generative AI in higher education."
+    },
+    {
+      "relation": "References",
+      "identifier": "10.6028/NIST.AI.100-1",
+      "scheme": "DOI",
+      "resource_type": "Framework",
+      "description": "NIST (2023), Artificial Intelligence Risk Management Framework 1.0."
+    }
+  ],
+  "references": [
+    "Central Committee of the Communist Party of China & State Council of the People's Republic of China. (2025, January 19). Outline for building an education powerhouse (2024–2035) [教育强国建设规划纲要（2024—2035年）]. https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202501/t20250119_1176193.html",
+    "Gao, J., & Yang, W. (2026). Faculty adoption of AI-assisted teaching tools in Chinese higher education: An integrated UTAUT2–TAM framework at Shanghai University. Frontiers in Artificial Intelligence, 9, Article 1847439. https://doi.org/10.3389/frai.2026.1847439",
+    "Guilin Medical University. (2026, November 3). Notice on the 2026 AI-empowered talent development in higher education faculty training series [关于开展2026年度“人工智能赋能高等教育人才培养”系列师资培训的通知]. https://www.glmu.edu.cn/jsfzzx/info/1034/2730.htm",
+    "Guilin University of Electronic Technology. (2026, November 2). Notice on the 2026 AI-empowered talent development in higher education faculty training series [关于开展2026年度“人工智能赋能高等教育人才培养”系列师资培训的通知]. https://www.guet.edu.cn/utsc/2026/1102/c5309a161862/page.htm",
+    "Henan Normal University. (2026, October 29). Notice on participating in the 2026 national faculty training series [关于组织参加教育部“人工智能赋能高等教育人才培养”系列师资培训的通知]. https://www.htu.edu.cn/jszx/2026/1028/c23439a409871/page.htm",
+    "Luo, Y., & Day, M. J. (2026). Determinants of lecturer readiness to adopt generative AI in higher education: Survey evidence from UTAUT and self-determination theory. Education and Information Technologies, 31, 3399–3430. https://doi.org/10.1007/s10639-026-13931-3",
+    "Ministry of Education of the People's Republic of China, Cyberspace Administration of China, National Development and Reform Commission, Ministry of Science and Technology, Ministry of Industry and Information Technology, Ministry of Public Security, Ministry of Finance, Ministry of Human Resources and Social Security, & National Data Administration. (2025, April 11). Opinions on accelerating education digitalization [关于加快推进教育数字化的意见]. https://www.moe.gov.cn/srcsite/A01/s7048/202504/t20250416_1187476.html",
+    "Ministry of Education of the People's Republic of China, National Development and Reform Commission, Ministry of Industry and Information Technology, Ministry of Science and Technology, & National Data Administration. (2026, April 2). AI + education action plan [“人工智能+教育”行动计划]. https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html",
+    "National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). https://doi.org/10.6028/NIST.AI.100-1",
+    "State Council of the People's Republic of China. (2025, August 21). Opinions on deeply implementing the “AI+” initiative [国务院关于深入实施“人工智能+”行动的意见]. https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm",
+    "UNESCO. (2023). Guidance for generative AI in education and research. https://unesdoc.unesco.org/ark:/48223/pf0000386693",
+    "UNESCO. (2024). AI competency framework for teachers. https://unesdoc.unesco.org/ark:/48223/pf0000391104",
+    "Wu, S. (2026). AI-empowered talent development in higher education: Sixteen training-session summaries and future-teacher competency assessment materials [Unpublished research notes]. EPINOVA LLC."
+  ],
+  "recommended_citation": "Wu, S. (2026). AI in China's Higher Education: From National Strategy to Educational Value (Policy Brief No. EPINOVA–2026–PB–78). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.078",
+  "citation_apa": "Wu, S. (2026). AI in China's higher education: From national strategy to educational value (Policy Brief No. EPINOVA–2026–PB–78). Global AI Governance and Policy Research Center, EPINOVA LLC. https://doi.org/10.67037/epinova.pb.2026.078",
+  "short_citation": "Wu (2026), AI in China's Higher Education, EPINOVA–2026–PB–78.",
+  "figures": [],
+  "tables": [
+    {
+      "number": "Table 1",
+      "title": "Minimum Evidence for Different Educational Claims",
+      "pages": [
+        6
+      ],
+      "description": "Evidence ladder contrasting access and uptake, implementation fidelity, assisted performance, durable capability, safety and equity, and net educational value, including what each evidence level does not establish."
+    }
+  ],
+  "appendices": [],
+  "measurement_rules": {
+    "policy_vs_implementation": "Official policy objectives or institutional notices do not establish actual course adoption, effective practice, or national implementation rates.",
+    "training_vs_competence": "Training participation, certificates, and stated teacher readiness must be distinguished from observable competent teaching and independently reviewed course artifacts.",
+    "assisted_output_vs_independent_mastery": "AI-assisted work quality and tool efficiency do not establish student knowledge retention, independent reasoning, or transfer to unfamiliar tasks.",
+    "four_evidence_layers": "Distinguish access and participation, implementation fidelity, assisted task performance, and durable independent capability; assess safety and equity across these layers.",
+    "disciplinary_validity": "Requirements for historical source provenance, social science assumptions, language revision, physical safety, and human authorization vary by disciplinary context.",
+    "observed_cases_vs_inference": "Sixteen purposive training summaries are examples, not national representation; illustrative stress tests and safeguards are not observed incidents or demonstrated outcomes.",
+    "evaluation_and_causality": "Specify units, baselines, appropriate comparisons, missing data, subgroup coverage, and descriptive versus associational versus causal interpretation.",
+    "technical_change_control": "Track model, alignment, retrieval, version, and data-processing changes; consequential uses require documented regression evaluation and risk-proportionate fallbacks.",
+    "net_educational_value": "Consider independent learning gains together with displaced student practice, teacher verification work, accessibility, privacy, and material harms."
+  },
+  "funding": {
+    "statement": "No external funding information is specified in the PDF.",
+    "funders": [],
+    "awards": []
+  },
+  "software": {
+    "statement": "No software deposit is specified in the PDF.",
+    "repository_url": ""
+  },
+  "conference": null,
+  "journal": null,
+  "thesis": null,
+  "disclaimer": "This publication is based on publicly available information, official documents, relevant research, and the author’s independent analysis. It does not represent the official views of any government, institution, or organization discussed. The findings and recommendations are intended solely for independent research and policy discussion and do not constitute legal, regulatory, or professional advice.",
+  "metadata_source": {
+    "source_file": "AI in China's Higher Education From National Strategy to Educational Value.pdf",
+    "source_type": "PDF",
+    "extraction_method": "Embedded PDF metadata inspection, rendered-page layout review, extraction and reflow of the thirteen references on PDF page 10, and adaptation of the EPINOVA PB-76 metadata schema.",
+    "created_by": "EPINOVA LLC",
+    "created_date": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "notes": "PB-78 is dated November 16, 2026. The PDF has 10 pages, 13 bibliography entries on page 10, one numbered table on page 6, and no numbered figures. The subtitle appears below the title on the cover but is not part of the recommended-citation title. Version v1.0 denotes the first metadata release, not an edition stated by the PDF. Crossref registration was confirmed to the assistant by the author, but the deposit log and reference-deposit status have not been independently inspected. The expected public landing page and repository upload have not been verified. The PDF does not specify a reuse license."
+  },
+  "pdf_metadata": {
+    "title": "AI in China's Higher Education: From National Strategy to Educational Value",
+    "author": "Shaoyuan Wu",
+    "subject": "Policy Brief",
+    "keywords": "Faculty Development, Disciplinary Implementation, and the Evidence Needed to Assess Learning",
+    "creator": "Microsoft® PowerPoint® 2024",
+    "producer": "Microsoft® PowerPoint® 2024",
+    "creation_date": "D:20261116110942-05'00'",
+    "modification_date": "D:20261116110942-05'00'",
+    "pages": 10,
+    "sha256": "14ed19b1722351e5bc6c9d238ca4f940d05aaa1c4887e6ece8d6788cc4a0d5f3"
+  },
+  "crossref": {
+    "status": "registered_author_reported",
+    "doi": "10.67037/epinova.pb.2026.078",
+    "deposit_ready": true,
+    "crossref_url": "https://publications.epinova.org/epinova-pb-2026-078/",
+    "crossref_doi_suffix": "epinova.pb.2026.078",
+    "record_type": "report",
+    "registration_status": "Registered (author reported confirmation email; independent Crossref deposit log not inspected)"
+  },
+  "datacite": {
+    "status": "not_registered_for_this_publication",
+    "doi": "",
+    "deposit_ready": false,
+    "resource_type_general": "Text",
+    "resource_type": "Policy Brief"
+  },
+  "orcid": {
+    "put_code": "",
+    "source": "",
+    "record_date": ""
+  },
+  "crossref_deposit": {
+    "deposit_method": "Crossref Web Deposit Form",
+    "web_deposit_form_version": "1.12.9",
+    "record_type_selected": "Report",
+    "report_deposit_type": "Report",
+    "submission_status": "registered_author_reported",
+    "confirmation_status": "confirmed_by_email_author_reported",
+    "deposit_xml_file": "",
+    "registered_doi": "10.67037/epinova.pb.2026.078",
+    "registered_doi_url": "https://doi.org/10.67037/epinova.pb.2026.078",
+    "registered_url": "https://publications.epinova.org/epinova-pb-2026-078/",
+    "registration_date": null,
+    "registration_agency": "Crossref",
+    "reference_deposit_status": "not_confirmed",
+    "reference_count_in_pdf": 13
+  }
+}

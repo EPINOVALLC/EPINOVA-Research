@@ -226,6 +226,13 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
 
 ### Policy Briefs
 
+- **EPINOVA-PB-2026-078** (2026-11-16)  
+  **AI in China's Higher Education: From National Strategy to Educational Value: Faculty Development, Disciplinary Implementation, and the Evidence Needed to Assess Learning**  
+  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
+  DOI: [10.67037/epinova.pb.2026.078](https://doi.org/10.67037/epinova.pb.2026.078)  
+  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-78/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-78)  
+  Source PDF: [`AI in China's Higher Education From National Strategy to Educational Value.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-78/AI%20in%20China%27s%20Higher%20Education%20From%20National%20Strategy%20to%20Educational%20Value.pdf)
+
 - **EPINOVA-PB-2026-077** (2026-11-09)  
   **Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict: Political Transitions, Credible Constraints, and the Limits of Military Leverage**  
   Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
@@ -253,13 +260,6 @@ DOI: Temporary archival DOI shown when available; otherwise to be assigned or up
   DOI: [10.67037/epinova.pb.2026.074](https://doi.org/10.67037/epinova.pb.2026.074)  
   Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-74/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-74)  
   Source PDF: [`South Korea’s AI Power under Uneven Interdependence Semiconductor Depth, National Conversion, and the KIC Model-Selection Case.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-74/South%20Korea%E2%80%99s%20AI%20Power%20under%20Uneven%20Interdependence%20Semiconductor%20Depth%2C%20National%20Conversion%2C%20and%20the%20KIC%20Model-Selection%20Case.pdf)
-
-- **EPINOVA-PB-2026-073** (2026-10-11)  
-  **ASEAN in the Emerging AI Power Order: Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy**  
-  Publication page: [https://epinova.org/policy-brief-1](https://epinova.org/policy-brief-1)  
-  DOI: [10.67037/epinova.pb.2026.073](https://doi.org/10.67037/epinova.pb.2026.073)  
-  Source folder: [`Policy Brief/2026/EPINOVA–2026–PB-73/`](https://github.com/EPINOVALLC/EPINOVA-Research/tree/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-73)  
-  Source PDF: [`ASEAN in the Emerging AI Power Order Distributed National Nodes, Overlapping Technological Systems, and Strategic Autonomy.pdf`](https://github.com/EPINOVALLC/EPINOVA-Research/blob/main/Policy%20Brief/2026/EPINOVA%E2%80%932026%E2%80%93PB-73/ASEAN%20in%20the%20Emerging%20AI%20Power%20Order%20Distributed%20National%20Nodes%2C%20Overlapping%20Technological%20Systems%2C%20and%20Strategic%20Autonomy.pdf)
 
 ---
 
