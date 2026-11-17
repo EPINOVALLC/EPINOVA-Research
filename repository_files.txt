@@ -1,7 +1,13 @@
-Policy Brief/2026/EPINOVA–2026–PB-78/AI in China's Higher Education From National Strategy to Educational Value.pdf
-Policy Brief/2026/EPINOVA–2026–PB-78/metadata.json
-docs/epinova-pb-2026-078/index.html
-docs/files/epinova-pb-2026-078/AI in China's Higher Education From National Strategy to Educational Value.pdf
+Articles/undated_who-gets-to-define-legitimate-ai-use/article.html
+Articles/undated_who-gets-to-define-legitimate-ai-use/article.md
+Articles/undated_who-gets-to-define-legitimate-ai-use/article.txt
+Articles/undated_who-gets-to-define-legitimate-ai-use/assets/image-001.jpg
+Articles/undated_who-gets-to-define-legitimate-ai-use/metadata.json
+docs/articles/archive/undated_who-gets-to-define-legitimate-ai-use/article.html
+docs/articles/archive/undated_who-gets-to-define-legitimate-ai-use/article.md
+docs/articles/archive/undated_who-gets-to-define-legitimate-ai-use/article.txt
+docs/articles/archive/undated_who-gets-to-define-legitimate-ai-use/assets/image-001.jpg
+docs/articles/archive/undated_who-gets-to-define-legitimate-ai-use/metadata.json
 .gitignore
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.html
 Articles/2025-02-13_how-ai-and-corporate-principles-are-reshaping-government/article.md
@@ -836,6 +842,8 @@ Policy Brief/2026/EPINOVA–2026–PB-76/If Strikes Resume Military Readiness, R
 Policy Brief/2026/EPINOVA–2026–PB-76/metadata.json
 Policy Brief/2026/EPINOVA–2026–PB-77/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
 Policy Brief/2026/EPINOVA–2026–PB-77/metadata.json
+Policy Brief/2026/EPINOVA–2026–PB-78/AI in China's Higher Education From National Strategy to Educational Value.pdf
+Policy Brief/2026/EPINOVA–2026–PB-78/metadata.json
 Policy Report/2025/EPINOVA–2025–PR–01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 Policy Report/2025/EPINOVA–2025–PR–01/metadata.json
 README.md
@@ -1654,6 +1662,7 @@ docs/epinova-pb-2026-074/index.html
 docs/epinova-pb-2026-075/index.html
 docs/epinova-pb-2026-076/index.html
 docs/epinova-pb-2026-077/index.html
+docs/epinova-pb-2026-078/index.html
 docs/epinova-pr-2025-001/index.html
 docs/epinova-pr-2025-01/index.html
 docs/epinova-rr-2025-001/index.html
@@ -1810,6 +1819,7 @@ docs/files/epinova-pb-2026-074/South Korea’s AI Power under Uneven Interdepend
 docs/files/epinova-pb-2026-075/The Reconfiguration of War Power Cross-Theater Coupling, Strategic Capacity, and Asymmetric War Termination.pdf
 docs/files/epinova-pb-2026-076/If Strikes Resume Military Readiness, Regeneration, and Strategic Optionality in the U.S.–Israel–Iran Conflict.pdf
 docs/files/epinova-pb-2026-077/Political Transitions and Armed Bargaining in the U.S.–Israel–Iran Conflict.pdf
+docs/files/epinova-pb-2026-078/AI in China's Higher Education From National Strategy to Educational Value.pdf
 docs/files/epinova-pr-2025-001/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-pr-2025-01/Nonlinear Uncertainty in Drone Warfare Why Indeterminacy Outperforms Precision in Contested ISR Environments.pdf
 docs/files/epinova-rr-2025-001/From Detection to Depletion Cost-Exchange Limits in the Russia–Ukraine Drone War.pdf
